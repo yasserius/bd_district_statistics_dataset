@@ -1,0 +1,19 @@
+,0,1,2,3,4,5,6
+0,Police personnel and criminal offences by municipality 2011,,,,,,
+1,"
+Municipality",Police personnel,Criminal offence,Criminal offence,Traffic accident (Reported),Traffic accident (Reported),Traffic accident (Reported)
+2,"
+Municipality",Police personnel,Number of offence,Number of case filled,Number of accident,Persons killed,Persons injured
+3,Basail,0,0,0,0,0,0
+4,Bhuapur,30,34,34,0,0,0
+5,Delduar,0,0,0,0,0,0
+6,Dhanbari,6,23,23,1,1,0
+7,Ghatail,48,735,360,20,2,18
+8,Gopalpur,44,58,58,1,0,1
+9,Kalihati,45,297,297,0,0,0
+10,Madhupur,8,1,1,0,0,0
+11,Mirzapur,8,112,34,4,2,8
+12,Nagarpur,0,0,0,0,0,0
+13,Sakhipur,40,171,171,5,5,0
+14,Tangail Sadar,63,235,190,3,3,1
+15,Total,292,1666,1168,34,13,28

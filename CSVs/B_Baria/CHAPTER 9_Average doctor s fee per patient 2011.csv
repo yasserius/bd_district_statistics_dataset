@@ -1,0 +1,17 @@
+,0,1,2,3,4,5
+0,Average doctor s fee per patient 2011,,,,,
+1,(Fee in taka),,,,,
+2,"
+Upazila",Doctor,Doctor,Doctor,Doctor,Doctor
+3,"
+Upazila",MBBS,FCPS,Dentist,Gynaecologist,Homeopathy
+4,Akhaura,500,800,500,800,100
+5,Ashuganj,200,400,200,400,0
+6,Banchharampur,200,300,100,200,0
+7,Bijoynagar,300,400,350,0,100
+8,Brahmanbaria Sadar,300,400,350,400,0
+9,Kasba,300,0,200,300,100
+10,Nabinagar,200,0,100,300,0
+11,Nasirnagar,500,600,500,500,0
+12,Sarail,200,300,300,300,0
+13,Average,2700,3200,2600,3200,300

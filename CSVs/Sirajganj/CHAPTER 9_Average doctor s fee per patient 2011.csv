@@ -1,0 +1,15 @@
+,0,1,2,3,4,5
+0,Average doctor s fee per patient 2011,,,,,
+1,(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka)
+2,Upazila,Doctor,Doctor,Doctor,Doctor,Doctor
+3,Upazila,MBBS,FCPS,Dentist,Gynaecologist,Homeopathy
+4,Belkuchi,250,200,200,250,50
+5,Chauhali,200,300,200,200,50
+6,Kamarkhanda,200,0,200,200,50
+7,Kazipur,200,350,300,350,50
+8,Royganj,200,300,200,200,50
+9,Shahjadpur,100,300,250,200,50
+10,Sirajganj Sadar,200,300,300,250,50
+11,Tarash,200,0,200,200,50
+12,Ullahpara,200,300,200,200,50
+13,Average,195,293,228,228,50

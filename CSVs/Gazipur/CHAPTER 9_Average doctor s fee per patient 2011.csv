@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,Average doctor s fee per patient 2011,,,,,
+1,(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka)
+2,"
+Upazila",Doctor,Doctor,Doctor,Doctor,Doctor
+3,"
+Upazila",MBBS,FCPS,Dentist,Gynecologist,Homeopathy
+4,Gazipur Sadar,300,500,300,500,200
+5,Kaliakair,200,300,200,300,150
+6,Kaliganj,200,300,200,350,10
+7,Kapashia,200,300,200,300,30
+8,Sreepur,100,300,100,100,50
+9,Average,200,340,200,310,88

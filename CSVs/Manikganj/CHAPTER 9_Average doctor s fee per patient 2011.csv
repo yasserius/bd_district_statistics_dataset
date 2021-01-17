@@ -1,0 +1,15 @@
+,0,1,2,3,4,5
+0,Average doctor s fee per patient 2011,,,,,
+1,(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka)
+2,"
+Upazila",Doctor,Doctor,Doctor,Doctor,Doctor
+3,"
+Upazila",MBBS,FCPS,Dentist,Gynecologist,Homeopathy
+4,Daulotpur,200,0,100,0,100
+5,Gheor,200,0,200,200,50
+6,Horirampur,100,0,0,0,0
+7,Manikganj Sadar,200,300,200,300,50
+8,Saturia,300,200,300,350,100
+9,Shibalaya,200,0,0,0,200
+10,Singair,200,300,300,300,100
+11,Average,200,267,220,287,120

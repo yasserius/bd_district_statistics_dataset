@@ -1,0 +1,14 @@
+,0,1,2,3,4,5
+0,Average doctor s fee per patient 2011,,,,,
+1,(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka)
+2,"
+Upazila",Doctor,Doctor,Doctor,Doctor,Doctor
+3,"
+Upazila",MBBS,FCPS,Dentist,Gynaecologist,Homeopathy
+4,Dhaka Metropolitan,300,500,300,400,200
+5,Dhamrai,250,0,100,250,50
+6,Dohar,100,300,200,300,50
+7,Keraniganj,200,500,200,400,0
+8,Nawabganj,200,300,300,400,100
+9,Savar,300,500,300,500,100
+10,Average,225,420,235,375,100

@@ -1,0 +1,15 @@
+,0,1,2,3,4,5
+0,Average rate of vehicle per kilo meter 2011,,,,,
+1,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
+2,"
+Upazila",Vehicle,Vehicle,Vehicle,Vehicle,Vehicle
+3,"
+Upazila",Rickshaw,Rickshaw van,Easy bike,Auto rickshaw,Tempo
+4,Bhandaria,4,3,4,0,3
+5,Kawkhali,5,4,5,0,4
+6,Mathbaria,5,5,7,7,5
+7,Nazirpur,3,3,4,4,4
+8,Nesarabad,5,4,6,5,5
+9,Pirojpur Sadar,10,5,5,5,5
+10,Zianagar,10,10,15,5,5
+11,Average,6,5,7,4,4

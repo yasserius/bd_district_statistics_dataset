@@ -1,0 +1,20 @@
+,0,1,2,3,4,5,6,7,8
+0,Number of warehouse and their storage capacity 2011,,,,,,,,
+1,(Capacity in metric tons),,,,,,,,
+2,"
+Upazila",Food godown,Food godown,Fertilizer godown,Fertilizer godown,Jute godown,Jute godown,Other godown,Other godown
+3,"
+Upazila",Number,Capacity,Number,Capacity,Number,Capacity,Number,Capacity
+4,Basail,3,1500,0,0,0,0,0,0
+5,Bhuapur,3,2000,0,0,0,0,0,0
+6,Delduar,1,500,0,0,0,0,0,0
+7,Dhanbari,5,3000,0,0,0,0,0,0
+8,Ghatail,2,2000,1,2000,0,0,0,0
+9,Gopalpur,4,2000,0,0,0,0,0,0
+10,Kalihati,3,1500,1,2000,0,0,0,0
+11,Madhupur,4,3000,2,7000,0,0,0,0
+12,Mirzapur,4,2500,1,2000,0,0,1,250
+13,Nagarpur,4,2000,1,2000,0,0,0,0
+14,Sakhipur,4,2500,0,0,0,0,0,0
+15,Tangail Sadar,20,11118,2,2500,0,0,1,50
+16,Total,57,33618,8,17500,0,0,2,300

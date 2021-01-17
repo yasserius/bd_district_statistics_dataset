@@ -1,0 +1,19 @@
+,0,1,2,3,4,5
+0,Average doctor s fee per patient 2011,,,,,
+1,(Fee in Taka),,,,,
+2,"
+Upazila",Doctor,Doctor,Doctor,Doctor,Doctor
+3,"
+Upazila",MBBS,FCPS,Dentist,Gynaecologist,Homeopathy
+4,Basail,200,300,100,200,50
+5,Bhuapur,200,300,100,200,25
+6,Delduar,200,300,100,200,50
+7,Dhanbari,200,300,100,300,50
+8,Ghatail,300,300,100,300,100
+9,Gopalpur,200,300,100,200,50
+10,Kalihati,200,300,100,300,100
+11,Madhupur,300,400,100,300,50
+12,Mirzapur,200,300,100,200,50
+13,Nagarpur,200,300,100,200,50
+14,Sakhipur,300,300,200,300,100
+15,Tangail Sadar,200,300,200,300,200

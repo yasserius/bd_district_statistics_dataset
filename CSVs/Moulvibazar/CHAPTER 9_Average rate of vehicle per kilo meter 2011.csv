@@ -1,0 +1,15 @@
+,0,1,2,3,4,5
+0,Average rate of vehicle per kilo meter 2011,,,,,
+1,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
+2,"
+Upazila",Vehicle,Vehicle,Vehicle,Vehicle,Vehicle
+3,"
+Upazila",Rickshaw,Rickshaw van,Easy bike,Auto rickshaw,Tempo
+4,Barlekha,20,0,10,15,10
+5,Juri,10,20,5,5,3
+6,Kamalganj,5,4,2,2,2
+7,Kulaura,5,5,2,2,2
+8,Moulvibazar Sadar,10,50,5,5,5
+9,Rajnagar,10,40,5,5,5
+10,Sreemangal,8,80,5,10,5
+11,Average,8,33,4,6,4

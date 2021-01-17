@@ -1,0 +1,20 @@
+,0,1,2,3,4,5,6
+0,Annual average wholesale price of selected building material 2011,,,,,,
+1,(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka)
+2,Upazila,"Brick-01
+(per1000)","Cement
+(per 50 kg bag)","Iron bar
+(per ton)","Sand-01
+(per c.f.t.)","Sand -02
+(per c.f.t.)","Stone
+(per c.f.t.)"
+3,Belkuchi,5500,400,68000,35,25,120
+4,Chauhali,6000,500,67000,20,10,90
+5,Kamarkhanda,7000,480,58000,20,12,110
+6,Kazipur,7000,480,67000,12,13,105
+7,Royganj,6000,450,62000,32,12,112
+8,Shahjadpur,6500,490,60000,12,6,112
+9,Sirajganj Sadar,6800,460,70000,4,3,80
+10,Tarash,7000,500,63000,30,18,125
+11,Ullahpara,6500,480,62000,32,12,112
+12,Average,6478,471,64111,22,12,107

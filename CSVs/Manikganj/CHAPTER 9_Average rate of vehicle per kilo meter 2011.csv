@@ -1,0 +1,15 @@
+,0,1,2,3,4,5
+0,Average rate of vehicle per kilo meter 2011,,,,,
+1,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
+2,"
+Upazila",Vehicle,Vehicle,Vehicle,Vehicle,Vehicle
+3,"
+Upazila",Rickshaw,Rickshaw van,Easy bike,Auto rickshaw,Tempo
+4,Daulotpur,10,10,5,2.5,5
+5,Gheor,10,10,5,3,3
+6,Horirampur,10,30,5,5,5
+7,Manikganj Sadar,10,50,5,5,10
+8,Saturia,10,5,7,10,5
+9,Shibalaya,10,15,10,5,2
+10,Singair,10,5,5,5,5
+11,Average,10,18,6,5,5

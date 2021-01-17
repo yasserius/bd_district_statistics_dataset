@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,Average doctor s fee per patient 2011,,,,,
+1,(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka)
+2,"
+Upazila",Doctor,Doctor,Doctor,Doctor,Doctor
+3,"
+Upazila",MBBS,FCPS,Dentist,Gynecologist,Homeopathy
+4,Jhenaigati,300,300,200,300,70
+5,Nakla,200,300,200,300,75
+6,Nalitabari,200,300,100,300,50
+7,Sherpur Sadar,400,400,300,400,50
+8,Sreebardi,200,400,200,300,0
+9,Average,260,340,200,320,49

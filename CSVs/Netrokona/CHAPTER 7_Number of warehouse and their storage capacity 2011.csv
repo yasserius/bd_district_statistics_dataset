@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6,7,8
+0,Number of warehouse and their storage capacity 2011,,,,,,,,
+1,(Capacity in metric ton),,,,,,,,
+2,"
+Upazila",Food godown,Food godown,Fertilizer godown,Fertilizer godown,Jute godown,Jute godown,Other godown,Other godown
+3,"
+Upazila",Number,Capacity,Number,Capacity,Number,Capacity,Number,Capacity
+4,Atpara,1,500,16,8000,0,0,0,0
+5,Barhatta,3,1500,14,1400,0,0,0,0
+6,Durgapur,2,1000,0,0,0,0,0,0
+7,Kalmakanda,1,500,0,0,0,0,0,0
+8,Kendua,2,500,20,2000,0,0,10,1000
+9,Khaliajuri,2,1500,6,350,0,0,0,0
+10,Madan,1,500,9,450,0,0,0,0
+11,Mohanganj,3,1950,0,0,0,0,0,0
+12,Netrokona Sadar,7,4500,21,12500,2,220,0,0
+13,Purbadhala,9,4500,11,1100,0,0,0,0
+14,Total,31,16950,97,25800,0,0,10,1000

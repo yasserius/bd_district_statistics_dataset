@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6,7,8,9
+0,"Population and literacy rate of 1991, 2001 & 2011 and number of voter 2011",,,,,,,,,
+1,"
+Upazila",Population (000),Population (000),Population (000),Literacy rate (%),Literacy rate (%),Literacy rate (%),Number of voter (000),Number of voter (000),Number of voter (000)
+2,"
+Upazila",1991,2001,2011,1991,2001,2011,Male,Female,Total
+3,Belabo,145,164,190,30,36.6,48.5,57,59,117
+4,Manohardi,230,244,275,27,42.7,49.9,79,89,168
+5,Narsingdi Sadar,451,579,707,31,43.2,50.9,161,150,311
+6,Palash,174,189,213,42,59.7,58.6,64,64,128
+7,Roypura,414,455,536,22,33.6,40.5,144,157,317
+8,Sibpur,237,265,304,32,49.3,55.7,87,92,178
+9,Total,1651,1896,2225,30,42.9,49.6,592,611,1203

@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6,7,8
+0,Number of warehouse and their storage capacity 2011,,,,,,,,
+1,(Capacity in metric ton),(Capacity in metric ton),(Capacity in metric ton),(Capacity in metric ton),(Capacity in metric ton),(Capacity in metric ton),(Capacity in metric ton),(Capacity in metric ton),(Capacity in metric ton)
+2,"
+Upazila",Food godown,Food godown,Fertilizer godown,Fertilizer godown,Jute godown,Jute godown,Other godown,Other godown
+3,"
+Upazila",Number,Capacity,Number,Capacity,Number,Capacity,Number,Capacity
+4,Assasuni,4,2500,0,0,0,0,0,0
+5,Debhata,1,1000,0,0,0,0,0,0
+6,Kalaroa,3,15000,0,0,0,0,0,0
+7,Kaliganj,2,1000,0,0,0,0,0,0
+8,Satkhira Sadar,8,4000,0,0,0,0,58,14100
+9,Shyamnagar,2,2000,0,0,0,0,0,0
+10,Tala,1,2000,0,0,10,10000,5,5000
+11,Total,21,27500,0,0,10,10000,63,19100

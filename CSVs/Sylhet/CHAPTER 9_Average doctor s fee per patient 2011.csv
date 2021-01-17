@@ -1,0 +1,21 @@
+,0,1,2,3,4,5
+0,Average doctor s fee per patient 2011,,,,,
+1,(Fee in Taka),,,,,
+2,"
+Upazila/City corporation",Doctor,Doctor,Doctor,Doctor,Doctor
+3,"
+Upazila/City corporation",MBBS,FCPS,Dentist,Gynaecologist,Homeopathy
+4,Balaganj,200,300,200,300,50
+5,Beanibazar,300,400,300,300,20
+6,Bishwanath,250,400,350,400,30
+7,Companiganj,100,200,100,300,20
+8,Dakhin surma,300,500,400,400,30
+9,Fenchuganj,200,300,200,200,30
+10,Golapganj,250,300,250,250,20
+11,Gowainghat,100,200,200,250,20
+12,Jaintiapur,200,250,200,300,20
+13,Kanaighat,200,300,200,200,25
+14,Sylhet city corporation,300,500,400,500,200
+15,Sylhet sadar,200,400,300,500,50
+16,Zakiganj,200,250,150,300,20
+17,District Average,215,330,250,323,41

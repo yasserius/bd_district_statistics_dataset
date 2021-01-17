@@ -1,0 +1,4 @@
+type 1: 110
+type 2: 37
+total generated: 147
+actual tables: 160

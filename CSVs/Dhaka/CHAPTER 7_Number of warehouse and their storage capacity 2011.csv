@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7,8
+0,Number of warehouse and their storage capacity 2011,,,,,,,,
+1,(Capacity in metric ton),,,,,,,,
+2,"
+Upazila",Food godown,Food godown,Fertilizer godown,Fertilizer godown,Jute godown,Jute godown,Other godown,Other godown
+3,"
+Upazila",Number,Capacity,Number,Capacity,Number,Capacity,Number,Capacity
+4,Dhaka Metropolitan,43,32000,,,,,59,1475
+5,Dhamrai,3,1500,0,0,0,0,0,0
+6,Dohar,3,1250,0,0,0,0,0,0
+7,Keraniganj,1,1000,0,0,0,0,0,0
+8,Nawabganj,2,1000,0,0,0,0,0,0
+9,Savar,3,1500,25,1250,0,0,48,2400
+10,Total,55,38250,25,1250,0,0,107,3875

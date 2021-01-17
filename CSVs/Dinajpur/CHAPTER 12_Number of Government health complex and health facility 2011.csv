@@ -1,0 +1,47 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,Number of Government health complex and health facility 2011,,,,,,,,,,
+1,"
+
+Upazila","Number of hospital/ clinic/ nursing
+home","
+Number of bed","
+Number of doctor","
+Number of nurse","
+Number of    technician","Number of
+other staff","Number of patient
+under health facility","Number of patient
+under health facility","Number of patient
+under health facility","Number of patient
+under health facility"
+2,"
+
+Upazila","Number of hospital/ clinic/ nursing
+home","
+Number of bed","
+Number of doctor","
+Number of nurse","
+Number of    technician","Number of
+other staff",Indoor,Indoor,Outdoor,Outdoor
+3,"
+
+Upazila","Number of hospital/ clinic/ nursing
+home","
+Number of bed","
+Number of doctor","
+Number of nurse","
+Number of    technician","Number of
+other staff",Male,Female,Male,Female
+4,Biral,1,31,5,10,3,68,1213,1517,7367,8373
+5,Birampur,1,31,6,9,5,83,1540,2280,35200,37350
+6,Birganj,3,31,7,9,4,97,1703,2183,50905,56944
+7,Bochaganj,1,50,6,7,5,72,1549,2538,14764,18443
+8,Chirirbandar,1,31,10,11,5,38,3371,5749,28740,27878
+9,Dinajpur Sadar,4,750,89,134,9,183,12045,9855,21900,32850
+10,Fulbari,4,31,9,13,5,84,3783,4744,62543,68702
+11,Ghoraghat,1,31,4,11,6,32,1373,1655,30706,39606
+12,Hakimpur,1,31,4,8,2,57,1549,2209,14467,19979
+13,Kaharole,1,31,4,8,4,58,1284,1425,25795,32291
+14,Khansama,1,31,6,8,5,94,1652,5374,69440,99581
+15,Nawabganj,1,31,4,7,7,78,1462,1922,34516,38108
+16,Parbatipur,2,66,15,20,6,68,2434,2864,15261,17798
+17,Total,22,1176,169,255,66,1012,34958,44315,411604,497903

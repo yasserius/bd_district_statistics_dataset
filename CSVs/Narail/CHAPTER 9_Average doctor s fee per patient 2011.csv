@@ -1,0 +1,11 @@
+,0,1,2,3,4,5
+0,Average doctor s fee per patient 2011,,,,,
+1,(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka)
+2,"
+Upazila",Doctor,Doctor,Doctor,Doctor,Doctor
+3,"
+Upazila",MBBS,FCPS,Dentist,Gynaecologist,Homeopathy
+4,Kalia,200,0,120,0,150
+5,Lohagara,200,300,150,300,50
+6,Narail Sadar,300,400,300,400,20
+7,Average,233,350,190,350,73
