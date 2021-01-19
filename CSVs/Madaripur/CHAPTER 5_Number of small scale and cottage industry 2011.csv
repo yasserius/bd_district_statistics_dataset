@@ -1,17 +1,10 @@
 ,0,1,2,3,4,5,6,7,8,9
 0,Number of small scale and cottage industry 2011,,,,,,,,,
-1,"
-Upazila",Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry
-2,"
-Upazila","Weaving/
-handloom",Handy,"Husking
-crafts mill","Goor
-processing","Biri
-factory","Salt
-processing","Dry fish
-processing",Pottery,Others
-3,Kalkini,2,0,75,37,1,0,0,46,545
-4,Madaripur Sadar,6,0,90,385,0,0,0,13,0
-5,Rajoir,0,35,54,0,0,0,0,3,70
-6,Shibchar,5,365,0,0,0,0,0,69,0
-7,Total,13,400,219,422,1,0,0,131,615
+1,,,,,,,,,,
+2, Upazila,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry
+3, Upazila,Weaving/ handloom,Handy,Husking crafts mill,Goor processing,Biri factory,Salt processing,Dry fish processing,Pottery,Others
+4,Kalkini,2,0,75,37,1,0,0,46,545
+5,Madaripur Sadar,6,0,90,385,0,0,0,13,0
+6,Rajoir,0,35,54,0,0,0,0,3,70
+7,Shibchar,5,365,0,0,0,0,0,69,0
+8,Total,13,400,219,422,1,0,0,131,615

@@ -1,19 +1,10 @@
 ,0,1,2,3,4,5
 0,"Name of land, river port, important or historical, tourist places, objects, important, famous crop or food production 2011",,,,,
-1,"
-Upazila",Name of Land/River/Sea port,"Name of Important or historical/tourist
-place/object","Name of important
-/famous crop or food production","Customer care service provider’s name of cell phone
-operator","Distance between district head quarter & upazila by road
-(km)"
-2,Dimla,-,-,Paddy,"Grameen phone,
-Banglalink",42
-3,Domar,-,Kalondar,Amon,"Grameen phone,
-Banglalink",22
-4,Jaldhaka,-,-,Paddy,"Grameen phone, Banglalink",25
-5,Kishorgonj,-,-,"Patato, Brinzal","Grameen phone,
-Banglalink",25
-6,Nilphamary Sadar,-,Nilsagor,Tobaco,"Grameen phone,
-Banglalink",0.5
-7,Sayedpur,-,Rail Workshop,Paddy,"Grameen phone,
-Banglalink",24
+1,,,,,,
+2, Upazila,Name of Land/River/Sea port,Name of Important or historical/tourist place/object,Name of important /famous crop or food production,Customer care service provider’s name of cell phone operator,Distance between district head quarter & upazila by road (km)
+3,Dimla,-,-,Paddy,"Grameen phone, Banglalink",42
+4,Domar,-,Kalondar,Amon,"Grameen phone, Banglalink",22
+5,Jaldhaka,-,-,Paddy,"Grameen phone, Banglalink",25
+6,Kishorgonj,-,-,"Patato, Brinzal","Grameen phone, Banglalink",25
+7,Nilphamary Sadar,-,Nilsagor,Tobaco,"Grameen phone, Banglalink",0.5
+8,Sayedpur,-,Rail Workshop,Paddy,"Grameen phone, Banglalink",24

@@ -1,14 +1,12 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C","Number of
-current A/C"
-2,Barlekha,5,45,27773,4700
-3,Juri,4,28,15609,828
-4,Kamalganj,6,20,5061,228
-5,Kulaura,9,89,55913,2678
-6,Moulvibazar Sadar,18,161,48040,4835
-7,Rajnagar,8,53,15615,836
-8,Sreemangal,7,46,19096,1530
-9,Total,54,442,187107,15635
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Barlekha,5,45,27773,4700
+4,Juri,4,28,15609,828
+5,Kamalganj,6,20,5061,228
+6,Kulaura,9,89,55913,2678
+7,Moulvibazar Sadar,18,161,48040,4835
+8,Rajnagar,8,53,15615,836
+9,Sreemangal,7,46,19096,1530
+10,Total,54,442,187107,15635

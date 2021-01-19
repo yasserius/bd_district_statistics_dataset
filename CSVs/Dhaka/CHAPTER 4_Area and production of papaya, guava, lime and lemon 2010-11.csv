@@ -1,14 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of papaya, guava, lime and lemon 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Papaya,Papaya,Guava,Guava,Lime and lemon,Lime and lemon
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Dhaka Metropolitan,5,28,5,162,6,22
-5,Dhamrai,19,434,0,1870,0,8056
-6,Dohar,1,119,13,87,1,22
-7,Keraniganj,7,93,0,94,0,148
-8,Nawabganj,47,520,80,640,30,150
-9,Savar,27,132,6,34,5,10
-10,Total,106,1326,104,2888,42,8409
+2,Upazila,Papaya Area,Papaya Production,Guava Area,Guava Production,Lime and lemon Area,Lime and lemon Production
+3,Dhaka Metropolitan,5,28,5,162,6,22
+4,Dhamrai,19,434,0,1870,0,8056
+5,Dohar,1,119,13,87,1,22
+6,Keraniganj,7,93,0,94,0,148
+7,Nawabganj,47,520,80,640,30,150
+8,Savar,27,132,6,34,5,10
+9,Total,106,1326,104,2888,42,8409

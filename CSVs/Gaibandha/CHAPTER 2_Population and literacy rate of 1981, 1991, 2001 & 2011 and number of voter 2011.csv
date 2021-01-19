@@ -1,14 +1,13 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Population and literacy rate of 1981, 1991, 2001 & 2011 and number of voter 2011",,,,,,,,,,,
-1,"
-Upazila",Population (000),Population (000),Population (000),Population (000),Literacy rate (%),Literacy rate (%),Literacy rate (%),Literacy rate (%),Number of voter (000),Number of voter (000),Number of voter (000)
-2,"
-Upazila",1981,1991,2001,2011,1981,1991,2001,2011,Male,Female,Total
-3,Fulchhari,117,129,138,165,11.25,16.1,27.68,31.2,45,48,93
-4,Gaibandha Sadar,287,359,392,437,27.14,28.2,39.68,47.5,134,144,278
-5,Gobindaganj,322,415,461,515,14.63,23.1,37.76,42.6,161,171,332
-6,Palashbari,172,210,231,245,20.8,26.4,38.9,47.6,75,81,156
-7,Sadullapur,200,243,266,287,24,31.0,33.0,44.1,86,86,172
-8,Saghata,169,232,250,268,19,22.0,34.0,40.6,83,87,170
-9,Sundarganj,310,360,398,462,16.4,24.1,31.2,40.6,134,146,281
-10,Total,1577,1948,2136,2379,19.9,24.3,35.7,42.8,718,763,1482
+1,,,,,,,,,,,,
+2, Upazila,Population (000),Population (000),Population (000),Population (000),Literacy rate (%),Literacy rate (%),Literacy rate (%),Literacy rate (%),Number of voter (000),Number of voter (000),Number of voter (000)
+3, Upazila,1981,1991,2001,2011,1981,1991,2001,2011,Male,Female,Total
+4,Fulchhari,117,129,138,165,11.25,16.1,27.68,31.2,45,48,93
+5,Gaibandha Sadar,287,359,392,437,27.14,28.2,39.68,47.5,134,144,278
+6,Gobindaganj,322,415,461,515,14.63,23.1,37.76,42.6,161,171,332
+7,Palashbari,172,210,231,245,20.8,26.4,38.9,47.6,75,81,156
+8,Sadullapur,200,243,266,287,24,31.0,33.0,44.1,86,86,172
+9,Saghata,169,232,250,268,19,22.0,34.0,40.6,83,87,170
+10,Sundarganj,310,360,398,462,16.4,24.1,31.2,40.6,134,146,281
+11,Total,1577,1948,2136,2379,19.9,24.3,35.7,42.8,718,763,1482

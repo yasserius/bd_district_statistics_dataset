@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of madrasah, teacher and student under the madrasah education board 2011",,,,,,,,
-1,Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Jhenaigati,35,251,40,291,2530,1981,4511,16
-4,Nakla,19,196,38,234,3783,3985,7768,33
-5,Nalitabari,20,252,33,285,1724,2013,3737,13
-6,Sherpur Sadar,27,307,71,378,3638,3695,7333,19
-7,Sreebardi,22,296,25,321,4190,4556,8746,27
-8,Total,123,1302,207,1509,15865,16230,32095,21
+1,,,,,,,,,
+2,Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3,Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Jhenaigati,35,251,40,291,2530,1981,4511,16
+5,Nakla,19,196,38,234,3783,3985,7768,33
+6,Nalitabari,20,252,33,285,1724,2013,3737,13
+7,Sherpur Sadar,27,307,71,378,3638,3695,7333,19
+8,Sreebardi,22,296,25,321,4190,4556,8746,27
+9,Total,123,1302,207,1509,15865,16230,32095,21

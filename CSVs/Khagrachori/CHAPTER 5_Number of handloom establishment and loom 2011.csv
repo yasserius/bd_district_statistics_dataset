@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Number of handloom establishment and loom 2011,,,,
-1,"
-Upazila",Number of unit (factory),Number of loom,Number of loom,Number of loom
-2,"
-Upazila",Number of unit (factory),Operational,Non-operational,Total
+1,,,,,
+2,Upazila,Number of unit (factory),Number of loom Operational,Number of loom Non-operational,Number of loom Total
 3,Dighinala,1,7,7,14
 4,Khagrachhari Sadar,20,16,4,20
 5,Laxshmichhari,0,0,0,0

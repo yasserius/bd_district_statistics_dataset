@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,"Occurrence of flood during the years 2008-2011 (Yes, No)",,,,
-1,Upazila,2008,2009,2010,2011
-2,Belkuchi,Yes,Yes,Yes,Yes
-3,Chauhali,yes,Yes,Yes,Yes
-4,Kamarkhanda,Yes,Yes,No,No
-5,Kazipur,Yes,Yes,No,No
-6,Royganj,Yes,Yes,Yes,Yes
-7,Shahjadpur,No,No,No,No
-8,Sirajganj Sadar,Yes,Yes,Yes,Yes
-9,Tarash,Yes,No,No,No
-10,Ullahpara,No,No,No,No
+1,,,,,
+2,Upazila,2008,2009,2010,2011
+3,Belkuchi,Yes,Yes,Yes,Yes
+4,Chauhali,yes,Yes,Yes,Yes
+5,Kamarkhanda,Yes,Yes,No,No
+6,Kazipur,Yes,Yes,No,No
+7,Royganj,Yes,Yes,Yes,Yes
+8,Shahjadpur,No,No,No,No
+9,Sirajganj Sadar,Yes,Yes,Yes,Yes
+10,Tarash,Yes,No,No,No
+11,Ullahpara,No,No,No,No

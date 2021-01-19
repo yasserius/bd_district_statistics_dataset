@@ -1,21 +1,18 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pumpkin, parble (potol) and cabbage 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Pumpkin,Pumpkin,Parble (potol),Parble (potol),Cabbage,Cabbage
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Biral,20,31,81,141,82,226
-5,Birampur,93,345,90,190,175,805
-6,Birganj,43,185,36,125,240,2508
-7,Bochaganj,176,316,203,406,70,78
-8,Chirirbandar,107,426,138,278,72,265
-9,Dinajpur Sadar,79,212,42,84,180,873
-10,Fulbari,56,116,38,101,69,311
-11,Ghoraghat,30,111,34,73,43,198
-12,Hakimpur,10,21,14,33,26,121
-13,Kaharole,85,208,13,49,41,346
-14,Khansama,59,189,49,115,76,163
-15,Nawabganj,24,64,50,107,80,340
-16,Parbatipur,43,331,53,241,46,460
-17,Total,825,2554,841,1943,1200,6695
+2,Upazila,Pumpkin Area,Pumpkin Production,Parble (potol) Area,Parble (potol) Production,Cabbage Area,Cabbage Production
+3,Biral,20,31,81,141,82,226
+4,Birampur,93,345,90,190,175,805
+5,Birganj,43,185,36,125,240,2508
+6,Bochaganj,176,316,203,406,70,78
+7,Chirirbandar,107,426,138,278,72,265
+8,Dinajpur Sadar,79,212,42,84,180,873
+9,Fulbari,56,116,38,101,69,311
+10,Ghoraghat,30,111,34,73,43,198
+11,Hakimpur,10,21,14,33,26,121
+12,Kaharole,85,208,13,49,41,346
+13,Khansama,59,189,49,115,76,163
+14,Nawabganj,24,64,50,107,80,340
+15,Parbatipur,43,331,53,241,46,460
+16,Total,825,2554,841,1943,1200,6695

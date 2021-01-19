@@ -1,15 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Broad soil classification 2008,,,,,,
-1,"
-Upazila","
-Total",Soil classification,Soil classification,Soil classification,Soil classification,Soil classification
-2,"
-Upazila","
-Total",Doash,Bele,Etel,Kankar,Others
-3,Bagatipara,33655,18970,3686,9368,0,1631
-4,Baraigram,60121,18816,7464,33841,0,0
-5,Gurudaspur,44623,32639,4136,6794,0,1054
-6,Lalpur,77973,15230,10663,52080,0,0
-7,Natore Sadar,39699,39699,0,0,0,0
-8,Singra,121038,24581,0,72457,0,24000
-9,Total,377109,110633,25949,174540,0,26685
+1,,,,,,,
+2, Upazila, Total,Soil classification,Soil classification,Soil classification,Soil classification,Soil classification
+3, Upazila, Total,Doash,Bele,Etel,Kankar,Others
+4,Bagatipara,33655,18970,3686,9368,0,1631
+5,Baraigram,60121,18816,7464,33841,0,0
+6,Gurudaspur,44623,32639,4136,6794,0,1054
+7,Lalpur,77973,15230,10663,52080,0,0
+8,Natore Sadar,39699,39699,0,0,0,0
+9,Singra,121038,24581,0,72457,0,24000
+10,Total,377109,110633,25949,174540,0,26685

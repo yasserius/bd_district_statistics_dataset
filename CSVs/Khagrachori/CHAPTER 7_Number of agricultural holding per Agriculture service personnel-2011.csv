@@ -1,12 +1,7 @@
 ,0,1,2,3,4,5
 0,Number of agricultural holding per Agriculture service personnel-2011,,,,,
 1,(According to Agriculture Census-2008),,,,,
-2,"
-Upazila",Agricultural holding,"Agricultural extension
-personnel","Other Agricultural
-personnel","Total Agricultural
-personnel","Number of holding per Agricultural
-personnel"
+2,Upazila,Agricultural holding,Agricultural extension personnel,Other Agricultural personnel,Total Agricultural personnel,Number of holding per Agricultural personnel
 3,Dighinala,14184,0,22575,57942,4.08
 4,Khagrachhari Sadar,21376,0,2040,4341,4.92
 5,Laxshmichhari,5046,22,150,11959,2.37

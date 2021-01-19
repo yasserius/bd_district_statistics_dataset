@@ -1,12 +1,12 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,Upazila,"Number of
-insurance company",Number of employee,Number of client
-2,Daulotpur,4,12,1270
-3,Gheor,0,0,0
-4,Horirampur,6,450,15600
-5,Manikganj Sadar,196,1062,56006
-6,Saturia,3,20,38000
-7,Shibalaya,10,165,11645
-8,Singair,4,32,9353
-9,Total,223,1741,131874
+1,,,,
+2,Upazila,Number of insurance company,Number of employee,Number of client
+3,Daulotpur,4,12,1270
+4,Gheor,0,0,0
+5,Horirampur,6,450,15600
+6,Manikganj Sadar,196,1062,56006
+7,Saturia,3,20,38000
+8,Shibalaya,10,165,11645
+9,Singair,4,32,9353
+10,Total,223,1741,131874

@@ -1,18 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of growth centre, hat , bazar, poultry farm, dairy farm, nursery, horticulture centre, brick kiln, decorator service 2011",,,,,,,,
-1,Upazila,"Growth
-centre","Hat
-/bazar","Poultry
-farm","Dairy
-farm",Nursery,"Horticulture
-centre","Brick
-kiln","Decorator
-service"
-2,Bhandaria,4,41,90,68,5,0,4,11
-3,Kawkhali,3,13,36,28,3,0,7,14
-4,Mathbaria,13,32,150,10,80,0,0,24
-5,Nazirpur,4,30,150,79,70,0,1,34
-6,Nesarabad,4,31,379,11,1595,42,6,24
-7,Pirojpur Sadar,3,10,226,99,26,0,6,20
-8,Zianagar,2,22,17,22,1,0,4,7
-9,Total,33,179,1048,317,1780,42,28,134
+1,,,,,,,,,
+2,Upazila,Growth centre,Hat /bazar,Poultry farm,Dairy farm,Nursery,Horticulture centre,Brick kiln,Decorator service
+3,Bhandaria,4,41,90,68,5,0,4,11
+4,Kawkhali,3,13,36,28,3,0,7,14
+5,Mathbaria,13,32,150,10,80,0,0,24
+6,Nazirpur,4,30,150,79,70,0,1,34
+7,Nesarabad,4,31,379,11,1595,42,6,24
+8,Pirojpur Sadar,3,10,226,99,26,0,6,20
+9,Zianagar,2,22,17,22,1,0,4,7
+10,Total,33,179,1048,317,1780,42,28,134

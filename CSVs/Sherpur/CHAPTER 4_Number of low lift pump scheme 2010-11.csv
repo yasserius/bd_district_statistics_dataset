@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,Upazila,Number of pump fielded,Number of pump fielded,Number of pump fielded,Area irrigated (in acre)
-2,Upazila,Electric,Diesel,Total,Area irrigated (in acre)
-3,Jhenaigati,6966,1126,1794,19192
-4,Nakla,6048,4413,5403,32503
-5,Nalitabari,13643,3233,3658,36331
-6,Sherpur Sadar,18884,7985,10545,58786
-7,Sreebardi,8524,5618,7440,43975
-8,Total,54065,22375,28840,190787
+1,,,,,
+2,Upazila,Number of pump fielded,Number of pump fielded,Number of pump fielded,Area irrigated (in acre)
+3,Upazila,Electric,Diesel,Total,Area irrigated (in acre)
+4,Jhenaigati,6966,1126,1794,19192
+5,Nakla,6048,4413,5403,32503
+6,Nalitabari,13643,3233,3658,36331
+7,Sherpur Sadar,18884,7985,10545,58786
+8,Sreebardi,8524,5618,7440,43975
+9,Total,54065,22375,28840,190787

@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of flour mill and person engaged 2011,,,,
-1,Upazila,Unit,Person engaged,Person engaged,Person engaged
-2,Upazila,Unit,Family,Hired,Total
-3,Jhenaigati,7,15,3,18
-4,Nakla,7,7,14,21
-5,Nalitabari,22,18,26,44
-6,Sherpur Sadar,16,16,5,21
-7,Sreebardi,0,0,0,0
-8,Total,52,56,48,104
+1,,,,,
+2,Upazila,Unit,Person engaged,Person engaged,Person engaged
+3,Upazila,Unit,Family,Hired,Total
+4,Jhenaigati,7,15,3,18
+5,Nakla,7,7,14,21
+6,Nalitabari,22,18,26,44
+7,Sherpur Sadar,16,16,5,21
+8,Sreebardi,0,0,0,0
+9,Total,52,56,48,104

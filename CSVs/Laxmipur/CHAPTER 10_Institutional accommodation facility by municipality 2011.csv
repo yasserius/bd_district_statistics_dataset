@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Institutional accommodation facility by municipality 2011,,,,,,
-1,"
-Upazila",Residential hostel,Residential hostel,Hall/hostel,Hall/hostel,Mess/barrack,Mess/barrack
-2,"
-Upazila",Number,Capacity,Number,Capacity,Number,Capacity
+1,,,,,,,
+2,Upazila,Residential hostel Number,Residential hostel Capacity,Hall/hostel Number,Hall/hostel Capacity,Mess/barrack Number,Mess/barrack Capacity
 3,Kamalnagar,0,0,0,0,0,0
 4,Lakshmipur Sadar,6,154,3,82,1,235
 5,Ramganj,3,70,2,94,2,60

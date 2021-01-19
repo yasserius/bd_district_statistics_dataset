@@ -1,21 +1,16 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of pond, dighee, flood camps, shelter, cyclone shelter, stadium,  playground, park,  amusement park 2011",,,,,,,
-1,"
-Upazila","
-Pond","
-Dighee","
-Rivers flow",Flood camps/ shelter,"
-Cyclone shelter","
-Stadium/ playground",Park/ amusement park
-2,Bishwamvarpur,150,40,2,0,0,4,0
-3,Chhatak,7060,0,2,5,4,3,0
-4,Dakshin Sunamganj,160,0,1,0,0,2,0
-5,Derai,20,0,3,0,0,2,0
-6,Dharmapasha,716,1,2,1,0,7,1
-7,Doarabazar,1850,0,1,0,0,2,0
-8,Jagannathpur,4928,1,1,3,0,4,0
-9,Jamalganj,250,0,1,3,0,1,0
-10,Shalla,243,0,2,1,0,3,0
-11,Sunamganj Sadar,1268,1,1,4,0,1,0
-12,Tahirpur,391,0,4,2,0,1,0
-13,Total,17036,43,20,19,4,30,1
+1,,,,,,,,
+2,Upazila,Pond,Dighee,Rivers flow,Flood camps/ shelter,Cyclone shelter,Stadium/ playground,Park/ amusement park
+3,Bishwamvarpur,150,40,2,0,0,4,0
+4,Chhatak,7060,0,2,5,4,3,0
+5,Dakshin Sunamganj,160,0,1,0,0,2,0
+6,Derai,20,0,3,0,0,2,0
+7,Dharmapasha,716,1,2,1,0,7,1
+8,Doarabazar,1850,0,1,0,0,2,0
+9,Jagannathpur,4928,1,1,3,0,4,0
+10,Jamalganj,250,0,1,3,0,1,0
+11,Shalla,243,0,2,1,0,3,0
+12,Sunamganj Sadar,1268,1,1,4,0,1,0
+13,Tahirpur,391,0,4,2,0,1,0
+14,Total,17036,43,20,19,4,30,1

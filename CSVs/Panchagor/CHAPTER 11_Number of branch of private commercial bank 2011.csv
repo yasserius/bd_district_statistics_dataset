@@ -1,12 +1,10 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C","Number of
-current A/C"
-2,Atwari,0,0,0,0
-3,Boda,2,9,785,0
-4,Debiganj,1,18,100,103
-5,Panchagarh Sadar,4,42,15300,372
-6,Tentulia,0,0,0,0
-7,Total,7,69,16185,475
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Atwari,0,0,0,0
+4,Boda,2,9,785,0
+5,Debiganj,1,18,100,103
+6,Panchagarh Sadar,4,42,15300,372
+7,Tentulia,0,0,0,0
+8,Total,7,69,16185,475

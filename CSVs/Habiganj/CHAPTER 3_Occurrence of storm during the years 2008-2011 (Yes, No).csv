@@ -1,16 +1,12 @@
 ,0,1,2,3,4
 0,"Occurrence of storm during the years 2008-2011 (Yes, No)",,,,
-1,"
-Upazila","
-2008","
-2009","
-2010","
-2011"
-2,Azmirigonj,No,No,No,No
-3,Bahubal,No,No,No,No
-4,Baniachang,No,No,No,No
-5,Chunarughat,No,No,No,No
-6,Habiganj Sadar,No,No,No,No
-7,Lakhai,No,No,No,No
-8,Madhabpur,No,No,No,No
-9,Nabiganj,No,No,No,No
+1,,,,,
+2, Upazila, 2008, 2009, 2010, 2011
+3,Azmirigonj,No,No,No,No
+4,Bahubal,No,No,No,No
+5,Baniachang,No,No,No,No
+6,Chunarughat,No,No,No,No
+7,Habiganj Sadar,No,No,No,No
+8,Lakhai,No,No,No,No
+9,Madhabpur,No,No,No,No
+10,Nabiganj,No,No,No,No

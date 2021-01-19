@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of rice mill and person engaged 2011,,,,
-1,"
-Upazila","
-Units",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Units",Male,Female,Total
+1,,,,,
+2,Upazila,Units,Person engaged Male,Person engaged Female,Person engaged Total
 3,Akhaura,5,30,70,100
 4,Ashuganj,11,115,160,275
 5,Banchharampur,0,0,0,0

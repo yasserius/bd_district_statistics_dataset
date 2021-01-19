@@ -1,14 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Number of religious institution 2011,,,,,,
-1,Upazila,Mosque,Eid-Gah,"Temple
-(Mandir)","Church
-(Girza)",Pagoda,Others
-2,Abhaynagar,378,95,139,3,0,0
-3,Bagherpara,481,97,137,1,0,0
-4,Chaugachha,319,124,39,1,0,0
-5,Jessore Sadar,1013,343,279,8,0,0
-6,Jhikargachha,389,247,22,7,0,0
-7,Keshabpur,535,162,195,3,0,0
-8,Manirampur,931,252,145,1,0,0
-9,Sharsha,322,76,9,0,0,0
-10,Total,4368,1396,965,24,0,0
+1,,,,,,,
+2,Upazila,Mosque,Eid-Gah,Temple (Mandir),Church (Girza),Pagoda,Others
+3,Abhaynagar,378,95,139,3,0,0
+4,Bagherpara,481,97,137,1,0,0
+5,Chaugachha,319,124,39,1,0,0
+6,Jessore Sadar,1013,343,279,8,0,0
+7,Jhikargachha,389,247,22,7,0,0
+8,Keshabpur,535,162,195,3,0,0
+9,Manirampur,931,252,145,1,0,0
+10,Sharsha,322,76,9,0,0,0
+11,Total,4368,1396,965,24,0,0

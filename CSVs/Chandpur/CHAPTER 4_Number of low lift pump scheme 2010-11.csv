@@ -1,15 +1,14 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,"
-Upazila",Number of pumps fielded,Number of pumps fielded,Number of pumps fielded,Area irrigated (in acres)
-2,"
-Upazila",Electric,Diesel,Total,Area irrigated (in acres)
-3,Chandpur Sadar,49,99,148,2322
-4,Foridganj,0,4,4,42
-5,Haimchar,1,9,10,1996
-6,Hajiganj,18,58,76,1358
-7,Kachua,974,0,974,11688
-8,Matlab Dakshin,46,442,488,16314
-9,Matlab Uttar,3,321,324,26506
-10,Shahrasti,256,91,347,2250
-11,Total,1347,1024,2371,62476
+1,,,,,
+2, Upazila,Number of pumps fielded,Number of pumps fielded,Number of pumps fielded,Area irrigated (in acres)
+3, Upazila,Electric,Diesel,Total,Area irrigated (in acres)
+4,Chandpur Sadar,49,99,148,2322
+5,Foridganj,0,4,4,42
+6,Haimchar,1,9,10,1996
+7,Hajiganj,18,58,76,1358
+8,Kachua,974,0,974,11688
+9,Matlab Dakshin,46,442,488,16314
+10,Matlab Uttar,3,321,324,26506
+11,Shahrasti,256,91,347,2250
+12,Total,1347,1024,2371,62476

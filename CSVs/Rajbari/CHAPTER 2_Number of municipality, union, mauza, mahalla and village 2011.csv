@@ -1,10 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Number of municipality, union, mauza, mahalla and village 2011",,,,,,
-1,Upazila,Municipality,"Ward
-(PSA)",Mahalla,Union,Mauza,Village
-2,Baliakandi,0,0,0,7,149,258
-3,Goalanda,1,9,45,4,56,152
-4,Kalukhali,0,0,0,7,153,156
-5,Pangsha,1,9,21,10,162,192
-6,Rajbari Sadar,1,9,31,14,200,209
-7,Total,3,27,99,42,585,967
+1,,,,,,,
+2,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
+3,Baliakandi,0,0,0,7,149,258
+4,Goalanda,1,9,45,4,56,152
+5,Kalukhali,0,0,0,7,153,156
+6,Pangsha,1,9,21,10,162,192
+7,Rajbari Sadar,1,9,31,14,200,209
+8,Total,3,27,99,42,585,967

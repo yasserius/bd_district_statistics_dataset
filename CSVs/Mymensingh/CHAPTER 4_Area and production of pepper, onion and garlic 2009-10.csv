@@ -1,20 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic 2009-10",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Pepper,Pepper,Onion,Onion,Garlic,Garlic
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Bhaluka,531,336,126,259,95,169
-5,Dhobaura,187,46,26,43,17,15
-6,Fulbaria,315,162,134,256,29,36
-7,Gaffargaon,680,313,149,338,182,418
-8,Gauripur,182,134,19,0,7,0
-9,Haluaghat,184,51,210,383,33,32
-10,Ishwargonj,283,108,150,300,71,80
-11,Muktagacha,285,456,150,1020,85,476
-12,Mymensingh Sadar,465,158,373,1090,251,493
-13,Nandail,457,128,185,217,28,22
-14,Phulpur,126,40,198,302,55,65
-15,Trishal,617,179,183,346,148,18
-16,Total,4312,2111,1903,4554,1001,1823
+2,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
+3,Bhaluka,531,336,126,259,95,169
+4,Dhobaura,187,46,26,43,17,15
+5,Fulbaria,315,162,134,256,29,36
+6,Gaffargaon,680,313,149,338,182,418
+7,Gauripur,182,134,19,0,7,0
+8,Haluaghat,184,51,210,383,33,32
+9,Ishwargonj,283,108,150,300,71,80
+10,Muktagacha,285,456,150,1020,85,476
+11,Mymensingh Sadar,465,158,373,1090,251,493
+12,Nandail,457,128,185,217,28,22
+13,Phulpur,126,40,198,302,55,65
+14,Trishal,617,179,183,346,148,18
+15,Total,4312,2111,1903,4554,1001,1823

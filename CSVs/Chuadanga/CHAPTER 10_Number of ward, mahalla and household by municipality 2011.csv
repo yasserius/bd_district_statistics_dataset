@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5
 0,"Number of ward, mahalla and household by municipality 2011",,,,,
-1,Municipality,Name of municipality,Total ward,Total mahalla,Total holding,Total household
-2,Alamdanga,Alamdanga,9,18,9545,9545
-3,Chuadanga Sadar,Chuadanga,9,21,14625,18891
-4,Darshana,Darshana,9,21,6867,7897
-5,Jibonnagar,Jibonnagar,9,29,6569,6569
-6,Total,,36,89,37606,42902
+1,,,,,,
+2,Municipality,Name of municipality,Total ward,Total mahalla,Total holding,Total household
+3,Alamdanga,Alamdanga,9,18,9545,9545
+4,Chuadanga Sadar,Chuadanga,9,21,14625,18891
+5,Darshana,Darshana,9,21,6867,7897
+6,Jibonnagar,Jibonnagar,9,29,6569,6569
+7,Total,,36,89,37606,42902

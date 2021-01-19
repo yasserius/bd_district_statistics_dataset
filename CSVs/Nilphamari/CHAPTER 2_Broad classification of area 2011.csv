@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Broad classification of area 2011,,,,
 1,(In sq. km.),,,,
-2,Upazila,Total area,Land area,"Reserve
-forest","Riverine
-area"
+2,Upazila,Total area,Land area,Reserve forest,Riverine area
 3,Dimla,326.74,305.34,8.80,12.60
 4,Domar,216.36,212.32,3.60,0.44
 5,Jaldhaka,303.51,295.80,0,7.71

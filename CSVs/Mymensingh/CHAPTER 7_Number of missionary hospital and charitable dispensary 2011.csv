@@ -1,22 +1,17 @@
 ,0,1,2,3,4,5,6
 0,Number of missionary hospital and charitable dispensary 2011,,,,,,
-1,Upazila,"Number
-of centre","Number
-of bed","Number
-of doctor","Number
-of nurse","Number of
-technician","Number of
-other staff"
-2,Bhaluka,2,14,4,1,0,3
-3,Dhubaura,4,0,3,3,2,3
-4,Fulbaria,0,0,0,0,0,0
-5,Gaffargaon,0,0,0,0,0,0
-6,Gauripur,0,0,0,0,0,0
-7,Haluaghat,2,50,18,27,18,32
-8,Ishwargonj,0,0,0,0,0,0
-9,Muktagacha,2,0,2,0,0,4
-10,Mymensingh Sadar,2,0,6,0,0,2
-11,Nandail,0,0,0,0,0,0
-12,Phulpur,0,0,0,0,0,0
-13,Trishal,4,0,4,0,8,8
-14,Total,16,64,37,31,28,52
+1,,,,,,,
+2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Bhaluka,2,14,4,1,0,3
+4,Dhubaura,4,0,3,3,2,3
+5,Fulbaria,0,0,0,0,0,0
+6,Gaffargaon,0,0,0,0,0,0
+7,Gauripur,0,0,0,0,0,0
+8,Haluaghat,2,50,18,27,18,32
+9,Ishwargonj,0,0,0,0,0,0
+10,Muktagacha,2,0,2,0,0,4
+11,Mymensingh Sadar,2,0,6,0,0,2
+12,Nandail,0,0,0,0,0,0
+13,Phulpur,0,0,0,0,0,0
+14,Trishal,4,0,4,0,8,8
+15,Total,16,64,37,31,28,52

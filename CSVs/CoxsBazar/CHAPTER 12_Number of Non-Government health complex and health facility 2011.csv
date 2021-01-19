@@ -1,51 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Non-Government health complex and health facility 2011,,,,,,,,,,
-1,"
-
-Upazila","Number of  hospital/ clinic/ nursing
-home","
-
-Number of bed","
-Number of  doctor","
-
-Number of nurse","
-Number of    technician","
-Number of
-other staff","Number of patient
-under health facilitiy","Number of patient
-under health facilitiy","Number of patient
-under health facilitiy","Number of patient
-under health facilitiy"
-2,"
-
-Upazila","Number of  hospital/ clinic/ nursing
-home","
-
-Number of bed","
-Number of  doctor","
-
-Number of nurse","
-Number of    technician","
-Number of
-other staff",Indoor,Indoor,Outdoor,Outdoor
-3,"
-
-Upazila","Number of  hospital/ clinic/ nursing
-home","
-
-Number of bed","
-Number of  doctor","
-
-Number of nurse","
-Number of    technician","
-Number of
-other staff",Male,Female,Male,Female
-4,Chakaria,6,60,41,48,37,19,2217,3170,6620,8320
-5,Cox's Bazar Sadar,4,200,45,65,30,41,4270,4145,6733,0
-6,Kutubdia,1,4,1,4,0,52,575,1020,600,1500
-7,Moheshkhali,0,0,0,0,0,0,0,0,0,0
-8,Pekua,2,25,6,4,15,30,130,140,130,140
-9,Ramu,2,40,8,7,2,20,702,811,2061,2266
-10,Teknaf,7,0,0,0,7,29,0,0,5528,9721
-11,Ukhia,0,0,0,0,0,0,0,0,0,0
-12,Total,22,329,101,128,91,191,7894,9286,21672,21947
+1,,,,,,,,,,,
+2,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse, Number of    technician, Number of other staff,Number of patient under health facilitiy,Number of patient under health facilitiy,Number of patient under health facilitiy,Number of patient under health facilitiy
+3,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse, Number of    technician, Number of other staff,Indoor,Indoor,Outdoor,Outdoor
+4,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse, Number of    technician, Number of other staff,Male,Female,Male,Female
+5,Chakaria,6,60,41,48,37,19,2217,3170,6620,8320
+6,Cox's Bazar Sadar,4,200,45,65,30,41,4270,4145,6733,0
+7,Kutubdia,1,4,1,4,0,52,575,1020,600,1500
+8,Moheshkhali,0,0,0,0,0,0,0,0,0,0
+9,Pekua,2,25,6,4,15,30,130,140,130,140
+10,Ramu,2,40,8,7,2,20,702,811,2061,2266
+11,Teknaf,7,0,0,0,7,29,0,0,5528,9721
+12,Ukhia,0,0,0,0,0,0,0,0,0,0
+13,Total,22,329,101,128,91,191,7894,9286,21672,21947

@@ -1,12 +1,11 @@
 ,0,1,2,3,4
 0,"Number of branch of specialized (Krishi, Co-operative etc) bank 2011",,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C",Number of current A/C
-2,Belabo,3,18,19638,195
-3,Manohardi,3,25,20591,174
-4,Narsingdi Sadar,2,20,12077,358
-5,Palash,2,14,4152,90
-6,Roypura,3,22,19701,2200
-7,Sibpur,4,29,1345,203
-8,Total,17,128,77504,3220
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Belabo,3,18,19638,195
+4,Manohardi,3,25,20591,174
+5,Narsingdi Sadar,2,20,12077,358
+6,Palash,2,14,4152,90
+7,Roypura,3,22,19701,2200
+8,Sibpur,4,29,1345,203
+9,Total,17,128,77504,3220

@@ -1,13 +1,10 @@
 ,0,1,2,3,4
 0,Cotton and Sericulture cultivation for the year 2010-11,,,,
 1,(Area in acre and production in metric ton),,,,
-2,"
-Upazila",All cotton,All cotton,Sericulture,Sericulture
-3,"
-Upazila",Area,Production,Area,Production
-4,Atwari,0,0,0,0
-5,Boda,0,0,0,0
-6,Debiganj,5,125,0,0
-7,Panchagarh Sadar,0,0,0,0
-8,Tentulia,0,0,0,0
-9,Total,5,125,0,0
+2,Upazila,All cotton Area,All cotton Production,Sericulture Area,Sericulture Production
+3,Atwari,0,0,0,0
+4,Boda,0,0,0,0
+5,Debiganj,5,125,0,0
+6,Panchagarh Sadar,0,0,0,0
+7,Tentulia,0,0,0,0
+8,Total,5,125,0,0

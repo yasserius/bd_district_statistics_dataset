@@ -1,19 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pumpkin, parble (potol) and cabbage 2009-10",,,,,,
 1,(Area in acre & production in metric ton),,,,,,
-2,"
-Upazila/city corporation",Pumpkin,Pumpkin,Parble (potol),Parble (potol),Cabbage,Cabbage
-3,"
-Upazila/city corporation",Area,Production,Area,Production,Area,Production
-4,Agailjhara,0,0,0,0,10,27.4
-5,Babuganj,22,25.01,0,0,118,336
-6,Bakerganj,49,43,0,0,25,63
-7,Banaripara,29,34,0,0,50,68.35
-8,Barisal city corporation,15,28,0,0,6,17
-9,Barisal sadar,54,115,0,0,48,133
-10,Gaurnadi,88,361,0,0,11.6,16
-11,Hizla,20,44,0,0,9,240
-12,Mehendiganj,63,81.9,0,0,8,17.6
-13,Muladi,90,167,0,0,6,63.5
-14,Wazirpur,80,160,0,0,80,453
-15,Total,510,1058.91,0,0,371.6,1434.85
+2,Upazila/city corporation,Pumpkin Area,Pumpkin Production,Parble (potol) Area,Parble (potol) Production,Cabbage Area,Cabbage Production
+3,Agailjhara,0,0,0,0,10,27.4
+4,Babuganj,22,25.01,0,0,118,336
+5,Bakerganj,49,43,0,0,25,63
+6,Banaripara,29,34,0,0,50,68.35
+7,Barisal city corporation,15,28,0,0,6,17
+8,Barisal sadar,54,115,0,0,48,133
+9,Gaurnadi,88,361,0,0,11.6,16
+10,Hizla,20,44,0,0,9,240
+11,Mehendiganj,63,81.9,0,0,8,17.6
+12,Muladi,90,167,0,0,6,63.5
+13,Wazirpur,80,160,0,0,80,453
+14,Total,510,1058.91,0,0,371.6,1434.85

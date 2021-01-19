@@ -1,16 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of secondary school, teacher and student by municipality 2011",,,,,,,,
-1,"
-Upazila","Number of
-institute",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students per
-teacher"
-2,"
-Upazila","Number of
-institute",Male,Female,Total,Male,Female,Total,"Students per
-teacher"
-3,Bholahat,0,0,0,0,0,0,0,0
-4,Chapai Nawabganj Sadar,24,234,95,329,4775,7111,11886,36
-5,Gomastapur,9,74,26,100,1279,2042,3321,33
-6,Nachole,4,27,12,39,688,819,1507,38
-7,Shibganj,8,127,30,157,1465,1520,2985,19
-8,Total,45,462,163,625,8207,11492,19699,31
+1,,,,,,,,,
+2, Upazila,Number of institute,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of institute,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Bholahat,0,0,0,0,0,0,0,0
+5,Chapai Nawabganj Sadar,24,234,95,329,4775,7111,11886,36
+6,Gomastapur,9,74,26,100,1279,2042,3321,33
+7,Nachole,4,27,12,39,688,819,1507,38
+8,Shibganj,8,127,30,157,1465,1520,2985,19
+9,Total,45,462,163,625,8207,11492,19699,31

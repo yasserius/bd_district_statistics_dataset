@@ -1,16 +1,12 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of health centre, providing health and family planning service 2011",,,,,,,
-1,"
-Upazila","Number of union health
-centre",Health service,"
-Sterilization","
-M.R.",Injection/ copper-T,Oral pill/ condom,"Number of immunization
-centre"
-2,Barlekha,4,7285,12,50,430,28850,36
-3,Juri,6,8521,580,0,251,10491,54
-4,Kamalganj,9,12161,1,5,5,17852,81
-5,Kulaura,8,8513,670,120,1149,21756,72
-6,Moulvibazar Sadar,10,11253,2,12,12,85212,90
-7,Rajnagar,8,8541,644,159,697,15334,72
-8,Sreemangal,5,8520,0,10,281,54617,45
-9,Total,50,64794,1909,356,2825,234112,450
+1,,,,,,,,
+2, Upazila,Number of union health centre,Health service, Sterilization, M.R.,Injection/ copper-T,Oral pill/ condom,Number of immunization centre
+3,Barlekha,4,7285,12,50,430,28850,36
+4,Juri,6,8521,580,0,251,10491,54
+5,Kamalganj,9,12161,1,5,5,17852,81
+6,Kulaura,8,8513,670,120,1149,21756,72
+7,Moulvibazar Sadar,10,11253,2,12,12,85212,90
+8,Rajnagar,8,8541,644,159,697,15334,72
+9,Sreemangal,5,8520,0,10,281,54617,45
+10,Total,50,64794,1909,356,2825,234112,450

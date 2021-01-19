@@ -1,22 +1,16 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Pubali and Uttara bank 2011,,,,,,,,,,
-1,"
-Upazila",Pubali bank,Pubali bank,Pubali bank,Pubali bank,Pubali bank,Uttara bank,Uttara bank,Uttara bank,Uttara bank,Uttara bank
-2,"
-Upazila","Number of
-branch",Account,Account,Account,Account,"Number of
-branch",Account,Account,Account,Account
-3,"
-Upazila","Number of
-branch",S.D,C.D,F.D,S.T.D,"Number of
-branch",S.D,C.D,F.D,S.T.D
-4,Begumganj,1,6000,2500,50,28,2,10426,1552,472,41
-5,Chatkhil,0,0,0,0,0,0,0,0,0,0
-6,Companiganj,1,1808,1640,120,10,1,3252,187,305,17
-7,Hatiya,1,4132,278,27,6,0,0,0,0,0
-8,Kabirhat,0,0,0,0,0,0,0,0,0,0
-9,Noakhali Sadar,2,6698,1535,294,45,2,4192,1265,738,3
-10,Senbagh,0,0,0,0,0,0,0,0,0,0
-11,Sonaimuri,1,1142,34,43,1,0,0,0,0,0
-12,Subarnachar,0,0,0,0,0,0,0,0,0,0
-13,Total,6,19780,5987,534,90,5,17870,3004,1515,61
+1,,,,,,,,,,,
+2, Upazila,Pubali bank,Pubali bank,Pubali bank,Pubali bank,Pubali bank,Uttara bank,Uttara bank,Uttara bank,Uttara bank,Uttara bank
+3, Upazila,Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
+4, Upazila,Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
+5,Begumganj,1,6000,2500,50,28,2,10426,1552,472,41
+6,Chatkhil,0,0,0,0,0,0,0,0,0,0
+7,Companiganj,1,1808,1640,120,10,1,3252,187,305,17
+8,Hatiya,1,4132,278,27,6,0,0,0,0,0
+9,Kabirhat,0,0,0,0,0,0,0,0,0,0
+10,Noakhali Sadar,2,6698,1535,294,45,2,4192,1265,738,3
+11,Senbagh,0,0,0,0,0,0,0,0,0,0
+12,Sonaimuri,1,1142,34,43,1,0,0,0,0,0
+13,Subarnachar,0,0,0,0,0,0,0,0,0,0
+14,Total,6,19780,5987,534,90,5,17870,3004,1515,61

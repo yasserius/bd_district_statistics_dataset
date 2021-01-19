@@ -1,17 +1,15 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,"
-Upazila","
-Number of power tiller","
-Tractor",Number of threshing machine
-2,Baghaichhari,133,04,24
-3,Barkal,11,2,37
-4,Belai Chhari,0,0,0
-5,Jurai Chhari,35,0,60
-6,Kaptai,55,0,150
-7,Kawkhali,61,3,146
-8,Langadu,58,17,806
-9,Naniarchar,150,0,35
-10,Rangamati Sadar,62,0,0
-11,Rajasthali,30,2,20
-12,Total,595,28,1278
+1,,,,
+2, Upazila, Number of power tiller, Tractor,Number of threshing machine
+3,Baghaichhari,133,04,24
+4,Barkal,11,2,37
+5,Belai Chhari,0,0,0
+6,Jurai Chhari,35,0,60
+7,Kaptai,55,0,150
+8,Kawkhali,61,3,146
+9,Langadu,58,17,806
+10,Naniarchar,150,0,35
+11,Rangamati Sadar,62,0,0
+12,Rajasthali,30,2,20
+13,Total,595,28,1278

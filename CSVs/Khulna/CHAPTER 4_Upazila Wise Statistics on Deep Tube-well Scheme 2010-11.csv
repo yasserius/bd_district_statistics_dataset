@@ -1,9 +1,7 @@
 ,0,1,2,3
 0,Upazila Wise Statistics on Deep Tube-well Scheme 2010-11,,,
-1,"
-Upazila/city corporation",Number of deep tube-wells,Number of deep tube-wells,Area Irrigated (In acres)
-2,"
-Upazila/city corporation",Commissioned,Operated,Area Irrigated (In acres)
+1,,,,
+2,Upazila/city corporation,Number of deep tube-wells Commissioned,Number of deep tube-wells Operated,Area Irrigated (In acres)
 3,Batiaghata,0,28,0
 4,Dacope,0,0,0
 5,Dighalia,0,0,0

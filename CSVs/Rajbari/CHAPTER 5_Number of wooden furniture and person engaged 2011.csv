@@ -1,14 +1,11 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Baliakandi,152,230,75,305
-4,Goalanda,12,36,11,47
-5,Kalukhali,15,28,10,38
-6,Pangsha,23,40,15,55
-7,Rajbari Sadar,60,200,100,300
-8,Total,262,534,211,745
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Baliakandi,152,230,75,305
+5,Goalanda,12,36,11,47
+6,Kalukhali,15,28,10,38
+7,Pangsha,23,40,15,55
+8,Rajbari Sadar,60,200,100,300
+9,Total,262,534,211,745

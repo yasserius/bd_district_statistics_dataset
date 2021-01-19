@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of rice mill and person engaged 2011,,,,
-1,"
-Upazila","
-Units",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Units",Male,Female,Total
+1,,,,,
+2,Upazila,Units,Person engaged Male,Person engaged Female,Person engaged Total
 3,Basail,7,38,32,70
 4,Bhuapur,86,172,2,174
 5,Delduar,88,176,3,179

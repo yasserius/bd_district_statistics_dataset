@@ -1,8 +1,7 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
 1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,"Unmetalled
-(kacha) road",Total
+2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
 3,Chakaria,40.65,204,432.02,676.67
 4,Cox's Bazar Sadar,155,50,831,1036
 5,Kutubdia,34.5,76.05,133.25,243.8

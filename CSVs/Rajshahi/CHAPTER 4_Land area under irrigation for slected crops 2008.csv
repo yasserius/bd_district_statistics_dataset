@@ -1,19 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Land area under irrigation for slected crops 2008,,,,,,
 1,(Area in acre),,,,,,
-2,Upazila/city corporation,Paddy,Paddy,Wheat,Wheat,Potato,Potato
-3,Upazila/city corporation,Total area,"Irrigated
-area",Total area,"Irrigated
-area",Total area,"Irrigated
-area"
-4,Bagha,12525,2600,7194,7194,672,672
-5,Baghmara,64245,59132,809,809,19602,19602
-6,Charghat,9522,3750,8390,8390,338,338
-7,Durgapur,29241,24223,1606,1606,3661,3661
-8,Godagari,102546,130043,3319,3319,539,539
-9,Mohanpur,34283,23991,364,364,9505,9505
-10,Paba,35985,32703,4586,4586,6716,6716
-11,Puthia,19076,17685,4471,4471,492,492
-12,Rajshahi city corporation,4693,267,751,751,468,468
-13,Tanore,104317,43225,1551,1551,2450,2450
-14,Total,416433,337619,33041,33041,44443,44443
+2,Upazila/city corporation,Paddy Total area,Paddy Irrigated area,Wheat Total area,Wheat Irrigated area,Potato Total area,Potato Irrigated area
+3,Bagha,12525,2600,7194,7194,672,672
+4,Baghmara,64245,59132,809,809,19602,19602
+5,Charghat,9522,3750,8390,8390,338,338
+6,Durgapur,29241,24223,1606,1606,3661,3661
+7,Godagari,102546,130043,3319,3319,539,539
+8,Mohanpur,34283,23991,364,364,9505,9505
+9,Paba,35985,32703,4586,4586,6716,6716
+10,Puthia,19076,17685,4471,4471,492,492
+11,Rajshahi city corporation,4693,267,751,751,468,468
+12,Tanore,104317,43225,1551,1551,2450,2450
+13,Total,416433,337619,33041,33041,44443,44443

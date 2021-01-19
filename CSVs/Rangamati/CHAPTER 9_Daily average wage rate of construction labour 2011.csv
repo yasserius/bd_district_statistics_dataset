@@ -1,19 +1,17 @@
 ,0,1,2,3,4,5,6
 0,Daily average wage rate of construction labour 2011,,,,,,
-1,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
-2,"
-Upazila",Labour,Labour,Labour,Labour,Labour,Labour
-3,"
-Upazila",Mason,"Helper
-(Jogaly)",Carpenter,Colour,Electric,Plumber
-4,Baghaichhari,350,150,300,300,300,300
-5,Barkal,500,400,500,0,0,0
-6,Belai Chhari,450,350,400,500,500,450
-7,Jurai Chhari,500,300,500,450,500,450
-8,Kaptai,450,250,400,450,500,500
-9,Kawkhali,400,300,400,400,400,400
-10,Langadu,500,300,450,450,600,500
-11,Naniarchar,500,300,500,500,540,600
-12,Rangamati Sadar,500,350,450,450,500,500
-13,Rajasthali,400,300,400,400,400,450
-14,Average,455,300,430,433,471,461
+1,,,,,,,
+2,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
+3, Upazila,Labour,Labour,Labour,Labour,Labour,Labour
+4, Upazila,Mason,Helper (Jogaly),Carpenter,Colour,Electric,Plumber
+5,Baghaichhari,350,150,300,300,300,300
+6,Barkal,500,400,500,0,0,0
+7,Belai Chhari,450,350,400,500,500,450
+8,Jurai Chhari,500,300,500,450,500,450
+9,Kaptai,450,250,400,450,500,500
+10,Kawkhali,400,300,400,400,400,400
+11,Langadu,500,300,450,450,600,500
+12,Naniarchar,500,300,500,500,540,600
+13,Rangamati Sadar,500,350,450,450,500,500
+14,Rajasthali,400,300,400,400,400,450
+15,Average,455,300,430,433,471,461

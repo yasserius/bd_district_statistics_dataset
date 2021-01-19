@@ -1,18 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Non-government secondary school, teacher and student 2011",,,,,,,,
-1,"
-Upazila","Number of
-school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students per
-teacher"
-2,"
-Upazila","Number of
-school",Male,Female,Total,Male,Female,Total,"Students per
-teacher"
-3,Barlekha,28,237,69,306,6513,9184,15697,51
-4,Juri,16,99,30,129,3724,4968,8692,67
-5,Kamalganj,32,180,35,215,6393,8184,14574,68
-6,Kulaura,36,593,74,667,7751,11191,18942,28
-7,Moulvibazar Sadar,24,197,87,284,5207,7505,12712,45
-8,Rajnagar,22,126,35,161,4010,5563,9573,59
-9,Sreemangal,26,278,77,355,7658,11171,18829,53
-10,Total,184,1710,407,2117,41256,57766,99019,47
+1,,,,,,,,,
+2, Upazila,Number of school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Barlekha,28,237,69,306,6513,9184,15697,51
+5,Juri,16,99,30,129,3724,4968,8692,67
+6,Kamalganj,32,180,35,215,6393,8184,14574,68
+7,Kulaura,36,593,74,667,7751,11191,18942,28
+8,Moulvibazar Sadar,24,197,87,284,5207,7505,12712,45
+9,Rajnagar,22,126,35,161,4010,5563,9573,59
+10,Sreemangal,26,278,77,355,7658,11171,18829,53
+11,Total,184,1710,407,2117,41256,57766,99019,47

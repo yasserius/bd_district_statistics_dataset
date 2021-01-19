@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building material 2011,,,,,,
 1,(Price in taka),,,,,,
-2,"
-Upazila",Brick-01 (per1000),"Cement
-(per 50 kg bag)",Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
+2,Upazila,Brick-01 (per1000),Cement (per 50 kg bag),Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
 3,Akhaura,8000,480,65000,29,25,80
 4,Ashuganj,7000,450,65000,25,20,110
 5,Banchharampur,8000,480,55000,38,15,80

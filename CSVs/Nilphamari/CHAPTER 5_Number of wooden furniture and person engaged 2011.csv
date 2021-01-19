@@ -1,15 +1,12 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Dimla,118,244,110,345
-4,Domar,186,208,488,696
-5,Jaldhaka,87,105,156,261
-6,Kishorgonj,67,69,158,227
-7,Nilphamary Sadar,138,148,966,1114
-8,Sayedpur,260,310,780,1090
-9,Total,856,1084,2658,3733
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Dimla,118,244,110,345
+5,Domar,186,208,488,696
+6,Jaldhaka,87,105,156,261
+7,Kishorgonj,67,69,158,227
+8,Nilphamary Sadar,138,148,966,1114
+9,Sayedpur,260,310,780,1090
+10,Total,856,1084,2658,3733

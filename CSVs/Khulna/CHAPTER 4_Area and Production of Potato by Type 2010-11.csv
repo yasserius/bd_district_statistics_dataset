@@ -1,16 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Area and Production of Potato by Type 2010-11,,,,,,
 1,(Area in acre & production in metric ton),,,,,,
-2,Upazila/city corporation,Potato,Potato,Sweet potato,Sweet potato,Total Potato,Total Potato
-3,Upazila/city corporation,Area,Production,Area,Production,Area,Production
-4,Batiaghata,202,619,13.75,61.4,215.75,680.4
-5,Dacope,160,654.2,0,0,160,654.2
-6,Dighalia,7,33,5,11,2,7
-7,Dumuria,435,3911.52,8,26.52,443,3938.04
-8,Khulna City Corporation,7.87,8.92,1.6,4.56,6.1,13.48
-9,Koyra,40,210,3,10.45,43,253
-10,Paikgachha,293,613.85,60.35,263.81,353.35,837.66
-11,Phultala,3.5,17.32,2.5,6.32,6,23.64
-12,Rupsa,23,50.07,16,51.2,39,101.27
-13,Terokhada,2.5,9.73,4,6.8,6.5,16.53
-14,Total,1173.87,6127.61,114.2,442.06,1274.7,6525.22
+2,Upazila/city corporation,Potato Area,Potato Production,Sweet potato Area,Sweet potato Production,Total Potato Area,Total Potato Production
+3,Batiaghata,202,619,13.75,61.4,215.75,680.4
+4,Dacope,160,654.2,0,0,160,654.2
+5,Dighalia,7,33,5,11,2,7
+6,Dumuria,435,3911.52,8,26.52,443,3938.04
+7,Khulna City Corporation,7.87,8.92,1.6,4.56,6.1,13.48
+8,Koyra,40,210,3,10.45,43,253
+9,Paikgachha,293,613.85,60.35,263.81,353.35,837.66
+10,Phultala,3.5,17.32,2.5,6.32,6,23.64
+11,Rupsa,23,50.07,16,51.2,39,101.27
+12,Terokhada,2.5,9.73,4,6.8,6.5,16.53
+13,Total,1173.87,6127.61,114.2,442.06,1274.7,6525.22

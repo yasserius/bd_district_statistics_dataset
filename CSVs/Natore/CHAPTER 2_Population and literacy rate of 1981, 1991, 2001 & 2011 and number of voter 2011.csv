@@ -1,13 +1,12 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Population and literacy rate of 1981, 1991, 2001 & 2011 and number of voter 2011",,,,,,,,,,,
-1,"
-Upazila",Population (000),Population (000),Population (000),Population (000),Literacy rate (%),Literacy rate (%),Literacy rate (%),Literacy rate (%),Number of voter (000),Number of voter (000),Number of voter (000)
-2,"
-Upazila",1981,1991,2001,2011,1981,1991,2001,2011,Male,Female,Total
-3,Bagatipara,224,275,119,131,36.9,39.0,47.5,56.5,104,108,212
-4,Baraigram,175,171,245,280,19.5,24.2,41.6,50.0,88,89,177
-5,Gurudaspur,136,173,194,215,13.1,16.1,34.9,41.9,66,70,136
-6,Lalpur,141,230,243,274,22.0,25.3,43.6,50.6,86,70,177
-7,Natoree Sadar,86,107,400,442,22.6,31.2,45.4,55.6,43,44,87
-8,Singra,273,369,321,364,27.1,31.2,36.7,42.9,141,145,286
-9,Total,1035,1325,1521,1707,23.5,27.8,41.5,49.6,528,527,1075
+1,,,,,,,,,,,,
+2, Upazila,Population (000),Population (000),Population (000),Population (000),Literacy rate (%),Literacy rate (%),Literacy rate (%),Literacy rate (%),Number of voter (000),Number of voter (000),Number of voter (000)
+3, Upazila,1981,1991,2001,2011,1981,1991,2001,2011,Male,Female,Total
+4,Bagatipara,224,275,119,131,36.9,39.0,47.5,56.5,104,108,212
+5,Baraigram,175,171,245,280,19.5,24.2,41.6,50.0,88,89,177
+6,Gurudaspur,136,173,194,215,13.1,16.1,34.9,41.9,66,70,136
+7,Lalpur,141,230,243,274,22.0,25.3,43.6,50.6,86,70,177
+8,Natoree Sadar,86,107,400,442,22.6,31.2,45.4,55.6,43,44,87
+9,Singra,273,369,321,364,27.1,31.2,36.7,42.9,141,145,286
+10,Total,1035,1325,1521,1707,23.5,27.8,41.5,49.6,528,527,1075

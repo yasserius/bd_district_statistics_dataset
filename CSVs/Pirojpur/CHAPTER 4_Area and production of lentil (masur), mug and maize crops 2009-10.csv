@@ -1,27 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Area and production of lentil (masur), mug and maize crops 2009-10",,,,,,,,
 1,(Area in acre and production in metric ton),,,,,,,,
-2,"
-Upazila",Lentil (Masur),Lentil (Masur),Mug,Mug,Maize,Maize,,
-3,"
-Upazila",Area,Production,Area,Production,Area,Production,,
-4,Bhandaria,5,2,250,81,63,123,,
-5,Kawkhali,22,4,13,4,8,10,,
-6,Mathbaria,0,0,83,10,12,42,,
-7,Nazirpur,31,8,74,13,3,2,,
-8,Nesarabad,5,1,54,11,0,0,,
-9,Pirojpur Sadar,0,0,0,0,0,0,,
-10,Zianagar,0,0,30,5,0,0,,
-11,Total,63,14,504,124,86,176,,
-12,"
-Upazila",Gram,Gram,Motor,Motor,Khesari,Khesari,Mash-kalai,Mash-kalai
-13,"
-Upazila",Area,Production,Area,Production,Area,Production,Area,Production
-14,Bhandaria,0,0,0,0,2125,765,0,0
-15,Kawkhali,0,0,0,0,66,16,0,0
-16,Mathbaria,0,0,0,0,113,16,0,0
-17,Nazirpur,0,0,0,0,26,9,0,0
-18,Nesarabad,0,0,0,0,27,5,0,0
-19,Pirojpur Sadar,0,0,0,0,250,76,0,0
-20,Zianagar,0,0,0,0,155,29,0,0
-21,Total,0,0,0,0,2762,916,0,0
+2,Upazila Upazila Bhandaria Kawkhali Mathbaria Nazirpur Nesarabad Pirojpur Sadar Zianagar Total,Lentil (Masur) Area 5 22 0 31 5 0 0 63,Lentil (Masur) Production 2 4 0 8 1 0 0 14,Mug Area 250 13 83 74 54 0 30 504,Mug Production 81 4 10 13 11 0 5 124,Maize Area 63 8 12 3 0 0 0 86,Maize Production 123 10 42 2 0 0 0 176,,
+3, Upazila,Gram,Gram,Motor,Motor,Khesari,Khesari,Mash-kalai,Mash-kalai
+4, Upazila,Area,Production,Area,Production,Area,Production,Area,Production
+5,Bhandaria,0,0,0,0,2125,765,0,0
+6,Kawkhali,0,0,0,0,66,16,0,0
+7,Mathbaria,0,0,0,0,113,16,0,0
+8,Nazirpur,0,0,0,0,26,9,0,0
+9,Nesarabad,0,0,0,0,27,5,0,0
+10,Pirojpur Sadar,0,0,0,0,250,76,0,0
+11,Zianagar,0,0,0,0,155,29,0,0
+12,Total,0,0,0,0,2762,916,0,0

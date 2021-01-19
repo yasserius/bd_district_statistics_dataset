@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6
 0,Number of religious institution 2011,,,,,,
-1,Upazila,Mosque,Eid-Gah,Temple (mandir),Church (girza),Pagoda,Others
-2,Kamalnagar,527,42,2,0,0,0
-3,Lakshmipur Sadar,1252,238,3,1,0,0
-4,Ramganj,472,118,47,0,0,0
-5,Ramgati,535,212,18,0,0,0
-6,Roypur,328,53,9,0,0,0
-7,Total,3114,663,79,1,0,0
+1,,,,,,,
+2,Upazila,Mosque,Eid-Gah,Temple (mandir),Church (girza),Pagoda,Others
+3,Kamalnagar,527,42,2,0,0,0
+4,Lakshmipur Sadar,1252,238,3,1,0,0
+5,Ramganj,472,118,47,0,0,0
+6,Ramgati,535,212,18,0,0,0
+7,Roypur,328,53,9,0,0,0
+8,Total,3114,663,79,1,0,0

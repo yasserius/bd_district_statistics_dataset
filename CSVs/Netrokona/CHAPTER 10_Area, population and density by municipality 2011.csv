@@ -1,19 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Area, population and density by municipality 2011",,,,,,
-1,"
-Upazila",Name of municipality,"Area (In sq.
-km.)",Population census-2011,Population census-2011,Population census-2011,Density per sq.km.
-2,"
-Upazila",Name of municipality,"Area (In sq.
-km.)",Male,Female,Both sex,Density per sq.km.
-3,Atpara,-,0,0,0,0,0
-4,Barhatta,-,0,0,0,0,0
-5,Durgapur,Durgapur,13.33,12298,12008,24306,1823
-6,Kalmakanda,-,0,0,0,0,0
-7,Kendua,Kendua,10.65,11203,11160,22363,2100
-8,Khaliajuri,-,0,0,0,0,0
-9,Madan,Madan,11.78,8837,8551,17388,1476
-10,Mohanganj,Mohanganj,6.94,13636,13557,27193,3918
-11,Netrokona Sadar,Netrokona,29.39,46898,45038,91936,3128
-12,Purbadhala,-,0,0,0,0,0
-13,Total,-,72.09,92872,90314,183186,2541
+1,,,,,,,
+2, Upazila,Name of municipality,Area (In sq. km.),Population census-2011,Population census-2011,Population census-2011,Density per sq.km.
+3, Upazila,Name of municipality,Area (In sq. km.),Male,Female,Both sex,Density per sq.km.
+4,Atpara,-,0,0,0,0,0
+5,Barhatta,-,0,0,0,0,0
+6,Durgapur,Durgapur,13.33,12298,12008,24306,1823
+7,Kalmakanda,-,0,0,0,0,0
+8,Kendua,Kendua,10.65,11203,11160,22363,2100
+9,Khaliajuri,-,0,0,0,0,0
+10,Madan,Madan,11.78,8837,8551,17388,1476
+11,Mohanganj,Mohanganj,6.94,13636,13557,27193,3918
+12,Netrokona Sadar,Netrokona,29.39,46898,45038,91936,3128
+13,Purbadhala,-,0,0,0,0,0
+14,Total,-,72.09,92872,90314,183186,2541

@@ -1,14 +1,11 @@
 ,0,1,2,3,4
 0,Number of plastic industry and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Araihazar,0,0,0,0
-4,Bandar,0,0,0,0
-5,Narayanganj Sadar,5,18,22,40
-6,Rupganj,2,275,180,455
-7,Sonargaon,0,0,0,0
-8,Total,7,293,202,495
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Araihazar,0,0,0,0
+5,Bandar,0,0,0,0
+6,Narayanganj Sadar,5,18,22,40
+7,Rupganj,2,275,180,455
+8,Sonargaon,0,0,0,0
+9,Total,7,293,202,495

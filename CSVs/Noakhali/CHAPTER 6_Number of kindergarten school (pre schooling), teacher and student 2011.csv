@@ -1,20 +1,15 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kindergarten school (pre schooling), teacher and student 2011",,,,,,,,
-1,"
-Upazila","Number of kindergarten
-school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students per
-teacher"
-2,"
-Upazila","Number of kindergarten
-school",Male,Female,Total,Male,Female,Total,"Students per
-teacher"
-3,Begumganj,64,479,12,491,4143,3098,7241,15
-4,Chatkhil,64,197,142,339,2914,2846,5760,17
-5,Companiganj,28,117,84,201,3262,2568,5330,27
-6,Hatiya,5,8,12,20,332,498,830,42
-7,Kabirhat,24,70,50,120,4249,4152,8401,70
-8,Noakhali Sadar,37,161,239,400,2923,2150,5073,13
-9,Senbagh,57,207,252,459,3010,3533,6543,14
-10,Sonaimuri,101,282,248,530,4681,4975,9656,18
-11,Subarnachar,7,20,30,50,786,777,1563,31
-12,Total,387,1541,1069,2610,26300,24597,50397,19
+1,,,,,,,,,
+2, Upazila,Number of kindergarten school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of kindergarten school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Begumganj,64,479,12,491,4143,3098,7241,15
+5,Chatkhil,64,197,142,339,2914,2846,5760,17
+6,Companiganj,28,117,84,201,3262,2568,5330,27
+7,Hatiya,5,8,12,20,332,498,830,42
+8,Kabirhat,24,70,50,120,4249,4152,8401,70
+9,Noakhali Sadar,37,161,239,400,2923,2150,5073,13
+10,Senbagh,57,207,252,459,3010,3533,6543,14
+11,Sonaimuri,101,282,248,530,4681,4975,9656,18
+12,Subarnachar,7,20,30,50,786,777,1563,31
+13,Total,387,1541,1069,2610,26300,24597,50397,19

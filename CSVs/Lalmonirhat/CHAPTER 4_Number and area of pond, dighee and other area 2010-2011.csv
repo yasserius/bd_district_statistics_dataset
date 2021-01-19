@@ -1,17 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Number and area of pond, dighee and other area 2010-2011",,,,,,
 1,(Area in acre),,,,,,
-2,"
-Upazila",Pond,Pond,Dighee,Dighee,"
-Other area","
-Total area"
-3,"
-Upazila",Number,Area,Number,Area,"
-Other area","
-Total area"
-4,Aditmari,1906,986,5,4,165,1155
-5,Hatibandha,1600,250,4,8,0,490
-6,Kaligonj,2125,740,5,10,25,1800
-7,Lalmonirhat Sadar,1940,662,15,3295,20,702
-8,Patgram,2130,1071,14,1500,479,1565
-9,Total,9701,3708,43,4817,689,5712
+2,Upazila,Pond Number,Pond Area,Dighee Number,Dighee Area,Other area,Total area
+3,Aditmari,1906,986,5,4,165,1155
+4,Hatibandha,1600,250,4,8,0,490
+5,Kaligonj,2125,740,5,10,25,1800
+6,Lalmonirhat Sadar,1940,662,15,3295,20,702
+7,Patgram,2130,1071,14,1500,479,1565
+8,Total,9701,3708,43,4817,689,5712

@@ -1,19 +1,18 @@
 ,0,1,2,3,4,5
 0,Average doctor s fee per patient 2011,,,,,
-1,(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka)
-2,"
-Upazila",Doctor,Doctor,Doctor,Doctor,Doctor
-3,"
-Upazila",MBBS,FCPS,Dentist,Gynecologist,Homeopathy
-4,Atrai,200,0,100,0,10
-5,Badalgachhi,200,0,0,0,0
-6,Dhamoirhat,200,150,100,0,50
-7,Manda,100,0,100,0,10
-8,Mahadebpur,200,300,200,200,50
-9,Naogaon sadar,200,400,300,300,20
-10,Niamatpur,200,300,100,200,50
-11,Patnitala,200,300,50,300,0
-12,Porsha,200,300,100,200,0
-13,Raninagar,200,0,100,0,50
-14,Sapahar,200,300,200,0,0
-15,Average,191,293,135,240,34
+1,,,,,,
+2,(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka)
+3, Upazila,Doctor,Doctor,Doctor,Doctor,Doctor
+4, Upazila,MBBS,FCPS,Dentist,Gynecologist,Homeopathy
+5,Atrai,200,0,100,0,10
+6,Badalgachhi,200,0,0,0,0
+7,Dhamoirhat,200,150,100,0,50
+8,Manda,100,0,100,0,10
+9,Mahadebpur,200,300,200,200,50
+10,Naogaon sadar,200,400,300,300,20
+11,Niamatpur,200,300,100,200,50
+12,Patnitala,200,300,50,300,0
+13,Porsha,200,300,100,200,0
+14,Raninagar,200,0,100,0,50
+15,Sapahar,200,300,200,0,0
+16,Average,191,293,135,240,34

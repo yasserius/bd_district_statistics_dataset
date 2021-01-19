@@ -1,19 +1,17 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C","Number of
-current A/C"
-2,Bhaluka,4,56,10393,3508
-3,Dhubaura,0,0,0,0
-4,Fulbaria,1,27,1861,361
-5,Gaffargaon,0,0,0,0
-6,Gauripur,1,4,250,100
-7,Haluaghat,0,0,0,0
-8,Ishwargonj,2,9,0,0
-9,Muktagacha,6,133,17250,720
-10,Mymensingh Sadar,27,471,83970,18995
-11,Nandail,2,6,903,903
-12,Phulpur,0,0,0,0
-13,Trishal,1,10,3855,590
-14,Total,44,716,118482,25177
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Bhaluka,4,56,10393,3508
+4,Dhubaura,0,0,0,0
+5,Fulbaria,1,27,1861,361
+6,Gaffargaon,0,0,0,0
+7,Gauripur,1,4,250,100
+8,Haluaghat,0,0,0,0
+9,Ishwargonj,2,9,0,0
+10,Muktagacha,6,133,17250,720
+11,Mymensingh Sadar,27,471,83970,18995
+12,Nandail,2,6,903,903
+13,Phulpur,0,0,0,0
+14,Trishal,1,10,3855,590
+15,Total,44,716,118482,25177

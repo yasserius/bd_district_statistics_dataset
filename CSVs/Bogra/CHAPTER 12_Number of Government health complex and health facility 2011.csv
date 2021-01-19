@@ -1,31 +1,17 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Government health complex and health facility 2011,,,,,,,,,,
-1,"
-
-Upazila",Number of hospital/ clinic/ nursing home,Number of bed,Number of doctor,Number of nurse,Number of technician,"Number of
-other staff","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility"
-2,"
-
-Upazila",Number of hospital/ clinic/ nursing home,Number of bed,Number of doctor,Number of nurse,Number of technician,"Number of
-other staff",Indoor,Indoor,Outdoor,Outdoor
-3,"
-
-Upazila",Number of hospital/ clinic/ nursing home,Number of bed,Number of doctor,Number of nurse,Number of technician,"Number of
-other staff",Male,Female,Male,Female
-4,Adamdighi,1,50,7,9,8,63,2019,2555,20974,13957
-5,Bogra sadar,5,810,185,358,85,538,32025,31868,246943,298083
-6,Dhunat,1,50,5,9,0,113,3690,2830,6920,3240
-7,Gabtali,1,50,11,16,4,31,2150,2236,1272,1568
-8,Dhupchanchia,1,50,6,10,5,65,3912,5108,15181,21418
-9,Kahaloo,1,50,20,17,7,129,2350,3195,92987,166648
-10,Nandigram,1,31,4,8,4,76,2547,4728,47752,72355
-11,Sariakandi,1,50,11,7,3,115,2981,2795,5750,7940
-12,Sherpur,1,31,9,11,10,83,6029,7385,84028,124107
-13,Shibganj,1,50,9,8,8,0,3240,4320,4742,4920
-14,Sonatola,1,50,4,8,24,94,2342,2117,19496,22198
-15,Shajahanpur,1,31,16,8,4,72,2203,4200,28719,40378
-16,Total,16,1303,287,469,162,1379,65488,73337,574764,776812
+1,,,,,,,,,,,
+2,Upazila,Number of hospital/ clinic/ nursing home,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff,Number of patient under health facility Indoor Male,Number of patient under health facility Indoor Female,Number of patient under health facility Outdoor Male,Number of patient under health facility Outdoor Female
+3,Adamdighi,1,50,7,9,8,63,2019,2555,20974,13957
+4,Bogra sadar,5,810,185,358,85,538,32025,31868,246943,298083
+5,Dhunat,1,50,5,9,0,113,3690,2830,6920,3240
+6,Gabtali,1,50,11,16,4,31,2150,2236,1272,1568
+7,Dhupchanchia,1,50,6,10,5,65,3912,5108,15181,21418
+8,Kahaloo,1,50,20,17,7,129,2350,3195,92987,166648
+9,Nandigram,1,31,4,8,4,76,2547,4728,47752,72355
+10,Sariakandi,1,50,11,7,3,115,2981,2795,5750,7940
+11,Sherpur,1,31,9,11,10,83,6029,7385,84028,124107
+12,Shibganj,1,50,9,8,8,0,3240,4320,4742,4920
+13,Sonatola,1,50,4,8,24,94,2342,2117,19496,22198
+14,Shajahanpur,1,31,16,8,4,72,2203,4200,28719,40378
+15,Total,16,1303,287,469,162,1379,65488,73337,574764,776812

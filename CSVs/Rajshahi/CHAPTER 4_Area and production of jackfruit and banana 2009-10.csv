@@ -1,18 +1,15 @@
 ,0,1,2,3,4
 0,Area and production of jackfruit and banana 2009-10,,,,
 1,(Area in acre and production in metric ton),,,,
-2,"
-Upazila/city corporation",Jackfruit,Jackfruit,Banana,Banana
-3,"
-Upazila/city corporation",Area,Production,Area,Production
-4,Bagha,50,1472,40,240
-5,Baghmara,22,531,455,2071
-6,Charghat,4,121,130,1820
-7,Durgapur,119,887,379,1870
-8,Godagari,12,90,50,430
-9,Mohanpur,50,940,181,3312
-10,Paba,204,1353,125,875
-11,Puthia,252,2223,2680,28857
-12,Rajshahi city corporation,11,126,15,99
-13,Tanore,7,58,3,11
-14,Total,731,7801,4058,39585
+2,Upazila/city corporation,Jackfruit Area,Jackfruit Production,Banana Area,Banana Production
+3,Bagha,50,1472,40,240
+4,Baghmara,22,531,455,2071
+5,Charghat,4,121,130,1820
+6,Durgapur,119,887,379,1870
+7,Godagari,12,90,50,430
+8,Mohanpur,50,940,181,3312
+9,Paba,204,1353,125,875
+10,Puthia,252,2223,2680,28857
+11,Rajshahi city corporation,11,126,15,99
+12,Tanore,7,58,3,11
+13,Total,731,7801,4058,39585

@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,Upazila,Unit,Person engaged,Person engaged,Person engaged
-2,Upazila,Unit,Family,Hired,Total
-3,Bhurungamari,4,10,12,22
-4,Char Rajibpur,0,0,0,0
-5,Chilmari,15,15,61,76
-6,Kurigram Sadar,18,18,80,98
-7,Nageshwari,9,18,21,40
-8,Phulbari,3,3,12,15
-9,Rajarhat,10,11,29,40
-10,Raumari,34,56,90,146
-11,Ulipur,20,28,85,113
-12,Total,113,159,390,550
+1,,,,,
+2,Upazila,Unit,Person engaged,Person engaged,Person engaged
+3,Upazila,Unit,Family,Hired,Total
+4,Bhurungamari,4,10,12,22
+5,Char Rajibpur,0,0,0,0
+6,Chilmari,15,15,61,76
+7,Kurigram Sadar,18,18,80,98
+8,Nageshwari,9,18,21,40
+9,Phulbari,3,3,12,15
+10,Rajarhat,10,11,29,40
+11,Raumari,34,56,90,146
+12,Ulipur,20,28,85,113
+13,Total,113,159,390,550

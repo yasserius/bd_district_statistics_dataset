@@ -1,14 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Number of Government office, post office, bank, NGO and dak-banglow, rest house 2011",,,,,,
-1,"
-Upazila",All   Government offices,"
-Post office",All   nationalized bank branches,All private bank branches,"
-All NGOs","
-Da.k-banglo w/ rest house"
-2,Gazaria,38,13,7,6,6,
-3,Lauhajang,26,10,8,2,16,1
-4,Munshiganj Sadar,41,23,8,22,16,1
-5,Serajdikhan,28,40,9,4,9,2
-6,Sreenagar,25,13,11,11,11,2
-7,Tongibari,25,25,12,5,8,1
-8,T o tal,183,124,ss,so,66,8
+1,,,,,,,
+2,Upazila,All Government offices,Post office,All nationalized bank branches,All private bank branches,All NGOs,Da.k-banglo w/ rest house
+3,Gazaria,38,13,7,6,6,
+4,Lauhajang,26,10,8,2,16,1
+5,Munshiganj Sadar,41,23,8,22,16,1
+6,Serajdikhan,28,40,9,4,9,2
+7,Sreenagar,25,13,11,11,11,2
+8,Tongibari,25,25,12,5,8,1
+9,T o tal,183,124,ss,so,66,8

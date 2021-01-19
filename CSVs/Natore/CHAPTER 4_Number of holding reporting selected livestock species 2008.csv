@@ -1,19 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting selected livestock species 2008,,,,,,
-1,"
-Upazila",Cow & buffalo,Cow & buffalo,Goat,Goat,Sheep,Sheep
-2,"
-Upazila","Holding
-number","Number
-of animal","Holding
-number","Number
-of goat","Holding
-number","Number
-of sheep"
-3,Bagatipara,13110,23900,12511,29292,79,396
-4,Baraigram,12990,53219,18845,79348,1333,2233
-5,Gurudaspur,32079,34915,3572,31596,120,3455
-6,Lalpur,21500,46108,9860,29370,1450,3420
-7,Natore Sadar,26900,67833,18870,50340,1542,4695
-8,Singra,19844,104868,26737,94700,2763,7085
-9,Total,104984,330843,80505,285276,5839,17966
+1,,,,,,,
+2, Upazila,Cow & buffalo,Cow & buffalo,Goat,Goat,Sheep,Sheep
+3, Upazila,Holding number,Number of animal,Holding number,Number of goat,Holding number,Number of sheep
+4,Bagatipara,13110,23900,12511,29292,79,396
+5,Baraigram,12990,53219,18845,79348,1333,2233
+6,Gurudaspur,32079,34915,3572,31596,120,3455
+7,Lalpur,21500,46108,9860,29370,1450,3420
+8,Natore Sadar,26900,67833,18870,50340,1542,4695
+9,Singra,19844,104868,26737,94700,2763,7085
+10,Total,104984,330843,80505,285276,5839,17966

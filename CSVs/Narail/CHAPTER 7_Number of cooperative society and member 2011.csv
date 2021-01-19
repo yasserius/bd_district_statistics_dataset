@@ -1,14 +1,9 @@
 ,0,1,2,3,4
 0,Number of cooperative society and member 2011,,,,
-1,"
-Upazila","Number of
-co-operative society",Number of member,Number of member,"
-Total"
-2,"
-Upazila","Number of
-co-operative society",Male,Female,"
-Total"
-3,Kalia,353,3970,1325,5295
-4,Lohagara,36,756,48,804
-5,Narail Sadar,428,8631,6646,13277
-6,Total,817,13357,8019,19376
+1,,,,,
+2, Upazila,Number of co-operative society,Number of member,Number of member, Total
+3, Upazila,Number of co-operative society,Male,Female, Total
+4,Kalia,353,3970,1325,5295
+5,Lohagara,36,756,48,804
+6,Narail Sadar,428,8631,6646,13277
+7,Total,817,13357,8019,19376

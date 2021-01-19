@@ -1,15 +1,15 @@
 ,0,1,2,3,4,5
 0,Existing position of Government employee by category 2011,,,,,
-1,Upazila,Class-I,Class-II,Class-III,Class-IV,"Number of
-employee"
-2,Baghaichhari,7,27,221,109,332
-3,Barkal,10,14,123,68,215
-4,Belai Chhari,8,12,185,70,275
-5,Jurai Chhari,10,15,113,58,196
-6,Kaptai,20,31,209,97,357
-7,Kawkhali,15,13,137,77,242
-8,Langadu,11,24,153,70,258
-9,Naniarchar,13,18,140,72,243
-10,Rangamati Sadar,210,90,1230,560,2090
-11,Rajasthali,12,11,95,63,181
-12,Total,316,255,2606,1244,4389
+1,,,,,,
+2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
+3,Baghaichhari,7,27,221,109,332
+4,Barkal,10,14,123,68,215
+5,Belai Chhari,8,12,185,70,275
+6,Jurai Chhari,10,15,113,58,196
+7,Kaptai,20,31,209,97,357
+8,Kawkhali,15,13,137,77,242
+9,Langadu,11,24,153,70,258
+10,Naniarchar,13,18,140,72,243
+11,Rangamati Sadar,210,90,1230,560,2090
+12,Rajasthali,12,11,95,63,181
+13,Total,316,255,2606,1244,4389

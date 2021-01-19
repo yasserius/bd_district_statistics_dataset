@@ -1,19 +1,16 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,"
-Upazila","
-Household",Population,Population,Population,Sex ratio (M/F),Average size of household,Density per sq. km.
-2,"
-Upazila","
-Household",Male,Female,Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
-3,Atpara,31437,72117,72507,144624,99,4.59,751
-4,Barhatta,37854,90576,89873,180449,101,4.77,820
-5,Durgapur,50596,111691,113182,224873,99,4.43,805
-6,Kalmakanda,58069,134896,137016,271912,98,4.68,723
-7,Kendua,66133,150057,154672,304729,97,4.61,1004
-8,Khaliajuri,18903,49795,47655,97450,104,5.13,327
-9,Madan,31751,77763,76716,154479,101,4.87,662
-10,Mohanganj,34885,84223,83284,167507,101,4.79,692
-11,Netrokona Sadar,81435,187026,185759,372785,101,4.54,1091
-12,Purbadhala,68083,153162,157672,310834,97,4.56,1009
-13,Total,479146,1111306,1118336,2229642,99,4.64,798
+1,,,,,,,,
+2, Upazila, Household,Population,Population,Population,Sex ratio (M/F),Average size of household,Density per sq. km.
+3, Upazila, Household,Male,Female,Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
+4,Atpara,31437,72117,72507,144624,99,4.59,751
+5,Barhatta,37854,90576,89873,180449,101,4.77,820
+6,Durgapur,50596,111691,113182,224873,99,4.43,805
+7,Kalmakanda,58069,134896,137016,271912,98,4.68,723
+8,Kendua,66133,150057,154672,304729,97,4.61,1004
+9,Khaliajuri,18903,49795,47655,97450,104,5.13,327
+10,Madan,31751,77763,76716,154479,101,4.87,662
+11,Mohanganj,34885,84223,83284,167507,101,4.79,692
+12,Netrokona Sadar,81435,187026,185759,372785,101,4.54,1091
+13,Purbadhala,68083,153162,157672,310834,97,4.56,1009
+14,Total,479146,1111306,1118336,2229642,99,4.64,798

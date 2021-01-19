@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Area and production at tobacco in following years,,,,
-1,(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton)
-2,Upazila,2010-11,2010-11,2009-10,2009-10
-3,Upazila,Area,Production,Area,Production
-4,Jhenaigati,0,0,0,0
-5,Nakla,0,0,0,0
-6,Nalitabari,3,1.09,3,1.12
-7,Sherpur Sadar,0,0,6,3.27
-8,Sreebardi,0,0,0,0
-9,Total,3,1.09,9,4.39
+1,,,,,
+2,(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton)
+3,Upazila,2010-11,2010-11,2009-10,2009-10
+4,Upazila,Area,Production,Area,Production
+5,Jhenaigati,0,0,0,0
+6,Nakla,0,0,0,0
+7,Nalitabari,3,1.09,3,1.12
+8,Sherpur Sadar,0,0,6,3.27
+9,Sreebardi,0,0,0,0
+10,Total,3,1.09,9,4.39

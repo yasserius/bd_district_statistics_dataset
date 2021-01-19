@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5
 0,Average doctor s fee per patient 2011,,,,,
-1,(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka)
-2,Upazila,Doctor,Doctor,Doctor,Doctor,Doctor
-3,Upazila,MBBS,FCPS,Dentist,Gynecologist,Homeopathy
-4,Bakshiganj,150,250,100,0,50
-5,Dewanganj,200,0,200,200,50
-6,Islampur,200,0,200,200,0
-7,Jamalpur Sadar,300,400,350,500,100
-8,Madarganj,200,0,200,200,30
-9,Melandaha,200,0,100,0,100
-10,Sarishabari,200,0,200,200,100
-11,Average,207,325,193,260,72
+1,,,,,,
+2,(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka)
+3,Upazila,Doctor,Doctor,Doctor,Doctor,Doctor
+4,Upazila,MBBS,FCPS,Dentist,Gynecologist,Homeopathy
+5,Bakshiganj,150,250,100,0,50
+6,Dewanganj,200,0,200,200,50
+7,Islampur,200,0,200,200,0
+8,Jamalpur Sadar,300,400,350,500,100
+9,Madarganj,200,0,200,200,30
+10,Melandaha,200,0,100,0,100
+11,Sarishabari,200,0,200,200,100
+12,Average,207,325,193,260,72

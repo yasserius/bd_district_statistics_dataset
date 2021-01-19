@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of tailoring shop and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
+1,,,,,
+2,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Atwari,65,110,195,305
 4,Boda,289,300,400,700
 5,Debiganj,278,302,398,700

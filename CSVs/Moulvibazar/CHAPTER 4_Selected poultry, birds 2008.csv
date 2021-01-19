@@ -1,20 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Selected poultry, birds 2008",,,,,,
-1,"
-Upazila",Hen and cock,Hen and cock,Duck,Duck,Others,Others
-2,"
-Upazila","Holding
-reporting","Total
-number","Holding
-reporting","Total
-number","Holding
-reporting","Total
-number"
-3,Barlekha,24227,166968,10486,50175,0,0
-4,Juri,11385,82146,5159,26429,812,3247
-5,Kamalganj,25548,155632,14303,72855,52,155200
-6,Kulaura,30524,181922,16501,74745,1108,6296
-7,Moulvibazar Sadar,22244,127913,13937,63780,0,0
-8,Rajnagar,21179,125198,12040,60798,2240,572
-9,Sreemangal,23533,124010,10700,42779,0,4989
-10,Total,158640,963789,83126,391561,4212,170304
+1,,,,,,,
+2, Upazila,Hen and cock,Hen and cock,Duck,Duck,Others,Others
+3, Upazila,Holding reporting,Total number,Holding reporting,Total number,Holding reporting,Total number
+4,Barlekha,24227,166968,10486,50175,0,0
+5,Juri,11385,82146,5159,26429,812,3247
+6,Kamalganj,25548,155632,14303,72855,52,155200
+7,Kulaura,30524,181922,16501,74745,1108,6296
+8,Moulvibazar Sadar,22244,127913,13937,63780,0,0
+9,Rajnagar,21179,125198,12040,60798,2240,572
+10,Sreemangal,23533,124010,10700,42779,0,4989
+11,Total,158640,963789,83126,391561,4212,170304

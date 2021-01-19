@@ -1,10 +1,8 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of lentil (masur), mug and maize crops 2009-10",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Lentil (Masur),Lentil (Masur),Mug,Mug,Maize,Maize
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
+2, Upazila,Lentil (Masur),Lentil (Masur),Mug,Mug,Maize,Maize
+3, Upazila,Area,Production,Area,Production,Area,Production
 4,Dimla,38,13,0,0,470,1112
 5,Domar,72,29,43,14,600,1740
 6,Jaldhaka,0,0,0,0,7500,9800

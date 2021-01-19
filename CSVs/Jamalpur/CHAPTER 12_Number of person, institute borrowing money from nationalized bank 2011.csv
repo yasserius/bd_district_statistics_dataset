@@ -1,27 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from nationalized bank 2011",,,,,,,,,,,
-1,"
-
-Upazila",Number of branch of all nationalized banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-
-Upazila",Number of branch of all nationalized banks,"Agriculture
-debt","Agriculture
-debt","Industry
-debt","Industry
-debt",Other debt,Other debt,"Number of
-borrower","Number of
-borrower","Total debt
-(crore tk)","Total debt
-(crore tk)"
-3,"
-
-Upazila",Number of branch of all nationalized banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Bakshiganj,3,11725,62,0,0,1960,16,13685,78,19.17,2
-5,Dewanganj,6,20022,3587,0,0,2205,2093,22227,5680,41.82,16.13
-6,Islampur,7,4152,124,197,0,1820,2761,6169,2888,2966,88760
-7,Jamalpur Sadar,28,38706,2160,47,0,7698,3510,46451,5670,224.17,5.75
-8,Madarganj,6,12788,38,0,0,883,60,13671,98,37.24,0
-9,Melandaha,5,24220,2365,0,0,1125,326,25345,2691,1993.44,100.84
-10,Sarishabari,17,21530,1176,62,0,179920,1760,101512,2936,141.35,1.72
-11,Total,72,133143,9512,306,0,195611,10526,229060,20041,5423.19,88886.44
+1,,,,,,,,,,,,
+2,  Upazila,Number of branch of all nationalized banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3,  Upazila,Number of branch of all nationalized banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
+4,  Upazila,Number of branch of all nationalized banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+5,Bakshiganj,3,11725,62,0,0,1960,16,13685,78,19.17,2
+6,Dewanganj,6,20022,3587,0,0,2205,2093,22227,5680,41.82,16.13
+7,Islampur,7,4152,124,197,0,1820,2761,6169,2888,2966,88760
+8,Jamalpur Sadar,28,38706,2160,47,0,7698,3510,46451,5670,224.17,5.75
+9,Madarganj,6,12788,38,0,0,883,60,13671,98,37.24,0
+10,Melandaha,5,24220,2365,0,0,1125,326,25345,2691,1993.44,100.84
+11,Sarishabari,17,21530,1176,62,0,179920,1760,101512,2936,141.35,1.72
+12,Total,72,133143,9512,306,0,195611,10526,229060,20041,5423.19,88886.44

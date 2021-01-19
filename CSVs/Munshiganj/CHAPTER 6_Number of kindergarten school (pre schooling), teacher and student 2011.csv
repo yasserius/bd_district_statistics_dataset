@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kindergarten school (pre schooling), teacher and student 2011",,,,,,,,
-1,"
-Upazila",Number of kindergarten school,Number of teacher,Number of student,Students per teacher,,,,
-2,"
-Upazila",Number of kindergarten school,Male	I Female I Total,Male	I Female I Total,Students per teacher,,,,
+1,,,,,,,,,
+2,Upazila,Number of kindergarten school,Number of teacher MaleI Female I Total,Number of student MaleI Female I Total,Students per teacher,,,,
 3,Gazaria,42,54,118,172,1733,1422,3155,18
 4,La uhajang,16,25,41,66,763,841,1604,24
 5,Mun shig anj Sadar,27,73,119,192,1207,1467,-2674,14

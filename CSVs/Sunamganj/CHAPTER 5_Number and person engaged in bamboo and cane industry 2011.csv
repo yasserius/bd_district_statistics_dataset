@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5
 0,Number and person engaged in bamboo and cane industry 2011,,,,,
-1,"
-Upazila",Number of unit,Investment (in lac taka),Person engaged,Person engaged,Person engaged
-2,"
-Upazila",Number of unit,Investment (in lac taka),Family,Hired,Total
+1,,,,,,
+2,Upazila,Number of unit,Investment (in lac taka),Person engaged Family,Person engaged Hired,Person engaged Total
 3,Bishwamvarpur,15,30,40,20,50
 4,Chhatak,63,80,157,0,157
 5,Dakshin Sunamganj,0,0,0,0,0

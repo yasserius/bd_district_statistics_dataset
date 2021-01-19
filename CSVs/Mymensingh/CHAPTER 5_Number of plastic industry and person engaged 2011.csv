@@ -1,21 +1,18 @@
 ,0,1,2,3,4
 0,Number of plastic industry and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Bhaluka,0,0,0,0
-4,Dhubaura,0,0,0,0
-5,Fulbaria,0,0,0,0
-6,Gaffargaon,0,0,0,0
-7,Gauripur,0,0,0,0
-8,Haluaghat,0,0,0,0
-9,Ishwargonj,0,0,0,0
-10,Muktagacha,0,0,0,0
-11,Mymensingh Sadar,0,0,0,0
-12,Nandail,0,0,0,0
-13,Phulpur,1,10,0,10
-14,Trishal,0,0,0,0
-15,Total,1,10,0,10
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Bhaluka,0,0,0,0
+5,Dhubaura,0,0,0,0
+6,Fulbaria,0,0,0,0
+7,Gaffargaon,0,0,0,0
+8,Gauripur,0,0,0,0
+9,Haluaghat,0,0,0,0
+10,Ishwargonj,0,0,0,0
+11,Muktagacha,0,0,0,0
+12,Mymensingh Sadar,0,0,0,0
+13,Nandail,0,0,0,0
+14,Phulpur,1,10,0,10
+15,Trishal,0,0,0,0
+16,Total,1,10,0,10

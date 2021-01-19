@@ -1,14 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Non-government secondary school, teacher and student 2011",,,,,,,,
-1,"
-Upazila",Number of  school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of  school,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Fulchhari,15,152,44,196,3150,2100,5250,27
-4,Gaibandha Sadar,64,619,212,831,10198,10980,21178,25
-5,Gobindaganj,85,695,190,885,11117,13567,24684,28
-6,Palashbari,44,412,138,550,7317,7524,14841,27
-7,Sadullapur,48,429,103,532,8262,9399,17661,33
-8,Saghata,43,359,119,478,7745,7113,14858,31
-9,Sundarganj,72,901,323,1224,7450,6050,13500,11
-10,Total,371,3567,1129,4696,55239,56733,111972,24
+1,,,,,,,,,
+2, Upazila,Number of  school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of  school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Fulchhari,15,152,44,196,3150,2100,5250,27
+5,Gaibandha Sadar,64,619,212,831,10198,10980,21178,25
+6,Gobindaganj,85,695,190,885,11117,13567,24684,28
+7,Palashbari,44,412,138,550,7317,7524,14841,27
+8,Sadullapur,48,429,103,532,8262,9399,17661,33
+9,Saghata,43,359,119,478,7745,7113,14858,31
+10,Sundarganj,72,901,323,1224,7450,6050,13500,11
+11,Total,371,3567,1129,4696,55239,56733,111972,24

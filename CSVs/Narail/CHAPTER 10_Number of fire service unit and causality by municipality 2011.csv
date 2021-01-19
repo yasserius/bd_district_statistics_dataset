@@ -1,11 +1,8 @@
 ,0,1,2,3,4,5
 0,Number of fire service unit and causality by municipality 2011,,,,,
-1,"
-Upazila",Fire service unit,Person employed,"
-Fire case","
-Person dead","
-Person injured"
-2,Kalia,0,0,0,0,0
-3,Lohagara,0,0,0,0,0
-4,Narail Sadar,1,26,71,0,0
-5,Total,1,26,71,0,0
+1,,,,,,
+2, Upazila,Fire service unit,Person employed, Fire case, Person dead, Person injured
+3,Kalia,0,0,0,0,0
+4,Lohagara,0,0,0,0,0
+5,Narail Sadar,1,26,71,0,0
+6,Total,1,26,71,0,0

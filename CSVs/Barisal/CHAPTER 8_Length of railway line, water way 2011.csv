@@ -1,11 +1,7 @@
 ,0,1,2,3
 0,"Length of railway line, water way 2011",,,
 1,(Kilometer),,,
-2,"
-Upazila/city corporation","Total railway line (b.g., m.g. & duel
-gage)","Water way in monsoon
-(river + canal)","Water way in round the year
-(river + canal)"
+2,Upazila/city corporation,"Total railway line (b.g., m.g. & duel gage)",Water way in monsoon (river + canal),Water way in round the year (river + canal)
 3,Agailjhara,0,82,182
 4,Babuganj,0,269,172
 5,Bakerganj,0,167,120

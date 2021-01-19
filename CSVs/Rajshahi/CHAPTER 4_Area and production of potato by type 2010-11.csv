@@ -1,18 +1,15 @@
 ,0,1,2,3,4
 0,Area and production of potato by type 2010-11,,,,
 1,(Area in acre and production in metric ton),,,,
-2,"
-Upazila/city corporation",Potato,Potato,Sweet potato,Sweet potato
-3,"
-Upazila/city corporation",Area,Production,Area,Production
-4,Bagha,1650,12500,145,728
-5,Baghmara,31360,213478,0,0
-6,Charghat,240,2044,22,110
-7,Durgapur,10010,120398,0,0
-8,Godagari,3236,29900,7,45
-9,Mohanpur,17231,156269,0,0
-10,Paba,15398,182429,120,481
-11,Puthia,1512,17827,18,17
-12,Rajshahi city corporation,152,1549,0,0
-13,Tanore,6320,47400,0,0
-14,Total,87109,783794,312,1381
+2,Upazila/city corporation,Potato Area,Potato Production,Sweet potato Area,Sweet potato Production
+3,Bagha,1650,12500,145,728
+4,Baghmara,31360,213478,0,0
+5,Charghat,240,2044,22,110
+6,Durgapur,10010,120398,0,0
+7,Godagari,3236,29900,7,45
+8,Mohanpur,17231,156269,0,0
+9,Paba,15398,182429,120,481
+10,Puthia,1512,17827,18,17
+11,Rajshahi city corporation,152,1549,0,0
+12,Tanore,6320,47400,0,0
+13,Total,87109,783794,312,1381

@@ -1,9 +1,7 @@
 ,0,1,2,3
 0,Length of railway and water way 2011,,,
 1,(kilometer),,,
-2,"
-Upazila","Total railway
-(all-b.g, m.g. & duel gage)",Water way in monsoon (River + Canal),Water way round the year (River + Canal)
+2,Upazila,"Total railway (all-b.g, m.g. & duel gage)",Water way in monsoon (River + Canal),Water way round the year (River + Canal)
 3,Basail,5,27,0
 4,Bhuapur,12,30,15
 5,Delduar,0,35,0

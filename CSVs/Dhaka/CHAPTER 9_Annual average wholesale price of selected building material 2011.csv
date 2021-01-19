@@ -1,17 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building material 2011,,,,,,
-1,(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka)
-2,Upazila,"Brick-01
-(per1000)","Cement
-(per 50 kg bag)","Iron bar
-(per ton)","Sand-01
-(per c.f.t.)","Sand-02
-(per c.f.t.)","Stone
-(per c.f.t.)"
-3,Dhaka Metropolitan,7500,480,60000,10,6,125
-4,Dhamrai,7000,380,58000,18,12,120
-5,Dohar,7500,380,63000,7.5,3.5,160
-6,Keraniganj,6000,475,60000,40,15,75
-7,Nawabganj,7000,375,48000,35,10,160
-8,Savar,6500,460,64300,20,13,130
-9,Average,6917,425,58885,22,10,128
+1,,,,,,,
+2,(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka)
+3,Upazila,Brick-01 (per1000),Cement (per 50 kg bag),Iron bar (per ton),Sand-01 (per c.f.t.),Sand-02 (per c.f.t.),Stone (per c.f.t.)
+4,Dhaka Metropolitan,7500,480,60000,10,6,125
+5,Dhamrai,7000,380,58000,18,12,120
+6,Dohar,7500,380,63000,7.5,3.5,160
+7,Keraniganj,6000,475,60000,40,15,75
+8,Nawabganj,7000,375,48000,35,10,160
+9,Savar,6500,460,64300,20,13,130
+10,Average,6917,425,58885,22,10,128

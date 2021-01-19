@@ -1,13 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kawmi madrasah, teacher and student 2011",,,,,,,,
-1,"
-Upazila",Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Belabo,5,22,4,26,336,82,418,16
-4,Manohardi,5,20,0,20,451,369,820,41
-5,Narsingdi Sadar,4,18,0,18,165,0,165,9
-6,Palash,7,50,21,71,540,360,900,13
-7,Roypura,36,154,31,185,4774,736,5510,30
-8,Sibpur,0,0,0,0,0,0,0,0
-9,Total,57,264,56,320,6266,1547,7813,24
+1,,,,,,,,,
+2, Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Belabo,5,22,4,26,336,82,418,16
+5,Manohardi,5,20,0,20,451,369,820,41
+6,Narsingdi Sadar,4,18,0,18,165,0,165,9
+7,Palash,7,50,21,71,540,360,900,13
+8,Roypura,36,154,31,185,4774,736,5510,30
+9,Sibpur,0,0,0,0,0,0,0,0
+10,Total,57,264,56,320,6266,1547,7813,24

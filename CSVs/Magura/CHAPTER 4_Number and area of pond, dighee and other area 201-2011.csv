@@ -1,16 +1,9 @@
 ,0,1,2,3,4,5,6
 0,"Number and area of pond, dighee and other area 201-2011",,,,,,
 1,(Area in Acre),,,,,,
-2,"
-Upazila",Pond,Pond,Dhighee,Dhighee,"
-Other area","
-Total area"
-3,"
-Upazila",Number,Area,Number,Area,"
-Other area","
-Total area"
-4,Magura Sadar,3209,928,0,0,5348,6276
-5,Mohammadpur,3842,1103,21,19,3227,4341
-6,Shalikha,4238,462,0,0,53,515
-7,Sreepur,2845,550,5,6,2,60
-8,Total,14134,3043,26,25,8630,11192
+2,Upazila,Pond Number,Pond Area,Dhighee Number,Dhighee Area,Other area,Total area
+3,Magura Sadar,3209,928,0,0,5348,6276
+4,Mohammadpur,3842,1103,21,19,3227,4341
+5,Shalikha,4238,462,0,0,53,515
+6,Sreepur,2845,550,5,6,2,60
+7,Total,14134,3043,26,25,8630,11192

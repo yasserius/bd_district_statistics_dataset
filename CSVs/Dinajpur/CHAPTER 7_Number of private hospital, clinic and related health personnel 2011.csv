@@ -1,23 +1,18 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,Upazila,"Number
-of centre","Number
-of bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Biral,2,0,1,0,5,35
-3,Birampur,4,38,10,9,4,15
-4,Birganj,2,20,4,5,0,8
-5,Bochaganj,1,3,0,0,0,7
-6,Chirirbandar,0,0,0,0,0,0
-7,Dinajpur Sadar,18,458,136,196,80,638
-8,Fulbari,2,21,4,8,3,14
-9,Ghoraghat,0,0,0,0,0,0
-10,Hakimpur,0,0,0,0,0,0
-11,Kaharole,0,0,0,0,0,0
-12,Khansama,0,0,0,0,0,0
-13,Nawabganj,1,10,3,10,3,20
-14,Parbatipur,2,0,2,4,2,44
-15,Total,32,550,160,232,97,781
+1,,,,,,,
+2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Biral,2,0,1,0,5,35
+4,Birampur,4,38,10,9,4,15
+5,Birganj,2,20,4,5,0,8
+6,Bochaganj,1,3,0,0,0,7
+7,Chirirbandar,0,0,0,0,0,0
+8,Dinajpur Sadar,18,458,136,196,80,638
+9,Fulbari,2,21,4,8,3,14
+10,Ghoraghat,0,0,0,0,0,0
+11,Hakimpur,0,0,0,0,0,0
+12,Kaharole,0,0,0,0,0,0
+13,Khansama,0,0,0,0,0,0
+14,Nawabganj,1,10,3,10,3,20
+15,Parbatipur,2,0,2,4,2,44
+16,Total,32,550,160,232,97,781

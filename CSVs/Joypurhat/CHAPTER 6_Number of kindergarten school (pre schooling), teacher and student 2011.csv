@@ -1,16 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kindergarten school (pre schooling), teacher and student 2011",,,,,,,,
-1,"
-Upazila","Number of kindergarten
-school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students per
-teacher"
-2,"
-Upazila","Number of kindergarten
-school",Male,Female,Total,Male,Female,Total,"Students per
-teacher"
-3,Akkelpur,6,14,25,39,406,235,641,16
-4,Joypurhat sadar,25,79,96,175,1654,2162,3816,22
-5,Kalai,6,12,24,36,425,455,880,24
-6,Khetlal,17,20,55,75,522,781,1303,17
-7,Panchbibi,16,30,34,64,2873,2725,5598,87
-8,Total,70,155,234,389,5880,6358,12238,31
+1,,,,,,,,,
+2, Upazila,Number of kindergarten school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of kindergarten school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Akkelpur,6,14,25,39,406,235,641,16
+5,Joypurhat sadar,25,79,96,175,1654,2162,3816,22
+6,Kalai,6,12,24,36,425,455,880,24
+7,Khetlal,17,20,55,75,522,781,1303,17
+8,Panchbibi,16,30,34,64,2873,2725,5598,87
+9,Total,70,155,234,389,5880,6358,12238,31

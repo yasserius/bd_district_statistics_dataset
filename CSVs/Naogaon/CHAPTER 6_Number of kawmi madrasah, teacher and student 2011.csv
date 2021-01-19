@@ -1,18 +1,17 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kawmi madrasah, teacher and student 2011",,,,,,,,
-1,"
-Upazila",Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Atrai,7,30,0,30,537,106,643,21
-4,Badalgachhi,1,0,0,0,0,0,0,0
-5,Dhamoirhat,0,0,0,0,0,0,0,0
-6,Manda,0,0,0,0,0,0,0,0
-7,Mahadebpur,21,84,0,84,1032,963,1995,24
-8,Naogaon sadar,15,15,0,15,118,197,315,21
-9,Niamatpur,17,68,0,68,1750,205,1955,29
-10,Patnitala,5,35,5,40,640,300,940,24
-11,Porsha,17,85,0,85,2265,0,2265,27
-12,Raninagar,30,111,0,111,4420,367,4787,43
-13,Sapahar,15,52,0,52,670,144,814,16
-14,Total,128,480,5,485,11432,2282,13714,28
+1,,,,,,,,,
+2, Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Atrai,7,30,0,30,537,106,643,21
+5,Badalgachhi,1,0,0,0,0,0,0,0
+6,Dhamoirhat,0,0,0,0,0,0,0,0
+7,Manda,0,0,0,0,0,0,0,0
+8,Mahadebpur,21,84,0,84,1032,963,1995,24
+9,Naogaon sadar,15,15,0,15,118,197,315,21
+10,Niamatpur,17,68,0,68,1750,205,1955,29
+11,Patnitala,5,35,5,40,640,300,940,24
+12,Porsha,17,85,0,85,2265,0,2265,27
+13,Raninagar,30,111,0,111,4420,367,4787,43
+14,Sapahar,15,52,0,52,670,144,814,16
+15,Total,128,480,5,485,11432,2282,13714,28

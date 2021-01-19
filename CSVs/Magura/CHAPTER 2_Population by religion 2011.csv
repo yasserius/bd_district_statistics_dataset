@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6
 0,Population by religion 2011,,,,,,
-1,Upazila,Muslim,Hindu,Christian,Buddhist,Others,Total
-2,Magura Sadar,312835,66862,306,6,98,380107
-3,Mohammadpur,186672,21142,6,0,85,207905
-4,Shalikha,119758,43881,19,0,0,163658
-5,Sreepur,133934,32693,62,0,60,166749
-6,Total,753199,164578,393,6,243,918419
+1,,,,,,,
+2,Upazila,Muslim,Hindu,Christian,Buddhist,Others,Total
+3,Magura Sadar,312835,66862,306,6,98,380107
+4,Mohammadpur,186672,21142,6,0,85,207905
+5,Shalikha,119758,43881,19,0,0,163658
+6,Sreepur,133934,32693,62,0,60,166749
+7,Total,753199,164578,393,6,243,918419

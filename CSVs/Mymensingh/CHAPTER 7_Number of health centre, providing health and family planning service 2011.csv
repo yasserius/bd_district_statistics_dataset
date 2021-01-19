@@ -1,19 +1,17 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of health centre, providing health and family planning service 2011",,,,,,,
-1,"
-Upazila",Number of union health centre,Health service,"
-Sterilization","
-M.R.",Injection/ copper-T,Oral pill/ condom,Number of immunization centre
-2,Bhaluka,10,61399,745,366,8206,"39,852",112
-3,Dhubaura,1,38400,208,106,7270,16668,114
-4,Fulbaria,9,26026,689,228,8859,46995,320
-5,Gaffargaon,48,37922,7282,2820,4972,15263,521
-6,Gauripur,11,372042,204,14280,8698,372049,264
-7,Haluaghat,3,25141,0,0,5283,35241,288
-8,Ishwargonj,7,77023,6158,0,9315,63275,158
-9,Muktagacha,10,161757,512,26,30970,676734,421
-10,Mymensingh Sadar,4,45214,4,0,17458,178541,312
-11,Nandail,12,125487,5,12,12541,12541,521
-12,Phulpur,14,32514,0,0,12418,14589,481
-13,Trishal,9,65432,667,60,3515,8590,288
-14,Total,138,1068357,16474,17898,129505,1480338,3800
+1,,,,,,,,
+2, Upazila,Number of union health centre,Health service, Sterilization, M.R.,Injection/ copper-T,Oral pill/ condom,Number of immunization centre
+3,Bhaluka,10,61399,745,366,8206,"39,852",112
+4,Dhubaura,1,38400,208,106,7270,16668,114
+5,Fulbaria,9,26026,689,228,8859,46995,320
+6,Gaffargaon,48,37922,7282,2820,4972,15263,521
+7,Gauripur,11,372042,204,14280,8698,372049,264
+8,Haluaghat,3,25141,0,0,5283,35241,288
+9,Ishwargonj,7,77023,6158,0,9315,63275,158
+10,Muktagacha,10,161757,512,26,30970,676734,421
+11,Mymensingh Sadar,4,45214,4,0,17458,178541,312
+12,Nandail,12,125487,5,12,12541,12541,521
+13,Phulpur,14,32514,0,0,12418,14589,481
+14,Trishal,9,65432,667,60,3515,8590,288
+15,Total,138,1068357,16474,17898,129505,1480338,3800

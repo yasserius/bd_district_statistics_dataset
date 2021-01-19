@@ -1,14 +1,13 @@
 ,0,1,2,3,4
 0,Number of handloom establishment and loom 2011,,,,
-1,"
-Upazila",Number of unit (factory),Number of loom,Number of loom,Number of loom
-2,"
-Upazila",Number of unit (factory),Operational,Non-operational,Total
-3,Barlekha,0,0,0,0
-4,Juri,0,0,0,0
-5,Kamalganj,0,0,0,0
-6,Kulaura,0,0,0,0
-7,Moulvibazar Sadar,0,0,0,0
-8,Rajnagar,0,0,0,0
-9,Sreemangal,55,35,20,55
-10,Total,55,35,20,55
+1,,,,,
+2, Upazila,Number of unit (factory),Number of loom,Number of loom,Number of loom
+3, Upazila,Number of unit (factory),Operational,Non-operational,Total
+4,Barlekha,0,0,0,0
+5,Juri,0,0,0,0
+6,Kamalganj,0,0,0,0
+7,Kulaura,0,0,0,0
+8,Moulvibazar Sadar,0,0,0,0
+9,Rajnagar,0,0,0,0
+10,Sreemangal,55,35,20,55
+11,Total,55,35,20,55

@@ -1,15 +1,14 @@
 ,0,1,2,3,4
 0,"Area and production at water melon, melon (bangi) in following years",,,,
-1,(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton)
-2,"
-Upazila",2010-11,2010-11,2009-10,2009-10
-3,"
-Upazila",Area,Production,Area,Production
-4,Bauphal,11,55,9,41
-5,Dashmina,162,2900,110,2850
-6,Dumki,24589,289977,21272,247173
-7,Galachipa,23470,285060,20200,242344
-8,Kalapara,23470,285060,20200,242344
-9,Mirzaganj,20,40,19,38
-10,Patuakhali Sadar,94,343,93,343
-11,Total,71816,863435,61903,735133
+1,,,,,
+2,(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton)
+3, Upazila,2010-11,2010-11,2009-10,2009-10
+4, Upazila,Area,Production,Area,Production
+5,Bauphal,11,55,9,41
+6,Dashmina,162,2900,110,2850
+7,Dumki,24589,289977,21272,247173
+8,Galachipa,23470,285060,20200,242344
+9,Kalapara,23470,285060,20200,242344
+10,Mirzaganj,20,40,19,38
+11,Patuakhali Sadar,94,343,93,343
+12,Total,71816,863435,61903,735133

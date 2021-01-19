@@ -1,11 +1,10 @@
 ,0,1,2,3,4
 0,Number of cinema hall and audience capacity by municipality 2011,,,,
-1,Municipality,"Number of
-cinema hall",Audience capacity,Show per day,"Attendance
-(daily average)"
-2,Barlekha,0,0,0,0
-3,Kamalganj,2,270,3,100
-4,Kulaura,0,0,0,0
-5,Moulvibazar,1,180,2,40
-6,Sreemangal,3,1464,3,168
-7,Total,6,1914,8,308
+1,,,,,
+2,Municipality,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
+3,Barlekha,0,0,0,0
+4,Kamalganj,2,270,3,100
+5,Kulaura,0,0,0,0
+6,Moulvibazar,1,180,2,40
+7,Sreemangal,3,1464,3,168
+8,Total,6,1914,8,308

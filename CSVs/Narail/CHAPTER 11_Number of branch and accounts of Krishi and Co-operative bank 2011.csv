@@ -1,12 +1,10 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Krishi and Co-operative bank 2011,,,,,,,,,,
-1,"
-Upazila",Krishi bank,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank
-2,"
-Upazila",Number of  branch,Account,Account,Account,Account,Number of  branch,Account,Account,Account,Account
-3,"
-Upazila",Number of  branch,S.D,C.D,F.D,S.T.D,Number of  branch,S.D,C.D,F.D,S.T.D
-4,Kalia,3,3426,180,102,58,0,0,0,0,0
-5,Lohagara,2,463,711,184,96,0,0,0,0,0
-6,Narail Sadar,3,20308,88,205,7,0,0,0,0,0
-7,Total,8,24197,979,491,161,0,0,0,0,0
+1,,,,,,,,,,,
+2, Upazila,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank
+3, Upazila,Number of  branch,Account,Account,Account,Account,Number of  branch,Account,Account,Account,Account
+4, Upazila,Number of  branch,S.D,C.D,F.D,S.T.D,Number of  branch,S.D,C.D,F.D,S.T.D
+5,Kalia,3,3426,180,102,58,0,0,0,0,0
+6,Lohagara,2,463,711,184,96,0,0,0,0,0
+7,Narail Sadar,3,20308,88,205,7,0,0,0,0,0
+8,Total,8,24197,979,491,161,0,0,0,0,0

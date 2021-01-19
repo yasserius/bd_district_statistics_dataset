@@ -1,24 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,"
-
-Upazila",Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-
-Upazila",Number of branch of all private commercial banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,"Number of
-borrower","Number of
-borrower","Total debt
-(crore tk)","Total debt
-(crore tk)"
-3,"
-
-Upazila",Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Abhaynagar,10,4400,5380,0,0,4972,13610,9372,18990,182,233
-5,Bagherpara,1,5300,150,0,0,200,100,5500,250,13,1
-6,Chaugachha,3,1995,1674,0,0,735,793,2730,2467,34,3
-7,Jessore Sadar,39,772,37,188,22,4547,366,5507,425,984,78
-8,Jhikargachha,7,2361,0,26,0,341,53,2728,53,16,1
-9,Keshabpur,4,953,1525,0,513,4019,503,4972,2541,21,1
-10,Manirampur,1,0,0,0,0,35,0,35,0,2,0
-11,Sharsha,10,66,10,642,65,378,1,1086,76,243,8
-12,Total,75,15847,8776,856,600,15227,15426,31930,24802,1495,325
+1,,,,,,,,,,,,
+2,  Upazila,Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3,  Upazila,Number of branch of all private commercial banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
+4,  Upazila,Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+5,Abhaynagar,10,4400,5380,0,0,4972,13610,9372,18990,182,233
+6,Bagherpara,1,5300,150,0,0,200,100,5500,250,13,1
+7,Chaugachha,3,1995,1674,0,0,735,793,2730,2467,34,3
+8,Jessore Sadar,39,772,37,188,22,4547,366,5507,425,984,78
+9,Jhikargachha,7,2361,0,26,0,341,53,2728,53,16,1
+10,Keshabpur,4,953,1525,0,513,4019,503,4972,2541,21,1
+11,Manirampur,1,0,0,0,0,35,0,35,0,2,0
+12,Sharsha,10,66,10,642,65,378,1,1086,76,243,8
+13,Total,75,15847,8776,856,600,15227,15426,31930,24802,1495,325

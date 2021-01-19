@@ -1,16 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Broad soil classification 2008,,,,,,
-1,"
-Upazila","
-Total",Soil classification,Soil classification,Soil classification,Soil classification,Soil classification
-2,"
-Upazila","
-Total",Doash,Bele,Etel,Kankar,Others
-3,Alikadam,14932,194609,22692,30,0,1356
-4,Bandarban Sadar,27605,89762,5451,4048,0,23141
-5,Lama,39510,98247,34365,6340,0,7788
-6,Naikhongchhari,21708,98898,15077,153,0,142
-7,Rowangchhari,19613,88201,17972,1932,0,1335
-8,Ruma,21755,73891,45450,309,0,764
-9,Thanchi,9806,206870,12515,0,0,32863
-10,Total,154929,850478,153522,12812,0,67389
+1,,,,,,,
+2, Upazila, Total,Soil classification,Soil classification,Soil classification,Soil classification,Soil classification
+3, Upazila, Total,Doash,Bele,Etel,Kankar,Others
+4,Alikadam,14932,194609,22692,30,0,1356
+5,Bandarban Sadar,27605,89762,5451,4048,0,23141
+6,Lama,39510,98247,34365,6340,0,7788
+7,Naikhongchhari,21708,98898,15077,153,0,142
+8,Rowangchhari,19613,88201,17972,1932,0,1335
+9,Ruma,21755,73891,45450,309,0,764
+10,Thanchi,9806,206870,12515,0,0,32863
+11,Total,154929,850478,153522,12812,0,67389

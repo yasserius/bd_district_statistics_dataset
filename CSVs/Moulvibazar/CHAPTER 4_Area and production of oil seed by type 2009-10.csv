@@ -1,15 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Area and production of oil seed by type 2009-10,,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Rape & mustard,Rape & mustard,Ground nut,Ground nut,Til,Til
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Barlekha,35,13,12,9,64,22
-5,Juri,96,33,38,15,32,12
-6,Kamalganj,234,86,0,0,0,0
-7,Kulaura,0,0,0,0,0,0
-8,Moulvibazar Sadar,40,10,0,0,0,0
-9,Rajnagar,0,0,0,0,0,0
-10,Sreemangal,131,48,0,0,10,5
-11,Total,536,189,51,24,106,38
+2,Upazila,Rape & mustard Area,Rape & mustard Production,Ground nut Area,Ground nut Production,Til Area,Til Production
+3,Barlekha,35,13,12,9,64,22
+4,Juri,96,33,38,15,32,12
+5,Kamalganj,234,86,0,0,0,0
+6,Kulaura,0,0,0,0,0,0
+7,Moulvibazar Sadar,40,10,0,0,0,0
+8,Rajnagar,0,0,0,0,0,0
+9,Sreemangal,131,48,0,0,10,5
+10,Total,536,189,51,24,106,38

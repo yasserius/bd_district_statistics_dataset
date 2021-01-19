@@ -1,10 +1,8 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2009-2010,,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Aus,Aus,Aman,Aman,Boro,Boro
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
+2, Upazila,Aus,Aus,Aman,Aman,Boro,Boro
+3, Upazila,Area,Production,Area,Production,Area,Production
 4,Assasuni,96,83,29593,27156,16115,20182
 5,Debhata,692,643,16925,18278,16857,25830
 6,Kalaroa,1250,1200,30460,24368,28450,40345

@@ -1,18 +1,15 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of madrasah, teacher and student under the madrasah education board 2011",,,,,,,,
-1,"
-Upazila",Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students per
-teacher"
-2,"
-Upazila",Number of madrasah,Male,Female,Total,Male,Female,Total,"Students per
-teacher"
-3,Alfadanga,9,77,11,88,906,1023,1929,22
-4,Bhanga,13,155,28,193,1170,1845,3015,16
-5,Boalmari,19,250,35,285,7259,8016,15275,54
-6,Charbhadrashon,1,11,3,14,148,124,273,20
-7,Faridpur Sadar,13,148,24,172,2207,2408,4315,25
-8,Madhukhali,11,152,27,179,2373,2475,4848,27
-9,Nagarkanda,7,62,12,74,991,803,1794,24
-10,Sadarpur,5,96,8,104,706,618,1324,13
-11,Saltha,7,67,9,76,1307,1108,2415,32
-12,Total,85,1018,157,1185,17067,18420,35188,30
+1,,,,,,,,,
+2, Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Alfadanga,9,77,11,88,906,1023,1929,22
+5,Bhanga,13,155,28,193,1170,1845,3015,16
+6,Boalmari,19,250,35,285,7259,8016,15275,54
+7,Charbhadrashon,1,11,3,14,148,124,273,20
+8,Faridpur Sadar,13,148,24,172,2207,2408,4315,25
+9,Madhukhali,11,152,27,179,2373,2475,4848,27
+10,Nagarkanda,7,62,12,74,991,803,1794,24
+11,Sadarpur,5,96,8,104,706,618,1324,13
+12,Saltha,7,67,9,76,1307,1108,2415,32
+13,Total,85,1018,157,1185,17067,18420,35188,30

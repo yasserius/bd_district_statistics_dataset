@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,"Selected poultry, bird 2008",,,,,,
-1,"
-Upazila/city corporation",Hen and cocks,Hen and cocks,Ducks,Ducks,Others,Others
-2,"
-Upazila/city corporation",Holding reporting,Total number,Holding reporting,Total number,Holding reporting,Total number
+1,,,,,,,
+2,Upazila/city corporation,Hen and cocks Holding reporting,Hen and cocks Total number,Ducks Holding reporting,Ducks Total number,Others Holding reporting,Others Total number
 3,Bagha,23514,147385,6878,23720,400,600
 4,Baghmara,66221,638803,48994,315602,5588,51934
 5,Charghat,25873,165625,9373,31426,0,0

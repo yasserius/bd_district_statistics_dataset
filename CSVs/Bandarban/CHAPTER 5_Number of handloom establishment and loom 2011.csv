@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of handloom establishment and loom 2011,,,,
-1,Upazila,Number of unit (factory),Number of loom,Number of loom,Number of loom
-2,Upazila,Number of unit (factory),Operational,Non-operational,Total
-3,Alikadam,0,0,0,0
-4,Bandarban Sadar,4721,2300,2421,4721
-5,Lama,2301,499,1761,2260
-6,Naikhongchhari,356,280,76,356
-7,Rowangchhari,1800,1500,300,1800
-8,Ruma,0,0,0,0
-9,Thanchi,250,200,50,250
-10,Total,9428,4779,4608,9387
+1,,,,,
+2,Upazila,Number of unit (factory),Number of loom,Number of loom,Number of loom
+3,Upazila,Number of unit (factory),Operational,Non-operational,Total
+4,Alikadam,0,0,0,0
+5,Bandarban Sadar,4721,2300,2421,4721
+6,Lama,2301,499,1761,2260
+7,Naikhongchhari,356,280,76,356
+8,Rowangchhari,1800,1500,300,1800
+9,Ruma,0,0,0,0
+10,Thanchi,250,200,50,250
+11,Total,9428,4779,4608,9387

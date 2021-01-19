@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,Upazila,Police personnel,Ansar personnel,VDP personnel,Autonomous bodies,Local govt. employees
-2,Kamalnagar,48,17,2,0,0
-3,Lakshmipur Sadar,118,787,6656,326,344
-4,Ramganj,32,95,3210,17,127
-5,Ramgati,47,476,576,0,105
-6,Roypur,70,820,6656,121,0
-7,Total,315,2195,17100,464,576
+1,,,,,,
+2,Upazila,Police personnel,Ansar personnel,VDP personnel,Autonomous bodies,Local govt. employees
+3,Kamalnagar,48,17,2,0,0
+4,Lakshmipur Sadar,118,787,6656,326,344
+5,Ramganj,32,95,3210,17,127
+6,Ramgati,47,476,576,0,105
+7,Roypur,70,820,6656,121,0
+8,Total,315,2195,17100,464,576

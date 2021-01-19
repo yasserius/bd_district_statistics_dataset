@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of cold storage and their installed capacity,,,,
-1,"
-Upazila/city corporation",2010-11,2010-11,2009-10,2009-10
-2,"
-Upazila/city corporation",Number,"Installed
-capacity",Number,"Installed
-capacity"
+1,,,,,
+2,Upazila/city corporation,2010-11 Number,2010-11 Installed capacity,2009-10 Number,2009-10 Installed capacity
 3,Bagha,0,0,0,0
 4,Baghmara,4,23000,4,23000
 5,Charghat,0,0,0,0

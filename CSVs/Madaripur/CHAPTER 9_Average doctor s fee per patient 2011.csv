@@ -1,12 +1,11 @@
 ,0,1,2,3,4,5
 0,Average doctor s fee per patient 2011,,,,,
-1,(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka)
-2,"
-Upazila",Doctor,Doctor,Doctor,Doctor,Doctor
-3,"
-Upazila",MBBS,FCPS,Dentist,Gynaecologist,Homeopathy
-4,Madaripur Sadar,200,300,100,200,0
-5,Kalkini,200,0,100,300,50
-6,Rajoir,200,0,100,100,0
-7,Shibchar,200,250,100,200,50
-8,Average,200,275,100,200,50
+1,,,,,,
+2,(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka)
+3, Upazila,Doctor,Doctor,Doctor,Doctor,Doctor
+4, Upazila,MBBS,FCPS,Dentist,Gynaecologist,Homeopathy
+5,Madaripur Sadar,200,300,100,200,0
+6,Kalkini,200,0,100,300,50
+7,Rajoir,200,0,100,100,0
+8,Shibchar,200,250,100,200,50
+9,Average,200,275,100,200,50

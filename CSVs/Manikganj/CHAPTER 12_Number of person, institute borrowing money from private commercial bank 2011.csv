@@ -1,19 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,"
-
-Upazila",Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-
-Upazila",Number of branch of all private commercial banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
-3,"
-
-Upazila",Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Daulotpur,1,0,0,0,0,95,35,95,35,2.00,0.50
-5,Gheor,2,21,6,0,0,55,11,74,17,1.00,0.11
-6,Horirampur,5,7060,4700,0,0,0,0,7060,4700,6.00,3.00
-7,Manikganj Sadar,6,2314,4225,1,0,5121,22621,7376,26842,71.00,56.33
-8,Saturia,5,1250,68,274,0,401,33,1631,113,12.00,2.00
-9,Shibalaya,0,0,0,0,0,0,0,0,0,0.00,0.00
-10,Singair,2,115,62,0,0,220,185,335,247,0.33,5.00
-11,Total,21,10760,9061,275,0,58920,22885,16571,31954,92.33,66.94
+1,,,,,,,,,,,,
+2,  Upazila,Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3,  Upazila,Number of branch of all private commercial banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
+4,  Upazila,Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+5,Daulotpur,1,0,0,0,0,95,35,95,35,2.00,0.50
+6,Gheor,2,21,6,0,0,55,11,74,17,1.00,0.11
+7,Horirampur,5,7060,4700,0,0,0,0,7060,4700,6.00,3.00
+8,Manikganj Sadar,6,2314,4225,1,0,5121,22621,7376,26842,71.00,56.33
+9,Saturia,5,1250,68,274,0,401,33,1631,113,12.00,2.00
+10,Shibalaya,0,0,0,0,0,0,0,0,0,0.00,0.00
+11,Singair,2,115,62,0,0,220,185,335,247,0.33,5.00
+12,Total,21,10760,9061,275,0,58920,22885,16571,31954,92.33,66.94

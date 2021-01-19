@@ -1,18 +1,13 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of health centre, providing health and family planning service 2011",,,,,,,
-1,"
-Upazila","Number of union health
-centre","
-Health service","
-Sterilization","
-M.R.",Injection/ copper-T,Oral pill/ condom,"Number of immunization
-centre"
-2,Chakaria,18,18500,50,500,70451,76010,198
-3,Cox's Bazar Sadar,10,13500,617,3192,78925,79719,110
-4,Kutubdia,6,27819,827,0,79635,79168,66
-5,Moheshkhali,6,40394,0,0,81101,15040,66
-6,Pekua,6,60012,241,0,22877,12410,66
-7,Ramu,8,12140,1,7,45412,38514,88
-8,Teknaf,3,10124,480,0,49172,42145,33
-9,Ukhia,3,90249,116,13,14520,75600,33
-10,Total,60,272738,2332,3712,442093,418606,660
+1,,,,,,,,
+2, Upazila,Number of union health centre, Health service, Sterilization, M.R.,Injection/ copper-T,Oral pill/ condom,Number of immunization centre
+3,Chakaria,18,18500,50,500,70451,76010,198
+4,Cox's Bazar Sadar,10,13500,617,3192,78925,79719,110
+5,Kutubdia,6,27819,827,0,79635,79168,66
+6,Moheshkhali,6,40394,0,0,81101,15040,66
+7,Pekua,6,60012,241,0,22877,12410,66
+8,Ramu,8,12140,1,7,45412,38514,88
+9,Teknaf,3,10124,480,0,49172,42145,33
+10,Ukhia,3,90249,116,13,14520,75600,33
+11,Total,60,272738,2332,3712,442093,418606,660

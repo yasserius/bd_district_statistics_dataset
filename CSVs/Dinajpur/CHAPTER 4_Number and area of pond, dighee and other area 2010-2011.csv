@@ -1,25 +1,20 @@
 ,0,1,2,3,4,5,6
 0,"Number and area of pond, dighee and other area 2010-2011",,,,,,
-1,(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre)
-2,"
-Upazila",Pond,Pond,Dhighee,Dhighee,"
-Other area","
-Total area"
-3,"
-Upazila",Number,Area,Number,Area,"
-Other area","
-Total area"
-4,Biral,3728,1128,10,82,6,116
-5,Birampur,1745,1420,5,105,320,1845
-6,Birganj,5061,1725,0,0,751,2476
-7,Bochaganj,4337,1198,29,14,70,1282
-8,Chirirbandar,7095,4895,10,60,52,1955
-9,Dinajpur Sadar,4000,1500,450,305,85,1890
-10,Fulbari,1684,1635,0,0,0,1635
-11,Ghoraghat,1111,664,0,0,26,690
-12,Hakimpur,1630,940,0,0,35,975
-13,Kaharole,3000,1270,1,12,0,1282
-14,Khansama,5420,1673,0,0,0,0
-15,Nawabganj,2100,388,4,28,9,978
-16,Parbatipur,3080,1750,44,260,1722,3732
-17,Total,43991,20186,553,866,3076,18856
+1,,,,,,,
+2,(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre)
+3, Upazila,Pond,Pond,Dhighee,Dhighee, Other area, Total area
+4, Upazila,Number,Area,Number,Area, Other area, Total area
+5,Biral,3728,1128,10,82,6,116
+6,Birampur,1745,1420,5,105,320,1845
+7,Birganj,5061,1725,0,0,751,2476
+8,Bochaganj,4337,1198,29,14,70,1282
+9,Chirirbandar,7095,4895,10,60,52,1955
+10,Dinajpur Sadar,4000,1500,450,305,85,1890
+11,Fulbari,1684,1635,0,0,0,1635
+12,Ghoraghat,1111,664,0,0,26,690
+13,Hakimpur,1630,940,0,0,35,975
+14,Kaharole,3000,1270,1,12,0,1282
+15,Khansama,5420,1673,0,0,0,0
+16,Nawabganj,2100,388,4,28,9,978
+17,Parbatipur,3080,1750,44,260,1722,3732
+18,Total,43991,20186,553,866,3076,18856

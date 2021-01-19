@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,"Area and production at water melon, melon (bangi) in following years",,,,
-1,(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton)
-2,Upazila,2010-11,2010-11,2009-10,2009-10
-3,Upazila,Area,Production,Area,Production
-4,Alikadam,7,24,9,27
-5,Bandarban Sadar,145,508,143,502
-6,Lama,38,202,40,251
-7,Naikhongchhari,8,44,5,12
-8,Rowangchhari,0,0,0,0
-9,Ruma,0,0,5,16
-10,Thanchi,0,0,0,0
-11,Total,198,778,202,808
+1,,,,,
+2,(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton)
+3,Upazila,2010-11,2010-11,2009-10,2009-10
+4,Upazila,Area,Production,Area,Production
+5,Alikadam,7,24,9,27
+6,Bandarban Sadar,145,508,143,502
+7,Lama,38,202,40,251
+8,Naikhongchhari,8,44,5,12
+9,Rowangchhari,0,0,0,0
+10,Ruma,0,0,5,16
+11,Thanchi,0,0,0,0
+12,Total,198,778,202,808

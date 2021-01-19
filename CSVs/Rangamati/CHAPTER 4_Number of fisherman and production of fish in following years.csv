@@ -1,18 +1,17 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
-2,"
-Upazila",2010-11,2010-11,2009-10,2009-10
-3,"
-Upazila",Number,Production,Number,Production
-4,Baghaichhari,110,55,105,42
-5,Barkal,170,135,150,130
-6,Belai Chhari,300,65,290,65
-7,Jurai Chhari,80,21,75,18
-8,Kaptai,340,3643,330,2260
-9,Kawkhali,1640,135,1550,134
-10,Langadu,2115,312,1521,347
-11,Naniarchar,675,431,850,319
-12,Rangamati Sadar,4747,1113,4647,1112
-13,Rajasthali,0,0,0,620
-14,Total,10177,5910,9518,5048
+1,,,,,
+2,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
+3, Upazila,2010-11,2010-11,2009-10,2009-10
+4, Upazila,Number,Production,Number,Production
+5,Baghaichhari,110,55,105,42
+6,Barkal,170,135,150,130
+7,Belai Chhari,300,65,290,65
+8,Jurai Chhari,80,21,75,18
+9,Kaptai,340,3643,330,2260
+10,Kawkhali,1640,135,1550,134
+11,Langadu,2115,312,1521,347
+12,Naniarchar,675,431,850,319
+13,Rangamati Sadar,4747,1113,4647,1112
+14,Rajasthali,0,0,0,620
+15,Total,10177,5910,9518,5048

@@ -1,14 +1,12 @@
 ,0,1,2,3,4
 0,Number of cold storage and capacity in following years,,,,
-1,"
-Upazila",2010-11,2010-11,2009-10,2009-10
-2,"
-Upazila",Number,Installed capacity,Number,"Installed
-capacity"
-3,Dimla,0,0,0,0
-4,Domar,3,15000,3,15000
-5,Jaldhaka,2,22000,2,22000
-6,Kishorgonj,1,9000,0,0
-7,Nilphamary Sadar,1,6500,0,0
-8,Sayedpur,3,5100,3,5100
-9,Total,10,57600,8,42100
+1,,,,,
+2, Upazila,2010-11,2010-11,2009-10,2009-10
+3, Upazila,Number,Installed capacity,Number,Installed capacity
+4,Dimla,0,0,0,0
+5,Domar,3,15000,3,15000
+6,Jaldhaka,2,22000,2,22000
+7,Kishorgonj,1,9000,0,0
+8,Nilphamary Sadar,1,6500,0,0
+9,Sayedpur,3,5100,3,5100
+10,Total,10,57600,8,42100

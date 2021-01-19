@@ -1,20 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Rupali and Agrani bank 2011,,,,,,,,,,
-1,"
-Upazila",Rupali bank,Rupali bank,Rupali bank,Rupali bank,Rupali bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank
-2,"
-Upazila","Number
-of branch",Account,Account,Account,Account,"Number
-of branch",Account,Account,Account,Account
-3,"
-Upazila","Number
-of branch",S.D,C.D,F.D,S.T.D,"Number
-of branch",S.D,C.D,F.D,S.T.D
-4,Bakshiganj,0,0,0,0,0,0,0,0,0,0
-5,Dewanganj,0,0,0,0,0,0,0,0,0,0
-6,Islampur,1,1198,89,77,7,1,457,129,32,1
-7,Jamalpur Sadar,2,2206,469,264,57,8,47049,2162,326,140
-8,Madarganj,1,2552,140,139,47,0,0,0,0,0
-9,Melandaha,2,0,0,0,0,0,0,0,0,0
-10,Sarishabari,3,0,420,232,18,4,0,2632,304,24
-11,Total,9,5956,1118,712,129,13,47506,4923,662,165
+1,,,,,,,,,,,
+2, Upazila,Rupali bank,Rupali bank,Rupali bank,Rupali bank,Rupali bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank
+3, Upazila,Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
+4, Upazila,Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
+5,Bakshiganj,0,0,0,0,0,0,0,0,0,0
+6,Dewanganj,0,0,0,0,0,0,0,0,0,0
+7,Islampur,1,1198,89,77,7,1,457,129,32,1
+8,Jamalpur Sadar,2,2206,469,264,57,8,47049,2162,326,140
+9,Madarganj,1,2552,140,139,47,0,0,0,0,0
+10,Melandaha,2,0,0,0,0,0,0,0,0,0
+11,Sarishabari,3,0,420,232,18,4,0,2632,304,24
+12,Total,9,5956,1118,712,129,13,47506,4923,662,165

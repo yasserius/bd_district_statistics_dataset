@@ -1,16 +1,13 @@
 ,0,1,2,3,4
 0,Number of rice mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Male,Female,Total
-3,Assasuni,116,142,90,232
-4,Debhata,50,177,232,409
-5,Kalaroa,16,48,91,139
-6,Kaliganj,36,83,25,108
-7,Satkhira Sadar,30,400,100,14000
-8,Shyamnagar,7,36,42,78
-9,Tala,45,65,205,270
-10,Total,300,951,785,15236
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Male,Female,Total
+4,Assasuni,116,142,90,232
+5,Debhata,50,177,232,409
+6,Kalaroa,16,48,91,139
+7,Kaliganj,36,83,25,108
+8,Satkhira Sadar,30,400,100,14000
+9,Shyamnagar,7,36,42,78
+10,Tala,45,65,205,270
+11,Total,300,951,785,15236

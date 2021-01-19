@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of rice mill and person engaged 2011,,,,
-1,Upazila,Unit,Person engaged,Person engaged,Person engaged
-2,Upazila,Unit,Male,Female,Total
-3,Bholahat,12,65,120,185
-4,Chapai Nawabganj Sadar,45,225,450,675
-5,Gomastapur,25,140,300,440
-6,Nachole,15,75,150,225
-7,Shibganj,20,100,160,260
-8,Total,117,605,1180,1785
+1,,,,,
+2,Upazila,Unit,Person engaged,Person engaged,Person engaged
+3,Upazila,Unit,Male,Female,Total
+4,Bholahat,12,65,120,185
+5,Chapai Nawabganj Sadar,45,225,450,675
+6,Gomastapur,25,140,300,440
+7,Nachole,15,75,150,225
+8,Shibganj,20,100,160,260
+9,Total,117,605,1180,1785

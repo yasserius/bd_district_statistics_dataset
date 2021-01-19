@@ -1,22 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,Upazila,"Number
-of centre","Number
-of bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Adamdighi,6,56,5,17,4,27
-3,Bogra sadar,35,1160,239,359,24,593
-4,Dhunat,1,10,3,3,2,3
-5,Gabtali,0,0,0,0,0,0
-6,Dhupchanchia,7,62,29,33,22,53
-7,Kahaloo,0,0,0,0,0,0
-8,Nandigram,2,20,9,12,3,13
-9,Sariakandi,0,0,0,0,0,0
-10,Sherpur,8,135,22,45,19,27
-11,Shibganj,5,35,19,18,5,15
-12,Sonatola,5,30,0,12,8,5
-13,Shajahanpur,4,41,35,23,34,25
-14,Total,73,1549,361,522,121,761
+1,,,,,,,
+2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Adamdighi,6,56,5,17,4,27
+4,Bogra sadar,35,1160,239,359,24,593
+5,Dhunat,1,10,3,3,2,3
+6,Gabtali,0,0,0,0,0,0
+7,Dhupchanchia,7,62,29,33,22,53
+8,Kahaloo,0,0,0,0,0,0
+9,Nandigram,2,20,9,12,3,13
+10,Sariakandi,0,0,0,0,0,0
+11,Sherpur,8,135,22,45,19,27
+12,Shibganj,5,35,19,18,5,15
+13,Sonatola,5,30,0,12,8,5
+14,Shajahanpur,4,41,35,23,34,25
+15,Total,73,1549,361,522,121,761

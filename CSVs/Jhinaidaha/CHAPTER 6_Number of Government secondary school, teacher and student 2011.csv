@@ -1,13 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Government secondary school, teacher and student 2011",,,,,,,,
-1,"
-Upazila",Number of  school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of  school,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Harinakunda,1,6,2,8,0,339,339,42
-4,Jhenaidah Sadar,2,48,16,64,2710,2421,5131,80
-5,Kaliganj,0,0,0,0,0,0,0,0
-6,Kotchandpur,0,0,0,0,0,0,0,0
-7,Mahespur,0,0,0,0,0,0,0,0
-8,Shailkupa,0,0,0,0,0,0,0,0
-9,Total,3,54,18,72,2710,2760,5470,76
+1,,,,,,,,,
+2, Upazila,Number of  school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of  school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Harinakunda,1,6,2,8,0,339,339,42
+5,Jhenaidah Sadar,2,48,16,64,2710,2421,5131,80
+6,Kaliganj,0,0,0,0,0,0,0,0
+7,Kotchandpur,0,0,0,0,0,0,0,0
+8,Mahespur,0,0,0,0,0,0,0,0
+9,Shailkupa,0,0,0,0,0,0,0,0
+10,Total,3,54,18,72,2710,2760,5470,76

@@ -1,8 +1,7 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
 1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,"Unmetalled
-(kacha) road",Total
+2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
 3,Fulchhari,33.43,2.93,220.65,257.01
 4,Gaibandha Sadar,179.38,0.700,372.87,552.95
 5,Gobindaganj,294,12,860,1150

@@ -1,12 +1,5 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of metropoliton thana, ward, mahalla, household and population 2011",,,,,,,
-1,Upazila/city corporation,"
-Thana","
-Ward","
-Mahalla","
-Household",Population (000),Population (000),Population (000)
-2,Upazila/city corporation,"
-Thana","
-Ward","
-Mahalla","
-Household",Male,Female,Total
+1,,,,,,,,
+2,Upazila/city corporation, Thana, Ward, Mahalla, Household,Population (000),Population (000),Population (000)
+3,Upazila/city corporation, Thana, Ward, Mahalla, Household,Male,Female,Total

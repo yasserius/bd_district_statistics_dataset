@@ -1,27 +1,16 @@
 ,0,1,2,3,4,5,6
 0,Area and production of oil seed by type 2009-10,,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Rape & mustard,Rape & mustard,Ground nut,Ground nut,Til,Til
-3,Upazila,Area,Production,Area,Production,Area,Production
-4,Bhurungamari,455,172.9,0,0,0,0
-5,Char Rajibpur,5495,2220,912,627,400,160
-6,Chilmari,335,823,1667,600,205,62
-7,Kurigram Sadar,165,75,10,3,33,10
-8,Nageshwari,370,150,25,15,0,0
-9,Phulbari,130,858,0,0,14,4
-10,Rajarhat,47,14,0,0,0,0
-11,Raumari,1175,235,195,222,16,4
-12,Ulipur,1480,444,48,30,114,34
-13,Total,9652,4991.9,2857,1497,782,274
-14,Upazila,Pepper,Pepper,Onion,Onion,Garlic,Garlic
-15,Upazila,Area,Production,Area,Production,Area,Production
-16,Bhurungamari,480,240,120,225,50,52
-17,Char Rajibpur,865,648,593,1560,135,385
-18,Chilmari,201,160,100,130,60,42
-19,Kurigram Sadar,114,57,155,317,61,59
-20,Nageshwari,65,26,124,182,30,24
-21,Phulbari,385,192,54,81,26,38
-22,Rajarhat,40,40,66,144,73,94
-23,Raumari,28,44,62,44,19,9
-24,Ulipur,204,167,305,610,135,216
-25,Total,2382,1574,1579,3293,589,919
+2,Upazila Upazila Bhurungamari Char Rajibpur Chilmari Kurigram Sadar Nageshwari Phulbari Rajarhat Raumari Ulipur Total,Rape & mustard Area 455 5495 335 165 370 130 47 1175 1480 9652,Rape & mustard Production 172.9 2220 823 75 150 858 14 235 444 4991.9,Ground nut Area 0 912 1667 10 25 0 0 195 48 2857,Ground nut Production 0 627 600 3 15 0 0 222 30 1497,Til Area 0 400 205 33 0 14 0 16 114 782,Til Production 0 160 62 10 0 4 0 4 34 274
+3,Upazila,Pepper,Pepper,Onion,Onion,Garlic,Garlic
+4,Upazila,Area,Production,Area,Production,Area,Production
+5,Bhurungamari,480,240,120,225,50,52
+6,Char Rajibpur,865,648,593,1560,135,385
+7,Chilmari,201,160,100,130,60,42
+8,Kurigram Sadar,114,57,155,317,61,59
+9,Nageshwari,65,26,124,182,30,24
+10,Phulbari,385,192,54,81,26,38
+11,Rajarhat,40,40,66,144,73,94
+12,Raumari,28,44,62,44,19,9
+13,Ulipur,204,167,305,610,135,216
+14,Total,2382,1574,1579,3293,589,919

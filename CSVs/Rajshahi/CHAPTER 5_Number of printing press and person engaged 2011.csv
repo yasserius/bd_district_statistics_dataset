@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Number of printing press and person engaged 2011,,,,
-1,"
-Upazila/city corporation",Number of unit,Person engaged,Person engaged,Person engaged
-2,"
-Upazila/city corporation",Number of unit,Family,Hired,Total
+1,,,,,
+2,Upazila/city corporation,Number of unit,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Bagha,8,8,20,28
 4,Baghmara,7,7,9,16
 5,Charghat,3,3,15,18

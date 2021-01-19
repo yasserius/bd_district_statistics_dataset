@@ -1,14 +1,10 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Sonali and Janata bank 2011,,,,,,,,,,
-1,"
-Upazila",Sonali bank,Sonali bank,Sonali bank,Sonali bank,Sonali bank,Janata bank,Janata bank,Janata bank,Janata bank,Janata bank
-2,"
-Upazila",Number of  branch,Account,Account,Account,Account,Number of  branch,Account,Account,Account,Account
-3,"
-Upazila",Number of  branch,S.D,C.D,F.D,S.T.D,Number of  branch,S.D,C.D,F.D,S.T.D
-4,Baliadangi,1,6610,313,77,34,1,16694,152,135,11
-5,Haripur,1,4194,160,46,28,0,0,0,0,0
-6,Pirgonj,2,10311,452,108,36,1,10318,813,131,40
-7,Ranisankail,3,8013,706,97,34,1,7277,443,85,36
-8,Thakurgaon Sadar,10,4235,123,18,5,3,0,0,998,364
-9,Total,16,33363,1754,346,137,6,34289,1408,1349,451
+1,,,,,,,,,,,
+2,Upazila,Sonali bank Number of branch Number of branch,Sonali bank Account S.D,Sonali bank Account C.D,Sonali bank Account F.D,Sonali bank Account S.T.D,Janata bank Number of branch Number of branch,Janata bank Account S.D,Janata bank Account C.D,Janata bank Account F.D,Janata bank Account S.T.D
+3,Baliadangi,1,6610,313,77,34,1,16694,152,135,11
+4,Haripur,1,4194,160,46,28,0,0,0,0,0
+5,Pirgonj,2,10311,452,108,36,1,10318,813,131,40
+6,Ranisankail,3,8013,706,97,34,1,7277,443,85,36
+7,Thakurgaon Sadar,10,4235,123,18,5,3,0,0,998,364
+8,Total,16,33363,1754,346,137,6,34289,1408,1349,451

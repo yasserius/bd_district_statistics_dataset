@@ -1,15 +1,10 @@
 ,0,1,2,3,4,5,6
 0,Number of community clinic and person engaged 2011,,,,,,
-1,Upazila,"Number of
-clinic","Number of
-health assistant","Number
-of FPI","Number
-of FWV","Number of
-FWA","Number of
-other staff"
-2,Jhenaigati,4,0,4,3,23,4
-3,Nakla,17,0,6,7,40,26
-4,Nalitabari,28,42,7,6,39,0
-5,Sherpur Sadar,41,41,0,0,0,41
-6,Sreebardi,32,57,0,0,0,32
-7,Total,122,140,17,16,102,103
+1,,,,,,,
+2,Upazila,Number of clinic,Number of health assistant,Number of FPI,Number of FWV,Number of FWA,Number of other staff
+3,Jhenaigati,4,0,4,3,23,4
+4,Nakla,17,0,6,7,40,26
+5,Nalitabari,28,42,7,6,39,0
+6,Sherpur Sadar,41,41,0,0,0,41
+7,Sreebardi,32,57,0,0,0,32
+8,Total,122,140,17,16,102,103

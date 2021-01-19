@@ -1,8 +1,9 @@
 ,0,1,2,3,4
 0,"Occurrence of storm during the years 2008-2011 (Yes, No)",,,,
-1,Upazila,2008,2009,2010,2011
-2,Bholahat,No,No,No,No
-3,Chapai Nawabganj Sadar,No,No,No,No
-4,Gomastapur,No,No,No,No
-5,Nachole,Yes,No,Yes,No
-6,Shibganj,No,No,No,No
+1,,,,,
+2,Upazila,2008,2009,2010,2011
+3,Bholahat,No,No,No,No
+4,Chapai Nawabganj Sadar,No,No,No,No
+5,Gomastapur,No,No,No,No
+6,Nachole,Yes,No,Yes,No
+7,Shibganj,No,No,No,No

@@ -1,13 +1,13 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,Upazila,"Number of
-insurance company",Number of employee,Number of client
-2,Chakaria,18,216,51220
-3,Cox's Bazar Sadar,15,130,2160
-4,Kutubdia,7,36,6000
-5,Moheshkhali,4,500,34494
-6,Pekua,4,23,785
-7,Ramu,3,17,201
-8,Teknaf,3,12,465
-9,Ukhia,10,149,33901
-10,Total,64,1083,129226
+1,,,,
+2,Upazila,Number of insurance company,Number of employee,Number of client
+3,Chakaria,18,216,51220
+4,Cox's Bazar Sadar,15,130,2160
+5,Kutubdia,7,36,6000
+6,Moheshkhali,4,500,34494
+7,Pekua,4,23,785
+8,Ramu,3,17,201
+9,Teknaf,3,12,465
+10,Ukhia,10,149,33901
+11,Total,64,1083,129226

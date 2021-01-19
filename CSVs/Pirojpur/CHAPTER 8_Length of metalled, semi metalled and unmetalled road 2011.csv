@@ -1,8 +1,7 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
 1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,"Unmetalled
-(kacha) road",Total
+2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
 3,Bhandaria,124.36,85,601,811.19
 4,Kawkhali,48,122,236,406
 5,Mathbaria,162,201,620,983

@@ -1,11 +1,9 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of filling station, fire brigade station, police station, camp, union land (tohsil) office, BOP (BGB camp), cyber cafe 2011",,,,,,,,
-1,"
-Upazila",Filling station,Fire brigade station,Police station/ camp,Union land (Tohsil) office,Sub- Registry office,"BOP (BGB
-camp)","ISP
-provider",Cyber cafe
-2,Alamdanga,2,1,5,13,1,0,1,0
-3,Chuadanga Sadar,6,1,6,8,1,1,0,2
-4,Damurhuda,4,1,12,6,1,7,7,0
-5,Jibonnagar,2,1,4,5,1,8,0,0
-6,Total,14,4,27,32,4,16,8,2
+1,,,,,,,,,
+2, Upazila,Filling station,Fire brigade station,Police station/ camp,Union land (Tohsil) office,Sub- Registry office,BOP (BGB camp),ISP provider,Cyber cafe
+3,Alamdanga,2,1,5,13,1,0,1,0
+4,Chuadanga Sadar,6,1,6,8,1,1,0,2
+5,Damurhuda,4,1,12,6,1,7,7,0
+6,Jibonnagar,2,1,4,5,1,8,0,0
+7,Total,14,4,27,32,4,16,8,2

@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
-2,Upazila,2010-11,2010-11,2009-10,2009-10
-3,Upazila,Number,Production,Number,Production
-4,Bagerhat Sadar,220,12245,215,12233
-5,Kachua,2560,635,2550,614
-6,Rampal,1421,922,1421,922
-7,Sarankhola,4540,1963,4700,1860
-8,Chitalmari,1160,5317,1220,4910
-9,Morrelgonj,12450,4017,12350,4016
-10,Mongla,2196,5820,1965,8858
-11,Mollahat,9470,5610,13438,4626
-12,Fakirhat,1044,5728,964,5329
-13,Total,35061,42257,38823,43368
+1,,,,,
+2,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
+3,Upazila,2010-11,2010-11,2009-10,2009-10
+4,Upazila,Number,Production,Number,Production
+5,Bagerhat Sadar,220,12245,215,12233
+6,Kachua,2560,635,2550,614
+7,Rampal,1421,922,1421,922
+8,Sarankhola,4540,1963,4700,1860
+9,Chitalmari,1160,5317,1220,4910
+10,Morrelgonj,12450,4017,12350,4016
+11,Mongla,2196,5820,1965,8858
+12,Mollahat,9470,5610,13438,4626
+13,Fakirhat,1044,5728,964,5329
+14,Total,35061,42257,38823,43368

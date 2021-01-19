@@ -1,18 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting selected livestock species 2008,,,,,,
-1,"
-Upazila",Cow & Buffalo,Cow & Buffalo,Goat,Goat,Sheep,Sheep
-2,"
-Upazila","Holding
-number","Number
-of animal","Holding
-number","Number
-of goat","Holding
-number","Number
-of sheep"
-3,Gazipur Sadar,25710,92658,10427,30848,982,3626
-4,Kaliakair,22083,64357,6997,19817,528,2008
-5,Kaliganj,275,47238,15,172,2,30
-6,Kapashia,38349,84296,21217,51411,371,1855
-7,Sreepur,38009,92518,22190,58843,258,1275
-8,Total,124426,381067,60846,161091,2141,8794
+1,,,,,,,
+2, Upazila,Cow & Buffalo,Cow & Buffalo,Goat,Goat,Sheep,Sheep
+3, Upazila,Holding number,Number of animal,Holding number,Number of goat,Holding number,Number of sheep
+4,Gazipur Sadar,25710,92658,10427,30848,982,3626
+5,Kaliakair,22083,64357,6997,19817,528,2008
+6,Kaliganj,275,47238,15,172,2,30
+7,Kapashia,38349,84296,21217,51411,371,1855
+8,Sreepur,38009,92518,22190,58843,258,1275
+9,Total,124426,381067,60846,161091,2141,8794

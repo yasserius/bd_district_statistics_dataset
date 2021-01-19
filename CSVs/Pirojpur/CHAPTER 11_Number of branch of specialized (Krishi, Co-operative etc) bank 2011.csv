@@ -1,13 +1,12 @@
 ,0,1,2,3,4
 0,"Number of branch of specialized (Krishi, Co-operative etc) bank 2011",,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C",Number of current A/C
-2,Bhandaria,3,14,8102,42
-3,Kawkhali,1,10,8600,176
-4,Mathbaria,6,31,13510,150
-5,Nazirpur,3,18,13377,81
-6,Nesarabad,5,27,22895,259
-7,Pirojpur Sadar,7,52,15142,274
-8,Zianagar,2,14,7070,96
-9,Total,27,166,88696,1078
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Bhandaria,3,14,8102,42
+4,Kawkhali,1,10,8600,176
+5,Mathbaria,6,31,13510,150
+6,Nazirpur,3,18,13377,81
+7,Nesarabad,5,27,22895,259
+8,Pirojpur Sadar,7,52,15142,274
+9,Zianagar,2,14,7070,96
+10,Total,27,166,88696,1078

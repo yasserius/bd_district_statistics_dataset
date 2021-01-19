@@ -1,21 +1,20 @@
 ,0,1,2,3,4
 0,Area and production at tobacco in following years,,,,
-1,(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton)
-2,"
-Upazila",2010-11,2010-11,2009-10,2009-10
-3,"
-Upazila",Area,Production,Area,Production
-4,Biral,3,1,13,2
-5,Birampur,0,0,0,0
-6,Birganj,0,0,0,0
-7,Bochaganj,3,1,3,1
-8,Chirirbandar,8,3,0,0
-9,Dinajpur Sadar,83,31,80,30
-10,Fulbari,0,0,0,0
-11,Ghoraghat,0,0,0,0
-12,Hakimpur,0,0,0,0
-13,Kaharole,0,0,0,0
-14,Khansama,0,0,0,0
-15,Nawabganj,0,0,0,0
-16,Parbatipur,0,0,0,0
-17,Total,97,36,96,32
+1,,,,,
+2,(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton)
+3, Upazila,2010-11,2010-11,2009-10,2009-10
+4, Upazila,Area,Production,Area,Production
+5,Biral,3,1,13,2
+6,Birampur,0,0,0,0
+7,Birganj,0,0,0,0
+8,Bochaganj,3,1,3,1
+9,Chirirbandar,8,3,0,0
+10,Dinajpur Sadar,83,31,80,30
+11,Fulbari,0,0,0,0
+12,Ghoraghat,0,0,0,0
+13,Hakimpur,0,0,0,0
+14,Kaharole,0,0,0,0
+15,Khansama,0,0,0,0
+16,Nawabganj,0,0,0,0
+17,Parbatipur,0,0,0,0
+18,Total,97,36,96,32

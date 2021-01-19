@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of rice mill and persons engaged 2011,,,,
-1,"
-Upazila","
-Units",Persons engaged,Persons engaged,Persons engaged
-2,"
-Upazila","
-Units",Male,Female,Total
+1,,,,,
+2,Upazila,Units,Persons engaged Male,Persons engaged Female,Persons engaged Total
 3,Austagram,93,127,0,127
 4,Bajitpur,50,350,150,500
 5,Bhairab,10,50,60,110

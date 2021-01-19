@@ -1,14 +1,8 @@
 ,0,1,2,3,4,5,6,7
 0,Irrigation by means 2010-2011,,,,,,,
 1,(In acre),,,,,,,
-2,"
-Upazila",Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,"
-Total"
-3,"
-Upazila","Power
-pump",Tube well,Doon,"Swing
-basket",Canal,Others,"
-Total"
+2, Upazila,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management, Total
+3, Upazila,Power pump,Tube well,Doon,Swing basket,Canal,Others, Total
 4,Chakaria,31250,800,7500,200,0,0,38750
 5,Cox's Bazar Sadar,16240,0,0,0,2,0,16242
 6,Kutubdia,3120,320,1500,250,310,355,5855

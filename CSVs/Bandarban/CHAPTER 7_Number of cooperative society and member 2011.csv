@@ -1,18 +1,13 @@
 ,0,1,2,3,4
 0,Number of cooperative society and member 2011,,,,
-1,"
-Upazila","Number of
-co-operative society",Number of member,Number of member,"
-Both sex"
-2,"
-Upazila","Number of
-co-operative society",Male,Female,"
-Both sex"
-3,Alikadam,168,3024,1398,4422
-4,Bandarban Sadar,259,3885,4065,7950
-5,Lama,138,1503,1099,2602
-6,Naikhongchhari,105,2542,50,2592
-7,Rowangchhari,198,2011,1530,3541
-8,Ruma,56,208,806,1014
-9,Thanchi,21,150,50,200
-10,Total,945,13323,8998,22321
+1,,,,,
+2, Upazila,Number of co-operative society,Number of member,Number of member, Both sex
+3, Upazila,Number of co-operative society,Male,Female, Both sex
+4,Alikadam,168,3024,1398,4422
+5,Bandarban Sadar,259,3885,4065,7950
+6,Lama,138,1503,1099,2602
+7,Naikhongchhari,105,2542,50,2592
+8,Rowangchhari,198,2011,1530,3541
+9,Ruma,56,208,806,1014
+10,Thanchi,21,150,50,200
+11,Total,945,13323,8998,22321

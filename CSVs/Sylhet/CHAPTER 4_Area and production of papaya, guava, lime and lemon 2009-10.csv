@@ -1,19 +1,18 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of papaya, guava, lime and lemon 2009-10",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,Upazila/City corporation,Papaya,Papaya,Guava,Guava,Lime and lemon,Lime and lemon
-3,Upazila/City corporation,Area,Production,Area,Production,Area,Production
-4,Balaganj,0,0,0,0,0,0
-5,Beanibazar,22,5.48,20,11.6,30,57
-6,Bishwanath,6,24,60,303,20,92
-7,Companiganj,0,0,8,42,4,12
-8,Dakhin surma,81,4670,34,44,49,35
-9,Fenchuganj,0,13.94,5.3,201.75,9.85,104.7
-10,Golapganj,1.5,5.5,5,13,3.5,1.5
-11,Gowainghat,120,30.1,125,406.53,267,43.1
-12,Jaintiapur,4,0.5,51,51,76,80
-13,Kanaighat,80,130,25,20,550,140
-14,Sylhet city corporation,0,0,0,0,0,0
-15,Sylhet sadar,24,60,24,40,12,20
-16,Zakiganj,0,0,0,0,0,0
-17,Total,338.5,4939.52,357.3,1132.88,1021.35,585.3
+2,Upazila/City corporation,Papaya Area,Papaya Production,Guava Area,Guava Production,Lime and lemon Area,Lime and lemon Production
+3,Balaganj,0,0,0,0,0,0
+4,Beanibazar,22,5.48,20,11.6,30,57
+5,Bishwanath,6,24,60,303,20,92
+6,Companiganj,0,0,8,42,4,12
+7,Dakhin surma,81,4670,34,44,49,35
+8,Fenchuganj,0,13.94,5.3,201.75,9.85,104.7
+9,Golapganj,1.5,5.5,5,13,3.5,1.5
+10,Gowainghat,120,30.1,125,406.53,267,43.1
+11,Jaintiapur,4,0.5,51,51,76,80
+12,Kanaighat,80,130,25,20,550,140
+13,Sylhet city corporation,0,0,0,0,0,0
+14,Sylhet sadar,24,60,24,40,12,20
+15,Zakiganj,0,0,0,0,0,0
+16,Total,338.5,4939.52,357.3,1132.88,1021.35,585.3

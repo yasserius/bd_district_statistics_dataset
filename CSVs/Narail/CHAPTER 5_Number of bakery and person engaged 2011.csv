@@ -1,12 +1,9 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Kalia,6,10,18,28
-4,Lohagara,14,42,126,168
-5,Narail Sadar,4,5,24,29
-6,Total,24,57,168,225
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Kalia,6,10,18,28
+5,Lohagara,14,42,126,168
+6,Narail Sadar,4,5,24,29
+7,Total,24,57,168,225

@@ -1,16 +1,9 @@
 ,0,1,2,3,4
 0,Number of co-operative society and member 2011,,,,
 1,(In Bangla Schedule  Activities ),,,,
-2,"
-Upazila","Number of
-co-operative society",Number of member,Number of member,"
-Both sex"
-3,"
-Upazila","Number of
-co-operative society",Male,Female,"
-Both sex"
-4,Alamdanga,65,1300,0,1300
-5,Chuadanga Sadar,444,8187,3183,11370
-6,Damurhuda,110,8510,5350,13860
-7,Jibonnagar,78,2080,1040,3120
-8,Total,697,20077,9573,29650
+2,Upazila,Number of co-operative society,Number of member Male,Number of member Female,Both sex
+3,Alamdanga,65,1300,0,1300
+4,Chuadanga Sadar,444,8187,3183,11370
+5,Damurhuda,110,8510,5350,13860
+6,Jibonnagar,78,2080,1040,3120
+7,Total,697,20077,9573,29650

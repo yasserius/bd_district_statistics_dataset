@@ -1,12 +1,10 @@
 ,0,1,2,3,4,5,6,7
 0,Number of technical personnel 2011,,,,,,,
-1,"
-Upazila",Agricultural personnel,"Live- stock
-personnel",Plant protection,Fishery personnel,Sanitary personnel,"Family
-planning personnel",Trained midwife
-2,Aditmari,17,59,24,17,15,51,10
-3,Hatibandha,27,55,20,16,20,25,50
-4,Kaligonj,29,13,15,14,10,56,10
-5,Lalmonirhat Sadar,31,102,15,10,58,102,207
-6,Patgram,26,48,12,13,17,60,10
-7,Total,130,277,86,70,120,294,287
+1,,,,,,,,
+2,Upazila,Agricultural personnel,Live- stock personnel,Plant protection,Fishery personnel,Sanitary personnel,Family planning personnel,Trained midwife
+3,Aditmari,17,59,24,17,15,51,10
+4,Hatibandha,27,55,20,16,20,25,50
+5,Kaligonj,29,13,15,14,10,56,10
+6,Lalmonirhat Sadar,31,102,15,10,58,102,207
+7,Patgram,26,48,12,13,17,60,10
+8,Total,130,277,86,70,120,294,287

@@ -1,13 +1,10 @@
 ,0,1,2,3,4,5
 0,Number of family planning personnel working by municipality 2011,,,,,
-1,"
-Upazila","
-Doctor","Family planning
-inspector",Family planning assistant,"Family planning
-visitor",Midwife/ birth attendant (Dais)
-2,Atwari,0,0,0,0,0
-3,Boda,1,0,2,3,0
-4,Debiganj,0,0,0,0,0
-5,Panchagarh Sadar,2,6,12,6,12
-6,Tentulia,0,0,0,0,0
-7,Total,3,6,14,9,12
+1,,,,,,
+2,Upazila,Doctor,Family planning inspector,Family planning assistant,Family planning visitor,Midwife/ birth attendant (Dais)
+3,Atwari,0,0,0,0,0
+4,Boda,1,0,2,3,0
+5,Debiganj,0,0,0,0,0
+6,Panchagarh Sadar,2,6,12,6,12
+7,Tentulia,0,0,0,0,0
+8,Total,3,6,14,9,12

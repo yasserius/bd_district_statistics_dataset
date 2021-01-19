@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,"Occurrence of river erosion during the years 2008-2011 (Yes, No)",,,,
-1,Upazila,2008,2009,2010,2011
-2,Barlekha,No,No,No,No
-3,Juri,No,No,No,No
-4,Kamalganj,No,No,No,No
-5,Kulaura,No,Yes,No,No
-6,Moulvibazar Sadar,No,No,No,No
-7,Rajnagar,No,No,No,No
-8,Sreemangal,No,No,No,No
-9,Total,No,No,No,No
+1,,,,,
+2,Upazila,2008,2009,2010,2011
+3,Barlekha,No,No,No,No
+4,Juri,No,No,No,No
+5,Kamalganj,No,No,No,No
+6,Kulaura,No,Yes,No,No
+7,Moulvibazar Sadar,No,No,No,No
+8,Rajnagar,No,No,No,No
+9,Sreemangal,No,No,No,No
+10,Total,No,No,No,No

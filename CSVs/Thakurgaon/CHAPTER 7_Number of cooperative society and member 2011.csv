@@ -1,13 +1,7 @@
 ,0,1,2,3,4
 0,Number of cooperative society and member 2011,,,,
-1,"
-Upazila","Number of
-co-operative society",Number of member,Number of member,"
-Total"
-2,"
-Upazila","Number of
-co-operative society",Male,Female,"
-Total"
+1,,,,,
+2,Upazila,Number of co-operative society,Number of member Male,Number of member Female,Total
 3,Baliadangi,129,4320,471,4791
 4,Haripur,70,560,120,680
 5,Pirgonj,303,18679,1908,20587

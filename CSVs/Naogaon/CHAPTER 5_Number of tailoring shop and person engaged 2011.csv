@@ -1,20 +1,17 @@
 ,0,1,2,3,4
 0,Number of tailoring shop and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Atrai,820,820,1210,2030
-4,Badalgachhi,210,230,205,435
-5,Dhamoirhat,180,180,60,240
-6,Manda,162,108,173,281
-7,Mahadebpur,756,798,813,1611
-8,Naogaon sadar,196,238,285,523
-9,Niamatpur,1,7,23,30
-10,Patnitala,39,51,174,225
-11,Porsha,87,98,47,145
-12,Raninagar,72,85,216,301
-13,Sapahar,150,130,300,430
-14,Total,2673,2745,3506,6251
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Atrai,820,820,1210,2030
+5,Badalgachhi,210,230,205,435
+6,Dhamoirhat,180,180,60,240
+7,Manda,162,108,173,281
+8,Mahadebpur,756,798,813,1611
+9,Naogaon sadar,196,238,285,523
+10,Niamatpur,1,7,23,30
+11,Patnitala,39,51,174,225
+12,Porsha,87,98,47,145
+13,Raninagar,72,85,216,301
+14,Sapahar,150,130,300,430
+15,Total,2673,2745,3506,6251

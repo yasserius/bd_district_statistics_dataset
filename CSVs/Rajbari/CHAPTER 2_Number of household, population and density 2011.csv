@@ -1,14 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,"
-Upazila","
-Household",Population,Population,Population,Sex ratio (M/F),Average size of household,Density per sq. km.
-2,"
-Upazila","
-Household",Male,Female,Total,Sex ratio (M/F),Average size of household,Density per sq. km.
-3,Baliakandi,46262,103675,103411,207086,100,4.47,904
-4,Goalanda,24613,54913,57819,112732,95,4.57,925
-5,Kalukhali,35032,77205,77839,155044,99,4.42,918
-6,Pangsha,56336,121723,121562,243285,100,4.31,972
-7,Rajbari Sadar,75585,162483,169148,331631,96,4.34,1029
-8,Total,237828,519999,529779,1049778,98,4.39,961
+1,,,,,,,,
+2, Upazila, Household,Population,Population,Population,Sex ratio (M/F),Average size of household,Density per sq. km.
+3, Upazila, Household,Male,Female,Total,Sex ratio (M/F),Average size of household,Density per sq. km.
+4,Baliakandi,46262,103675,103411,207086,100,4.47,904
+5,Goalanda,24613,54913,57819,112732,95,4.57,925
+6,Kalukhali,35032,77205,77839,155044,99,4.42,918
+7,Pangsha,56336,121723,121562,243285,100,4.31,972
+8,Rajbari Sadar,75585,162483,169148,331631,96,4.34,1029
+9,Total,237828,519999,529779,1049778,98,4.39,961

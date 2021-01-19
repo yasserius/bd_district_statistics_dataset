@@ -1,15 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting selected livestock species 2008,,,,,,
-1,"
-Upazila",Cow & Buffaloe,Cow & Buffaloe,Goat,Goat,Sheep,Sheep
-2,"
-Upazila","Holding
-number","Animal
-number","Holding
-number","Number
-of goat","Holding
-number","Number
-of sheep"
+1,,,,,,,
+2,Upazila,Cow & Buffaloe Holding number,Cow & Buffaloe Animal number,Goat Holding number,Goat Number of goat,Sheep Holding number,Sheep Number of sheep
 3,Akhaura,20322,17500,4526,10118,105,180
 4,Ashuganj,8111,17207,1442,3228,87,480
 5,Banchharampur,15526,35121,11240,24174,531,1721

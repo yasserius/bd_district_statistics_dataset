@@ -1,16 +1,10 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of growth centre, hat , bazar, poultry farm, dairy farm, nursery, horticulture centre, brick kiln, decorator service 2011",,,,,,,,
-1,Upazila,"Growth
-centre","Hat
-/bazar","Poultry
-farm","Dairy
-farm",Nursery,"Horticulture
-centre","Brick
-kiln","Decorator
-service"
-2,Aditmari,10,17,38,45,1,0,5,31
-3,Hatibandha,4,24,31,43,150,0,7,26
-4,Kaligonj,7,21,18,26,12,0,9,23
-5,Lalmonirhat Sadar,8,45,104,85,17,0,5,68
-6,Patgram,4,24,3,39,13,0,3,28
-7,Total,33,131,194,238,193,0,29,176
+1,,,,,,,,,
+2,Upazila,Growth centre,Hat /bazar,Poultry farm,Dairy farm,Nursery,Horticulture centre,Brick kiln,Decorator service
+3,Aditmari,10,17,38,45,1,0,5,31
+4,Hatibandha,4,24,31,43,150,0,7,26
+5,Kaligonj,7,21,18,26,12,0,9,23
+6,Lalmonirhat Sadar,8,45,104,85,17,0,5,68
+7,Patgram,4,24,3,39,13,0,3,28
+8,Total,33,131,194,238,193,0,29,176

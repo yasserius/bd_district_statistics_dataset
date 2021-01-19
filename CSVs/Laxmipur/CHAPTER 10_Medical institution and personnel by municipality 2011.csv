@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Medical institution and personnel by municipality 2011,,,,,,
-1,"
-Upazila","
-Govt. institution",Private institution,Medical personnel,Medical personnel,Medical personnel,Medical personnel
-2,"
-Upazila","
-Govt. institution",Private institution,Bed,Doctor,Nurse,Technician
+1,,,,,,,
+2,Upazila,Govt. institution,Private institution,Medical personnel Bed,Medical personnel Doctor,Medical personnel Nurse,Medical personnel Technician
 3,Kamalnagar,0,0,0,0,0,0
 4,Lakshmipur Sadar,1,12,115,28,164,114
 5,Ramganj,1,6,91,20,9,3

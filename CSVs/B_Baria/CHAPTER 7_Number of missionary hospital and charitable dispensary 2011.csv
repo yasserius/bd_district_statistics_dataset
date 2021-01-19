@@ -1,19 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Number of missionary hospital and charitable dispensary 2011,,,,,,
-1,Upazila,"Number
-of centre","Number
-of bed","Number
-of doctor","Number
-of nurse","Number of
-technician","Number of
-other staff"
-2,Akhaura,0,0,0,0,0,0
-3,Ashuganj,0,0,0,0,0,0
-4,Banchharampur,0,0,0,0,0,0
-5,Bijoynagar,0,0,0,0,0,0
-6,Brahmanbaria Sadar,1,30,3,48,2,155
-7,Kasba,0,0,0,0,0,0
-8,Nabinagar,0,0,0,0,0,0
-9,Nasirnagar,0,0,0,0,0,0
-10,Sarail,0,0,0,0,0,0
-11,Total,1,30,3,48,2,155
+1,,,,,,,
+2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Akhaura,0,0,0,0,0,0
+4,Ashuganj,0,0,0,0,0,0
+5,Banchharampur,0,0,0,0,0,0
+6,Bijoynagar,0,0,0,0,0,0
+7,Brahmanbaria Sadar,1,30,3,48,2,155
+8,Kasba,0,0,0,0,0,0
+9,Nabinagar,0,0,0,0,0,0
+10,Nasirnagar,0,0,0,0,0,0
+11,Sarail,0,0,0,0,0,0
+12,Total,1,30,3,48,2,155

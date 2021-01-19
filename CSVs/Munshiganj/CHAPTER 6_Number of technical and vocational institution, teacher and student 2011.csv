@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6
 0,"Number of technical and vocational institution, teacher and student 2011",,,,,,
-1,"
-Upazila","
-Institution",Number of teacher,Number of student,Students per teacher,,
-2,"
-Upazila","
-Institution",Male	I Female I Total,Male	I Female I Total,Students per teacher,,
+1,,,,,,,
+2,Upazila,Institution,Number of teacher MaleI Female I Total,Number of student MaleI Female I Total,Students per teacher,,
 3,Gazaria,1,9,1,10,120,0	120	12
 4,Lauhajang,1,7,0,7,80,0	80	11
 5,Munshiganj Sadar,2,18,4,22,352,75	427	19

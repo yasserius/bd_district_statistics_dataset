@@ -1,14 +1,8 @@
 ,0,1,2,3,4,5,6,7
 0,Irrigation by means 2010-2011,,,,,,,
 1,(In acre),,,,,,,
-2,"
-Upazila",Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,"
-Total"
-3,"
-Upazila","Power
-pump",Tube well,Doon,"Swing
-basket",Canal,Others,"
-Total"
+2, Upazila,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management, Total
+3, Upazila,Power pump,Tube well,Doon,Swing basket,Canal,Others, Total
 4,Azmirigonj,10816,0,0,0,0,0,34420
 5,Bahubal,703,0,275,0,225,914,5923
 6,Baniachang,13184,12659,74,0,0,0,8015

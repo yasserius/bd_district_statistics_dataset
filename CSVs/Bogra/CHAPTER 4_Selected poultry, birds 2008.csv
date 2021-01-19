@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,"Selected poultry, birds 2008",,,,,,
-1,"
-Upazila",Hen and cock,Hen and cock,Duck,Duck,Others,Others
-2,"
-Upazila",Holding reporting,Total number,Holding reporting,Total number,Holding reporting,Total number
+1,,,,,,,
+2,Upazila,Hen and cock Holding reporting,Hen and cock Total number,Duck Holding reporting,Duck Total number,Others Holding reporting,Others Total number
 3,Adamdighi,24419,188155,17425,117218,1066,13413
 4,Bogra sadar,32372,217435,10856,49745,1543,20323
 5,Dhunat,4423,269298,13574,66047,1329,14807

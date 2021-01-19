@@ -1,20 +1,17 @@
 ,0,1,2,3,4
 0,Area and production of turmeric and ginger 2010-11,,,,
 1,(Area in acre and production in metric ton),,,,
-2,"
-Upazila",Turmeric,Turmeric,Ginger,Ginger
-3,"
-Upazila",Area,Production,Area,Production
-4,Bhaluka	599,1440,245,568,
-5,Dhobaura	57,37,21,39,
-6,Fulbaria	410,649,143,444,
-7,Gaffargaon	174,267,99,235,
-8,Gauripur	51,0,12,0,
-9,Haluaghat	61,61,18,33,
-10,Ishwargonj	97,153,76,88,
-11,Muktagacha	12,20,30,300,
-12,Mymensingh Sadar	62,46,37,98,
-13,Nandail	196,3,133,298,
-14,Phulpur	97,354,104,386,
-15,Trishal	264,187,237,273,
-16,Total	2080,3217,1155,2762,
+2,Upazila,Turmeric Area,Turmeric Production,Ginger Area,Ginger Production
+3,Bhaluka	599,1440,245,568,
+4,Dhobaura	57,37,21,39,
+5,Fulbaria	410,649,143,444,
+6,Gaffargaon	174,267,99,235,
+7,Gauripur	51,0,12,0,
+8,Haluaghat	61,61,18,33,
+9,Ishwargonj	97,153,76,88,
+10,Muktagacha	12,20,30,300,
+11,Mymensingh Sadar	62,46,37,98,
+12,Nandail	196,3,133,298,
+13,Phulpur	97,354,104,386,
+14,Trishal	264,187,237,273,
+15,Total	2080,3217,1155,2762,

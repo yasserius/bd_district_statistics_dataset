@@ -1,16 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Broad soil classification 2008,,,,,,
-1,"
-Upazila","
-Total",Soil classification,Soil classification,Soil classification,Soil classification,Soil classification
-2,"
-Upazila","
-Total",Doash,Bele,Etel,Kankar,Others
-3,Bhandaria,26922,38180,0,0,0,0
-4,Kawkhali,12909,16554,0,0,0,0
-5,Mathbaria,62367,31246,19760,5113,0,0
-6,Nazirpur,44174,56361,0,0,0,150
-7,Nesarabad,28364,12266,3186,18885,0,0
-8,Pirojpur Sadar,29032,25863,6466,0,0,0
-9,Zianagar,14435,11620,1035,10721,0,0
-10,Total,218203,192090,30447,34719,0,150
+1,,,,,,,
+2, Upazila, Total,Soil classification,Soil classification,Soil classification,Soil classification,Soil classification
+3, Upazila, Total,Doash,Bele,Etel,Kankar,Others
+4,Bhandaria,26922,38180,0,0,0,0
+5,Kawkhali,12909,16554,0,0,0,0
+6,Mathbaria,62367,31246,19760,5113,0,0
+7,Nazirpur,44174,56361,0,0,0,150
+8,Nesarabad,28364,12266,3186,18885,0,0
+9,Pirojpur Sadar,29032,25863,6466,0,0,0
+10,Zianagar,14435,11620,1035,10721,0,0
+11,Total,218203,192090,30447,34719,0,150

@@ -1,14 +1,14 @@
 ,0,1,2,3
 0,Length of embankment road & canal 2011,,,
-1,,,,(Kilometer)
-2,Upazila,"Embankment
-road",Canal,Others road
-3,Badarganj,0,0,0
-4,Gangachara,31,0,0
-5,Kaunia,0,10,0
-6,Mithapukur,0,0,0
-7,Pirgachha,8,23,0
-8,Pirganj,0,6,0
-9,Rangpur sadar,0,0,0
-10,Taraganj,1,5,1
-11,Total,40,44,1
+1,,,,
+2,,,,(Kilometer)
+3,Upazila,Embankment road,Canal,Others road
+4,Badarganj,0,0,0
+5,Gangachara,31,0,0
+6,Kaunia,0,10,0
+7,Mithapukur,0,0,0
+8,Pirgachha,8,23,0
+9,Pirganj,0,6,0
+10,Rangpur sadar,0,0,0
+11,Taraganj,1,5,1
+12,Total,40,44,1

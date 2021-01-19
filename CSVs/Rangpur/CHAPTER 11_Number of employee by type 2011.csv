@@ -1,17 +1,13 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,Upazila,"Police
-personnel","Ansar
-personnel","VDP
-personnel","Autonomous
-bodies","Local govt.
-employee"
-2,Badarganj,36,320,9616,508,110
-3,Gangachara,37,452,6208,13,19
-4,Kaunia,36,132,48192,40,68
-5,Mithapukur,61,676,19840,1,13
-6,Pirgachha,35,420,10880,381,101
-7,Pirganj,3,612,19520,1,15
-8,Rangpur sadar,928,484,8896,1511,380
-9,Taraganj,56,332,3520,2,54
-10,Total,1192,3428,126672,2457,760
+1,,,,,,
+2,Upazila,Police personnel,Ansar personnel,VDP personnel,Autonomous bodies,Local govt. employee
+3,Badarganj,36,320,9616,508,110
+4,Gangachara,37,452,6208,13,19
+5,Kaunia,36,132,48192,40,68
+6,Mithapukur,61,676,19840,1,13
+7,Pirgachha,35,420,10880,381,101
+8,Pirganj,3,612,19520,1,15
+9,Rangpur sadar,928,484,8896,1511,380
+10,Taraganj,56,332,3520,2,54
+11,Total,1192,3428,126672,2457,760

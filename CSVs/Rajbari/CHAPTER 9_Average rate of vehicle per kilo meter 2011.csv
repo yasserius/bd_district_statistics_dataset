@@ -1,13 +1,12 @@
 ,0,1,2,3,4,5
 0,Average rate of vehicle per kilo meter 2011,,,,,
-1,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
-2,"
-Upazila",Vehicle,Vehicle,Vehicle,Vehicle,Vehicle
-3,"
-Upazila",Rickshaw,Rickshaw van,Easy bike,Auto rickshaw,Tempo
-4,Baliakandi,0,5,5,5,5
-5,Goalanda,5,5,5,0,5
-6,Kalukhali,20,10,10,10,0
-7,Pangsha,20,10,10,10,0
-8,Rajbari Sadar,5,5,5,0,5
-9,Average,50,35,35,25,15
+1,,,,,,
+2,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
+3, Upazila,Vehicle,Vehicle,Vehicle,Vehicle,Vehicle
+4, Upazila,Rickshaw,Rickshaw van,Easy bike,Auto rickshaw,Tempo
+5,Baliakandi,0,5,5,5,5
+6,Goalanda,5,5,5,0,5
+7,Kalukhali,20,10,10,10,0
+8,Pangsha,20,10,10,10,0
+9,Rajbari Sadar,5,5,5,0,5
+10,Average,50,35,35,25,15

@@ -1,20 +1,17 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,"
-Upazila","
-Household",Population (000),Population (000),Population (000),Sex ratio (M/F),Average size of household,Density per sq. km.
-2,"
-Upazila","
-Household",Male,Female,Total,Sex ratio (M/F),Average size of household,Density per sq. km.
-3,Atrai,45465,96,97,193,99,4.25,679
-4,Badalgachhi,54001,100,101,201,100,3.73,941
-5,Dhamoirhat,49046,93,91,184,103,3.76,614
-6,Manda,97219,180,184,364,98,3.74,968
-7,Mahadebpur,76089,147,146,293,101,3.83,736
-8,Naogaon sadar,100867,205,201,405,102,3.97,1469
-9,Niamatpur,61811,123,126,249,97,4.01,553
-10,Patnitala,58661,117,115,232,101,3.93,606
-11,Porsha,30773,66,66,132,101,4.24,522
-12,Raninagar,45637,92,93,185,98,4.04,715
-13,Sapahar,36232,81,81,162,101,4.44,662
-14,Total,655801,1300,1300,2600,100,3.95,757
+1,,,,,,,,
+2, Upazila, Household,Population (000),Population (000),Population (000),Sex ratio (M/F),Average size of household,Density per sq. km.
+3, Upazila, Household,Male,Female,Total,Sex ratio (M/F),Average size of household,Density per sq. km.
+4,Atrai,45465,96,97,193,99,4.25,679
+5,Badalgachhi,54001,100,101,201,100,3.73,941
+6,Dhamoirhat,49046,93,91,184,103,3.76,614
+7,Manda,97219,180,184,364,98,3.74,968
+8,Mahadebpur,76089,147,146,293,101,3.83,736
+9,Naogaon sadar,100867,205,201,405,102,3.97,1469
+10,Niamatpur,61811,123,126,249,97,4.01,553
+11,Patnitala,58661,117,115,232,101,3.93,606
+12,Porsha,30773,66,66,132,101,4.24,522
+13,Raninagar,45637,92,93,185,98,4.04,715
+14,Sapahar,36232,81,81,162,101,4.44,662
+15,Total,655801,1300,1300,2600,100,3.95,757

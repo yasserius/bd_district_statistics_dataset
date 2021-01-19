@@ -1,14 +1,15 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,Upazila,Number of insurance company,Number of employee,Number of client
-2,Atpara,3,9,9500
-3,Barhatta,3,8,8325
-4,Durgapur,3,98,6550
-5,Kalmakanda,3,8,1833
-6,Kendua,3,9,7255
-7,Khaliajuri,1,16,331
-8,Madan,6,45,32747
-9,Mohanganj,6,40,5289
-10,Netrokona Sadar,6,28,8514
-11,Purbadhala,0,0,0
-12,Total,34,261,80344
+1,,,,
+2,Upazila,Number of insurance company,Number of employee,Number of client
+3,Atpara,3,9,9500
+4,Barhatta,3,8,8325
+5,Durgapur,3,98,6550
+6,Kalmakanda,3,8,1833
+7,Kendua,3,9,7255
+8,Khaliajuri,1,16,331
+9,Madan,6,45,32747
+10,Mohanganj,6,40,5289
+11,Netrokona Sadar,6,28,8514
+12,Purbadhala,0,0,0
+13,Total,34,261,80344

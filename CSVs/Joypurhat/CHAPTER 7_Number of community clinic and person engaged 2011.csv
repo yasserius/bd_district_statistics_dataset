@@ -1,11 +1,10 @@
 ,0,1,2,3,4,5,6
 0,Number of community clinic and person engaged 2011,,,,,,
-1,"
-Upazila",Number of clinic,"Number of
-health assistant",Number of FPI,Number of FWV,Number of FWA,Number of other staff
-2,Akkelpur,6,6,3,5,31,12
-3,Joypurhat sadar,27,48,3,6,38,0
-4,Kalai,17,20,2,6,24,58
-5,Khetlal,16,0,0,0,0,0
-6,Panchbibi,29,29,7,11,48,32
-7,Total,95,103,15,28,141,102
+1,,,,,,,
+2, Upazila,Number of clinic,Number of health assistant,Number of FPI,Number of FWV,Number of FWA,Number of other staff
+3,Akkelpur,6,6,3,5,31,12
+4,Joypurhat sadar,27,48,3,6,38,0
+5,Kalai,17,20,2,6,24,58
+6,Khetlal,16,0,0,0,0,0
+7,Panchbibi,29,29,7,11,48,32
+8,Total,95,103,15,28,141,102

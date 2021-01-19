@@ -1,14 +1,13 @@
 ,0,1,2,3
 0,Number of deep tube-well scheme 2010-11,,,
-1,"
-Upazila",Number of deep tube-well,Number of deep tube-well,Area irrigated (In acre)
-2,"
-Upazila",Commissioned,Operated,Area irrigated (In acre)
-3,Daulotpur,0,30,615
-4,Gheor,0,37,1667
-5,Horirampur,0,8,385
-6,Manikganj Sadar,66,2,5200
-7,Saturia,0,44,1549
-8,Shibalaya,0,21,958
-9,Singair,13,13,1939
-10,Total,79,155,12313
+1,,,,
+2, Upazila,Number of deep tube-well,Number of deep tube-well,Area irrigated (In acre)
+3, Upazila,Commissioned,Operated,Area irrigated (In acre)
+4,Daulotpur,0,30,615
+5,Gheor,0,37,1667
+6,Horirampur,0,8,385
+7,Manikganj Sadar,66,2,5200
+8,Saturia,0,44,1549
+9,Shibalaya,0,21,958
+10,Singair,13,13,1939
+11,Total,79,155,12313

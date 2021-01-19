@@ -1,13 +1,7 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of registered primary school (class 1-V), teacher and student 2011",,,,,,,
-1,"
-
-Upazila","Number of registered primary
-school",Number of teacher,Number of student,Students per teacher,,,
-2,"
-
-Upazila","Number of registered primary
-school",Male   I Female I	Total,Male   I Female I	Total,Students per teacher,,,
+1,,,,,,,,
+2,Upazila,Number of registered primary school,Number of teacher Male I Female ITotal,Number of student Male I Female ITotal,Students per teacher,,,
 3,Gazaria	16,13,46,59,1262,784,2046,35
 4,Lauhajang	5,9,8,17,220,230,450,26
 5,Munshiganj Sadar	9,13,19,32,1671,1793,3464,108

@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Number of pottery and person engaged 2011,,,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,I,Hired,I,Total
+1,,,,,,,
+2,Upazila,Unit,Person engaged Family,Person engaged I,Person engaged Hired,Person engaged I,Person engaged Total
 3,Gazaria,0,0,0,0,,
 4,Lauhajang,23,57,13,70,,
 5,Munshiganj Sadar,0,0,0,0,,

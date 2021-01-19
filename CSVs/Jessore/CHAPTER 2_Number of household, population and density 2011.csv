@@ -1,17 +1,14 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,"
-Upazila","
-Household",Population,Population,Population,Sex ratio (M/F),Average size of household,Density per sq. km.
-2,"
-Upazila","
-Household",Male,Female,Total,Sex ratio (M/F),Average size of household,Density per sq. km.
-3,Abhaynagar,62189,131846,130588,262434,101,4.2,1062
-4,Bagherpara,49971,107568,109329,216897,98,4.3,704
-5,Chaugachha,56440,115907,115463,231370,100,4.1,859
-6,Jessore Sadar,169164,380314,362584,742898,105,4.3,1707
-7,Jhikargachha,72266,147127,151781,298908,97,4.1,971
-8,Keshabpur,62309,126656,126635,253291,100,4.1,980
-9,Manirampur,101239,206842,210579,417421,98,4.1,940
-10,Sharsha,82835,170033,171295,341328,99,4.1,1015
-11,Total,656413,1386293,1378254,2764547,101,4.2,1060
+1,,,,,,,,
+2, Upazila, Household,Population,Population,Population,Sex ratio (M/F),Average size of household,Density per sq. km.
+3, Upazila, Household,Male,Female,Total,Sex ratio (M/F),Average size of household,Density per sq. km.
+4,Abhaynagar,62189,131846,130588,262434,101,4.2,1062
+5,Bagherpara,49971,107568,109329,216897,98,4.3,704
+6,Chaugachha,56440,115907,115463,231370,100,4.1,859
+7,Jessore Sadar,169164,380314,362584,742898,105,4.3,1707
+8,Jhikargachha,72266,147127,151781,298908,97,4.1,971
+9,Keshabpur,62309,126656,126635,253291,100,4.1,980
+10,Manirampur,101239,206842,210579,417421,98,4.1,940
+11,Sharsha,82835,170033,171295,341328,99,4.1,1015
+12,Total,656413,1386293,1378254,2764547,101,4.2,1060

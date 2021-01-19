@@ -1,11 +1,9 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C","Number of
-current A/C"
-2,Jhalokati Sadar,11,96,22740,2927
-3,Kanthalia,0,0,0,0
-4,Nalchity,1,6,1578,170
-5,Rajpur,2,22,4192,499
-6,Total,14,124,28510,3596
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Jhalokati Sadar,11,96,22740,2927
+4,Kanthalia,0,0,0,0
+5,Nalchity,1,6,1578,170
+6,Rajpur,2,22,4192,499
+7,Total,14,124,28510,3596

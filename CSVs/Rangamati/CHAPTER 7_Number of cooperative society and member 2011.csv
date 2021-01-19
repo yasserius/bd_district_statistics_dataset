@@ -1,21 +1,16 @@
 ,0,1,2,3,4
 0,Number of cooperative society and member 2011,,,,
-1,"
-Upazila","Number of
-co-operative society",Number of member,Number of member,"
-Both sex"
-2,"
-Upazila","Number of
-co-operative society",Male,Female,"
-Both sex"
-3,Baghaichhari,145,4896,1361,6257
-4,Barkal,74,2756,261,3017
-5,Belai Chhari,63,1106,397,1503
-6,Jurai Chhari,120,1195,784,1979
-7,Kaptai,291,7731,6171,13902
-8,Kawkhali,258,6079,3125,9204
-9,Langadu,109,1984,592,2576
-10,Naniarchar,66,930,347,1277
-11,Rangamati Sadar,253,7076,3361,10437
-12,Rajasthali,62,1362,507,1869
-13,Total,1441,35115,16906,52021
+1,,,,,
+2, Upazila,Number of co-operative society,Number of member,Number of member, Both sex
+3, Upazila,Number of co-operative society,Male,Female, Both sex
+4,Baghaichhari,145,4896,1361,6257
+5,Barkal,74,2756,261,3017
+6,Belai Chhari,63,1106,397,1503
+7,Jurai Chhari,120,1195,784,1979
+8,Kaptai,291,7731,6171,13902
+9,Kawkhali,258,6079,3125,9204
+10,Langadu,109,1984,592,2576
+11,Naniarchar,66,930,347,1277
+12,Rangamati Sadar,253,7076,3361,10437
+13,Rajasthali,62,1362,507,1869
+14,Total,1441,35115,16906,52021

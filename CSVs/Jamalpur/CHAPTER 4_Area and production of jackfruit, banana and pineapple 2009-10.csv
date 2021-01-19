@@ -1,13 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of jackfruit, banana and pineapple 2009-10",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Jackfruit,Jackfruit,Banana,Banana,Pineapple,Pineapple
-3,Upazila,Area,Production,Area,Production,Area,Production
-4,Bakshiganj,13439,1015,306,1639,3,7
-5,Dewanganj,0,10350,600,6100,0,0
-6,Islampur,300,145,9,315,0,0
-7,Jamalpur Sadar,407,6097,381,2494,136,390
-8,Madarganj,220,750,165,600,0,0
-9,Melandaha,108,743,329,1884,0,0
-10,Sarishabari,325,3400,166,878,0,0
-11,Total,14799,22500,1956,13910,139,7
+2,Upazila,Jackfruit Area,Jackfruit Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
+3,Bakshiganj,13439,1015,306,1639,3,7
+4,Dewanganj,0,10350,600,6100,0,0
+5,Islampur,300,145,9,315,0,0
+6,Jamalpur Sadar,407,6097,381,2494,136,390
+7,Madarganj,220,750,165,600,0,0
+8,Melandaha,108,743,329,1884,0,0
+9,Sarishabari,325,3400,166,878,0,0
+10,Total,14799,22500,1956,13910,139,7

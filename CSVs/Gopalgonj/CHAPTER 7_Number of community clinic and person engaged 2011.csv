@@ -1,11 +1,10 @@
 ,0,1,2,3,4,5,6
 0,Number of community clinic and person engaged 2011,,,,,,
-1,"
-Upazila",Number of clinic,"Number of health
-assistant",Number of FPI,Number of FWV,Number of FWA,Number of other staff
-2,Gopalganj Sadar,31,66,10,21,66,13
-3,Kashiani,6,47,10,16,62,2
-4,Kotalipara,29,46,2,10,54,7
-5,Muksudpur,37,57,10,14,37,25
-6,Tungipara,13,12,1,2,21,9
-7,Total,116,228,33,63,240,56
+1,,,,,,,
+2, Upazila,Number of clinic,Number of health assistant,Number of FPI,Number of FWV,Number of FWA,Number of other staff
+3,Gopalganj Sadar,31,66,10,21,66,13
+4,Kashiani,6,47,10,16,62,2
+5,Kotalipara,29,46,2,10,54,7
+6,Muksudpur,37,57,10,14,37,25
+7,Tungipara,13,12,1,2,21,9
+8,Total,116,228,33,63,240,56

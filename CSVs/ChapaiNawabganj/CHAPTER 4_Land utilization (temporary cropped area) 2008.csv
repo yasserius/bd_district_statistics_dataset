@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,Upazila,Current fallow,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Productivity of crop
-2,Upazila,Current fallow,Single,Double,Triple,Net,Gross,Productivity of crop
-3,Bholahat,8,4434,8851,1183,14468,25685,178
-4,Chapai Nawabganj Sadar,342,18782,36845,4375,60002,105597,176
-5,Gomastapur,30,35904,20818,3074,59796,86762,145
-6,Nachole,17,19698,8770,8620,37088,63098,170
-7,Shibganj,186,37618,23358,15532,76508,130930,171
-8,Total,583,116436,98642,32784,247862,412072,166
+1,,,,,,,,
+2,Upazila,Current fallow,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Productivity of crop
+3,Upazila,Current fallow,Single,Double,Triple,Net,Gross,Productivity of crop
+4,Bholahat,8,4434,8851,1183,14468,25685,178
+5,Chapai Nawabganj Sadar,342,18782,36845,4375,60002,105597,176
+6,Gomastapur,30,35904,20818,3074,59796,86762,145
+7,Nachole,17,19698,8770,8620,37088,63098,170
+8,Shibganj,186,37618,23358,15532,76508,130930,171
+9,Total,583,116436,98642,32784,247862,412072,166

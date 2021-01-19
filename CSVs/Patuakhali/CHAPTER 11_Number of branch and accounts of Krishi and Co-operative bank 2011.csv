@@ -1,16 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Krishi and Co-operative bank 2011,,,,,,,,,,
-1,"
-Upazila",Krishi bank,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank
-2,"
-Upazila",Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
-3,"
-Upazila",Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
-4,Bauphal,4,14381,69,419,21,0,0,0,0,0
-5,Dashmina,3,7319,92,74,21,0,0,0,0,0
-6,Dumki,2,350,34,205,9,0,0,0,0,0
-7,Galachipa,5,10900,538,150,59,0,0,0,0,0
-8,Kalapara,3,91,14,49,0,1,109,16,11,0
-9,Mirzaganj,2,3229,46,186,2,0,0,0,0,0
-10,Patuakhali Sadar,3,0,0,187,19,2,0,0,42,7
-11,Total,22,36270,793,1270,131,3,109,16,53,7
+1,,,,,,,,,,,
+2, Upazila,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank
+3, Upazila,Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
+4, Upazila,Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
+5,Bauphal,4,14381,69,419,21,0,0,0,0,0
+6,Dashmina,3,7319,92,74,21,0,0,0,0,0
+7,Dumki,2,350,34,205,9,0,0,0,0,0
+8,Galachipa,5,10900,538,150,59,0,0,0,0,0
+9,Kalapara,3,91,14,49,0,1,109,16,11,0
+10,Mirzaganj,2,3229,46,186,2,0,0,0,0,0
+11,Patuakhali Sadar,3,0,0,187,19,2,0,0,42,7
+12,Total,22,36270,793,1270,131,3,109,16,53,7

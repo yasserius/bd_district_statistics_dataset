@@ -1,25 +1,10 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,,Number of,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-Upazila","branch of all private
-commercial",Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-3,"
-Upazila","branch of all private
-commercial","Agriculture
-debt","Agriculture
-debt",Industry debt.,Industry debt.,Other debt,Other debt,"Number of
-borrower","Number of
-borrower","Total debt
-(crore tk)","Total debt
-(crore tk)"
-4,"
-Upazila","branch of all private
-commercial",Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-5,,banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-6,Baliadangi,0,0,0,0,0,0,0,0,0,0,0
-7,Haripur,0,0,0,0,0,0,0,0,0,0,0
-8,Pirgonj,1,0,0,0,0,113,2,113,2,2.396,0.004
-9,Ranisankail,0,0,0,0,0,0,0,0,0,0,0
-10,Thakurgaon Sadar,2,366,64,0,0,320,0,686,64,109.22,0.84
-11,Total,3,366,64,0,0,433,2,799,66,111,0.844
+1,,,,,,,,,,,,
+2,Upazila Upazila Upazila ,Number of branch of all private commercial branch of all private commercial branch of all private commercial banks,Number of borrower Number of borrower Agriculture debt Male Male,Number of borrower Number of borrower Agriculture debt Female Female,Number of borrower Number of borrower Industry debt. Male Male,Number of borrower Number of borrower Industry debt. Female Female,Number of borrower Number of borrower Other debt Male Male,Number of borrower Number of borrower Other debt Female Female,Number of borrower Number of borrower Number of borrower Male Male,Number of borrower Number of borrower Number of borrower Female Female,Number of borrower Number of borrower Total debt (crore tk) Male Male,Number of borrower Number of borrower Total debt (crore tk) Female Female
+3,Baliadangi,0,0,0,0,0,0,0,0,0,0,0
+4,Haripur,0,0,0,0,0,0,0,0,0,0,0
+5,Pirgonj,1,0,0,0,0,113,2,113,2,2.396,0.004
+6,Ranisankail,0,0,0,0,0,0,0,0,0,0,0
+7,Thakurgaon Sadar,2,366,64,0,0,320,0,686,64,109.22,0.84
+8,Total,3,366,64,0,0,433,2,799,66,111,0.844

@@ -1,11 +1,9 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization 2008,,,,,
-1,Upazila,Operated area,"Permanent
-cropped area","Temporary
-cropped area","Permanent
-fallow area",Others
-2,Magura Sadar,84885,8458,66449,123,9978
-3,Mohammadpur,45039,3036,35254,198,9978
-4,Shalikha,48196,3722,39612,57,4862
-5,Sreepur,36046,3094,28890,18,4062
-6,Total,214165,18311,170205,397,28880
+1,,,,,,
+2,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
+3,Magura Sadar,84885,8458,66449,123,9978
+4,Mohammadpur,45039,3036,35254,198,9978
+5,Shalikha,48196,3722,39612,57,4862
+6,Sreepur,36046,3094,28890,18,4062
+7,Total,214165,18311,170205,397,28880

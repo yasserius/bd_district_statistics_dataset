@@ -1,14 +1,12 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,"
-Upazila","
-Number of power tiller","
-Tractor",Number of threshing machine
-2,Bauphal,53,15,80
-3,Dashmina,25,18,40
-4,Dumki,48,18,47
-5,Galachipa,78,25,112
-6,Kalapara,73,73,168
-7,Mirzaganj,20,33,47
-8,Patuakhali Sadar,46,48,75
-9,Total,343,230,569
+1,,,,
+2, Upazila, Number of power tiller, Tractor,Number of threshing machine
+3,Bauphal,53,15,80
+4,Dashmina,25,18,40
+5,Dumki,48,18,47
+6,Galachipa,78,25,112
+7,Kalapara,73,73,168
+8,Mirzaganj,20,33,47
+9,Patuakhali Sadar,46,48,75
+10,Total,343,230,569

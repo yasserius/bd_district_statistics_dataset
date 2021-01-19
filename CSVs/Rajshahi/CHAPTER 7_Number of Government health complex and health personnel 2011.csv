@@ -1,19 +1,15 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and health personnel 2011,,,,,
-1,Upazila/city corporation,"Number of
-bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Bagha,50,14,9,3,63
-3,Baghmara,50,15,7,14,139
-4,Charghat,31,23,13,12,99
-5,Durgapur,50,28,14,5,67
-6,Godagari,61,20,10,8,32
-7,Mohanpur,31,11,9,2,77
-8,Paba,31,18,11,25,101
-9,Puthia,31,23,13,7,5
-10,Rajshahi city corporation,540,234,357,59,635
-11,Tanore,50,25,12,6,9
-12,Total,925,411,455,141,1227
+1,,,,,,
+2,Upazila/city corporation,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Bagha,50,14,9,3,63
+4,Baghmara,50,15,7,14,139
+5,Charghat,31,23,13,12,99
+6,Durgapur,50,28,14,5,67
+7,Godagari,61,20,10,8,32
+8,Mohanpur,31,11,9,2,77
+9,Paba,31,18,11,25,101
+10,Puthia,31,23,13,7,5
+11,Rajshahi city corporation,540,234,357,59,635
+12,Tanore,50,25,12,6,9
+13,Total,925,411,455,141,1227

@@ -1,16 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Number of community clinic and person engaged 2011,,,,,,
-1,Upazila,"Number of
-clinic","Number of
-health asst.","Number of
-FPI","Number of
-FWV","Number of
-FWA","Number of
-other staff"
-2,Bhedarganj,19,53,8,9,36,17
-3,Damudya,5,23,4,5,23,7
-4,Gosairhat,21,23,6,8,24,13
-5,Naria,11,44,13,10,44,4
-6,Shariatpur Sadar,12,36,8,11,32,18
-7,Zanjira,15,15,0,0,15,15
-8,Total,83,194,39,43,174,74
+1,,,,,,,
+2,Upazila,Number of clinic,Number of health asst.,Number of FPI,Number of FWV,Number of FWA,Number of other staff
+3,Bhedarganj,19,53,8,9,36,17
+4,Damudya,5,23,4,5,23,7
+5,Gosairhat,21,23,6,8,24,13
+6,Naria,11,44,13,10,44,4
+7,Shariatpur Sadar,12,36,8,11,32,18
+8,Zanjira,15,15,0,0,15,15
+9,Total,83,194,39,43,174,74

@@ -1,13 +1,11 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,"
-Upazila","
-Number of power tiller","
-Tractor",Number of threshing machine
-2,Chhagalnaiya,170,3,180
-3,Daganbhuiyan,250,25,190
-4,Feni Sadar,109,102,110
-5,Fulgazi,195,6,5400
-6,Parshuram,65,8,1362
-7,Sonagazi,228,19,1000
-8,Total,1017,163,8242
+1,,,,
+2, Upazila, Number of power tiller, Tractor,Number of threshing machine
+3,Chhagalnaiya,170,3,180
+4,Daganbhuiyan,250,25,190
+5,Feni Sadar,109,102,110
+6,Fulgazi,195,6,5400
+7,Parshuram,65,8,1362
+8,Sonagazi,228,19,1000
+9,Total,1017,163,8242

@@ -1,16 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of registered primary school (class I-V), teacher and student 2011",,,,,,,,
-1,"
-Upazila","Number of
-registered primary school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students
-per teacher"
-2,"
-Upazila","Number of
-registered primary school",Male,Female,Total,Male,Female,Total,"Students
-per teacher"
-3,Akkelpur,15,32,25,57,1223,1252,2475,43
-4,Joypurhat sadar,22,38,39,77,1779,1560,3339,43
-5,Kalai,12,21,18,39,787,834,1621,42
-6,Khetlal,10,21,16,37,825,888,1713,46
-7,Panchbibi,33,57,94,151,7636,8496,16132,107
-8,Total,92,169,192,361,12250,13030,25280,70
+1,,,,,,,,,
+2, Upazila,Number of registered primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of registered primary school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Akkelpur,15,32,25,57,1223,1252,2475,43
+5,Joypurhat sadar,22,38,39,77,1779,1560,3339,43
+6,Kalai,12,21,18,39,787,834,1621,42
+7,Khetlal,10,21,16,37,825,888,1713,46
+8,Panchbibi,33,57,94,151,7636,8496,16132,107
+9,Total,92,169,192,361,12250,13030,25280,70

@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,Upazila/City corporation,"
-Units",Person engaged,Person engaged,Person engaged
-2,Upazila/City corporation,"
-Units",Family,Hired,Total
+1,,,,,
+2,Upazila/City corporation,Units,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Balaganj,128,76,192,268
 4,Beanibazar,47,94,200,294
 5,Bishwanath,140,180,320,500

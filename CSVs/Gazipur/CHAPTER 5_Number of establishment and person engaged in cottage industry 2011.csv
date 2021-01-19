@@ -1,14 +1,11 @@
 ,0,1,2,3,4
 0,Number of establishment and person engaged in cottage industry 2011,,,,
-1,"
-Upazila","
-Number of unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Number of unit",Family,Hired,Total
-3,Gazipur Sadar,325,558,0,558
-4,Kaliakair,295,605,0,605
-5,Kaliganj,48,117,0,117
-6,Kapashia,296,592,134,726
-7,Sreepur,12,48,0,48
-8,Total,976,1920,134,2054
+1,,,,,
+2, Upazila, Number of unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Number of unit,Family,Hired,Total
+4,Gazipur Sadar,325,558,0,558
+5,Kaliakair,295,605,0,605
+6,Kaliganj,48,117,0,117
+7,Kapashia,296,592,134,726
+8,Sreepur,12,48,0,48
+9,Total,976,1920,134,2054

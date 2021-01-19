@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,Upazila,Unit,Person engaged,Person engaged,Person engaged
-2,Upazila,Unit,Family,Hired,Total
-3,Chakaria,90,90,900,990
-4,Cox's Bazar Sadar,15,30,120,150
-5,Kutubdia,5,10,20,30
-6,Moheshkhali,25,25,75,100
-7,Pekua,10,21,58,79
-8,Ramu,0,0,0,0
-9,Teknaf,6,12,40,52
-10,Ukhia,7,17,35,52
-11,Total,158,205,1248,1453
+1,,,,,
+2,Upazila,Unit,Person engaged,Person engaged,Person engaged
+3,Upazila,Unit,Family,Hired,Total
+4,Chakaria,90,90,900,990
+5,Cox's Bazar Sadar,15,30,120,150
+6,Kutubdia,5,10,20,30
+7,Moheshkhali,25,25,75,100
+8,Pekua,10,21,58,79
+9,Ramu,0,0,0,0
+10,Teknaf,6,12,40,52
+11,Ukhia,7,17,35,52
+12,Total,158,205,1248,1453

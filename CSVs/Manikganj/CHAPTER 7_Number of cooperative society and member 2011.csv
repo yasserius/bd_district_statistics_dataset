@@ -1,18 +1,13 @@
 ,0,1,2,3,4
 0,Number of cooperative society and member 2011,,,,
-1,"
-Upazila","Number of
-co-operative society",Number of member,Number of member,"
-Total"
-2,"
-Upazila","Number of
-co-operative society",Male,Female,"
-Total"
-3,Daulotpur,92,1785,556,2341
-4,Gheor,411,3035,4337,7372
-5,Horirampur,240,9871,1920,11791
-6,Manikganj Sadar,587,4085,9200,13285
-7,Saturia,91,4771,2000,6771
-8,Shibalaya,165,6480,2460,8940
-9,Singair,668,7550,6457,14007
-10,Total,2254,37577,26930,64507
+1,,,,,
+2, Upazila,Number of co-operative society,Number of member,Number of member, Total
+3, Upazila,Number of co-operative society,Male,Female, Total
+4,Daulotpur,92,1785,556,2341
+5,Gheor,411,3035,4337,7372
+6,Horirampur,240,9871,1920,11791
+7,Manikganj Sadar,587,4085,9200,13285
+8,Saturia,91,4771,2000,6771
+9,Shibalaya,165,6480,2460,8940
+10,Singair,668,7550,6457,14007
+11,Total,2254,37577,26930,64507

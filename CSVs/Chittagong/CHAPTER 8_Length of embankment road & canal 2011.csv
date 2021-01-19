@@ -1,11 +1,7 @@
 ,0,1,2,3
 0,Length of embankment road & canal 2011,,,
 1,(Kilometer),,,
-2,"
-Upazila/City corporation","
-Embankment road","
-Canal","
-Others road"
+2, Upazila/City corporation, Embankment road, Canal, Others road
 3,Anowara,1,0,0
 4,Banshkhali,10.75,2391,0
 5,Boalkhali,0,24,0

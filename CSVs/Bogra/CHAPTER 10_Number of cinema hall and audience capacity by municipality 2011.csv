@@ -1,18 +1,17 @@
 ,0,1,2,3,4
 0,Number of cinema hall and audience capacity by municipality 2011,,,,
-1,Upazila,"Number of
-cinema hall",Audience capacity,Show per day,"Attendance
-(daily average)"
-2,Adamdighi,3,2028,4,423
-3,Bogra sadar,2,1050,3,975
-4,Dhunat,3,520,2,257
-5,Gabtali,0,0,0,0
-6,Dhupchanchia,1,150,2,120
-7,Kahaloo,1,100,3,185
-8,Nandigram,0,0,0,0
-9,Sariakandi,1,275,3,150
-10,Sherpur,2,400,3,50
-11,Shibganj,2,475,6,1380
-12,Sonatola,1,700,3,300
-13,Shajahanpur,0,0,0,0
-14,Total,16,5698,29,3840
+1,,,,,
+2,Upazila,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
+3,Adamdighi,3,2028,4,423
+4,Bogra sadar,2,1050,3,975
+5,Dhunat,3,520,2,257
+6,Gabtali,0,0,0,0
+7,Dhupchanchia,1,150,2,120
+8,Kahaloo,1,100,3,185
+9,Nandigram,0,0,0,0
+10,Sariakandi,1,275,3,150
+11,Sherpur,2,400,3,50
+12,Shibganj,2,475,6,1380
+13,Sonatola,1,700,3,300
+14,Shajahanpur,0,0,0,0
+15,Total,16,5698,29,3840

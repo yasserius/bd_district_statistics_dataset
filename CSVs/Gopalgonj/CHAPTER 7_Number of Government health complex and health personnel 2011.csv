@@ -1,14 +1,10 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and health personnel 2011,,,,,
-1,Upazila,"Number of
-bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Gopalganj Sadar,260,46,67,5,54
-3,Kashiani,32,14,9,6,70
-4,Kotalipara,50,12,9,7,85
-5,Muksudpur,32,14,11,5,11
-6,Tungipara,50,5,10,5,42
-7,Total,424,91,106,28,262
+1,,,,,,
+2,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Gopalganj Sadar,260,46,67,5,54
+4,Kashiani,32,14,9,6,70
+5,Kotalipara,50,12,9,7,85
+6,Muksudpur,32,14,11,5,11
+7,Tungipara,50,5,10,5,42
+8,Total,424,91,106,28,262

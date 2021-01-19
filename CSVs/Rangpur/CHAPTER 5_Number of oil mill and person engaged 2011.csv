@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of oil mill and person engaged 2011,,,,
-1,Upazila,Units,Person engaged,Person engaged,Person engaged
-2,Upazila,Units,Family,Hired,Total
-3,Badarganj,2,2,4,6
-4,Gangachara,0,0,0,0
-5,Kaunia,0,0,0,0
-6,Mithapukur,0,0,0,0
-7,Pirgachha,1,2,4,6
-8,Pirganj,2,4,6,10
-9,Rangpur sadar,26,30,52,82
-10,Taraganj,0,0,0,0
-11,Total,31,38,66,104
+1,,,,,
+2,Upazila,Units,Person engaged,Person engaged,Person engaged
+3,Upazila,Units,Family,Hired,Total
+4,Badarganj,2,2,4,6
+5,Gangachara,0,0,0,0
+6,Kaunia,0,0,0,0
+7,Mithapukur,0,0,0,0
+8,Pirgachha,1,2,4,6
+9,Pirganj,2,4,6,10
+10,Rangpur sadar,26,30,52,82
+11,Taraganj,0,0,0,0
+12,Total,31,38,66,104

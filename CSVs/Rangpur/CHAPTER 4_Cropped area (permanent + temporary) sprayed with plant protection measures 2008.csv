@@ -1,11 +1,8 @@
 ,0,1,2,3,4,5
 0,Cropped area (permanent + temporary) sprayed with plant protection measures 2008,,,,,
 1,(area in acre),,,,,
-2,"
-Upazila",Total farm holding,Total farm holding,Spraying farm holding,Spraying farm holding,Reporting area sprayed
-3,"
-Upazila",Number,Cropped area,Number,"Cropped
-area",Reporting area sprayed
+2, Upazila,Total farm holding,Total farm holding,Spraying farm holding,Spraying farm holding,Reporting area sprayed
+3, Upazila,Number,Cropped area,Number,Cropped area,Reporting area sprayed
 4,Badarganj,37477,60870,37477,55500,55500
 5,Gangachara,38598,41492,27015,61092,45819
 6,Kaunia,21580,23752,21580,25570,19300

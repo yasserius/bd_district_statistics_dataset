@@ -1,16 +1,15 @@
 ,0,1,2,3,4,5
 0,Average rate of vehicle per kilo meter 2011,,,,,
-1,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
-2,"
-Upazila",Vehicle,Vehicle,Vehicle,Vehicle,Vehicle
-3,"
-Upazila",Rickshaw,Rickshaw van,Easy bike,Auto rickshaw,Tempo
-4,Abhaynagar,10,5,5,0,5
-5,Bagherpara,0,2,2,0,2
-6,Chaugachha,0,5,5,0,5
-7,Jessore Sadar,10,5,5,5,5
-8,Jhikargachha,0,3,3,3,2
-9,Keshabpur,0,3,5,0,5
-10,Manirampur,0,5,5,6,6
-11,Sharsha,0,2,2,5,5
-12,Average,10,4,4,5,4
+1,,,,,,
+2,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
+3, Upazila,Vehicle,Vehicle,Vehicle,Vehicle,Vehicle
+4, Upazila,Rickshaw,Rickshaw van,Easy bike,Auto rickshaw,Tempo
+5,Abhaynagar,10,5,5,0,5
+6,Bagherpara,0,2,2,0,2
+7,Chaugachha,0,5,5,0,5
+8,Jessore Sadar,10,5,5,5,5
+9,Jhikargachha,0,3,3,3,2
+10,Keshabpur,0,3,5,0,5
+11,Manirampur,0,5,5,6,6
+12,Sharsha,0,2,2,5,5
+13,Average,10,4,4,5,4

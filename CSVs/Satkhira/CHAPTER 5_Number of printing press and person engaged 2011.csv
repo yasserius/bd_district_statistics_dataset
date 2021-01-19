@@ -1,14 +1,11 @@
 ,0,1,2,3,4
 0,Number of printing press and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Assasuni,0,0,0,0
-4,Debhata,0,0,0,0
-5,Kalaroa,0,0,0,0
-6,Kaliganj,0,0,0,0
-7,Satkhira Sadar,23,5,130,135
-8,Total,27,10,137,147
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Assasuni,0,0,0,0
+5,Debhata,0,0,0,0
+6,Kalaroa,0,0,0,0
+7,Kaliganj,0,0,0,0
+8,Satkhira Sadar,23,5,130,135
+9,Total,27,10,137,147

@@ -1,14 +1,13 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in Metric Ton),(Production in Metric Ton),(Production in Metric Ton),(Production in Metric Ton),(Production in Metric Ton)
-2,"
-Upazila",2010-11,2010-11,2009-10,2009-10
-3,"
-Upazila",Number,Production,Number,Production
-4,,4246,1925,4222,1909
-5,Jhenaidah Sadar,5774,6200,5810,6150
-6,Kaliganj,525,5613,734,5315
-7,Kotchandpur,919,2548,919,2273
-8,Mahespur,3087,5445,3082,5322
-9,Shailkupa,450,3443,450,3442
-10,Total,15001,25174,15217,24411
+1,,,,,
+2,(Production in Metric Ton),(Production in Metric Ton),(Production in Metric Ton),(Production in Metric Ton),(Production in Metric Ton)
+3, Upazila,2010-11,2010-11,2009-10,2009-10
+4, Upazila,Number,Production,Number,Production
+5,,4246,1925,4222,1909
+6,Jhenaidah Sadar,5774,6200,5810,6150
+7,Kaliganj,525,5613,734,5315
+8,Kotchandpur,919,2548,919,2273
+9,Mahespur,3087,5445,3082,5322
+10,Shailkupa,450,3443,450,3442
+11,Total,15001,25174,15217,24411

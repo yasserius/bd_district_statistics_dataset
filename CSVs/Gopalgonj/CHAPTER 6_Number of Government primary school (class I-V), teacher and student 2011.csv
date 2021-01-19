@@ -1,14 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Government primary school (class I-V), teacher and student 2011",,,,,,,,
-1,"
-Upazila","Number of Government
-primary school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila","Number of Government
-primary school",Male,Female,Total,Male,Female,Total,Students per teacher
-3,Gopalganj Sadar,133,298,376,674,15527,15452,30979,46
-4,Kashiani,111,224,331,555,9320,11392,20712,37
-5,Kotalipara,104,204,317,521,9973,14221,24194,46
-6,Muksudpur,128,230,345,575,12534,14956,27490,48
-7,Tungipara,42,83,123,206,4561,4926,9487,46
-8,Total,518,1039,1492,2531,51915,60947,112862,45
+1,,,,,,,,,
+2, Upazila,Number of Government primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of Government primary school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Gopalganj Sadar,133,298,376,674,15527,15452,30979,46
+5,Kashiani,111,224,331,555,9320,11392,20712,37
+6,Kotalipara,104,204,317,521,9973,14221,24194,46
+7,Muksudpur,128,230,345,575,12534,14956,27490,48
+8,Tungipara,42,83,123,206,4561,4926,9487,46
+9,Total,518,1039,1492,2531,51915,60947,112862,45

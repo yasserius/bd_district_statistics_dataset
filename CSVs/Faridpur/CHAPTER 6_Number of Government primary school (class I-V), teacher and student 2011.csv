@@ -1,18 +1,15 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Government primary school (class I-V), teacher and student 2011",,,,,,,,
-1,"
-Upazila","Number of Government primary
-school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila","Number of Government primary
-school",Male,Female,Total,Male,Female,Total,Students per teacher
-3,Alfadanga,40,81,129,210,5859,5885,11744,56
-4,Bhanga,78,209,192,401,13705,13862,27567,69
-5,Boalmari,67,141,230,371,9620,10017,19640,53
-6,Charbhadrashon,32,82,30,112,3252,3965,7217,64
-7,Faridpur Sadar,100,140,509,649,17900,18447,36347,56
-8,Madhukhali,62,110,247,357,9158,9758,18916,53
-9,Nagarkanda,53,153,178,331,11179,10590,21769,66
-10,Sadarpur,71,142,220,362,10837,10132,20969,58
-11,Saltha,40,66,129,195,8357,9787,18144,93
-12,Total,543,1124,1864,2988,89867,92443,182313,61
+1,,,,,,,,,
+2, Upazila,Number of Government primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of Government primary school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Alfadanga,40,81,129,210,5859,5885,11744,56
+5,Bhanga,78,209,192,401,13705,13862,27567,69
+6,Boalmari,67,141,230,371,9620,10017,19640,53
+7,Charbhadrashon,32,82,30,112,3252,3965,7217,64
+8,Faridpur Sadar,100,140,509,649,17900,18447,36347,56
+9,Madhukhali,62,110,247,357,9158,9758,18916,53
+10,Nagarkanda,53,153,178,331,11179,10590,21769,66
+11,Sadarpur,71,142,220,362,10837,10132,20969,58
+12,Saltha,40,66,129,195,8357,9787,18144,93
+13,Total,543,1124,1864,2988,89867,92443,182313,61

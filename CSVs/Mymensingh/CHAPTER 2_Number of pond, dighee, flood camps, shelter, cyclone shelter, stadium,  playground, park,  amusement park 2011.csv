@@ -1,21 +1,17 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of pond, dighee, flood camps, shelter, cyclone shelter, stadium,  playground, park,  amusement park 2011",,,,,,,
-1,"
-Upazila","
-Pond","
-Dighee","
-River flow",Flood camp/ shelter,Cyclone shelter,Stadium/ playground,"Park/
-amusement park"
-2,Bhaluka,6836,8,7,4,0,11,2
-3,Dhobaura,6794,0,7,2,0,5,0
-4,Fulbaria,12599,0,4,0,0,10,1
-5,Gaffargaon,11856,0,3,2,0,20,1
-6,Gauripur,7325,0,5,0,0,10,1
-7,Haluaghat,6100,0,4,0,0,26,0
-8,Ishwargonj,7431,0,1,0,0,15,0
-9,Muktagacha,15405,2,3,0,0,16,0
-10,Mymensingh Sadar,12092,4,2,5,0,32,3
-11,Nandail,11952,0,1,1,0,37,0
-12,Phulpur,23740,0,3,3,0,20,0
-13,Trishal,19520,0,5,2,0,12,0
-14,Total,141650,14,45,19,0,214,7
+1,,,,,,,,
+2, Upazila, Pond, Dighee, River flow,Flood camp/ shelter,Cyclone shelter,Stadium/ playground,Park/ amusement park
+3,Bhaluka,6836,8,7,4,0,11,2
+4,Dhobaura,6794,0,7,2,0,5,0
+5,Fulbaria,12599,0,4,0,0,10,1
+6,Gaffargaon,11856,0,3,2,0,20,1
+7,Gauripur,7325,0,5,0,0,10,1
+8,Haluaghat,6100,0,4,0,0,26,0
+9,Ishwargonj,7431,0,1,0,0,15,0
+10,Muktagacha,15405,2,3,0,0,16,0
+11,Mymensingh Sadar,12092,4,2,5,0,32,3
+12,Nandail,11952,0,1,1,0,37,0
+13,Phulpur,23740,0,3,3,0,20,0
+14,Trishal,19520,0,5,2,0,12,0
+15,Total,141650,14,45,19,0,214,7

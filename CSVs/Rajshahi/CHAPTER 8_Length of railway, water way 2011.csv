@@ -1,11 +1,7 @@
 ,0,1,2,3
 0,"Length of railway, water way 2011",,,
 1,(Kilometer),,,
-2,"
-Upazila/city corporation","Total railway (All-B.G., M.G. &
-Duel gage)","Water way in
-monsoon (River + Canal)","Water way in
-round the year (River + Canal)"
+2,Upazila/city corporation,"Total railway (All-B.G., M.G. & Duel gage)",Water way in monsoon (River + Canal),Water way in round the year (River + Canal)
 3,Bagha,5,15,0
 4,Baghmara,8,32,0
 5,Charghat,15,30,15

@@ -1,14 +1,14 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,Upazila,"Number of
-insurance company",Number of employee,Number of client
-2,Bagerhat Sadar,10,32,2242
-3,Kachua,5,9,632
-4,Rampal,3,9,4150
-5,Sarankhola,3,3,3000
-6,Chitalmari,8,590,12000
-7,Morrelgonj,14,285,12950
-8,Mongla,8,96,80000
-9,Mollahat,2,4,779
-10,Fakirhat,1,4,457
-11,Total,54,1032,116210
+1,,,,
+2,Upazila,Number of insurance company,Number of employee,Number of client
+3,Bagerhat Sadar,10,32,2242
+4,Kachua,5,9,632
+5,Rampal,3,9,4150
+6,Sarankhola,3,3,3000
+7,Chitalmari,8,590,12000
+8,Morrelgonj,14,285,12950
+9,Mongla,8,96,80000
+10,Mollahat,2,4,779
+11,Fakirhat,1,4,457
+12,Total,54,1032,116210

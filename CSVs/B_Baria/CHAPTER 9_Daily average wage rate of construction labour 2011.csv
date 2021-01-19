@@ -1,18 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Daily average wage rate of construction labour 2011,,,,,,
 1,(Rate in taka),,,,,,
-2,"
-Upazila",Labour,Labour,Labour,Labour,Labour,Labour
-3,"
-Upazila",Mason,"Helper
-(Jogaly)",Carpenter,Colour,Electric,Plumber
-4,Akhaura,400,300,400,300,400,500
-5,Ashuganj,350,220,375,400,400,400
-6,Banchharampur,400,200,350,350,450,500
-7,Bijoynagar,350,250,375,400,450,500
-8,Brahmanbaria Sadar,350,250,375,400,450,400
-9,Kasba,350,250,350,350,400,400
-10,Nabinagar,350,250,400,400,400,400
-11,Nasirnagar,500,300,400,400,500,500
-12,Sarail,500,250,500,500,350,500
-13,Average,394,252,392,389,422,456
+2,Upazila,Labour Mason,Labour Helper (Jogaly),Labour Carpenter,Labour Colour,Labour Electric,Labour Plumber
+3,Akhaura,400,300,400,300,400,500
+4,Ashuganj,350,220,375,400,400,400
+5,Banchharampur,400,200,350,350,450,500
+6,Bijoynagar,350,250,375,400,450,500
+7,Brahmanbaria Sadar,350,250,375,400,450,400
+8,Kasba,350,250,350,350,400,400
+9,Nabinagar,350,250,400,400,400,400
+10,Nasirnagar,500,300,400,400,500,500
+11,Sarail,500,250,500,500,350,500
+12,Average,394,252,392,389,422,456

@@ -1,16 +1,12 @@
 ,0,1,2,3,4,5,6,7,8,9
 0,"Area and production of jack.fruit, banana and pineapple 2009-10",,,,,,,,,
 1,(Area in acre and oroduction in metric ton),,,,,,,,,
-2,"
-Upazila",Jackfruit,Jackfruit,Jackfruit,Banana,Banana,Banana,Pineapple,Pineapple,Pineapple
-3,"
-Upazila",Area,I,Production,Area,I,Production,Area,I,Production
-4,Gazaria,15,72,,63,625,0,0,,
-5,Lauhajang,0,0,,27,30,0,0,,
-6,Munshiganj Sadar,3,28,,10,9,0,0,,
-7,Serajdikhan,22,107,,32,112,0,0,,
-8,Sreenagar,21,129,,31,217,0,0,,
-9,Tongibari,6,10,,18,71,0,0,,
-10,Total,67,347,,181,1064,0,0,,
-11,,,,"
-42",,,,,,
+2,Upazila,Jackfruit Area,Jackfruit I,Jackfruit Production,Banana Area,Banana I,Banana Production,Pineapple Area,Pineapple I,Pineapple Production
+3,Gazaria,15,72,,63,625,0,0,,
+4,Lauhajang,0,0,,27,30,0,0,,
+5,Munshiganj Sadar,3,28,,10,9,0,0,,
+6,Serajdikhan,22,107,,32,112,0,0,,
+7,Sreenagar,21,129,,31,217,0,0,,
+8,Tongibari,6,10,,18,71,0,0,,
+9,Total,67,347,,181,1064,0,0,,
+10,,,, 42,,,,,,

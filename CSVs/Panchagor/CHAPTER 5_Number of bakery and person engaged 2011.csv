@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
+1,,,,,
+2,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Atwari,5,7,20,27
 4,Boda,4,12,26,38
 5,Debiganj,4,7,26,33

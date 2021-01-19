@@ -1,15 +1,12 @@
 ,0,1,2,3
 0,Number of deep tube-well scheme 2010-11,,,
-1,"
-Upazila",Number of deep tube-well,Number of deep tube-well,"
-Area irrigated (In acre)"
-2,"
-Upazila",Commissioned,Operated,"
-Area irrigated (In acre)"
-3,Dhaka Metropolitan,0,0,0
-4,Dhamrai,132,132,2200
-5,Dohar,0,1,25
-6,Keraniganj,0,4,1200
-7,Nawabganj,5,5,148
-8,Savar,0,124,7553
-9,Total,137,266,11126
+1,,,,
+2, Upazila,Number of deep tube-well,Number of deep tube-well, Area irrigated (In acre)
+3, Upazila,Commissioned,Operated, Area irrigated (In acre)
+4,Dhaka Metropolitan,0,0,0
+5,Dhamrai,132,132,2200
+6,Dohar,0,1,25
+7,Keraniganj,0,4,1200
+8,Nawabganj,5,5,148
+9,Savar,0,124,7553
+10,Total,137,266,11126

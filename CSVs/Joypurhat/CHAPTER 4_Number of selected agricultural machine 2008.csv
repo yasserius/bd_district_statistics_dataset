@@ -1,12 +1,10 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,"
-Upazila","
-Number of power tiller","
-Tractor",Number of threshing machine
-2,Akkelpur,872,11,23
-3,Joypurhat sadar,650,10,815
-4,Kalai,715,14,112
-5,Khetlal,625,5,153
-6,Panchbibi,370,10,74
-7,Total,3232,50,1177
+1,,,,
+2, Upazila, Number of power tiller, Tractor,Number of threshing machine
+3,Akkelpur,872,11,23
+4,Joypurhat sadar,650,10,815
+5,Kalai,715,14,112
+6,Khetlal,625,5,153
+7,Panchbibi,370,10,74
+8,Total,3232,50,1177

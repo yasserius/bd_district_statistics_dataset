@@ -1,10 +1,7 @@
 ,0,1,2,3,4,5,6,7
 0,Number of jute mill and number of worker 2011,,,,,,,
-1,"
-Upazila",Number of mill,Number of loom (installed),Number of loom,Number of loom,Number of worker,Number of worker,Number of worker
-2,"
-Upazila",Number of mill,Number of loom (installed),Operative,"Non-
-operational",Permanent,Temporary,Total
+1,,,,,,,,
+2,Upazila,Number of mill,Number of loom (installed),Number of loom Operative,Number of loom Non- operational,Number of worker Permanent,Number of worker Temporary,Number of worker Total
 3,Atwari,0,0,0,0,0,0,0
 4,Boda,12,295,195,100,121,2000,2121
 5,Debiganj,0,0,0,0,0,0,0

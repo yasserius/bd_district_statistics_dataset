@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6
 0,"Number of bridge, baily bridge, culvert, pool, shako, etc. 2011",,,,,,
-1,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
-2,Kalkini,130,3,255,20,6985,0
-3,Madaripur Sadar,0,0,0,0,0,0
-4,Rajoir,87,2,69,0,15,0
-5,Shibchar,125,2,200,0,38,0
-6,Total,342,7,524,20,7038,0
+1,,,,,,,
+2,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
+3,Kalkini,130,3,255,20,6985,0
+4,Madaripur Sadar,0,0,0,0,0,0
+5,Rajoir,87,2,69,0,15,0
+6,Shibchar,125,2,200,0,38,0
+7,Total,342,7,524,20,7038,0

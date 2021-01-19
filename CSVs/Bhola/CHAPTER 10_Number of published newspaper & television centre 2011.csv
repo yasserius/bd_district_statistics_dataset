@@ -1,14 +1,12 @@
 ,0,1,2,3,4
 0,Number of published newspaper & television centre 2011,,,,
-1,Municipality,"Daily
-newspaper","Weekly
-newspaper",Magazine,"Television
-centre"
-2,Bhola Sadar,5,0,0,0
-3,Burhanuddin,0,0,0,0
-4,Char Fasson,0,0,0,0
-5,Daulatkhan,0,0,0,0
-6,Lalmohan,0,0,3,0
-7,Manpura,0,0,0,0
-8,Tazumuddin,0,0,0,0
-9,Total,5,0,3,0
+1,,,,,
+2,Municipality,Daily newspaper,Weekly newspaper,Magazine,Television centre
+3,Bhola Sadar,5,0,0,0
+4,Burhanuddin,0,0,0,0
+5,Char Fasson,0,0,0,0
+6,Daulatkhan,0,0,0,0
+7,Lalmohan,0,0,3,0
+8,Manpura,0,0,0,0
+9,Tazumuddin,0,0,0,0
+10,Total,5,0,3,0

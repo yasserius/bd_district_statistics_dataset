@@ -1,19 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of papaya, guava, lime and lemon 2009-10",,,,,,
 1,(Area in acre & production in metric ton),,,,,,
-2,"
-Upazila/city corporation",Papaya,Papaya,Guava,Guava,Lime and lemon,Lime and lemon
-3,"
-Upazila/city corporation",Area,Production,Area,Production,Area,Production
-4,Agailjhara,20,25,44,35,2.47,4
-5,Babuganj,3.7,12,7.1,6.336,3.26,32.939
-6,Bakerganj,6,54,4,139,3,10
-7,Banaripara,18.39,230.09,188.3,2365.03,76.2,490
-8,Barisal city corporation,2,3,4,14,2,12
-9,Barisal sadar,26,90,18,202,20,226
-10,Gaurnadi,28,94,16,18,6,23
-11,Hizla,0,148,0,337,0,72
-12,Mehendiganj,5,286,3,17.4,5,40.5
-13,Muladi,28,46,296,720,62,56
-14,Wazirpur,11.65,214,17.6,44,34.07,31.69
-15,Total,148.74,1202.09,598,3897.766,214,998.129
+2,Upazila/city corporation,Papaya Area,Papaya Production,Guava Area,Guava Production,Lime and lemon Area,Lime and lemon Production
+3,Agailjhara,20,25,44,35,2.47,4
+4,Babuganj,3.7,12,7.1,6.336,3.26,32.939
+5,Bakerganj,6,54,4,139,3,10
+6,Banaripara,18.39,230.09,188.3,2365.03,76.2,490
+7,Barisal city corporation,2,3,4,14,2,12
+8,Barisal sadar,26,90,18,202,20,226
+9,Gaurnadi,28,94,16,18,6,23
+10,Hizla,0,148,0,337,0,72
+11,Mehendiganj,5,286,3,17.4,5,40.5
+12,Muladi,28,46,296,720,62,56
+13,Wazirpur,11.65,214,17.6,44,34.07,31.69
+14,Total,148.74,1202.09,598,3897.766,214,998.129

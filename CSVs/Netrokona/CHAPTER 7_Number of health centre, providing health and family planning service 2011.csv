@@ -1,21 +1,15 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of health centre, providing health and family planning service 2011",,,,,,,
-1,"
-Upazila","Number of union health
-centre","
-Health service","
-Sterilization","
-M.R.","
-Injection/ copper-T","
-Oral pill/ condom",Number of immunization centre
-2,Atpara,3,12541,377,0,2685,12978,36
-3,Barhatta,5,26164,389,144,5744,15954,60
-4,Durgapur,7,74120,251,7,7412,85741,84
-5,Kalmakanda,7,73961,852,112,5412,75421,84
-6,Kendua,13,13524,573,0,2302,49854,156
-7,Khaliajuri,6,16521,472,0,1254,87452,72
-8,Madan,6,16852,102,0,2330,12300,72
-9,Mohanganj,5,15741,538,99,9601,13242,60
-10,Netrokona Sadar,9,19874,835,540,3597,26153,108
-11,Purbadhala,8,85214,245,33,37521,85395,96
-12,Total,69,354512,4634,935,77858,464490,828
+1,,,,,,,,
+2, Upazila,Number of union health centre, Health service, Sterilization, M.R., Injection/ copper-T, Oral pill/ condom,Number of immunization centre
+3,Atpara,3,12541,377,0,2685,12978,36
+4,Barhatta,5,26164,389,144,5744,15954,60
+5,Durgapur,7,74120,251,7,7412,85741,84
+6,Kalmakanda,7,73961,852,112,5412,75421,84
+7,Kendua,13,13524,573,0,2302,49854,156
+8,Khaliajuri,6,16521,472,0,1254,87452,72
+9,Madan,6,16852,102,0,2330,12300,72
+10,Mohanganj,5,15741,538,99,9601,13242,60
+11,Netrokona Sadar,9,19874,835,540,3597,26153,108
+12,Purbadhala,8,85214,245,33,37521,85395,96
+13,Total,69,354512,4634,935,77858,464490,828

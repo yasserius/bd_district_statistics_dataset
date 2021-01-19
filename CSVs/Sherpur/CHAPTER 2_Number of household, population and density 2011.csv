@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,Upazila,Household,Population (000),Population (000),Population (000),Sex ratio (M/F),Average size of household,Density per sq. km.
-2,Upazila,Household,Male,Female,Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
-3,Jhenaigati,41117,79548,80904,160452,98,3.9,663
-4,Nakla,47349,92895,96790,189685,96,4.0,1091
-5,Nalitabari,64805,124649,126712,251361,98,3.87,767
-6,Sherpur Sadar,122280,250376,246803,497179,101,4.05,1333
-7,Sreebardi,65892,128920,130728,259648,99,3.94,1046
-8,Total,341443,676388,681937,1358325,99,3.97,1028
+1,,,,,,,,
+2,Upazila,Household,Population (000),Population (000),Population (000),Sex ratio (M/F),Average size of household,Density per sq. km.
+3,Upazila,Household,Male,Female,Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
+4,Jhenaigati,41117,79548,80904,160452,98,3.9,663
+5,Nakla,47349,92895,96790,189685,96,4.0,1091
+6,Nalitabari,64805,124649,126712,251361,98,3.87,767
+7,Sherpur Sadar,122280,250376,246803,497179,101,4.05,1333
+8,Sreebardi,65892,128920,130728,259648,99,3.94,1046
+9,Total,341443,676388,681937,1358325,99,3.97,1028

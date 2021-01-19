@@ -1,14 +1,8 @@
 ,0,1,2,3,4,5,6,7
 0,Irrigation by means 2010-2011,,,,,,,
 1,(In acre),,,,,,,
-2,"
-Upazila",Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,"
-Total"
-3,"
-Upazila","Power
-pump",Tube well,Doon,"Swing
-basket",Canal,Others,"
-Total"
+2, Upazila,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management, Total
+3, Upazila,Power pump,Tube well,Doon,Swing basket,Canal,Others, Total
 4,Begumganj,5010,413,0,0,0,0,40000
 5,Chatkhil,2357,0,0,0,0,0,16100
 6,Companiganj,1056,115,210,85,0,100,7067

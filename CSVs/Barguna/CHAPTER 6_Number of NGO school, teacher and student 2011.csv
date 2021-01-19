@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of NGO school, teacher and student 2011",,,,,,,,
-1,Upazila,Number of NGO school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,Upazila,Number of NGO school,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Amtali,22,0,22,22,600,500,1100,50
-4,Bamna,1,1,2,3,39,43,82,27
-5,Barguna Sadar,4,0,4,4,60,120,180,45
-6,Betagi,0,0,0,0,0,0,0,0
-7,Patharghata,21,29,33,62,206,351,557,9
-8,Total,48,30,61,91,905,1014,1919,21
+1,,,,,,,,,
+2,Upazila,Number of NGO school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3,Upazila,Number of NGO school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Amtali,22,0,22,22,600,500,1100,50
+5,Bamna,1,1,2,3,39,43,82,27
+6,Barguna Sadar,4,0,4,4,60,120,180,45
+7,Betagi,0,0,0,0,0,0,0,0
+8,Patharghata,21,29,33,62,206,351,557,9
+9,Total,48,30,61,91,905,1014,1919,21

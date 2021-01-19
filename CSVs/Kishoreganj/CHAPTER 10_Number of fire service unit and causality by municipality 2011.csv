@@ -1,19 +1,18 @@
 ,0,1,2,3,4,5
 0,Number of fire service unit and causality by municipality 2011,,,,,
-1,"
-Municipality",Fire service unite,Persons employed,"
-Fire case",Persons dead,Persons injured
-2,Austagram,0,0,0,0,0
-3,Bajitpur,1,21,44,0,2
-4,Bhairab,3,92,62,6,12
-5,Hossainpur,0,0,1,0,4
-6,Itna,0,0,0,0,0
-7,Karimganj,0,0,0,0,0
-8,Katiadi,0,0,0,0,0
-9,Kishoreganj Sadar,1,32,76,1,1
-10,Kuliar-char,1,5,1,0,4
-11,Mithamain,0,0,0,0,0
-12,Nikli,0,0,0,0,0
-13,Pakundia,0,0,0,0,0
-14,Tarail,0,0,0,0,0
-15,Total,6,150,184,7,23
+1,,,,,,
+2,Municipality,Fire service unite,Persons employed,Fire case,Persons dead,Persons injured
+3,Austagram,0,0,0,0,0
+4,Bajitpur,1,21,44,0,2
+5,Bhairab,3,92,62,6,12
+6,Hossainpur,0,0,1,0,4
+7,Itna,0,0,0,0,0
+8,Karimganj,0,0,0,0,0
+9,Katiadi,0,0,0,0,0
+10,Kishoreganj Sadar,1,32,76,1,1
+11,Kuliar-char,1,5,1,0,4
+12,Mithamain,0,0,0,0,0
+13,Nikli,0,0,0,0,0
+14,Pakundia,0,0,0,0,0
+15,Tarail,0,0,0,0,0
+16,Total,6,150,184,7,23

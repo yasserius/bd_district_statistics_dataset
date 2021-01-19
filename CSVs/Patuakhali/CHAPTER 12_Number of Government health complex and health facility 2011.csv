@@ -1,41 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Government health complex and health facility 2011,,,,,,,,,,
-1,"
-
-Upazila",Number of hospital/ clinic/ nursing home,"
-Number of bed","
-Number of  doctor","
-Number of nurse","
-Number of technician","
-Number of
-other staff","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility"
-2,"
-
-Upazila",Number of hospital/ clinic/ nursing home,"
-Number of bed","
-Number of  doctor","
-Number of nurse","
-Number of technician","
-Number of
-other staff",Indoor,Indoor,Outdoor,Outdoor
-3,"
-
-Upazila",Number of hospital/ clinic/ nursing home,"
-Number of bed","
-Number of  doctor","
-Number of nurse","
-Number of technician","
-Number of
-other staff",Male,Female,Male,Female
-4,Bauphal,1,50,12,9,7,148,1629,1301,27735,25991
-5,Dashmina,1,31,3,7,7,59,1735,1838,20209,30305
-6,Dumki,1,31,3,0,4,24,449,561,1012,1231
-7,Galachipa,1,50,7,24,1,5,900,600,7000,5000
-8,Kalapara,2,70,13,18,6,16,925,1170,1256,1742
-9,Mirzaganj,2,70,4,9,15,74,150,1407,11786,11902
-10,Patuakhali Sadar,1,250,18,80,8,59,4500,4302,35000,36050
-11,Total,9,552,60,147,48,385,10288,11179,103998,112221
+1,,,,,,,,,,,
+2,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of technician, Number of other staff,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility
+3,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of technician, Number of other staff,Indoor,Indoor,Outdoor,Outdoor
+4,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of technician, Number of other staff,Male,Female,Male,Female
+5,Bauphal,1,50,12,9,7,148,1629,1301,27735,25991
+6,Dashmina,1,31,3,7,7,59,1735,1838,20209,30305
+7,Dumki,1,31,3,0,4,24,449,561,1012,1231
+8,Galachipa,1,50,7,24,1,5,900,600,7000,5000
+9,Kalapara,2,70,13,18,6,16,925,1170,1256,1742
+10,Mirzaganj,2,70,4,9,15,74,150,1407,11786,11902
+11,Patuakhali Sadar,1,250,18,80,8,59,4500,4302,35000,36050
+12,Total,9,552,60,147,48,385,10288,11179,103998,112221

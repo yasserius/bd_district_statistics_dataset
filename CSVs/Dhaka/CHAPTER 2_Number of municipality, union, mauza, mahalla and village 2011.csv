@@ -1,11 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Number of municipality, union, mauza, mahalla and village 2011",,,,,,
-1,Upazila,Municipality,"Ward
-(PSA)",Mahalla,Union,Mauza,Village
-2,Dhaka Metropolitan,2,92,855,17,86,123
-3,Dhamrai,1,9,44,16,306,396
-4,Dohar,1,9,26,8,91,133
-5,Keraniganj,0,0,0,12,122,423
-6,Nawabganj,0,0,0,14,190,342
-7,Savar,1,9,57,13,220,380
-8,Total,3,27,133,86,585,1999
+1,,,,,,,
+2,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
+3,Dhaka Metropolitan,2,92,855,17,86,123
+4,Dhamrai,1,9,44,16,306,396
+5,Dohar,1,9,26,8,91,133
+6,Keraniganj,0,0,0,12,122,423
+7,Nawabganj,0,0,0,14,190,342
+8,Savar,1,9,57,13,220,380
+9,Total,3,27,133,86,585,1999

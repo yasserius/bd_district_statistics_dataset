@@ -1,21 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting selected livestock species 2008,,,,,,
-1,"
-Upazila",Cow & buffalo,Cow & buffalo,Goat,Goat,Sheep,Sheep
-2,"
-Upazila","Holding
-number","Number
-of animal","Holding
-number","Number
-of goat","Holding
-number","Number
-of sheep"
-3,Chakaria,20405,56815,6284,18898,346,2528
-4,Cox's Bazar Sadar,10653,39209,2632,9197,159,1278
-5,Kutubdia,6477,13236,4683,13250,339,1497
-6,Moheshkhali,8819,29826,4776,16149,218,1836
-7,Pekua,7618,19502,4421,12714,346,1801
-8,Ramu,13840,41726,4865,14751,60,382
-9,Teknaf,6776,22777,6253,18386,118,736
-10,Ukhia,13660,36257,8802,24317,84,521
-11,Total,88248,259348,42716,127662,1670,10579
+1,,,,,,,
+2, Upazila,Cow & buffalo,Cow & buffalo,Goat,Goat,Sheep,Sheep
+3, Upazila,Holding number,Number of animal,Holding number,Number of goat,Holding number,Number of sheep
+4,Chakaria,20405,56815,6284,18898,346,2528
+5,Cox's Bazar Sadar,10653,39209,2632,9197,159,1278
+6,Kutubdia,6477,13236,4683,13250,339,1497
+7,Moheshkhali,8819,29826,4776,16149,218,1836
+8,Pekua,7618,19502,4421,12714,346,1801
+9,Ramu,13840,41726,4865,14751,60,382
+10,Teknaf,6776,22777,6253,18386,118,736
+11,Ukhia,13660,36257,8802,24317,84,521
+12,Total,88248,259348,42716,127662,1670,10579

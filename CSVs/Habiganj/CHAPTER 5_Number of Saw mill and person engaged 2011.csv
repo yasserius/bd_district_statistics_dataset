@@ -1,17 +1,14 @@
 ,0,1,2,3,4
 0,Number of Saw mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Azmirigonj,9,0,30,30
-4,Bahubal,15,7,46,53
-5,Baniachang,20,80,20,100
-6,Chunarughat,17,22,85,107
-7,Habiganj Sadar,29,29,81,110
-8,Lakhai,8,9,30,39
-9,Madhabpur,25,52,73,125
-10,Nabiganj,39,52,195,247
-11,Total,162,251,560,811
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Azmirigonj,9,0,30,30
+5,Bahubal,15,7,46,53
+6,Baniachang,20,80,20,100
+7,Chunarughat,17,22,85,107
+8,Habiganj Sadar,29,29,81,110
+9,Lakhai,8,9,30,39
+10,Madhabpur,25,52,73,125
+11,Nabiganj,39,52,195,247
+12,Total,162,251,560,811

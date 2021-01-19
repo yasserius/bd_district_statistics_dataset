@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Number of different club and store 2011,,,,
-1,Upazila,Sports club,Cultural club,Science club,Other social club
-2,Atwari,30,27,0,1
-3,Boda,1,1,0,1
-4,Debiganj,0,1,0,1
-5,Panchagarh Sadar,15,2,0,2
-6,Tentulia,16,2,0,1
-7,Total,62,33,0,6
+1,,,,,
+2,Upazila,Sports club,Cultural club,Science club,Other social club
+3,Atwari,30,27,0,1
+4,Boda,1,1,0,1
+5,Debiganj,0,1,0,1
+6,Panchagarh Sadar,15,2,0,2
+7,Tentulia,16,2,0,1
+8,Total,62,33,0,6

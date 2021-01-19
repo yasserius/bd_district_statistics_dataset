@@ -1,19 +1,18 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of madrasah, teacher and student under the madrasah education board 2011",,,,,,,,
-1,"
-Upazila",Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Bhaluka,41,550,61,611,3854,5436,9290,15
-4,Dhubaura,6,82,3,85,1097,1548,2645,31
-5,Fulbaria,52,687,85,772,3975,6325,10300,13
-6,Gaffargaon,63,620,155,775,12080,12490,24570,32
-7,Gauripur,18,190,8,198,2885,2915,5800,29
-8,Haluaghat,15,132,22,154,1225,1918,3143,20
-9,Ishwargonj,22,280,35,315,4855,6121,10976,35
-10,Muktagacha,26,332,45,377,3476,5240,8716,23
-11,Mymensingh Sadar,20,355,5,360,2079,2293,4372,12
-12,Nandail,33,555,105,660,7962,6872,14834,22
-13,Phulpur,43,316,200,516,10000,7506,175006,339
-14,Trishal,46,656,100,756,3685,5936,9621,13
-15,Total,385,4755,824,5579,57173,64600,279273,50
+1,,,,,,,,,
+2, Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Bhaluka,41,550,61,611,3854,5436,9290,15
+5,Dhubaura,6,82,3,85,1097,1548,2645,31
+6,Fulbaria,52,687,85,772,3975,6325,10300,13
+7,Gaffargaon,63,620,155,775,12080,12490,24570,32
+8,Gauripur,18,190,8,198,2885,2915,5800,29
+9,Haluaghat,15,132,22,154,1225,1918,3143,20
+10,Ishwargonj,22,280,35,315,4855,6121,10976,35
+11,Muktagacha,26,332,45,377,3476,5240,8716,23
+12,Mymensingh Sadar,20,355,5,360,2079,2293,4372,12
+13,Nandail,33,555,105,660,7962,6872,14834,22
+14,Phulpur,43,316,200,516,10000,7506,175006,339
+15,Trishal,46,656,100,756,3685,5936,9621,13
+16,Total,385,4755,824,5579,57173,64600,279273,50

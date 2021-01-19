@@ -1,11 +1,12 @@
 ,0,1,2
 0,Cotton and sericulture cultivation for the year 2010-11,,
-1,,,(Area in acre and production in metric ton)
-2,,All cotton,All cotton
-3,Upazila,,
-4,Area,,Production
-5,Alamdanga,585,275
-6,Chuadanga Sadar,39,14.04
-7,Damurhuda,380,518
-8,Jibonnagar,108,130
-9,Total,1112,937.04
+1,,,
+2,,,(Area in acre and production in metric ton)
+3,,All cotton,All cotton
+4,Upazila,,
+5,Area,,Production
+6,Alamdanga,585,275
+7,Chuadanga Sadar,39,14.04
+8,Damurhuda,380,518
+9,Jibonnagar,108,130
+10,Total,1112,937.04

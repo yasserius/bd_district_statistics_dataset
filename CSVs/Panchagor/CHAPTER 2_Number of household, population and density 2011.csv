@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,"
-Upazila","
-Household",Population,Population,Population,Sex ratio (M/F),Average size of household,Density per sq. km.
-2,"
-Upazila","
-Household",Male,Female,Total,Sex ratio (M/F),Average size of household,Density per sq. km.
+1,,,,,,,,
+2,Upazila,Household,Population Male,Population Female,Population Total,Sex ratio (M/F),Average size of household,Density per sq. km.
 3,Atwari,32045,66937,55813,133650,100,4.16,637
 4,Boda,56102,116555,115569,232124,101,4.14,664
 5,Debiganj,52411,113120,111589,224709,101,4.28,727

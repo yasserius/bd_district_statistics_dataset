@@ -1,15 +1,12 @@
 ,0,1,2,3,4
 0,Number of bamboo and cane industry and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Belabo,612,1784,0,1784
-4,Manohardi,250,300,0,300
-5,Narsingdi Sadar,0,0,0,0
-6,Palash,280,380,100,480
-7,Roypura,415,520,85,605
-8,Sibpur,204,816,0,816
-9,Total,1761,3800,185,3985
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Belabo,612,1784,0,1784
+5,Manohardi,250,300,0,300
+6,Narsingdi Sadar,0,0,0,0
+7,Palash,280,380,100,480
+8,Roypura,415,520,85,605
+9,Sibpur,204,816,0,816
+10,Total,1761,3800,185,3985

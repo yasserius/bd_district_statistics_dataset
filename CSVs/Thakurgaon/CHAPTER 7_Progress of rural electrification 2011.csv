@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6,7,8
 0,Progress of rural electrification 2011,,,,,,,,
-1,"
-Upazila",Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified
-2,"
-Upazila","
-Village",Residential holding,Large scale industry,Small scale Industry,Deep tube- well,Power pump,Commercial holding,"
-Others"
+1,,,,,,,,,
+2,Upazila,Number of electrified Village,Number of electrified Residential holding,Number of electrified Large scale industry,Number of electrified Small scale Industry,Number of electrified Deep tube- well,Number of electrified Power pump,Number of electrified Commercial holding,Number of electrified Others
 3,Baliadangi,78,4734,0,524,271,0,3075,0
 4,Haripur,54,4870,0,250,91,240,1600,0
 5,Pirgonj,79,11366,0,548,173,0,1494,0

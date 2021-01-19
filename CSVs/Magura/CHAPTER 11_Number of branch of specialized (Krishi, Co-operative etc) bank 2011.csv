@@ -1,10 +1,9 @@
 ,0,1,2,3,4
 0,"Number of branch of specialized (Krishi, Co-operative etc) bank 2011",,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C",Number of current A/C
-2,Magura Sadar,9,61,40407,383
-3,Mohammadpur,3,19,8517,121
-4,Shalikha,1,12,801,26
-5,Sreepur,4,47,11588,271
-6,Total,17,139,61313,801
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Magura Sadar,9,61,40407,383
+4,Mohammadpur,3,19,8517,121
+5,Shalikha,1,12,801,26
+6,Sreepur,4,47,11588,271
+7,Total,17,139,61313,801

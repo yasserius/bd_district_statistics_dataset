@@ -1,12 +1,8 @@
 ,0,1,2,3,4,5,6,7
 0,Irrigation by means 2010-2011,,,,,,,
 1,(In acre),,,,,,,
-2,"
-Upazila",Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,"
-Total"
-3,"
-Upazila",Power pump,Tube well,Doon,Swing basket,Canal,Others,"
-Total"
+2, Upazila,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management, Total
+3, Upazila,Power pump,Tube well,Doon,Swing basket,Canal,Others, Total
 4,Adarsha Sadar,10648,0,0,70,0,17385,20205
 5,Barura,16761,0,0,100,0,700,800
 6,Brahmanpara,9697,0,0,0,0,18,1480

@@ -1,12 +1,9 @@
 ,0,1,2,3,4
 0,Number of tailoring shop and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Kalia,245,276,168,444
-4,Lohagara,360,375,226,601
-5,Narail Sadar,419,431,210,641
-6,Total,1024,1082,604,1686
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Kalia,245,276,168,444
+5,Lohagara,360,375,226,601
+6,Narail Sadar,419,431,210,641
+7,Total,1024,1082,604,1686

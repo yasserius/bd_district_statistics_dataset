@@ -1,21 +1,18 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,Upazila/City corporation,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-2,Balaganj,19,154,93904,4183
-3,Beanibazar,13,68,55949,2461
-4,Bishwanath,7,36,20856,4782
-5,Companiganj,2,20,6873,1240
-6,Dakhin surma,5,40,25700,1507
-7,Fenchuganj,5,40,24146,1437
-8,Golapganj,10,78,57965,2521
-9,Gowainghat,2,18,12929,516
-10,Jaintiapur,2,14,1034,7
-11,Kanaighat,6,32,10278,829
-12,Sylhet city,35,396,163345,14951
-13,corporation Sylhet sadar,"
-9","
-70","
-31646","
-1525"
-14,Zakiganj,3,22,6465,1479
-15,Total,118.00,988.00,511090.00,37438.00
+1,,,,,
+2,Upazila/City corporation,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Balaganj,19,154,93904,4183
+4,Beanibazar,13,68,55949,2461
+5,Bishwanath,7,36,20856,4782
+6,Companiganj,2,20,6873,1240
+7,Dakhin surma,5,40,25700,1507
+8,Fenchuganj,5,40,24146,1437
+9,Golapganj,10,78,57965,2521
+10,Gowainghat,2,18,12929,516
+11,Jaintiapur,2,14,1034,7
+12,Kanaighat,6,32,10278,829
+13,Sylhet city,35,396,163345,14951
+14,corporation Sylhet sadar, 9, 70, 31646, 1525
+15,Zakiganj,3,22,6465,1479
+16,Total,118.00,988.00,511090.00,37438.00

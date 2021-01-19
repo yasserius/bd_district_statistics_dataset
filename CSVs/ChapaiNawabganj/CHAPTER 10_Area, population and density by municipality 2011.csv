@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Area, population and density by municipality 2011",,,,,,
-1,Upazila,Name of municipality,Area (In sq. km.),Population census-2011,Population census-2011,Population census-2011,Density per sq.km.
-2,Upazila,Name of municipality,Area (In sq. km.),Male,Female,Both sex,Density per sq.km.
-3,Bholahat,-,0,0,0,0,0
-4,Chapai Nawabganj Sadar,Chapai Nawabganj,32.89,86012,94719,180731,5495
-5,Gomastapur,Rohanpur,14.00,17391,17550,34941,2495
-6,Nachole,Nachole,12.41,8581,8783,17364,1399
-7,Shibganj,Shibganj,22.21,21315,21378,42693,1922
-8,Total,-,81.51,133299,142430,275729,3383
+1,,,,,,,
+2,Upazila,Name of municipality,Area (In sq. km.),Population census-2011,Population census-2011,Population census-2011,Density per sq.km.
+3,Upazila,Name of municipality,Area (In sq. km.),Male,Female,Both sex,Density per sq.km.
+4,Bholahat,-,0,0,0,0,0
+5,Chapai Nawabganj Sadar,Chapai Nawabganj,32.89,86012,94719,180731,5495
+6,Gomastapur,Rohanpur,14.00,17391,17550,34941,2495
+7,Nachole,Nachole,12.41,8581,8783,17364,1399
+8,Shibganj,Shibganj,22.21,21315,21378,42693,1922
+9,Total,-,81.51,133299,142430,275729,3383

@@ -1,13 +1,5 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,"Number of Primary School, Teacher and Student by Municipality, City Corporation 2011",,,,,,,,,,
-1,"
-Municipality
-/city corporation",Primary school,Primary school,Primary school,Teacher,Teacher,Teacher,Student,Student,Student,"
-Students per teacher"
-2,"
-Municipality
-/city corporation",Govt.,"Non-
-Govt.",Total,Govt.,"Non-
-Govt.",Total,Govt.,"Non-
-Govt.",Total,"
-Students per teacher"
+1,,,,,,,,,,,
+2, Municipality /city corporation,Primary school,Primary school,Primary school,Teacher,Teacher,Teacher,Student,Student,Student, Students per teacher
+3, Municipality /city corporation,Govt.,Non- Govt.,Total,Govt.,Non- Govt.,Total,Govt.,Non- Govt.,Total, Students per teacher

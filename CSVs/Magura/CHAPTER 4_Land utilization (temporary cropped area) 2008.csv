@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,"
-Upazila","
-Current fallow",Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Productivity of crop
-2,"
-Upazila","
-Current fallow",Single,Double,Triple,Net,Gross,Productivity of crop
+1,,,,,,,,
+2,Upazila,Current fallow,Temporary cropped area Single,Temporary cropped area Double,Temporary cropped area Triple,Temporary cropped area Net,Temporary cropped area Gross,Productivity of crop
 3,Magura Sadar,130,12395,38760,15294,66449,135797,204
 4,Mohammadpur,59,4252,22268,8734,35254,74990,213
 5,Shalikha,24,5050,29127,5435,39612,79609,201

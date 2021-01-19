@@ -1,10 +1,9 @@
 ,0,1,2,3,4
 0,"Number of branch of specialized (Krishi, Co-operative, etc) bank 2011",,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of saving
-A/C",Number of current A/C
-2,Alamdanga,3,25,5500,450
-3,Chuadanga Sadar,5,54,26023,486
-4,Damurhuda,3,17,5400,601
-5,Jibonnagar,2,13,4575,525
-6,Total,13,109,41498,2062
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of saving A/C,Number of current A/C
+3,Alamdanga,3,25,5500,450
+4,Chuadanga Sadar,5,54,26023,486
+5,Damurhuda,3,17,5400,601
+6,Jibonnagar,2,13,4575,525
+7,Total,13,109,41498,2062

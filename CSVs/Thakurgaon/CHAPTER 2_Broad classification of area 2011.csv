@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Broad classification of area 2011,,,,
 1,(In sq. km.),,,,
-2,Upazila,Total area,Land area,"Reserve
-forest","Riverine
-area"
+2,Upazila,Total area,Land area,Reserve forest,Riverine area
 3,Baliadangi,284.12,234.12,0,50.00
 4,Haripur,201.07,199.96,0,1.11
 5,Pirgonj,353.99,346.88,4.28,2.83

@@ -1,14 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Non-government secondary school, teacher and student 2011",,,,,,,,
-1,"
-Upazila",Number of  school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of  school,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Alikadam,3,21,4,25,248,414,662,26
-4,Bandarban Sadar,5,39,9,48,463,562,1025,21
-5,Lama,4,26,6,32,623,895,1518,47
-6,Naikhongchhari,4,32,7,39,333,684,1017,26
-7,Rowangchhari,2,6,3,9,98,102,200,22
-8,Ruma,2,15,5,20,224,211,435,22
-9,Thanchi,1,4,0,4,140,110,250,63
-10,Total,21,143,34,177,2129,2978,5107,29
+1,,,,,,,,,
+2, Upazila,Number of  school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of  school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Alikadam,3,21,4,25,248,414,662,26
+5,Bandarban Sadar,5,39,9,48,463,562,1025,21
+6,Lama,4,26,6,32,623,895,1518,47
+7,Naikhongchhari,4,32,7,39,333,684,1017,26
+8,Rowangchhari,2,6,3,9,98,102,200,22
+9,Ruma,2,15,5,20,224,211,435,22
+10,Thanchi,1,4,0,4,140,110,250,63
+11,Total,21,143,34,177,2129,2978,5107,29

@@ -1,13 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Number of Government office, post office, bank, NGO and dak-banglow, rest house 2011",,,,,,
-1,"
-Upazila","All   Government
-offices",Post office,All nationalized bank branches,"All private bank
-branches",All NGOs,"Dak- banglow/
-rest house"
-2,Jhenaigati,25,16,5,0,12,1
-3,Nakla,27,15,5,0,9,1
-4,Nalitabari,28,13,7,1,10,3
-5,Sherpur Sadar,59,47,15,9,26,6
-6,Sreebardi,25,28,5,0,12,1
-7,Total,164,119,37,10,69,12
+1,,,,,,,
+2, Upazila,All   Government offices,Post office,All nationalized bank branches,All private bank branches,All NGOs,Dak- banglow/ rest house
+3,Jhenaigati,25,16,5,0,12,1
+4,Nakla,27,15,5,0,9,1
+5,Nalitabari,28,13,7,1,10,3
+6,Sherpur Sadar,59,47,15,9,26,6
+7,Sreebardi,25,28,5,0,12,1
+8,Total,164,119,37,10,69,12

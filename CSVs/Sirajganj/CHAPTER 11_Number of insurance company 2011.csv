@@ -1,14 +1,14 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,Upazila,"Number of
-insurance company",Number of employee,Number of client
-2,Belkuchi,0,0,0
-3,Chauhali,0,0,0
-4,Kamarkhanda,0,0,0
-5,Kazipur,4,20,4930
-6,Royganj,5,68,17221
-7,Shahjadpur,8,50,47500
-8,Sirajganj Sadar,17,180,63360
-9,Tarash,8,48,15000
-10,Ullahpara,8,85,19132
-11,Total,50,451,167143
+1,,,,
+2,Upazila,Number of insurance company,Number of employee,Number of client
+3,Belkuchi,0,0,0
+4,Chauhali,0,0,0
+5,Kamarkhanda,0,0,0
+6,Kazipur,4,20,4930
+7,Royganj,5,68,17221
+8,Shahjadpur,8,50,47500
+9,Sirajganj Sadar,17,180,63360
+10,Tarash,8,48,15000
+11,Ullahpara,8,85,19132
+12,Total,50,451,167143

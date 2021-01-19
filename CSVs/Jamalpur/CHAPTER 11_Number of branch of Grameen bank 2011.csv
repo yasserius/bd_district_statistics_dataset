@@ -1,13 +1,12 @@
 ,0,1,2,3,4
 0,Number of branch of Grameen bank 2011,,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-member",Number of account
-2,Bakshiganj,4,36,15720,1230
-3,Dewanganj,1,11,5900,5900
-4,Islampur,4,25,12455,16901
-5,Jamalpur Sadar,11,86,49170,49170
-6,Madarganj,2,16,7289,9520
-7,Melandaha,6,52,30887,32157
-8,Sarishabari,5,34,3712,3712
-9,Total,33,260,125133,118590
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of member,Number of account
+3,Bakshiganj,4,36,15720,1230
+4,Dewanganj,1,11,5900,5900
+5,Islampur,4,25,12455,16901
+6,Jamalpur Sadar,11,86,49170,49170
+7,Madarganj,2,16,7289,9520
+8,Melandaha,6,52,30887,32157
+9,Sarishabari,5,34,3712,3712
+10,Total,33,260,125133,118590

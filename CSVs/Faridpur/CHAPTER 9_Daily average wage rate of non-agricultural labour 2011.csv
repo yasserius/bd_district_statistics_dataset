@@ -1,19 +1,15 @@
 ,0,1,2,3,4,5
 0,Daily average wage rate of non-agricultural labour 2011,,,,,
-1,(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka)
-2,Upazila,"Porter
-(coolee)","Garden labour
-male","Garden female
-labour","Other labour
-(Adult)","Other labour
-(Child)"
-3,Alfadanga,350,350,300,300,200
-4,Bhanga,400,0,0,300,150
-5,Boalmari,300,250,0,250,125
-6,Charbhadrashon,400,300,200,300,150
-7,Faridpur Sadar,400,300,200,300,150
-8,Madhukhali,400,220,180,220,150
-9,Nagarkanda,260,0,0,250,0
-10,Sadarpur,400,0,0,250,100
-11,Saltha,260,0,0,250,0
-12,Average,352,284,220,269,146
+1,,,,,,
+2,(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka)
+3,Upazila,Porter (coolee),Garden labour male,Garden female labour,Other labour (Adult),Other labour (Child)
+4,Alfadanga,350,350,300,300,200
+5,Bhanga,400,0,0,300,150
+6,Boalmari,300,250,0,250,125
+7,Charbhadrashon,400,300,200,300,150
+8,Faridpur Sadar,400,300,200,300,150
+9,Madhukhali,400,220,180,220,150
+10,Nagarkanda,260,0,0,250,0
+11,Sadarpur,400,0,0,250,100
+12,Saltha,260,0,0,250,0
+13,Average,352,284,220,269,146

@@ -1,16 +1,13 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,"
-Upazila","
-Number","
-Number of employee","
-Number of client"
-2,Abhaynagar,537,63,22887
-3,Bagherpara,340,67,14467
-4,Chaugachha,414,26,25075
-5,Jessore Sadar,788,82,68479
-6,Jhikargachha,76,9,3642
-7,Keshabpur,667,36,15658
-8,Manirampur,785,35,23788
-9,Sharsha,536,47,30672
-10,Total,4143,365,204668
+1,,,,
+2, Upazila, Number, Number of employee, Number of client
+3,Abhaynagar,537,63,22887
+4,Bagherpara,340,67,14467
+5,Chaugachha,414,26,25075
+6,Jessore Sadar,788,82,68479
+7,Jhikargachha,76,9,3642
+8,Keshabpur,667,36,15658
+9,Manirampur,785,35,23788
+10,Sharsha,536,47,30672
+11,Total,4143,365,204668

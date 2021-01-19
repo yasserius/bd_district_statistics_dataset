@@ -1,14 +1,11 @@
 ,0,1,2,3,4
 0,Number of tailoring shop and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Gopalganj Sadar,200,200,600,800
-4,Kashiani,187,187,81,268
-5,Kotalipara,558,702,484,1186
-6,Muksudpur,205,205,95,300
-7,Tungipara,155,207,281,488
-8,Total,1305,1501,1541,3042
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Gopalganj Sadar,200,200,600,800
+5,Kashiani,187,187,81,268
+6,Kotalipara,558,702,484,1186
+7,Muksudpur,205,205,95,300
+8,Tungipara,155,207,281,488
+9,Total,1305,1501,1541,3042

@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Number of bamboo and cane industry and person engaged 2011,,,,
-1,Upazila/City corporation,"
-Units",Person engaged,Person engaged,Person engaged
-2,Upazila/City corporation,"
-Units",Family,Hired,Total
+1,,,,,
+2,Upazila/City corporation,Units,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Balaganj,42,62,8,70
 4,Beanibazar,35,70,0,70
 5,Bishwanath,2448,3135,45,3180

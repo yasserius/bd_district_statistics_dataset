@@ -1,10 +1,9 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kawmi madrasah, teacher and student 2011",,,,,,,,
-1,"
-Upazila",Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Kalia,26,135,15,150,2065,215,2280,15
-4,Lohagara,6,31,3,34,620,60,680,20
-5,Narail Sadar,14,24,0,24,227,0,227,9
-6,Total,46,190,18,208,2912,275,3187,15
+1,,,,,,,,,
+2, Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Kalia,26,135,15,150,2065,215,2280,15
+5,Lohagara,6,31,3,34,620,60,680,20
+6,Narail Sadar,14,24,0,24,227,0,227,9
+7,Total,46,190,18,208,2912,275,3187,15

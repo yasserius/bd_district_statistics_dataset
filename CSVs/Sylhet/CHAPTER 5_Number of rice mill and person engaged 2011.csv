@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of rice mill and person engaged 2011,,,,
-1,"
-Upazila/City corporation","
-Units",Person engaged,Person engaged,Person engaged
-2,"
-Upazila/City corporation","
-Units",Male,Female,Total
+1,,,,,
+2,Upazila/City corporation,Units,Person engaged Male,Person engaged Female,Person engaged Total
 3,Balaganj,65,140,0,140
 4,Beanibazar,48,96,0,96
 5,Bishwanath,17,31,7,38

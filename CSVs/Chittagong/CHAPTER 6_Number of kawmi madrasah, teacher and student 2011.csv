@@ -1,22 +1,21 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kawmi madrasah, teacher and student 2011",,,,,,,,
-1,Upazila/City corporation,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students
-per teacher"
-2,Upazila/City corporation,Number of madrasah,Male,Female,Total,Male,Female,Total,"Students
-per teacher"
-3,Anowara,3,18,3,21,215,43,258,12
-4,Banshkhali,15,190,0,190,3501,445,3946,21
-5,Boalkhali,2,8,0,8,75,60,135,17
-6,Chandanaish,5,28,0,28,810,42,852,30
-7,Chittagong City Corp.,15,81,0,81,1315,430,1745,22
-8,Fatikchhari,17,96,23,119,3033,4559,7582,64
-9,Hathazari,24,119,0,119,6300,0,6300,53
-10,Lohagara,0,0,0,0,0,0,0,0
-11,Mirsharai,20,125,0,125,4484,1121,5605,45
-12,Patiya,6,82,20,102,1300,1030,2330,23
-13,Rangunia,18,262,0,262,8000,0,8000,31
-14,Raozan,3,16,0,16,363,312,675,42
-15,Sandwip,7,67,0,67,4400,150,4550,68
-16,Satkania,4,23,7,30,993,918,1911,64
-17,Sitakunda,3,35,0,35,410,25,435,12
-18,Total,142,1150,53,1203,35199,9135,44324,37
+1,,,,,,,,,
+2,Upazila/City corporation,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3,Upazila/City corporation,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Anowara,3,18,3,21,215,43,258,12
+5,Banshkhali,15,190,0,190,3501,445,3946,21
+6,Boalkhali,2,8,0,8,75,60,135,17
+7,Chandanaish,5,28,0,28,810,42,852,30
+8,Chittagong City Corp.,15,81,0,81,1315,430,1745,22
+9,Fatikchhari,17,96,23,119,3033,4559,7582,64
+10,Hathazari,24,119,0,119,6300,0,6300,53
+11,Lohagara,0,0,0,0,0,0,0,0
+12,Mirsharai,20,125,0,125,4484,1121,5605,45
+13,Patiya,6,82,20,102,1300,1030,2330,23
+14,Rangunia,18,262,0,262,8000,0,8000,31
+15,Raozan,3,16,0,16,363,312,675,42
+16,Sandwip,7,67,0,67,4400,150,4550,68
+17,Satkania,4,23,7,30,993,918,1911,64
+18,Sitakunda,3,35,0,35,410,25,435,12
+19,Total,142,1150,53,1203,35199,9135,44324,37

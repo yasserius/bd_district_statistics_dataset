@@ -1,14 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,"
-Upazila","
-Household",Population,Population,Population,Sex ratio (M/F),Average size of household,Density per sq. km.
-2,"
-Upazila","
-Household",Male,Female,Total,Sex ratio (M/F),Average size of household,Density per sq. km.
-3,Gopalganj Sadar,73126,172991,171017,344008,101,4.67,883
-4,Kashiani,46335,99912,107703,207615,93,4.47,725
-5,Kotalipara,48029,113492,117001,230493,97,4.79,648
-6,Muksudpur,61807,140956,148450,289406,95,4.65,939
-7,Tungipara,20575,50517,50376,100893,100,4.82,785
-8,Total,249872,577868,594547,1172415,97,4.66,798
+1,,,,,,,,
+2, Upazila, Household,Population,Population,Population,Sex ratio (M/F),Average size of household,Density per sq. km.
+3, Upazila, Household,Male,Female,Total,Sex ratio (M/F),Average size of household,Density per sq. km.
+4,Gopalganj Sadar,73126,172991,171017,344008,101,4.67,883
+5,Kashiani,46335,99912,107703,207615,93,4.47,725
+6,Kotalipara,48029,113492,117001,230493,97,4.79,648
+7,Muksudpur,61807,140956,148450,289406,95,4.65,939
+8,Tungipara,20575,50517,50376,100893,100,4.82,785
+9,Total,249872,577868,594547,1172415,97,4.66,798

@@ -1,13 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of brinjal, lady s finger and arum 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Brinjal,Brinjal,Lady’s finger,Lady’s finger,Arum,Arum
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Baliakandi,436,675,62,237,132,424
-5,Goalanda,192,482,48,125,85,133
-6,Kalukhali,130,325,122,573,124,372
-7,Pangsha,204,2043,191,898,194,582
-8,Rajbari Sadar,112,280,106,253,119,258
-9,Total,1074,3805,529,2086,654,1769
+2,Upazila,Brinjal Area,Brinjal Production,Lady’s finger Area,Lady’s finger Production,Arum Area,Arum Production
+3,Baliakandi,436,675,62,237,132,424
+4,Goalanda,192,482,48,125,85,133
+5,Kalukhali,130,325,122,573,124,372
+6,Pangsha,204,2043,191,898,194,582
+7,Rajbari Sadar,112,280,106,253,119,258
+8,Total,1074,3805,529,2086,654,1769

@@ -1,22 +1,13 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from nationalized bank 2011",,,,,,,,,,,
-1,"
-
-Upazila",Number of branch of nationalize d bank,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-
-Upazila",Number of branch of nationalize d bank,Agriculture debt,Agriculture debt,"Industry
-debt","Industry
-debt",Other debt,Other debt,"Number of
-borrower","Number of
-borrower",Total debt (crore tk),Total debt (crore tk)
-3,"
-
-Upazila",Number of branch of nationalize d bank,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Dimla,7,1612,0,0,0,474,29,2086,89,62742,76521
-5,Domar,0,4891,209,0,0,2488,930,7379,1139,9.04,1.44
-6,Jaldhaka,5,306001,1418,0,0,4886,672,35559,2156,119.52,5.89
-7,Kishorgonj,5,4350,21,10,25,16,0,5355,37,21.19,31.22
-8,Nilphamary Sadar,9,1332,416,2,0,921,210,2260,625,30.17,8.35
-9,Sayedpur,10,2199,142,33,6,1687,232,3919,380,47.13,3.73
-10,Total,36,320385,2206,45,31,10472,2073,56558,4426,62969.05,76571.63
+1,,,,,,,,,,,,
+2,  Upazila,Number of branch of nationalize d bank,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3,  Upazila,Number of branch of nationalize d bank,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
+4,  Upazila,Number of branch of nationalize d bank,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+5,Dimla,7,1612,0,0,0,474,29,2086,89,62742,76521
+6,Domar,0,4891,209,0,0,2488,930,7379,1139,9.04,1.44
+7,Jaldhaka,5,306001,1418,0,0,4886,672,35559,2156,119.52,5.89
+8,Kishorgonj,5,4350,21,10,25,16,0,5355,37,21.19,31.22
+9,Nilphamary Sadar,9,1332,416,2,0,921,210,2260,625,30.17,8.35
+10,Sayedpur,10,2199,142,33,6,1687,232,3919,380,47.13,3.73
+11,Total,36,320385,2206,45,31,10472,2073,56558,4426,62969.05,76571.63

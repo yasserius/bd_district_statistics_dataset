@@ -1,16 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Status of family planning activity 2011,,,,,,
-1,"
-Upazila",Sterilization in number,Sterilization in number,"IUD/
-Injection",Condom (in piece),Oral pill (in cycle),"
-Copper- T"
-2,"
-Upazila",Vasectomy,Tubectomy,"IUD/
-Injection",Condom (in piece),Oral pill (in cycle),"
-Copper- T"
-3,Akkelpur,219,137,3546,1133,13658,146
-4,Joypurhat sadar,2366,824,22713,347529,233035,565
-5,Kalai,295,170,13582,85979,131911,128
-6,Khetlal,397,97,386,392,1129,117
-7,Panchbibi,231,0,0,1750,2000,35
-8,Total,3508,1228,40227,436783,381733,991
+1,,,,,,,
+2, Upazila,Sterilization in number,Sterilization in number,IUD/ Injection,Condom (in piece),Oral pill (in cycle), Copper- T
+3, Upazila,Vasectomy,Tubectomy,IUD/ Injection,Condom (in piece),Oral pill (in cycle), Copper- T
+4,Akkelpur,219,137,3546,1133,13658,146
+5,Joypurhat sadar,2366,824,22713,347529,233035,565
+6,Kalai,295,170,13582,85979,131911,128
+7,Khetlal,397,97,386,392,1129,117
+8,Panchbibi,231,0,0,1750,2000,35
+9,Total,3508,1228,40227,436783,381733,991

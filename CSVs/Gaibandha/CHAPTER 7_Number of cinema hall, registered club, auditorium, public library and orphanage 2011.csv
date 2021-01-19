@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
-2,Fulchhari,0,54,0,0,0
-3,Gaibandha Sadar,3,23,1,7,3
-4,Gobindaganj,5,258,0,14,0
-5,Palashbari,2,185,1,3,1
-6,Sadullapur,2,137,1,19,1
-7,Saghata,4,38,12,5,0
-8,Sundarganj,3,220,0,17,1
-9,Total,19,915,15,65,6
+1,,,,,,
+2,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
+3,Fulchhari,0,54,0,0,0
+4,Gaibandha Sadar,3,23,1,7,3
+5,Gobindaganj,5,258,0,14,0
+6,Palashbari,2,185,1,3,1
+7,Sadullapur,2,137,1,19,1
+8,Saghata,4,38,12,5,0
+9,Sundarganj,3,220,0,17,1
+10,Total,19,915,15,65,6

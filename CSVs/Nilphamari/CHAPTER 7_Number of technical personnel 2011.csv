@@ -1,13 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,Number of technical personnel 2011,,,,,,,
-1,"
-Upazila",Agricultural personnel,"Live- stock
-personnel",Plant protection,Fishery personnel,Sanitary personnel,"Family planning
-personnel",Trained midwife
-2,Dimla,604,59,145,640,44,65,66
-3,Domar,458,115,426,844,125,186,108
-4,Jaldhaka,420,75,600,300,65,140,15
-5,Kishorgonj,654,79,110,690,198,579,23
-6,Nilphamary Sadar,420,80,2,412,79,90,0
-7,Sayedpur,217,15,630,288,200,56,9
-8,Total,2773,423,1913,3174,711,1116,221
+1,,,,,,,,
+2, Upazila,Agricultural personnel,Live- stock personnel,Plant protection,Fishery personnel,Sanitary personnel,Family planning personnel,Trained midwife
+3,Dimla,604,59,145,640,44,65,66
+4,Domar,458,115,426,844,125,186,108
+5,Jaldhaka,420,75,600,300,65,140,15
+6,Kishorgonj,654,79,110,690,198,579,23
+7,Nilphamary Sadar,420,80,2,412,79,90,0
+8,Sayedpur,217,15,630,288,200,56,9
+9,Total,2773,423,1913,3174,711,1116,221

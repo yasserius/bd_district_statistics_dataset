@@ -1,17 +1,15 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C","Number of
-current A/C"
-2,Baghaichhari,2,8,6975,692
-3,Barkal,2,7,120,35
-4,Belai Chhari,2,5,125,36
-5,Jurai Chhari,2,7,148,37
-6,Kaptai,8,42,21021,2215
-7,Kawkhali,3,14,283,49
-8,Langadu,2,9,1142,136
-9,Naniarchar,2,9,1519,342
-10,Rangamati Sadar,11,145,33276,5312
-11,Rajasthali,2,8,1459,8
-12,Total,36,254,66068,8862
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Baghaichhari,2,8,6975,692
+4,Barkal,2,7,120,35
+5,Belai Chhari,2,5,125,36
+6,Jurai Chhari,2,7,148,37
+7,Kaptai,8,42,21021,2215
+8,Kawkhali,3,14,283,49
+9,Langadu,2,9,1142,136
+10,Naniarchar,2,9,1519,342
+11,Rangamati Sadar,11,145,33276,5312
+12,Rajasthali,2,8,1459,8
+13,Total,36,254,66068,8862

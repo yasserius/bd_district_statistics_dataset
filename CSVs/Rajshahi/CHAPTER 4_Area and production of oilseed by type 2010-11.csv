@@ -1,18 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Area and production of oilseed by type 2010-11,,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila/city corporation",Rape & mustard,Rape & mustard,Ground nut,Ground nut,Til,Til
-3,"
-Upazila/city corporation",Area,Production,Area,Production,Area,Production
-4,Bagha,1800,684,80,37,1200,528
-5,Baghmara,18205,6699,10,2,17,5
-6,Charghat,161,58,0,0,7,4
-7,Durgapur,10466,6109,0,0,40,8
-8,Godagari,8580,4487,0,0,300,90
-9,Mohanpur,541,264,0,0,0,0
-10,Paba,1105,348,0,0,186,52
-11,Puthia,3454,1419,0,0,220,198
-12,Rajshahi city corporation,20,8,0,0,0,0
-13,Tanore,288,72,0,0,0,0
-14,Total,44620,20148,90,39,1970,885
+2,Upazila/city corporation,Rape & mustard Area,Rape & mustard Production,Ground nut Area,Ground nut Production,Til Area,Til Production
+3,Bagha,1800,684,80,37,1200,528
+4,Baghmara,18205,6699,10,2,17,5
+5,Charghat,161,58,0,0,7,4
+6,Durgapur,10466,6109,0,0,40,8
+7,Godagari,8580,4487,0,0,300,90
+8,Mohanpur,541,264,0,0,0,0
+9,Paba,1105,348,0,0,186,52
+10,Puthia,3454,1419,0,0,220,198
+11,Rajshahi city corporation,20,8,0,0,0,0
+12,Tanore,288,72,0,0,0,0
+13,Total,44620,20148,90,39,1970,885

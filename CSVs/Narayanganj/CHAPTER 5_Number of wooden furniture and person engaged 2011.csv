@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,Upazila,Unit,Person engaged,Person engaged,Person engaged
-2,Upazila,Unit,Family,Hired,Total
-3,Araihazar,71,80,213,293
-4,Bandar,95,101,285,386
-5,Narayanganj Sadar,1610,2090,10740,12830
-6,Rupganj,87,93,351,444
-7,Sonargaon,157,235,707,942
-8,Total,2020,2599,12296,14895
+1,,,,,
+2,Upazila,Unit,Person engaged,Person engaged,Person engaged
+3,Upazila,Unit,Family,Hired,Total
+4,Araihazar,71,80,213,293
+5,Bandar,95,101,285,386
+6,Narayanganj Sadar,1610,2090,10740,12830
+7,Rupganj,87,93,351,444
+8,Sonargaon,157,235,707,942
+9,Total,2020,2599,12296,14895

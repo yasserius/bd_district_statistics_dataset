@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Employment status in handloom industry 2011,,,,,
-1,Upazila,Number of handloom,Person engaged,Person engaged,Person engaged,Total
-2,Upazila,Number of handloom,Family member,Regular,Hired /Casual,Total
-3,Bholahat,8,8,0,0,8
-4,Chapai Nawabganj Sadar,200,180,50,70,300
-5,Gomastapur,1480,1350,200,300,1850
-6,Nachole,0,0,0,0,0
-7,Shibganj,946,1087,400,415,1902
-8,Total,2634,2625,650,785,4060
+1,,,,,,
+2,Upazila,Number of handloom,Person engaged,Person engaged,Person engaged,Total
+3,Upazila,Number of handloom,Family member,Regular,Hired /Casual,Total
+4,Bholahat,8,8,0,0,8
+5,Chapai Nawabganj Sadar,200,180,50,70,300
+6,Gomastapur,1480,1350,200,300,1850
+7,Nachole,0,0,0,0,0
+8,Shibganj,946,1087,400,415,1902
+9,Total,2634,2625,650,785,4060

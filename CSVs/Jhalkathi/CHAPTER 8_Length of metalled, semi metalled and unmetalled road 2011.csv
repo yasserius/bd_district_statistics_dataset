@@ -1,8 +1,7 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
 1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,"Unmetalled
-(kacha) road",Total
+2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
 3,Jhalokati Sadar,75,152,715,942
 4,Kanthalia,55.01,82.34,568.84,706.19
 5,Nalchity,101.4,179.20,340,620.6

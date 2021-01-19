@@ -1,16 +1,17 @@
 ,0,1,2,3
 0,"Number of railway station, steamer, launch station and bus stand 2011",,,
-1,Upazila,Railway station,Steamer/launch station,Bus stand
-2,Bhaluka,0,0,5
-3,Dhobaura,0,0,5
-4,Fulbaria,0,0,5
-5,Gafargaon,2,6,3
-6,Gauripur,3,0,1
-7,Phulpur,1,0,10
-8,Haluaghat,0,1,4
-9,Ishwargonj,3,0,6
-10,Muktagacha,0,0,13
-11,Nandail,2,2,12
-12,Mymensingh Sadar,9,0,12
-13,Trishal,4,0,2
-14,Total,24,9,78
+1,,,,
+2,Upazila,Railway station,Steamer/launch station,Bus stand
+3,Bhaluka,0,0,5
+4,Dhobaura,0,0,5
+5,Fulbaria,0,0,5
+6,Gafargaon,2,6,3
+7,Gauripur,3,0,1
+8,Phulpur,1,0,10
+9,Haluaghat,0,1,4
+10,Ishwargonj,3,0,6
+11,Muktagacha,0,0,13
+12,Nandail,2,2,12
+13,Mymensingh Sadar,9,0,12
+14,Trishal,4,0,2
+15,Total,24,9,78

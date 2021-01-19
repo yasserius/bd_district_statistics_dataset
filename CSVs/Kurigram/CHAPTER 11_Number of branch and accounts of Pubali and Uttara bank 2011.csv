@@ -1,22 +1,16 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Pubali and Uttara bank 2011,,,,,,,,,,
-1,"
-Upazila",Pubali bank,Pubali bank,Pubali bank,Pubali bank,Pubali bank,Uttara bank,Uttara bank,Uttara bank,Uttara bank,Uttara bank
-2,"
-Upazila","Number of
-branch",Account,Account,Account,Account,"Number of
-branch",Account,Account,Account,Account
-3,"
-Upazila","Number of
-branch",S.D,C.D,F.D,S.T.D,"Number of
-branch",S.D,C.D,F.D,S.T.D
-4,Bhurungamari,0,0,0,0,0,0,0,0,0,0
-5,Char Rajibpur,0,0,0,0,0,0,0,0,0,0
-6,Chilmari,0,0,0,0,0,0,0,0,0,0
-7,Kurigram Sadar,1,1624,689,135,316,1,1416,887,182,448
-8,Nageshwari,0,0,0,0,0,0,0,0,0,0
-9,Phulbari,1,293,153,62,25,0,0,0,0,0
-10,Rajarhat,0,0,0,0,0,0,0,0,0,0
-11,Raumari,0,0,0,0,0,0,0,0,0,0
-12,Ulipur,0,0,0,0,0,0,0,0,0,0
-13,Total,2,1917,842,197,341,1,1416,887,182,448
+1,,,,,,,,,,,
+2, Upazila,Pubali bank,Pubali bank,Pubali bank,Pubali bank,Pubali bank,Uttara bank,Uttara bank,Uttara bank,Uttara bank,Uttara bank
+3, Upazila,Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
+4, Upazila,Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
+5,Bhurungamari,0,0,0,0,0,0,0,0,0,0
+6,Char Rajibpur,0,0,0,0,0,0,0,0,0,0
+7,Chilmari,0,0,0,0,0,0,0,0,0,0
+8,Kurigram Sadar,1,1624,689,135,316,1,1416,887,182,448
+9,Nageshwari,0,0,0,0,0,0,0,0,0,0
+10,Phulbari,1,293,153,62,25,0,0,0,0,0
+11,Rajarhat,0,0,0,0,0,0,0,0,0,0
+12,Raumari,0,0,0,0,0,0,0,0,0,0
+13,Ulipur,0,0,0,0,0,0,0,0,0,0
+14,Total,2,1917,842,197,341,1,1416,887,182,448

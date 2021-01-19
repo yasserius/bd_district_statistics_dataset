@@ -1,15 +1,12 @@
 ,0,1,2,3,4
 0,Number of printing press and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Bhedarganj,0,0,0,0
-4,Damudya,0,0,0,0
-5,Gosairhat,0,0,0,0
-6,Naria,0,0,0,0
-7,Shariatpur Sadar,3,10,20,30
-8,Zanjira,0,0,0,0
-9,Total,3,10,20,30
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Bhedarganj,0,0,0,0
+5,Damudya,0,0,0,0
+6,Gosairhat,0,0,0,0
+7,Naria,0,0,0,0
+8,Shariatpur Sadar,3,10,20,30
+9,Zanjira,0,0,0,0
+10,Total,3,10,20,30

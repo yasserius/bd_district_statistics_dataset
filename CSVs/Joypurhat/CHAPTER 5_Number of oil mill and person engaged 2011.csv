@@ -1,14 +1,11 @@
 ,0,1,2,3,4
 0,Number of oil mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Akkelpur,8,11,37,48
-4,Joypurhat sadar,21,42,75,117
-5,Kalai,0,0,0,0
-6,Khetlal,7,7,14,21
-7,Panchbibi,14,14,20,34
-8,Total,50,74,146,220
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Akkelpur,8,11,37,48
+5,Joypurhat sadar,21,42,75,117
+6,Kalai,0,0,0,0
+7,Khetlal,7,7,14,21
+8,Panchbibi,14,14,20,34
+9,Total,50,74,146,220

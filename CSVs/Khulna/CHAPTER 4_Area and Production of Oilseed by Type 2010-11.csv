@@ -1,18 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Area and Production of Oilseed by Type 2010-11,,,,,,
 1,(Area in acre & production in metric ton),,,,,,
-2,"
-Upazila/city corporation",Rape & mustard,Rape & mustard,Ground nut,Ground nut,Til,Til
-3,"
-Upazila/city corporation",Area,Production,Area,Production,Area,Production
-4,Batiaghata,7.75,1.09,0,0,3705,464
-5,Dacope,0,0,0,0,0,0
-6,Dighalia,0,0,24,17,10,5
-7,Dumuria,290,54.27,0,0,1376,853
-8,Khulna City Corporation,0,0,0,0,0,0
-9,Koyra,5,1.34,0,0,0,0
-10,Paikgachha,257,61.23,0,0,0,0
-11,Phultala,26,9.24,0,0,10,3.4
-12,Rupsa,42,17.74,0,0,0,0
-13,Terokhada,36,7.2,0,0,150,60
-14,Total,663,152,24,17,5251,1386
+2,Upazila/city corporation,Rape & mustard Area,Rape & mustard Production,Ground nut Area,Ground nut Production,Til Area,Til Production
+3,Batiaghata,7.75,1.09,0,0,3705,464
+4,Dacope,0,0,0,0,0,0
+5,Dighalia,0,0,24,17,10,5
+6,Dumuria,290,54.27,0,0,1376,853
+7,Khulna City Corporation,0,0,0,0,0,0
+8,Koyra,5,1.34,0,0,0,0
+9,Paikgachha,257,61.23,0,0,0,0
+10,Phultala,26,9.24,0,0,10,3.4
+11,Rupsa,42,17.74,0,0,0,0
+12,Terokhada,36,7.2,0,0,150,60
+13,Total,663,152,24,17,5251,1386

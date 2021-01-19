@@ -1,14 +1,12 @@
 ,0,1,2,3,4,5
 0,Number of employee by local Government institution 2011,,,,,
-1,Upazila,"City
-corporation",Municipality,Zila parishad,"Upazila
-parishad","Union
-parishad"
-2,Bakshiganj,0,0,0,5,76
-3,Dewanganj,0,22,0,0,104
-4,Islampur,0,24,0,0,132
-5,Jamalpur Sadar,0,47,30,3,153
-6,Madarganj,0,17,0,2,78
-7,Melandaha,0,18,0,2,104
-8,Sarishabari,0,32,0,8,192
-9,Total,0,160,30,20,839
+1,,,,,,
+2,Upazila,City corporation,Municipality,Zila parishad,Upazila parishad,Union parishad
+3,Bakshiganj,0,0,0,5,76
+4,Dewanganj,0,22,0,0,104
+5,Islampur,0,24,0,0,132
+6,Jamalpur Sadar,0,47,30,3,153
+7,Madarganj,0,17,0,2,78
+8,Melandaha,0,18,0,2,104
+9,Sarishabari,0,32,0,8,192
+10,Total,0,160,30,20,839

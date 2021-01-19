@@ -1,20 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of mango, litchi and blackberry 2009-10",,,,,,
 1,(Area in acres & production in metric tons),,,,,,
-2,"
-Upazila",Mango,Mango,Litchi,Litchi,Blackberry,Blackberry
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Basail,83,332,9,22,48,144
-5,Bhuapur,65,1594.19,0,75.90,0,52.18
-6,Delduar,457,269,25,26,26,27
-7,Dhanbari,315.50,341.60,9.80,38.71,14.70,31.40
-8,Ghatail,45,47,0,0,0,0
-9,Gopalpur,25.70,36.22,1.20,2.75,0,0
-10,Kalihati,710,3750,20,22.50,27,85
-11,Madhupur,202,512,20,71,5.56,38.90
-12,Mirzapur,176,222,50,105,14,42
-13,Nagarpur,213,684,24,55,23,22
-14,Sakhipur,1885,2031,25,124,29,45
-15,Tangail Sadar,1235,3448,38,78,26,75
-16,Total,5412.20,13267.01,222,620.86,213.26,562.48
+2,Upazila,Mango Area,Mango Production,Litchi Area,Litchi Production,Blackberry Area,Blackberry Production
+3,Basail,83,332,9,22,48,144
+4,Bhuapur,65,1594.19,0,75.90,0,52.18
+5,Delduar,457,269,25,26,26,27
+6,Dhanbari,315.50,341.60,9.80,38.71,14.70,31.40
+7,Ghatail,45,47,0,0,0,0
+8,Gopalpur,25.70,36.22,1.20,2.75,0,0
+9,Kalihati,710,3750,20,22.50,27,85
+10,Madhupur,202,512,20,71,5.56,38.90
+11,Mirzapur,176,222,50,105,14,42
+12,Nagarpur,213,684,24,55,23,22
+13,Sakhipur,1885,2031,25,124,29,45
+14,Tangail Sadar,1235,3448,38,78,26,75
+15,Total,5412.20,13267.01,222,620.86,213.26,562.48

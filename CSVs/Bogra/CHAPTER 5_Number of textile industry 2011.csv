@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Number of textile industry 2011,,,,,,
-1,"
-Upazila",Number of mill,Installed capacity,Installed capacity,Total persons engaged,Total persons engaged,Total persons engaged
-2,"
-Upazila",Number of mill,Spindle,Loom,Male,Female,Total
+1,,,,,,,
+2,Upazila,Number of mill,Installed capacity Spindle,Installed capacity Loom,Total persons engaged Male,Total persons engaged Female,Total persons engaged Total
 3,Adamdighi,0,0,0,0,0,0
 4,Bogra sadar,0,0,0,0,0,0
 5,Dhunat,0,0,0,0,0,0

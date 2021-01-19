@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of semi-auto rice mill and person engaged 2011,,,,
-1,"
-Upazila","
-Units",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Units",Male,Female,Total
+1,,,,,
+2,Upazila,Units,Person engaged Male,Person engaged Female,Person engaged Total
 3,Basail,0,0,0,0
 4,Bhuapur,20,161,94,255
 5,Delduar,0,0,0,0

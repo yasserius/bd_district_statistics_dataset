@@ -1,11 +1,10 @@
 ,0,1,2,3,4
 0,Number of cinema hall and audience capacity by municipality 2011,,,,
-1,Upazila,"Number of
-cinema hall",Seating capacity,Show per day,"Attendance
-(daily average)"
-2,Bholahat,0,0,0,0
-3,Chapai Nawabganj Sadar,1,1067,3,60
-4,Gomastapur,1,310,3,110
-5,Nachole,0,0,0,0
-6,Shibganj,1,265,3,60
-7,Total,3,1642,9,230
+1,,,,,
+2,Upazila,Number of cinema hall,Seating capacity,Show per day,Attendance (daily average)
+3,Bholahat,0,0,0,0
+4,Chapai Nawabganj Sadar,1,1067,3,60
+5,Gomastapur,1,310,3,110
+6,Nachole,0,0,0,0
+7,Shibganj,1,265,3,60
+8,Total,3,1642,9,230

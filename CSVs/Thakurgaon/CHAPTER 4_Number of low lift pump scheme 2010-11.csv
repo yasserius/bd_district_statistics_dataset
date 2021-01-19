@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,"
-Upazila",Number of pumps fielded,Number of pumps fielded,Number of pumps fielded,Area irrigated (in acre)
-2,"
-Upazila",Electric,Diesel,Total,Area irrigated (in acre)
+1,,,,,
+2,Upazila,Number of pumps fielded Electric,Number of pumps fielded Diesel,Number of pumps fielded Total,Area irrigated (in acre)
 3,Baliadangi,40,5500,5540,49573
 4,Haripur,240,4525,4765,55021
 5,Pirgonj,570,10145,10715,88826

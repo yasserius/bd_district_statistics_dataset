@@ -1,13 +1,10 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,"
-Upazila","
-Units",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Units",Family,Hired,Total
-3,Alamdanga,100,100,200,300
-4,Chuadanga Sadar,238,300,1128,1428
-5,Damurhuda,102,115,226,341
-6,Jibonnagar,33,42,92,134
-7,Total,473,557,1646,2203
+1,,,,,
+2, Upazila, Units,Person engaged,Person engaged,Person engaged
+3, Upazila, Units,Family,Hired,Total
+4,Alamdanga,100,100,200,300
+5,Chuadanga Sadar,238,300,1128,1428
+6,Damurhuda,102,115,226,341
+7,Jibonnagar,33,42,92,134
+8,Total,473,557,1646,2203

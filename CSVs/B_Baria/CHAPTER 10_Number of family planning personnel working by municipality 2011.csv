@@ -1,17 +1,14 @@
 ,0,1,2,3,4,5
 0,Number of family planning personnel working by municipality 2011,,,,,
-1,"
-Upazila","
-Doctor","Family
-planning inspector",Family planning assistant,"Family
-planning visitor",Midwife/ birth attendant (Dai)
-2,Akhaura,1,0,3,2,0
-3,Ashuganj,0,0,0,0,0
-4,Banchharampur,0,0,0,0,0
-5,Bijoynagar,0,0,0,0,0
-6,Brahmanbaria Sadar,2,0,6,7,0
-7,Kasba,0,0,0,0,0
-8,Nabinagar,0,17,3,2,3
-9,Nasirnagar,0,0,0,0,0
-10,Sarail,0,0,0,0,0
-11,Total,3,17,12,11,3
+1,,,,,,
+2,Upazila,Doctor,Family planning inspector,Family planning assistant,Family planning visitor,Midwife/ birth attendant (Dai)
+3,Akhaura,1,0,3,2,0
+4,Ashuganj,0,0,0,0,0
+5,Banchharampur,0,0,0,0,0
+6,Bijoynagar,0,0,0,0,0
+7,Brahmanbaria Sadar,2,0,6,7,0
+8,Kasba,0,0,0,0,0
+9,Nabinagar,0,17,3,2,3
+10,Nasirnagar,0,0,0,0,0
+11,Sarail,0,0,0,0,0
+12,Total,3,17,12,11,3

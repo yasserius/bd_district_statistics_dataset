@@ -1,10 +1,7 @@
 ,0,1,2,3,4,5,6
 0,"Medical Institution and Personnel by Municipality, City Corporation 2011",,,,,,
-1,"
-Municipality/City","
-Government","
-Private",Medical personal,Medical personal,Medical personal,Medical personal
-2,Corporation,institution,institutions,Bed,Doctor,Nurse,Technician
+1,,,,,,,
+2,Municipality/City Corporation,Government institution,Private institutions,Medical personal Bed,Medical personal Doctor,Medical personal Nurse,Medical personal Technician
 3,Dacope,1,1,55,7,7,3
 4,Khulna City corporation,8,72,1648,487,589,141
 5,Paikgachha,1,4,110,16,22,6

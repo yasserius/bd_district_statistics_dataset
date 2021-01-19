@@ -1,26 +1,12 @@
 ,0,1,2,3,4,5,6,7,8,9
 0,"Number of person, institute borrowing money from nationalized bank 2011",,,,,,,,,
-1,"
-
-Upazila",Number of branch of all nationalized banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-
-Upazila",Number of branch of all nationalized banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Others debt,Others debt,Number of borrower,Number of borrower
-3,"
-
-Upazila",Number of branch of all nationalized banks,Male,Female,Male,Female,Male,Female,Male,Female
-4,Kamalnagar,6,1800,200,0,0,2120,280,3920,480
-5,Lakshmipur,15,17949,7431,4,0,4105,393,21788,7824
-6,Sadar Ramganj,"
-10","
-5278","
-23","
-1","
-0","
-1332","
-179","
-6611","
-202"
-7,Ramgati,6,3897,27,35,0,483,1136,4415,1163
-8,Roypur,8,7795,47,121,0,819,2578,8735,2625
-9,Total,45,36719,7728,161,0,8859,4566,45469,12294
+1,,,,,,,,,,
+2,  Upazila,Number of branch of all nationalized banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3,  Upazila,Number of branch of all nationalized banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Others debt,Others debt,Number of borrower,Number of borrower
+4,  Upazila,Number of branch of all nationalized banks,Male,Female,Male,Female,Male,Female,Male,Female
+5,Kamalnagar,6,1800,200,0,0,2120,280,3920,480
+6,Lakshmipur,15,17949,7431,4,0,4105,393,21788,7824
+7,Sadar Ramganj, 10, 5278, 23, 1, 0, 1332, 179, 6611, 202
+8,Ramgati,6,3897,27,35,0,483,1136,4415,1163
+9,Roypur,8,7795,47,121,0,819,2578,8735,2625
+10,Total,45,36719,7728,161,0,8859,4566,45469,12294

@@ -1,15 +1,12 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization 2008,,,,,
-1,Upazila,"Operated
-area","Permanent
-cropped area","Temporary
-cropped area","Permanent
-fallow area",Others
-2,Bauphal,68601,4026,51430,87,13145
-3,Dashmina,29320,1678,22867,37,4775
-4,Dumki,12353,1246,9062,20,2045
-5,Galachipa,118750,5446,97432,409,15872
-6,Kalapara,78293,3835,65250,248,9208
-7,Mirzaganj,24437,2471,16605,67,5361
-8,Patuakhali Sadar,56655,4088,42432,113,10135
-9,Total,388411,22790,305077,983,60541
+1,,,,,,
+2,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
+3,Bauphal,68601,4026,51430,87,13145
+4,Dashmina,29320,1678,22867,37,4775
+5,Dumki,12353,1246,9062,20,2045
+6,Galachipa,118750,5446,97432,409,15872
+7,Kalapara,78293,3835,65250,248,9208
+8,Mirzaganj,24437,2471,16605,67,5361
+9,Patuakhali Sadar,56655,4088,42432,113,10135
+10,Total,388411,22790,305077,983,60541

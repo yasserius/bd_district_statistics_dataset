@@ -1,10 +1,10 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,Upazila,"Number of
-insurance company",Number of employee,Number of client
-2,Akkelpur,13,192,693000
-3,Joypurhat sadar,12,65,13952
-4,Kalai,7,359,92000
-5,Khetlal,6,247,68400
-6,Panchbibi,0,0,0
-7,Total,38,863,867352
+1,,,,
+2,Upazila,Number of insurance company,Number of employee,Number of client
+3,Akkelpur,13,192,693000
+4,Joypurhat sadar,12,65,13952
+5,Kalai,7,359,92000
+6,Khetlal,6,247,68400
+7,Panchbibi,0,0,0
+8,Total,38,863,867352

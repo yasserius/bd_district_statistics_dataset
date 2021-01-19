@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of tailoring shop and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
+1,,,,,
+2,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Adamdighi,84,84,168,252
 4,Bogra sadar,210,315,1895,2210
 5,Dhunat,223,228,248,476

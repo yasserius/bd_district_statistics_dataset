@@ -1,20 +1,16 @@
 ,0,1,2,3,4,5
 0,"Number of physician, practitioner in the upazila, city corporation 2011",,,,,
-1,"
-Upazila","
-Physician","MBBS,
-FCPS/over","
-L.M.F",Unani / ayurbedic,"
-Homeopathy"
-2,Atrai,45,10,10,0,25
-3,Badalgachhi,120,2,101,7,10
-4,Dhamoirhat,255,0,205,24,26
-5,Manda,95,7,24,2,62
-6,Mahadebpur,41,6,34,0,1
-7,Naogaon sadar,118,33,45,15,25
-8,Niamatpur,196,21,8,35,132
-9,Patnitala,25,6,5,2,12
-10,Porsha,36,3,1,0,32
-11,Raninagar,37,2,8,2,25
-12,Sapahar,78,3,10,15,50
-13,Total,1046,93,451,102,400
+1,,,,,,
+2, Upazila, Physician,"MBBS, FCPS/over", L.M.F,Unani / ayurbedic, Homeopathy
+3,Atrai,45,10,10,0,25
+4,Badalgachhi,120,2,101,7,10
+5,Dhamoirhat,255,0,205,24,26
+6,Manda,95,7,24,2,62
+7,Mahadebpur,41,6,34,0,1
+8,Naogaon sadar,118,33,45,15,25
+9,Niamatpur,196,21,8,35,132
+10,Patnitala,25,6,5,2,12
+11,Porsha,36,3,1,0,32
+12,Raninagar,37,2,8,2,25
+13,Sapahar,78,3,10,15,50
+14,Total,1046,93,451,102,400

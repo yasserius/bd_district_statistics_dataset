@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,"Occurrence of river erosion during the years 2008-2011 (Yes, No)",,,,
-1,Upazila,2008,2009,2010,2011
-2,Basail,Yes,Yes,Yes,Yes
-3,Bhuapur,Yes,Yes,Yes,Yes
-4,Delduar,No,No,No,Yes
-5,Dhanbari,No,No,No,No
-6,Ghatail,No,No,No,No
-7,Gopalpur,Yes,Yes,Yes,Yes
-8,Kalihati,Yes,Yes,Yes,Yes
-9,Madhupur,No,No,No,No
-10,Mirzapur,No,No,No,Yes
-11,Nagarpur,Yes,Yes,Yes,Yes
-12,Sakhipur,No,No,No,No
-13,Tangail Sadar,Yes,Yes,Yes,Yes
+1,,,,,
+2,Upazila,2008,2009,2010,2011
+3,Basail,Yes,Yes,Yes,Yes
+4,Bhuapur,Yes,Yes,Yes,Yes
+5,Delduar,No,No,No,Yes
+6,Dhanbari,No,No,No,No
+7,Ghatail,No,No,No,No
+8,Gopalpur,Yes,Yes,Yes,Yes
+9,Kalihati,Yes,Yes,Yes,Yes
+10,Madhupur,No,No,No,No
+11,Mirzapur,No,No,No,Yes
+12,Nagarpur,Yes,Yes,Yes,Yes
+13,Sakhipur,No,No,No,No
+14,Tangail Sadar,Yes,Yes,Yes,Yes

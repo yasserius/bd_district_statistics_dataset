@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,"
-Upazila","
-Units",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Units",Family,Hired,Total
+1,,,,,
+2,Upazila,Units,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Akhaura,70,7,75,82
 4,Ashuganj,9,14,49,63
 5,Banchharampur,11,17,69,86

@@ -1,14 +1,13 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
-2,"
-Upazila",2010-11,2010-11,2009-10,2009-10
-3,"
-Upazila",Number,Production,Number,Production
-4,Belabo,927,253,927,26
-5,Manohardi,132,736,132,655
-6,Narsingdi Sadar,6975,2777,6174,2001
-7,Palash,40,1567,40,1568
-8,Roypura,2580,3160,2551,2840
-9,Sibpur,1545,1391,1500,1350
-10,Total,12199,9884,11324,8440
+1,,,,,
+2,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
+3, Upazila,2010-11,2010-11,2009-10,2009-10
+4, Upazila,Number,Production,Number,Production
+5,Belabo,927,253,927,26
+6,Manohardi,132,736,132,655
+7,Narsingdi Sadar,6975,2777,6174,2001
+8,Palash,40,1567,40,1568
+9,Roypura,2580,3160,2551,2840
+10,Sibpur,1545,1391,1500,1350
+11,Total,12199,9884,11324,8440

@@ -1,16 +1,13 @@
 ,0,1,2,3,4
 0,Number of establishment and person engaged in cottage industry 2011,,,,
-1,"
-Upazila","
-Number of unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Number of unit",Family,Hired,Total
-3,Fulchhari,30,30,30,60
-4,Gaibandha Sadar,3,0,76,76
-5,Gobindaganj,692,1183,2370,3553
-6,Palashbari,1821,3190,1762,4952
-7,Sadullapur,6,18,12,30
-8,Saghata,382,520,300,820
-9,Sundarganj,515,1005,1084,2085
-10,Total,3449,5946,5634,11576
+1,,,,,
+2, Upazila, Number of unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Number of unit,Family,Hired,Total
+4,Fulchhari,30,30,30,60
+5,Gaibandha Sadar,3,0,76,76
+6,Gobindaganj,692,1183,2370,3553
+7,Palashbari,1821,3190,1762,4952
+8,Sadullapur,6,18,12,30
+9,Saghata,382,520,300,820
+10,Sundarganj,515,1005,1084,2085
+11,Total,3449,5946,5634,11576

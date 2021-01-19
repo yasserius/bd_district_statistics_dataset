@@ -1,15 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,Upazila,"Number
-of centre","Number
-of bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Araihazar,6,50,48,33,2,53
-3,Bandar,3,60,6,8,6,15
-4,Narayanganj Sadar,35,495,145,293,29,493
-5,Rupganj,12,141,29,83,24,139
-6,Sonargaon,12,154,78,77,30,119
-7,Total,68,900,306,494,91,819
+1,,,,,,,
+2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Araihazar,6,50,48,33,2,53
+4,Bandar,3,60,6,8,6,15
+5,Narayanganj Sadar,35,495,145,293,29,493
+6,Rupganj,12,141,29,83,24,139
+7,Sonargaon,12,154,78,77,30,119
+8,Total,68,900,306,494,91,819

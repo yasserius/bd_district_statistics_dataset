@@ -1,18 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila/city corporation",Tomato,Tomato,Radish,Radish,Bean,Bean
-3,"
-Upazila/city corporation",Area,Production,Area,Production,Area,Production
-4,Bagha,100,460,185,1119,60,125
-5,Baghmara,173,388,327,1143,173,390
-6,Charghat,51,235,225,2138,15,41
-7,Durgapur,31,130,49,470,30,60
-8,Godagari,205,650,148,1080,150,800
-9,Mohanpur,76,177,115,346,39,145
-10,Paba,230,773,226,921,60,171
-11,Puthia,149,411,308,1146,98,190
-12,Rajshahi city corporation,35,88,9,81,5,10
-13,Tanore,47,35,26,46,22,20
-14,Total,10092,9197,1618,8490,652,1952
+2,Upazila/city corporation,Tomato Area,Tomato Production,Radish Area,Radish Production,Bean Area,Bean Production
+3,Bagha,100,460,185,1119,60,125
+4,Baghmara,173,388,327,1143,173,390
+5,Charghat,51,235,225,2138,15,41
+6,Durgapur,31,130,49,470,30,60
+7,Godagari,205,650,148,1080,150,800
+8,Mohanpur,76,177,115,346,39,145
+9,Paba,230,773,226,921,60,171
+10,Puthia,149,411,308,1146,98,190
+11,Rajshahi city corporation,35,88,9,81,5,10
+12,Tanore,47,35,26,46,22,20
+13,Total,10092,9197,1618,8490,652,1952

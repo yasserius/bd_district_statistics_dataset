@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Number of rice mill and person engaged 2011,,,,
-1,Upazila,Unit,Person engaged,Person engaged,Person engaged
-2,Upazila,Unit,Male,Female,Total
-3,Belkuchi,15,45,60,105
-4,Chauhali,17,17,2,19
-5,Kamarkhanda,35,200,10,210
-6,Kazipur,32,90,38,128
-7,Royganj,113,1430,515,1945
-8,Shahjadpur,5,15,20,35
-9,Sirajganj Sadar,60,480,360,840
-10,Tarash,12,70,50,120
-11,Ullahpara,60,472,236,708
-12,Total,349,2819,1291,5110
+1,,,,,
+2,Upazila,Unit,Person engaged,Person engaged,Person engaged
+3,Upazila,Unit,Male,Female,Total
+4,Belkuchi,15,45,60,105
+5,Chauhali,17,17,2,19
+6,Kamarkhanda,35,200,10,210
+7,Kazipur,32,90,38,128
+8,Royganj,113,1430,515,1945
+9,Shahjadpur,5,15,20,35
+10,Sirajganj Sadar,60,480,360,840
+11,Tarash,12,70,50,120
+12,Ullahpara,60,472,236,708
+13,Total,349,2819,1291,5110

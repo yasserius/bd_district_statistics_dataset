@@ -1,12 +1,7 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,"Number of primary school (Class I-V), teacher and student by municipality 2011",,,,,,,,,,
-1,"
-Upazila",Primary school,Primary school,Primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Govt.,"Non-
-govt.",Total,Govt.,"Non-
-govt.",Total,Govt.,"Non-
-govt.",Total,Students per teacher
+1,,,,,,,,,,,
+2,Upazila,Primary school Govt.,Primary school Non- govt.,Primary school Total,Number of teacher Govt.,Number of teacher Non- govt.,Number of teacher Total,Number of student Govt.,Number of student Non- govt.,Number of student Total,Students per teacher
 3,Adamdighi,8,1,9,61,2,63,2080,138,2218,35
 4,Bogra sadar,43,4,47,356,16,372,19062,927,19989,54
 5,Dhunat,2,1,3,19,4,23,1091,147,1223,54

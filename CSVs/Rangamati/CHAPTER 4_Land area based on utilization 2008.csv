@@ -1,16 +1,15 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization 2008,,,,,
-1,"
-Upazila",Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,"
-Others"
-2,Baghaichhari,39928,12842,19377,544,7709
-3,Barkal,32496,10256,16568,811,5672
-4,Belai Chhari,19158,4677,11554,358,2927
-5,Jurai Chhari,20957,5302,12156,235,3499
-6,Kaptai,18955,7802,7968,297,3185
-7,Kawkhali,26128,9647,9576,281,6905
-8,Langadu,40369,9965,19991,1849,28413
-9,Naniarchar,28164,9726,10430,1613,8008
-10,Rangamati Sadar,36219,12890,12559,1189,10770
-11,Rajasthali,11188,4812,4240,103,2136
-12,Total,273561,87919,124419,7281,79224
+1,,,,,,
+2, Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area, Others
+3,Baghaichhari,39928,12842,19377,544,7709
+4,Barkal,32496,10256,16568,811,5672
+5,Belai Chhari,19158,4677,11554,358,2927
+6,Jurai Chhari,20957,5302,12156,235,3499
+7,Kaptai,18955,7802,7968,297,3185
+8,Kawkhali,26128,9647,9576,281,6905
+9,Langadu,40369,9965,19991,1849,28413
+10,Naniarchar,28164,9726,10430,1613,8008
+11,Rangamati Sadar,36219,12890,12559,1189,10770
+12,Rajasthali,11188,4812,4240,103,2136
+13,Total,273561,87919,124419,7281,79224

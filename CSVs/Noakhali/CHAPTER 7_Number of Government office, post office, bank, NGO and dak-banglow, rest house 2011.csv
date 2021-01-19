@@ -1,18 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Number of Government office, post office, bank, NGO and dak-banglow, rest house 2011",,,,,,
-1,"
-Upazila",All   Government offices,"
-Post office","All   nationalized bank
-branches",All private bank branches,"
-All NGOs","
-Dak-banglow/ rest house"
-2,Begumganj,24,18,20,22,32,2
-3,Chatkhil,27,29,13,3,18,1
-4,Companiganj,29,20,9,6,4,1
-5,Hatiya,27,4,4,1,14,2
-6,Kabirhat,26,16,5,6,0,0
-7,Noakhali Sadar,48,22,15,10,24,2
-8,Senbagh,25,24,14,3,11,2
-9,Sonaimuri,25,11,10,10,18,1
-10,Subarnachar,22,9,2,0,15,1
-11,Total,253,153,92,61,136,12
+1,,,,,,,
+2, Upazila,All   Government offices, Post office,All   nationalized bank branches,All private bank branches, All NGOs, Dak-banglow/ rest house
+3,Begumganj,24,18,20,22,32,2
+4,Chatkhil,27,29,13,3,18,1
+5,Companiganj,29,20,9,6,4,1
+6,Hatiya,27,4,4,1,14,2
+7,Kabirhat,26,16,5,6,0,0
+8,Noakhali Sadar,48,22,15,10,24,2
+9,Senbagh,25,24,14,3,11,2
+10,Sonaimuri,25,11,10,10,18,1
+11,Subarnachar,22,9,2,0,15,1
+12,Total,253,153,92,61,136,12

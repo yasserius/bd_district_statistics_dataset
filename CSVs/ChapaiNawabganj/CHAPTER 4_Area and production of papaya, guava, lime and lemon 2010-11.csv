@@ -1,13 +1,6 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of papaya, guava, lime and lemon 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Papaya,Papaya,Guava,Guava,Lime and lemon,Lime and lemon
-3,Upazila,Area,Production,Area,Production,Area,Production
-4,Bholahat,8,74,47,149,10,33
-5,Chapai Nawabganj Sadar,20,125,34,658,114,339
-6,Gomastapur,25,66,140,453,22,30
-7,Nachole,24,170,19,151,5,92
-8,Shibganj,60,532,12,356,23,172
-9,Total,137,967,252,1767,174,666
-10,Upazila,Papaya,Papaya,Guava,Guava,Lime and lemon,Lime and lemon
-11,Upazila,Area,Production,Area,Production,Area,Production
+2,Upazila Upazila Bholahat Chapai Nawabganj Sadar Gomastapur Nachole Shibganj Total,Papaya Area 8 20 25 24 60 137,Papaya Production 74 125 66 170 532 967,Guava Area 47 34 140 19 12 252,Guava Production 149 658 453 151 356 1767,Lime and lemon Area 10 114 22 5 23 174,Lime and lemon Production 33 339 30 92 172 666
+3,Upazila,Papaya,Papaya,Guava,Guava,Lime and lemon,Lime and lemon
+4,Upazila,Area,Production,Area,Production,Area,Production

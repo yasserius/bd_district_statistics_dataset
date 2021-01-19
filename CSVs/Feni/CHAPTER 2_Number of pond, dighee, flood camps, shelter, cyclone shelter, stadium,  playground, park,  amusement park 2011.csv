@@ -1,14 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of pond, dighee, flood camps, shelter, cyclone shelter, stadium,  playground, park,  amusement park 2011",,,,,,,
-1,"
-Upazila","
-Pond","
-Dighee",River flow,"Flood camp/
-shelter",Cyclone shelter,Stadium/ playground,Park/ amusement park
-2,Chhagalnaiya,5928,11,0,5,5,15,0
-3,Daganbhuiyan,8689,8,2,0,0,51,0
-4,Feni Sadar,7697,3,2,0,17,22,3
-5,Fulgazi,3868,30,3,0,1,41,0
-6,Parshuram,5583,2,3,0,1,6,0
-7,Sonagazi,13698,0,2,28,29,20,0
-8,Total,45463,54,12,33,53,155,3
+1,,,,,,,,
+2, Upazila, Pond, Dighee,River flow,Flood camp/ shelter,Cyclone shelter,Stadium/ playground,Park/ amusement park
+3,Chhagalnaiya,5928,11,0,5,5,15,0
+4,Daganbhuiyan,8689,8,2,0,0,51,0
+5,Feni Sadar,7697,3,2,0,17,22,3
+6,Fulgazi,3868,30,3,0,1,41,0
+7,Parshuram,5583,2,3,0,1,6,0
+8,Sonagazi,13698,0,2,28,29,20,0
+9,Total,45463,54,12,33,53,155,3

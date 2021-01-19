@@ -1,21 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Number of bridge, culvert, pool, shako, etc. 2011",,,,,,
-1,"
-Upazila/city corporation","
-Bridge",Bailey bridge,"
-Culvert","
-Pool","
-Shako","
-Others"
-2,Agailjhara,87,9,118,31,219,0
-3,Babuganj,178,4,267,162,1200,130
-4,Bakerganj,530,5,640,108,212,0
-5,Banaripara,63,1,199,126,508,0
-6,Barisal city corporation,54,0,321,25,28,0
-7,Barisal sadar,106,1,480,30,218,0
-8,Gaurnadi,267,18,74,138,325,35
-9,Hizla,47,0,110,0,150,0
-10,Mehendiganj,60,0,100,88,0,248
-11,Muladi,29,3,121,271,119,19
-12,Wazirpur,75,9,223,75,700,0
-13,Total,1496,50,2653,1054,3679,432
+1,,,,,,,
+2,Upazila/city corporation,Bridge,Bailey bridge,Culvert,Pool,Shako,Others
+3,Agailjhara,87,9,118,31,219,0
+4,Babuganj,178,4,267,162,1200,130
+5,Bakerganj,530,5,640,108,212,0
+6,Banaripara,63,1,199,126,508,0
+7,Barisal city corporation,54,0,321,25,28,0
+8,Barisal sadar,106,1,480,30,218,0
+9,Gaurnadi,267,18,74,138,325,35
+10,Hizla,47,0,110,0,150,0
+11,Mehendiganj,60,0,100,88,0,248
+12,Muladi,29,3,121,271,119,19
+13,Wazirpur,75,9,223,75,700,0
+14,Total,1496,50,2653,1054,3679,432

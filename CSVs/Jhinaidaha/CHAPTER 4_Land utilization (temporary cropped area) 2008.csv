@@ -1,15 +1,12 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,"
-Upazila","
-Current fallow",Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Productivity of crop
-2,"
-Upazila","
-Current fallow",Single,Double,Triple,Net,Gross,Productivity of crop
-3,Harinakunda,238,12568,19450,6151,38169,69921,183
-4,Jhenaidah Sadar,378,23184,32512,18112,73808,142544,193
-5,Kaliganj,113,10278,32640,4320,47238,88518,187
-6,Kotchandpur,87,11481,10160,4187,25828,44362,172
-7,Mahespur,300,21098,39386,8458,68942,125244,182
-8,Shailkupa,134,11560,41434,9141,62135,121851,196
-9,Total,1250,90169,175582,50369,316120,592440,187
+1,,,,,,,,
+2, Upazila, Current fallow,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Productivity of crop
+3, Upazila, Current fallow,Single,Double,Triple,Net,Gross,Productivity of crop
+4,Harinakunda,238,12568,19450,6151,38169,69921,183
+5,Jhenaidah Sadar,378,23184,32512,18112,73808,142544,193
+6,Kaliganj,113,10278,32640,4320,47238,88518,187
+7,Kotchandpur,87,11481,10160,4187,25828,44362,172
+8,Mahespur,300,21098,39386,8458,68942,125244,182
+9,Shailkupa,134,11560,41434,9141,62135,121851,196
+10,Total,1250,90169,175582,50369,316120,592440,187

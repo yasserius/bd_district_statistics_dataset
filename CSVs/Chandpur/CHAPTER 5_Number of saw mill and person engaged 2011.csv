@@ -1,17 +1,14 @@
 ,0,1,2,3,4
 0,Number of saw mill and person engaged 2011,,,,
-1,"
-Upazila","
-Units",Persons engaged,Persons engaged,Persons engaged
-2,"
-Upazila","
-Units",Family,Hired,Total
-3,Chandpur Sadar,65,57,212,269
-4,Foridganj,86,139,263,402
-5,Haimchar,9,47,15,62
-6,Hajiganj,36,30,128,158
-7,Kachua,55,70,165,235
-8,Matlab Dakshin,36,36,216,252
-9,Matlab Uttar,40,40,160,200
-10,Shahrasti,37,40,150,190
-11,Total,364,459,1309,1768
+1,,,,,
+2, Upazila, Units,Persons engaged,Persons engaged,Persons engaged
+3, Upazila, Units,Family,Hired,Total
+4,Chandpur Sadar,65,57,212,269
+5,Foridganj,86,139,263,402
+6,Haimchar,9,47,15,62
+7,Hajiganj,36,30,128,158
+8,Kachua,55,70,165,235
+9,Matlab Dakshin,36,36,216,252
+10,Matlab Uttar,40,40,160,200
+11,Shahrasti,37,40,150,190
+12,Total,364,459,1309,1768

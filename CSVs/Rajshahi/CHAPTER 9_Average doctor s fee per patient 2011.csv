@@ -1,18 +1,15 @@
 ,0,1,2,3,4,5
 0,Average doctor s fee per patient 2011,,,,,
 1,(Fee in taka),,,,,
-2,"
-Upazila/city corporation",Doctor,Doctor,Doctor,Doctor,Doctor
-3,"
-Upazila/city corporation",MBBS,FCPS,Dentist,Gynaecologist,Homeopathy
-4,Bagha,100,200,100,200,15
-5,Baghmara,200,0,100,200,0
-6,Charghat,200,500,200,300,50
-7,Durgapur,200,0,0,0,25
-8,Godagari,100,0,100,0,50
-9,Mohanpur,200,0,100,200,0
-10,Paba,200,300,0,0,0
-11,Puthia,100,300,100,300,50
-12,Rajshahi city corporation,300,500,300,400,100
-13,Tanore,200,0,100,0,50
-14,District Average,250,400,250,300,50
+2,Upazila/city corporation,Doctor MBBS,Doctor FCPS,Doctor Dentist,Doctor Gynaecologist,Doctor Homeopathy
+3,Bagha,100,200,100,200,15
+4,Baghmara,200,0,100,200,0
+5,Charghat,200,500,200,300,50
+6,Durgapur,200,0,0,0,25
+7,Godagari,100,0,100,0,50
+8,Mohanpur,200,0,100,200,0
+9,Paba,200,300,0,0,0
+10,Puthia,100,300,100,300,50
+11,Rajshahi city corporation,300,500,300,400,100
+12,Tanore,200,0,100,0,50
+13,District Average,250,400,250,300,50

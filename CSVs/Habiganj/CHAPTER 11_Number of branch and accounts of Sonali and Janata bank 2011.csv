@@ -1,21 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Sonali and Janata bank 2011,,,,,,,,,,
-1,"
-Upazila",Sonali bank,Sonali bank,Sonali bank,Sonali bank,Sonali bank,Janata bank,Janata bank,Janata bank,Janata bank,Janata bank
-2,"
-Upazila","Number
-of branch",Account,Account,Account,Account,"Number
-of branch",Account,Account,Account,Account
-3,"
-Upazila","Number
-of branch",S.D,C.D,F.D,S.T.D,"Number
-of branch",S.D,C.D,F.D,S.T.D
-4,Azmirigonj,2,4209,801,43,28,0,0,0,0,0
-5,Bahubal,1,5786,376,73,37,1,9662,608,26,3
-6,Baniachang,1,147,639,40,37,1,120,500,27,30
-7,Chunarughat,1,8435,2453,1820,3040,1,3317,327,100,35
-8,Habiganj Sadar,3,20133,1891,324,51,1,727,35,13,0
-9,Lakhai,1,2332,247,32,25,1,3004,203,25,4
-10,Madhabpur,1,9228,551,146,52,4,23115,616,314,109
-11,Nabiganj,3,12330,834,3736,1050,2,7542,388,115,6
-12,Total,13,62600,7792,6214,4320,11,47487,2677,620,187
+1,,,,,,,,,,,
+2, Upazila,Sonali bank,Sonali bank,Sonali bank,Sonali bank,Sonali bank,Janata bank,Janata bank,Janata bank,Janata bank,Janata bank
+3, Upazila,Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
+4, Upazila,Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
+5,Azmirigonj,2,4209,801,43,28,0,0,0,0,0
+6,Bahubal,1,5786,376,73,37,1,9662,608,26,3
+7,Baniachang,1,147,639,40,37,1,120,500,27,30
+8,Chunarughat,1,8435,2453,1820,3040,1,3317,327,100,35
+9,Habiganj Sadar,3,20133,1891,324,51,1,727,35,13,0
+10,Lakhai,1,2332,247,32,25,1,3004,203,25,4
+11,Madhabpur,1,9228,551,146,52,4,23115,616,314,109
+12,Nabiganj,3,12330,834,3736,1050,2,7542,388,115,6
+13,Total,13,62600,7792,6214,4320,11,47487,2677,620,187

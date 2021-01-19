@@ -1,15 +1,16 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,Upazila,Number of insurance company,Number of employee,Number of client
-2,Atrai,9,195,66000
-3,Badalgachhi,6,77,31720
-4,Dhamoirhat,8,60,3276
-5,Manda,4,42,3318
-6,Mahadebpur,7,53,2109
-7,Naogaon sadar,33,261,34267
-8,Niamatpur,6,62,5120
-9,Patnitala,9,11,25760
-10,Porsha,2,30,2800
-11,Raninagar,11,165,9500
-12,Sapahar,5,402,27907
-13,Total,100,1358,211777
+1,,,,
+2,Upazila,Number of insurance company,Number of employee,Number of client
+3,Atrai,9,195,66000
+4,Badalgachhi,6,77,31720
+5,Dhamoirhat,8,60,3276
+6,Manda,4,42,3318
+7,Mahadebpur,7,53,2109
+8,Naogaon sadar,33,261,34267
+9,Niamatpur,6,62,5120
+10,Patnitala,9,11,25760
+11,Porsha,2,30,2800
+12,Raninagar,11,165,9500
+13,Sapahar,5,402,27907
+14,Total,100,1358,211777

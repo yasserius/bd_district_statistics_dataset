@@ -1,17 +1,16 @@
 ,0,1,2,3,4
 0,Numbers of money exchange agency 2011,,,,
-1,"
-Upazila",Number of money exchange agency,Number of employee,"Annual transactions per money
-exchange agency",Annual profit per agency (lac tk)
-2,Atrai,0,0,0,0
-3,Badalgachhi,0,0,0,0
-4,Dhamoirhat,5,5,13619462,173480
-5,Manda,0,0,0,0
-6,Mahadebpur,0,0,0,0
-7,Naogaon sadar,1,5,15892100,60000
-8,Niamatpur,0,0,0,0
-9,Patnitala,1,1,1632785,163
-10,Porsha,4,4,0,0
-11,Raninagar,0,0,0,0
-12,Sapahar,0,0,0,0
-13,Total,11,15,31144347,233643
+1,,,,,
+2, Upazila,Number of money exchange agency,Number of employee,Annual transactions per money exchange agency,Annual profit per agency (lac tk)
+3,Atrai,0,0,0,0
+4,Badalgachhi,0,0,0,0
+5,Dhamoirhat,5,5,13619462,173480
+6,Manda,0,0,0,0
+7,Mahadebpur,0,0,0,0
+8,Naogaon sadar,1,5,15892100,60000
+9,Niamatpur,0,0,0,0
+10,Patnitala,1,1,1632785,163
+11,Porsha,4,4,0,0
+12,Raninagar,0,0,0,0
+13,Sapahar,0,0,0,0
+14,Total,11,15,31144347,233643

@@ -1,27 +1,16 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Area and production of lentil (masur), mug and maize crops 2009-10",,,,,,,,
 1,(Area in acre and production in metric ton),,,,,,,,
-2,Upazila,Lentil (Masur),Lentil (Masur),Mug,Mug,Maize,Maize,,
-3,Upazila,Area,Production,Area,Production,Area,Production,,
-4,Belkuchi,616,128,0,0,21,18,,
-5,Chauhali,0,0,0,0,2,5,,
-6,Kamarkhanda,39,11,10,0,0,0,,
-7,Kazipur,2025,738,25,10,3327,9295,,
-8,Royganj,25,8,30,10,420,1360,,
-9,Shahjadpur,335,141,0,0,3,5,,
-10,Sirajganj Sadar,61,17,0,0,333,877,,
-11,Tarash,27,10,0,0,420,823,,
-12,Ullahpara,20,7,0,0,115,247,,
-13,Total,3148,1060,65,20,4641,12630,,
-14,Upazila,Gram,Gram,Motor,Motor,Khesari,Khesari,Mash-kalai,Mash-kalai
-15,Upazila,Area,Production,Area,Production,Area,Production,Area,Production
-16,Belkuchi,0,0,0,0,225,45,746,225
-17,Chauhali,11,4,4,2,145,56,4385,802
-18,Kamarkhanda,0,0,0,0,0,0,7,2
-19,Kazipur,124,43,49,16,1482,540,1976,680
-20,Royganj,0,0,0,0,37,15,35,14
-21,Shahjadpur,0,0,0,0,67,29,28,9
-22,Sirajganj Sadar,0,0,0,0,2198,801,28405,926
-23,Tarash,0,0,0,0,69,21,0,0
-24,Ullahpara,0,0,0,0,24,12,172,24
-25,Total,135,47,53,18,4247,1519,35754,2682
+2,Upazila Upazila Belkuchi Chauhali Kamarkhanda Kazipur Royganj Shahjadpur Sirajganj Sadar Tarash Ullahpara Total,Lentil (Masur) Area 616 0 39 2025 25 335 61 27 20 3148,Lentil (Masur) Production 128 0 11 738 8 141 17 10 7 1060,Mug Area 0 0 10 25 30 0 0 0 0 65,Mug Production 0 0 0 10 10 0 0 0 0 20,Maize Area 21 2 0 3327 420 3 333 420 115 4641,Maize Production 18 5 0 9295 1360 5 877 823 247 12630,,
+3,Upazila,Gram,Gram,Motor,Motor,Khesari,Khesari,Mash-kalai,Mash-kalai
+4,Upazila,Area,Production,Area,Production,Area,Production,Area,Production
+5,Belkuchi,0,0,0,0,225,45,746,225
+6,Chauhali,11,4,4,2,145,56,4385,802
+7,Kamarkhanda,0,0,0,0,0,0,7,2
+8,Kazipur,124,43,49,16,1482,540,1976,680
+9,Royganj,0,0,0,0,37,15,35,14
+10,Shahjadpur,0,0,0,0,67,29,28,9
+11,Sirajganj Sadar,0,0,0,0,2198,801,28405,926
+12,Tarash,0,0,0,0,69,21,0,0
+13,Ullahpara,0,0,0,0,24,12,172,24
+14,Total,135,47,53,18,4247,1519,35754,2682

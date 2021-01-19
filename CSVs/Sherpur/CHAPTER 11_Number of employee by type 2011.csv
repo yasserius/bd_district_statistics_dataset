@@ -1,14 +1,10 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,"
-Upazila","
-Police personnel","
-Ansar personnel","
-VDP personnel",Autonomous body,"Local Government
-employee"
-2,Jhenaigati,27,356,7488,0,109
-3,Nakla,30,484,7488,0,109
-4,Nalitabari,38,4,22,0,187
-5,Sherpur Sadar,530,511,14700,275,223
-6,Sreebardi,29,452,9664,0,125
-7,Total,654,1807,39362,275,753
+1,,,,,,
+2, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous body,Local Government employee
+3,Jhenaigati,27,356,7488,0,109
+4,Nakla,30,484,7488,0,109
+5,Nalitabari,38,4,22,0,187
+6,Sherpur Sadar,530,511,14700,275,223
+7,Sreebardi,29,452,9664,0,125
+8,Total,654,1807,39362,275,753

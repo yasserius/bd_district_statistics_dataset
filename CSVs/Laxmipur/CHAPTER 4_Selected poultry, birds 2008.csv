@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,"Selected poultry, birds 2008",,,,,,
-1,"
-Upazila",Hen and cocks,Hen and cocks,Ducks,Ducks,Others,Others
-2,"
-Upazila",Holding reporting,Total number,Holding reporting,Total number,Holding reporting,Total number
+1,,,,,,,
+2,Upazila,Hen and cocks Holding reporting,Hen and cocks Total number,Ducks Holding reporting,Ducks Total number,Others Holding reporting,Others Total number
 3,Kamalnagar,27959,152118,25145,109071,1760,11267
 4,Lakshmipur Sadar,94454,525427,79673,316547,3748,30388
 5,Ramganj,41583,226443,35253,139898,0,0

@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of madrasah, teacher and student under the madrasah education board 2011",,,,,,,,
-1,Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Amtali,46,586,27,613,3439,3723,7162,12
-4,Bamna,13,123,6,129,913,1268,2181,17
-5,Barguna Sadar,41,422,41,463,8160,3496,11656,25
-6,Betagi,24,300,33,333,3653,3023,6676,20
-7,Patharghata,18,208,13,221,1002,1820,2822,13
-8,Total,142,1639,120,1759,17167,13330,30497,17
+1,,,,,,,,,
+2,Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3,Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Amtali,46,586,27,613,3439,3723,7162,12
+5,Bamna,13,123,6,129,913,1268,2181,17
+6,Barguna Sadar,41,422,41,463,8160,3496,11656,25
+7,Betagi,24,300,33,333,3653,3023,6676,20
+8,Patharghata,18,208,13,221,1002,1820,2822,13
+9,Total,142,1639,120,1759,17167,13330,30497,17

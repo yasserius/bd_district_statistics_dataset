@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,"Number of railway station, steamer, launch station and bus stand 2011",,,
-1,Upazila,Railway station,Steamer/launch station,Bus stand
-2,Azmirigonj,0,3,0
-3,Bahubal,2,0,5
-4,Baniachang,0,6,2
-5,Chunarughat,0,0,12
-6,Habiganj Sadar,2,0,1
-7,Lakhai,0,2,3
-8,Madhabpur,7,0,7
-9,Nabiganj,0,1,5
-10,Total,11,12,35
+1,,,,
+2,Upazila,Railway station,Steamer/launch station,Bus stand
+3,Azmirigonj,0,3,0
+4,Bahubal,2,0,5
+5,Baniachang,0,6,2
+6,Chunarughat,0,0,12
+7,Habiganj Sadar,2,0,1
+8,Lakhai,0,2,3
+9,Madhabpur,7,0,7
+10,Nabiganj,0,1,5
+11,Total,11,12,35

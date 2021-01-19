@@ -1,14 +1,13 @@
 ,0,1,2,3,4
 0,"Number of branch of specialized (Krishi, Co-operative etc) bank 2011",,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C",Number of current A/C
-2,Chakaria,3,21,12460,221
-3,Cox's Bazar Sadar,1,18,17583,1225
-4,Kutubdia,0,0,0,0
-5,Moheshkhali,5,27,17500,1000
-6,Pekua,1,6,6329,99
-7,Ramu,2,14,9047,249
-8,Teknaf,2,12,10020,281
-9,Ukhia,1,6,10103,510
-10,Total,15,104,83042,3585
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Chakaria,3,21,12460,221
+4,Cox's Bazar Sadar,1,18,17583,1225
+5,Kutubdia,0,0,0,0
+6,Moheshkhali,5,27,17500,1000
+7,Pekua,1,6,6329,99
+8,Ramu,2,14,9047,249
+9,Teknaf,2,12,10020,281
+10,Ukhia,1,6,10103,510
+11,Total,15,104,83042,3585

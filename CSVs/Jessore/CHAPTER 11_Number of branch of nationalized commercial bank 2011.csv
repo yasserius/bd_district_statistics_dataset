@@ -1,15 +1,13 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C","Number of
-current A/C"
-2,Abhaynagar,5,9,50809,2426
-3,Bagherpara,9,61,52705,2404
-4,Chaugachha,3,34,24532,2774
-5,Jessore Sadar,33,525,234833,19890
-6,Jhikargachha,8,102,87023,18685
-7,Keshabpur,7,81,57757,2834
-8,Manirampur,5,73,51197,27930
-9,Sharsha,7,97,45717,2251
-10,Total,77,982,604573,79194
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Abhaynagar,5,9,50809,2426
+4,Bagherpara,9,61,52705,2404
+5,Chaugachha,3,34,24532,2774
+6,Jessore Sadar,33,525,234833,19890
+7,Jhikargachha,8,102,87023,18685
+8,Keshabpur,7,81,57757,2834
+9,Manirampur,5,73,51197,27930
+10,Sharsha,7,97,45717,2251
+11,Total,77,982,604573,79194

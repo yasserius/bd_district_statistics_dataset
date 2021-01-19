@@ -1,11 +1,7 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
 1,(Rate in Taka),,,
-2,"
-Upazila/City corporation","
-Male","
-Female","Child (Child means under 15
-years old)"
+2,Upazila/City corporation,Male,Female,Child (Child means under 15 years old)
 3,Balaganj,250,200,150
 4,Beanibazar,250,200,100
 5,Bishwanath,200,150,150

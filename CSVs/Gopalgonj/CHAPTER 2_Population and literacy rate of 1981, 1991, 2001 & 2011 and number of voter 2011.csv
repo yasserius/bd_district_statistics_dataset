@@ -1,12 +1,11 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Population and literacy rate of 1981, 1991, 2001 & 2011 and number of voter 2011",,,,,,,,,,,
-1,"
-Upazila",Population (000),Population (000),Population (000),Population (000),Literacy rate (%),Literacy rate (%),Literacy rate (%),Literacy rate (%),Number of voter (000),Number of voter (000),Number of voter (000)
-2,"
-Upazila",,1991,2001,2011,1981,1991,2001,2011,Male,Female,Total
-3,Gopalganj Sadar,274,291,320,344,33.8,44.7,54.5,61.8,99,103,202
-4,Kashiani,204,206,229,208,31.3,39.7,53.5,59.2,61,68,129
-5,Kotalipara,180,206,227,231,29.1,34.8,49.8,59.2,69,69,138
-6,Muksudpur,246,269,288,288,26.6,34.3,47.1,52.5,88,90,178
-7,Tungipara,77,88,99,101,27.7,33.3,52.2,56.6,29,30,59
-8,Total,981,1060,1163,1172,30.1,38.2,51.4,58.1,346,360,706
+1,,,,,,,,,,,,
+2, Upazila,Population (000),Population (000),Population (000),Population (000),Literacy rate (%),Literacy rate (%),Literacy rate (%),Literacy rate (%),Number of voter (000),Number of voter (000),Number of voter (000)
+3, Upazila,,1991,2001,2011,1981,1991,2001,2011,Male,Female,Total
+4,Gopalganj Sadar,274,291,320,344,33.8,44.7,54.5,61.8,99,103,202
+5,Kashiani,204,206,229,208,31.3,39.7,53.5,59.2,61,68,129
+6,Kotalipara,180,206,227,231,29.1,34.8,49.8,59.2,69,69,138
+7,Muksudpur,246,269,288,288,26.6,34.3,47.1,52.5,88,90,178
+8,Tungipara,77,88,99,101,27.7,33.3,52.2,56.6,29,30,59
+9,Total,981,1060,1163,1172,30.1,38.2,51.4,58.1,346,360,706

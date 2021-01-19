@@ -1,16 +1,13 @@
 ,0,1,2,3,4,5
 0,Number of fire service unit and causality by municipality 2011,,,,,
-1,"
-Municipality",Fire service unit,Person employed,"
-Fire case","
-Person dead","
-Person injured"
-2,Begumganj,1,24,49,0,0
-3,Chatkhil,0,0,3,0,7
-4,Companiganj,1,15,47,0,0
-5,Hatiya,0,0,0,0,0
-6,Kabirhat,0,0,0,0,0
-7,Noakhali,1,30,53,0,0
-8,Senbagh,0,0,0,0,0
-9,Sonaimuri,1,6,0,0,0
-10,Total,4,75,152,0,7
+1,,,,,,
+2, Municipality,Fire service unit,Person employed, Fire case, Person dead, Person injured
+3,Begumganj,1,24,49,0,0
+4,Chatkhil,0,0,3,0,7
+5,Companiganj,1,15,47,0,0
+6,Hatiya,0,0,0,0,0
+7,Kabirhat,0,0,0,0,0
+8,Noakhali,1,30,53,0,0
+9,Senbagh,0,0,0,0,0
+10,Sonaimuri,1,6,0,0,0
+11,Total,4,75,152,0,7

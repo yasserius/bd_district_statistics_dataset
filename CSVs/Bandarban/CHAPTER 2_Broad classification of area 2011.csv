@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Broad classification of area 2011,,,,
 1,(In sq. km.),,,,
-2,Upazila,Total area,Land area,"Reserve
-forest","Riverine
-area"
+2,Upazila,Total area,Land area,Reserve forest,Riverine area
 3,Alikadam,885.77,235.68,650.09,0
 4,Bandarban Sadar,501.98,435.47,64.39,2.12
 5,Lama,671.83,321.53,349.26,1.04

@@ -1,18 +1,17 @@
 ,0,1,2,3,4
 0,"Area and production at water melon, melon (bangi) in following years",,,,
-1,(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton)
-2,"
-Upazila",2010-11,2010-11,2009-10,2009-10
-3,"
-Upazila",Area,Production,Area,Production
-4,Baghaichhari,400,269,204,100
-5,Barkal,157,51,114,37
-6,Belai Chhari,60,31,60,22
-7,Jurai Chhari,219,104,185,87
-8,Kaptai,39,22,27,19
-9,Kawkhali,5,2,8,2
-10,Langadu,35,59,26,44
-11,Naniarchar,80,39,82,40
-12,Rangamati Sadar,206,186,201,178
-13,Rajasthali,28,16,39,20
-14,Total,1229,779,946,549
+1,,,,,
+2,(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton)
+3, Upazila,2010-11,2010-11,2009-10,2009-10
+4, Upazila,Area,Production,Area,Production
+5,Baghaichhari,400,269,204,100
+6,Barkal,157,51,114,37
+7,Belai Chhari,60,31,60,22
+8,Jurai Chhari,219,104,185,87
+9,Kaptai,39,22,27,19
+10,Kawkhali,5,2,8,2
+11,Langadu,35,59,26,44
+12,Naniarchar,80,39,82,40
+13,Rangamati Sadar,206,186,201,178
+14,Rajasthali,28,16,39,20
+15,Total,1229,779,946,549

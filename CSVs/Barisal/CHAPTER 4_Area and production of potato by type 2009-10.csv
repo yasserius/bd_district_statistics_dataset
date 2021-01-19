@@ -1,19 +1,16 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2009-10,,,,,,
 1,(Area in acre & production in metric ton),,,,,,
-2,"
-Upazila/city corporation",Potato,Potato,Sweet potato,Sweet potato,Total Potato,Total Potato
-3,"
-Upazila/city corporation",Area,Production,Area,Production,Area,Production
-4,Agailjhara,305,1830,18.22,69.453,323,1899.453
-5,Babuganj,74,532,48,111.82,122,643.82
-6,Bakerganj,10,29,44,53,54,82
-7,Banaripara,75,675,17,112,92,787
-8,Barisal city corporation,3,12,7,19,10,31
-9,Barisal sadar,21,83,217,538,238,621
-10,Gaurnadi,85,680,28.2,67.7,113.2,747.7
-11,Hizla,0,0,200,560,200,560
-12,Mehendiganj,136,602.84,272,652.8,408,255.64
-13,Muladi,14,56,669,262.8,683,318.8
-14,Wazirpur,634,6217,44,153,678,6370
-15,Total,1357,10716.84,1564.42,2599.573,2921.2,12316.413
+2,Upazila/city corporation,Potato Area,Potato Production,Sweet potato Area,Sweet potato Production,Total Potato Area,Total Potato Production
+3,Agailjhara,305,1830,18.22,69.453,323,1899.453
+4,Babuganj,74,532,48,111.82,122,643.82
+5,Bakerganj,10,29,44,53,54,82
+6,Banaripara,75,675,17,112,92,787
+7,Barisal city corporation,3,12,7,19,10,31
+8,Barisal sadar,21,83,217,538,238,621
+9,Gaurnadi,85,680,28.2,67.7,113.2,747.7
+10,Hizla,0,0,200,560,200,560
+11,Mehendiganj,136,602.84,272,652.8,408,255.64
+12,Muladi,14,56,669,262.8,683,318.8
+13,Wazirpur,634,6217,44,153,678,6370
+14,Total,1357,10716.84,1564.42,2599.573,2921.2,12316.413

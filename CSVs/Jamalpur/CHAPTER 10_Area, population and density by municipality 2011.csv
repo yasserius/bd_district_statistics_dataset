@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Area, population and density by municipality 2011",,,,,,
-1,Upazila,Name of municipality,Area (In sq. km.),Population census 2011,Population census 2011,Population census 2011,Density per sq.km.
-2,Upazila,Name of municipality,Area (In sq. km.),Male,Female,Both sex,Density per sq.km.
-3,Bakshiganj,-,0,0,0,0,0
-4,Dewanganj,Dewanganj,28.38,18570,19457,38027,1340
-5,Islampur,Islampur,16.67,19031,19537,38568,2314
-6,Jamalpur Sadar,Jamalpur,53.28,71418,71346,142764,2680
-7,Madarganj,Maderganj,10.78,16188,16981,33169,3077
-8,Melandaha,Melandaha,15.55,15880,15440,31320,2014
-9,Sarishabari,Sarishabari,22.19,25738,26426,52162,2351
-10,Total,-,93.57,95407,97841,193246,2065
+1,,,,,,,
+2,Upazila,Name of municipality,Area (In sq. km.),Population census 2011,Population census 2011,Population census 2011,Density per sq.km.
+3,Upazila,Name of municipality,Area (In sq. km.),Male,Female,Both sex,Density per sq.km.
+4,Bakshiganj,-,0,0,0,0,0
+5,Dewanganj,Dewanganj,28.38,18570,19457,38027,1340
+6,Islampur,Islampur,16.67,19031,19537,38568,2314
+7,Jamalpur Sadar,Jamalpur,53.28,71418,71346,142764,2680
+8,Madarganj,Maderganj,10.78,16188,16981,33169,3077
+9,Melandaha,Melandaha,15.55,15880,15440,31320,2014
+10,Sarishabari,Sarishabari,22.19,25738,26426,52162,2351
+11,Total,-,93.57,95407,97841,193246,2065

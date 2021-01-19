@@ -1,21 +1,15 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of health centre, providing health and family planning service 2011",,,,,,,
-1,"
-Upazila/city corporation","Number of union
-health centre","
-Health service","
-Sterilization","
-M.R.","
-Injection/ copper-T","
-Oral pill/ condoms",Number of immunization centre
-2,Bagha,5,5,1,5,6,36,145
-3,Baghmara,11,16,4,17,17,59,0
-4,Charghat,4,13800,0,96,315,362,27
-5,Durgapur,7,19,6580,0,5410,11371,169
-6,Godagari,9,9,0,10,55,7590,1
-7,Mohanpur,5,89762,325,83,34828,180967,14
-8,Paba,9,9,0,0,0,0,218
-9,Puthia,6,5,1,56,18701,452298,144
-10,Rajshahi city corporation,6,14,4,8,5,44,0
-11,Tanore,8,8672,11,6,469,7105,0
-12,Total,70,112311,6926,281,59806,659832,718
+1,,,,,,,,
+2,Upazila/city corporation,Number of union health centre,Health service,Sterilization,M.R.,Injection/ copper-T,Oral pill/ condoms,Number of immunization centre
+3,Bagha,5,5,1,5,6,36,145
+4,Baghmara,11,16,4,17,17,59,0
+5,Charghat,4,13800,0,96,315,362,27
+6,Durgapur,7,19,6580,0,5410,11371,169
+7,Godagari,9,9,0,10,55,7590,1
+8,Mohanpur,5,89762,325,83,34828,180967,14
+9,Paba,9,9,0,0,0,0,218
+10,Puthia,6,5,1,56,18701,452298,144
+11,Rajshahi city corporation,6,14,4,8,5,44,0
+12,Tanore,8,8672,11,6,469,7105,0
+13,Total,70,112311,6926,281,59806,659832,718

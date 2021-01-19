@@ -1,11 +1,11 @@
 ,0,1,2,3,4,5
 0,"Number of ward, mahalla and household by municipality 2011",,,,,
-1,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,"Total
-household"
-2,Bagatipara,Bagatipara,9,17,2557,2557
-3,Baraigram,"Baraigram, Banpara",18,20,10056,10056
-4,Gurudaspur,Gurudaspur,9,18,8287,8287
-5,Lalpur,Lalpur,24,10,5319,5319
-6,Natore Sadar,"Natore ,Noldanga",18,51,21489,21489
-7,Singra,Singra,12,33,7955,7955
-8,Total,,75,153,55663,55663
+1,,,,,,
+2,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
+3,Bagatipara,Bagatipara,9,17,2557,2557
+4,Baraigram,"Baraigram, Banpara",18,20,10056,10056
+5,Gurudaspur,Gurudaspur,9,18,8287,8287
+6,Lalpur,Lalpur,24,10,5319,5319
+7,Natore Sadar,"Natore ,Noldanga",18,51,21489,21489
+8,Singra,Singra,12,33,7955,7955
+9,Total,,75,153,55663,55663

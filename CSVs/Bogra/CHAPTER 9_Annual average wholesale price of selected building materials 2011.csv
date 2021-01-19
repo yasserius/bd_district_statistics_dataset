@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building materials 2011,,,,,,
 1,(Price in taka),,,,,,
-2,"
-Upazila",Brick-01 (per1000),"Cement (per 50 kg
-bag)",Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
+2,Upazila,Brick-01 (per1000),Cement (per 50 kg bag),Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
 3,Adamdighi,5200,375,61300,0,0,0
 4,Bogra sadar,5500,375,52000,14,9,65
 5,Dhunat,6000,470,57500,12,13,95

@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,"Number of hat-bazar, growth centre, hotel & restaurant 2011",,,,,
-1,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
-2,Aditmari,17,17,10,1035,0
-3,Hatibandha,36,24,4,1000,1
-4,Kaligonj,28,22,4,820,0
-5,Lalmonirhat Sadar,45,27,8,1265,8
-6,Patgram,24,13,4,156,4
-7,Total,150,103,30,4276,13
+1,,,,,,
+2,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
+3,Aditmari,17,17,10,1035,0
+4,Hatibandha,36,24,4,1000,1
+5,Kaligonj,28,22,4,820,0
+6,Lalmonirhat Sadar,45,27,8,1265,8
+7,Patgram,24,13,4,156,4
+8,Total,150,103,30,4276,13

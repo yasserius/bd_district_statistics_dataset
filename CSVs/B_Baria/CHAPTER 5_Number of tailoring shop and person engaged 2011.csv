@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of tailoring shop and person engaged 2011,,,,
-1,"
-Upazila","
-Units",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Units",Family,Hired,Total
+1,,,,,
+2,Upazila,Units,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Akhaura,205,205,200,405
 4,Ashuganj,89,135,310,445
 5,Banchharampur,439,354,258,612

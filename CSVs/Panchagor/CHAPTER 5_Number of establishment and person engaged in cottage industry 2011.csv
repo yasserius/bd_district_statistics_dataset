@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of establishment and person engaged in cottage industry 2011,,,,
-1,"
-Upazila","
-Number of unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Number of unit",Family,Hired,Total
+1,,,,,
+2,Upazila,Number of unit,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Atwari,117,210,148,358
 4,Boda,157,393,0,393
 5,Debiganj,259,0,0,259

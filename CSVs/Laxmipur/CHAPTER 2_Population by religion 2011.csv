@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6
 0,Population by religion 2011,,,,,,
-1,Upazila,Muslim,Hindu,Buddhist,Christian,Others,Total
-2,Kamalnagar,219054,3853,1,4,3,222915
-3,Lakshmipur Sadar,658724,25544,102,33,22,684425
-4,Ramganj,275537,10131,8,9,1,285686
-5,Ramgati,249958,10986,4,53,1,261002
-6,Roypur,266222,8903,5,7,23,275160
-7,Total,1669495,59417,120,106,50,1729188
+1,,,,,,,
+2,Upazila,Muslim,Hindu,Buddhist,Christian,Others,Total
+3,Kamalnagar,219054,3853,1,4,3,222915
+4,Lakshmipur Sadar,658724,25544,102,33,22,684425
+5,Ramganj,275537,10131,8,9,1,285686
+6,Ramgati,249958,10986,4,53,1,261002
+7,Roypur,266222,8903,5,7,23,275160
+8,Total,1669495,59417,120,106,50,1729188

@@ -1,18 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Status of family planning activity 2011,,,,,,
-1,"
-Upazila",Sterilization in number,Sterilization in number,"IUD/
-Injection",Condom (in piece),Oral pill (in cycle),"
-Copper- T"
-2,"
-Upazila",Vasectomy,Tubectomy,"IUD/
-Injection",Condom (in piece),Oral pill (in cycle),"
-Copper- T"
-3,Alikadam,178,383,2106,5642,2337,308
-4,Bandarban Sadar,30,126,5076,61488,52416,228
-5,Lama,115,100,4030,5705,58854,409
-6,Naikhongchhari,1046,275,423,7895,3595,116
-7,Rowangchhari,20,6,62,40462,18683,86
-8,Ruma,22,6,610,5565,862,0
-9,Thanchi,38,26,343,2282,756,50
-10,Total,1449,922,12650,129039,137503,1197
+1,,,,,,,
+2, Upazila,Sterilization in number,Sterilization in number,IUD/ Injection,Condom (in piece),Oral pill (in cycle), Copper- T
+3, Upazila,Vasectomy,Tubectomy,IUD/ Injection,Condom (in piece),Oral pill (in cycle), Copper- T
+4,Alikadam,178,383,2106,5642,2337,308
+5,Bandarban Sadar,30,126,5076,61488,52416,228
+6,Lama,115,100,4030,5705,58854,409
+7,Naikhongchhari,1046,275,423,7895,3595,116
+8,Rowangchhari,20,6,62,40462,18683,86
+9,Ruma,22,6,610,5565,862,0
+10,Thanchi,38,26,343,2282,756,50
+11,Total,1449,922,12650,129039,137503,1197

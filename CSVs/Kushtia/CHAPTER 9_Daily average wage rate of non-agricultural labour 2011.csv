@@ -1,10 +1,7 @@
 ,0,1,2,3,4,5
 0,Daily average wage rate of non-agricultural labour 2011,,,,,
 1,(Wage in Taka),,,,,
-2,"
-Upazila",Porter (coolee),Garden Male Labour,"Garden Female
-Labour","Other Labour
-(Adult)",Other Labour (Child)
+2,Upazila,Porter (coolee),Garden Male Labour,Garden Female Labour,Other Labour (Adult),Other Labour (Child)
 3,Kushtia Sadar,400,200,150,225,150
 4,Bheramara,400,200,170,200,120
 5,Daulatpur,400,250,200,200,150

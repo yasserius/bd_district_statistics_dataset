@@ -1,30 +1,21 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of registered primary school (class I-V), teacher and student 2011",,,,,,,,
-1,"
-Upazila/City corporation","Number of registered primary
-school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila/City corporation","Number of registered primary
-school","
-Male","
-Female","
-Total","
-Male","
-Female","
-Total",Students per teacher
-3,Anowara,22,28,44,72,2093,2500,4593,64
-4,Banshkhali,42,103,65,168,7398,5215,12613,75
-5,Boalkhali,17,10,56,66,1650,1301,2951,45
-6,Chandanaish,11,16,30,46,1210,1256,2466,54
-7,Chittagong City Corp.,48,60,120,180,9528,11001,20529,114
-8,Fatikchhari,73,148,144,292,10894,10057,20951,72
-9,Hathazari,27,35,54,89,5347,3565,8912,100
-10,Lohagara,35,75,65,140,2825,3000,5825,42
-11,Mirsharai,38,34,95,129,3386,3570,6956,54
-12,Patiya,16,55,62,117,4552,428,4980,43
-13,Rangunia,52,87,104,191,4186,4570,8756,46
-14,Raozan,20,46,45,91,1882,2238,4120,45
-15,Sandwip,56,125,138,263,2300,4000,6300,24
-16,Satkania,33,48,86,134,4074,3773,7847,59
-17,Sitakunda,22,31,59,90,3328,3464,6792,75
-18,Total,512,901,1167,2068,64653,59938,124591,60
+1,,,,,,,,,
+2, Upazila/City corporation,Number of registered primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila/City corporation,Number of registered primary school, Male, Female, Total, Male, Female, Total,Students per teacher
+4,Anowara,22,28,44,72,2093,2500,4593,64
+5,Banshkhali,42,103,65,168,7398,5215,12613,75
+6,Boalkhali,17,10,56,66,1650,1301,2951,45
+7,Chandanaish,11,16,30,46,1210,1256,2466,54
+8,Chittagong City Corp.,48,60,120,180,9528,11001,20529,114
+9,Fatikchhari,73,148,144,292,10894,10057,20951,72
+10,Hathazari,27,35,54,89,5347,3565,8912,100
+11,Lohagara,35,75,65,140,2825,3000,5825,42
+12,Mirsharai,38,34,95,129,3386,3570,6956,54
+13,Patiya,16,55,62,117,4552,428,4980,43
+14,Rangunia,52,87,104,191,4186,4570,8756,46
+15,Raozan,20,46,45,91,1882,2238,4120,45
+16,Sandwip,56,125,138,263,2300,4000,6300,24
+17,Satkania,33,48,86,134,4074,3773,7847,59
+18,Sitakunda,22,31,59,90,3328,3464,6792,75
+19,Total,512,901,1167,2068,64653,59938,124591,60

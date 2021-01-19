@@ -1,16 +1,13 @@
 ,0,1,2,3,4
 0,Number of bamboo and cane industry and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Alikadam,3,6,0,6
-4,Bandarban Sadar,20,20,0,20
-5,Lama,260,350,0,350
-6,Naikhongchhari,105,135,0,135
-7,Rowangchhari,0,0,0,0
-8,Ruma,300,450,0,450
-9,Thanchi,0,0,0,0
-10,Total,688,961,0,961
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Alikadam,3,6,0,6
+5,Bandarban Sadar,20,20,0,20
+6,Lama,260,350,0,350
+7,Naikhongchhari,105,135,0,135
+8,Rowangchhari,0,0,0,0
+9,Ruma,300,450,0,450
+10,Thanchi,0,0,0,0
+11,Total,688,961,0,961

@@ -1,10 +1,8 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2010-11,,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Aus,Aus,Aman,Aman,Boro,Boro
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
+2, Upazila,Aus,Aus,Aman,Aman,Boro,Boro
+3, Upazila,Area,Production,Area,Production,Area,Production
 4,Kalia,4632,2000.66,18619,20520,33853,37181
 5,Lohagara,3112,1261,29628,20989,20081,33084
 6,Narail Sadar,4850,3088,39910,24212,42550,64251

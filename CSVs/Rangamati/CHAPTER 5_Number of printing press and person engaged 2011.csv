@@ -1,19 +1,16 @@
 ,0,1,2,3,4
 0,Number of printing press and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Baghaichhari,0,0,0,0
-4,Barkal,0,0,0,0
-5,Belai Chhari,0,0,0,0
-6,Jurai Chhari,0,0,0,0
-7,Kaptai,0,0,0,0
-8,Kawkhali,0,0,0,0
-9,Langadu,0,0,0,0
-10,Naniarchar,0,0,0,0
-11,Rangamati Sadar,6,5,25,30
-12,Rajasthali,0,0,0,0
-13,Total,6,5,25,30
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Baghaichhari,0,0,0,0
+5,Barkal,0,0,0,0
+6,Belai Chhari,0,0,0,0
+7,Jurai Chhari,0,0,0,0
+8,Kaptai,0,0,0,0
+9,Kawkhali,0,0,0,0
+10,Langadu,0,0,0,0
+11,Naniarchar,0,0,0,0
+12,Rangamati Sadar,6,5,25,30
+13,Rajasthali,0,0,0,0
+14,Total,6,5,25,30

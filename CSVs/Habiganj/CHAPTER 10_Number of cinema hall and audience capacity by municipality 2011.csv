@@ -1,14 +1,13 @@
 ,0,1,2,3,4
 0,Number of cinema hall and audience capacity by municipality 2011,,,,
-1,Upazila,"Number of
-cinema hall",Audience capacity,Show per day,"Attendance
-(daily average)"
-2,Azmirigonj,1,315,3,50
-3,Bahubal,0,0,0,0
-4,Baniachang,0,0,0,0
-5,Chunarughat,2,660,3,53
-6,Habiganj Sadar,3,665,3,1723
-7,Lakhai,0,0,0,0
-8,Madhabpur,0,0,0,0
-9,Nabiganj,0,0,0,0
-10,Total,6,1640,9,1826
+1,,,,,
+2,Upazila,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
+3,Azmirigonj,1,315,3,50
+4,Bahubal,0,0,0,0
+5,Baniachang,0,0,0,0
+6,Chunarughat,2,660,3,53
+7,Habiganj Sadar,3,665,3,1723
+8,Lakhai,0,0,0,0
+9,Madhabpur,0,0,0,0
+10,Nabiganj,0,0,0,0
+11,Total,6,1640,9,1826

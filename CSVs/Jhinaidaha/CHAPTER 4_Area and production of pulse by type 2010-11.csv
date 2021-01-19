@@ -1,10 +1,8 @@
 ,0,1,2,3,4,5,6,7,8
 0,Area and production of pulse by type 2010-11,,,,,,,,
 1,(Area in acre and production in metric ton),,,,,,,,
-2,"
-Upazila",Gram,Gram,Motor,Motor,Khesari,Khesari,Mash-kalai,Mash-kalai
-3,"
-Upazila",Area,Production,Area,Production,Area,Production,Area,Production
+2, Upazila,Gram,Gram,Motor,Motor,Khesari,Khesari,Mash-kalai,Mash-kalai
+3, Upazila,Area,Production,Area,Production,Area,Production,Area,Production
 4,Harinakunda,72,32,9,4,100,40,0,0
 5,Jhenaidah Sadar,446,149,477,155,558,241,94,35
 6,Kaliganj,73,23,49,17,107,35,34,10

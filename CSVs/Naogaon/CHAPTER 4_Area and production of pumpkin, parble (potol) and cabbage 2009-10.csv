@@ -1,19 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pumpkin, parble (potol) and cabbage 2009-10",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Pumpkin,Pumpkin,Parble (potol),Parble (potol),Cabbage,Cabbage
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Atrai,19,49,18,46,14,38
-5,Badalgachhi,43,146,510,3127,248,394
-6,Dhamoirhat,29,97,20,34,27,73
-7,Manda,103,453,208,1206,200,1200
-8,Mahadebpur,37,136,148,391,65,367
-9,Naogaon sadar,24,75,90,258,61,199
-10,Niamatpur,124,314,46,122,59,175
-11,Patnitala,47,73,42,81,80,273
-12,Porsha,41,102,8,11,3,7
-13,Raninagar,15,50,4,32,18,46
-14,Sapahar,0,0,0,0,117,1218
-15,Total,482,1494,1094,5308,892,3990
+2,Upazila,Pumpkin Area,Pumpkin Production,Parble (potol) Area,Parble (potol) Production,Cabbage Area,Cabbage Production
+3,Atrai,19,49,18,46,14,38
+4,Badalgachhi,43,146,510,3127,248,394
+5,Dhamoirhat,29,97,20,34,27,73
+6,Manda,103,453,208,1206,200,1200
+7,Mahadebpur,37,136,148,391,65,367
+8,Naogaon sadar,24,75,90,258,61,199
+9,Niamatpur,124,314,46,122,59,175
+10,Patnitala,47,73,42,81,80,273
+11,Porsha,41,102,8,11,3,7
+12,Raninagar,15,50,4,32,18,46
+13,Sapahar,0,0,0,0,117,1218
+14,Total,482,1494,1094,5308,892,3990

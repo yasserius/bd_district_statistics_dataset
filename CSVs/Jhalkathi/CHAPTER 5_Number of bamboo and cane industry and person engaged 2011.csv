@@ -1,13 +1,10 @@
 ,0,1,2,3,4
 0,Number of bamboo and cane industry and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Jhalokati Sadar,15,45,0,45
-4,Kanthalia,150,298,30,328
-5,Nalchity,100,170,0,170
-6,Rajapur,11,18,0,18
-7,Total,276,531,30,561
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Jhalokati Sadar,15,45,0,45
+5,Kanthalia,150,298,30,328
+6,Nalchity,100,170,0,170
+7,Rajapur,11,18,0,18
+8,Total,276,531,30,561

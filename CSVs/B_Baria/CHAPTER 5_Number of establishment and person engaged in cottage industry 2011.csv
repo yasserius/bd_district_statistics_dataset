@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of establishment and person engaged in cottage industry 2011,,,,
-1,"
-Upazila","
-Number of units",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Number of units",Family,Hired,Total
+1,,,,,
+2,Upazila,Number of units,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Akhaura,0,0,0,0
 4,Ashuganj,390,820,450,1270
 5,Banchharampur,1013,840,116,956

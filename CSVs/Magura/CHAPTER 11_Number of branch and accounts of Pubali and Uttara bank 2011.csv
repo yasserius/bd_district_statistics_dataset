@@ -1,17 +1,9 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Pubali and Uttara bank 2011,,,,,,,,,,
-1,"
-Upazila",Pubali bank,Pubali bank,Pubali bank,Pubali bank,Pubali bank,Uttara bank,Uttara bank,Uttara bank,Uttara bank,Uttara bank
-2,"
-Upazila","Number of
-branch",Account,Account,Account,Account,"Number of
-branch",Account,Account,Account,Account
-3,"
-Upazila","Number of
-branch",S.D,C.D,F.D,S.T.D,"Number of
-branch",S.D,C.D,F.D,S.T.D
-4,Magura Sadar,1,4812,2000,170,47,1,2840,1274,90,28
-5,Mohammadpur,0,0,0,0,0,0,0,0,0,0
-6,Shalikha,0,0,0,0,0,0,0,0,0,0
-7,Sreepur,0,0,0,0,0,0,0,0,0,0
-8,Total,1,4812,2000,170,47,1,2840,1274,90,28
+1,,,,,,,,,,,
+2,Upazila,Pubali bank Number of branch Number of branch,Pubali bank Account S.D,Pubali bank Account C.D,Pubali bank Account F.D,Pubali bank Account S.T.D,Uttara bank Number of branch Number of branch,Uttara bank Account S.D,Uttara bank Account C.D,Uttara bank Account F.D,Uttara bank Account S.T.D
+3,Magura Sadar,1,4812,2000,170,47,1,2840,1274,90,28
+4,Mohammadpur,0,0,0,0,0,0,0,0,0,0
+5,Shalikha,0,0,0,0,0,0,0,0,0,0
+6,Sreepur,0,0,0,0,0,0,0,0,0,0
+7,Total,1,4812,2000,170,47,1,2840,1274,90,28

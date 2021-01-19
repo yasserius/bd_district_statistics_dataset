@@ -1,15 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Number of branch of specialized (Krishi, Co-operative, etc.) bank 2011",,,,,,
-1,"
-Upazila",Number of branch,Number of employee,Number of savings A/C,Number of current A/C,"Average annual deposit
-(in lac tk.)","Annual credit
-disbursed (in lac tk.)"
-2,Badarganj,4,23,3990,502,4424,3314
-3,Gangachara,2,13,6938,58,382,249
-4,Kaunia,1,8,3982,150,10,5
-5,Mithapukur,8,44,7987,1042,1634,682
-6,Pirgachha,2,12,7070,194,848,960
-7,Pirganj,0,0,0,0,0,0
-8,Rangpur sadar,3,68,11658,38406,67367,68725
-9,Taraganj,3,19,6130,91,4,9
-10,Total,23,187,47755,40443,74669,73944
+1,,,,,,,
+2, Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C,Average annual deposit (in lac tk.),Annual credit disbursed (in lac tk.)
+3,Badarganj,4,23,3990,502,4424,3314
+4,Gangachara,2,13,6938,58,382,249
+5,Kaunia,1,8,3982,150,10,5
+6,Mithapukur,8,44,7987,1042,1634,682
+7,Pirgachha,2,12,7070,194,848,960
+8,Pirganj,0,0,0,0,0,0
+9,Rangpur sadar,3,68,11658,38406,67367,68725
+10,Taraganj,3,19,6130,91,4,9
+11,Total,23,187,47755,40443,74669,73944

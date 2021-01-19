@@ -1,19 +1,17 @@
 ,0,1,2,3,4,5,6
 0,Daily average wage rate of construction labour 2011,,,,,,
-1,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
-2,"
-Upazila",Labour,Labour,Labour,Labour,Labour,Labour
-3,"
-Upazila",Mason,"Helper
-(Jogaly)",Carpenter,Colour,Electric,Plumber
-4,Atpara,500,260,450,650,600,500
-5,Barhatta,440,230,400,550,620,520
-6,Durgapur,300,200,400,300,400,300
-7,Kalmakanda,300,200,250,300,350,350
-8,Kendua,250,150,250,250,300,300
-9,Khaliajuri,300,200,400,400,400,300
-10,Madan,400,250,350,350,400,350
-11,Mohanganj,300,250,300,500,500,300
-12,Netrokona Sadar,350,250,300,300,300,300
-13,Purbadhala,300,200,300,300,300,300
-14,Average,344,219,340,390,417,352
+1,,,,,,,
+2,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
+3, Upazila,Labour,Labour,Labour,Labour,Labour,Labour
+4, Upazila,Mason,Helper (Jogaly),Carpenter,Colour,Electric,Plumber
+5,Atpara,500,260,450,650,600,500
+6,Barhatta,440,230,400,550,620,520
+7,Durgapur,300,200,400,300,400,300
+8,Kalmakanda,300,200,250,300,350,350
+9,Kendua,250,150,250,250,300,300
+10,Khaliajuri,300,200,400,400,400,300
+11,Madan,400,250,350,350,400,350
+12,Mohanganj,300,250,300,500,500,300
+13,Netrokona Sadar,350,250,300,300,300,300
+14,Purbadhala,300,200,300,300,300,300
+15,Average,344,219,340,390,417,352

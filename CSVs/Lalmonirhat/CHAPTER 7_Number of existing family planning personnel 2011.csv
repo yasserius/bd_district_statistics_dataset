@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6,7
 0,Number of existing family planning personnel 2011,,,,,,,
-1,Upazila,TFPO,MO,FPI,TFPA,FWV,FWA,Midwife or SBA
-2,Aditmari,2,1,6,4,8,32,10
-3,Hatibandha,1,0,6,3,5,40,0
-4,Kaligonj,1,1,6,3,5,40,1
-5,Lalmonirhat Sadar,1,11,7,9,9,86,8
-6,Patgram,1,0,4,4,4,37,10
-7,Total,6,13,29,23,31,235,29
+1,,,,,,,,
+2,Upazila,TFPO,MO,FPI,TFPA,FWV,FWA,Midwife or SBA
+3,Aditmari,2,1,6,4,8,32,10
+4,Hatibandha,1,0,6,3,5,40,0
+5,Kaligonj,1,1,6,3,5,40,1
+6,Lalmonirhat Sadar,1,11,7,9,9,86,8
+7,Patgram,1,0,4,4,4,37,10
+8,Total,6,13,29,23,31,235,29

@@ -1,16 +1,13 @@
 ,0,1,2,3,4,5
 0,Number of insurance company 2011,,,,,
-1,"
-Upazila","Number of
-insurance company",Number of employee,Number of client,"Annual
-premium (in lac tk.)","Annual
-claimed paid (in lac tk.)"
-2,Badarganj,2,18,254,9,2
-3,Gangachara,7,62,22300,189,31
-4,Kaunia,11,37,2090,94,18
-5,Mithapukur,22,78,37516,601,23
-6,Pirgachha,8,36,5872,29,19
-7,Pirganj,17,47,5100,31,6
-8,Rangpur sadar,30,509,125270,431,66
-9,Taraganj,2,5,300,5,1
-10,Total,99,792,198702,1389,166
+1,,,,,,
+2, Upazila,Number of insurance company,Number of employee,Number of client,Annual premium (in lac tk.),Annual claimed paid (in lac tk.)
+3,Badarganj,2,18,254,9,2
+4,Gangachara,7,62,22300,189,31
+5,Kaunia,11,37,2090,94,18
+6,Mithapukur,22,78,37516,601,23
+7,Pirgachha,8,36,5872,29,19
+8,Pirganj,17,47,5100,31,6
+9,Rangpur sadar,30,509,125270,431,66
+10,Taraganj,2,5,300,5,1
+11,Total,99,792,198702,1389,166

@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,"Number of hat-bazar, growth centre, hotel & restaurant 2011",,,,,
-1,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
-2,Bhedarganj,33,49,4,0,2
-3,Damudya,10,7,4,20,3
-4,Gosairhat,22,12,1,25,0
-5,Naria,25,10,4,90,0
-6,Shariatpur Sadar,16,18,4,210,7
-7,Zanjira,10,14,1,89,0
-8,Total,116,110,18,434,12
+1,,,,,,
+2,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
+3,Bhedarganj,33,49,4,0,2
+4,Damudya,10,7,4,20,3
+5,Gosairhat,22,12,1,25,0
+6,Naria,25,10,4,90,0
+7,Shariatpur Sadar,16,18,4,210,7
+8,Zanjira,10,14,1,89,0
+9,Total,116,110,18,434,12

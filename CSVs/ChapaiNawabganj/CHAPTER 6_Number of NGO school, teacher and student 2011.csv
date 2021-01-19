@@ -1,14 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of NGO school, teacher and student 2011",,,,,,,,
-1,"
-Upazila",Number of NGO school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students
-per teacher"
-2,"
-Upazila",Number of NGO school,Male,Female,Total,Male,Female,Total,"Students
-per teacher"
-3,Bholahat,0,0,0,0,0,0,0,0
-4,Chapai Nawabganj Sadar,43,5,45,50,916,1001,1917,38
-5,Gomastapur,42,9,42,55,620,973,1593,29
-6,Nachole,62,0,62,62,1159,1299,2458,39
-7,Shibganj,54,5,59,64,1073,1247,2320,36
-8,Total,201,19,208,231,3768,4520,8288,35
+1,,,,,,,,,
+2, Upazila,Number of NGO school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of NGO school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Bholahat,0,0,0,0,0,0,0,0
+5,Chapai Nawabganj Sadar,43,5,45,50,916,1001,1917,38
+6,Gomastapur,42,9,42,55,620,973,1593,29
+7,Nachole,62,0,62,62,1159,1299,2458,39
+8,Shibganj,54,5,59,64,1073,1247,2320,36
+9,Total,201,19,208,231,3768,4520,8288,35

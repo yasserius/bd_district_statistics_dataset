@@ -1,16 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Sonali and Janata bank 2011,,,,,,,,,,
-1,"
-Upazila",Sonali bank,Sonali bank,Sonali bank,Sonali bank,Sonali bank,Janata bank,Janata bank,Janata bank,Janata bank,Janata bank
-2,"
-Upazila",Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
-3,"
-Upazila",Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
-4,Assasuni,2,1734,416,548,44,1,11431,608,137,18
-5,Debhata,3,1079,76,51,9,0,0,0,0,0
-6,Kalaroa,2,4770,632,180,47,0,0,0,0,0
-7,Kaliganj,1,11455,946,465,46,2,9911,132,90,9
-8,Satkhira Sadar,4,18200,2100,117,52,5,13200,1500,542,30
-9,Shyamnagar,1,10463,1068,108,38,1,10344,452,101,7
-10,Tala,5,22873,3242,476,110,1,8834,505,331,27
-11,Total,18,70574,8480,1945,346,10,53720,3197,1201,91
+1,,,,,,,,,,,
+2, Upazila,Sonali bank,Sonali bank,Sonali bank,Sonali bank,Sonali bank,Janata bank,Janata bank,Janata bank,Janata bank,Janata bank
+3, Upazila,Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
+4, Upazila,Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
+5,Assasuni,2,1734,416,548,44,1,11431,608,137,18
+6,Debhata,3,1079,76,51,9,0,0,0,0,0
+7,Kalaroa,2,4770,632,180,47,0,0,0,0,0
+8,Kaliganj,1,11455,946,465,46,2,9911,132,90,9
+9,Satkhira Sadar,4,18200,2100,117,52,5,13200,1500,542,30
+10,Shyamnagar,1,10463,1068,108,38,1,10344,452,101,7
+11,Tala,5,22873,3242,476,110,1,8834,505,331,27
+12,Total,18,70574,8480,1945,346,10,53720,3197,1201,91

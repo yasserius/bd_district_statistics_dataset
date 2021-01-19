@@ -1,15 +1,12 @@
 ,0,1,2,3,4
 0,Number of pottery and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Harinakunda,201,215,38,253
-4,Jhenaidah Sadar,210,405,70,475
-5,Kaliganj,155,345,115,460
-6,Kotchandpur,57,130,26,156
-7,Mahespur,53,125,14,139
-8,Shailkupa,71,213,50,263
-9,Total,747,1433,313,1746
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Harinakunda,201,215,38,253
+5,Jhenaidah Sadar,210,405,70,475
+6,Kaliganj,155,345,115,460
+7,Kotchandpur,57,130,26,156
+8,Mahespur,53,125,14,139
+9,Shailkupa,71,213,50,263
+10,Total,747,1433,313,1746

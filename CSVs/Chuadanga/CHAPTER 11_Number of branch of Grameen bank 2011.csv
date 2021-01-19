@@ -1,14 +1,9 @@
 ,0,1,2,3,4,5,6
 0,Number of branch of Grameen bank 2011,,,,,,
-1,Upazila,"Number
-of branch","Number of
-employee","Number of
-member","Number of
-account","Annual deposit
-tk.","Annual credit
-disbursed tk."
-2,Alamdanga,6,40,400,400,113072000,63447000
-3,Chuadanga Sadar,5,39,15016,15016,41730265,338989456
-4,Damurhuda,3,27,10621,10621,27866325,214400000
-5,Jibonnagar,2,17,8129,8129,8153464,123235040
-6,Total,16,123,34166,34166,190822054,740071496
+1,,,,,,,
+2,Upazila,Number of branch,Number of employee,Number of member,Number of account,Annual deposit tk.,Annual credit disbursed tk.
+3,Alamdanga,6,40,400,400,113072000,63447000
+4,Chuadanga Sadar,5,39,15016,15016,41730265,338989456
+5,Damurhuda,3,27,10621,10621,27866325,214400000
+6,Jibonnagar,2,17,8129,8129,8153464,123235040
+7,Total,16,123,34166,34166,190822054,740071496

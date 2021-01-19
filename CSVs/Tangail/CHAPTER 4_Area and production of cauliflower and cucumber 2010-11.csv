@@ -1,20 +1,17 @@
 ,0,1,2,3,4
 0,Area and production of cauliflower and cucumber 2010-11,,,,
 1,(Area in acres & production in metric tons),,,,
-2,"
-Upazila",Cauliflower,Cauliflower,Cucumber,Cucumber
-3,"
-Upazila",Area,Production,Area,Production
-4,Basail,22,130,10,17
-5,Bhuapur,31,267.7,19,58.6
-6,Delduar,70,322,38,82
-7,Dhanbari,72,590.4,275,962.5
-8,Ghatail,213,959,84,286
-9,Gopalpur,154,855.65,18,37.3
-10,Kalihati,100,955,20,58
-11,Madhupur,69,565.8,106,371
-12,Mirzapur,167,502,69,91
-13,Nagarpur,134,1035,37,44
-14,Sakhipur,123,395,51,97
-15,Tangail Sadar,550,4730,50,180
-16,Total,1705,11307.55,777,2284.4
+2,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
+3,Basail,22,130,10,17
+4,Bhuapur,31,267.7,19,58.6
+5,Delduar,70,322,38,82
+6,Dhanbari,72,590.4,275,962.5
+7,Ghatail,213,959,84,286
+8,Gopalpur,154,855.65,18,37.3
+9,Kalihati,100,955,20,58
+10,Madhupur,69,565.8,106,371
+11,Mirzapur,167,502,69,91
+12,Nagarpur,134,1035,37,44
+13,Sakhipur,123,395,51,97
+14,Tangail Sadar,550,4730,50,180
+15,Total,1705,11307.55,777,2284.4

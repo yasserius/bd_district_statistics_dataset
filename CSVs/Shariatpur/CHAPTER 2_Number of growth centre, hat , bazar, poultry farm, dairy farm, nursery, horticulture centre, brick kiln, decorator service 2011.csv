@@ -1,17 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of growth centre, hat , bazar, poultry farm, dairy farm, nursery, horticulture centre, brick kiln, decorator service 2011",,,,,,,,
-1,Upazila,"Growth
-centre","Hat
-/bazar","Poultry
-farm","Dairy
-farm",Nursery,"Horticulture
-centre","Brick
-kiln","Decorator
-service"
-2,Bhedarganj,4,33,57,20,3,0,4,44
-3,Damudya,4,17,12,13,1,0,2,15
-4,Gosairhat,1,22,44,9,3,0,15,25
-5,Naria,4,35,0,0,2,0,6,52
-6,Shariatpur Sadar,4,26,126,15,17,0,11,48
-7,Zanjira,1,24,46,30,3,0,7,29
-8,Total,18,157,285,87,29,0,45,213
+1,,,,,,,,,
+2,Upazila,Growth centre,Hat /bazar,Poultry farm,Dairy farm,Nursery,Horticulture centre,Brick kiln,Decorator service
+3,Bhedarganj,4,33,57,20,3,0,4,44
+4,Damudya,4,17,12,13,1,0,2,15
+5,Gosairhat,1,22,44,9,3,0,15,25
+6,Naria,4,35,0,0,2,0,6,52
+7,Shariatpur Sadar,4,26,126,15,17,0,11,48
+8,Zanjira,1,24,46,30,3,0,7,29
+9,Total,18,157,285,87,29,0,45,213

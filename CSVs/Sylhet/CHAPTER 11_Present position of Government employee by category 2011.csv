@@ -1,23 +1,18 @@
 ,0,1,2,3,4,5
 0,Present position of Government employee by category 2011,,,,,
-1,"
-Upazila/City corporation","
-Class-I","
-Class-II","
-Class-III","
-Class-IV","Number of
-total employee"
-2,Balaganj,38,23,268,139,468
-3,Beanibazar,28,15,267,89,389
-4,Bishwanath,25,15,261,82,383
-5,Companiganj,15,13,108,50,186
-6,Dakhin surma,34,16,297,63,410
-7,Fenchuganj,29,9,290,45,373
-8,Golapganj,49,18,253,88,408
-9,Gowainghat,12,14,618,56,700
-10,Jaintiapur,27,22,135,69,254
-11,Kanaighat,13,12,431,87,543
-12,Sylhet city corporation,628,181,846,1165,2820
-13,Sylhet sadar,11,10,70,20,111
-14,Zakiganj,28,8,630,90,756
-15,Total,937,356,4474,2043,7801
+1,,,,,,
+2,Upazila/City corporation,Class-I,Class-II,Class-III,Class-IV,Number of total employee
+3,Balaganj,38,23,268,139,468
+4,Beanibazar,28,15,267,89,389
+5,Bishwanath,25,15,261,82,383
+6,Companiganj,15,13,108,50,186
+7,Dakhin surma,34,16,297,63,410
+8,Fenchuganj,29,9,290,45,373
+9,Golapganj,49,18,253,88,408
+10,Gowainghat,12,14,618,56,700
+11,Jaintiapur,27,22,135,69,254
+12,Kanaighat,13,12,431,87,543
+13,Sylhet city corporation,628,181,846,1165,2820
+14,Sylhet sadar,11,10,70,20,111
+15,Zakiganj,28,8,630,90,756
+16,Total,937,356,4474,2043,7801

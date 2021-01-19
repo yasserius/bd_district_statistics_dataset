@@ -1,13 +1,14 @@
 ,0,1,2,3
 0,"Number of bridge, baily bridge, culvert 2011",,,
-1,Upazila,Bridge,Baily bridge,Culvert
-2,Belkuchi,12,2,199
-3,Chauhali,6,0,37
-4,Kamarkhanda,77,2,22
-5,Kazipur,19,1,331
-6,Royganj,18,5,627
-7,Shahjadpur,115,0,105
-8,Sirajganj Sadar,15,4,319
-9,Tarash,7,0,383
-10,Ullahpara,12,8,825
-11,Total,281,22,2848
+1,,,,
+2,Upazila,Bridge,Baily bridge,Culvert
+3,Belkuchi,12,2,199
+4,Chauhali,6,0,37
+5,Kamarkhanda,77,2,22
+6,Kazipur,19,1,331
+7,Royganj,18,5,627
+8,Shahjadpur,115,0,105
+9,Sirajganj Sadar,15,4,319
+10,Tarash,7,0,383
+11,Ullahpara,12,8,825
+12,Total,281,22,2848

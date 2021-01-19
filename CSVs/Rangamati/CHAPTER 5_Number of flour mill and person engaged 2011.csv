@@ -1,19 +1,16 @@
 ,0,1,2,3,4
 0,Number of flour mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Baghaichhari,1,1,1,2
-4,Barkal,0,0,0,0
-5,Belai Chhari,0,0,0,0
-6,Jurai Chhari,0,0,0,0
-7,Kaptai,5,6,6,12
-8,Kawkhali,7,9,2,11
-9,Langadu,0,0,0,0
-10,Naniarchar,0,0,0,0
-11,Rangamati Sadar,74,85,60,145
-12,Rajasthali,2,2,2,4
-13,Total,89,103,71,174
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Baghaichhari,1,1,1,2
+5,Barkal,0,0,0,0
+6,Belai Chhari,0,0,0,0
+7,Jurai Chhari,0,0,0,0
+8,Kaptai,5,6,6,12
+9,Kawkhali,7,9,2,11
+10,Langadu,0,0,0,0
+11,Naniarchar,0,0,0,0
+12,Rangamati Sadar,74,85,60,145
+13,Rajasthali,2,2,2,4
+14,Total,89,103,71,174

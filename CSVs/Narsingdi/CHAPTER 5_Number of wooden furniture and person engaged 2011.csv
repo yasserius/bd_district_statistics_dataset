@@ -1,15 +1,12 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Belabo,367,712,656,1368
-4,Manohardi,300,300,600,900
-5,Narsingdi Sadar,362,679,1267,1946
-6,Palash,65,90,195,285
-7,Roypura,127,148,250,398
-8,Sibpur,612,2448,1224,3672
-9,Total,1833,4377,4192,8569
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Belabo,367,712,656,1368
+5,Manohardi,300,300,600,900
+6,Narsingdi Sadar,362,679,1267,1946
+7,Palash,65,90,195,285
+8,Roypura,127,148,250,398
+9,Sibpur,612,2448,1224,3672
+10,Total,1833,4377,4192,8569

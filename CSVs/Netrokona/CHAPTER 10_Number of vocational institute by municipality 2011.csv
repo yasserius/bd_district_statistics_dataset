@@ -1,14 +1,15 @@
 ,0,1,2,3
 0,Number of vocational institute by municipality 2011,,,
-1,Upazila,Number of institution,Number of teacher,Number of student
-2,Atpara,0,0,0
-3,Barhatta,0,0,0
-4,Durgapur,1,10,249
-5,Kalmakanda,0,0,0
-6,Kendua,0,0,0
-7,Khaliajuri,0,0,0
-8,Madan,1,15,315
-9,Mohanganj,0,0,0
-10,Netrokona Sadar,1,22,1100
-11,Purbadhala,0,0,0
-12,Total,3,47,1664
+1,,,,
+2,Upazila,Number of institution,Number of teacher,Number of student
+3,Atpara,0,0,0
+4,Barhatta,0,0,0
+5,Durgapur,1,10,249
+6,Kalmakanda,0,0,0
+7,Kendua,0,0,0
+8,Khaliajuri,0,0,0
+9,Madan,1,15,315
+10,Mohanganj,0,0,0
+11,Netrokona Sadar,1,22,1100
+12,Purbadhala,0,0,0
+13,Total,3,47,1664

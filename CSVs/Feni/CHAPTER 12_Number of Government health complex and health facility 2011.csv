@@ -1,43 +1,13 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Government health complex and health facility 2011,,,,,,,,,,
-1,"
-
-Upazila","Number of  hospital/ clinic/ nursing
-home","
-Number of bed","
-Number of  doctor","
-Number of nurse","
-Number of technician","
-Number of
-other staff","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility"
-2,"
-
-Upazila","Number of  hospital/ clinic/ nursing
-home","
-Number of bed","
-Number of  doctor","
-Number of nurse","
-Number of technician","
-Number of
-other staff",Indoor,Indoor,Outdoor,Outdoor
-3,"
-
-Upazila","Number of  hospital/ clinic/ nursing
-home","
-Number of bed","
-Number of  doctor","
-Number of nurse","
-Number of technician","
-Number of
-other staff",Male,Female,Male,Female
-4,Chhagalnaiya,1,50,21,16,11,36,1586,5280,27204,38912
-5,Daganbhuiyan,1,31,10,7,7,80,2225,3334,23059,3460
-6,Feni Sadar,1,250,40,42,7,101,10881,13300,75229,91948
-7,Fulgazi,1,31,9,4,4,47,3720,3580,21600,327100
-8,Parshuram,3,50,13,8,4,45,1874,5167,22039,34455
-9,Sonagazi,1,31,7,5,1,158,7128,10187,30979,39209
-10,Total,8,443,100,82,34,467,27414,40848,200110,535084
+1,,,,,,,,,,,
+2,  Upazila,Number of  hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of technician, Number of other staff,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility
+3,  Upazila,Number of  hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of technician, Number of other staff,Indoor,Indoor,Outdoor,Outdoor
+4,  Upazila,Number of  hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of technician, Number of other staff,Male,Female,Male,Female
+5,Chhagalnaiya,1,50,21,16,11,36,1586,5280,27204,38912
+6,Daganbhuiyan,1,31,10,7,7,80,2225,3334,23059,3460
+7,Feni Sadar,1,250,40,42,7,101,10881,13300,75229,91948
+8,Fulgazi,1,31,9,4,4,47,3720,3580,21600,327100
+9,Parshuram,3,50,13,8,4,45,1874,5167,22039,34455
+10,Sonagazi,1,31,7,5,1,158,7128,10187,30979,39209
+11,Total,8,443,100,82,34,467,27414,40848,200110,535084

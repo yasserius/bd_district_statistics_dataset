@@ -1,9 +1,9 @@
 ,0,1,2,3,4,5,6
 0,"Number of municipality, union, mauza, mahalla and village 2011",,,,,,
-1,Upazila,Municipality,"Ward
-(PSA)",Mahalla,Union,Mauza,Village
-2,Kalkini,1,9,38,14,160,171
-3,Madaripur Sadar,1,9,34,15,159,185
-4,Rajoir,0,0,0,11,95,187
-5,Shibchar,1,9,17,19,108,519
-6,Total,3,27,89,59,522,1062
+1,,,,,,,
+2,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
+3,Kalkini,1,9,38,14,160,171
+4,Madaripur Sadar,1,9,34,15,159,185
+5,Rajoir,0,0,0,11,95,187
+6,Shibchar,1,9,17,19,108,519
+7,Total,3,27,89,59,522,1062

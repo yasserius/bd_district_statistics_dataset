@@ -1,15 +1,14 @@
 ,0,1,2,3,4,5
 0,Number of religious institution 2011,,,,,
-1,Upazila,Mosque,Eid-Gah,"Temple
-(Mandir)","Church
-(Girza)",Others
-2,Akhaura,178,95,0,0,0
-3,Ashuganj,241,35,14,0,0
-4,Banchharampur,528,112,4,0,0
-5,Bijoynagar,205,40,12,0,0
-6,Brahmanbaria Sadar,175,125,25,1,0
-7,Kasba,501,109,6,0,0
-8,Nabinagar,592,201,0,0,29
-9,Nasirnagar,340,37,39,0,0
-10,Sarail,232,26,5,0,0
-11,Total,2992,780,105,1,29
+1,,,,,,
+2,Upazila,Mosque,Eid-Gah,Temple (Mandir),Church (Girza),Others
+3,Akhaura,178,95,0,0,0
+4,Ashuganj,241,35,14,0,0
+5,Banchharampur,528,112,4,0,0
+6,Bijoynagar,205,40,12,0,0
+7,Brahmanbaria Sadar,175,125,25,1,0
+8,Kasba,501,109,6,0,0
+9,Nabinagar,592,201,0,0,29
+10,Nasirnagar,340,37,39,0,0
+11,Sarail,232,26,5,0,0
+12,Total,2992,780,105,1,29

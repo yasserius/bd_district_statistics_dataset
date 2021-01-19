@@ -1,10 +1,8 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of mango, litchi and blackberry 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Mango,Mango,Litchi,Litchi,Blackberry,Blackberry
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
+2, Upazila,Mango,Mango,Litchi,Litchi,Blackberry,Blackberry
+3, Upazila,Area,Production,Area,Production,Area,Production
 4,Chandpur Sadar,23,54,5,7,8,13
 5,Foridganj,330,550,315,2,31,22
 6,Haimchar,3,1185,0,0,2,96

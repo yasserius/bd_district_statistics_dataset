@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of bamboo and cane industry and person engaged 2011,,,,
-1,"
-Upazila","
-Units",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Units",Family,Hired,Total
+1,,,,,
+2,Upazila,Units,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Akhaura,50,125,0,125
 4,Ashuganj,11,33,0,33
 5,Banchharampur,29,62,0,62

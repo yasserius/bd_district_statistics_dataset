@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
 1,(Kilometer),,,,
-2,Upazila,Metalled road,"Semi metalled
-road","Unmetalled
-(kacha) road",Total
+2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
 3,Dimla,139.00,10.00,656.12,705.00
 4,Domar,109.11,0,560.10,564.67
 5,Jaldhaka,169.49,0,563.46,613.88

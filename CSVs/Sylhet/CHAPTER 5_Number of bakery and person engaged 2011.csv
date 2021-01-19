@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,"
-Upazila/City corporation","
-Units",Person engaged,Person engaged,Person engaged
-2,"
-Upazila/City corporation","
-Units",Family,Hired,Total
+1,,,,,
+2,Upazila/City corporation,Units,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Balaganj,4,6,22,28
 4,Beanibazar,2,4,8,12
 5,Bishwanath,5,7,35,42

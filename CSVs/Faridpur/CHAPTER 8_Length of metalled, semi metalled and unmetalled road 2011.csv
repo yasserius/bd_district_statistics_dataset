@@ -1,8 +1,7 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
 1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,"Unmetalled
-(kacha) road",Total
+2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
 3,Alfadanga,95,19,271,385
 4,Bhanga,69,80,319,468
 5,Boalmari,120,25,360,505

@@ -1,18 +1,12 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Sonali and Janata bank 2011,,,,,,,,,,
-1,"
-Upazila",Sonali bank,Sonali bank,Sonali bank,Sonali bank,Sonali bank,Janata bank,Janata bank,Janata bank,Janata bank,Janata bank
-2,"
-Upazila","Number of
-branch",Account,Account,Account,Account,"Number of
-branch",Account,Account,Account,Account
-3,"
-Upazila","Number of
-branch",S.D,C.D,F.D,S.T.D,"Number of
-branch",S.D,C.D,F.D,S.T.D
-4,Amtali,1,0,0,163,67,1,0,341,60,58
-5,Bamna,1,657,0,163,31,0,0,0,0,0
-6,Barguna Sadar,1,11515,988,187,57,2,6420,790,70,66
-7,Betagi,1,3235,9,153,49,0,0,0,0,0
-8,Patharghata,1,9833,726,319,27,0,0,0,0,0
-9,Total,5,25240,833,985,231,3,6420,1131,130,124
+1,,,,,,,,,,,
+2, Upazila,Sonali bank,Sonali bank,Sonali bank,Sonali bank,Sonali bank,Janata bank,Janata bank,Janata bank,Janata bank,Janata bank
+3, Upazila,Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
+4, Upazila,Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
+5,Amtali,1,0,0,163,67,1,0,341,60,58
+6,Bamna,1,657,0,163,31,0,0,0,0,0
+7,Barguna Sadar,1,11515,988,187,57,2,6420,790,70,66
+8,Betagi,1,3235,9,153,49,0,0,0,0,0
+9,Patharghata,1,9833,726,319,27,0,0,0,0,0
+10,Total,5,25240,833,985,231,3,6420,1131,130,124

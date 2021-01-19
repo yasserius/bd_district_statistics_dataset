@@ -1,16 +1,13 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,"
-Upazila","
-Household",Population (000),Population (000),Population (000),Sex ratio (M/F),Average size of household,Density per sq. km.
-2,"
-Upazila","
-Household",Male,Female,Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
-3,Fulchhari,40489,83,83,165,100,4.08,526
-4,Gaibandha Sadar,109628,214,223,437,96,3.96,1349
-5,Gobindaganj,132572,256,259,515,99,3.88,1118
-6,Palashbari,63307,120,125,245,96,3.87,1321
-7,Sadullapur,75235,140,147,287,96,3.82,1249
-8,Saghata,68954,131,137,268,95,3.88,1159
-9,Sundarganj,122098,226,236,462,96,3.77,1249
-10,Total,612283,1169,1210,2379,97,3.88,1125
+1,,,,,,,,
+2, Upazila, Household,Population (000),Population (000),Population (000),Sex ratio (M/F),Average size of household,Density per sq. km.
+3, Upazila, Household,Male,Female,Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
+4,Fulchhari,40489,83,83,165,100,4.08,526
+5,Gaibandha Sadar,109628,214,223,437,96,3.96,1349
+6,Gobindaganj,132572,256,259,515,99,3.88,1118
+7,Palashbari,63307,120,125,245,96,3.87,1321
+8,Sadullapur,75235,140,147,287,96,3.82,1249
+9,Saghata,68954,131,137,268,95,3.88,1159
+10,Sundarganj,122098,226,236,462,96,3.77,1249
+11,Total,612283,1169,1210,2379,97,3.88,1125

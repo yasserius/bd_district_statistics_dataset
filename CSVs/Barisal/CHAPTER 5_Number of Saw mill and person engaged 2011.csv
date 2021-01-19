@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Number of Saw mill and person engaged 2011,,,,
-1,"
-Upazila/city corporation",Number of unit,Person engaged,Person engaged,Person engaged
-2,"
-Upazila/city corporation",Number of unit,Family,Hired,Total
+1,,,,,
+2,Upazila/city corporation,Number of unit,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Agailjhara,18,18,54,72
 4,Babuganj,42,31,137,168
 5,Bakerganj,68,68,272,340

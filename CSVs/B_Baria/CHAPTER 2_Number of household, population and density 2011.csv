@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,"
-Upazila","
-Household",Population (000),Population (000),Population (000),Sex ratio (M/F),Average size of household,Density per sq. km.
-2,"
-Upazila","
-Household",Male,Female,Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
+1,,,,,,,,
+2,Upazila,Household,Population (000) Male,Population (000) Female,Population (000) Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
 3,Akhaura,27831,70,75,145,93,5.21,1481
 4,Ashuganj,33552,88,92,180,96,5.37,2673
 5,Banchharampur,59699,139,159,298,87,4.99,1593

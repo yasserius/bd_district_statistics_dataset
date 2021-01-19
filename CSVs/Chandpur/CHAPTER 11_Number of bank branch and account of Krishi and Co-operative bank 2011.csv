@@ -1,21 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of bank branch and account of Krishi and Co-operative bank 2011,,,,,,,,,,
-1,"
-Upazila",Krishi bank,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank
-2,"
-Upazila","Number
-of branch",Account,Account,Account,Account,"Number
-of branch",Account,Account,Account,Account
-3,"
-Upazila","Number
-of branch",S.D,C.D,F.D,S.T.D,"Number
-of branch",S.D,C.D,F.D,S.T.D
-4,Chandpur Sadar,5,24894,291,321,35,1,0,0,0,0
-5,Foridganj,4,8375,37,101,25,0,0,0,0,0
-6,Haimchar,2,18197,68,175,15,0,0,0,0,0
-7,Hajiganj,3,30790,448,299,9,0,0,0,0,0
-8,Kachua,3,12838,115,85,13,0,0,0,0,0
-9,Matlab Dakshin,3,16438,93,215,7,0,0,0,0,0
-10,Matlab Uttar,3,13511,105,221,10,0,0,0,0,0
-11,Shahrasti,3,11907,158,270,8,0,0,0,0,0
-12,Total,26,136950,1315,1687,122,1,0,0,0,0
+1,,,,,,,,,,,
+2, Upazila,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank
+3, Upazila,Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
+4, Upazila,Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
+5,Chandpur Sadar,5,24894,291,321,35,1,0,0,0,0
+6,Foridganj,4,8375,37,101,25,0,0,0,0,0
+7,Haimchar,2,18197,68,175,15,0,0,0,0,0
+8,Hajiganj,3,30790,448,299,9,0,0,0,0,0
+9,Kachua,3,12838,115,85,13,0,0,0,0,0
+10,Matlab Dakshin,3,16438,93,215,7,0,0,0,0,0
+11,Matlab Uttar,3,13511,105,221,10,0,0,0,0,0
+12,Shahrasti,3,11907,158,270,8,0,0,0,0,0
+13,Total,26,136950,1315,1687,122,1,0,0,0,0

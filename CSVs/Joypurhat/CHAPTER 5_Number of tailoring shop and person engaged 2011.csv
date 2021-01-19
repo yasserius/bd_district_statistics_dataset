@@ -1,14 +1,11 @@
 ,0,1,2,3,4
 0,Number of tailoring shop and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Akkelpur,119,119,422,541
-4,Joypurhat sadar,1045,1195,322,1517
-5,Kalai,32,32,43,75
-6,Khetlal,251,251,189,440
-7,Panchbibi,47,47,105,152
-8,Total,1494,1644,1081,2725
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Akkelpur,119,119,422,541
+5,Joypurhat sadar,1045,1195,322,1517
+6,Kalai,32,32,43,75
+7,Khetlal,251,251,189,440
+8,Panchbibi,47,47,105,152
+9,Total,1494,1644,1081,2725

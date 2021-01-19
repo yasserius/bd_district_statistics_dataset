@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Number of textile industry 2011,,,,,,
-1,"
-Upazila/city corporation",Number of mill,Installed capacity,Installed capacity,Person engaged,Person engaged,Person engaged
-2,"
-Upazila/city corporation",Number of mill,Spindles,Looms,Male,Female,Total
+1,,,,,,,
+2,Upazila/city corporation,Number of mill,Installed capacity Spindles,Installed capacity Looms,Person engaged Male,Person engaged Female,Person engaged Total
 3,Bagha,0,0,0,0,0,0
 4,Baghmara,0,0,0,0,0,0
 5,Charghat,0,0,0,0,0,0

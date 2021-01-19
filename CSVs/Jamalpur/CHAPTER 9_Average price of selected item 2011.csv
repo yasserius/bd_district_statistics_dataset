@@ -1,12 +1,7 @@
 ,0,1,2,3,4,5,6,7
 0,Average price of selected item 2011,,,,,,,
 1,"(Price unit per kg, taka)",,,,,,,
-2,Upazila,"Fine rice
-(minicate)","Medium
-rice","Coarse rice
-(normal)",Wheat,"Coarse flour
-(Aata)",Potato,"Soyabean
-oil"
+2,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
 3,Bakshiganj,35,31,29,18,27,10,125
 4,Dewanganj,40,32,28,15,17,10,125
 5,Islampur,45,32,28,35,40,15,100

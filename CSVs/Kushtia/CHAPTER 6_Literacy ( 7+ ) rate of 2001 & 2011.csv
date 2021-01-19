@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Literacy ( 7+ ) rate of 2001 & 2011,,,,,,
-1,"
-Upazila",2001,2001,2001,2011,2011,2011
-2,"
-Upazila",Male,Female,Both,Male,Female,Both
+1,,,,,,,
+2,Upazila,2001 Male,2001 Female,2001 Both,2011 Male,2011 Female,2011 Both
 3,Kushtia Sadar,51.8,44.6,48.4,56.2,51.5,53.9
 4,Bheramara,44.6,40.3,42.5,48.7,48.7,48.7
 5,Daulatpur,38.7,32.3,35.6,42.9,39.7,41.3

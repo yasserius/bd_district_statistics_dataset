@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5
 0,"Number of hat-bazar, growth centre, hotel & restaurant 2011",,,,,
-1,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
-2,Belkuchi,35,22,3,280,2
-3,Chauhali,19,17,4,32,9
-4,Kamarkhanda,14,15,2,51,0
-5,Kazipur,14,46,26,111,0
-6,Royganj,33,19,4,27,4
-7,Shahjadpur,40,24,21,33,5
-8,Sirajganj Sadar,23,13,10,11,15
-9,Tarash,20,10,4,7,0
-10,Ullahpara,44,18,8,46,1
-11,Total,242,184,82,598,36
+1,,,,,,
+2,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
+3,Belkuchi,35,22,3,280,2
+4,Chauhali,19,17,4,32,9
+5,Kamarkhanda,14,15,2,51,0
+6,Kazipur,14,46,26,111,0
+7,Royganj,33,19,4,27,4
+8,Shahjadpur,40,24,21,33,5
+9,Sirajganj Sadar,23,13,10,11,15
+10,Tarash,20,10,4,7,0
+11,Ullahpara,44,18,8,46,1
+12,Total,242,184,82,598,36

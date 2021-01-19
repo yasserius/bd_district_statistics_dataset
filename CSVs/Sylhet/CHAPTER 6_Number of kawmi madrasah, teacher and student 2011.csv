@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kawmi madrasah, teacher and student 2011",,,,,,,,
-1,Upazila/City corporation,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of Student,Number of Student,Number of Student,"Students per
-teacher"
-2,Upazila/City corporation,Number of madrasah,Male,Female,Total,Male,Female,Total,"Students per
-teacher"
+1,,,,,,,,,
+2,Upazila/City corporation,Number of madrasah,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of Student Male,Number of Student Female,Number of Student Total,Students per teacher
 3,Balaganj,51,288,42,330,10075,2275,12350,37
 4,Beanibazar,35,250,50,300,7000,1500,8500,28
 5,Bishwanath,3,29,0,29,678,0,678,23

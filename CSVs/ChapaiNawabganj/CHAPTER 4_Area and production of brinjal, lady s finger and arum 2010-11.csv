@@ -1,19 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of brinjal, lady s finger and arum 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Brinjal,Brinjal,Lady’s finger,Lady’s finger,Arum,Arum
-3,Upazila,Area,Production,Area,Production,Area,Production
-4,Bholahat,419,2832,70,127,43,105
-5,Chapai Nawabganj Sadar,268,748,77,123,44,123
-6,Gomastapur,310,989,61,136,50,182
-7,Nachole,56,140,19,10,30,60
-8,Shibganj,421,2079,62,44,0,0
-9,Total,1474,6788,289,440,167,470
-10,Upazila,Brinjal,Brinjal,Lady’s finger,Lady’s finger,Arum,Arum
-11,Upazila,Area,Production,Area,Production,Area,Production
-12,Bholahat,404,2732,69,125,43,103
-13,Chapai Nawabganj Sadar,268,697,82,131,41,114
-14,Gomastapur,321,1034,64,143,53,194
-15,Nachole,53,132,18,10,31,65
-16,Shibganj,435,2154,61,43,0,0
-17,Total,1481,6749,294,452,168,476
+2,Upazila Upazila Bholahat Chapai Nawabganj Sadar Gomastapur Nachole Shibganj Total,Brinjal Area 419 268 310 56 421 1474,Brinjal Production 2832 748 989 140 2079 6788,Lady’s finger Area 70 77 61 19 62 289,Lady’s finger Production 127 123 136 10 44 440,Arum Area 43 44 50 30 0 167,Arum Production 105 123 182 60 0 470
+3,Upazila,Brinjal,Brinjal,Lady’s finger,Lady’s finger,Arum,Arum
+4,Upazila,Area,Production,Area,Production,Area,Production
+5,Bholahat,404,2732,69,125,43,103
+6,Chapai Nawabganj Sadar,268,697,82,131,41,114
+7,Gomastapur,321,1034,64,143,53,194
+8,Nachole,53,132,18,10,31,65
+9,Shibganj,435,2154,61,43,0,0
+10,Total,1481,6749,294,452,168,476

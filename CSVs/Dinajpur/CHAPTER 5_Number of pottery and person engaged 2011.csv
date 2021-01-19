@@ -1,22 +1,19 @@
 ,0,1,2,3,4
 0,Number of pottery and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Biral,22,57,18,75
-4,Birampur,24,100,10,110
-5,Birganj,51,135,0,135
-6,Bochaganj,24,80,0,80
-7,Chirirbandar,2,8,0,8
-8,Dinajpur Sadar,44,150,0,150
-9,Fulbari,18,36,0,36
-10,Ghoraghat,34,77,12,89
-11,Hakimpur,3,6,0,6
-12,Kaharole,138,970,0,970
-13,Khansama,20,40,10,50
-14,Nawabganj,200,550,0,550
-15,Parbatipur,83,249,0,249
-16,Total,663,2458,50,2508
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Biral,22,57,18,75
+5,Birampur,24,100,10,110
+6,Birganj,51,135,0,135
+7,Bochaganj,24,80,0,80
+8,Chirirbandar,2,8,0,8
+9,Dinajpur Sadar,44,150,0,150
+10,Fulbari,18,36,0,36
+11,Ghoraghat,34,77,12,89
+12,Hakimpur,3,6,0,6
+13,Kaharole,138,970,0,970
+14,Khansama,20,40,10,50
+15,Nawabganj,200,550,0,550
+16,Parbatipur,83,249,0,249
+17,Total,663,2458,50,2508

@@ -1,16 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Number of Government office, post office, bank, NGO and dak-banglow, rest house 2011",,,,,,
-1,"
-Upazila",All   Government offices,"
-Post office","All   nationalized
-bank branches",All private bank branches,"
-All NGOs","
-Dak-banglow/ rest house"
-2,Bhandaria,29,1,3,2,15,3
-3,Kawkhali,32,19,3,1,7,1
-4,Mathbaria,38,27,9,2,10,1
-5,Nazirpur,25,19,5,1,20,1
-6,Nesarabad,26,22,4,8,12,2
-7,Pirojpur Sadar,46,12,12,4,36,3
-8,Zianagar,22,3,6,0,10,1
-9,Total,218,103,42,18,110,12
+1,,,,,,,
+2, Upazila,All   Government offices, Post office,All   nationalized bank branches,All private bank branches, All NGOs, Dak-banglow/ rest house
+3,Bhandaria,29,1,3,2,15,3
+4,Kawkhali,32,19,3,1,7,1
+5,Mathbaria,38,27,9,2,10,1
+6,Nazirpur,25,19,5,1,20,1
+7,Nesarabad,26,22,4,8,12,2
+8,Pirojpur Sadar,46,12,12,4,36,3
+9,Zianagar,22,3,6,0,10,1
+10,Total,218,103,42,18,110,12

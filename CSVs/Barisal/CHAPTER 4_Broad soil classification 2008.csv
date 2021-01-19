@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Broad soil classification 2008,,,,,,
-1,"
-Upazila/city corporation","
-Total",Soil classification,Soil classification,Soil classification,Soil classification,Soil classification
-2,"
-Upazila/city corporation","
-Total",Doash,Bele,Etel,Kankar,Others
+1,,,,,,,
+2,Upazila/city corporation,Total,Soil classification Doash,Soil classification Bele,Soil classification Etel,Soil classification Kankar,Soil classification Others
 3,Agailjhara,30257,3962,0,3991,19834,0
 4,Babuganj,27525,570,11620,9525,0,5810
 5,Bakerganj,96861,58116,38745,0,0,0

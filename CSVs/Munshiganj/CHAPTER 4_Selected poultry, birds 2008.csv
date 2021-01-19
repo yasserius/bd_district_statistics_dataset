@@ -1,10 +1,7 @@
 ,0,1,2,3,4,5,6
 0,"Selected poultry, birds 2008",,,,,,
-1,"
-Upazila",Hen and cock,Hen and cock,Duck,Duck,Others,Others
-2,"
-Upazila",Holding re rtin,Total number,"Holding
-re  rtin",Total number,Holding re rtin,Total number
+1,,,,,,,
+2,Upazila,Hen and cock Holding re rtin,Hen and cock Total number,Duck Holding re rtin,Duck Total number,Others Holding re rtin,Others Total number
 3,Gazaria,14401,86982,4449,24863,954,7792
 4,Lauhajang,10297,51232,6192,26301,577,5480
 5,Munshiganj Sadar,17590,91755,6504,27500,823,8374

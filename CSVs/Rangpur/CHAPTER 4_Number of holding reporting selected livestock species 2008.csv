@@ -1,18 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting selected livestock species 2008,,,,,,
-1,"
-Upazila",Cows & Buffalo,Cows & Buffalo,Goat,Goat,Sheep,Sheep
-2,"
-Upazila","Holding
-/farm number",Animal number,"Holding/ farm
-number",Goats number,"Holding/ farm
-number",Sheep number
-3,Badarganj,41253,104858,23049,55746,1437,4756
-4,Gangachara,29473,72702,20802,48502,977,3426
-5,Kaunia,18648,42864,11798,26832,651,1982
-6,Mithapukur,73750,18057,42616,107995,2471,7310
-7,Pirgachha,45402,102847,24253,55496,1765,5020
-8,Pirganj,62495,158113,28822,64974,3584,9767
-9,Rangpur sadar,50432,120255,31250,71974,635,2369
-10,Taraganj,14843,35664,9459,21644,345,1083
-11,Total,336296,655360,192049,453163,11865,35713
+1,,,,,,,
+2, Upazila,Cows & Buffalo,Cows & Buffalo,Goat,Goat,Sheep,Sheep
+3, Upazila,Holding /farm number,Animal number,Holding/ farm number,Goats number,Holding/ farm number,Sheep number
+4,Badarganj,41253,104858,23049,55746,1437,4756
+5,Gangachara,29473,72702,20802,48502,977,3426
+6,Kaunia,18648,42864,11798,26832,651,1982
+7,Mithapukur,73750,18057,42616,107995,2471,7310
+8,Pirgachha,45402,102847,24253,55496,1765,5020
+9,Pirganj,62495,158113,28822,64974,3584,9767
+10,Rangpur sadar,50432,120255,31250,71974,635,2369
+11,Taraganj,14843,35664,9459,21644,345,1083
+12,Total,336296,655360,192049,453163,11865,35713

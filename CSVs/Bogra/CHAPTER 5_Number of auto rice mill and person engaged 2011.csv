@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of auto rice mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Male,Female,Total
+1,,,,,
+2,Upazila,Unit,Person engaged Male,Person engaged Female,Person engaged Total
 3,Adamdighi,3,18,360,378
 4,Bogra sadar,4,16,165,181
 5,Dhunat,4,13,148,161

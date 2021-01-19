@@ -1,13 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Number of textile industry 2011,,,,,,
-1,"
-Upazila","
-Number of mill","Installed capacity
-I	Loom","Total persons engaged
-I  Female   I	Total",,,
-2,"
-Upazila","
-Number of mill",Spindle,Male,,,
+1,,,,,,,
+2,Upazila,Number of mill,Installed capacity ILoom Spindle,Total persons engaged I Female ITotal Male,,,
 3,Gazaria,0,0,0,0,0,0
 4,Lauhajang,0,0,0,0,0,0
 5,Munshiganj Sadar,0,0,0,0,0,0
@@ -15,5 +9,4 @@ Number of mill",Spindle,Male,,,
 7,Sreenagar,0,0,0,0,0,0
 8,Tongibari,1,35,35,0,69,537
 9,Total,1,35,35,0,69,537
-10,,,"
-47",,,,
+10,,, 47,,,,

@@ -1,18 +1,14 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and health personnel 2011,,,,,
-1,Upazila,"Number of
-bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Belkuchi,31,15,11,16,104
-3,Chauhali,31,7,5,0,66
-4,Kamarkhanda,31,10,10,6,75
-5,Kazipur,31,17,10,10,34
-6,Royganj,31,12,10,8,14
-7,Shahjadpur,31,19,9,5,172
-8,Sirajganj Sadar,135,45,67,6,200
-9,Tarash,31,9,10,6,76
-10,Ullahpara,51,7,13,6,230
-11,Total,403,141,145,63,971
+1,,,,,,
+2,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Belkuchi,31,15,11,16,104
+4,Chauhali,31,7,5,0,66
+5,Kamarkhanda,31,10,10,6,75
+6,Kazipur,31,17,10,10,34
+7,Royganj,31,12,10,8,14
+8,Shahjadpur,31,19,9,5,172
+9,Sirajganj Sadar,135,45,67,6,200
+10,Tarash,31,9,10,6,76
+11,Ullahpara,51,7,13,6,230
+12,Total,403,141,145,63,971

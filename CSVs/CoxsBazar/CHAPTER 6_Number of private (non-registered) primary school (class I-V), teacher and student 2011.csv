@@ -1,17 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of private (non-registered) primary school (class I-V), teacher and student 2011",,,,,,,,
-1,"
-Upazila","Number of Non-govt. primary
-school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila","Number of Non-govt. primary
-school",Male,Female,Total,Male,Female,Total,Students per teacher
-3,Chakaria,30,20,30,50,154,1666,3187,64
-4,Cox's Bazar Sadar,8,18,12,30,404,459,863,29
-5,Kutubdia,0,0,0,0,0,0,0,0
-6,Moheshkhali,4,6,10,16,403,495,898,56
-7,Pekua,16,40,10,50,906,1250,2156,43
-8,Ramu,5,8,12,20,402,470,872,44
-9,Teknaf,9,16,18,34,103,1050,2081,61
-10,Ukhia,0,0,0,0,0,0,0,0
-11,Total,56,68,82,150,1466,4140,7901,53
+1,,,,,,,,,
+2, Upazila,Number of Non-govt. primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of Non-govt. primary school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Chakaria,30,20,30,50,154,1666,3187,64
+5,Cox's Bazar Sadar,8,18,12,30,404,459,863,29
+6,Kutubdia,0,0,0,0,0,0,0,0
+7,Moheshkhali,4,6,10,16,403,495,898,56
+8,Pekua,16,40,10,50,906,1250,2156,43
+9,Ramu,5,8,12,20,402,470,872,44
+10,Teknaf,9,16,18,34,103,1050,2081,61
+11,Ukhia,0,0,0,0,0,0,0,0
+12,Total,56,68,82,150,1466,4140,7901,53

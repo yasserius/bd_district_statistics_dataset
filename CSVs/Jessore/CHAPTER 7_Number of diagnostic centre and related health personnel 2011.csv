@@ -1,17 +1,13 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,Upazila,"Number of
-centre","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Abhaynagar,7,5,0,5,7
-3,Bagherpara,1,2,0,2,0
-4,Chaugachha,3,3,0,3,6
-5,Jessore Sadar,22,13,55,127,95
-6,Jhikargachha,2,2,0,2,2
-7,Keshabpur,2,4,6,2,11
-8,Manirampur,1,2,3,3,5
-9,Sharsha,0,0,0,0,0
-10,Total,38,31,64,144,126
+1,,,,,,
+2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Abhaynagar,7,5,0,5,7
+4,Bagherpara,1,2,0,2,0
+5,Chaugachha,3,3,0,3,6
+6,Jessore Sadar,22,13,55,127,95
+7,Jhikargachha,2,2,0,2,2
+8,Keshabpur,2,4,6,2,11
+9,Manirampur,1,2,3,3,5
+10,Sharsha,0,0,0,0,0
+11,Total,38,31,64,144,126

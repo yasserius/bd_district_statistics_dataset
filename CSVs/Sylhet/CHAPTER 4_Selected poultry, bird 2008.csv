@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,"Selected poultry, bird 2008",,,,,,
-1,"
-Upazila/City corporation",Hen and cocks,Hen and cocks,Ducks,Ducks,Others,Others
-2,"
-Upazila/City corporation",Holding reporting,Total number,Holding reporting,Total number,Holding reporting,Total number
+1,,,,,,,
+2,Upazila/City corporation,Hen and cocks Holding reporting,Hen and cocks Total number,Ducks Holding reporting,Ducks Total number,Others Holding reporting,Others Total number
 3,Balaganj,19582,110963,10905,54402,510,1830
 4,Beanibazar,1830,255727,1585,137000,79,75000
 5,Bishwanath,18258,120140,8141,43161,26,82

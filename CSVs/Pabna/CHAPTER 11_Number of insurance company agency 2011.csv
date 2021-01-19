@@ -1,7 +1,7 @@
 ,0,1,2,3
 0,Number of insurance company agency 2011,,,
-1,Upazila,Number of insurance unit,Number of employee,Number of client
-2,1,2,3,4
+1,,,,
+2,Upazila 1,Number of insurance unit 2,Number of employee 3,Number of client 4
 3,Atgharia,2,10,650
 4,Bera,2,8,1225
 5,Bhangura,3,38,3659

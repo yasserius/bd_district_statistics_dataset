@@ -1,14 +1,9 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,Upazila,"Number
-of centre","Number of
-bed","Number of
-doctor","Number of
-nurse","Number of
-Technician","Number of
-other staff"
-2,Alamdanga,8,80,18,7,7,24
-3,Chuadanga Sadar,14,150,32,74,0,60
-4,Damurhuda,10,120,21,46,17,28
-5,Jibonnagar,7,60,7,9,7,38
-6,Total,39,410,78,136,31,150
+1,,,,,,,
+2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of Technician,Number of other staff
+3,Alamdanga,8,80,18,7,7,24
+4,Chuadanga Sadar,14,150,32,74,0,60
+5,Damurhuda,10,120,21,46,17,28
+6,Jibonnagar,7,60,7,9,7,38
+7,Total,39,410,78,136,31,150

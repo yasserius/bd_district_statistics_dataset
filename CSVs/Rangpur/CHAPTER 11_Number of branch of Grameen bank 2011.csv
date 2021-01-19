@@ -1,15 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Number of branch of Grameen bank 2011,,,,,,
-1,"
-Upazila",Number of branch,Number of employee,Number of member,Number of account,"Annual deposit
-(in lac tk.)","Annual credit disbursed
-(in lac tk.)."
-2,Badarganj,7,50,19585,13686,436,1056
-3,Gangachara,2,19,7492,7870,3,4
-4,Kaunia,4,35,242,2430,61,484
-5,Mithapukur,12,102,39253,120721,2013,4245
-6,Pirgachha,7,60,28789,32289,276,541
-7,Pirganj,7,84,34527,38000,336,450
-8,Rangpur sadar,9,61,26087,31547,1451,2447
-9,Taraganj,3,23,12615,12615,1,5
-10,Total,51,434,168590,259158,4577,9232
+1,,,,,,,
+2, Upazila,Number of branch,Number of employee,Number of member,Number of account,Annual deposit (in lac tk.),Annual credit disbursed (in lac tk.).
+3,Badarganj,7,50,19585,13686,436,1056
+4,Gangachara,2,19,7492,7870,3,4
+5,Kaunia,4,35,242,2430,61,484
+6,Mithapukur,12,102,39253,120721,2013,4245
+7,Pirgachha,7,60,28789,32289,276,541
+8,Pirganj,7,84,34527,38000,336,450
+9,Rangpur sadar,9,61,26087,31547,1451,2447
+10,Taraganj,3,23,12615,12615,1,5
+11,Total,51,434,168590,259158,4577,9232

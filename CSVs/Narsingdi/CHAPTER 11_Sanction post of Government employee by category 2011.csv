@@ -1,11 +1,11 @@
 ,0,1,2,3,4,5
 0,Sanction post of Government employee by category 2011,,,,,
-1,Upazila,Class-I,Class-II,Class-III,Class-IV,"Number of
-employee"
-2,Belabo,39,24,212,104,379
-3,Manohardi,56,38,1067,188,1349
-4,Narsingdi Sadar,135,90,1899,436,2560
-5,Palash,41,34,345,119,539
-6,Roypura,56,28,613,173,870
-7,Sibpur,83,28,440,128,679
-8,Total,410,242,4576,1148,6376
+1,,,,,,
+2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
+3,Belabo,39,24,212,104,379
+4,Manohardi,56,38,1067,188,1349
+5,Narsingdi Sadar,135,90,1899,436,2560
+6,Palash,41,34,345,119,539
+7,Roypura,56,28,613,173,870
+8,Sibpur,83,28,440,128,679
+9,Total,410,242,4576,1148,6376

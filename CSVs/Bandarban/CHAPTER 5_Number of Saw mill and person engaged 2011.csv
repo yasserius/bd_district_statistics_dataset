@@ -1,16 +1,13 @@
 ,0,1,2,3,4
 0,Number of Saw mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Alikadam,6,6,30,36
-4,Bandarban Sadar,10,0,30,30
-5,Lama,12,24,62,86
-6,Naikhongchhari,8,0,36,36
-7,Rowangchhari,2,2,8,10
-8,Ruma,2,3,8,11
-9,Thanchi,0,0,0,0
-10,Total,40,35,174,209
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Alikadam,6,6,30,36
+5,Bandarban Sadar,10,0,30,30
+6,Lama,12,24,62,86
+7,Naikhongchhari,8,0,36,36
+8,Rowangchhari,2,2,8,10
+9,Ruma,2,3,8,11
+10,Thanchi,0,0,0,0
+11,Total,40,35,174,209

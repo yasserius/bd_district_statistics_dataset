@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,"Selected poultry, birds 2008",,,,,,
-1,"
-Upazila",Hen and cock,Hen and cock,Duck,Duck,Others,Others
-2,"
-Upazila",Holding reporting,Total number,Holding reporting,Total number,Holding reporting,Total number
+1,,,,,,,
+2,Upazila,Hen and cock Holding reporting,Hen and cock Total number,Duck Holding reporting,Duck Total number,Others Holding reporting,Others Total number
 3,Baliadangi,25317,202536,2198,10990,3208,12832
 4,Haripur,15292,278840,2543,84980,40,6500
 5,Pirgonj,28150,112600,9883,6084,322,1050

@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Number of bridge, baily bridge, culvert, pool, shako and others 2011",,,,,,
-1,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
-2,Aditmari,9,0,21,26,31,0
-3,Hatibandha,39,0,617,39,15,0
-4,Kaligonj,30,3,530,300,50,0
-5,Lalmonirhat Sadar,3,0,538,0,0,0
-6,Patgram,19,2,469,0,0,0
-7,Total,100,5,2175,365,96,0
+1,,,,,,,
+2,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
+3,Aditmari,9,0,21,26,31,0
+4,Hatibandha,39,0,617,39,15,0
+5,Kaligonj,30,3,530,300,50,0
+6,Lalmonirhat Sadar,3,0,538,0,0,0
+7,Patgram,19,2,469,0,0,0
+8,Total,100,5,2175,365,96,0

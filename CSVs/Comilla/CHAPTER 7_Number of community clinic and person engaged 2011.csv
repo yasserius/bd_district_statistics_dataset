@@ -1,26 +1,21 @@
 ,0,1,2,3,4,5,6
 0,Number of community clinic and person engaged 2011,,,,,,
-1,Upazila,"Number of
-clinic","Number of
-health asst.","Number of
-FPI","Number of
-FWV","Number of
-FWA","Number of
-other staff"
-2,Adarsha Sadar,27,16,6,9,40,26
-3,Barura,43,34,0,0,0,39
-4,Brahmanpara,20,20,8,8,44,0
-5,Burichang,20,20,8,8,45,0
-6,Chandina,10,10,6,10,63,22
-7,Chauddagram,14,14,0,0,0,14
-8,Comilla Sadar Dakshin,9,65,12,3,3,0
-9,Daudkandi,33,17,12,14,66,5
-10,Debidwar,130,120,10,45,15,0
-11,Homna,15,15,0,0,15,0
-12,Laksam,10,21,6,7,38,14
-13,Monoharganj,5,33,6,7,40,0
-14,Meghna,5,10,6,3,22,8
-15,Muradnagar,52,62,17,16,106,45
-16,Nangalkot,42,27,8,5,54,81
-17,Titas,16,0,6,4,0,0
-18,Total,451,484,111,139,551,254
+1,,,,,,,
+2,Upazila,Number of clinic,Number of health asst.,Number of FPI,Number of FWV,Number of FWA,Number of other staff
+3,Adarsha Sadar,27,16,6,9,40,26
+4,Barura,43,34,0,0,0,39
+5,Brahmanpara,20,20,8,8,44,0
+6,Burichang,20,20,8,8,45,0
+7,Chandina,10,10,6,10,63,22
+8,Chauddagram,14,14,0,0,0,14
+9,Comilla Sadar Dakshin,9,65,12,3,3,0
+10,Daudkandi,33,17,12,14,66,5
+11,Debidwar,130,120,10,45,15,0
+12,Homna,15,15,0,0,15,0
+13,Laksam,10,21,6,7,38,14
+14,Monoharganj,5,33,6,7,40,0
+15,Meghna,5,10,6,3,22,8
+16,Muradnagar,52,62,17,16,106,45
+17,Nangalkot,42,27,8,5,54,81
+18,Titas,16,0,6,4,0,0
+19,Total,451,484,111,139,551,254

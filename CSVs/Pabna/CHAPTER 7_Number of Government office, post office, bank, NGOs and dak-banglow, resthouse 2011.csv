@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6
 0,"Number of Government office, post office, bank, NGOs and dak-banglow, resthouse 2011",,,,,,
-1,"
-Upazila",Government office,"
-Post office",Nationalize Bank branch,"Private Bank
-branch","NGO
-branch",Dak-banglow/ Rest house
-2,1,2,3,4,5,6,7
+1,,,,,,,
+2,Upazila 1,Government office 2,Post office 3,Nationalize Bank branch 4,Private Bank branch 5,NGO branch 6,Dak-banglow/ Rest house 7
 3,Atgharia,25,9,5,0,5,1
 4,Bera,28,13,8,1,6,3
 5,Bhangura,26,11,3,1,4,2

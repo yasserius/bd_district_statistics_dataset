@@ -1,32 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9
 0,Number of Non-government health complex and health facility 2011,,,,,,,,,
-1,"
-Upazila","Number of hospital/ clinic/ nursing
-home","
-Number of bed","
-Number of doctor","
-Number of nurse","
-Number of other staff",Number of patient under health facility,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility
-2,"
-Upazila","Number of hospital/ clinic/ nursing
-home","
-Number of bed","
-Number of doctor","
-Number of nurse","
-Number of other staff",Indoor,Indoor,Outdoor,Outdoor
-3,"
-Upazila","Number of hospital/ clinic/ nursing
-home","
-Number of bed","
-Number of doctor","
-Number of nurse","
-Number of other staff",Male,Female,Male,Female
-4,Chandpur Sadar,19,263,41,123,33,372,3878,7352,24370
-5,Foridganj,2,7,3,3,3,7,40,60,40
-6,Haimchar,0,0,0,0,0,0,0,0,0
-7,Hajiganj,9,76,15,41,33,171,1800,9000,35000
-8,Kachua,1,10,2,3,1,7,80,300,139
-9,Matlab Dakshin,3,160,17,41,4,70,9357,12542,4644
-10,Matlab uttar,0,0,0,0,0,0,0,0,0
-11,Shahrasti,0,0,0,0,0,0,0,0,0
-12,Total,34,516,78,211,74,627,15155,29254,64193
+1,,,,,,,,,,
+2, Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of other staff,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility
+3, Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of other staff,Indoor,Indoor,Outdoor,Outdoor
+4, Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of other staff,Male,Female,Male,Female
+5,Chandpur Sadar,19,263,41,123,33,372,3878,7352,24370
+6,Foridganj,2,7,3,3,3,7,40,60,40
+7,Haimchar,0,0,0,0,0,0,0,0,0
+8,Hajiganj,9,76,15,41,33,171,1800,9000,35000
+9,Kachua,1,10,2,3,1,7,80,300,139
+10,Matlab Dakshin,3,160,17,41,4,70,9357,12542,4644
+11,Matlab uttar,0,0,0,0,0,0,0,0,0
+12,Shahrasti,0,0,0,0,0,0,0,0,0
+13,Total,34,516,78,211,74,627,15155,29254,64193

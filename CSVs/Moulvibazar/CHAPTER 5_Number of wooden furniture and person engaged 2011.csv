@@ -1,16 +1,13 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Barlekha,48,26,278,304
-4,Juri,55,60,220,280
-5,Kamalganj,75,125,340,365
-6,Kulaura,80,160,240,400
-7,Moulvibazar Sadar,106,56,208,364
-8,Rajnagar,55,35,182,217
-9,Sreemangal,46,44,104,148
-10,Total,465,506,1572,2078
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Barlekha,48,26,278,304
+5,Juri,55,60,220,280
+6,Kamalganj,75,125,340,365
+7,Kulaura,80,160,240,400
+8,Moulvibazar Sadar,106,56,208,364
+9,Rajnagar,55,35,182,217
+10,Sreemangal,46,44,104,148
+11,Total,465,506,1572,2078

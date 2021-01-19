@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
-2,Upazila,2010-11,2010-11,2009-10,2009-10
-3,Upazila,Number,Production,Number,Production
-4,Belkuchi,540,4471,511,4
-5,Chauhali,635,4,635,4
-6,Kamarkhanda,1125,1101,1123,1100
-7,Kazipur,3000,900,2664,793
-8,Royganj,800,3641,800,3600
-9,Shahjadpur,5000,7146,4900,6818
-10,Sirajganj Sadar,8500,7490,7260,3844
-11,Tarash,3250,5550,3250,5945
-12,Ullahpara,1590,8639,1590,7069
-13,Total,24440,38942,22733,29177
+1,,,,,
+2,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
+3,Upazila,2010-11,2010-11,2009-10,2009-10
+4,Upazila,Number,Production,Number,Production
+5,Belkuchi,540,4471,511,4
+6,Chauhali,635,4,635,4
+7,Kamarkhanda,1125,1101,1123,1100
+8,Kazipur,3000,900,2664,793
+9,Royganj,800,3641,800,3600
+10,Shahjadpur,5000,7146,4900,6818
+11,Sirajganj Sadar,8500,7490,7260,3844
+12,Tarash,3250,5550,3250,5945
+13,Ullahpara,1590,8639,1590,7069
+14,Total,24440,38942,22733,29177

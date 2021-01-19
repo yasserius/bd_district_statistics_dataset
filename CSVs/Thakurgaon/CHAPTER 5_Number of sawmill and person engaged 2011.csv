@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of sawmill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
+1,,,,,
+2,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Baliadangi,7,32,23,55
 4,Haripur,21,50,90,140
 5,Pirgonj,30,32,40,72

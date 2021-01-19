@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of rice mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Male,Female,Total
+1,,,,,
+2,Upazila,Unit,Person engaged Male,Person engaged Female,Person engaged Total
 3,Adamdighi,198,995,987,1982
 4,Bogra sadar,88,274,155,429
 5,Dhunat,34,136,102,238

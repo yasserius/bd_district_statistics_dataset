@@ -1,13 +1,11 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,"
-Upazila","
-Number of power tiller","
-Tractor",Number of threshing machine
-2,Harinakunda,620,14,5463
-3,Jhenaidah Sadar,1024,31,9648
-4,Kaliganj,681,14,5720
-5,Kotchandpur,171,11,1737
-6,Mahespur,926,33,4148
-7,Shailkupa,1201,24,7477
-8,Total,4623,127,34193
+1,,,,
+2, Upazila, Number of power tiller, Tractor,Number of threshing machine
+3,Harinakunda,620,14,5463
+4,Jhenaidah Sadar,1024,31,9648
+5,Kaliganj,681,14,5720
+6,Kotchandpur,171,11,1737
+7,Mahespur,926,33,4148
+8,Shailkupa,1201,24,7477
+9,Total,4623,127,34193

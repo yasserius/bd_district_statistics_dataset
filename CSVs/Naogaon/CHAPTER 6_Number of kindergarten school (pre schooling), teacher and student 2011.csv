@@ -1,18 +1,17 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kindergarten school (pre schooling), teacher and student 2011",,,,,,,,
-1,"
-Upazila",Number of kindergarten school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of kindergarten school,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Atrai,11,14,32,46,774,686,1460,32
-4,Badalgachhi,4,12,9,21,282,318,600,29
-5,Dhamoirhat,17,28,47,75,742,975,1717,23
-6,Manda,15,105,25,130,503,579,1082,8
-7,Mahadebpur,12,50,46,96,885,921,1806,19
-8,Naogaon sadar,45,100,170,270,3095,2695,5750,22
-9,Niamatpur,7,13,17,30,402,287,689,23
-10,Patnitala,25,98,77,175,4915,4870,9785,56
-11,Porsha,42,53,5,58,973,917,1928,33
-12,Raninagar,7,10,25,35,511,574,1085,31
-13,Sapahar,2,9,10,19,195,130,325,17
-14,Total,187,492,463,955,13277,12952,26227,27
+1,,,,,,,,,
+2, Upazila,Number of kindergarten school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of kindergarten school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Atrai,11,14,32,46,774,686,1460,32
+5,Badalgachhi,4,12,9,21,282,318,600,29
+6,Dhamoirhat,17,28,47,75,742,975,1717,23
+7,Manda,15,105,25,130,503,579,1082,8
+8,Mahadebpur,12,50,46,96,885,921,1806,19
+9,Naogaon sadar,45,100,170,270,3095,2695,5750,22
+10,Niamatpur,7,13,17,30,402,287,689,23
+11,Patnitala,25,98,77,175,4915,4870,9785,56
+12,Porsha,42,53,5,58,973,917,1928,33
+13,Raninagar,7,10,25,35,511,574,1085,31
+14,Sapahar,2,9,10,19,195,130,325,17
+15,Total,187,492,463,955,13277,12952,26227,27

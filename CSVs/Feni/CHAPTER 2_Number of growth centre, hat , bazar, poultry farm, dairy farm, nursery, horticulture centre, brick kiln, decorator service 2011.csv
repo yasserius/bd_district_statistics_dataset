@@ -1,17 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of growth centre, hat , bazar, poultry farm, dairy farm, nursery, horticulture centre, brick kiln, decorator service 2011",,,,,,,,
-1,Upazila,"Growth
-centre","Hat/
-bazar","Poultry
-farm","Dairy
-farm",Nursery,"Horticulture
-centre","Brick
-kiln","Decorator
-service"
-2,Chhagalnaiya,3,30,129,47,0,0,14,63
-3,Daganbhuiyan,4,27,135,20,1,0,15,63
-4,Feni Sadar,5,32,105,99,50,1,20,45
-5,Fulgazi,5,10,70,43,15,0,7,34
-6,Parshuram,4,12,83,5,7,0,2,34
-7,Sonagazi,7,28,89,75,3,0,4,42
-8,Total,28,139,611,289,76,1,62,281
+1,,,,,,,,,
+2,Upazila,Growth centre,Hat/ bazar,Poultry farm,Dairy farm,Nursery,Horticulture centre,Brick kiln,Decorator service
+3,Chhagalnaiya,3,30,129,47,0,0,14,63
+4,Daganbhuiyan,4,27,135,20,1,0,15,63
+5,Feni Sadar,5,32,105,99,50,1,20,45
+6,Fulgazi,5,10,70,43,15,0,7,34
+7,Parshuram,4,12,83,5,7,0,2,34
+8,Sonagazi,7,28,89,75,3,0,4,42
+9,Total,28,139,611,289,76,1,62,281

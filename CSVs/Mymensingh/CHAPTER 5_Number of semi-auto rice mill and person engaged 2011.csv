@@ -1,21 +1,18 @@
 ,0,1,2,3,4
 0,Number of semi-auto rice mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Male,Female,Total
-3,Bhaluka,15,98,82,180
-4,Dhobaura,0,0,0,0
-5,Fulbaria,0,0,0,0
-6,Gaffargaon,18,90,54,144
-7,Gauripur,0,0,0,0
-8,Haluaghat,2,20,30,50
-9,Ishwargonj,28,140,0,140
-10,Muktagacha,164,702,212,914
-11,Mymensingh Sadar,2,16,8,24
-12,Nandail,0,0,0,0
-13,Phulpur,90,600,300,900
-14,Trishal,35,175,105,280
-15,Total,354,1841,791,2632
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Male,Female,Total
+4,Bhaluka,15,98,82,180
+5,Dhobaura,0,0,0,0
+6,Fulbaria,0,0,0,0
+7,Gaffargaon,18,90,54,144
+8,Gauripur,0,0,0,0
+9,Haluaghat,2,20,30,50
+10,Ishwargonj,28,140,0,140
+11,Muktagacha,164,702,212,914
+12,Mymensingh Sadar,2,16,8,24
+13,Nandail,0,0,0,0
+14,Phulpur,90,600,300,900
+15,Trishal,35,175,105,280
+16,Total,354,1841,791,2632

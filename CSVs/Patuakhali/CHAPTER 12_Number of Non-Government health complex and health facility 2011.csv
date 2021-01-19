@@ -1,38 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Non-Government health complex and health facility 2011,,,,,,,,,,
-1,"
-
-Upazila",Number of hospital/ clinic/ nursing home,"
-Number of bed","
-Number of doctor","
-Number of nurse","
-Number of technician","Number of
-other staff","Number of patient
-under health facilitiy","Number of patient
-under health facilitiy","Number of patient
-under health facilitiy","Number of patient
-under health facilitiy"
-2,"
-
-Upazila",Number of hospital/ clinic/ nursing home,"
-Number of bed","
-Number of doctor","
-Number of nurse","
-Number of technician","Number of
-other staff",Indoor,Indoor,Outdoor,Outdoor
-3,"
-
-Upazila",Number of hospital/ clinic/ nursing home,"
-Number of bed","
-Number of doctor","
-Number of nurse","
-Number of technician","Number of
-other staff",Male,Female,Male,Female
-4,Bauphal,1,12,2,4,3,8,211,180,2920,2210
-5,Dashmina,0,0,0,0,0,0,0,0,0,0
-6,Dumki,0,0,0,0,0,0,0,0,0,0
-7,Galachipa,0,0,0,0,0,0,0,0,0,0
-8,Kalapara,0,0,0,0,0,0,0,0,0,0
-9,Mirzaganj,0,0,0,0,0,0,0,0,0,0
-10,Patuakhali Sadar,18,40,20,44,41,86,8320,11210,28150,32300
-11,Total,19,52,22,48,44,94,8531,11390,31070,34510
+1,,,,,,,,,,,
+2,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of technician,Number of other staff,Number of patient under health facilitiy,Number of patient under health facilitiy,Number of patient under health facilitiy,Number of patient under health facilitiy
+3,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of technician,Number of other staff,Indoor,Indoor,Outdoor,Outdoor
+4,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of technician,Number of other staff,Male,Female,Male,Female
+5,Bauphal,1,12,2,4,3,8,211,180,2920,2210
+6,Dashmina,0,0,0,0,0,0,0,0,0,0
+7,Dumki,0,0,0,0,0,0,0,0,0,0
+8,Galachipa,0,0,0,0,0,0,0,0,0,0
+9,Kalapara,0,0,0,0,0,0,0,0,0,0
+10,Mirzaganj,0,0,0,0,0,0,0,0,0,0
+11,Patuakhali Sadar,18,40,20,44,41,86,8320,11210,28150,32300
+12,Total,19,52,22,48,44,94,8531,11390,31070,34510

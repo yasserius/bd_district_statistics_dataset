@@ -1,11 +1,7 @@
 ,0,1,2,3
 0,Number of deep tube-well scheme 2010-11,,,
-1,"
-Upazila",Number of deep tube-well,"Area irrigated
-(In acre)",
-2,"
-Upazila",Commissioned	I	Operated,"Area irrigated
-(In acre)",
+1,,,,
+2,Upazila,Number of deep tube-well CommissionedIOperated,Area irrigated (In acre),
 3,Gazaria,0,0,0
 4,Lauhajang,4,4,173
 5,Munshiganj Sadar,0,0,0

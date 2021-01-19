@@ -1,12 +1,7 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,"
-Upazila","
-Households",Population(000),Population(000),Population(000),Sex ratio,Average size of      households,Density Per sq. km.
-2,"
-Upazila","
-Households",Male,Female,"Both
-Sex",(M / F),Average size of      households,Density Per sq. km.
+1,,,,,,,,
+2,Upazila,Households,Population(000) Male,Population(000) Female,Population(000) Both Sex,Sex ratio (M / F),Average size of households,Density Per sq. km.
 3,Gangni,77580,148,151,299,98,3.86,823
 4,Mujibnagar,24602,49,50,99,98,4.01,889
 5,Meherpur Sadar,64130,127,129,256,98,3.98,929

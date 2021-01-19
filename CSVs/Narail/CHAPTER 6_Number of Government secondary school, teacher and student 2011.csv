@@ -1,10 +1,9 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Government secondary school, teacher and student 2011",,,,,,,,
-1,"
-Upazila",Number of  school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of  school,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Kalia,0,0,0,0,0,0,0,0
-4,Lohagara,0,0,0,0,0,0,0,0
-5,Narail Sadar,2,30,23,53,730,670,1400,26
-6,Total,2,30,23,53,730,670,1400,26
+1,,,,,,,,,
+2, Upazila,Number of  school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of  school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Kalia,0,0,0,0,0,0,0,0
+5,Lohagara,0,0,0,0,0,0,0,0
+6,Narail Sadar,2,30,23,53,730,670,1400,26
+7,Total,2,30,23,53,730,670,1400,26

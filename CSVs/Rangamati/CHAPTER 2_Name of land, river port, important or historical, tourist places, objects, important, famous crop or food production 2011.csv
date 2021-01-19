@@ -1,36 +1,14 @@
 ,0,1,2,3,4,5
 0,"Name of land, river port, important or historical, tourist places, objects, important, famous crop or food production 2011",,,,,
-1,"
-
-Upazila","
-Name of land/river port","
-Name of Important or historical/tourist place/object","
-Name of important
-/famous crop or food production","Customer care service provider’s
-name of cell phone operator","Distance between district head quarter & upazila by road
-(km)"
-2,Baghaichhari,-,Arjapur,"Zinjar, Tarmaric","Grameenphone &
-Robi",214
-3,Barkal,-,Shobalong Jorna,Banana,Grameenphone,0
-4,Belai Chhari,-,-,"Paddy, Zinjar
-Tarmaric",Grameenphone,0
-5,Jurai Chhari,-,"Shobalong Shaka
-Bonobehar",-,Grameenphone,0
-6,Kaptai,-,Paper Mail,"Paddy, Zinjar
-Tarmaric","Grameenphone &
-Robi",45
-7,Kawkhali,-,Bethbonia,"Paddy, Zinjar Tarmaric",Grameenphone & Robi,36
-8,Langadu,-,-,Paddy,"Grameenphone &
-Robi",147
-9,"
-Naniarchar","
--","Birsrasta Monshe
-Abdur Rouf er Shomadi","
-Pineapple","
-Grameenphone","
-45"
-10,"Rangamati
-Sadar",-,"Pajatan Hanging
-Bdidge",Pineapple,"Grameenphone,
-Robi & Teletalk",3
-11,Rajasthali,-,-,Jack Fruit,Teletalk,90
+1,,,,,,
+2,  Upazila, Name of land/river port, Name of Important or historical/tourist place/object, Name of important /famous crop or food production,Customer care service provider’s name of cell phone operator,Distance between district head quarter & upazila by road (km)
+3,Baghaichhari,-,Arjapur,"Zinjar, Tarmaric",Grameenphone & Robi,214
+4,Barkal,-,Shobalong Jorna,Banana,Grameenphone,0
+5,Belai Chhari,-,-,"Paddy, Zinjar Tarmaric",Grameenphone,0
+6,Jurai Chhari,-,Shobalong Shaka Bonobehar,-,Grameenphone,0
+7,Kaptai,-,Paper Mail,"Paddy, Zinjar Tarmaric",Grameenphone & Robi,45
+8,Kawkhali,-,Bethbonia,"Paddy, Zinjar Tarmaric",Grameenphone & Robi,36
+9,Langadu,-,-,Paddy,Grameenphone & Robi,147
+10, Naniarchar, -,Birsrasta Monshe Abdur Rouf er Shomadi, Pineapple, Grameenphone, 45
+11,Rangamati Sadar,-,Pajatan Hanging Bdidge,Pineapple,"Grameenphone, Robi & Teletalk",3
+12,Rajasthali,-,-,Jack Fruit,Teletalk,90

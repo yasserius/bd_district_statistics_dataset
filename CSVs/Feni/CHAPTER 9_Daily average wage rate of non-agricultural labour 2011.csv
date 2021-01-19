@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,Daily average wage rate of non-agricultural labour 2011,,,,,
-1,(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka)
-2,Upazila,Porter (coolee),Garden labour male,Garden female labour,Other labour (Adult),Other labour (Child)
-3,Chhagalnaiya,325,0,0,0,0
-4,Daganbhuiyan,300,0,0,0,0
-5,Feni Sadar,300,0,0,300,150
-6,Fulgazi,250,0,0,250,150
-7,Parshuram,250,200,0,250,120
-8,Sonagazi,250,0,0,0,0
-9,Average,279,200,0,267,140
+1,,,,,,
+2,(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka)
+3,Upazila,Porter (coolee),Garden labour male,Garden female labour,Other labour (Adult),Other labour (Child)
+4,Chhagalnaiya,325,0,0,0,0
+5,Daganbhuiyan,300,0,0,0,0
+6,Feni Sadar,300,0,0,300,150
+7,Fulgazi,250,0,0,250,150
+8,Parshuram,250,200,0,250,120
+9,Sonagazi,250,0,0,0,0
+10,Average,279,200,0,267,140

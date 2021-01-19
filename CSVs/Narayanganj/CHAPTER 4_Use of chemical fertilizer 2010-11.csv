@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,Use of chemical fertilizer 2010-11,,,,,
-1,Upazila,UREA,TSP,MP,DAP,Others
-2,Araihazar,4734,1441,2032,195,320
-3,Bandar,2150,1047,853,10,392
-4,Narayanganj Sadar,2400,2000,1600,50,550
-5,Rupganj,4440,2940,2234,201,88
-6,Sonargaon,3660,885,655,146,322
-7,Total,17384,8313,7374,602,1672
+1,,,,,,
+2,Upazila,UREA,TSP,MP,DAP,Others
+3,Araihazar,4734,1441,2032,195,320
+4,Bandar,2150,1047,853,10,392
+5,Narayanganj Sadar,2400,2000,1600,50,550
+6,Rupganj,4440,2940,2234,201,88
+7,Sonargaon,3660,885,655,146,322
+8,Total,17384,8313,7374,602,1672

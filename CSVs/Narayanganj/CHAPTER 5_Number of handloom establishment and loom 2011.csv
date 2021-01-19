@@ -1,12 +1,11 @@
 ,0,1,2,3,4
 0,Number of handloom establishment and loom 2011,,,,
-1,"
-Upazila",Number of unit (factory),Number of loom,Number of loom,Number of loom
-2,"
-Upazila",Number of unit (factory),Operational,Non-operational,Total
-3,Araihazar,1502,4205,956,5161
-4,Bandar,0,0,0,0
-5,Narayanganj Sadar,4,0,0,0
-6,Rupganj,217,98,119,217
-7,Sonargaon,600,1900,80,1980
-8,Total,2323,6203,1155,7358
+1,,,,,
+2, Upazila,Number of unit (factory),Number of loom,Number of loom,Number of loom
+3, Upazila,Number of unit (factory),Operational,Non-operational,Total
+4,Araihazar,1502,4205,956,5161
+5,Bandar,0,0,0,0
+6,Narayanganj Sadar,4,0,0,0
+7,Rupganj,217,98,119,217
+8,Sonargaon,600,1900,80,1980
+9,Total,2323,6203,1155,7358

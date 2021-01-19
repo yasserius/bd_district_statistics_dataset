@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area, population and density by municipality 2011",,,,,,
-1,Upazila,Name of municipality,Area (In sq. km.),Population census-2011,Population census-2011,Population census-2011,Density per sq. km.
-2,Upazila,Name of municipality,Area (In sq. km.),Male,Female,Both sex,Density per sq. km.
-3,Bagerhat Sadar,Bagerhat,7.5,24601,24472,49073,6543
-4,Kachua,-,-,-,-,-,
-5,Rampal,-,-,-,-,-,
-6,Sarankhola,-,-,-,-,-,
-7,Chitalmari,-,-,-,-,-,
-8,Morrelgonj,Morrelgonj,6.0,10855,10886,21741,3623
-9,Mongla,Mongla,17.8,21607,18230,39837,2238
-10,Mollahat,-,-,-,-,,
-11,Fakirhat,-,-,-,-,-,
-12,Total,-,31.3,57063,53588,110651,3535
+1,,,,,,,
+2,Upazila,Name of municipality,Area (In sq. km.),Population census-2011,Population census-2011,Population census-2011,Density per sq. km.
+3,Upazila,Name of municipality,Area (In sq. km.),Male,Female,Both sex,Density per sq. km.
+4,Bagerhat Sadar,Bagerhat,7.5,24601,24472,49073,6543
+5,Kachua,-,-,-,-,-,
+6,Rampal,-,-,-,-,-,
+7,Sarankhola,-,-,-,-,-,
+8,Chitalmari,-,-,-,-,-,
+9,Morrelgonj,Morrelgonj,6.0,10855,10886,21741,3623
+10,Mongla,Mongla,17.8,21607,18230,39837,2238
+11,Mollahat,-,-,-,-,,
+12,Fakirhat,-,-,-,-,-,
+13,Total,-,31.3,57063,53588,110651,3535

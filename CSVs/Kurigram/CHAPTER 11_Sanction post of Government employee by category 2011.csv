@@ -1,14 +1,14 @@
 ,0,1,2,3,4,5
 0,Sanction post of Government employee by category 2011,,,,,
-1,Upazila,Class-I,Class-II,Class-III,Class-IV,"Number of
-employee"
-2,Bhurungamari,38,19,620,56,727
-3,Char Rajibpur,34,30,350,85,499
-4,Chilmari,28,32,555,174,789
-5,Kurigram Sadar,117,19,506,75,717
-6,Nageshwari,38,25,816,142,1021
-7,Phulbari,34,29,539,82,377
-8,Rajarhat,29,55,490,63,637
-9,Raumari,33,32,556,96,717
-10,Ulipur,56,41,1178,173,1448
-11,Total,407,282,5610,946,6932
+1,,,,,,
+2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
+3,Bhurungamari,38,19,620,56,727
+4,Char Rajibpur,34,30,350,85,499
+5,Chilmari,28,32,555,174,789
+6,Kurigram Sadar,117,19,506,75,717
+7,Nageshwari,38,25,816,142,1021
+8,Phulbari,34,29,539,82,377
+9,Rajarhat,29,55,490,63,637
+10,Raumari,33,32,556,96,717
+11,Ulipur,56,41,1178,173,1448
+12,Total,407,282,5610,946,6932

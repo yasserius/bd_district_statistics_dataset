@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building material 2011,,,,,,
 1,(Price in Taka),,,,,,
-2,"
-Upazila",Brick-01 (per1000),"Cement
-(per 50 KG Bag)",Iron Bar (per Ton),Sand-01 (Per C.Ft.),Sand -02 (Per C.Ft.),Stone (per C.Ft.)
+2,Upazila,Brick-01 (per1000),Cement (per 50 KG Bag),Iron Bar (per Ton),Sand-01 (Per C.Ft.),Sand -02 (Per C.Ft.),Stone (per C.Ft.)
 3,Bhola Sadar,6500,400,72000,16,12,32
 4,Burhanuddin,5500,410,60000,10,7,110
 5,Char Fasson,5500,390,66000,18,10,90

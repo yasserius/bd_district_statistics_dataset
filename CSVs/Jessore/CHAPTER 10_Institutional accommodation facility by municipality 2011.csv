@@ -1,15 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Institutional accommodation facility by municipality 2011,,,,,,
-1,"
-Municipality",Residential hostel,Residential hostel,Hall/hostel,Hall/hostel,Mess/barracks,Mess/barracks
-2,"
-Municipality",Number,Capacity,Number,Capacity,Number,Capacity
-3,Noapara,5,56,1,12,6,53
-4,Bagherpara,0,0,0,0,0,0
-5,Chaugachha,0,0,0,0,0,0
-6,Jessore,41,978,14,880,1,346
-7,Jhikargachha,0,0,0,0,2,57
-8,Keshabpur,0,0,0,0,3,70
-9,Manirampur,0,0,0,0,4,65
-10,Benapole,5,244,0,0,0,0
-11,Total,51,1278,15,892,16,591
+1,,,,,,,
+2, Municipality,Residential hostel,Residential hostel,Hall/hostel,Hall/hostel,Mess/barracks,Mess/barracks
+3, Municipality,Number,Capacity,Number,Capacity,Number,Capacity
+4,Noapara,5,56,1,12,6,53
+5,Bagherpara,0,0,0,0,0,0
+6,Chaugachha,0,0,0,0,0,0
+7,Jessore,41,978,14,880,1,346
+8,Jhikargachha,0,0,0,0,2,57
+9,Keshabpur,0,0,0,0,3,70
+10,Manirampur,0,0,0,0,4,65
+11,Benapole,5,244,0,0,0,0
+12,Total,51,1278,15,892,16,591

@@ -1,9 +1,10 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,Upazila,Number of power tiller,Tractor,Number of threshing machine
-2,Kamalnagar,49,8,167
-3,Lakshmipur Sadar,115,125,3245
-4,Ramganj,87,69,1048
-5,Ramgati,81,7,203
-6,Roypur,31,45,402
-7,Total,363,254,5065
+1,,,,
+2,Upazila,Number of power tiller,Tractor,Number of threshing machine
+3,Kamalnagar,49,8,167
+4,Lakshmipur Sadar,115,125,3245
+5,Ramganj,87,69,1048
+6,Ramgati,81,7,203
+7,Roypur,31,45,402
+8,Total,363,254,5065

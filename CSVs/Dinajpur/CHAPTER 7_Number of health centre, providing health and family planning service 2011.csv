@@ -1,22 +1,18 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of health centre, providing health and family planning service 2011",,,,,,,
-1,"
-Upazila","Number of
-union health centre",Health service,"
-Sterilization","
-M.R.",Injection/ copper-T,Oral pill/ condom,"Number of
-immunization centre"
-2,Biral,10,29803,52,140,5525,24008,110
-3,Birampur,6,6251,425,855,8521,24510,66
-4,Birganj,10,11815,1522,128,1779,29599,110
-5,Bochaganj,6,5847,1239,118,1903,16852,66
-6,Chirirbandar,12,124578,12540,554,7270,29584,132
-7,Dinajpur Sadar,9,9852,851,155,1052,10859,99
-8,Fulbari,7,12480,554,165,1925,11543,77
-9,Ghoraghat,6,6521,1254,625,5452,4251,66
-10,Hakimpur,3,3420,335,152,6521,3036,33
-11,Kaharole,6,96251,622,514,7852,131275,66
-12,Khansama,5,8521,449,192,21908,270131,55
-13,Nawabganj,9,9021,965,852,9874,98521,99
-14,Parbatipur,8,8745,1756,200,11280,37219,88
-15,Total,97,333105,22564,4650,90862,691388,1067
+1,,,,,,,,
+2, Upazila,Number of union health centre,Health service, Sterilization, M.R.,Injection/ copper-T,Oral pill/ condom,Number of immunization centre
+3,Biral,10,29803,52,140,5525,24008,110
+4,Birampur,6,6251,425,855,8521,24510,66
+5,Birganj,10,11815,1522,128,1779,29599,110
+6,Bochaganj,6,5847,1239,118,1903,16852,66
+7,Chirirbandar,12,124578,12540,554,7270,29584,132
+8,Dinajpur Sadar,9,9852,851,155,1052,10859,99
+9,Fulbari,7,12480,554,165,1925,11543,77
+10,Ghoraghat,6,6521,1254,625,5452,4251,66
+11,Hakimpur,3,3420,335,152,6521,3036,33
+12,Kaharole,6,96251,622,514,7852,131275,66
+13,Khansama,5,8521,449,192,21908,270131,55
+14,Nawabganj,9,9021,965,852,9874,98521,99
+15,Parbatipur,8,8745,1756,200,11280,37219,88
+16,Total,97,333105,22564,4650,90862,691388,1067

@@ -1,20 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2009-10",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Tomato,Tomato,Radish,Radish,Beans,Beans
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Adamdighi,49,134,109,712,31,116
-5,Bogra sadar,50,498,172,1048,60,181
-6,Dhunat,27,57,118,437,16,39
-7,Dhupchanchia,33,297,81,614,57,186
-8,Gabtali,10,25,261,613,14,41
-9,Kahaloo,41,104,49,178,43,101
-10,Nandigram,3,8,15,56,23,21
-11,Sariakandi,3,7,8,8,5,11
-12,Shajahanpur,63,197,122,809,121,303
-13,Sherpur,36,269,91,591,129,315
-14,Shibganj,120,338,175,655,93,219
-15,Sonatola,44,230,132,992,15,49
-16,Total,479,2164,1333,6713,607,1582
+2,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Beans Area,Beans Production
+3,Adamdighi,49,134,109,712,31,116
+4,Bogra sadar,50,498,172,1048,60,181
+5,Dhunat,27,57,118,437,16,39
+6,Dhupchanchia,33,297,81,614,57,186
+7,Gabtali,10,25,261,613,14,41
+8,Kahaloo,41,104,49,178,43,101
+9,Nandigram,3,8,15,56,23,21
+10,Sariakandi,3,7,8,8,5,11
+11,Shajahanpur,63,197,122,809,121,303
+12,Sherpur,36,269,91,591,129,315
+13,Shibganj,120,338,175,655,93,219
+14,Sonatola,44,230,132,992,15,49
+15,Total,479,2164,1333,6713,607,1582

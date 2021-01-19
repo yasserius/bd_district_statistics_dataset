@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Broad classification of area 2011,,,,
 1,(In sq. km.),,,,
-2,Upazila,Total area,Land area,"Reserve
-forest","Riverine
-area"
+2,Upazila,Total area,Land area,Reserve forest,Riverine area
 3,Adamdighi,168.83,168.83,0,0
 4,Bogra sadar,176.58,175.28,0,1.3
 5,Dhunat,247.73,245.77,0,1.96

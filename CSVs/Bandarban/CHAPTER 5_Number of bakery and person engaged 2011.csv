@@ -1,16 +1,13 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Alikadam,3,3,15,18
-4,Bandarban Sadar,4,0,40,40
-5,Lama,6,6,18,24
-6,Naikhongchhari,0,0,0,0
-7,Rowangchhari,2,2,6,8
-8,Ruma,1,1,1,2
-9,Thanchi,1,4,2,6
-10,Total,17,16,82,98
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Alikadam,3,3,15,18
+5,Bandarban Sadar,4,0,40,40
+6,Lama,6,6,18,24
+7,Naikhongchhari,0,0,0,0
+8,Rowangchhari,2,2,6,8
+9,Ruma,1,1,1,2
+10,Thanchi,1,4,2,6
+11,Total,17,16,82,98

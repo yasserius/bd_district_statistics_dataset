@@ -1,17 +1,16 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of secondary school, teacher and student by municipality 2011",,,,,,,,
-1,"
-Upazila",Number of  institute,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of  institute,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Atpara,0,0,0,0,0,0,0,0
-4,Barhatta,0,0,0,0,0,0,0,0
-5,Durgapur,7,35,32,67,1452,1481,2933,44
-6,Kalmakanda,0,0,0,0,0,0,0,0
-7,Kendua,4,38,15,53,1325,1222,2547,48
-8,Khaliajuri,0,0,0,0,0,0,0,0
-9,Madan,3,31,12,43,918,872,1790,42
-10,Mohanganj,4,20,18,38,1837,1840,3677,97
-11,Netrokona Sadar,12,128,64,192,3810,3742,7552,39
-12,Purbadhala,0,0,0,0,0,0,0,0
-13,Total,30,252,141,393,9342,9157,18499,47
+1,,,,,,,,,
+2, Upazila,Number of  institute,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of  institute,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Atpara,0,0,0,0,0,0,0,0
+5,Barhatta,0,0,0,0,0,0,0,0
+6,Durgapur,7,35,32,67,1452,1481,2933,44
+7,Kalmakanda,0,0,0,0,0,0,0,0
+8,Kendua,4,38,15,53,1325,1222,2547,48
+9,Khaliajuri,0,0,0,0,0,0,0,0
+10,Madan,3,31,12,43,918,872,1790,42
+11,Mohanganj,4,20,18,38,1837,1840,3677,97
+12,Netrokona Sadar,12,128,64,192,3810,3742,7552,39
+13,Purbadhala,0,0,0,0,0,0,0,0
+14,Total,30,252,141,393,9342,9157,18499,47

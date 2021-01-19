@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of holdings reporting selected livestock species 2008,,,,,,,,
-1,Upazila/city corporation,Cows & buffalo,Cows & buffalo,Goat,Goat,Sheep,Sheep,Swine,Swine
-2,Upazila/city corporation,"Holding
-/farm",Animal,"Holding/
-farm",Goats,"Holding/
-farm",Sheep,"Holding/
-farm",Swine
+1,,,,,,,,,
+2,Upazila/city corporation,Cows & buffalo Holding /farm,Cows & buffalo Animal,Goat Holding/ farm,Goat Goats,Sheep Holding/ farm,Sheep,Swine Holding/ farm,Swine
 3,Bagha,15259,25278,23701,56390,91,414,0,0
 4,Baghmara,50728,106193,27357,74568,1058,4872,0,0
 5,Charghat,17337,26782,25173,59565,86,437,0,0

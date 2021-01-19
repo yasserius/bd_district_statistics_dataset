@@ -1,19 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,Upazila,"Number
-of centre","Number
-of bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Belkuchi,3,25,10,7,6,10
-3,Chauhali,1,400,98,250,27,452
-4,Kamarkhanda,0,0,0,0,0,0
-5,Kazipur,0,0,0,0,0,0
-6,Royganj,0,0,0,0,0,0
-7,Shahjadpur,6,50,10,16,0,30
-8,Sirajganj Sadar,13,650,120,180,30,250
-9,Tarash,3,0,3,3,3,7
-10,Ullahpara,3,40,9,17,16,46
-11,Total,29,1165,250,473,82,795
+1,,,,,,,
+2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Belkuchi,3,25,10,7,6,10
+4,Chauhali,1,400,98,250,27,452
+5,Kamarkhanda,0,0,0,0,0,0
+6,Kazipur,0,0,0,0,0,0
+7,Royganj,0,0,0,0,0,0
+8,Shahjadpur,6,50,10,16,0,30
+9,Sirajganj Sadar,13,650,120,180,30,250
+10,Tarash,3,0,3,3,3,7
+11,Ullahpara,3,40,9,17,16,46
+12,Total,29,1165,250,473,82,795

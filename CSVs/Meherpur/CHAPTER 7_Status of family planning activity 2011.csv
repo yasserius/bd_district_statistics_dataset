@@ -1,13 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Status of family planning activity 2011,,,,,,
-1,"
-Upazila",Sterilization in number,Sterilization in number,"IUD/
-Injection",Condom (in pieces),Oral pill (in cycles),"
-Copper- Tee"
-2,"
-Upazila",Vasectomy,Tubectomy,"IUD/
-Injection",Condom (in pieces),Oral pill (in cycles),"
-Copper- Tee"
+1,,,,,,,
+2,Upazila,Sterilization in number Vasectomy,Sterilization in number Tubectomy,IUD/ Injection,Condom (in pieces),Oral pill (in cycles),Copper- Tee
 3,Gangni,12,373,3417,1030,2791,521
 4,Mujibnagar,1,251,17569,85458,47470,44
 5,Meherpur Sadar,70,710,10429,1939,10507,571

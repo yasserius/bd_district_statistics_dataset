@@ -1,9 +1,8 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of secondary school, teacher and student by municipality 2011",,,,,,,,
-1,"
-Municipality",Number of  Institute,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Municipality",Number of  Institute,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Jhalokati,6,78,31,109,1270,1101,2371,22
-4,Nalchity,5,46,16,62,1054,1199,2253,36
-5,Total,11,124,47,171,2324,2300,4624,27
+1,,,,,,,,,
+2, Municipality,Number of  Institute,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Municipality,Number of  Institute,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Jhalokati,6,78,31,109,1270,1101,2371,22
+5,Nalchity,5,46,16,62,1054,1199,2253,36
+6,Total,11,124,47,171,2324,2300,4624,27

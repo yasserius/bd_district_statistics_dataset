@@ -1,13 +1,11 @@
 ,0,1,2,3,4,5
 0,Land area on the basis of utilization 2008,,,,,
-1,Upazila,Total area,"Permanent
-Cropped area","Temporary
-Cropped area","Permanent
-fallow area",Others
-2,Kushtia Sadar,78606,3560,55712,450,18945
-3,Bheramara,33463,2922,19528,181,10832
-4,Daulatpur,115833,6200,72700,350,36583
-5,Khoksa,25870,2281,18404,55,5130
-6,Kumarkhali,63799,3196,41480,700,18423
-7,Mirpur,73224,1845,51160,245,19974
-8,Total,390795,20004,258984,1981,109887
+1,,,,,,
+2,Upazila,Total area,Permanent Cropped area,Temporary Cropped area,Permanent fallow area,Others
+3,Kushtia Sadar,78606,3560,55712,450,18945
+4,Bheramara,33463,2922,19528,181,10832
+5,Daulatpur,115833,6200,72700,350,36583
+6,Khoksa,25870,2281,18404,55,5130
+7,Kumarkhali,63799,3196,41480,700,18423
+8,Mirpur,73224,1845,51160,245,19974
+9,Total,390795,20004,258984,1981,109887

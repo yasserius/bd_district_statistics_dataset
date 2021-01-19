@@ -1,15 +1,12 @@
 ,0,1,2,3,4
 0,Number of Saw mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Harinakunda,15,18,92,110
-4,Jhenaidah Sadar,82,26,320,346
-5,Kaliganj,22,12,115,127
-6,Kotchandpur,16,35,67,102
-7,Mahespur,23,32,78,110
-8,Shailkupa,32,32,128,160
-9,Total,190,155,800,955
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Harinakunda,15,18,92,110
+5,Jhenaidah Sadar,82,26,320,346
+6,Kaliganj,22,12,115,127
+7,Kotchandpur,16,35,67,102
+8,Mahespur,23,32,78,110
+9,Shailkupa,32,32,128,160
+10,Total,190,155,800,955

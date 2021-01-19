@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of pottery and person engaged 2011,,,,
-1,"
-Upazila","
-Units",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Units",Family,Hired,Total
+1,,,,,
+2,Upazila,Units,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Akhaura,10,20,10,30
 4,Ashuganj,0,0,0,0
 5,Banchharampur,0,0,0,0

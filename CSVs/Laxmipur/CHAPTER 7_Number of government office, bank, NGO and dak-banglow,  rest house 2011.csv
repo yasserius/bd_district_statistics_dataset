@@ -1,15 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Number of government office, bank, NGO and dak-banglow,  rest house 2011",,,,,,
-1,"
-Upazila","All   Government
-offices","
-Post office","All   nationalized
-bank branches",All private bank branches,"
-All NGOs","Dak-
-banglow/ Rest house"
-2,Kamalnagar,26,5,6,0,7,1
-3,Lakshmipur Sadar,32,30,15,6,32,4
-4,Ramganj,32,38,12,7,10,1
-5,Ramgati,28,11,4,3,17,2
-6,Roypur,26,20,8,10,19,2
-7,Total,144,104,45,26,85,10
+1,,,,,,,
+2,Upazila,All Government offices,Post office,All nationalized bank branches,All private bank branches,All NGOs,Dak- banglow/ Rest house
+3,Kamalnagar,26,5,6,0,7,1
+4,Lakshmipur Sadar,32,30,15,6,32,4
+5,Ramganj,32,38,12,7,10,1
+6,Ramgati,28,11,4,3,17,2
+7,Roypur,26,20,8,10,19,2
+8,Total,144,104,45,26,85,10

@@ -1,25 +1,17 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Rupali and Agrani bank 2011,,,,,,,,,,
-1,"
-Upazila",Rupali bank,Rupali bank,Rupali bank,Rupali bank,Rupali bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank
-2,"
-Upazila","Number
-of branch",Account,Account,Account,Account,"Number
-of branch",Account,Account,Account,Account
-3,"
-Upazila","Number
-of branch",S.D,C.D,F.D,S.T.D,"Number
-of branch",S.D,C.D,F.D,S.T.D
-4,Basail,0,0,0,0,0,4,17320,921,406,29
-5,Bhuapur,0,0,0,0,0,1,3793,376,50,10
-6,Delduar,3,24906,383,683,8,0,0,0,0,0
-7,Dhanbari,0,0,0,0,0,0,0,0,0,0
-8,Ghatail,1,31,59,1,0,1,8758,1235,94,2
-9,Gopalpur,2,8179,766,130,15,0,0,0,0,0
-10,Kalihati,4,26161,886,635,26,0,0,0,0,0
-11,Madhupur,0,0,0,0,0,1,5912,1259,103,37
-12,Mirzapur,1,0,250,422,7,5,477,2642,928,56
-13,Nagarpur,0,0,0,0,0,3,18690,1130,225,18
-14,Sakhipur,0,0,0,0,0,2,16193,732,155,25
-15,Tangail Sadar,1,2,15,141,28,4,33615,2684,756,64
-16,Total,12,59279,2359,2012,84,21,104758,10979,2717,241
+1,,,,,,,,,,,
+2,Upazila,Rupali bank Number of branch Number of branch,Rupali bank Account S.D,Rupali bank Account C.D,Rupali bank Account F.D,Rupali bank Account S.T.D,Agrani bank Number of branch Number of branch,Agrani bank Account S.D,Agrani bank Account C.D,Agrani bank Account F.D,Agrani bank Account S.T.D
+3,Basail,0,0,0,0,0,4,17320,921,406,29
+4,Bhuapur,0,0,0,0,0,1,3793,376,50,10
+5,Delduar,3,24906,383,683,8,0,0,0,0,0
+6,Dhanbari,0,0,0,0,0,0,0,0,0,0
+7,Ghatail,1,31,59,1,0,1,8758,1235,94,2
+8,Gopalpur,2,8179,766,130,15,0,0,0,0,0
+9,Kalihati,4,26161,886,635,26,0,0,0,0,0
+10,Madhupur,0,0,0,0,0,1,5912,1259,103,37
+11,Mirzapur,1,0,250,422,7,5,477,2642,928,56
+12,Nagarpur,0,0,0,0,0,3,18690,1130,225,18
+13,Sakhipur,0,0,0,0,0,2,16193,732,155,25
+14,Tangail Sadar,1,2,15,141,28,4,33615,2684,756,64
+15,Total,12,59279,2359,2012,84,21,104758,10979,2717,241

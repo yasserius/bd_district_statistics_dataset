@@ -1,24 +1,19 @@
 ,0,1,2,3,4,5,6
 0,Status of family planning activity 2011,,,,,,
-1,"
-Upazila",Sterilization in number,Sterilization in number,"IUD/
-Injection",Condom (in piece),Oral pill (in cycle),"
-Copper- T"
-2,"
-Upazila",Vasectomy,Tubectomy,"IUD/
-Injection",Condom (in piece),Oral pill (in cycle),"
-Copper- T"
-3,Biral,261,601,923,1501,24008,1265
-4,Birampur,120,225,2250,6500,25200,227
-5,Birganj,443,1079,1410,1359,28240,369
-6,Bochaganj,202,194,1903,257,6233,122
-7,Chirirbandar,4017,8523,6705,1476,28108,505
-8,Dinajpur Sadar,864,495,12556,2152,22950,1220
-9,Fulbari,401,270,1925,503,11543,297
-10,Ghoraghat,159,75,5729,31273,59618,20
-11,Hakimpur,250,85,62,819,56076,62
-12,Kaharole,318,304,14461,27231,104044,478
-13,Khansama,220,229,21908,84670,185461,248
-14,Nawabganj,479,222,39187,176112,344250,199
-15,Parbatipur,1082,674,11280,4141,33078,1108
-16,Total,8816,12976,120299,337994,928809,6120
+1,,,,,,,
+2, Upazila,Sterilization in number,Sterilization in number,IUD/ Injection,Condom (in piece),Oral pill (in cycle), Copper- T
+3, Upazila,Vasectomy,Tubectomy,IUD/ Injection,Condom (in piece),Oral pill (in cycle), Copper- T
+4,Biral,261,601,923,1501,24008,1265
+5,Birampur,120,225,2250,6500,25200,227
+6,Birganj,443,1079,1410,1359,28240,369
+7,Bochaganj,202,194,1903,257,6233,122
+8,Chirirbandar,4017,8523,6705,1476,28108,505
+9,Dinajpur Sadar,864,495,12556,2152,22950,1220
+10,Fulbari,401,270,1925,503,11543,297
+11,Ghoraghat,159,75,5729,31273,59618,20
+12,Hakimpur,250,85,62,819,56076,62
+13,Kaharole,318,304,14461,27231,104044,478
+14,Khansama,220,229,21908,84670,185461,248
+15,Nawabganj,479,222,39187,176112,344250,199
+16,Parbatipur,1082,674,11280,4141,33078,1108
+17,Total,8816,12976,120299,337994,928809,6120

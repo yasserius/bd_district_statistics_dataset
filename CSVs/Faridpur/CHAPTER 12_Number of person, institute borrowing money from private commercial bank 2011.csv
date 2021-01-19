@@ -1,24 +1,16 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,"
-
-Upazila","Number of branch of all private
-commercial banks",Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-
-Upazila","Number of branch of all private
-commercial banks",Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
-3,"
-
-Upazila","Number of branch of all private
-commercial banks",Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Alfadanga,0,0,0,0,0,0,0,0,0,0,0
-5,Bhanga,4,0,367,0,0,0,166,0,532,0,1
-6,Boalmari,1,0,0,0,0,25,0,25,0,6,0
-7,Charbhadrashon,3,1180,25,0,0,35,20,1225,45,62,2
-8,Faridpur Sadar,17,1206,2314,9,3,1532,132,3520,2449,427,33
-9,Madhukhali,0,0,0,0,0,0,0,0,0,0,0
-10,Nagarkanda,0,0,0,0,0,0,0,0,0,0,0
-11,Sadarpur,1,606,10,0,0,675,10,1281,20,6,4
-12,Saltha,0,0,0,0,0,0,0,0,0,0,0
-13,Total,26,2992,2716,9,3,2267,328,6051,3046,501,40
+1,,,,,,,,,,,,
+2,  Upazila,Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3,  Upazila,Number of branch of all private commercial banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
+4,  Upazila,Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+5,Alfadanga,0,0,0,0,0,0,0,0,0,0,0
+6,Bhanga,4,0,367,0,0,0,166,0,532,0,1
+7,Boalmari,1,0,0,0,0,25,0,25,0,6,0
+8,Charbhadrashon,3,1180,25,0,0,35,20,1225,45,62,2
+9,Faridpur Sadar,17,1206,2314,9,3,1532,132,3520,2449,427,33
+10,Madhukhali,0,0,0,0,0,0,0,0,0,0,0
+11,Nagarkanda,0,0,0,0,0,0,0,0,0,0,0
+12,Sadarpur,1,606,10,0,0,675,10,1281,20,6,4
+13,Saltha,0,0,0,0,0,0,0,0,0,0,0
+14,Total,26,2992,2716,9,3,2267,328,6051,3046,501,40

@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,"
-Upazila",Current fallow,Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Productivity of crop
-2,"
-Upazila",Current fallow,Single,Double,Triple,Net,Gross,Productivity of crop
+1,,,,,,,,
+2,Upazila,Current fallow,Temporary cropped area Single,Temporary cropped area Double,Temporary cropped area Triple,Temporary cropped area Net,Temporary cropped area Gross,Productivity of crop
 3,Adamdighi,28,1008,25787,7000,33795,73582,218
 4,Bogra sadar,0,945,14005,13390,30429,69125,227
 5,Dhunat,9,2794,37915,10311,51716,109557,212

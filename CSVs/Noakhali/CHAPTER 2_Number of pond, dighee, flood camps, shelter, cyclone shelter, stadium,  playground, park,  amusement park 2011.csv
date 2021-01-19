@@ -1,18 +1,14 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of pond, dighee, flood camps, shelter, cyclone shelter, stadium,  playground, park,  amusement park 2011",,,,,,,
-1,"
-Upazila","
-Pond","
-Dighee","
-River flow",Flood camp/ shelter,Cyclone shelter,Stadium/ playground,"Park/ amusement
-park"
-2,Begumganj,14590,39,0,0,0,47,0
-3,Chatkhil,7392,7,0,13,0,13,0
-4,Companiganj,9077,17,1,9,36,10,0
-5,Hatiya,5970,10,2,5,117,8,0
-6,Kabirhat,4350,25,0,0,10,14,0
-7,Noakhali Sadar,16194,15,0,0,5,73,0
-8,Senbagh,8523,8,0,0,0,21,0
-9,Sonaimuri,4334,35,0,0,0,12,0
-10,Subarnachar,238,13,1,0,86,18,0
-11,Total,70668,169,4,27,254,216,0
+1,,,,,,,,
+2, Upazila, Pond, Dighee, River flow,Flood camp/ shelter,Cyclone shelter,Stadium/ playground,Park/ amusement park
+3,Begumganj,14590,39,0,0,0,47,0
+4,Chatkhil,7392,7,0,13,0,13,0
+5,Companiganj,9077,17,1,9,36,10,0
+6,Hatiya,5970,10,2,5,117,8,0
+7,Kabirhat,4350,25,0,0,10,14,0
+8,Noakhali Sadar,16194,15,0,0,5,73,0
+9,Senbagh,8523,8,0,0,0,21,0
+10,Sonaimuri,4334,35,0,0,0,12,0
+11,Subarnachar,238,13,1,0,86,18,0
+12,Total,70668,169,4,27,254,216,0

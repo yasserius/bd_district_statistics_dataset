@@ -1,7 +1,8 @@
 ,0,1,2,3
 0,Number of vocational institute by municipality 2011,,,
-1,Municipality,Number of institution,Number of teacher,Number of student
-2,Dhamoirhat,0,0,0
-3,Naogaon,1,21,27
-4,Nozipur,0,0,0
-5,Total,1,21,27
+1,,,,
+2,Municipality,Number of institution,Number of teacher,Number of student
+3,Dhamoirhat,0,0,0
+4,Naogaon,1,21,27
+5,Nozipur,0,0,0
+6,Total,1,21,27

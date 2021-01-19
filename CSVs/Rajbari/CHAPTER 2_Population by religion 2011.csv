@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6
 0,Population by religion 2011,,,,,,
-1,Upazila,Muslim,Hindu,Buddhist,Christian,Others,Total
-2,Baliakandi,164206,42819,3,57,1,207086
-3,Goalanda,108154,4576,1,0,1,112732
-4,Kalukhali,143144,11841,0,15,44,155044
-5,Pangsha,22469,18588,0,5,2,243285
-6,Rajbari Sadar,302333,29150,0,112,36,331631
-7,Total,942527,106974,4,189,84,1049778
+1,,,,,,,
+2,Upazila,Muslim,Hindu,Buddhist,Christian,Others,Total
+3,Baliakandi,164206,42819,3,57,1,207086
+4,Goalanda,108154,4576,1,0,1,112732
+5,Kalukhali,143144,11841,0,15,44,155044
+6,Pangsha,22469,18588,0,5,2,243285
+7,Rajbari Sadar,302333,29150,0,112,36,331631
+8,Total,942527,106974,4,189,84,1049778

@@ -1,12 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Number of religious institution 2011,,,,,,
-1,Upazila,Mosque,Eid-Gah,"Temple
-(Mandir)","Church
-(Girza)",Pagoda,Others
-2,Belabo,374,86,4,0,0,0
-3,Manohardi,665,117,26,0,0,0
-4,Narsingdi Sadar,682,42,17,0,0,0
-5,Palash,407,60,27,0,0,0
-6,Roypura,815,167,25,0,0,0
-7,Sibpur,784,172,32,0,0,0
-8,Total,3727,644,131,0,0,0
+1,,,,,,,
+2,Upazila,Mosque,Eid-Gah,Temple (Mandir),Church (Girza),Pagoda,Others
+3,Belabo,374,86,4,0,0,0
+4,Manohardi,665,117,26,0,0,0
+5,Narsingdi Sadar,682,42,17,0,0,0
+6,Palash,407,60,27,0,0,0
+7,Roypura,815,167,25,0,0,0
+8,Sibpur,784,172,32,0,0,0
+9,Total,3727,644,131,0,0,0

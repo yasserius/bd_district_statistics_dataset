@@ -1,20 +1,15 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Government secondary school, teacher and student 2011",,,,,,,,
-1,"
-Upazila","Number of
-school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students per
-teacher"
-2,"
-Upazila","Number of
-school",Male,Female,Total,Male,Female,Total,"Students per
-teacher"
-3,Begumganj,2,28,3,31,760,526,1286,41
-4,Chatkhil,2,23,5,28,404,633,1037,37
-5,Companiganj,2,23,1,24,452,801,1253,52
-6,Hatiya,2,12,2,14,193,212,405,29
-7,Kabirhat,0,0,0,0,0,0,0,0
-8,Noakhali Sadar,2,63,19,82,1340,1730,3070,37
-9,Senbagh,2,13,4,17,525,479,1004,59
-10,Sonaimuri,0,0,0,0,0,0,0,0
-11,Subarnachar,0,0,0,0,0,0,0,0
-12,Total,12,162,34,196,3674,4381,8055,41
+1,,,,,,,,,
+2, Upazila,Number of school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Begumganj,2,28,3,31,760,526,1286,41
+5,Chatkhil,2,23,5,28,404,633,1037,37
+6,Companiganj,2,23,1,24,452,801,1253,52
+7,Hatiya,2,12,2,14,193,212,405,29
+8,Kabirhat,0,0,0,0,0,0,0,0
+9,Noakhali Sadar,2,63,19,82,1340,1730,3070,37
+10,Senbagh,2,13,4,17,525,479,1004,59
+11,Sonaimuri,0,0,0,0,0,0,0,0
+12,Subarnachar,0,0,0,0,0,0,0,0
+13,Total,12,162,34,196,3674,4381,8055,41

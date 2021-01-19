@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5
 0,Cropped area sprayed with plant protection measures 2008,,,,,
-1,"
-Upazila",Total farm holding,Total farm holding,Spraying Farm holding,Spraying Farm holding,Reporting area sprayed
-2,"
-Upazila",Number,Cropped area,Number,Cropped area,Reporting area sprayed
+1,,,,,,
+2,Upazila,Total farm holding Number,Total farm holding Cropped area,Spraying Farm holding Number,Spraying Farm holding Cropped area,Reporting area sprayed
 3,Akhaura,2032,16965,17417,16965,16965
 4,Ashuganj,12254,19799,8575,8909,4751
 5,Banchharampur,30185,49520,12300,11856,11856

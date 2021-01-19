@@ -1,20 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Police personnel and criminal offences by municipality 2011,,,,,,
-1,"
-Municipality",Police personnel,Criminal offence,Criminal offence,Traffic accident (Reported),Traffic accident (Reported),Traffic accident (Reported)
-2,"
-Municipality",Police personnel,"Number of
-offence","Number of
-case filled","Number of
-accident","Person
-killed","Person
-injured"
-3,Noapara,34,265,245,1,3,5
-4,Bagherpara,78,327,206,3,1,2
-5,Chaugachha,33,230,229,1,1,2
-6,Jessore,178,1282,1282,8,8,11
-7,Jhikargachha,18,86,86,0,0,0
-8,Keshabpur,41,213,213,2,2,40
-9,Manirampur,115,528,384,1,1,0
-10,Benapole,39,368,368,1,1,0
-11,Total,536,3299,3013,17,17,60
+1,,,,,,,
+2, Municipality,Police personnel,Criminal offence,Criminal offence,Traffic accident (Reported),Traffic accident (Reported),Traffic accident (Reported)
+3, Municipality,Police personnel,Number of offence,Number of case filled,Number of accident,Person killed,Person injured
+4,Noapara,34,265,245,1,3,5
+5,Bagherpara,78,327,206,3,1,2
+6,Chaugachha,33,230,229,1,1,2
+7,Jessore,178,1282,1282,8,8,11
+8,Jhikargachha,18,86,86,0,0,0
+9,Keshabpur,41,213,213,2,2,40
+10,Manirampur,115,528,384,1,1,0
+11,Benapole,39,368,368,1,1,0
+12,Total,536,3299,3013,17,17,60

@@ -1,14 +1,10 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,"Number of primary school (Class I-V), teacher and student by municipality 2011",,,,,,,,,,
-1,"
-Upazila",Primary school,Primary school,Primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Govt.,"Non-
-govt.",Total,Govt.,"Non-
-govt.",Total,Govt.,"Non-
-govt.",Total,Students per teacher
-3,Bandar,24,3,27,179,8,187,13616,424,14040,75
-4,Narayanganj Sadar,84,2,86,599,8,607,43624,424,44048,73
-5,Rupganj,20,6,26,142,24,166,11412,1513,12925,78
-6,Sonargaon,6,12,18,44,45,89,2096,1436,3532,40
-7,Total,134,23,157,964,85,1049,70748,3797,74545,71
+1,,,,,,,,,,,
+2, Upazila,Primary school,Primary school,Primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Govt.,Non- govt.,Total,Govt.,Non- govt.,Total,Govt.,Non- govt.,Total,Students per teacher
+4,Bandar,24,3,27,179,8,187,13616,424,14040,75
+5,Narayanganj Sadar,84,2,86,599,8,607,43624,424,44048,73
+6,Rupganj,20,6,26,142,24,166,11412,1513,12925,78
+7,Sonargaon,6,12,18,44,45,89,2096,1436,3532,40
+8,Total,134,23,157,964,85,1049,70748,3797,74545,71

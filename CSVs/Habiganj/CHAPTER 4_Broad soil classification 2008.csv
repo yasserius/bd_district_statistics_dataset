@@ -1,17 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Broad soil classification 2008,,,,,,
-1,"
-Upazila","
-Total",Soil classification,Soil classification,Soil classification,Soil classification,Soil classification
-2,"
-Upazila","
-Total",Doash,Bele,Etel,Kankar,Others
-3,Azmirigonj,32264,16964,0,15300,0,0
-4,Bahubal,33679,14561,14766,4352,0,0
-5,Baniachang,86747,78477,2210,6000,60,0
-6,Chunarughat,48374,24374,9000,8000,4000,3000
-7,Habiganj Sadar,43413,10003,20635,12775,0,0
-8,Lakhai,35066,4460,0,30606,0,0
-9,Madhabpur,53246,48996,2250,2000,0,0
-10,Nabiganj,65494,19158,8175,38161,0,0
-11,Total,398283,216993,57036,117194,4060,3000
+1,,,,,,,
+2, Upazila, Total,Soil classification,Soil classification,Soil classification,Soil classification,Soil classification
+3, Upazila, Total,Doash,Bele,Etel,Kankar,Others
+4,Azmirigonj,32264,16964,0,15300,0,0
+5,Bahubal,33679,14561,14766,4352,0,0
+6,Baniachang,86747,78477,2210,6000,60,0
+7,Chunarughat,48374,24374,9000,8000,4000,3000
+8,Habiganj Sadar,43413,10003,20635,12775,0,0
+9,Lakhai,35066,4460,0,30606,0,0
+10,Madhabpur,53246,48996,2250,2000,0,0
+11,Nabiganj,65494,19158,8175,38161,0,0
+12,Total,398283,216993,57036,117194,4060,3000

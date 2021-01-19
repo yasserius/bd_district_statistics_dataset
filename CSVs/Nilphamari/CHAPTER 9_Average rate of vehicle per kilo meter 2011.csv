@@ -1,14 +1,13 @@
 ,0,1,2,3,4,5
 0,Average rate of vehicle per kilo meter 2011,,,,,
-1,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
-2,"
-Upazila",Vehicle,Vehicle,Vehicle,Vehicle,Vehicle
-3,"
-Upazila",Rickshaw,Rickshaw van,Easy bick,Auto rickshaw,Tempo
-4,Dimla,6,4,2,2,0
-5,Domar,2,5,1,0,0
-6,Jaldhaka,10,5,5,5,0
-7,Kishorgonj,0,5,8,0,0
-8,Nilphamary Sadar,6,5,5,0,0
-9,Sayedpur,8,5,5,0,0
-10,Average,6,5,5,5,0
+1,,,,,,
+2,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
+3, Upazila,Vehicle,Vehicle,Vehicle,Vehicle,Vehicle
+4, Upazila,Rickshaw,Rickshaw van,Easy bick,Auto rickshaw,Tempo
+5,Dimla,6,4,2,2,0
+6,Domar,2,5,1,0,0
+7,Jaldhaka,10,5,5,5,0
+8,Kishorgonj,0,5,8,0,0
+9,Nilphamary Sadar,6,5,5,0,0
+10,Sayedpur,8,5,5,0,0
+11,Average,6,5,5,5,0

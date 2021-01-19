@@ -1,14 +1,12 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C","Number of
-current A/C"
-2,Daulotpur,1,7,5500,1250
-3,Gheor,0,0,0,0
-4,Horirampur,1,6,651,0
-5,Manikganj Sadar,6,128,60559,3854
-6,Saturia,0,0,0,0
-7,Shibalaya,0,0,0,0
-8,Singair,2,15,1388,548
-9,Total,10,156,68098,5652
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Daulotpur,1,7,5500,1250
+4,Gheor,0,0,0,0
+5,Horirampur,1,6,651,0
+6,Manikganj Sadar,6,128,60559,3854
+7,Saturia,0,0,0,0
+8,Shibalaya,0,0,0,0
+9,Singair,2,15,1388,548
+10,Total,10,156,68098,5652

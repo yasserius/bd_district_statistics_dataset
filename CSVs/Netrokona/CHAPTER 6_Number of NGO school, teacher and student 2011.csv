@@ -1,17 +1,16 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of NGO school, teacher and student 2011",,,,,,,,
-1,"
-Upazila",Number of NGO school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of NGO school,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Atpara,56,0,56,56,637,1113,1750,31
-4,Barhatta,36,0,36,36,414,637,1051,29
-5,Durgapur,67,22,45,67,871,1139,2010,30
-6,Kalmakanda,84,0,84,84,1669,1881,3550,42
-7,Kendua,73,0,73,73,836,1440,2276,31
-8,Khaliajuri,50,12,38,50,661,864,1525,31
-9,Madan,83,0,83,83,966,1576,2542,31
-10,Mohanganj,105,0,105,105,1100,1836,2936,28
-11,Netrokona Sadar,59,0,59,59,885,895,1770,30
-12,Purbadhala,2,3,3,6,107,105,212,35
-13,Total,615,37,582,619,8146,11486,19622,32
+1,,,,,,,,,
+2, Upazila,Number of NGO school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of NGO school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Atpara,56,0,56,56,637,1113,1750,31
+5,Barhatta,36,0,36,36,414,637,1051,29
+6,Durgapur,67,22,45,67,871,1139,2010,30
+7,Kalmakanda,84,0,84,84,1669,1881,3550,42
+8,Kendua,73,0,73,73,836,1440,2276,31
+9,Khaliajuri,50,12,38,50,661,864,1525,31
+10,Madan,83,0,83,83,966,1576,2542,31
+11,Mohanganj,105,0,105,105,1100,1836,2936,28
+12,Netrokona Sadar,59,0,59,59,885,895,1770,30
+13,Purbadhala,2,3,3,6,107,105,212,35
+14,Total,615,37,582,619,8146,11486,19622,32

@@ -1,13 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of mango, litchi and blackberry 2009-10",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Mango,Mango,Litchi,Litchi,Blackberry,Blackberry
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Baliakandi,171,2077,15,42,22,55
-5,Goalanda,272,952,14,20,119,294
-6,Kalukhali,105,369,4,54,20,255
-7,Pangsha,164,579,6,85,30,400
-8,Rajbari Sadar,330,1470,25,95,63,125
-9,Total,1042,5447,64,296,254,1129
+2,Upazila,Mango Area,Mango Production,Litchi Area,Litchi Production,Blackberry Area,Blackberry Production
+3,Baliakandi,171,2077,15,42,22,55
+4,Goalanda,272,952,14,20,119,294
+5,Kalukhali,105,369,4,54,20,255
+6,Pangsha,164,579,6,85,30,400
+7,Rajbari Sadar,330,1470,25,95,63,125
+8,Total,1042,5447,64,296,254,1129

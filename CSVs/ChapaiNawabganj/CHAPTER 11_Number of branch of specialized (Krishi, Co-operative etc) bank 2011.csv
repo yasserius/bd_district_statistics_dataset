@@ -1,11 +1,10 @@
 ,0,1,2,3,4
 0,"Number of branch of specialized (Krishi, Co-operative etc) bank 2011",,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C",Number of current A/C
-2,Bholahat,2,12,3966,182
-3,Chapai Nawabganj Sadar,4,25,6580,211
-4,Gomastapur,2,15,4860,178
-5,Nachole,3,19,5598,421
-6,Shibganj,6,40,15527,508
-7,Total,17,111,36531,1500
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Bholahat,2,12,3966,182
+4,Chapai Nawabganj Sadar,4,25,6580,211
+5,Gomastapur,2,15,4860,178
+6,Nachole,3,19,5598,421
+7,Shibganj,6,40,15527,508
+8,Total,17,111,36531,1500

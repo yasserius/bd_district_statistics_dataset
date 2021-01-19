@@ -1,15 +1,12 @@
 ,0,1,2,3,4
 0,Number of establishment and person engaged in cottage industry 2011,,,,
-1,"
-Upazila","
-Number of unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Number of unit",Family,Hired,Total
-3,Harinakunda,23,28,255,283
-4,Jhenaidah Sadar,562,1602,30,1632
-5,Kaliganj,170,195,802,250
-6,Kotchandpur,922,1935,1241,3176
-7,Mahespur,305,1205,25,1230
-8,Shailkupa,1700,3400,1700,5100
-9,Total,3682,8365,4053,11671
+1,,,,,
+2, Upazila, Number of unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Number of unit,Family,Hired,Total
+4,Harinakunda,23,28,255,283
+5,Jhenaidah Sadar,562,1602,30,1632
+6,Kaliganj,170,195,802,250
+7,Kotchandpur,922,1935,1241,3176
+8,Mahespur,305,1205,25,1230
+9,Shailkupa,1700,3400,1700,5100
+10,Total,3682,8365,4053,11671

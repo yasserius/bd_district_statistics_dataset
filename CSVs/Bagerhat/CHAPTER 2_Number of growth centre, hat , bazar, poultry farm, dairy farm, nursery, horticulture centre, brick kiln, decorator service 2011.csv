@@ -1,20 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of growth centre, hat , bazar, poultry farm, dairy farm, nursery, horticulture centre, brick kiln, decorator service 2011",,,,,,,,
-1,Upazila,"Growth
-centre","Hat
-/bazar","Poultry
-farm","Dairy
-farm",Nursery,"Horticulture
-centre","Brick
-kiln","Decorator
-service"
-2,Bagerhat Sadar,8,35,157,176,16,1,2,31
-3,Kachua,3,19,45,37,61,0,7,15
-4,Rampal,5,23,105,57,21,0,0,19
-5,Sarankhola,2,14,276,5,8,0,1,9
-6,Chitalmari,5,17,383,216,4,0,1,13
-7,Morrelgonj,6,37,123,34,58,0,11,17
-8,Mongla,5,19,228,5,4,0,0,5
-9,Mollahat,8,19,49,37,4,0,4,9
-10,Fakirhat,4,12,253,46,0,0,5,20
-11,Total,46,195,1619,613,176,1,31,138
+1,,,,,,,,,
+2,Upazila,Growth centre,Hat /bazar,Poultry farm,Dairy farm,Nursery,Horticulture centre,Brick kiln,Decorator service
+3,Bagerhat Sadar,8,35,157,176,16,1,2,31
+4,Kachua,3,19,45,37,61,0,7,15
+5,Rampal,5,23,105,57,21,0,0,19
+6,Sarankhola,2,14,276,5,8,0,1,9
+7,Chitalmari,5,17,383,216,4,0,1,13
+8,Morrelgonj,6,37,123,34,58,0,11,17
+9,Mongla,5,19,228,5,4,0,0,5
+10,Mollahat,8,19,49,37,4,0,4,9
+11,Fakirhat,4,12,253,46,0,0,5,20
+12,Total,46,195,1619,613,176,1,31,138

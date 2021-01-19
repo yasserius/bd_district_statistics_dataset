@@ -1,36 +1,10 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,"Number of primary school (Class 1-V), teacher and student by municipality 2011",,,,,,,,,,
-1,"
-Municipality",Primary school,Primary school,Primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Municipality","
-Govt.","
-ovt.",Total,Govt.,Non- ovt.,Total,Govt.,Non- ovt.,Total,Students per teacher
+1,,,,,,,,,,,
+2,Municipality,Primary school Govt.,Primary school ovt.,Primary school Total,Number of teacher Govt.,Number of teacher Non- ovt.,Number of teacher Total,Number of student Govt.,Number of student Non- ovt.,Number of student Total,Students per teacher
 3,Munshiganj Sadar	22,Munshiganj Sadar	22,,23,166,2,168,8983,136,9119,54
 4,Total	22,Total	22,1,23,166,2,168,8983,136,9119,54
-5,"
-10.04 Number of secondary school, teacher and student by municipality 2011","
-10.04 Number of secondary school, teacher and student by municipality 2011","
-10.04 Number of secondary school, teacher and student by municipality 2011","
-10.04 Number of secondary school, teacher and student by municipality 2011","
-10.04 Number of secondary school, teacher and student by municipality 2011","
-10.04 Number of secondary school, teacher and student by municipality 2011","
-10.04 Number of secondary school, teacher and student by municipality 2011","
-10.04 Number of secondary school, teacher and student by municipality 2011","
-10.04 Number of secondary school, teacher and student by municipality 2011","
-10.04 Number of secondary school, teacher and student by municipality 2011","
-10.04 Number of secondary school, teacher and student by municipality 2011"
-6,"
-Municipality","Number	Number of teacher of
-institute	Male   I Female  I	Total","Number	Number of teacher of
-institute	Male   I Female  I	Total","Number	Number of teacher of
-institute	Male   I Female  I	Total","Number	Number of teacher of
-institute	Male   I Female  I	Total","Number	Number of teacher of
-institute	Male   I Female  I	Total","Number of student
-Male I Female I Total","Number of student
-Male I Female I Total","Number of student
-Male I Female I Total","Number of student
-Male I Female I Total","Students	I
-per teacher"
+5," 10.04 Number of secondary school, teacher and student by municipality 2011"," 10.04 Number of secondary school, teacher and student by municipality 2011"," 10.04 Number of secondary school, teacher and student by municipality 2011"," 10.04 Number of secondary school, teacher and student by municipality 2011"," 10.04 Number of secondary school, teacher and student by municipality 2011"," 10.04 Number of secondary school, teacher and student by municipality 2011"," 10.04 Number of secondary school, teacher and student by municipality 2011"," 10.04 Number of secondary school, teacher and student by municipality 2011"," 10.04 Number of secondary school, teacher and student by municipality 2011"," 10.04 Number of secondary school, teacher and student by municipality 2011"," 10.04 Number of secondary school, teacher and student by municipality 2011"
+6, Municipality,Number	Number of teacher of institute	Male   I Female  I	Total,Number	Number of teacher of institute	Male   I Female  I	Total,Number	Number of teacher of institute	Male   I Female  I	Total,Number	Number of teacher of institute	Male   I Female  I	Total,Number	Number of teacher of institute	Male   I Female  I	Total,Number of student Male I Female I Total,Number of student Male I Female I Total,Number of student Male I Female I Total,Number of student Male I Female I Total,Students	I per teacher
 7,Munshiganj Sadar,IO	145,IO	145,69,69,214,4292,5101,5101,9393,44
 8,Total,10	145,10	145,69,69,214,4292,5101,5101,9393,44

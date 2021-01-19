@@ -1,12 +1,10 @@
 ,0,1,2,3,4,5
 0,Number of family planning clinical centre by municipality 2011,,,,,
-1,"
-Upazila",Sterilization centre,"
-Mobile centre","
-Injection centre",Menstrual regularization centre,Family welfare centre
-2,Kamalnagar,0,0,0,0,0
-3,Lakshmipur Sadar,1,0,3,2,0
-4,Ramganj,1,0,1,1,1
-5,Ramgati,1,0,1,1,1
-6,Roypur,1,24,1,1,0
-7,Total,4,24,6,5,2
+1,,,,,,
+2, Upazila,Sterilization centre, Mobile centre, Injection centre,Menstrual regularization centre,Family welfare centre
+3,Kamalnagar,0,0,0,0,0
+4,Lakshmipur Sadar,1,0,3,2,0
+5,Ramganj,1,0,1,1,1
+6,Ramgati,1,0,1,1,1
+7,Roypur,1,24,1,1,0
+8,Total,4,24,6,5,2

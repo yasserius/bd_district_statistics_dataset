@@ -1,26 +1,12 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from nationalized bank 2011",,,,,,,,,,,
-1,"
-
-Upazila","
-Number of branch of all nationalized banks",Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-
-Upazila","
-Number of branch of all nationalized banks","Agriculture
-debt","Agriculture
-debt",Industry debt,Industry debt,Other debt,Other debt,"Number of
-borrower","Number of
-borrower","Total debt
-(crore tk)","Total debt
-(crore tk)"
-3,"
-
-Upazila","
-Number of branch of all nationalized banks",Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Amtali,8,717,0,0,0,525,0,1242,0,11,11
-5,Bamna,1,0,0,0,0,244,215,244,215,31,15
-6,Barguna Sadar,5,13573,0,0,0,7355,0,20928,0,0,72
-7,Betagi,3,0,0,0,0,0,0,0,0,0,0
-8,Patharghata,3,13400,920,38,9,540,1394,18838,1403,30.36,0
-9,Total,17,27690,920,38,9,8664,1609,20324,1618,72.36,98
+1,,,,,,,,,,,,
+2,  Upazila, Number of branch of all nationalized banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3,  Upazila, Number of branch of all nationalized banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
+4,  Upazila, Number of branch of all nationalized banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+5,Amtali,8,717,0,0,0,525,0,1242,0,11,11
+6,Bamna,1,0,0,0,0,244,215,244,215,31,15
+7,Barguna Sadar,5,13573,0,0,0,7355,0,20928,0,0,72
+8,Betagi,3,0,0,0,0,0,0,0,0,0,0
+9,Patharghata,3,13400,920,38,9,540,1394,18838,1403,30.36,0
+10,Total,17,27690,920,38,9,8664,1609,20324,1618,72.36,98

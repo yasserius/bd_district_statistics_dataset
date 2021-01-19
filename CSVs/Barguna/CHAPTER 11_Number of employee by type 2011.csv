@@ -1,14 +1,10 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,"
-Upazila","
-Police personnel","
-Ansar personnel","
-VDP personnel",Autonomous body,"Local
-Government employee"
-2,Amtali,47,384,11584,28,131
-3,Bamna,24,260,2304,788,110
-4,Barguna Sadar,45,484,12480,16,172
-5,Betagi,36,0,5,41,100
-6,Patharghata,68,388,5248,25,36
-7,Total,220,1516,31621,898,549
+1,,,,,,
+2, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous body,Local Government employee
+3,Amtali,47,384,11584,28,131
+4,Bamna,24,260,2304,788,110
+5,Barguna Sadar,45,484,12480,16,172
+6,Betagi,36,0,5,41,100
+7,Patharghata,68,388,5248,25,36
+8,Total,220,1516,31621,898,549

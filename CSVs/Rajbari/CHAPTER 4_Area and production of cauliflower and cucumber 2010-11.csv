@@ -1,13 +1,10 @@
 ,0,1,2,3,4
 0,Area and production of cauliflower and cucumber 2010-11,,,,
 1,(Area in acre and production in metric ton),,,,
-2,"
-Upazila",Cauliflower,Cauliflower,Cucumber,Cucumber
-3,"
-Upazila",Area,Production,Area,Production
-4,Baliakandi,82,233,24,30
-5,Goalanda,83,249,10,9
-6,Kalukhali,52,187,40,100
-7,Pangsha,83,299,62,155
-8,Rajbari Sadar,145,210,57,46
-9,Total,445,1178,193,340
+2,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
+3,Baliakandi,82,233,24,30
+4,Goalanda,83,249,10,9
+5,Kalukhali,52,187,40,100
+6,Pangsha,83,299,62,155
+7,Rajbari Sadar,145,210,57,46
+8,Total,445,1178,193,340

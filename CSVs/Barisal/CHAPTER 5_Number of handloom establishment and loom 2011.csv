@@ -1,10 +1,7 @@
 ,0,1,2,3,4
 0,Number of handloom establishment and loom 2011,,,,
-1,"
-Upazila/city corporation",Number of Unit (factory),Number of loom,Number of loom,Number of loom
-2,"
-Upazila/city corporation",Number of Unit (factory),Operational,"Non-
-operational",Total
+1,,,,,
+2,Upazila/city corporation,Number of Unit (factory),Number of loom Operational,Number of loom Non- operational,Number of loom Total
 3,Agailjhara,0,0,0,0
 4,Babuganj,0,0,0,0
 5,Bakerganj,0,0,0,0

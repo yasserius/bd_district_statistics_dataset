@@ -1,14 +1,12 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C","Number of
-current account"
-2,Fulchhari,3,27,13167,1017
-3,Gaibandha Sadar,13,221,83554,9831
-4,Gobindaganj,8,103,47379,5284
-5,Palashbari,2,41,16310,1907
-6,Sadullapur,7,72,74730,4745
-7,Saghata,7,112,38185,118
-8,Sundarganj,4,59,56811,2819
-9,Total,44,635,330136,25721
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current account
+3,Fulchhari,3,27,13167,1017
+4,Gaibandha Sadar,13,221,83554,9831
+5,Gobindaganj,8,103,47379,5284
+6,Palashbari,2,41,16310,1907
+7,Sadullapur,7,72,74730,4745
+8,Saghata,7,112,38185,118
+9,Sundarganj,4,59,56811,2819
+10,Total,44,635,330136,25721

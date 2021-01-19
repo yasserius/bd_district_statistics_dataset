@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,"Area and Production of wheat, jute and sugarcane 2010-11",,,,,,
-1,"
-Upazila/city corporation",Wheat,Wheat,Jute,Jute,Sugarcane,Sugarcane
-2,"
-Upazila/city corporation",Area,Production,Area,Production,Area,Production
+1,,,,,,,
+2,Upazila/city corporation,Wheat Area,Wheat Production,Jute Area,Jute Production,Sugarcane Area,Sugarcane Production
 3,Batiaghata,8,5,163,85,2.5,13
 4,Dacope,0,0,7,3,0,0
 5,Dighalia,18,16,212,3987,5,3025

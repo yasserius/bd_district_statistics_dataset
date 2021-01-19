@@ -1,16 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Number and area of pond, dighee and other area 2010-2011",,,,,,
-1,(Area in Acre),(Area in Acre),(Area in Acre),(Area in Acre),(Area in Acre),(Area in Acre),(Area in Acre)
-2,"
-Upazila",Pond,Pond,Dighee,Dighee,"
-Other area","
-Total area"
-3,"
-Upazila",Number,Area,Number,Area,"
-Other area","
-Total area"
-4,Jhalokati Sadar,10492,981,94,71,10452,11504
-5,Kanthalia,3747,265,0,0,65,1778
-6,Nalchity,5200,300,20,50,175,525
-7,Rajpur,4136,330,10,8,0,0
-8,Total,23575,1876,124,129,10692,13807
+1,,,,,,,
+2,(Area in Acre),(Area in Acre),(Area in Acre),(Area in Acre),(Area in Acre),(Area in Acre),(Area in Acre)
+3, Upazila,Pond,Pond,Dighee,Dighee, Other area, Total area
+4, Upazila,Number,Area,Number,Area, Other area, Total area
+5,Jhalokati Sadar,10492,981,94,71,10452,11504
+6,Kanthalia,3747,265,0,0,65,1778
+7,Nalchity,5200,300,20,50,175,525
+8,Rajpur,4136,330,10,8,0,0
+9,Total,23575,1876,124,129,10692,13807

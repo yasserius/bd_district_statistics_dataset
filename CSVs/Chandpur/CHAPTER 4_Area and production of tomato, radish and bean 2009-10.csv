@@ -1,10 +1,8 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2009-10",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Tomato,Tomato,Radish,Radish,Beans,Beans
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
+2, Upazila,Tomato,Tomato,Radish,Radish,Beans,Beans
+3, Upazila,Area,Production,Area,Production,Area,Production
 4,Chandpur Sadar,642,5720,375,9180,75,180
 5,Foridganj,143,1044,223,1980,174,565
 6,Haimchar,482,3413,370,2700,148,270

@@ -1,12 +1,12 @@
 ,0,1,2,3,4,5
 0,Sanction post of Government employee by category 2011,,,,,
-1,Upazila,Class-I,Class-II,Class-III,Class-IV,"Number of
-employee"
-2,Barlekha,21,29,206,76,332
-3,Juri,35,23,431,86,575
-4,Kamalganj,17,22,107,58,204
-5,Kulaura,55,44,1461,132,1692
-6,Moulvibazar Sadar,152,128,984,463,1727
-7,Rajnagar,34,22,268,140,464
-8,Sreemangal,35,100,1427,805,2367
-9,Total,349,368,4884,1760,7361
+1,,,,,,
+2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
+3,Barlekha,21,29,206,76,332
+4,Juri,35,23,431,86,575
+5,Kamalganj,17,22,107,58,204
+6,Kulaura,55,44,1461,132,1692
+7,Moulvibazar Sadar,152,128,984,463,1727
+8,Rajnagar,34,22,268,140,464
+9,Sreemangal,35,100,1427,805,2367
+10,Total,349,368,4884,1760,7361

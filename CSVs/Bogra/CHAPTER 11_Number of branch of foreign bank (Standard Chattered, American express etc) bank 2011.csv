@@ -1,18 +1,17 @@
 ,0,1,2,3
 0,"Number of branch of foreign bank (Standard Chattered, American express etc) bank 2011",,,
-1,Upazila,Number of employee,"Number of savings
-A/C","Number of current
-A/C"
-2,Adamdighi,0,0,0
-3,Bogra sadar,8,1850,325
-4,Dhunat,0,0,0
-5,Gabtali,0,0,0
-6,Dhupchanchia,0,0,0
-7,Kahaloo,0,0,0
-8,Nandigram,0,0,0
-9,Sariakandi,0,0,0
-10,Sherpur,11,345,187
-11,Shibganj,0,0,0
-12,Sonatola,0,0,0
-13,Shajahanpur,0,0,0
-14,Total,19,2195,512
+1,,,,
+2,Upazila,Number of employee,Number of savings A/C,Number of current A/C
+3,Adamdighi,0,0,0
+4,Bogra sadar,8,1850,325
+5,Dhunat,0,0,0
+6,Gabtali,0,0,0
+7,Dhupchanchia,0,0,0
+8,Kahaloo,0,0,0
+9,Nandigram,0,0,0
+10,Sariakandi,0,0,0
+11,Sherpur,11,345,187
+12,Shibganj,0,0,0
+13,Sonatola,0,0,0
+14,Shajahanpur,0,0,0
+15,Total,19,2195,512

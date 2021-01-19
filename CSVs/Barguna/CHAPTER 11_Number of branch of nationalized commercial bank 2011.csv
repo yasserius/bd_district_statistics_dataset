@@ -1,12 +1,10 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C","Number of
-current A/C"
-2,Amtali,5,51,27565,3721
-3,Bamna,1,10,1905,210
-4,Barguna Sadar,5,78,47634,2939
-5,Betagi,3,24,15289,1534
-6,Patharghata,3,32,24749,2002
-7,Total,17,195,117142,10406
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Amtali,5,51,27565,3721
+4,Bamna,1,10,1905,210
+5,Barguna Sadar,5,78,47634,2939
+6,Betagi,3,24,15289,1534
+7,Patharghata,3,32,24749,2002
+8,Total,17,195,117142,10406

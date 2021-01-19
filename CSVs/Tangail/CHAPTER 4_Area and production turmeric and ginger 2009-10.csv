@@ -1,20 +1,17 @@
 ,0,1,2,3,4
 0,Area and production turmeric and ginger 2009-10,,,,
 1,(Area in acres & production in metric tons),,,,
-2,"
-Upazila",Turmeric,Turmeric,Ginger,Ginger
-3,"
-Upazila",Area,Production,Area,Production
-4,Basail,25,20,17,27
-5,Bhuapur,57,19.65,28,109.3
-6,Delduar,40,31,25,89
-7,Dhanbari,90,99,86,447.2
-8,Ghatail,748,560,334,721
-9,Gopalpur,60,49.63,35,119.9
-10,Kalihati,40,160,25,90
-11,Madhupur,913,1004.3,934,4
-12,Mirzapur,211,153,137,289
-13,Nagarpur,26,30,47,185
-14,Sakhipur,810,804,275,460
-15,Tangail Sadar,122,310,98,420
-16,Total,3142,3240.58,2041,2961.4
+2,Upazila,Turmeric Area,Turmeric Production,Ginger Area,Ginger Production
+3,Basail,25,20,17,27
+4,Bhuapur,57,19.65,28,109.3
+5,Delduar,40,31,25,89
+6,Dhanbari,90,99,86,447.2
+7,Ghatail,748,560,334,721
+8,Gopalpur,60,49.63,35,119.9
+9,Kalihati,40,160,25,90
+10,Madhupur,913,1004.3,934,4
+11,Mirzapur,211,153,137,289
+12,Nagarpur,26,30,47,185
+13,Sakhipur,810,804,275,460
+14,Tangail Sadar,122,310,98,420
+15,Total,3142,3240.58,2041,2961.4

@@ -1,13 +1,11 @@
 ,0,1,2,3,4,5
 0,Number of employee by local Government institution 2011,,,,,
-1,Upazila,"City
-corporation",Municipality,Zila parishad,"Upazila
-parishad","Union
-parishad"
-2,Belabo,0,0,0,0,87
-3,Manohardi,0,20,0,4,122
-4,Narsingdi Sadar,0,141,19,14,126
-5,Palash,0,34,0,3,4
-6,Roypura,0,34,0,1,218
-7,Sibpur,0,15,0,579,106
-8,Total,0,244,19,601,663
+1,,,,,,
+2,Upazila,City corporation,Municipality,Zila parishad,Upazila parishad,Union parishad
+3,Belabo,0,0,0,0,87
+4,Manohardi,0,20,0,4,122
+5,Narsingdi Sadar,0,141,19,14,126
+6,Palash,0,34,0,3,4
+7,Roypura,0,34,0,1,218
+8,Sibpur,0,15,0,579,106
+9,Total,0,244,19,601,663

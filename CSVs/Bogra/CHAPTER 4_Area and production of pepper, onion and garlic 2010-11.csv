@@ -1,20 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Pepper,Pepper,Onion,Onion,Garlic,Garlic
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Adamdighi,8.25,1.89,66,147.83,30,44.8
-5,Bogra sadar,154,84,159,414,60,134
-6,Dhunat,2036,953.8,163,540.1,21.75,24.33
-7,Dhupchanchia,36.5,75.94,9.7,26.67,39,78.58
-8,Gabtali,997,442.24,652,1841.89,12.6,15.5
-9,Kahaloo,99,55,110,122,54,55
-10,Nandigram,13.2,3.564,56,95.76,40,26
-11,Sariakandi,3940,1432,900,931,10,6
-12,Shajahanpur,183,61,430,1191,79,80
-13,Sherpur,432,239,266,941,86,181
-14,Shibganj,398.55,266.94,306,465.50,120.9,138.09
-15,Sonatola,3396,2420,518,1559,138,196
-16,Total,11693.5,6035.374,3635.7,8275.75,691.25,979.3
+2,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
+3,Adamdighi,8.25,1.89,66,147.83,30,44.8
+4,Bogra sadar,154,84,159,414,60,134
+5,Dhunat,2036,953.8,163,540.1,21.75,24.33
+6,Dhupchanchia,36.5,75.94,9.7,26.67,39,78.58
+7,Gabtali,997,442.24,652,1841.89,12.6,15.5
+8,Kahaloo,99,55,110,122,54,55
+9,Nandigram,13.2,3.564,56,95.76,40,26
+10,Sariakandi,3940,1432,900,931,10,6
+11,Shajahanpur,183,61,430,1191,79,80
+12,Sherpur,432,239,266,941,86,181
+13,Shibganj,398.55,266.94,306,465.50,120.9,138.09
+14,Sonatola,3396,2420,518,1559,138,196
+15,Total,11693.5,6035.374,3635.7,8275.75,691.25,979.3

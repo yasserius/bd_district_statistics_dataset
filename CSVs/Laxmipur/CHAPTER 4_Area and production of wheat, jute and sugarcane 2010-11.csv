@@ -1,13 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of wheat, jute and sugarcane 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Wheat,Wheat,Jute,Jute,Sugarcane,Sugarcane
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Kamalnagar,22,29,0,0,223,87
-5,Lakshmipur Sadar,75,51,112,128,95,1315
-6,Ramganj,10,4,212,150,47,650
-7,Ramgati,0,0,0,0,0,0
-8,Roypur,16,11,0,0,207,2202
-9,Total,123,95,324,278,572,4254
+2,Upazila,Wheat Area,Wheat Production,Jute Area,Jute Production,Sugarcane Area,Sugarcane Production
+3,Kamalnagar,22,29,0,0,223,87
+4,Lakshmipur Sadar,75,51,112,128,95,1315
+5,Ramganj,10,4,212,150,47,650
+6,Ramgati,0,0,0,0,0,0
+7,Roypur,16,11,0,0,207,2202
+8,Total,123,95,324,278,572,4254

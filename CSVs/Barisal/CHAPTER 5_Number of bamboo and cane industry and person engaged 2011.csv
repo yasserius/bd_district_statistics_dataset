@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Number of bamboo and cane industry and person engaged 2011,,,,
-1,"
-Upazila/city corporation",Number of unit,Person engaged,Person engaged,Person engaged
-2,"
-Upazila/city corporation",Number of unit,Family,Hired,Total
+1,,,,,
+2,Upazila/city corporation,Number of unit,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Agailjhara,592,635,0,635
 4,Babuganj,22,34,0,34
 5,Bakerganj,430,815,103,918

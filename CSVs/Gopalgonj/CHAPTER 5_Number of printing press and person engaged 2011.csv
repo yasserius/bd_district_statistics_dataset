@@ -1,14 +1,11 @@
 ,0,1,2,3,4
 0,Number of printing press and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Gopalganj Sadar,8,8,31,39
-4,Kashiani,3,5,5,10
-5,Kotalipara,2,4,12,16
-6,Muksudpur,3,4,9,12
-7,Tungipara,0,0,0,0
-8,Total,16,21,57,77
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Gopalganj Sadar,8,8,31,39
+5,Kashiani,3,5,5,10
+6,Kotalipara,2,4,12,16
+7,Muksudpur,3,4,9,12
+8,Tungipara,0,0,0,0
+9,Total,16,21,57,77

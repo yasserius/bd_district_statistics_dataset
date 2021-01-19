@@ -1,14 +1,10 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting cattle heads 2008,,,,,,
-1,"
-Upazila","
-Total holding",Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
-2,"
-Upazila","
-Total holding",1-3 heads,4-6 heads,7 -9 heads,10-15 heads,"15 heads &
-above"
-3,Alamdanga,37046,30602,6076,368,0,0
-4,Chuadanga Sadar,44795,43169,1084,330,140,72
-5,Damurhuda,48741,31741,15000,1000,900,100
-6,Jibonnagar,25660,20550,3105,1015,850,140
-7,Total,156242,126062,25265,2713,1890,312
+1,,,,,,,
+2, Upazila, Total holding,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
+3, Upazila, Total holding,1-3 heads,4-6 heads,7 -9 heads,10-15 heads,15 heads & above
+4,Alamdanga,37046,30602,6076,368,0,0
+5,Chuadanga Sadar,44795,43169,1084,330,140,72
+6,Damurhuda,48741,31741,15000,1000,900,100
+7,Jibonnagar,25660,20550,3105,1015,850,140
+8,Total,156242,126062,25265,2713,1890,312

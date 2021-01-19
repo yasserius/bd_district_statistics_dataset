@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of oil mills and persons engaged 2011,,,,
-1,"
-Upazila","
-Units",Persons engaged,Persons engaged,Persons engaged
-2,"
-Upazila","
-Units",Family,Hired,Total
+1,,,,,
+2,Upazila,Units,Persons engaged Family,Persons engaged Hired,Persons engaged Total
 3,Gangni,45,45,90,135
 4,Mujibnagar,23,23,16,39
 5,Meherpur Sadar,4,48,16,64

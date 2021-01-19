@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of establishment and person engaged in cottage industry 2011,,,,
-1,"
-Upazila","
-Number of unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Number of unit",Family,Hired,Total
+1,,,,,
+2,Upazila,Number of unit,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Adamdighi,791,1531,51,1582
 4,Bogra sadar,29,82,102,184
 5,Dhunat,4626,11000,565,11565

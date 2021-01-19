@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Medical institution and personnel by municipality 2011,,,,,,
-1,"
-Municipality",Govt. institutions,Private institutions,Medical personnel,Medical personnel,Medical personnel,Medical personnel
-2,"
-Municipality",Govt. institutions,Private institutions,Beds,Doctors,Nurses,Technicians
+1,,,,,,,
+2,Municipality,Govt. institutions,Private institutions,Medical personnel Beds,Medical personnel Doctors,Medical personnel Nurses,Medical personnel Technicians
 3,Basail,0,0,0,0,0,0
 4,Bhuapur,0,10,70,38,19,27
 5,Delduar,0,0,0,0,0,0

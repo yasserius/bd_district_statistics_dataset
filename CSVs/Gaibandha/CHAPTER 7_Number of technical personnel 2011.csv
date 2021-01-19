@@ -1,14 +1,12 @@
 ,0,1,2,3,4,5,6,7
 0,Number of technical personnel 2011,,,,,,,
-1,"
-Upazila",Agricultural personnel,"Live- stock
-personnel",Plant protection,Fishery personnel,Sanitary personnel,"Family planning
-personnel",Trained midwife
-2,Fulchhari,43,500,250,640,200,150,60
-3,Gaibandha Sadar,70,35,314,150,65,138,42
-4,Gobindaganj,47,11,14,10,10,157,1
-5,Palashbari,58,165,361,47,163,71,0
-6,Sadullapur,149,62,145,32,420,89,283
-7,Saghata,29,105,0,22,49,418,30
-8,Sundarganj,155,122,25,120,244,860,0
-9,Total,551,1000,1109,1021,1151,1883,416
+1,,,,,,,,
+2, Upazila,Agricultural personnel,Live- stock personnel,Plant protection,Fishery personnel,Sanitary personnel,Family planning personnel,Trained midwife
+3,Fulchhari,43,500,250,640,200,150,60
+4,Gaibandha Sadar,70,35,314,150,65,138,42
+5,Gobindaganj,47,11,14,10,10,157,1
+6,Palashbari,58,165,361,47,163,71,0
+7,Sadullapur,149,62,145,32,420,89,283
+8,Saghata,29,105,0,22,49,418,30
+9,Sundarganj,155,122,25,120,244,860,0
+10,Total,551,1000,1109,1021,1151,1883,416

@@ -1,27 +1,22 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building material 2011,,,,,,
-1,(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka)
-2,Upazila,"Brick-01
-(per1000)","Cement
-(per 50 kg bag)","Iron bar
-(per ton)","Sand-01
-(per c.f.t.)","Sand -02
-(per c.f.t.)","Stone
-(per c.f.t.)"
-3,Adarsha Sadar,8000,465,73000,16,11,0
-4,Barura,7300,440,72000,13,15,110
-5,Brahmanpara,7000,460,70000,15,33,120
-6,Burichang,7000,480,58000,25,18,60
-7,Chandina,7200,490,70000,30,10,65
-8,Chauddagram,7200,460,70000,15,13,120
-9,Comilla Sadar Dakshin,8000,445,70000,13,13,118
-10,Daudkandi,6800,470,68000,30,7,80
-11,Debidwar,7000,475,71500,45,15,120
-12,Homna,8000,410,60000,35,15,80
-13,Laksam,6500,460,69000,40,14,90
-14,Monoharganj,6800,450,75000,28,16,125
-15,Meghna,7500,480,72000,40,15,120
-16,Muradnagar,7500,420,62500,45,15,120
-17,Nangalkot,7200,470,72000,38,18,75
-18,Titas,7200,460,71000,32,10,110
-19,Average,7263,458,69000,29,15,101
+1,,,,,,,
+2,(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka)
+3,Upazila,Brick-01 (per1000),Cement (per 50 kg bag),Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
+4,Adarsha Sadar,8000,465,73000,16,11,0
+5,Barura,7300,440,72000,13,15,110
+6,Brahmanpara,7000,460,70000,15,33,120
+7,Burichang,7000,480,58000,25,18,60
+8,Chandina,7200,490,70000,30,10,65
+9,Chauddagram,7200,460,70000,15,13,120
+10,Comilla Sadar Dakshin,8000,445,70000,13,13,118
+11,Daudkandi,6800,470,68000,30,7,80
+12,Debidwar,7000,475,71500,45,15,120
+13,Homna,8000,410,60000,35,15,80
+14,Laksam,6500,460,69000,40,14,90
+15,Monoharganj,6800,450,75000,28,16,125
+16,Meghna,7500,480,72000,40,15,120
+17,Muradnagar,7500,420,62500,45,15,120
+18,Nangalkot,7200,470,72000,38,18,75
+19,Titas,7200,460,71000,32,10,110
+20,Average,7263,458,69000,29,15,101

@@ -1,13 +1,12 @@
 ,0,1,2,3,4
 0,Number of handloom establishment and loom 2011,,,,
-1,"
-Upazila",Number of unit (factory),Number of loom,Number of loom,Number of loom
-2,"
-Upazila",Number of unit (factory),Operational,Non-operational,Total
-3,Bhedarganj,0,0,0,0
-4,Damudya,0,0,0,0
-5,Gosairhat,0,0,0,0
-6,Naria,25,30,20,50
-7,Shariatpur Sadar,0,0,0,0
-8,Zanjira,0,0,0,0
-9,Total,25,30,20,50
+1,,,,,
+2, Upazila,Number of unit (factory),Number of loom,Number of loom,Number of loom
+3, Upazila,Number of unit (factory),Operational,Non-operational,Total
+4,Bhedarganj,0,0,0,0
+5,Damudya,0,0,0,0
+6,Gosairhat,0,0,0,0
+7,Naria,25,30,20,50
+8,Shariatpur Sadar,0,0,0,0
+9,Zanjira,0,0,0,0
+10,Total,25,30,20,50

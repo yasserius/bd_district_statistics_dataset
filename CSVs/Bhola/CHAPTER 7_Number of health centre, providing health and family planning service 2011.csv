@@ -1,14 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Number of health centre, providing health and family planning service 2011",,,,,,
-1,"
-Upazila",Number of health centre,Health service,"
-Sterilization","
-M.R.",Injection/ copper-T,Oral pill/ condom
-2,Bhola Sadar,10,0,1188,1758,92845,185191
-3,Burhanuddin,29,39854,1560,25,18435,19834
-4,Char Fasson,12,84560,153,134,98371,673719
-5,Daulatkhan,6,28649,0,10,280,2010
-6,Lalmohan,8,87448,4146,303,20652,19123
-7,Manpura,0,27963,0,0,0,0
-8,Tazumuddin,3,196992,130,162,37077,159623
-9,Total,68,465466,7177,2392,174815,1059500
+1,,,,,,,
+2,Upazila,Number of health centre,Health service,Sterilization,M.R.,Injection/ copper-T,Oral pill/ condom
+3,Bhola Sadar,10,0,1188,1758,92845,185191
+4,Burhanuddin,29,39854,1560,25,18435,19834
+5,Char Fasson,12,84560,153,134,98371,673719
+6,Daulatkhan,6,28649,0,10,280,2010
+7,Lalmohan,8,87448,4146,303,20652,19123
+8,Manpura,0,27963,0,0,0,0
+9,Tazumuddin,3,196992,130,162,37077,159623
+10,Total,68,465466,7177,2392,174815,1059500

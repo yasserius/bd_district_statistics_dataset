@@ -1,20 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Number of Government office, post office, bank, NGO and dak-banglow, rest house 2011",,,,,,
-1,"
-Upazila",All   Government offices,"
-Post office","All   nationalized
-bank branches",All private bank branches,"
-All NGOs","
-Dak-banglow/ rest house"
-2,Atrai,26,28,9,5,19,2
-3,Badalgachhi,25,13,3,0,21,1
-4,Dhamoirhat,26,11,5,0,30,1
-5,Manda,27,23,10,0,20,1
-6,Mahadebpur,24,19,9,3,17,1
-7,Naogaon sadar,66,16,9,18,76,4
-8,Niamatpur,28,12,4,2,12,1
-9,Patnitala,29,22,9,3,23,3
-10,Porsha,27,11,4,0,6,1
-11,Raninagar,23,7,6,0,27,1
-12,Sapahar,25,13,5,1,19,2
-13,Total,326,175,73,32,270,18
+1,,,,,,,
+2, Upazila,All   Government offices, Post office,All   nationalized bank branches,All private bank branches, All NGOs, Dak-banglow/ rest house
+3,Atrai,26,28,9,5,19,2
+4,Badalgachhi,25,13,3,0,21,1
+5,Dhamoirhat,26,11,5,0,30,1
+6,Manda,27,23,10,0,20,1
+7,Mahadebpur,24,19,9,3,17,1
+8,Naogaon sadar,66,16,9,18,76,4
+9,Niamatpur,28,12,4,2,12,1
+10,Patnitala,29,22,9,3,23,3
+11,Porsha,27,11,4,0,6,1
+12,Raninagar,23,7,6,0,27,1
+13,Sapahar,25,13,5,1,19,2
+14,Total,326,175,73,32,270,18

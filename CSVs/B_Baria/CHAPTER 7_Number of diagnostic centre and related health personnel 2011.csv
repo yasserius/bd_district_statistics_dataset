@@ -1,18 +1,14 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,Upazila,"Number of
-centre","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Akhaura,11,0,0,21,35
-3,Ashuganj,2,3,3,5,5
-4,Banchharampur,1,2,0,3,3
-5,Bijoynagar,2,4,2,5,7
-6,Brahmanbaria Sadar,20,20,0,60,70
-7,Kasba,11,5,0,22,12
-8,Nabinagar,12,12,12,15,32
-9,Nasirnagar,3,3,6,3,10
-10,Sarail,6,0,0,6,38
-11,Total,68,49,23,140,212
+1,,,,,,
+2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Akhaura,11,0,0,21,35
+4,Ashuganj,2,3,3,5,5
+5,Banchharampur,1,2,0,3,3
+6,Bijoynagar,2,4,2,5,7
+7,Brahmanbaria Sadar,20,20,0,60,70
+8,Kasba,11,5,0,22,12
+9,Nabinagar,12,12,12,15,32
+10,Nasirnagar,3,3,6,3,10
+11,Sarail,6,0,0,6,38
+12,Total,68,49,23,140,212

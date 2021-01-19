@@ -1,13 +1,13 @@
 ,0,1,2,3
 0,Number of vocational institute by municipality 2011,,,
-1,Municipality,"Number of
-institution",Number of teacher,Number of student
-2,Noapara,0,0,0
-3,Bagherpara,0,0,0
-4,Chaugachha,0,0,0
-5,Jessore,0,0,0
-6,Jhikargachha,0,0,0
-7,Keshabpur,2,15,350
-8,Manirampur,0,0,0
-9,Benapole,0,0,0
-10,Total,2,15,350
+1,,,,
+2,Municipality,Number of institution,Number of teacher,Number of student
+3,Noapara,0,0,0
+4,Bagherpara,0,0,0
+5,Chaugachha,0,0,0
+6,Jessore,0,0,0
+7,Jhikargachha,0,0,0
+8,Keshabpur,2,15,350
+9,Manirampur,0,0,0
+10,Benapole,0,0,0
+11,Total,2,15,350

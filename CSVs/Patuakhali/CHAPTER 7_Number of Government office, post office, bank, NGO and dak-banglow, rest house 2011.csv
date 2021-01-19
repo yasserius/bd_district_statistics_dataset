@@ -1,16 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Number of Government office, post office, bank, NGO and dak-banglow, rest house 2011",,,,,,
-1,"
-Upazila",All   Government offices,"
-Post office","All   nationalized bank
-branches",All private bank branches,"
-All NGOs","
-Dak-banglow/ rest house"
-2,Bauphal,29,52,11,0,25,2
-3,Dashmina,25,6,6,0,18,1
-4,Dumki,21,8,6,0,14,1
-5,Galachipa,26,30,11,4,17,2
-6,Kalapara,31,27,11,3,23,3
-7,Mirzaganj,30,25,3,0,7,2
-8,Patuakhali Sadar,23,42,17,14,16,8
-9,Total,185,190,65,21,120,19
+1,,,,,,,
+2, Upazila,All   Government offices, Post office,All   nationalized bank branches,All private bank branches, All NGOs, Dak-banglow/ rest house
+3,Bauphal,29,52,11,0,25,2
+4,Dashmina,25,6,6,0,18,1
+5,Dumki,21,8,6,0,14,1
+6,Galachipa,26,30,11,4,17,2
+7,Kalapara,31,27,11,3,23,3
+8,Mirzaganj,30,25,3,0,7,2
+9,Patuakhali Sadar,23,42,17,14,16,8
+10,Total,185,190,65,21,120,19

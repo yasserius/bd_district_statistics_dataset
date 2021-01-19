@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,Upazila,Household,Population,Population,Population,Sex ratio (M/F),Average size of household,Density per sq. km.
-2,Upazila,Household,Male,Female,Total,Sex ratio (M/F),Average size of household,Density per sq. km.
-3,Bhurungamari,57005,113502,118036,231538,96,4.06,980
-4,Char Rajibpur,17310,35372,38001,73373,93,4.24,661
-5,Chilmari,30966,59414,63427,122841,94,3.96,546
-6,Kurigram Sadar,72592,78568,81682,160250,98,4.26,1130
-7,Nageshwari,94108,154500,157908,312408,96,4.18,944
-8,Phulbari,39643,193444,200814,394258,96,4.04,1023
-9,Rajarhat,46489,88818,94163,182981,94,3.93,1098
-10,Raumari,46871,95783,100634,196417,95,4.19,997
-11,Ulipur,103061,191041,204166,395207,94,3.83,862
-12,Total,508045,1010442,1058831,2069273,95,4.06,922
+1,,,,,,,,
+2,Upazila,Household,Population,Population,Population,Sex ratio (M/F),Average size of household,Density per sq. km.
+3,Upazila,Household,Male,Female,Total,Sex ratio (M/F),Average size of household,Density per sq. km.
+4,Bhurungamari,57005,113502,118036,231538,96,4.06,980
+5,Char Rajibpur,17310,35372,38001,73373,93,4.24,661
+6,Chilmari,30966,59414,63427,122841,94,3.96,546
+7,Kurigram Sadar,72592,78568,81682,160250,98,4.26,1130
+8,Nageshwari,94108,154500,157908,312408,96,4.18,944
+9,Phulbari,39643,193444,200814,394258,96,4.04,1023
+10,Rajarhat,46489,88818,94163,182981,94,3.93,1098
+11,Raumari,46871,95783,100634,196417,95,4.19,997
+12,Ulipur,103061,191041,204166,395207,94,3.83,862
+13,Total,508045,1010442,1058831,2069273,95,4.06,922

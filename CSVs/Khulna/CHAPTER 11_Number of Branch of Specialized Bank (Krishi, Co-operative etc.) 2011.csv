@@ -1,19 +1,15 @@
 ,0,1,2,3,4
 0,"Number of Branch of Specialized Bank (Krishi, Co-operative etc.) 2011",,,,
-1,Upazila/city corporation,Number of branch,Number of employee,"Number
-of savings A/C",Number of current A/C
-2,Batiaghata,2,14,4356,44
-3,Dacope,2,18,13694,212
-4,Dighalia,1,7,11533,20
-5,Dumuria,2,23,16808,146
-6,Khulna City Corporation,"
-6","
-98","
-9025","
-2959"
-7,Koyra,2,16,29765,268
-8,Paikgachha,3,35,4560,2130
-9,Phultala,2,20,16221,303
-10,Rupsa,2,23,5493,95
-11,Terokhada,1,8,7176,15
-12,Total,23.00,262.00,118631.00,6192.00
+1,,,,,
+2,Upazila/city corporation,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Batiaghata,2,14,4356,44
+4,Dacope,2,18,13694,212
+5,Dighalia,1,7,11533,20
+6,Dumuria,2,23,16808,146
+7,Khulna City Corporation, 6, 98, 9025, 2959
+8,Koyra,2,16,29765,268
+9,Paikgachha,3,35,4560,2130
+10,Phultala,2,20,16221,303
+11,Rupsa,2,23,5493,95
+12,Terokhada,1,8,7176,15
+13,Total,23.00,262.00,118631.00,6192.00

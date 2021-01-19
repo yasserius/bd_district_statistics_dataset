@@ -1,18 +1,17 @@
 ,0,1,2,3,4,5
 0,"Number of non-registered rickshaw, van, easy bike and auto-rickshaw 2011",,,,,
-1,Upazila,Rickshaw,Van,"Easy bike and
-auto-rickshaw",Tempo,"Nochimon/korimon/
-bhotvoti"
-2,Adamdighi,0,290,166,0,293
-3,Bogra sadar,485,1200,215,15,52
-4,Dhunat,62,88,80,38,122
-5,Gabtali,16,25,11,0,176
-6,Dhupchanchia,25,75,35,20,165
-7,Kahaloo,312,2038,94,42,50
-8,Nandigram,75,80,15,20,65
-9,Sariakandi,0,80,0,0,99
-10,Sherpur,425,1038,0,30,65
-11,Shibganj,12,175,0,0,125
-12,Sonatola,1,1000,10,5,500
-13,Shajahanpur,109,768,142,36,57
-14,Total,1522,6857,768,206,1769
+1,,,,,,
+2,Upazila,Rickshaw,Van,Easy bike and auto-rickshaw,Tempo,Nochimon/korimon/ bhotvoti
+3,Adamdighi,0,290,166,0,293
+4,Bogra sadar,485,1200,215,15,52
+5,Dhunat,62,88,80,38,122
+6,Gabtali,16,25,11,0,176
+7,Dhupchanchia,25,75,35,20,165
+8,Kahaloo,312,2038,94,42,50
+9,Nandigram,75,80,15,20,65
+10,Sariakandi,0,80,0,0,99
+11,Sherpur,425,1038,0,30,65
+12,Shibganj,12,175,0,0,125
+13,Sonatola,1,1000,10,5,500
+14,Shajahanpur,109,768,142,36,57
+15,Total,1522,6857,768,206,1769

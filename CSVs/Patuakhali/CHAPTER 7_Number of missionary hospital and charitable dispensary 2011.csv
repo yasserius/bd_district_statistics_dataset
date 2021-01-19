@@ -1,17 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Number of missionary hospital and charitable dispensary 2011,,,,,,
-1,Upazila,"Number
-of centre","Number
-of bed","Number
-of doctor","Number
-of nurse","Number of
-technician","Number of
-other staff"
-2,Bauphal,0,0,0,0,0,0
-3,Dashmina,0,0,0,0,0,0
-4,Dumki,1,18,3,16,2,34
-5,Galachipa,0,0,0,0,0,0
-6,Kalapara,0,0,0,0,0,0
-7,Mirzaganj,0,0,0,0,0,0
-8,Patuakhali Sadar,0,0,0,0,0,0
-9,Total,1,18,3,16,2,34
+1,,,,,,,
+2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Bauphal,0,0,0,0,0,0
+4,Dashmina,0,0,0,0,0,0
+5,Dumki,1,18,3,16,2,34
+6,Galachipa,0,0,0,0,0,0
+7,Kalapara,0,0,0,0,0,0
+8,Mirzaganj,0,0,0,0,0,0
+9,Patuakhali Sadar,0,0,0,0,0,0
+10,Total,1,18,3,16,2,34

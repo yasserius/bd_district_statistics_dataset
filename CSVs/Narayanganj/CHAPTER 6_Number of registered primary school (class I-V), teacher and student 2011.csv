@@ -1,16 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of registered primary school (class I-V), teacher and student 2011",,,,,,,,
-1,"
-Upazila","Number of registered
-primary school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students per
-teacher"
-2,"
-Upazila","Number of registered
-primary school",Male,Female,Total,Male,Female,Total,"Students per
-teacher"
-3,Araihazar,7,20,7,27,463,565,1028,38
-4,Bandar,10,10,27,37,1080,1018,2098,57
-5,Narayanganj Sadar,7,22,17,39,1807,1775,3582,92
-6,Rupganj,26,36,69,105,3710,4018,7728,74
-7,Sonargaon,29,15,79,94,2932,3307,6239,66
-8,Total,79,103,199,302,9992,10683,20675,68
+1,,,,,,,,,
+2, Upazila,Number of registered primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of registered primary school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Araihazar,7,20,7,27,463,565,1028,38
+5,Bandar,10,10,27,37,1080,1018,2098,57
+6,Narayanganj Sadar,7,22,17,39,1807,1775,3582,92
+7,Rupganj,26,36,69,105,3710,4018,7728,74
+8,Sonargaon,29,15,79,94,2932,3307,6239,66
+9,Total,79,103,199,302,9992,10683,20675,68

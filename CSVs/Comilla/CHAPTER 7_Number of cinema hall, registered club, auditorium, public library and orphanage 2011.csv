@@ -1,20 +1,21 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
-2,Adarsha Sadar,4,409,3,10,4
-3,Barura,0,125,15,11,1
-4,Brahmanpara,1,15,1,9,1
-5,Burichang,1,18,1,12,1
-6,Chandina,1,45,0,14,0
-7,Chauddagram,0,33,1,6,1
-8,Comilla Sadar Dakshin,0,109,0,9,5
-9,Daudkandi,1,129,1,12,0
-10,Debidwar,0,4,1,15,1
-11,Homna,1,74,1,14,1
-12,Laksam,2,18,28,4,3
-13,Monoharganj,0,34,9,6,0
-14,Meghna,0,0,0,5,0
-15,Muradnagar,2,87,1,35,0
-16,Nangalkot,0,82,3,19,1
-17,Titas,0,40,0,12,1
-18,Total,13,1222,65,193,20
+1,,,,,,
+2,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
+3,Adarsha Sadar,4,409,3,10,4
+4,Barura,0,125,15,11,1
+5,Brahmanpara,1,15,1,9,1
+6,Burichang,1,18,1,12,1
+7,Chandina,1,45,0,14,0
+8,Chauddagram,0,33,1,6,1
+9,Comilla Sadar Dakshin,0,109,0,9,5
+10,Daudkandi,1,129,1,12,0
+11,Debidwar,0,4,1,15,1
+12,Homna,1,74,1,14,1
+13,Laksam,2,18,28,4,3
+14,Monoharganj,0,34,9,6,0
+15,Meghna,0,0,0,5,0
+16,Muradnagar,2,87,1,35,0
+17,Nangalkot,0,82,3,19,1
+18,Titas,0,40,0,12,1
+19,Total,13,1222,65,193,20

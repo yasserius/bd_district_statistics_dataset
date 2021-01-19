@@ -1,19 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accccounts of Rupali and Agrani bank 2011,,,,,,,,,,
-1,"
-Upazila/city corporation",Rupali bank,Rupali bank,Rupali bank,Rupali bank,Rupali bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank
-2,"
-Upazila/city corporation",Number of  branch,Account,Account,Account,Account,Number of  branch,Account,Account,Account,Account
-3,"
-Upazila/city corporation",Number of  branch,S.D,C.D,F.D,S.T.D,Number of  branch,S.D,C.D,F.D,S.T.D
-4,Bagha,0,0,0,0,0,1,4572,874,323,5
-5,Baghmara,0,0,0,0,0,0,0,0,0,0
-6,Charghat,0,0,0,0,0,1,10900,900,100,6
-7,Durgapur,0,0,0,0,0,0,0,0,0,0
-8,Godagari,1,4197,67,67,13,1,190,904,205,0
-9,Mohanpur,0,0,0,0,0,1,115,405,261,8
-10,Paba,0,0,0,0,0,2,8000,2430,200,10
-11,Puthia,0,0,0,0,0,2,11889,675,104,13
-12,Rajshahi city corporation,5,12786,626,414,64,9,67950,3255,785,58
-13,Tanore,1,3463,148,0,0,0,0,0,0,0
-14,Total,7,20446,841,481,77,17,99044,6813,1978,100
+1,,,,,,,,,,,
+2,Upazila/city corporation,Rupali bank Number of branch Number of branch,Rupali bank Account S.D,Rupali bank Account C.D,Rupali bank Account F.D,Rupali bank Account S.T.D,Agrani bank Number of branch Number of branch,Agrani bank Account S.D,Agrani bank Account C.D,Agrani bank Account F.D,Agrani bank Account S.T.D
+3,Bagha,0,0,0,0,0,1,4572,874,323,5
+4,Baghmara,0,0,0,0,0,0,0,0,0,0
+5,Charghat,0,0,0,0,0,1,10900,900,100,6
+6,Durgapur,0,0,0,0,0,0,0,0,0,0
+7,Godagari,1,4197,67,67,13,1,190,904,205,0
+8,Mohanpur,0,0,0,0,0,1,115,405,261,8
+9,Paba,0,0,0,0,0,2,8000,2430,200,10
+10,Puthia,0,0,0,0,0,2,11889,675,104,13
+11,Rajshahi city corporation,5,12786,626,414,64,9,67950,3255,785,58
+12,Tanore,1,3463,148,0,0,0,0,0,0,0
+13,Total,7,20446,841,481,77,17,99044,6813,1978,100

@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Number of bridge, baily bridge, culvert, pool, shako and others 2011",,,,,,
-1,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
-2,Alikadam,7,0,6,7,10,0
-3,Bandarban Sadar,6,32,76,0,0,10
-4,Lama,6,6,205,12,0,0
-5,Naikhongchhari,31,0,165,0,0,0
-6,Rowangchhari,2,0,150,20,40,0
-7,Ruma,14,15,135,0,0,0
-8,Thanchi,10,4,7,0,0,0
-9,Total,76,57,744,39,50,10
+1,,,,,,,
+2,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
+3,Alikadam,7,0,6,7,10,0
+4,Bandarban Sadar,6,32,76,0,0,10
+5,Lama,6,6,205,12,0,0
+6,Naikhongchhari,31,0,165,0,0,0
+7,Rowangchhari,2,0,150,20,40,0
+8,Ruma,14,15,135,0,0,0
+9,Thanchi,10,4,7,0,0,0
+10,Total,76,57,744,39,50,10

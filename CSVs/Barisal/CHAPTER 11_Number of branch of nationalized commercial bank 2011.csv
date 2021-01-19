@@ -1,10 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Number of branch of nationalized commercial bank 2011,,,,,,
 1,(Figure in lac tk.),,,,,,
-2,"
-Upazila/city corporation","
-Number of branch",Number of   employee,Number of savings A/C,Number of current A/C,Average annual deposit tk.,"Annual credit
-disbursed tk."
+2,Upazila/city corporation,Number of branch,Number of employee,Number of savings A/C,Number of current A/C,Average annual deposit tk.,Annual credit disbursed tk.
 3,Agailjhara,3,32,29937,2030,6927,1885
 4,Babuganj,4,27,19760,445,119.93,628
 5,Bakerganj,9,82,40010,6465,326100000,910

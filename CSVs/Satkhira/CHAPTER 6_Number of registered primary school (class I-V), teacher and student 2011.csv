@@ -1,16 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of registered primary school (class I-V), teacher and student 2011",,,,,,,,
-1,"
-Upazila","Number of registered
-primary school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila","Number of registered
-primary school",Male,Female,Total,Male,Female,Total,Students per teacher
-3,Assasuni,64,133,83,216,4640,4466,9106,42
-4,Debhata,23,54,19,73,2017,1839,3856,53
-5,Kalaroa,57,114,66,180,4835,4423,9257,51
-6,Kaliganj,43,86,94,180,3487,3987,7474,42
-7,Satkhira Sadar,58,103,90,193,4510,4513,9023,47
-8,Shyamnagar,82,243,39,282,7776,7775,15551,55
-9,Tala,97,195,149,344,6265,6020,12285,36
-10,Total,424,928,540,1468,33530,33023,66552,45
+1,,,,,,,,,
+2, Upazila,Number of registered primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of registered primary school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Assasuni,64,133,83,216,4640,4466,9106,42
+5,Debhata,23,54,19,73,2017,1839,3856,53
+6,Kalaroa,57,114,66,180,4835,4423,9257,51
+7,Kaliganj,43,86,94,180,3487,3987,7474,42
+8,Satkhira Sadar,58,103,90,193,4510,4513,9023,47
+9,Shyamnagar,82,243,39,282,7776,7775,15551,55
+10,Tala,97,195,149,344,6265,6020,12285,36
+11,Total,424,928,540,1468,33530,33023,66552,45

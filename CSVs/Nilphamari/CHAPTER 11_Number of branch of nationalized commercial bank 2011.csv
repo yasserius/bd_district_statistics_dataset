@@ -1,13 +1,11 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C","Number of
-current account"
-2,Dimla,3,28,26667,1771
-3,Domar,4,54,37821,3939
-4,Jaldhaka,5,55,44951,2854
-5,Kishorgonj,2,21,8027,334
-6,Nilphamary Sadar,9,125,37574,4717
-7,Sayedpur,8,104,24808,2867
-8,Total,31,387,179848,16482
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current account
+3,Dimla,3,28,26667,1771
+4,Domar,4,54,37821,3939
+5,Jaldhaka,5,55,44951,2854
+6,Kishorgonj,2,21,8027,334
+7,Nilphamary Sadar,9,125,37574,4717
+8,Sayedpur,8,104,24808,2867
+9,Total,31,387,179848,16482

@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of auto rice mill and person engaged 2011,,,,
-1,"
-Upazila","
-Units",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Units",Male,Female,Total
+1,,,,,
+2,Upazila,Units,Person engaged Male,Person engaged Female,Person engaged Total
 3,Kamalnagar,0,0,0,0
 4,Lakshmipur Sadar,2,4,96,100
 5,Ramganj,0,0,0,0

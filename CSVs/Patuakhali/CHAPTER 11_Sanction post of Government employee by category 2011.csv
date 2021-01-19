@@ -1,12 +1,12 @@
 ,0,1,2,3,4,5
 0,Sanction post of Government employee by category 2011,,,,,
-1,Upazila,Class-I,Class-II,Class-III,Class-IV,"Number of
-employee"
-2,Bauphal,35,32,466,148,681
-3,Dashmina,31,65,473,88,657
-4,Dumki,16,21,117,48,202
-5,Galachipa,77,20,1300,59,1456
-6,Kalapara,33,18,1409,77,1537
-7,Mirzaganj,57,42,248,115,462
-8,Patuakhali Sadar,41,27,349,80,497
-9,Total,290,225,4362,615,5492
+1,,,,,,
+2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
+3,Bauphal,35,32,466,148,681
+4,Dashmina,31,65,473,88,657
+5,Dumki,16,21,117,48,202
+6,Galachipa,77,20,1300,59,1456
+7,Kalapara,33,18,1409,77,1537
+8,Mirzaganj,57,42,248,115,462
+9,Patuakhali Sadar,41,27,349,80,497
+10,Total,290,225,4362,615,5492

@@ -1,16 +1,13 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,"
-Upazila","
-Current fallow",Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Productivity of crop
-2,"
-Upazila","
-Current fallow",Single,Double,Triple,Net,Gross,Productivity of crop
-3,Bauphal,217,21699,17826,11905,51430,93066,181
-4,Dashmina,153,5002,14784,3081,22867,43813,192
-5,Dumki,25,1256,6260,1546,9062,18414,203
-6,Galachipa,517,36709,49572,11151,97432,169306,174
-7,Kalapara,144,28036,32820,4394,65250,106858,164
-8,Mirzaganj,125,1299,13275,2031,16605,33942,204
-9,Patuakhali Sadar,102,11976,24895,5561,42432,78449,185
-10,Total,1285,105977,159432,39669,305077,543849,178
+1,,,,,,,,
+2, Upazila, Current fallow,Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Productivity of crop
+3, Upazila, Current fallow,Single,Double,Triple,Net,Gross,Productivity of crop
+4,Bauphal,217,21699,17826,11905,51430,93066,181
+5,Dashmina,153,5002,14784,3081,22867,43813,192
+6,Dumki,25,1256,6260,1546,9062,18414,203
+7,Galachipa,517,36709,49572,11151,97432,169306,174
+8,Kalapara,144,28036,32820,4394,65250,106858,164
+9,Mirzaganj,125,1299,13275,2031,16605,33942,204
+10,Patuakhali Sadar,102,11976,24895,5561,42432,78449,185
+11,Total,1285,105977,159432,39669,305077,543849,178

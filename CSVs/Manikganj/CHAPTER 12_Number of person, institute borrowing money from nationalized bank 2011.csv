@@ -1,22 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from nationalized bank 2011",,,,,,,,,,,
-1,"
-
-Upazila","
-Number of branch of all nationalized banks",Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-
-Upazila","
-Number of branch of all nationalized banks",Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
-3,"
-
-Upazila","
-Number of branch of all nationalized banks",Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Daulotpur,2,450,145,0,0,52,5,389,132,19.00,2.00
-5,Gheor,3,3809,500,0,0,250,50,1917,450,17.00,3.00
-6,Horirampur,6,6210,6,0,0,519,0,6729,6,24.00,0.00
-7,Manikganj Sadar,9,214,21,2,0,261,59,632,70,22.00,2.00
-8,Saturia,5,1250,68,401,33,0,0,1631,113,12.00,1.00
-9,Shibalaya,5,1529,57,0,0,252,85,1781,142,12.00,1.00
-10,Singair,12,790,620,0,0,662,105,1452,725,57.00,19.00
-11,Total,42,14252,1417,403,33,1996,304,14531,1638,163.00,28.00
+1,,,,,,,,,,,,
+2,  Upazila, Number of branch of all nationalized banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3,  Upazila, Number of branch of all nationalized banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
+4,  Upazila, Number of branch of all nationalized banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+5,Daulotpur,2,450,145,0,0,52,5,389,132,19.00,2.00
+6,Gheor,3,3809,500,0,0,250,50,1917,450,17.00,3.00
+7,Horirampur,6,6210,6,0,0,519,0,6729,6,24.00,0.00
+8,Manikganj Sadar,9,214,21,2,0,261,59,632,70,22.00,2.00
+9,Saturia,5,1250,68,401,33,0,0,1631,113,12.00,1.00
+10,Shibalaya,5,1529,57,0,0,252,85,1781,142,12.00,1.00
+11,Singair,12,790,620,0,0,662,105,1452,725,57.00,19.00
+12,Total,42,14252,1417,403,33,1996,304,14531,1638,163.00,28.00

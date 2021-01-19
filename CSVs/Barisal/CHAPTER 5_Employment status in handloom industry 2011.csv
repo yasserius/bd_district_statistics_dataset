@@ -1,12 +1,7 @@
 ,0,1,2,3,4,5
 0,Employment status in handloom industry 2011,,,,,
-1,"
-Upazila/city corporation",Number of handloom,Person engaged,Person engaged,Person engaged,"
-Total"
-2,"
-Upazila/city corporation",Number of handloom,"Family
-member",Regular,Hired/casual,"
-Total"
+1,,,,,,
+2,Upazila/city corporation,Number of handloom,Person engaged Family member,Person engaged Regular,Person engaged Hired/casual,Total
 3,Agailjhara,0,0,0,0,0
 4,Babuganj,0,0,0,0,0
 5,Bakerganj,8,8,0,0,8

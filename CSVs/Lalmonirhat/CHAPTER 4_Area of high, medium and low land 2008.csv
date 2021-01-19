@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,"Area of high, medium and low land 2008",,,,
-1,Upazila,High land,Medium land,Low land,Total land
-2,Aditmari,20101,26183,1909,48193
-3,Hatibandha,13454,30858,21766,66078
-4,Kaligonj,15746,31452,1185,48383
-5,Lalmonirhat Sadar,24840,20988,4498,50326
-6,Patgram,9565,38537,638,48740
-7,Total,83706,148018,29996,261720
+1,,,,,
+2,Upazila,High land,Medium land,Low land,Total land
+3,Aditmari,20101,26183,1909,48193
+4,Hatibandha,13454,30858,21766,66078
+5,Kaligonj,15746,31452,1185,48383
+6,Lalmonirhat Sadar,24840,20988,4498,50326
+7,Patgram,9565,38537,638,48740
+8,Total,83706,148018,29996,261720

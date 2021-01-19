@@ -1,20 +1,19 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
-2,"
-Upazila",2010-11,2010-11,2009-10,2009-10
-3,"
-Upazila",Number,Production,Number,Production
-4,Bhaluka,352,155,352,140
-5,Dhobaura,265,5000,260,4919
-6,Fulbaria,2190,7785,2190,7364
-7,Gaffargaon,2000,3461,2000,3461
-8,Gauripur,1100,16157,1100,5237
-9,Haluaghat,450,4861,350,4645
-10,Ishwargonj,2220,11851,2220,11638
-11,Muktagacha,1320,22734,1250,20270
-12,Mymensingh Sadar,2226,1643,2176,1609
-13,Nandail,10575,8732,10300,8679
-14,Phulpur,1515,14243,1520,13014
-15,Trishal,1670,42445,1670,42445
-16,Total,25883,139067,25388,123421
+1,,,,,
+2,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
+3, Upazila,2010-11,2010-11,2009-10,2009-10
+4, Upazila,Number,Production,Number,Production
+5,Bhaluka,352,155,352,140
+6,Dhobaura,265,5000,260,4919
+7,Fulbaria,2190,7785,2190,7364
+8,Gaffargaon,2000,3461,2000,3461
+9,Gauripur,1100,16157,1100,5237
+10,Haluaghat,450,4861,350,4645
+11,Ishwargonj,2220,11851,2220,11638
+12,Muktagacha,1320,22734,1250,20270
+13,Mymensingh Sadar,2226,1643,2176,1609
+14,Nandail,10575,8732,10300,8679
+15,Phulpur,1515,14243,1520,13014
+16,Trishal,1670,42445,1670,42445
+17,Total,25883,139067,25388,123421

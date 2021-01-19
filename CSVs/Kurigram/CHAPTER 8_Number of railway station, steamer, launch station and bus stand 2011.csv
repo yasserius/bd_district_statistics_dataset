@@ -1,13 +1,14 @@
 ,0,1,2,3
 0,"Number of railway station, steamer, launch station and bus stand 2011",,,
-1,Upazila,Railway station,Steamer/launch station,Bus stand
-2,Bhurungamari,0,0,1
-3,Char Rajibpur,0,4,1
-4,Chilmari,2,1,2
-5,Kurigram Sadar,2,0,2
-6,Nageshwari,0,0,1
-7,Phulbari,0,0,0
-8,Rajarhat,2,0,3
-9,Raumari,0,0,1
-10,Ulipur,2,0,1
-11,Total,8,5,12
+1,,,,
+2,Upazila,Railway station,Steamer/launch station,Bus stand
+3,Bhurungamari,0,0,1
+4,Char Rajibpur,0,4,1
+5,Chilmari,2,1,2
+6,Kurigram Sadar,2,0,2
+7,Nageshwari,0,0,1
+8,Phulbari,0,0,0
+9,Rajarhat,2,0,3
+10,Raumari,0,0,1
+11,Ulipur,2,0,1
+12,Total,8,5,12

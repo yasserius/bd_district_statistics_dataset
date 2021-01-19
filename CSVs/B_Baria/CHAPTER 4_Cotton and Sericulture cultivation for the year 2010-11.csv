@@ -1,17 +1,14 @@
 ,0,1,2,3,4
 0,Cotton and Sericulture cultivation for the year 2010-11,,,,
 1,(Area in acre and production in metric ton),,,,
-2,"
-Upazila",All Cotton,All Cotton,Sericulture,Sericulture
-3,"
-Upazila",Area,Production,Area,Production
-4,Akhaura,0,0,0,0
-5,Ashuganj,5,0.51,0,0
-6,Banchharampur,0,0,0,0
-7,Bijoynagar,0,0,0,0
-8,Brahmanbaria Sadar,0,0,0,0
-9,Kasba,6,2.32,0,0
-10,Nabinagar,0,0,0,0
-11,Nasirnagar,0,0,0,0
-12,Sarail,0,0,0,0
-13,Total,11,2.83,0,0
+2,Upazila,All Cotton Area,All Cotton Production,Sericulture Area,Sericulture Production
+3,Akhaura,0,0,0,0
+4,Ashuganj,5,0.51,0,0
+5,Banchharampur,0,0,0,0
+6,Bijoynagar,0,0,0,0
+7,Brahmanbaria Sadar,0,0,0,0
+8,Kasba,6,2.32,0,0
+9,Nabinagar,0,0,0,0
+10,Nasirnagar,0,0,0,0
+11,Sarail,0,0,0,0
+12,Total,11,2.83,0,0

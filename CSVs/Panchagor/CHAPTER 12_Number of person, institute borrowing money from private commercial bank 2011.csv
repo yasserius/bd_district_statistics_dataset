@@ -1,23 +1,10 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,"
-
-Upazila",Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-
-Upazila",Number of branch of all private commercial banks,"Agriculture
-debt","Agriculture
-debt",Industry debt,Industry debt,Other debt,Other debt,"Number of
-borrower","Number of
-borrower","Total debt
-(crore tk)","Total debt
-(crore tk)"
-3,"
-
-Upazila",Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Atwari,0,0,0,0,0,0,0,0,0,0,0
-5,Boda,2,75,75,0,0,238,17,313,92,5.88,0.61
-6,Debiganj,0,0,0,0,0,0,0,0,0,0,0
-7,Panchagarh Sadar,4,0,0,1800,112,52,5,1852,117,1,0.2
-8,Tentulia,0,0,0,0,0,0,0,0,0,0,0
-9,Total,6,75,75,1800,112,290,22,2165,209,6.88,0.81
+1,,,,,,,,,,,,
+2,Upazila,Number of branch of all private commercial banks,Number of borrower Agriculture debt Male,Number of borrower Agriculture debt Female,Number of borrower Industry debt Male,Number of borrower Industry debt Female,Number of borrower Other debt Male,Number of borrower Other debt Female,Number of borrower Number of borrower Male,Number of borrower Number of borrower Female,Number of borrower Total debt (crore tk) Male,Number of borrower Total debt (crore tk) Female
+3,Atwari,0,0,0,0,0,0,0,0,0,0,0
+4,Boda,2,75,75,0,0,238,17,313,92,5.88,0.61
+5,Debiganj,0,0,0,0,0,0,0,0,0,0,0
+6,Panchagarh Sadar,4,0,0,1800,112,52,5,1852,117,1,0.2
+7,Tentulia,0,0,0,0,0,0,0,0,0,0,0
+8,Total,6,75,75,1800,112,290,22,2165,209,6.88,0.81

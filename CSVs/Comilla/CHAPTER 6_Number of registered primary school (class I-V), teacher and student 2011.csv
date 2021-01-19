@@ -1,27 +1,22 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of registered primary school (class I-V), teacher and student 2011",,,,,,,,
-1,"
-Upazila","Number of registered primary
-school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"
-Students per teacher"
-2,"
-Upazila","Number of registered primary
-school",Male,Female,Total,Male,Female,Total,"
-Students per teacher"
-3,Adarsha Sadar,19,24,49,73,3603,3737,7340,101
-4,Barura,49,80,90,170,4077,6114,10191,60
-5,Brahmanpara,51,74,117,191,5428,6021,11549,60
-6,Burichang,64,100,138,238,7286,8360,15646,66
-7,Chandina,39,71,73,144,3826,4207,8033,56
-8,Chauddagram,50,68,111,179,3968,4170,8138,45
-9,Comilla Sadar Dakshin,58,108,105,213,17400,14500,31900,150
-10,Daudkandi,43,80,55,135,3685,3886,7571,56
-11,Debidwar,38,72,32,114,1844,1766,3610,32
-12,Homna,25,32,47,79,2238,3039,5277,67
-13,Laksam,20,23,57,80,1867,3468,5335,67
-14,Monoharganj,29,38,71,109,3086,3020,6106,56
-15,Meghna,14,22,28,50,1294,1460,2754,55
-16,Muradnagar,52,59,95,154,4901,5530,10431,68
-17,Nangalkot,63,101,151,252,7081,7369,14450,57
-18,Titas,33,46,78,124,2923,3572,6495,52
-19,Total,647,998,1297,2305,74507,80219,154826,67
+1,,,,,,,,,
+2, Upazila,Number of registered primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student, Students per teacher
+3, Upazila,Number of registered primary school,Male,Female,Total,Male,Female,Total, Students per teacher
+4,Adarsha Sadar,19,24,49,73,3603,3737,7340,101
+5,Barura,49,80,90,170,4077,6114,10191,60
+6,Brahmanpara,51,74,117,191,5428,6021,11549,60
+7,Burichang,64,100,138,238,7286,8360,15646,66
+8,Chandina,39,71,73,144,3826,4207,8033,56
+9,Chauddagram,50,68,111,179,3968,4170,8138,45
+10,Comilla Sadar Dakshin,58,108,105,213,17400,14500,31900,150
+11,Daudkandi,43,80,55,135,3685,3886,7571,56
+12,Debidwar,38,72,32,114,1844,1766,3610,32
+13,Homna,25,32,47,79,2238,3039,5277,67
+14,Laksam,20,23,57,80,1867,3468,5335,67
+15,Monoharganj,29,38,71,109,3086,3020,6106,56
+16,Meghna,14,22,28,50,1294,1460,2754,55
+17,Muradnagar,52,59,95,154,4901,5530,10431,68
+18,Nangalkot,63,101,151,252,7081,7369,14450,57
+19,Titas,33,46,78,124,2923,3572,6495,52
+20,Total,647,998,1297,2305,74507,80219,154826,67

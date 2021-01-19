@@ -1,10 +1,7 @@
 ,0,1,2,3,4,5,6,7
 0,Number of jute mill and number of worker 2011,,,,,,,
-1,"
-Upazila",Number of mill,Number of loom (installed),Number of loom,Number of loom,Number of workers,Number of workers,Number of workers
-2,"
-Upazila",Number of mill,Number of loom (installed),Operative,"Non-
-operational",permanent,Temporary,Total
+1,,,,,,,,
+2,Upazila,Number of mill,Number of loom (installed),Number of loom Operative,Number of loom Non- operational,Number of workers permanent,Number of workers Temporary,Number of workers Total
 3,Adamdighi,0,0,0,0,0,0,0
 4,Bogra sadar,3,325,325,0,325,675,1000
 5,Dhunat,0,0,0,0,0,0,0

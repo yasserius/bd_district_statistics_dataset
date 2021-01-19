@@ -1,13 +1,8 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,Upazila,"Number
-of centre","Number
-of bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Kalia,2,10,5,8,2,8
-3,Lohagara,5,168,5,12,7,11
-4,Narail Sadar,11,115,11,24,11,36
-5,Total,18,293,21,44,20,55
+1,,,,,,,
+2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Kalia,2,10,5,8,2,8
+4,Lohagara,5,168,5,12,7,11
+5,Narail Sadar,11,115,11,24,11,36
+6,Total,18,293,21,44,20,55

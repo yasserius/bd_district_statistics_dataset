@@ -1,17 +1,14 @@
 ,0,1,2,3,4
 0,Number of oil mill and person engaged 2011,,,,
-1,"
-Upazila","
-Units",Persons engaged,Persons engaged,Persons engaged
-2,"
-Upazila","
-Units",Family,Hired,Total
-3,Chandpur Sadar,6,6,40,46
-4,Foridganj,0,0,0,0
-5,Haimchar,0,0,0,0
-6,Hajiganj,6,6,18,24
-7,Kachua,9,9,33,42
-8,Matlab Dakshin,8,8,16,24
-9,Matlab Uttar,0,0,0,0
-10,Shahrasti,3,3,26,29
-11,Total,32,32,133,165
+1,,,,,
+2, Upazila, Units,Persons engaged,Persons engaged,Persons engaged
+3, Upazila, Units,Family,Hired,Total
+4,Chandpur Sadar,6,6,40,46
+5,Foridganj,0,0,0,0
+6,Haimchar,0,0,0,0
+7,Hajiganj,6,6,18,24
+8,Kachua,9,9,33,42
+9,Matlab Dakshin,8,8,16,24
+10,Matlab Uttar,0,0,0,0
+11,Shahrasti,3,3,26,29
+12,Total,32,32,133,165

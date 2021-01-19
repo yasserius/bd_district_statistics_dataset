@@ -1,14 +1,14 @@
 ,0,1,2,3
 0,Number of vocational institution by municipality 2011,,,
-1,Municipality,"Number of
-institution",Number of teacher,Number of student
-2,Atgharia,0,0,0
-3,Bera,1,9,150
-4,Bhangura,0,0,0
-5,Chatmohar,0,0,0
-6,Faridpur,2,11,156
-7,Ishwardi,1,15,250
-8,Pabna,6,156,3182
-9,Santhia,4,21,696
-10,Sujanagar,3,13,82
-11,Total,17,225,4516
+1,,,,
+2,Municipality,Number of institution,Number of teacher,Number of student
+3,Atgharia,0,0,0
+4,Bera,1,9,150
+5,Bhangura,0,0,0
+6,Chatmohar,0,0,0
+7,Faridpur,2,11,156
+8,Ishwardi,1,15,250
+9,Pabna,6,156,3182
+10,Santhia,4,21,696
+11,Sujanagar,3,13,82
+12,Total,17,225,4516

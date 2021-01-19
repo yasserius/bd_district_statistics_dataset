@@ -1,16 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of secondary school & college (operating jointly), teacher and student by municipality 2011",,,,,,,,
-1,"
-Municipality","Number
-of  institute",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students
-per teacher"
-2,"
-Municipality","Number
-of  institute",Male,Female,Total,Male,Female,Total,"Students
-per teacher"
-3,Barlekha,1,14,2,16,670,576,1246,78
-4,Kamalganj,0,0,0,0,0,0,0,0
-5,Kulaura,0,0,0,0,0,0,0,0
-6,Moulvibazar,0,0,0,0,0,0,0,0
-7,Sreemangal,0,0,0,0,0,0,0,0
-8,Total,1,14,2,16,670,576,1246,78
+1,,,,,,,,,
+2, Municipality,Number of  institute,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Municipality,Number of  institute,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Barlekha,1,14,2,16,670,576,1246,78
+5,Kamalganj,0,0,0,0,0,0,0,0
+6,Kulaura,0,0,0,0,0,0,0,0
+7,Moulvibazar,0,0,0,0,0,0,0,0
+8,Sreemangal,0,0,0,0,0,0,0,0
+9,Total,1,14,2,16,670,576,1246,78

@@ -1,15 +1,12 @@
 ,0,1,2,3,4
 0,Number of establishment and person engaged in cottage industry 2011,,,,
-1,"
-Upazila","
-Number of unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Number of unit",Family,Hired,Total
-3,Bagatipara,3978,5680,3160,8840
-4,Baraigram,301,212,25,237
-5,Gurudaspur,1120,2120,150,2270
-6,Lalpur,1401,3663,1200,4869
-7,Natore Sadar,8538,25614,6312,31926
-8,Singra,50,325,315,640
-9,Total,15388,37614,11162,48782
+1,,,,,
+2, Upazila, Number of unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Number of unit,Family,Hired,Total
+4,Bagatipara,3978,5680,3160,8840
+5,Baraigram,301,212,25,237
+6,Gurudaspur,1120,2120,150,2270
+7,Lalpur,1401,3663,1200,4869
+8,Natore Sadar,8538,25614,6312,31926
+9,Singra,50,325,315,640
+10,Total,15388,37614,11162,48782

@@ -1,17 +1,14 @@
 ,0,1,2,3,4
 0,Number of auto rice mill and person engaged 2011,,,,
-1,"
-Upazila","
-Units",Persons engaged,Persons engaged,Persons engaged
-2,"
-Upazila","
-Units",Male,Female,Total
-3,Chandpur Sadar,19,38,190,228
-4,Foridganj,0,0,0,0
-5,Haimchar,0,0,0,0
-6,Hajiganj,0,0,0,0
-7,Kachua,0,0,0,0
-8,Matlab Dakshin,0,0,0,0
-9,Matlab Uttar,0,0,0,0
-10,Shahrasti,0,0,0,0
-11,Total,19,38,190,228
+1,,,,,
+2, Upazila, Units,Persons engaged,Persons engaged,Persons engaged
+3, Upazila, Units,Male,Female,Total
+4,Chandpur Sadar,19,38,190,228
+5,Foridganj,0,0,0,0
+6,Haimchar,0,0,0,0
+7,Hajiganj,0,0,0,0
+8,Kachua,0,0,0,0
+9,Matlab Dakshin,0,0,0,0
+10,Matlab Uttar,0,0,0,0
+11,Shahrasti,0,0,0,0
+12,Total,19,38,190,228

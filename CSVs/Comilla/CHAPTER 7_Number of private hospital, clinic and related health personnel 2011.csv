@@ -1,26 +1,21 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,Upazila,"Number
-of centre","Number
-of bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Adarsha Sadar,46,1317,472,621,214,1703
-3,Barura,4,75,7,25,10,25
-4,Brahmanpara,2,10,1,1,1,1
-5,Burichang,2,20,7,5,4,39
-6,Chandina,4,40,19,25,12,59
-7,Chauddagram,9,25,18,18,9,18
-8,Comilla Sadar Dakshin,3,280,68,22,15,142
-9,Daudkandi,8,54,12,15,14,27
-10,Debidwar,6,90,20,30,12,32
-11,Homna,1,10,8,6,2,20
-12,Laksam,15,158,45,89,30,336
-13,Monoharganj,0,0,0,0,0,0
-14,Meghna,0,0,0,0,0,0
-15,Muradnagar,5,40,6,11,17,50
-16,Nangalkot,4,72,6,51,3,19
-17,Titas,4,52,7,15,10,58
-18,Total,113,2243,696,934,353,2529
+1,,,,,,,
+2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Adarsha Sadar,46,1317,472,621,214,1703
+4,Barura,4,75,7,25,10,25
+5,Brahmanpara,2,10,1,1,1,1
+6,Burichang,2,20,7,5,4,39
+7,Chandina,4,40,19,25,12,59
+8,Chauddagram,9,25,18,18,9,18
+9,Comilla Sadar Dakshin,3,280,68,22,15,142
+10,Daudkandi,8,54,12,15,14,27
+11,Debidwar,6,90,20,30,12,32
+12,Homna,1,10,8,6,2,20
+13,Laksam,15,158,45,89,30,336
+14,Monoharganj,0,0,0,0,0,0
+15,Meghna,0,0,0,0,0,0
+16,Muradnagar,5,40,6,11,17,50
+17,Nangalkot,4,72,6,51,3,19
+18,Titas,4,52,7,15,10,58
+19,Total,113,2243,696,934,353,2529

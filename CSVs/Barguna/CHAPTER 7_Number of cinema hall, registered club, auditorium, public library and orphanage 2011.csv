@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
-2,Amtali,2,186,0,12,0
-3,Bamna,0,5,2,4,1
-4,Barguna Sadar,0,129,2,25,2
-5,Betagi,0,75,1,17,1
-6,Patharghata,2,41,0,8,0
-7,Total,4,436,5,66,4
+1,,,,,,
+2,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
+3,Amtali,2,186,0,12,0
+4,Bamna,0,5,2,4,1
+5,Barguna Sadar,0,129,2,25,2
+6,Betagi,0,75,1,17,1
+7,Patharghata,2,41,0,8,0
+8,Total,4,436,5,66,4

@@ -1,12 +1,9 @@
 ,0,1,2,3,4
 0,Number of establishment and person engaged in cottage industry 2011,,,,
-1,"
-Upazila","
-Number of unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Number of unit",Family,Hired,Total
-3,Kalia,523,630,115,745
-4,Lohagara,314,942,70,1012
-5,Narail Sadar,142,165,70,235
-6,Total,979,1737,255,1992
+1,,,,,
+2, Upazila, Number of unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Number of unit,Family,Hired,Total
+4,Kalia,523,630,115,745
+5,Lohagara,314,942,70,1012
+6,Narail Sadar,142,165,70,235
+7,Total,979,1737,255,1992

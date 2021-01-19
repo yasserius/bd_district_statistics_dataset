@@ -1,28 +1,17 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,"
-
-Upazila",Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-
-Upazila",Number of branch of all private commercial banks,"Agriculture
-debt","Agriculture
-debt",Industry debt,Industry debt,Other debt,Other debt,"Number of
-borrower","Number of
-borrower","Total debt
-(crore tk)","Total debt
-(crore tk)"
-3,"
-
-Upazila",Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Baghaichhari,2,0,1333,0,0,0,2000,0,3333,0,5
-5,Barkal,0,0,0,0,0,0,0,0,0,0,0
-6,Belai Chhari,0,0,0,0,0,0,0,0,0,0,0
-7,Jurai Chhari,0,0,0,0,0,0,0,0,0,0,0
-8,Kaptai,2,0,0,0,0,0,2409,0,2409,0,360
-9,Kawkhali,2,0,0,0,0,0,2244,0,2244,0,3
-10,Langadu,6,0,0,0,0,0,3851,0,3851,0,6
-11,Naniarchar,1,0,780,0,0,5,519,5,1299,106,4
-12,Rangamati Sadar,4,37,15,0,0,314,30,351,45,10,5
-13,Rajasthali,1,0,1351,0,0,0,0,0,1351,0,27
-14,Total,18,37,3479,0,0,319,11053,356,14532,116,410
+1,,,,,,,,,,,,
+2,  Upazila,Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3,  Upazila,Number of branch of all private commercial banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
+4,  Upazila,Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+5,Baghaichhari,2,0,1333,0,0,0,2000,0,3333,0,5
+6,Barkal,0,0,0,0,0,0,0,0,0,0,0
+7,Belai Chhari,0,0,0,0,0,0,0,0,0,0,0
+8,Jurai Chhari,0,0,0,0,0,0,0,0,0,0,0
+9,Kaptai,2,0,0,0,0,0,2409,0,2409,0,360
+10,Kawkhali,2,0,0,0,0,0,2244,0,2244,0,3
+11,Langadu,6,0,0,0,0,0,3851,0,3851,0,6
+12,Naniarchar,1,0,780,0,0,5,519,5,1299,106,4
+13,Rangamati Sadar,4,37,15,0,0,314,30,351,45,10,5
+14,Rajasthali,1,0,1351,0,0,0,0,0,1351,0,27
+15,Total,18,37,3479,0,0,319,11053,356,14532,116,410

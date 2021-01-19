@@ -1,12 +1,10 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C","Number of
-current A/C"
-2,Bholahat,1,6,2910,96
-3,Chapai Nawabganj Sadar,16,262,54992,7373
-4,Gomastapur,2,40,4726,420
-5,Nachole,1,3,0,0
-6,Shibganj,4,85,12560,1955
-7,Total,24,396,75188,9844
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Bholahat,1,6,2910,96
+4,Chapai Nawabganj Sadar,16,262,54992,7373
+5,Gomastapur,2,40,4726,420
+6,Nachole,1,3,0,0
+7,Shibganj,4,85,12560,1955
+8,Total,24,396,75188,9844

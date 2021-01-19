@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization 2008,,,,,
-1,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
-2,Chakaria,45067,2008,31854,167,11038
-3,Cox's Bazar Sadar,23577,1955,15128,145,6349
-4,Kutubdia,10381,1287,6940,137,2017
-5,Moheshkhali,26456,1194,15535,153,9574
-6,Pekua,18088,1472,11054,164,5398
-7,Ramu,34172,1873,23949,189,8161
-8,Teknaf,22383,1312,13991,215,6865
-9,Ukhia,20523,1039,12709,207,6568
-10,Total,200468,12140,131159,1377,55792
+1,,,,,,
+2,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
+3,Chakaria,45067,2008,31854,167,11038
+4,Cox's Bazar Sadar,23577,1955,15128,145,6349
+5,Kutubdia,10381,1287,6940,137,2017
+6,Moheshkhali,26456,1194,15535,153,9574
+7,Pekua,18088,1472,11054,164,5398
+8,Ramu,34172,1873,23949,189,8161
+9,Teknaf,22383,1312,13991,215,6865
+10,Ukhia,20523,1039,12709,207,6568
+11,Total,200468,12140,131159,1377,55792

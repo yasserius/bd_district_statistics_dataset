@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Employment status in handloom industry 2011,,,,,
-1,Upazila,Number of handloom,Person engaged,Person engaged,Person engaged,Total
-2,Upazila,Number of handloom,Family member,Regular,Hired /Casual,Total
-3,Bhandaria,0,0,0,0,0
-4,Kawkhali,0,0,0,0,0
-5,Mathbaria,0,0,0,0,0
-6,Nazirpur,0,0,0,0,0
-7,Nesarabad,2,0,2,0,2
-8,Pirojpur Sadar,12,32,0,0,32
-9,Zianagar,0,0,0,0,0
-10,Total,14,32,2,0,34
+1,,,,,,
+2,Upazila,Number of handloom,Person engaged,Person engaged,Person engaged,Total
+3,Upazila,Number of handloom,Family member,Regular,Hired /Casual,Total
+4,Bhandaria,0,0,0,0,0
+5,Kawkhali,0,0,0,0,0
+6,Mathbaria,0,0,0,0,0
+7,Nazirpur,0,0,0,0,0
+8,Nesarabad,2,0,2,0,2
+9,Pirojpur Sadar,12,32,0,0,32
+10,Zianagar,0,0,0,0,0
+11,Total,14,32,2,0,34

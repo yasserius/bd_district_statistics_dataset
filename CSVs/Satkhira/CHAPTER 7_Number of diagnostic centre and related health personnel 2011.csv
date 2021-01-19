@@ -1,16 +1,12 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,Upazila,"Number of
-centre","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Assasuni,0,0,0,0,0
-3,Debhata,0,0,0,0,0
-4,Kalaroa,11,11,11,22,40
-5,Kaliganj,3,3,6,3,18
-6,Satkhira Sadar,18,7,0,18,60
-7,Shyamnagar,9,0,0,2,27
-8,Tala,6,6,1,6,9
-9,Total,47,27,18,51,154
+1,,,,,,
+2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Assasuni,0,0,0,0,0
+4,Debhata,0,0,0,0,0
+5,Kalaroa,11,11,11,22,40
+6,Kaliganj,3,3,6,3,18
+7,Satkhira Sadar,18,7,0,18,60
+8,Shyamnagar,9,0,0,2,27
+9,Tala,6,6,1,6,9
+10,Total,47,27,18,51,154

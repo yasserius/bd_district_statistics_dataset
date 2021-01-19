@@ -1,15 +1,15 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,Upazila/city corporation,Police personnel,Ansar personnel,"VDP
-personnel",Autonomous body,Local govt. employee
-2,Bagha,37,666,7036,25,66
-3,Baghmara,81,1090,21248,2,201
-4,Charghat,42,492,7600,2,65
-5,Durgapur,36,6,0,71,70
-6,Godagari,99,518,14884,1,167
-7,Mohanpur,40,556,1,57,40
-8,Paba,64,420,14848,2101,84
-9,Puthia,42,309,8576,21,80
-10,Rajshahi city corporation,2138,854,8960,1096,2416
-11,Tanore,56,245,11456,0,78
-12,Total,2635,5156,94609,3376,3267
+1,,,,,,
+2,Upazila/city corporation,Police personnel,Ansar personnel,VDP personnel,Autonomous body,Local govt. employee
+3,Bagha,37,666,7036,25,66
+4,Baghmara,81,1090,21248,2,201
+5,Charghat,42,492,7600,2,65
+6,Durgapur,36,6,0,71,70
+7,Godagari,99,518,14884,1,167
+8,Mohanpur,40,556,1,57,40
+9,Paba,64,420,14848,2101,84
+10,Puthia,42,309,8576,21,80
+11,Rajshahi city corporation,2138,854,8960,1096,2416
+12,Tanore,56,245,11456,0,78
+13,Total,2635,5156,94609,3376,3267

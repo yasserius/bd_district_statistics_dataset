@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of establishment and person engaged in cottage industry 2011,,,,
-1,"
-Upazila","
-Number of unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Number of unit",Family,Hired,Total
+1,,,,,
+2,Upazila,Number of unit,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Basail,1284,1385,367,1752
 4,Bhuapur,426,978,269,1247
 5,Delduar,2669,5115,231,5346

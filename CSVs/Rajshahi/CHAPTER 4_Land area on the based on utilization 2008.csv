@@ -1,18 +1,15 @@
 ,0,1,2,3,4,5
 0,Land area on the based on utilization 2008,,,,,
-1,"
-Upazila/city corporation",Operated area,"Permanent
-cropped area","Temporary
-cropped area",Permanent fallow area,"
-Others"
-2,Bagha,40647,8134,25054,6363,7459
-3,Baghmara,81636,3290,66099,250,12247
-4,Charghat,35769,4034,26578,1957,5157
-5,Durgapur,41074,3038,29886,5440,8150
-6,Godagari,80337,875,70273,3492,9189
-7,Mohanpur,34870,2782,26550,473,5538
-8,Paba,49561,2770,38731,6121,8060
-9,Puthia,41963,3843,30755,278,7365
-10,Rajshahi city corporation,11870,1434,5300,859,5136
-11,Tanore,59347,597,52710,4347,6040
-12,Total,477074,30797,371936,29580,74341
+1,,,,,,
+2,Upazila/city corporation,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
+3,Bagha,40647,8134,25054,6363,7459
+4,Baghmara,81636,3290,66099,250,12247
+5,Charghat,35769,4034,26578,1957,5157
+6,Durgapur,41074,3038,29886,5440,8150
+7,Godagari,80337,875,70273,3492,9189
+8,Mohanpur,34870,2782,26550,473,5538
+9,Paba,49561,2770,38731,6121,8060
+10,Puthia,41963,3843,30755,278,7365
+11,Rajshahi city corporation,11870,1434,5300,859,5136
+12,Tanore,59347,597,52710,4347,6040
+13,Total,477074,30797,371936,29580,74341

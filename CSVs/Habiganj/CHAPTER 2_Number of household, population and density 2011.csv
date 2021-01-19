@@ -1,17 +1,14 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,"
-Upazila","
-Household",Population,Population,Population,Sex ratio (M/F),Average size of household,Density per sq. km.
-2,"
-Upazila","
-Household",Male,Female,Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
-3,Azmirigonj,21293,56615,57650,114265,98,5.39,510
-4,Bahubal,37334,98101,99896,197997,98,5.28,790
-5,Baniachang,59433,163875,168655,332530,97,5.59,690
-6,Chunarughat,61132,147108,155002,302110,95,4.94,610
-7,Habiganj Sadar,62281,163576,165517,329093,99,5.26,1297
-8,Lakhai,27759,70714,78095,148811,91,5.36,757
-9,Madhabpur,62300,155882,163134,319016,96,5.12,1084
-10,Nabiganj,61770,169720,175459,345179,97,5.58,785
-11,Total,393302,1025591,1063410,2089001,96,5.30,792
+1,,,,,,,,
+2, Upazila, Household,Population,Population,Population,Sex ratio (M/F),Average size of household,Density per sq. km.
+3, Upazila, Household,Male,Female,Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
+4,Azmirigonj,21293,56615,57650,114265,98,5.39,510
+5,Bahubal,37334,98101,99896,197997,98,5.28,790
+6,Baniachang,59433,163875,168655,332530,97,5.59,690
+7,Chunarughat,61132,147108,155002,302110,95,4.94,610
+8,Habiganj Sadar,62281,163576,165517,329093,99,5.26,1297
+9,Lakhai,27759,70714,78095,148811,91,5.36,757
+10,Madhabpur,62300,155882,163134,319016,96,5.12,1084
+11,Nabiganj,61770,169720,175459,345179,97,5.58,785
+12,Total,393302,1025591,1063410,2089001,96,5.30,792

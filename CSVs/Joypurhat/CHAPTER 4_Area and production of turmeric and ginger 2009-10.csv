@@ -1,11 +1,10 @@
 ,0,1,2,3,4
 0,Area and production of turmeric and ginger 2009-10,,,,
 1,(Area in acre and production in metric ton),,,,
-2,Upazila,Turmeric,Turmeric,Ginger,Ginger
-3,Upazila,Area,Production,Area,Production
-4,Akkelpur,26,13,7,12
-5,Joypurhat sadar,132,190,16,29
-6,Kalai,2,6,2,5
-7,Khetlal,4,4,4,5
-8,Panchbibi,96,349,36,116
-9,Total,261,562,65,166
+2,Upazila,Turmeric Area,Turmeric Production,Ginger Area,Ginger Production
+3,Akkelpur,26,13,7,12
+4,Joypurhat sadar,132,190,16,29
+5,Kalai,2,6,2,5
+6,Khetlal,4,4,4,5
+7,Panchbibi,96,349,36,116
+8,Total,261,562,65,166

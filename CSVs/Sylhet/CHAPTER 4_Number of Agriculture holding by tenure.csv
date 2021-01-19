@@ -1,10 +1,7 @@
 ,0,1,2,3,4
 0,Number of Agriculture holding by tenure,,,,
 1,(According to Agriculture Census 2008),,,,
-2,Upazila/City corporation,"Total farm
-holding",Owner holding,"Owner cum
-tenant","Tenant
-holding"
+2,Upazila/City corporation,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
 3,Balaganj,25516,14200,10144,1172
 4,Beanibazar,21299,15367,5445,487
 5,Bishwanath,16541,25610,5911,3333

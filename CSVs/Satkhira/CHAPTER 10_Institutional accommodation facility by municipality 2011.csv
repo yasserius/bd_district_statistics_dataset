@@ -1,9 +1,8 @@
 ,0,1,2,3,4,5,6
 0,Institutional accommodation facility by municipality 2011,,,,,,
-1,"
-Municipality",Residential hostel,Residential hostel,Hall/hostel,Hall/hostel,Mess/barracks,Mess/barracks
-2,"
-Municipality",Number,Capacity,Number,Capacity,Number,Capacity
-3,Kalaroa,1,20,2,180,0,0
-4,Satkhira,15,400,2,500,30,600
-5,Total,16,420,4,680,30,600
+1,,,,,,,
+2, Municipality,Residential hostel,Residential hostel,Hall/hostel,Hall/hostel,Mess/barracks,Mess/barracks
+3, Municipality,Number,Capacity,Number,Capacity,Number,Capacity
+4,Kalaroa,1,20,2,180,0,0
+5,Satkhira,15,400,2,500,30,600
+6,Total,16,420,4,680,30,600

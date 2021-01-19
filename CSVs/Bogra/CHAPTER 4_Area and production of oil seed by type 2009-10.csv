@@ -1,20 +1,17 @@
 ,0,1,2,3,4,5,6
 0,Area and production of oil seed by type 2009-10,,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Rape & mustard,Rape & mustard,Ground nut,Ground nut,Til,Til
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Adamdighi,4180,2107,0,0,0,0
-5,Bogra sadar,311,131,0,0,3.31,0.83
-6,Dhunat,1626,546.73,35,37.80,25,9.76
-7,Dhupchanchia,189,110.55,0,0,0,0
-8,Gabtali,1778,6.98,0,0,8.4,1.76
-9,Kahaloo,4513,2239,0,0,0,0
-10,Nandigram,3120,1404,0,0,13.3,4.29
-11,Sariakandi,1126,248,129,32,2.2,0.48
-12,Shajahanpur,2150,907,0,0,0,0
-13,Sherpur,46,23,0,0,13,4
-14,Shibganj,75.55,26.76,0,0,33.78,16.15
-15,Sonatola,2065,446,105,65,38,12
-16,Total,21179.6,8196.02,234,97,136.99,49.27
+2,Upazila,Rape & mustard Area,Rape & mustard Production,Ground nut Area,Ground nut Production,Til Area,Til Production
+3,Adamdighi,4180,2107,0,0,0,0
+4,Bogra sadar,311,131,0,0,3.31,0.83
+5,Dhunat,1626,546.73,35,37.80,25,9.76
+6,Dhupchanchia,189,110.55,0,0,0,0
+7,Gabtali,1778,6.98,0,0,8.4,1.76
+8,Kahaloo,4513,2239,0,0,0,0
+9,Nandigram,3120,1404,0,0,13.3,4.29
+10,Sariakandi,1126,248,129,32,2.2,0.48
+11,Shajahanpur,2150,907,0,0,0,0
+12,Sherpur,46,23,0,0,13,4
+13,Shibganj,75.55,26.76,0,0,33.78,16.15
+14,Sonatola,2065,446,105,65,38,12
+15,Total,21179.6,8196.02,234,97,136.99,49.27

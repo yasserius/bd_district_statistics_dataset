@@ -1,21 +1,18 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of brinjal, lady s finger and arum 2009-10",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila/City corporation",Brinjal,Brinjal,Lady’s finger,Lady’s finger,Arum,Arum
-3,"
-Upazila/City corporation",Area,Production,Area,Production,Area,Production
-4,Balaganj,0,0,0,0,0,0
-5,Beanibazar,22,40,20,2.5,15.5,2.5
-6,Bishwanath,52,83.2,14,0.95,37,5.75
-7,Companiganj,121,149,95,85,0,0
-8,Dakhin surma,0,0,80,203,499,1859
-9,Fenchuganj,57,109,9.5,30.4,4.2,5.25
-10,Golapganj,62,86,17,23,190,625
-11,Gowainghat,126,211.68,43,12.45,0,0
-12,Jaintiapur,31,1.4,0,0,32,6
-13,Kanaighat,400,1500,0,0,0,0
-14,Sylhet city corporation,0,0,0,0,0,0
-15,Sylhet sadar,148,2500,111,435,0,0
-16,Zakiganj,30,450,2,20,0,0
-17,Total,1049,5130.28,391.5,812.3,777.7,2503.5
+2,Upazila/City corporation,Brinjal Area,Brinjal Production,Lady’s finger Area,Lady’s finger Production,Arum Area,Arum Production
+3,Balaganj,0,0,0,0,0,0
+4,Beanibazar,22,40,20,2.5,15.5,2.5
+5,Bishwanath,52,83.2,14,0.95,37,5.75
+6,Companiganj,121,149,95,85,0,0
+7,Dakhin surma,0,0,80,203,499,1859
+8,Fenchuganj,57,109,9.5,30.4,4.2,5.25
+9,Golapganj,62,86,17,23,190,625
+10,Gowainghat,126,211.68,43,12.45,0,0
+11,Jaintiapur,31,1.4,0,0,32,6
+12,Kanaighat,400,1500,0,0,0,0
+13,Sylhet city corporation,0,0,0,0,0,0
+14,Sylhet sadar,148,2500,111,435,0,0
+15,Zakiganj,30,450,2,20,0,0
+16,Total,1049,5130.28,391.5,812.3,777.7,2503.5

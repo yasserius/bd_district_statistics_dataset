@@ -1,18 +1,17 @@
 ,0,1,2,3,4,5,6
 0,Number of religious institution 2011,,,,,,
-1,Upazila,Mosque,Eid-Gah,"Temple
-(Mandir)","Church
-(Girza)",Pagoda,Others
-2,Adamdighi,298,79,72,0,0,0
-3,Bogra sadar,1001,127,35,1,0,0
-4,Dhunat,388,84,80,0,0,0
-5,Dhupchanchia,408,98,59,0,0,0
-6,Gabtali,485,91,22,0,0,0
-7,Kahaloo,462,118,85,0,0,0
-8,Nandigram,395,75,32,0,0,0
-9,Sariakandi,491,78,3,0,0,0
-10,Shajahanpur,443,65,56,0,0,0
-11,Sherpur,472,138,65,1,0,0
-12,Shibganj,980,165,60,0,0,15
-13,Sonatola,400,60,150,0,0,0
-14,Total,6223,1178,719,2,0,15
+1,,,,,,,
+2,Upazila,Mosque,Eid-Gah,Temple (Mandir),Church (Girza),Pagoda,Others
+3,Adamdighi,298,79,72,0,0,0
+4,Bogra sadar,1001,127,35,1,0,0
+5,Dhunat,388,84,80,0,0,0
+6,Dhupchanchia,408,98,59,0,0,0
+7,Gabtali,485,91,22,0,0,0
+8,Kahaloo,462,118,85,0,0,0
+9,Nandigram,395,75,32,0,0,0
+10,Sariakandi,491,78,3,0,0,0
+11,Shajahanpur,443,65,56,0,0,0
+12,Sherpur,472,138,65,1,0,0
+13,Shibganj,980,165,60,0,0,15
+14,Sonatola,400,60,150,0,0,0
+15,Total,6223,1178,719,2,0,15

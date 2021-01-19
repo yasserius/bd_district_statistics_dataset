@@ -1,15 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting selected livestock species 2008,,,,,,
-1,"
-Upazila",Cow & buffalo,Cow & buffalo,Goat,Goat,Sheep,Sheep
-2,"
-Upazila","Holding
-number","Number
-of animal","Holding
-number","Number
-of goat","Holding
-number","Number
-of sheep"
+1,,,,,,,
+2,Upazila,Cow & buffalo Holding number,Cow & buffalo Number of animal,Goat Holding number,Goat Number of goat,Sheep Holding number,Sheep Number of sheep
 3,Aditmari,25214,61777,21744,49288,445,1321
 4,Hatibandha,28158,77563,25719,65695,528,1726
 5,Kaligonj,28738,73948,24235,56875,429,1364

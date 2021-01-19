@@ -1,10 +1,8 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of wheat, jute and sugarcane 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Wheat,Wheat,Jute,Jute,Sugarcane,Sugarcane
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
+2, Upazila,Wheat,Wheat,Jute,Jute,Sugarcane,Sugarcane
+3, Upazila,Area,Production,Area,Production,Area,Production
 4,Biral,8578,9607,1396,926,257,4241
 5,Birampur,600,536,860,3638,40,560
 6,Birganj,10188,11550,4307,168155,895,9756

@@ -1,15 +1,12 @@
 ,0,1,2,3,4
 0,Number of Saw mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Dhaka Metropolitan,111,125,504,631
-4,Dhamrai,48,48,200,248
-5,Dohar,27,27,108,135
-6,Keraniganj,58,58,132,390
-7,Nawabganj,31,33,124,157
-8,Savar,78,95,585,680
-9,Total,353,386,1653,2241
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Dhaka Metropolitan,111,125,504,631
+5,Dhamrai,48,48,200,248
+6,Dohar,27,27,108,135
+7,Keraniganj,58,58,132,390
+8,Nawabganj,31,33,124,157
+9,Savar,78,95,585,680
+10,Total,353,386,1653,2241

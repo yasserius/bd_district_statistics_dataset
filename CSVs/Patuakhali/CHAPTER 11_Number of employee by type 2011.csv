@@ -1,16 +1,12 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,"
-Upazila","
-Police personnel","
-Ansar personnel","
-VDP personnel",Autonomous body,"Local
-Government employee"
-2,Bauphal,42,612,9920,35,34
-3,Dashmina,36,324,3456,33,20
-4,Dumki,30,292,2302,87,46
-5,Galachipa,39,102,172,12,22
-6,Kalapara,723,452,9428,216,41
-7,Mirzaganj,42,292,2332,58,72
-8,Patuakhali Sadar,38,516,7112,54,369
-9,Total,950,2590,34722,495,604
+1,,,,,,
+2, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous body,Local Government employee
+3,Bauphal,42,612,9920,35,34
+4,Dashmina,36,324,3456,33,20
+5,Dumki,30,292,2302,87,46
+6,Galachipa,39,102,172,12,22
+7,Kalapara,723,452,9428,216,41
+8,Mirzaganj,42,292,2332,58,72
+9,Patuakhali Sadar,38,516,7112,54,369
+10,Total,950,2590,34722,495,604

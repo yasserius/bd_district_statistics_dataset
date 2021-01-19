@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
 1,(According to Agriculture Census 2008),,,,
-2,"
-Upazila",Total farm holding,"
-Owner holding","
-Owner cum tenant","
-Tenant holding"
+2, Upazila,Total farm holding, Owner holding, Owner cum tenant, Tenant holding
 3,Bagatipara,20656,17652,8673,4569
 4,Baraigram,43595,36896,18874,7824
 5,Gurudaspur,32960,30539,14604,6716

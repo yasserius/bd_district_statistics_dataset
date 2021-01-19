@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,"Area of high, medium and low land 2008",,,,
-1,Upazila,High land,Medium land,Low land,Total land
-2,Bhandaria,1642,17904,542,20088
-3,Kawkhali,3206,12856,0,16062
-4,Mathbaria,815,55212,783,56810
-5,Nazirpur,10560,38839,7113,56511
-6,Nesarabad,1796,31525,1018,34338
-7,Pirojpur Sadar,1825,24350,6154,32329
-8,Zianagar,6641,16735,0,23376
-9,Total,26484,197420,15610,239514
+1,,,,,
+2,Upazila,High land,Medium land,Low land,Total land
+3,Bhandaria,1642,17904,542,20088
+4,Kawkhali,3206,12856,0,16062
+5,Mathbaria,815,55212,783,56810
+6,Nazirpur,10560,38839,7113,56511
+7,Nesarabad,1796,31525,1018,34338
+8,Pirojpur Sadar,1825,24350,6154,32329
+9,Zianagar,6641,16735,0,23376
+10,Total,26484,197420,15610,239514

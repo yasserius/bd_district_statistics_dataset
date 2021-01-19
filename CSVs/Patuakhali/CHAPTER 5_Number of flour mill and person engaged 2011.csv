@@ -1,16 +1,13 @@
 ,0,1,2,3,4
 0,Number of flour mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Bauphal,23,23,9,32
-4,Dashmina,2,2,2,4
-5,Dumki,11,6,11,17
-6,Galachipa,402,380,22,402
-7,Kalapara,46,58,50,108
-8,Mirzaganj,5,5,5,10
-9,Patuakhali Sadar,21,27,20,47
-10,Total,510,501,119,620
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Bauphal,23,23,9,32
+5,Dashmina,2,2,2,4
+6,Dumki,11,6,11,17
+7,Galachipa,402,380,22,402
+8,Kalapara,46,58,50,108
+9,Mirzaganj,5,5,5,10
+10,Patuakhali Sadar,21,27,20,47
+11,Total,510,501,119,620

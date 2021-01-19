@@ -1,12 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Number of municipality, union, mauza, mahalla and village 2011",,,,,,
-1,Upazila,Municipality,"Ward
-(PSA)",Mahalla,Union,Mauza,Village
-2,Assasuni,0,0,0,11,143,241
-3,Debhata,0,0,0,5,59,125
-4,Kalaroa,1,9,9,12,112,136
-5,Kaliganj,0,0,0,12,243,254
-6,Satkhira Sadar,1,9,33,14,119,237
-7,Shyamnagar,0,0,0,13,127,218
-8,Tala,0,0,0,12,150,229
-9,Total,2,18,42,79,953,1440
+1,,,,,,,
+2,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
+3,Assasuni,0,0,0,11,143,241
+4,Debhata,0,0,0,5,59,125
+5,Kalaroa,1,9,9,12,112,136
+6,Kaliganj,0,0,0,12,243,254
+7,Satkhira Sadar,1,9,33,14,119,237
+8,Shyamnagar,0,0,0,13,127,218
+9,Tala,0,0,0,12,150,229
+10,Total,2,18,42,79,953,1440

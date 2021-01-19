@@ -1,53 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Government health complex and health facility 2011,,,,,,,,,,
-1,"
-
-Upazila","Number of  hospital/ clinic/ nursing
-home","
-
-Number of bed","
-Number of  doctor","
-
-Number of nurse","
-
-Number of technician","
-Number of
-other staff","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility"
-2,"
-
-Upazila","Number of  hospital/ clinic/ nursing
-home","
-
-Number of bed","
-Number of  doctor","
-
-Number of nurse","
-
-Number of technician","
-Number of
-other staff",Indoor,Indoor,Outdoor,Outdoor
-3,"
-
-Upazila","Number of  hospital/ clinic/ nursing
-home","
-
-Number of bed","
-Number of  doctor","
-
-Number of nurse","
-
-Number of technician","
-Number of
-other staff",Male,Female,Male,Female
-4,Assasuni,1,31,6,10,5,93,1205,1966,22705,37345
-5,Debhata,1,31,7,10,8,32,1091,1496,22893,46817
-6,Kalaroa,1,50,18,16,7,119,6181,7879,14665,18755
-7,Kaliganj,1,50,10,11,4,115,911,1231,12865,44442
-8,Satkhira Sadar,1,100,20,38,7,136,3000,1800,41000,49000
-9,Shyamnagar,1,50,7,15,5,54,5680,8430,46892,51962
-10,Tala,1,50,10,15,21,87,1723,2508,22899,24149
-11,Total,7,362,78,115,57,636,19791,25310,183919,272470
+1,,,,,,,,,,,
+2,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse,  Number of technician, Number of other staff,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility
+3,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse,  Number of technician, Number of other staff,Indoor,Indoor,Outdoor,Outdoor
+4,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse,  Number of technician, Number of other staff,Male,Female,Male,Female
+5,Assasuni,1,31,6,10,5,93,1205,1966,22705,37345
+6,Debhata,1,31,7,10,8,32,1091,1496,22893,46817
+7,Kalaroa,1,50,18,16,7,119,6181,7879,14665,18755
+8,Kaliganj,1,50,10,11,4,115,911,1231,12865,44442
+9,Satkhira Sadar,1,100,20,38,7,136,3000,1800,41000,49000
+10,Shyamnagar,1,50,7,15,5,54,5680,8430,46892,51962
+11,Tala,1,50,10,15,21,87,1723,2508,22899,24149
+12,Total,7,362,78,115,57,636,19791,25310,183919,272470

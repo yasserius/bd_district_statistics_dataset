@@ -1,19 +1,18 @@
 ,0,1,2,3,4
 0,Area and production of potato by type 2010-11,,,,
 1,(Area in acre and production in metric ton),,,,
-2,Upazila/City corporation,Potato,Potato,Sweet potato,Sweet potato
-3,Upazila/City corporation,Area,Production,Area,Production
-4,Balaganj,50,144,0,0
-5,Beanibazar,83,678,10,10
-6,Bishwanath,1050,2850,0,0
-7,Companiganj,189,422,99,205
-8,Dakhin surma,499,1365,0,0
-9,Fenchuganj,28,126,27,37.8
-10,Golapganj,221,312,0,0
-11,Gowainghat,290,586,91,244
-12,Jaintiapur,36,2,32,3.2
-13,Kanaighat,0,0,124,250
-14,Sylhet city corporation,0,0,0,0
-15,Sylhet sadar,185,1500,30,220
-16,Zakiganj,74,548,0,0
-17,Total,2705,8533,413,970
+2,Upazila/City corporation,Potato Area,Potato Production,Sweet potato Area,Sweet potato Production
+3,Balaganj,50,144,0,0
+4,Beanibazar,83,678,10,10
+5,Bishwanath,1050,2850,0,0
+6,Companiganj,189,422,99,205
+7,Dakhin surma,499,1365,0,0
+8,Fenchuganj,28,126,27,37.8
+9,Golapganj,221,312,0,0
+10,Gowainghat,290,586,91,244
+11,Jaintiapur,36,2,32,3.2
+12,Kanaighat,0,0,124,250
+13,Sylhet city corporation,0,0,0,0
+14,Sylhet sadar,185,1500,30,220
+15,Zakiganj,74,548,0,0
+16,Total,2705,8533,413,970

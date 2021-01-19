@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,"
-Upazila","
-Household",Population (000),Population (000),Population (000),Sex ratio (M/F),Average size of household,Density per sq. km.
-2,"
-Upazila","
-Household",Male,Female,Total,Sex ratio (M/F),Average size of household,Density per sq. km.
+1,,,,,,,,
+2,Upazila,Household,Population (000) Male,Population (000) Female,Population (000) Total,Sex ratio (M/F),Average size of household,Density per sq. km.
 3,Aditmari,52144,112,113,225,100,4.31,1153
 4,Hatibandha,53122,117,117,234,100,4.40,811
 5,Kaligonj,58138,122,123,246,99,4.22,970

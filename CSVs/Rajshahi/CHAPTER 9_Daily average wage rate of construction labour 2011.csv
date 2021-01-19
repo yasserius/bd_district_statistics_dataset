@@ -1,22 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Daily average wage rate of construction labour 2011,,,,,,
 1,(Rate in taka),,,,,,
-2,"
-Upazila/City corporation",Labour,Labour,Labour,Labour,Labour,Labour
-3,"
-Upazila/City corporation",Mason,"Helper
-(Jogaly)",Carpenter,"Colour
-mistree","Electric
-mistree","Plumber
-mistree"
-4,Bagha,300,200,300,300,250,350
-5,Baghmara,300,230,300,320,400,420
-6,Charghat,300,200,300,300,400,300
-7,Durgapur,280,220,320,320,400,300
-8,Godagari,250,180,300,300,350,300
-9,Mohanpur,350,280,350,250,250,300
-10,Paba,300,250,260,275,300,300
-11,Puthia,300,200,300,250,500,400
-12,Rajshahi city corporation,275,200,275,225,300,300
-13,Tanore,300,220,350,320,400,450
-14,District Average,295.5,218,305.5,286,355,342
+2,Upazila/City corporation,Labour Mason,Labour Helper (Jogaly),Labour Carpenter,Labour Colour mistree,Labour Electric mistree,Labour Plumber mistree
+3,Bagha,300,200,300,300,250,350
+4,Baghmara,300,230,300,320,400,420
+5,Charghat,300,200,300,300,400,300
+6,Durgapur,280,220,320,320,400,300
+7,Godagari,250,180,300,300,350,300
+8,Mohanpur,350,280,350,250,250,300
+9,Paba,300,250,260,275,300,300
+10,Puthia,300,200,300,250,500,400
+11,Rajshahi city corporation,275,200,275,225,300,300
+12,Tanore,300,220,350,320,400,450
+13,District Average,295.5,218,305.5,286,355,342

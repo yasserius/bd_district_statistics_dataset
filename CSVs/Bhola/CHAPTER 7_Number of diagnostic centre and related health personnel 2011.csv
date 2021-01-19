@@ -1,16 +1,12 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,Upazila,"Number of
-centre","Number of
-bed","Number of
-doctor","Number of
-nurse","Number of
-technician"
-2,Bhola Sadar,8,30,10,17,123
-3,Burhanuddin,2,2,0,4,2
-4,Char Fasson,8,8,0,24,15
-5,Daulatkhan,1,1,0,1,3
-6,Lalmohan,4,2,0,5,9
-7,Manpura,1,1,0,1,2
-8,Tazumuddin,1,1,0,2,1
-9,Total,25,45,10,54,155
+1,,,,,,
+2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician
+3,Bhola Sadar,8,30,10,17,123
+4,Burhanuddin,2,2,0,4,2
+5,Char Fasson,8,8,0,24,15
+6,Daulatkhan,1,1,0,1,3
+7,Lalmohan,4,2,0,5,9
+8,Manpura,1,1,0,1,2
+9,Tazumuddin,1,1,0,2,1
+10,Total,25,45,10,54,155

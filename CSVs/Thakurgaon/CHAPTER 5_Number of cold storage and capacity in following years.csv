@@ -1,10 +1,7 @@
 ,0,1,2,3,4
 0,Number of cold storage and capacity in following years,,,,
-1,"
-Upazila",2010-11,2010-11,2009-10,2009-10
-2,"
-Upazila",Number,Installed capacity,Number,"Installed
-capacity"
+1,,,,,
+2,Upazila,2010-11 Number,2010-11 Installed capacity,2009-10 Number,2009-10 Installed capacity
 3,Baliadangi,0,0,0,0
 4,Haripur,0,0,0,0
 5,Pirgonj,0,0,0,0

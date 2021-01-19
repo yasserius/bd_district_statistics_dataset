@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6,7,8
 0,Progress of rural electrification 2011,,,,,,,,
-1,"
-Upazila",Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified
-2,"
-Upazila",Village,Residential holdings,Large scale industry,Small scale industry,Deep tube- well,Power pump,Commercial holding,Others
+1,,,,,,,,,
+2,Upazila,Number of electrified Village,Number of electrified Residential holdings,Number of electrified Large scale industry,Number of electrified Small scale industry,Number of electrified Deep tube- well,Number of electrified Power pump,Number of electrified Commercial holding,Number of electrified Others
 3,Kamalnagar,39,3572,0,93,0,3,1628,0
 4,Lakshmipur Sadar,209,45310,0,782,28,438,6937,120
 5,Ramganj,165,33930,0,413,3,166,4745,0

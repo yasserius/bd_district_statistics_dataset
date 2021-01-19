@@ -1,9 +1,9 @@
 ,0,1,2,3,4,5
 0,"Number of ward, mahalla and household by municipality 2011",,,,,
-1,Upazila,"Name of
-municipality",Total ward,Total mahalla,Total holding,Total household
-2,Kalkini,Kalkini,9,38,7733,7897
-3,Madaripur Sadar,Madaripur,9,33,8878,26118
-4,Rajoir,-,-,-,-,-
-5,Shibchar,Shibchar,9,9,3162,5527
-6,Total,,27,80,19773,39542
+1,,,,,,
+2,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
+3,Kalkini,Kalkini,9,38,7733,7897
+4,Madaripur Sadar,Madaripur,9,33,8878,26118
+5,Rajoir,-,-,-,-,-
+6,Shibchar,Shibchar,9,9,3162,5527
+7,Total,,27,80,19773,39542

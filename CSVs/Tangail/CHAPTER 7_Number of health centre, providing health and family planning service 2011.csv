@@ -1,19 +1,17 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of health centre, providing health and family planning service 2011",,,,,,,
-1,"
-Upazila","Number of union health
-centre",Health services,Sterilization,M.R.,Injection/ copper-T,Oral pill/ condoms,"Number of immunization
-centre"
-2,Basail,10,127832,0,0,0,0,0
-3,Bhuapur,9,97842,0,0,0,0,0
-4,Delduar,8,93745,0,0,0,0,0
-5,Dhanbari,5,56284,0,0,0,0,0
-6,Ghatail,11,240562,0,0,0,0,0
-7,Gopalpur,8,132198,0,0,0,0,0
-8,Kalihati,12,221396,0,0,0,0,0
-9,Madhupur,11,217404,0,0,0,0,0
-10,Mirzapur,13,258250,0,0,0,0,0
-11,Nagarpur,9,471000,0,0,0,0,0
-12,Sakhipur,6,35074,0,0,0,0,0
-13,Tangail Sadar,11,196068,0,0,0,0,0
-14,Total,113,2147655,0,0,0,0,0
+1,,,,,,,,
+2,Upazila,Number of union health centre,Health services,Sterilization,M.R.,Injection/ copper-T,Oral pill/ condoms,Number of immunization centre
+3,Basail,10,127832,0,0,0,0,0
+4,Bhuapur,9,97842,0,0,0,0,0
+5,Delduar,8,93745,0,0,0,0,0
+6,Dhanbari,5,56284,0,0,0,0,0
+7,Ghatail,11,240562,0,0,0,0,0
+8,Gopalpur,8,132198,0,0,0,0,0
+9,Kalihati,12,221396,0,0,0,0,0
+10,Madhupur,11,217404,0,0,0,0,0
+11,Mirzapur,13,258250,0,0,0,0,0
+12,Nagarpur,9,471000,0,0,0,0,0
+13,Sakhipur,6,35074,0,0,0,0,0
+14,Tangail Sadar,11,196068,0,0,0,0,0
+15,Total,113,2147655,0,0,0,0,0

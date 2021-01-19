@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building materials 2011,,,,,,
 1,Price in Taka),,,,,,
-2,"
-Upazila",Brick-01 (per 1000),"Cement
-(per 50 KG bag)",Iron bar (per ton),Sand-01 (Per C.Ft.),Sand -02 (Per C.Ft.),Stone (per C.Ft.)
+2,Upazila,Brick-01 (per 1000),Cement (per 50 KG bag),Iron bar (per ton),Sand-01 (Per C.Ft.),Sand -02 (Per C.Ft.),Stone (per C.Ft.)
 3,Dighinala,5000,480,72600,8,7,0
 4,Khagrachhari Sadar,4500,435,65000,6.5,8,150
 5,Laxshmichhari,4000,440,60000,5,8,150

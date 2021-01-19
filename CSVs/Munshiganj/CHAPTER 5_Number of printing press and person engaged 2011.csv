@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6,7
 0,Number of printing press and person engaged 2011,,,,,,,
-1,"
-Upazila","
-Unit",,,Person engaged,,,I
-2,"
-Upazila","
-Unit",Family,,Hired,,Total,
+1,,,,,,,,
+2,Upazila,Unit,Family,,Person engaged Hired,,Total,I 
 3,Gazaria,0,0,0,0,,,
 4,Lauhajang,0,0,0,0,,,
 5,Munshlganj Sadar,0,0,0,0,,,

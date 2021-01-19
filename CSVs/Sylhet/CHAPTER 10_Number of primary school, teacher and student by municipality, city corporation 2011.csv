@@ -1,10 +1,7 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,"Number of primary school, teacher and student by municipality, city corporation 2011",,,,,,,,,,
-1,Upazila/City corporation,Primary school,Primary school,Primary school,Teacher,Teacher,Teacher,Student,Student,Student,Students per teacher
-2,Upazila/City corporation,Govt.,"Non-
-Govt.",Total,Govt.,"Non-
-Govt.",Total,Govt.,"Non-
-Govt.",Total,Students per teacher
+1,,,,,,,,,,,
+2,Upazila/City corporation,Primary school Govt.,Primary school Non- Govt.,Primary school Total,Teacher Govt.,Teacher Non- Govt.,Teacher Total,Student Govt.,Student Non- Govt.,Student Total,Students per teacher
 3,Balaganj,0,0,0,0,0,0,0,0,0,0
 4,Beanibazar,9,2,11,61,11,72,2950,580,3530,49
 5,Bishwanath,0,0,0,0,0,0,0,0,0,0

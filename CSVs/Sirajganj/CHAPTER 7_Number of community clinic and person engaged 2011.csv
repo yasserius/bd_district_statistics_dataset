@@ -1,15 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Number of community clinic and person engaged 2011,,,,,,
-1,"
-Upazila",Number of clinic,"Number of health
-assistant",Number of FPI,Number of FWV,Number of FWA,Number of other staff
-2,Belkuchi,36,36,0,0,36,0
-3,Chauhali,4,4,4,3,24,4
-4,Kamarkhanda,16,24,4,5,24,13
-5,Kazipur,38,64,8,8,56,40
-6,Royganj,35,43,8,8,44,34
-7,Shahjadpur,48,93,37,10,46,0
-8,Sirajganj Sadar,41,39,7,8,2,39
-9,Tarash,25,32,1,7,28,24
-10,Ullahpara,68,79,11,10,52,218
-11,Total,311,414,80,59,312,372
+1,,,,,,,
+2, Upazila,Number of clinic,Number of health assistant,Number of FPI,Number of FWV,Number of FWA,Number of other staff
+3,Belkuchi,36,36,0,0,36,0
+4,Chauhali,4,4,4,3,24,4
+5,Kamarkhanda,16,24,4,5,24,13
+6,Kazipur,38,64,8,8,56,40
+7,Royganj,35,43,8,8,44,34
+8,Shahjadpur,48,93,37,10,46,0
+9,Sirajganj Sadar,41,39,7,8,2,39
+10,Tarash,25,32,1,7,28,24
+11,Ullahpara,68,79,11,10,52,218
+12,Total,311,414,80,59,312,372

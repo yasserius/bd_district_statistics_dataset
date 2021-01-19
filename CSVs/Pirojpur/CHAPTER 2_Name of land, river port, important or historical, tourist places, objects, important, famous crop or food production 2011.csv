@@ -1,24 +1,11 @@
 ,0,1,2,3,4,5
 0,"Name of land, river port, important or historical, tourist places, objects, important, famous crop or food production 2011",,,,,
-1,"
-Upazila",Name of Land/River/Sea port,"Name of Important or historical/tourist
-place/object","Name of important
-/famous crop or food production",Customer care service provider’s name of cell phone operator,"Distance between district head quarter & upazila
-by road (km)"
-2,Bhandaria,-,-,"Rice, Coconut, Nut","Grameen Phone, Robi
-& Banglalink",22
-3,Kawkhali,-,"Randrio-Asram
-sree-ooru-mondir",Batelnut,"Grameen Phone, Robi
-& Banglalink",25
-4,Mathbaria,-,-,"Rice, Coconut, Nut","Grameen Phone, Robi
-& Banglalink",48
-5,Nazirpur,-,-,Boru Rice,"Grameen Phone, Airtel,
-Robi & Banglalink",16
-6,Nesarabad,-,Sarsina Madrasa,"Rice, Coconut,
-Nut, guava",-,40
-7,Pirojpur Sadar,"
--","Rayer KatiJamider Bari
-Shib Mondir","Rice, Coconut, nut, banana","Grameen Phone, Airtel, Citycel, Robi &
-Banglalink","
--"
-8,Zianagar,-,-,"Rice, Coconut, Nut",Grameen Phone,21
+1,,,,,,
+2, Upazila,Name of Land/River/Sea port,Name of Important or historical/tourist place/object,Name of important /famous crop or food production,Customer care service provider’s name of cell phone operator,Distance between district head quarter & upazila by road (km)
+3,Bhandaria,-,-,"Rice, Coconut, Nut","Grameen Phone, Robi & Banglalink",22
+4,Kawkhali,-,Randrio-Asram sree-ooru-mondir,Batelnut,"Grameen Phone, Robi & Banglalink",25
+5,Mathbaria,-,-,"Rice, Coconut, Nut","Grameen Phone, Robi & Banglalink",48
+6,Nazirpur,-,-,Boru Rice,"Grameen Phone, Airtel, Robi & Banglalink",16
+7,Nesarabad,-,Sarsina Madrasa,"Rice, Coconut, Nut, guava",-,40
+8,Pirojpur Sadar, -,Rayer KatiJamider Bari Shib Mondir,"Rice, Coconut, nut, banana","Grameen Phone, Airtel, Citycel, Robi & Banglalink", -
+9,Zianagar,-,-,"Rice, Coconut, Nut",Grameen Phone,21

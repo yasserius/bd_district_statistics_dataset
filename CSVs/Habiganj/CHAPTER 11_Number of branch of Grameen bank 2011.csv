@@ -1,14 +1,13 @@
 ,0,1,2,3,4
 0,Number of branch of Grameen bank 2011,,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-member",Number of account
-2,Azmirigonj,4,26,205,10770
-3,Bahubal,3,20,7446,4200
-4,Baniachang,1,7,2225,2700
-5,Chunarughat,3,33,13000,7000
-6,Habiganj Sadar,7,53,1465,1723
-7,Lakhai,1,7,2717,5400
-8,Madhabpur,8,77,34348,36652
-9,Nabiganj,8,66,34322,34120
-10,Total,35,289,95728,102565
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of member,Number of account
+3,Azmirigonj,4,26,205,10770
+4,Bahubal,3,20,7446,4200
+5,Baniachang,1,7,2225,2700
+6,Chunarughat,3,33,13000,7000
+7,Habiganj Sadar,7,53,1465,1723
+8,Lakhai,1,7,2717,5400
+9,Madhabpur,8,77,34348,36652
+10,Nabiganj,8,66,34322,34120
+11,Total,35,289,95728,102565

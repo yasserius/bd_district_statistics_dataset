@@ -1,10 +1,10 @@
 ,0,1,2,3,4,5
 0,"Number of physician, practitioner 2011",,,,,
-1,Upazila,Physician,"MBBS,
-FCPS/over",L.M.F,Unani / ayurbedic,Homeopathy
-2,Baliadangi,7,4,40,3,133
-3,Haripur,3,3,3,1,0
-4,Pirgonj,78,5,4,14,55
-5,Ranisankail,26,1,13,3,9
-6,Thakurgaon Sadar,264,20,20,119,105
-7,Total,378,33,80,140,302
+1,,,,,,
+2,Upazila,Physician,"MBBS, FCPS/over",L.M.F,Unani / ayurbedic,Homeopathy
+3,Baliadangi,7,4,40,3,133
+4,Haripur,3,3,3,1,0
+5,Pirgonj,78,5,4,14,55
+6,Ranisankail,26,1,13,3,9
+7,Thakurgaon Sadar,264,20,20,119,105
+8,Total,378,33,80,140,302

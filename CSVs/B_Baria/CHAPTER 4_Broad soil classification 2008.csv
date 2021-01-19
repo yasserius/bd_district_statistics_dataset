@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Broad soil classification 2008,,,,,,
-1,"
-Upazila","
-Total",Soil classification,Soil classification,Soil classification,Soil classification,Soil classification
-2,"
-Upazila","
-Total",Doash,Bele,Etel,Kankar,Others
+1,,,,,,,
+2,Upazila,Total,Soil classification Doash,Soil classification Bele,Soil classification Etel,Soil classification Kankar,Soil classification Others
 3,Akhaura,16965,12865,1520,1830,0,750
 4,Ashuganj,15826,9495,4748,1107,238,238
 5,Banchharampur,46285,27664,14990,2890,0,741

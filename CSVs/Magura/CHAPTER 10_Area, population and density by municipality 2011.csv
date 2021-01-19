@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,"Area, population and density by municipality 2011",,,,,,
-1,"
-Upazila",Name of municipality,Area (In sq. km.),Population census-2011,Population census-2011,Population census-2011,Density per sq.km.
-2,"
-Upazila",Name of municipality,Area (In sq. km.),Male,Female,Both sex,Density per sq.km.
+1,,,,,,,
+2,Upazila,Name of municipality,Area (In sq. km.),Population census-2011 Male,Population census-2011 Female,Population census-2011 Both sex,Density per sq.km.
 3,Magura Sadar,Magura,43.92,49065,49290,38355,873
 4,Mohammadpur,-,0,0,0,0,0
 5,Shalikha,-,0,0,0,0,0

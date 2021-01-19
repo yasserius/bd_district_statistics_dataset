@@ -1,20 +1,17 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Atrai,61,42,54,96
-4,Badalgachhi,65,65,130,195
-5,Dhamoirhat,60,185,80,265
-6,Manda,83,0,332,332
-7,Mahadebpur,157,164,177,341
-8,Naogaon sadar,115,127,575,702
-9,Niamatpur,23,72,115,187
-10,Patnitala,52,102,260,362
-11,Porsha,54,69,93,162
-12,Raninagar,65,65,390,455
-13,Sapahar,48,72,240,312
-14,Total,783,963,2446,3409
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Atrai,61,42,54,96
+5,Badalgachhi,65,65,130,195
+6,Dhamoirhat,60,185,80,265
+7,Manda,83,0,332,332
+8,Mahadebpur,157,164,177,341
+9,Naogaon sadar,115,127,575,702
+10,Niamatpur,23,72,115,187
+11,Patnitala,52,102,260,362
+12,Porsha,54,69,93,162
+13,Raninagar,65,65,390,455
+14,Sapahar,48,72,240,312
+15,Total,783,963,2446,3409

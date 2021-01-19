@@ -1,49 +1,11 @@
 ,0,1,2,3,4,5,6,7,8,9
 0,Number of Government health complex and health facility 2011,,,,,,,,,
-1,"
-
-Upazila","Number of  hospital
-/ clinic/
-nursing
-home","
-
-Number of bed","
-Number of  doctor","
-
-Number of nurse","
-Number of    technician","
-Number of  other staff",Number of patient under health facilitv,Number of patient under health facilitv,
-2,"
-
-Upazila","Number of  hospital
-/ clinic/
-nursing
-home","
-
-Number of bed","
-Number of  doctor","
-
-Number of nurse","
-Number of    technician","
-Number of  other staff",Indoor,Outdoor,
-3,"
-
-Upazila","Number of  hospital
-/ clinic/
-nursing
-home","
-
-Number of bed","
-Number of  doctor","
-
-Number of nurse","
-Number of    technician","
-Number of  other staff",Male I Female,Male I Female,
-4,Gazaria,50,21,14,8,105,7057,7141,81219,92704
-5,Lauhajang,50,21,13,7,97,919,1711,14557,24022
-6,"Munshiganj
-Sadar",100,18,34,6,67,4131,7878,72826,93071
-7,Serajdikhan,50,38,10,14,105,25344,45684,2145,3349
-8,Sreenagar,31,35,7,7,94,1452,2052,12180,30132
-9,Tongibari,50,21,14,12,16,1350,2760,13705,27397
-10,Total	6,331,154,92,54,484,40253,67226,196632,270675
+1,,,,,,,,,,
+2,Upazila,Number of hospital / clinic/ nursing home,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff,Number of patient under health facilitv Indoor Male I Female,Number of patient under health facilitv Outdoor Male I Female,
+3,Gazaria,50,21,14,8,105,7057,7141,81219,92704
+4,Lauhajang,50,21,13,7,97,919,1711,14557,24022
+5,Munshiganj Sadar,100,18,34,6,67,4131,7878,72826,93071
+6,Serajdikhan,50,38,10,14,105,25344,45684,2145,3349
+7,Sreenagar,31,35,7,7,94,1452,2052,12180,30132
+8,Tongibari,50,21,14,12,16,1350,2760,13705,27397
+9,Total	6,331,154,92,54,484,40253,67226,196632,270675

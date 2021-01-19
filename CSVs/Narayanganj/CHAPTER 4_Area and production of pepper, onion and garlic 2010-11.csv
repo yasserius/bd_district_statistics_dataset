@@ -1,13 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Pepper,Pepper,Onion,Onion,Garlic,Garlic
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Araihazar,166,67,428,988,29,20
-5,Bandar,38,15,9,8,6,4
-6,Narayanganj Sadar,156,99,18,24,6,8
-7,Rupganj,277,84,39,80,16,7
-8,Sonargaon,260,74,76,91,17,15
-9,Total,897,339,570,1191,74,53
+2,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
+3,Araihazar,166,67,428,988,29,20
+4,Bandar,38,15,9,8,6,4
+5,Narayanganj Sadar,156,99,18,24,6,8
+6,Rupganj,277,84,39,80,16,7
+7,Sonargaon,260,74,76,91,17,15
+8,Total,897,339,570,1191,74,53

@@ -1,16 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,Progress of rural electrification 2011,,,,,,,,
-1,"
-Upazila",Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified
-2,"
-Upazila","
-Village",Residential holding,Large scale industry,Small scale industry,Deep tube- well,Power pump,Commercial holding,"
-Others"
-3,Fulchhari,18,4350,0,28,12,140,250,0
-4,Gaibandha Sadar,46,14898,0,111,46,604,931,0
-5,Gobindaganj,375,7500,3,357,214,0,1696,0
-6,Palashbari,149,30000,0,115,46,0,565,0
-7,Sadullapur,96,9463,0,331,41,843,2122,0
-8,Saghata,72,12026,0,187,25,11,1560,0
-9,Sundarganj,108,12142,1,261,52,1749,2498,0
-10,Total,864,90379,4,1390,436,3347,9622,0
+1,,,,,,,,,
+2, Upazila,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified
+3, Upazila, Village,Residential holding,Large scale industry,Small scale industry,Deep tube- well,Power pump,Commercial holding, Others
+4,Fulchhari,18,4350,0,28,12,140,250,0
+5,Gaibandha Sadar,46,14898,0,111,46,604,931,0
+6,Gobindaganj,375,7500,3,357,214,0,1696,0
+7,Palashbari,149,30000,0,115,46,0,565,0
+8,Sadullapur,96,9463,0,331,41,843,2122,0
+9,Saghata,72,12026,0,187,25,11,1560,0
+10,Sundarganj,108,12142,1,261,52,1749,2498,0
+11,Total,864,90379,4,1390,436,3347,9622,0

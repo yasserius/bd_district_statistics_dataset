@@ -1,21 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Selected poultry, birds 2008",,,,,,
-1,"
-Upazila",Hen and cock,Hen and cock,Duck,Duck,Others,Others
-2,"
-Upazila","Holding
-reporting","Total
-number","Holding
-reporting","Total
-number","Holding
-reporting","Total
-number"
-3,Azmirigonj,8423,54682,4055,25751,5483,210000
-4,Bahubal,2195,119517,11750,44390,0,0
-5,Baniachang,23774,139516,13505,85528,0,0
-6,Chunarughat,40041,255851,24456,95855,0,0
-7,Habiganj Sadar,28199,155583,13497,57883,27,10600
-8,Lakhai,14695,88624,7435,40551,975,4286
-9,Madhabpur,36028,224445,20663,88805,1,70
-10,Nabiganj,25074,157666,12758,72140,1089,7070
-11,Total,178429,1195884,108119,510903,7575,232026
+1,,,,,,,
+2, Upazila,Hen and cock,Hen and cock,Duck,Duck,Others,Others
+3, Upazila,Holding reporting,Total number,Holding reporting,Total number,Holding reporting,Total number
+4,Azmirigonj,8423,54682,4055,25751,5483,210000
+5,Bahubal,2195,119517,11750,44390,0,0
+6,Baniachang,23774,139516,13505,85528,0,0
+7,Chunarughat,40041,255851,24456,95855,0,0
+8,Habiganj Sadar,28199,155583,13497,57883,27,10600
+9,Lakhai,14695,88624,7435,40551,975,4286
+10,Madhabpur,36028,224445,20663,88805,1,70
+11,Nabiganj,25074,157666,12758,72140,1089,7070
+12,Total,178429,1195884,108119,510903,7575,232026

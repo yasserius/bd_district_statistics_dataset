@@ -1,48 +1,16 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Non-Government health complex and health facility 2011,,,,,,,,,,
-1,"
-
-Upazila","Number of  hospital/ clinic/ nursing
-home","
-
-Number of bed","
-Number of  doctor","
-
-Number of nurse","
-Number of    technician","
-Number of
-other staff",Number of patient under health facility,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility
-2,"
-
-Upazila","Number of  hospital/ clinic/ nursing
-home","
-
-Number of bed","
-Number of  doctor","
-
-Number of nurse","
-Number of    technician","
-Number of
-other staff",Indoor,Indoor,Outdoor,Outdoor
-3,"
-
-Upazila","Number of  hospital/ clinic/ nursing
-home","
-
-Number of bed","
-Number of  doctor","
-
-Number of nurse","
-Number of    technician","
-Number of
-other staff",Male,Female,Male,Female
-4,Begumganj,14,199,37,96,23,239,5444,6667,149340,148306
-5,Chatkhil,9,70,27,41,26,161,1047,1213,10362,12531
-6,Companiganj,7,86,19,37,16,117,9327,7837,13428,15823
-7,Hatiya,0,0,0,0,0,0,0,0,0,0
-8,Kabirhat,2,0,7,4,2,7,0,0,4000,5000
-9,Noakhali Sadar,14,300,69,180,40,733,10955,13551,13091,25550
-10,Senbagh,3,30,15,23,6,31,333,927,3930,5614
-11,Sonaimuri,9,52,15,29,17,96,254,427,3895,43416
-12,Subarnachar,0,0,0,0,0,0,0,0,0,0
-13,Total,58,737,189,410,130,1384,27360,30622,198046,256240
+1,,,,,,,,,,,
+2,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse, Number of    technician, Number of other staff,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility
+3,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse, Number of    technician, Number of other staff,Indoor,Indoor,Outdoor,Outdoor
+4,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse, Number of    technician, Number of other staff,Male,Female,Male,Female
+5,Begumganj,14,199,37,96,23,239,5444,6667,149340,148306
+6,Chatkhil,9,70,27,41,26,161,1047,1213,10362,12531
+7,Companiganj,7,86,19,37,16,117,9327,7837,13428,15823
+8,Hatiya,0,0,0,0,0,0,0,0,0,0
+9,Kabirhat,2,0,7,4,2,7,0,0,4000,5000
+10,Noakhali Sadar,14,300,69,180,40,733,10955,13551,13091,25550
+11,Senbagh,3,30,15,23,6,31,333,927,3930,5614
+12,Sonaimuri,9,52,15,29,17,96,254,427,3895,43416
+13,Subarnachar,0,0,0,0,0,0,0,0,0,0
+14,Total,58,737,189,410,130,1384,27360,30622,198046,256240

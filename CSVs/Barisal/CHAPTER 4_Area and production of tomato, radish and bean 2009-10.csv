@@ -1,19 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2009-10",,,,,,
 1,(Area in acre & production in metric ton),,,,,,
-2,"
-Upazila/city corporation",Tomato,Tomato,Radish,Radish,Bean,Bean
-3,"
-Upazila/city corporation",Area,Production,Area,Production,Area,Production
-4,Agailjhara,18.6,18.191,34,83.83,16.5,15.548
-5,Babuganj,150,221,185,508,100,71.54
-6,Bakerganj,22,13,47,96,61,71
-7,Banaripara,39,54.6,81,250,22.4,17.6
-8,Barisal city corporation,12,17,8,18,7,10
-9,Barisal sadar,130,187,50,109,61,84
-10,Gaurnadi,45,209,145,441,14.4,40.5
-11,Hizla,39,39,38,79,40,45
-12,Mehendiganj,28,19.6,51,66.3,53,25.44
-13,Muladi,19,92.6,68,118.7,15,7.7
-14,Wazirpur,59,90,141,280.8,52,62.5
-15,Total,561.6,960.991,848,2050.63,442.3,450.828
+2,Upazila/city corporation,Tomato Area,Tomato Production,Radish Area,Radish Production,Bean Area,Bean Production
+3,Agailjhara,18.6,18.191,34,83.83,16.5,15.548
+4,Babuganj,150,221,185,508,100,71.54
+5,Bakerganj,22,13,47,96,61,71
+6,Banaripara,39,54.6,81,250,22.4,17.6
+7,Barisal city corporation,12,17,8,18,7,10
+8,Barisal sadar,130,187,50,109,61,84
+9,Gaurnadi,45,209,145,441,14.4,40.5
+10,Hizla,39,39,38,79,40,45
+11,Mehendiganj,28,19.6,51,66.3,53,25.44
+12,Muladi,19,92.6,68,118.7,15,7.7
+13,Wazirpur,59,90,141,280.8,52,62.5
+14,Total,561.6,960.991,848,2050.63,442.3,450.828

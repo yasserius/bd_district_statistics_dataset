@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,"Area of high, medium and low land 2008",,,,
-1,Upazila,High land,Medium land,Low land,Total land
-2,Gazipur Sadar,56998,25033,25075,107106
-3,Kaliakair,7015,20625,14802,42442
-4,Kaliganj,6182,10157,4977,21316
-5,Kapashia,39762,42966,5485,88213
-6,Sreepur,37929,10789,1366,50084
-7,Total,147886,109570,51705,309161
+1,,,,,
+2,Upazila,High land,Medium land,Low land,Total land
+3,Gazipur Sadar,56998,25033,25075,107106
+4,Kaliakair,7015,20625,14802,42442
+5,Kaliganj,6182,10157,4977,21316
+6,Kapashia,39762,42966,5485,88213
+7,Sreepur,37929,10789,1366,50084
+8,Total,147886,109570,51705,309161

@@ -1,13 +1,7 @@
 ,0,1,2,3,4,5,6,7,8
 0,Progress of rural electrification 2011,,,,,,,,
-1,"
-Upazila",Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified
-2,"
-Upazila","
-Village",Residential holdings,"Large scale
-industry","Small scale
-industry",Deep tube-well,Power pump,Commercial holding,"
-Others"
+1,,,,,,,,,
+2,Upazila,Number of electrified Village,Number of electrified Residential holdings,Number of electrified Large scale industry,Number of electrified Small scale industry,Number of electrified Deep tube-well,Number of electrified Power pump,Number of electrified Commercial holding,Number of electrified Others
 3,Basail,110,18522,0,212,77,1652,557,10
 4,Bhuapur,119,15732,0,224,22,1342,1325,0
 5,Delduar,1,154,16218,0,249,78,1765,1750

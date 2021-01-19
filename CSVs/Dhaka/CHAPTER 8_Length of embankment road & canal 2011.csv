@@ -1,11 +1,7 @@
 ,0,1,2,3
 0,Length of embankment road & canal 2011,,,
 1,(Kilometer),,,
-2,"
-Upazila","
-Embankment road","
-Canal","
-Others road"
+2, Upazila, Embankment road, Canal, Others road
 3,Dhaka Metropolitan,80,46,0
 4,Dhamrai,0,0,0
 5,Dohar,0,18,0

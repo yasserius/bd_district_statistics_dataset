@@ -1,13 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Number of bridge, baily bridge, culvert, pool, shako and others 2011",,,,,,
-1,Upazila,Bridges,"Baily
-bridge",Culvert,Pool,Shako,Others
-2,Chandpur Sadar,80,7,210,140,310,14
-3,Foridganj,143,1,636,21,79,0
-4,Haimchar,30,0,100,20,29,0
-5,Hajiganj,85,4,248,0,240,0
-6,Kachua,128,9,522,0,15,0
-7,Matlab Dakshin,28,3,181,33,85,0
-8,Matlab Uttar,100,10,272,15,20,0
-9,Shahrasti,70,3,363,7,0,0
-10,Total,664,37,2532,236,778,14
+1,,,,,,,
+2,Upazila,Bridges,Baily bridge,Culvert,Pool,Shako,Others
+3,Chandpur Sadar,80,7,210,140,310,14
+4,Foridganj,143,1,636,21,79,0
+5,Haimchar,30,0,100,20,29,0
+6,Hajiganj,85,4,248,0,240,0
+7,Kachua,128,9,522,0,15,0
+8,Matlab Dakshin,28,3,181,33,85,0
+9,Matlab Uttar,100,10,272,15,20,0
+10,Shahrasti,70,3,363,7,0,0
+11,Total,664,37,2532,236,778,14

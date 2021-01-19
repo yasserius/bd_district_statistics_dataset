@@ -1,16 +1,14 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization 2008,,,,,
-1,Upazila,Total area,"Permanent
-cropped area","Temporary
-cropped area","Permanent
-fallow area",Others
-2,Akhaura,16965,1500,14990,475,0
-3,Ashuganj,16702,65,11140,33,5464
-4,Banchharampur,46285,179,29490,212,16404
-5,Bijoynagar,0,0,0,0,0
-6,Brahmanbaria Sadar,81519,50,76134,0,5335
-7,Kasba,41634,930,40680,24,0
-8,Nabinagar,87373,313,51722,94,35244
-9,Nasirnagar,71876,4090,67752,22,12
-10,Sarail,36626,83,36284,0,150
-11,Total,398980,7210,328192,860,62609
+1,,,,,,
+2,Upazila,Total area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
+3,Akhaura,16965,1500,14990,475,0
+4,Ashuganj,16702,65,11140,33,5464
+5,Banchharampur,46285,179,29490,212,16404
+6,Bijoynagar,0,0,0,0,0
+7,Brahmanbaria Sadar,81519,50,76134,0,5335
+8,Kasba,41634,930,40680,24,0
+9,Nabinagar,87373,313,51722,94,35244
+10,Nasirnagar,71876,4090,67752,22,12
+11,Sarail,36626,83,36284,0,150
+12,Total,398980,7210,328192,860,62609

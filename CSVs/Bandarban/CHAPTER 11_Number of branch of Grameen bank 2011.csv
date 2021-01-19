@@ -1,13 +1,12 @@
 ,0,1,2,3,4
 0,Number of branch of Grameen bank 2011,,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-member",Number of account
-2,Alikadam,1,6,1469,1704
-3,Bandarban Sadar,5,23,4728,4891
-4,Lama,2,10,780,2972
-5,Naikhongchhari,0,0,0,0
-6,Rowangchhari,1,4,638,900
-7,Ruma,0,0,0,0
-8,Thanchi,0,0,0,0
-9,Total,9,43,7615,10467
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of member,Number of account
+3,Alikadam,1,6,1469,1704
+4,Bandarban Sadar,5,23,4728,4891
+5,Lama,2,10,780,2972
+6,Naikhongchhari,0,0,0,0
+7,Rowangchhari,1,4,638,900
+8,Ruma,0,0,0,0
+9,Thanchi,0,0,0,0
+10,Total,9,43,7615,10467

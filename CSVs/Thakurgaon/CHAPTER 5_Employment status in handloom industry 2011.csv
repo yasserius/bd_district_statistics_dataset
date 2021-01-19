@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5
 0,Employment status in handloom industry 2011,,,,,
-1,"
-Upazila",Number of handloom,Person engaged,Person engaged,Person engaged,"
-Total"
-2,"
-Upazila",Number of handloom,Family member,Regular,Hired /Casual,"
-Total"
+1,,,,,,
+2,Upazila,Number of handloom,Person engaged Family member,Person engaged Regular,Person engaged Hired /Casual,Total
 3,Baliadangi,0,0,0,0,0
 4,Haripur,0,0,0,0,0
 5,Pirgonj,0,0,0,0,0

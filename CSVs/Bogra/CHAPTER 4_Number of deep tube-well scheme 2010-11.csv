@@ -1,9 +1,7 @@
 ,0,1,2,3
 0,Number of deep tube-well scheme 2010-11,,,
-1,"
-Upazila",Number of deep tube-well,Number of deep tube-well,Area irrigated (In acre)
-2,"
-Upazila",Commissioned,Operated,Area irrigated (In acre)
+1,,,,
+2,Upazila,Number of deep tube-well Commissioned,Number of deep tube-well Operated,Area irrigated (In acre)
 3,Adamdighi,236,0,17339
 4,Bogra sadar,0,163,11225
 5,Dhunat,16,12,350

@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,Upazila,Number,Number of employee,Number of client
-2,Azmirigonj,154,0,3850
-3,Bahubal,375,0,9945
-4,Baniachang,334,6,25300
-5,Chunarughat,309,7,7576
-6,Habiganj Sadar,149,15,7739
-7,Lakhai,424,8,10014
-8,Madhabpur,420,21,14218
-9,Nabiganj,157,300,7479
-10,Total,2322,357,86121
+1,,,,
+2,Upazila,Number,Number of employee,Number of client
+3,Azmirigonj,154,0,3850
+4,Bahubal,375,0,9945
+5,Baniachang,334,6,25300
+6,Chunarughat,309,7,7576
+7,Habiganj Sadar,149,15,7739
+8,Lakhai,424,8,10014
+9,Madhabpur,420,21,14218
+10,Nabiganj,157,300,7479
+11,Total,2322,357,86121

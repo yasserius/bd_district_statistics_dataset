@@ -1,29 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Area and Production of pumpkin, parble (potol) and cabbage 2010-11",,,,,,
 1,(Area in acre & production in metric ton),,,,,,
-2,"
-Upazila/city corporation",Pumpkin,Pumpkin,Parble (potol),Parble (potol),Cabbage,Cabbage
-3,"
-Upazila/city corporation",Area,Production,Area,Production,Area,Production
-4,Batiaghata	69,163,0,0,35,166,
-5,Dacope	255,607,0,0,15,52,
-6,Dighalia	50,212,0,0,22,143,
-7,"Dumuria	278
-Khulna City
-Corporation	0","921
-
-0","76
-
-3","110
-
-3","368
-
-5","2717
-
-15",
-8,Koyra	13,23,0,0,7,16,
-9,Paikgachha	29,229,19,39,161,207,
-10,Phultala	9,40,2,3,12,162,
-11,Rupsa	84,235,0,0,87,1662,
-12,Terokhada	60,513,5,5,4,40,
-13,Total	847,2943,104,160,715,5179,
+2,Upazila/city corporation,Pumpkin Area,Pumpkin Production,Parble (potol) Area,Parble (potol) Production,Cabbage Area,Cabbage Production
+3,Batiaghata	69,163,0,0,35,166,
+4,Dacope	255,607,0,0,15,52,
+5,Dighalia	50,212,0,0,22,143,
+6,Dumuria	278 Khulna City Corporation	0,921  0,76  3,110  3,368  5,2717  15,
+7,Koyra	13,23,0,0,7,16,
+8,Paikgachha	29,229,19,39,161,207,
+9,Phultala	9,40,2,3,12,162,
+10,Rupsa	84,235,0,0,87,1662,
+11,Terokhada	60,513,5,5,4,40,
+12,Total	847,2943,104,160,715,5179,

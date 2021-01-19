@@ -1,14 +1,10 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,Upazila,"Number of
-centre","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Gopalganj Sadar,17,7,8,25,122
-3,Kashiani,12,5,8,12,10
-4,Kotalipara,8,7,10,10,9
-5,Muksudpur,4,25,11,4,17
-6,Tungipara,4,0,0,4,12
-7,Total,45,44,37,55,170
+1,,,,,,
+2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Gopalganj Sadar,17,7,8,25,122
+4,Kashiani,12,5,8,12,10
+5,Kotalipara,8,7,10,10,9
+6,Muksudpur,4,25,11,4,17
+7,Tungipara,4,0,0,4,12
+8,Total,45,44,37,55,170

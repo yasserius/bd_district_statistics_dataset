@@ -1,16 +1,13 @@
 ,0,1,2,3,4
 0,Number of bamboo and cane industry and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Daulotpur,5,12,0,12
-4,Gheor,156,310,30,340
-5,Horirampur,185,185,75,260
-6,Manikganj Sadar,195,241,19,260
-7,Saturia,1200,2400,360,2760
-8,Shibalaya,51,122,0,122
-9,Singair,362,362,0,362
-10,Total,2154,3632,484,4116
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Daulotpur,5,12,0,12
+5,Gheor,156,310,30,340
+6,Horirampur,185,185,75,260
+7,Manikganj Sadar,195,241,19,260
+8,Saturia,1200,2400,360,2760
+9,Shibalaya,51,122,0,122
+10,Singair,362,362,0,362
+11,Total,2154,3632,484,4116

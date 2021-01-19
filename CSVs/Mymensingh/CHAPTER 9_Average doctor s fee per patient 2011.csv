@@ -1,20 +1,19 @@
 ,0,1,2,3,4,5
 0,Average doctor s fee per patient 2011,,,,,
-1,(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka)
-2,"
-Upazila",Doctor,Doctor,Doctor,Doctor,Doctor
-3,"
-Upazila",MBBS,FCPS,Dentist,Gynaecologist,Homeopathy
-4,Bhaluka,200,400,200,400,50
-5,Dhobaura,300,0,200,0,50
-6,Fulbaria,200,200,0,200,0
-7,Gafargaon,100,200,100,500,0
-8,Gauripur,200,0,150,200,100
-9,Phulpur,200,400,0,300,0
-10,Haluaghat,150,0,100,0,30
-11,Ishwargonj,300,300,300,300,50
-12,Muktagacha,200,300,300,300,100
-13,Nandail,200,200,100,200,0
-14,Mymensingh Sadar,300,400,100,400,50
-15,Trishal,100,200,100,200,0
-16,Average,204,289,165,300,61
+1,,,,,,
+2,(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka)
+3, Upazila,Doctor,Doctor,Doctor,Doctor,Doctor
+4, Upazila,MBBS,FCPS,Dentist,Gynaecologist,Homeopathy
+5,Bhaluka,200,400,200,400,50
+6,Dhobaura,300,0,200,0,50
+7,Fulbaria,200,200,0,200,0
+8,Gafargaon,100,200,100,500,0
+9,Gauripur,200,0,150,200,100
+10,Phulpur,200,400,0,300,0
+11,Haluaghat,150,0,100,0,30
+12,Ishwargonj,300,300,300,300,50
+13,Muktagacha,200,300,300,300,100
+14,Nandail,200,200,100,200,0
+15,Mymensingh Sadar,300,400,100,400,50
+16,Trishal,100,200,100,200,0
+17,Average,204,289,165,300,61

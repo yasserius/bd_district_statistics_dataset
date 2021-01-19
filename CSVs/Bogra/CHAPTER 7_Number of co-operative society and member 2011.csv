@@ -1,13 +1,7 @@
 ,0,1,2,3,4
 0,Number of co-operative society and member 2011,,,,
-1,"
-Upazila","Number of
-co-operative society",Number of members,Number of members,"
-Both sex"
-2,"
-Upazila","Number of
-co-operative society",Male,Female,"
-Both sex"
+1,,,,,
+2,Upazila,Number of co-operative society,Number of members Male,Number of members Female,Both sex
 3,Adamdighi,157,4560,115,4675
 4,Bogra sadar,425,15100,6150,21250
 5,Dhunat,132,5271,1757,7028

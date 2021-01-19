@@ -1,20 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,Progress of rural electrification 2011,,,,,,,,
-1,"
-Upazila",Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified
-2,"
-Upazila","
-Village",Residential holding,"Large
-scale industry","Small
-scale Industry","Deep
-tube- well",Power pump,Commercial holding,"
-Others"
-3,Chakaria,170,20000,0,0,6,918,30220,0
-4,Cox's Bazar Sadar,136,45280,0,35,1441,12,0,0
-5,Kutubdia,0,0,0,0,0,0,0,0
-6,Moheshkhali,133,10412,0,154,0,362,2214,0
-7,Pekua,114,6000,0,0,0,0,1000,0
-8,Ramu,25,17000,0,94,58,36,1328,0
-9,Teknaf,143,13202,0,0,0,7,2713,0
-10,Ukhia,60,7478,27,242,0,1650,2025,0
-11,Total,781,119372,27,525,1505,2985,39500,0
+1,,,,,,,,,
+2, Upazila,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified
+3, Upazila, Village,Residential holding,Large scale industry,Small scale Industry,Deep tube- well,Power pump,Commercial holding, Others
+4,Chakaria,170,20000,0,0,6,918,30220,0
+5,Cox's Bazar Sadar,136,45280,0,35,1441,12,0,0
+6,Kutubdia,0,0,0,0,0,0,0,0
+7,Moheshkhali,133,10412,0,154,0,362,2214,0
+8,Pekua,114,6000,0,0,0,0,1000,0
+9,Ramu,25,17000,0,94,58,36,1328,0
+10,Teknaf,143,13202,0,0,0,7,2713,0
+11,Ukhia,60,7478,27,242,0,1650,2025,0
+12,Total,781,119372,27,525,1505,2985,39500,0

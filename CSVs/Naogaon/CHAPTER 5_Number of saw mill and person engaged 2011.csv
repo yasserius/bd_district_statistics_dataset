@@ -1,20 +1,17 @@
 ,0,1,2,3,4
 0,Number of saw mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Atrai,25,25,100,125
-4,Badalgachhi,16,16,80,96
-5,Dhamoirhat,23,23,138,161
-6,Manda,62,0,310,310
-7,Mahadebpur,33,37,129,166
-8,Naogaon sadar,31,38,217,255
-9,Niamatpur,23,72,115,187
-10,Patnitala,31,46,155,201
-11,Porsha,20,20,60,80
-12,Raninagar,11,11,48,59
-13,Sapahar,11,22,46,68
-14,Total,286,310,1398,1708
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Atrai,25,25,100,125
+5,Badalgachhi,16,16,80,96
+6,Dhamoirhat,23,23,138,161
+7,Manda,62,0,310,310
+8,Mahadebpur,33,37,129,166
+9,Naogaon sadar,31,38,217,255
+10,Niamatpur,23,72,115,187
+11,Patnitala,31,46,155,201
+12,Porsha,20,20,60,80
+13,Raninagar,11,11,48,59
+14,Sapahar,11,22,46,68
+15,Total,286,310,1398,1708

@@ -1,14 +1,13 @@
 ,0,1,2,3,4,5
 0,Average doctor s fee per patient 2011,,,,,
-1,(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka)
-2,"
-Upazila",Doctor,Doctor,Doctor,Doctor,Doctor
-3,"
-Upazila",MBBS,FCPS,Dentist,Gynaecologist,Homeopathy
-4,Bagatipara,0,200,0,0,0
-5,Baraigram,200,120,60,220,30
-6,Gurudaspur,200,250,100,0,20
-7,Lalpur,150,0,150,0,30
-8,Natore Sadar,200,300,200,300,0
-9,Singra,200,300,150,300,20
-10,Average,190,234,132,273,25
+1,,,,,,
+2,(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka)
+3, Upazila,Doctor,Doctor,Doctor,Doctor,Doctor
+4, Upazila,MBBS,FCPS,Dentist,Gynaecologist,Homeopathy
+5,Bagatipara,0,200,0,0,0
+6,Baraigram,200,120,60,220,30
+7,Gurudaspur,200,250,100,0,20
+8,Lalpur,150,0,150,0,30
+9,Natore Sadar,200,300,200,300,0
+10,Singra,200,300,150,300,20
+11,Average,190,234,132,273,25

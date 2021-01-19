@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Number of printing press and person engaged 2011,,,,
-1,Upazila,Unit,Person engaged,Person engaged,Person engaged
-2,Upazila,Unit,Family,Hired,Total
-3,Belkuchi,-,-,-,-
-4,Chauhali,-,-,-,-
-5,Kamarkhanda,-,-,-,-
-6,Kazipur,-,-,-,-
-7,Royganj,4,7,12,19
-8,Shahjadpur,4,4,10,14
-9,Sirajganj Sadar,19,38,59,97
-10,Tarash,1,1,-,1
-11,Ullahpara,3,4,11,15
-12,Total,34,57,98,155
+1,,,,,
+2,Upazila,Unit,Person engaged,Person engaged,Person engaged
+3,Upazila,Unit,Family,Hired,Total
+4,Belkuchi,-,-,-,-
+5,Chauhali,-,-,-,-
+6,Kamarkhanda,-,-,-,-
+7,Kazipur,-,-,-,-
+8,Royganj,4,7,12,19
+9,Shahjadpur,4,4,10,14
+10,Sirajganj Sadar,19,38,59,97
+11,Tarash,1,1,-,1
+12,Ullahpara,3,4,11,15
+13,Total,34,57,98,155

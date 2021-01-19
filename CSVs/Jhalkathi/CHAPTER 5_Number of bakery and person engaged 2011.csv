@@ -1,13 +1,10 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Jhalokati Sadar,11,11,60,70
-4,Kanthalia,6,6,42,48
-5,Nalchity,14,22,28,50
-6,Rajpur,9,12,38,50
-7,Total,40,51,168,218
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Jhalokati Sadar,11,11,60,70
+5,Kanthalia,6,6,42,48
+6,Nalchity,14,22,28,50
+7,Rajpur,9,12,38,50
+8,Total,40,51,168,218

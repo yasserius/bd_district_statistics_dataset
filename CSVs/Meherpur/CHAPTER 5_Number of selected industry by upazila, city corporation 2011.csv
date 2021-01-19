@@ -1,13 +1,8 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of selected industry by upazila, city corporation 2011",,,,,,,,
-1,Upazila/Municipality,"Textile
-mill","Rice
-mill","Match
-factory","Steel and
-engineering",Aluminum,"Jute
-mill","Sugar
-mill",Others
-2,Gangni,0,182,0,0,0,0,0,0
-3,Mujibnagar,0,71,0,0,0,0,0,0
-4,Meherpur Sadar,0,21,0,0,0,0,0,0
-5,Total,0,274,0,0,0,0,0,0
+1,,,,,,,,,
+2,Upazila/Municipality,Textile mill,Rice mill,Match factory,Steel and engineering,Aluminum,Jute mill,Sugar mill,Others
+3,Gangni,0,182,0,0,0,0,0,0
+4,Mujibnagar,0,71,0,0,0,0,0,0
+5,Meherpur Sadar,0,21,0,0,0,0,0,0
+6,Total,0,274,0,0,0,0,0,0

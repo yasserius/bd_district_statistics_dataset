@@ -1,55 +1,19 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Government health complex and health facility 2011,,,,,,,,,,
-1,"
-
-Upazila","Number of  hospital/ clinic/ nursing
-home","
-
-Number of bed","
-Number of  doctor","
-
-Number of nurse","
-Number of    technician","
-Number of
-other staff","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility"
-2,"
-
-Upazila","Number of  hospital/ clinic/ nursing
-home","
-
-Number of bed","
-Number of  doctor","
-
-Number of nurse","
-Number of    technician","
-Number of
-other staff",Indoor,Indoor,Outdoor,Outdoor
-3,"
-
-Upazila","Number of  hospital/ clinic/ nursing
-home","
-
-Number of bed","
-Number of  doctor","
-
-Number of nurse","
-Number of    technician","
-Number of
-other staff",Male,Female,Male,Female
-4,Bhaluka,1,50,34,20,6,131,1991,3018,6859,9012
-5,Dhubaura,1,31,14,8,6,70,1620,1826,16117,36629
-6,Fulbaria,1,50,22,10,4,154,2015,2120,22100,39300
-7,Gaffargaon,1,50,35,16,22,210,410,550,1700,23800
-8,Gauripur,1,31,16,6,8,23,2390,3253,14064,16091
-9,Haluaghat,1,50,21,15,24,100,1954,3917,20968,26392
-10,Ishwargonj,1,50,32,9,5,123,3365,4490,11663,23327
-11,Muktagacha,1,50,19,12,35,104,2291,4034,28997,57052
-12,Mymensingh Sadar,2,800,199,321,23,424,11520,17280,46080,69120
-13,Nandail,1,50,18,7,8,148,3057,3654,10653,13866
-14,Phulpur,15,50,41,14,11,148,1800,2500,36500,30000
-15,Trishal,0,50,33,15,8,162,1036,920,34700,30732
-16,Total,26,1312,484,453,160,1797,33449,47562,250401,375321
+1,,,,,,,,,,,
+2,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse, Number of    technician, Number of other staff,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility
+3,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse, Number of    technician, Number of other staff,Indoor,Indoor,Outdoor,Outdoor
+4,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse, Number of    technician, Number of other staff,Male,Female,Male,Female
+5,Bhaluka,1,50,34,20,6,131,1991,3018,6859,9012
+6,Dhubaura,1,31,14,8,6,70,1620,1826,16117,36629
+7,Fulbaria,1,50,22,10,4,154,2015,2120,22100,39300
+8,Gaffargaon,1,50,35,16,22,210,410,550,1700,23800
+9,Gauripur,1,31,16,6,8,23,2390,3253,14064,16091
+10,Haluaghat,1,50,21,15,24,100,1954,3917,20968,26392
+11,Ishwargonj,1,50,32,9,5,123,3365,4490,11663,23327
+12,Muktagacha,1,50,19,12,35,104,2291,4034,28997,57052
+13,Mymensingh Sadar,2,800,199,321,23,424,11520,17280,46080,69120
+14,Nandail,1,50,18,7,8,148,3057,3654,10653,13866
+15,Phulpur,15,50,41,14,11,148,1800,2500,36500,30000
+16,Trishal,0,50,33,15,8,162,1036,920,34700,30732
+17,Total,26,1312,484,453,160,1797,33449,47562,250401,375321

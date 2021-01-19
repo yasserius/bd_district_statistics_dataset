@@ -1,14 +1,13 @@
 ,0,1,2,3,4,5
 0,Cropped area sprayed with plant protection measures 2008,,,,,
-1,"
-Upazila",Total farm holding,Total farm holding,Spraying farm holding,Spraying farm holding,Reporting area sprayed
-2,"
-Upazila",Number,Cropped area,Number,Cropped area,Reporting area sprayed
-3,Bhandaria,33541,23540,17725,17300,17300
-4,Kawkhali,15884,10745,7502,1252,6360
-5,Mathbaria,59195,57769,26233,56352,50716
-6,Nazirpur,37679,39627,31821,29000,25600
-7,Nesarabad,45692,22441,165,152,0
-8,Pirojpur Sadar,34941,24880,25814,21276,18345
-9,Zianagar,16125,12003,0,0,0
-10,Total,193291,230365,109260,125332,118321
+1,,,,,,
+2, Upazila,Total farm holding,Total farm holding,Spraying farm holding,Spraying farm holding,Reporting area sprayed
+3, Upazila,Number,Cropped area,Number,Cropped area,Reporting area sprayed
+4,Bhandaria,33541,23540,17725,17300,17300
+5,Kawkhali,15884,10745,7502,1252,6360
+6,Mathbaria,59195,57769,26233,56352,50716
+7,Nazirpur,37679,39627,31821,29000,25600
+8,Nesarabad,45692,22441,165,152,0
+9,Pirojpur Sadar,34941,24880,25814,21276,18345
+10,Zianagar,16125,12003,0,0,0
+11,Total,193291,230365,109260,125332,118321

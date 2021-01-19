@@ -1,12 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Number of holdings reporting selected livestock species 2008,,,,,,
-1,"
-Upazila",Cows & Buffaloes,Cows & Buffaloes,Goats,Goats,Sheep,Sheep
-2,"
-Upazila","Holding
-/Farm Number",Animal number,"Holding/
-Farm number",Goats number,"Holding/ Farm
-Number",Sheep Number
+1,,,,,,,
+2,Upazila,Cows & Buffaloes Holding /Farm Number,Cows & Buffaloes Animal number,Goats Holding/ Farm number,Goats Goats number,Sheep Holding/ Farm Number,Sheep Sheep Number
 3,Austagram,10933,31171,1264,3051,146,568
 4,Bajitpur,16358,37994,4079,9019,110,438
 5,Bhairab,12547,25169,5427,11323,216,594

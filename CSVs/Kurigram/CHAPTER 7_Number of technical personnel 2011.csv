@@ -1,16 +1,14 @@
 ,0,1,2,3,4,5,6,7
 0,Number of technical personnel 2011,,,,,,,
-1,"
-Upazila",Agricultural personnel,"Live- stock
-personnel",Plant protection,Fishery personnel,Sanitary personnel,"Family planning
-personnel",Trained midwife
-2,Bhurungamari,40,15,2,665,3,54,175
-3,Char Rajibpur,7,45,10,125,15,23,0
-4,Chilmari,17,25,45,145,39,65,25
-5,Kurigram Sadar,170,21,61,1863,173,71,18
-6,Nageshwari,51,15,2,665,3,65,225
-7,Phulbari,57,32,25,625,30,49,0
-8,Rajarhat,26,3,2,25,1,32,9
-9,Raumari,70,45,47,375,210,85,0
-10,Ulipur,62,45,50,1505,65,63,35
-11,Total,500,246,244,5993,539,507,487
+1,,,,,,,,
+2, Upazila,Agricultural personnel,Live- stock personnel,Plant protection,Fishery personnel,Sanitary personnel,Family planning personnel,Trained midwife
+3,Bhurungamari,40,15,2,665,3,54,175
+4,Char Rajibpur,7,45,10,125,15,23,0
+5,Chilmari,17,25,45,145,39,65,25
+6,Kurigram Sadar,170,21,61,1863,173,71,18
+7,Nageshwari,51,15,2,665,3,65,225
+8,Phulbari,57,32,25,625,30,49,0
+9,Rajarhat,26,3,2,25,1,32,9
+10,Raumari,70,45,47,375,210,85,0
+11,Ulipur,62,45,50,1505,65,63,35
+12,Total,500,246,244,5993,539,507,487

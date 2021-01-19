@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of ebtedayee madrasah 2011,,,,,,,,
-1,"
-Upazila",Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
+1,,,,,,,,,
+2,Upazila,Number of madrasah,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
 3,Aditmari,8,32,5,40,480,720,1200,30
 4,Hatibandha,20,72,8,80,800,220,1020,13
 5,Kaligonj,36,126,18,144,1400,1600,3000,20

@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of all madrasah, teacher and student under the madrasah education board 2011",,,,,,,,
-1,Upazila/City corporation,"Number
-of   madrasah",Number of Teacher,Number of Teacher,Number of Teacher,Number of Student,Number of Student,Number of Student,"Students
-per teacher"
-2,Upazila/City corporation,"Number
-of   madrasah",Male,Female,Total,Male,Female,Total,"Students
-per teacher"
+1,,,,,,,,,
+2,Upazila/City corporation,Number of madrasah,Number of Teacher Male,Number of Teacher Female,Number of Teacher Total,Number of Student Male,Number of Student Female,Number of Student Total,Students per teacher
 3,Balaganj,16,164,10,174,2053,1923,3976,23
 4,Beanibazar,13,164,3,167,2601,2433,5034,30
 5,Bishwanath,15,201,8,209,5938,2719,8657,41

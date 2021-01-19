@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of handloom establishment and loom 2011,,,,
-1,Upazila,Number of unit (factory),Number of loom,Number of loom,Number of loom
-2,Upazila,Number of unit (factory),Operational,Non-operational,Total
-3,Amtali,150,124,26,150
-4,Bamna,0,0,0,0
-5,Barguna Sadar,3,3,0,3
-6,Betagi,58,21,62,83
-7,Patharghata,0,0,0,0
-8,Total,211,148,88,236
+1,,,,,
+2,Upazila,Number of unit (factory),Number of loom,Number of loom,Number of loom
+3,Upazila,Number of unit (factory),Operational,Non-operational,Total
+4,Amtali,150,124,26,150
+5,Bamna,0,0,0,0
+6,Barguna Sadar,3,3,0,3
+7,Betagi,58,21,62,83
+8,Patharghata,0,0,0,0
+9,Total,211,148,88,236

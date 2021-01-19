@@ -1,15 +1,14 @@
 ,0,1,2,3,4
 0,Area and production at tobacco in following years,,,,
-1,(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton)
-2,"
-Upazila",2010-11,2010-11,2009-10,2009-10
-3,"
-Upazila",Area,Production,Area,Production
-4,Fulchhari,0,0,0,0
-5,Gaibandha Sadar,0,0,0,0
-6,Gobindaganj,15,16,24,25
-7,Palashbari,15,12,13,10
-8,Sadullapur,0,0,0,0
-9,Saghata,0,0,0,0
-10,Sundarganj,11,3,13,4
-11,Total,41,31,50,39
+1,,,,,
+2,(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton)
+3, Upazila,2010-11,2010-11,2009-10,2009-10
+4, Upazila,Area,Production,Area,Production
+5,Fulchhari,0,0,0,0
+6,Gaibandha Sadar,0,0,0,0
+7,Gobindaganj,15,16,24,25
+8,Palashbari,15,12,13,10
+9,Sadullapur,0,0,0,0
+10,Saghata,0,0,0,0
+11,Sundarganj,11,3,13,4
+12,Total,41,31,50,39

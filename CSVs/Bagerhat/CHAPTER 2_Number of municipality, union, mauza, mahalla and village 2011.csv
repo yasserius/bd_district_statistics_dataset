@@ -1,14 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Number of municipality, union, mauza, mahalla and village 2011",,,,,,
-1,Upazila,Municipality,"Ward
-(PSA)",Mahalla,Union,Mauza,Village
-2,Bagerhat Sadar,1,9,31,10,185,187
-3,Kachua,0,0,0,7,77,98
-4,Rampal,0,0,0,10,117,135
-5,Sarankhola,0,0,0,4,11,44
-6,Chitalmari,0,0,0,7,55,121
-7,Morrelgonj,1,9,12,16,120,181
-8,Mongla,1,9,13,6,32,76
-9,Mollahat,0,0,0,7,59,102
-10,Fakirhat,0,0,0,8,67,87
-11,Total,3,27,56,75,723,1031
+1,,,,,,,
+2,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
+3,Bagerhat Sadar,1,9,31,10,185,187
+4,Kachua,0,0,0,7,77,98
+5,Rampal,0,0,0,10,117,135
+6,Sarankhola,0,0,0,4,11,44
+7,Chitalmari,0,0,0,7,55,121
+8,Morrelgonj,1,9,12,16,120,181
+9,Mongla,1,9,13,6,32,76
+10,Mollahat,0,0,0,7,59,102
+11,Fakirhat,0,0,0,8,67,87
+12,Total,3,27,56,75,723,1031

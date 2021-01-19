@@ -1,19 +1,18 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
-2,"
-Upazila",2010-11,2010-11,2009-10,2009-10
-3,"
-Upazila",Number,Production,Number,Production
-4,Atrai,1900,6293,19020,6150
-5,Badalgachhi,208,2666,190,2650
-6,Dhamoirhat,2665,4298,2150,4298
-7,Manda,6371,8915,6371,8846
-8,Mahadebpur,1200,5647,1150,5540
-9,Naogaon sadar,3000,4970,3000,4850
-10,Niamatpur,900,3948,1055,3769
-11,Patnitala,500,7667,500,7660
-12,Porsha,630,2084,600,2255
-13,Raninagar,2000,7500,2000,7300
-14,Sapahar,1050,4026,1050,3947
-15,Total,20424,58014,37086,57265
+1,,,,,
+2,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
+3, Upazila,2010-11,2010-11,2009-10,2009-10
+4, Upazila,Number,Production,Number,Production
+5,Atrai,1900,6293,19020,6150
+6,Badalgachhi,208,2666,190,2650
+7,Dhamoirhat,2665,4298,2150,4298
+8,Manda,6371,8915,6371,8846
+9,Mahadebpur,1200,5647,1150,5540
+10,Naogaon sadar,3000,4970,3000,4850
+11,Niamatpur,900,3948,1055,3769
+12,Patnitala,500,7667,500,7660
+13,Porsha,630,2084,600,2255
+14,Raninagar,2000,7500,2000,7300
+15,Sapahar,1050,4026,1050,3947
+16,Total,20424,58014,37086,57265

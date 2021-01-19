@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
 1,(According to Agriculture Census 2008),,,,
-2,"
-Upazila",Total farm holding,"
-Owner holding","
-Owner cum tenant","
-Tenant holding"
+2, Upazila,Total farm holding, Owner holding, Owner cum tenant, Tenant holding
 3,Bhedarganj,33141,26167,12531,7941
 4,Damudya,15237,15932,5700,1923
 5,Gosairhat,21367,19854,6687,4140

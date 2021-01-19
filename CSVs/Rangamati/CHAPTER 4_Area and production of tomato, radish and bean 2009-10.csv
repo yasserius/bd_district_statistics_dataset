@@ -1,18 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2009-10",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Tomato,Tomato,Radish,Radish,Bean,Bean
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Baghaichhari,94,192,89,262,92,135
-5,Barkal,69,138,79,384,43,60
-6,Belai Chhari,0,0,0,0,0,0
-7,Jurai Chhari,17,36,20,61,7,9
-8,Kaptai,96,292,185,846,109,164
-9,Kawkhali,53,63,22,110,53,150
-10,Langadu,20,400,86,728,26,32
-11,Naniarchar,80,41,312,910,89,45
-12,Rangamati Sadar,87,204,196,753,110,171
-13,Rajasthali,13,122,17,23,12,19
-14,Total,529,1488,1006,4077,541,785
+2,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Bean Area,Bean Production
+3,Baghaichhari,94,192,89,262,92,135
+4,Barkal,69,138,79,384,43,60
+5,Belai Chhari,0,0,0,0,0,0
+6,Jurai Chhari,17,36,20,61,7,9
+7,Kaptai,96,292,185,846,109,164
+8,Kawkhali,53,63,22,110,53,150
+9,Langadu,20,400,86,728,26,32
+10,Naniarchar,80,41,312,910,89,45
+11,Rangamati Sadar,87,204,196,753,110,171
+12,Rajasthali,13,122,17,23,12,19
+13,Total,529,1488,1006,4077,541,785

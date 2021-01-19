@@ -1,18 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,Upazila,"Number
-of centre","Number
-of bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Chakaria,6,120,15,60,10,15
-3,Cox's Bazar Sadar,4,240,40,95,36,120
-4,Kutubdia,1,4,1,4,0,52
-5,Moheshkhali,0,0,0,0,0,0
-6,Pekua,2,25,6,4,15,20
-7,Ramu,2,40,8,7,2,6
-8,Teknaf,6,10,2,3,1,8
-9,Ukhia,0,0,0,0,0,0
-10,Total,21,439,72,173,64,221
+1,,,,,,,
+2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Chakaria,6,120,15,60,10,15
+4,Cox's Bazar Sadar,4,240,40,95,36,120
+5,Kutubdia,1,4,1,4,0,52
+6,Moheshkhali,0,0,0,0,0,0
+7,Pekua,2,25,6,4,15,20
+8,Ramu,2,40,8,7,2,6
+9,Teknaf,6,10,2,3,1,8
+10,Ukhia,0,0,0,0,0,0
+11,Total,21,439,72,173,64,221

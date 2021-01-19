@@ -1,24 +1,21 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of private (non-registered) primary school (class I-V), teacher and student 2011",,,,,,,,
-1,"
-Upazila/City corporation","Number of Non-govt. primary
-school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila/City corporation","Number of Non-govt. primary
-school",Male,Female,Total,Male,Female,Total,Students per teacher
-3,Anowara,8,16,10,26,317,352,669,26
-4,Banshkhali,2,5,3,8,357,285,642,80
-5,Boalkhali,2,9,0,9,180,190,370,41
-6,Chandanaish,111,14,30,44,610,625,1236,28
-7,Chittagong City Corp.,36,82,115,197,6806,6887,13693,70
-8,Fatikchhari,2,3,5,8,151,141,292,37
-9,Hathazari,3,5,7,12,1249,1873,3122,260
-10,Lohagara,0,0,0,0,0,0,0,0
-11,Mirsharai,2,2,5,7,121,126,247,35
-12,Patiya,27,15,35,50,1591,1725,3316,66
-13,Rangunia,5,9,11,20,321,349,670,34
-14,Raozan,5,20,12,32,735,400,1135,35
-15,Sandwip,0,0,0,0,0,0,0,0
-16,Satkania,2,3,5,8,440,425,865,108
-17,Sitakunda,3,5,7,12,297,310,607,51
-18,Total,208,188,245,433,13175,13688,26864,62
+1,,,,,,,,,
+2, Upazila/City corporation,Number of Non-govt. primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila/City corporation,Number of Non-govt. primary school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Anowara,8,16,10,26,317,352,669,26
+5,Banshkhali,2,5,3,8,357,285,642,80
+6,Boalkhali,2,9,0,9,180,190,370,41
+7,Chandanaish,111,14,30,44,610,625,1236,28
+8,Chittagong City Corp.,36,82,115,197,6806,6887,13693,70
+9,Fatikchhari,2,3,5,8,151,141,292,37
+10,Hathazari,3,5,7,12,1249,1873,3122,260
+11,Lohagara,0,0,0,0,0,0,0,0
+12,Mirsharai,2,2,5,7,121,126,247,35
+13,Patiya,27,15,35,50,1591,1725,3316,66
+14,Rangunia,5,9,11,20,321,349,670,34
+15,Raozan,5,20,12,32,735,400,1135,35
+16,Sandwip,0,0,0,0,0,0,0,0
+17,Satkania,2,3,5,8,440,425,865,108
+18,Sitakunda,3,5,7,12,297,310,607,51
+19,Total,208,188,245,433,13175,13688,26864,62

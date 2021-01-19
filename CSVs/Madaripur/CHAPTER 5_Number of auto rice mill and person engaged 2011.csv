@@ -1,13 +1,10 @@
 ,0,1,2,3,4
 0,Number of auto rice mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Male,Female,Total
-3,Kalkini,0,0,0,0
-4,Madaripur Sadar,0,0,0,0
-5,Rajoir,5,10,50,60
-6,Shibchar,0,0,0,0
-7,Total,5,10,50,60
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Male,Female,Total
+4,Kalkini,0,0,0,0
+5,Madaripur Sadar,0,0,0,0
+6,Rajoir,5,10,50,60
+7,Shibchar,0,0,0,0
+8,Total,5,10,50,60

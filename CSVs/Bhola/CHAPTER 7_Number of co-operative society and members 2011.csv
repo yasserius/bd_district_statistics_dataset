@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of co-operative society and members 2011,,,,
-1,"
-Upazila",Number of co- operative societies,Number of members,Number of members,"
-Both sex"
-2,"
-Upazila",Number of co- operative societies,Male,Female,"
-Both sex"
+1,,,,,
+2,Upazila,Number of co- operative societies,Number of members Male,Number of members Female,Both sex
 3,Bhola Sadar,550,93500,16500,110000
 4,Burhanuddin,430,12180,9200,12380
 5,Char Fasson,267,5950,2060,8010

@@ -1,27 +1,10 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Government health complex and health facility 2011,,,,,,,,,,
-1,"
-
-Upazila","Number of  hospital/ clinic/ nursing
-home",Number of bed,Number of  doctor,Number of nurse,Number of    technician,"Number of
-other staff","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility"
-2,"
-
-Upazila","Number of  hospital/ clinic/ nursing
-home",Number of bed,Number of  doctor,Number of nurse,Number of    technician,"Number of
-other staff",Indoor,Indoor,Outdoor,Outdoor
-3,"
-
-Upazila","Number of  hospital/ clinic/ nursing
-home",Number of bed,Number of  doctor,Number of nurse,Number of    technician,"Number of
-other staff",Male,Female,Male,Female
-4,Baliadangi,1,50,5,8,6,70,2400,3250,27000,38050
-5,Haripur,1,50,16,9,6,59,934,1830,8744,10071
-6,Pirgonj,1,50,7,11,5,96,2855,5713,16607,26842
-7,Ranisankail,1,50,9,10,5,76,2500,3500,28004,38005
-8,Thakurgaon Sadar,1,100,19,33,4,48,14000,12000,16800,10200
-9,Total,5,300,56,71,25,349,22689,26293,97155,123168
+1,,,,,,,,,,,
+2,Upazila,Number of hospital/ clinic/ nursing home,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff,Number of patient under health facility Indoor Male,Number of patient under health facility Indoor Female,Number of patient under health facility Outdoor Male,Number of patient under health facility Outdoor Female
+3,Baliadangi,1,50,5,8,6,70,2400,3250,27000,38050
+4,Haripur,1,50,16,9,6,59,934,1830,8744,10071
+5,Pirgonj,1,50,7,11,5,96,2855,5713,16607,26842
+6,Ranisankail,1,50,9,10,5,76,2500,3500,28004,38005
+7,Thakurgaon Sadar,1,100,19,33,4,48,14000,12000,16800,10200
+8,Total,5,300,56,71,25,349,22689,26293,97155,123168

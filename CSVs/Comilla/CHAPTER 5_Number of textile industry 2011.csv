@@ -1,21 +1,22 @@
 ,0,1,2,3,4,5,6
 0,Number of textile industry 2011,,,,,,
-1,Upazila,Number of mill,Installed capacity,Installed capacity,Person engaged,Person engaged,Person engaged
-2,Upazila,Number of mill,Spindle,Loom,Male,Female,Total
-3,Adarsha Sadar,0,0,0,0,0,0
-4,Barura,0,0,0,0,0,0
-5,Brahmanpara,0,0,0,0,0,0
-6,Burichang,0,0,0,0,0,0
-7,Chandina,0,0,0,0,0,0
-8,Chauddagram,0,0,0,0,0,0
-9,Comilla Sadar Dakshin,8,205000,250,2352,809,3161
-10,Daudkandi,0,0,0,0,0,0
-11,Debidwar,1,16768,0,200,220,420
-12,Homna,0,0,0,0,0,0
-13,Laksam,0,0,0,0,0,0
-14,Monoharganj,0,0,0,0,0,0
-15,Meghna,0,0,0,0,0,0
-16,Muradnagar,0,0,0,0,0,0
-17,Nangalkot,0,0,0,0,0,0
-18,Titas,0,0,0,0,0,0
-19,Total,9,221768,250,2552,1029,3581
+1,,,,,,,
+2,Upazila,Number of mill,Installed capacity,Installed capacity,Person engaged,Person engaged,Person engaged
+3,Upazila,Number of mill,Spindle,Loom,Male,Female,Total
+4,Adarsha Sadar,0,0,0,0,0,0
+5,Barura,0,0,0,0,0,0
+6,Brahmanpara,0,0,0,0,0,0
+7,Burichang,0,0,0,0,0,0
+8,Chandina,0,0,0,0,0,0
+9,Chauddagram,0,0,0,0,0,0
+10,Comilla Sadar Dakshin,8,205000,250,2352,809,3161
+11,Daudkandi,0,0,0,0,0,0
+12,Debidwar,1,16768,0,200,220,420
+13,Homna,0,0,0,0,0,0
+14,Laksam,0,0,0,0,0,0
+15,Monoharganj,0,0,0,0,0,0
+16,Meghna,0,0,0,0,0,0
+17,Muradnagar,0,0,0,0,0,0
+18,Nangalkot,0,0,0,0,0,0
+19,Titas,0,0,0,0,0,0
+20,Total,9,221768,250,2552,1029,3581

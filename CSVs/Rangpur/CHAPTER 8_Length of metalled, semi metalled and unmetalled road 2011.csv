@@ -1,10 +1,7 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
 1,(Kilometer),,,,
-2,Upazila,"Metalled
-road","Semi Metalled
-road","Unmetalled
-(kacha) road",Total
+2,Upazila,Metalled road,Semi Metalled road,Unmetalled (kacha) road,Total
 3,Badarganj,148,10,494,652
 4,Gangachara,110,0,434,544
 5,Kaunia,50,4,400,454

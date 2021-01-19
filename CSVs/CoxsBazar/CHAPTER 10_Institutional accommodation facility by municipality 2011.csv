@@ -1,15 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Institutional accommodation facility by municipality 2011,,,,,,
-1,"
-Upazila",Residential hostel,Residential hostel,Hall/hostel,Hall/hostel,Mess/barracks,Mess/barracks
-2,"
-Upazila",Number,Capacity,Number,Capacity,Number,Capacity
-3,Chakaria,7,310,0,0,30,897
-4,Cox's Bazar Sadar,185,15725,7,455,4,1650
-5,Kutubdia,0,0,0,0,0,0
-6,Moheshkhali,8,250,10,300,20,400
-7,Pekua,0,0,0,0,0,0
-8,Ramu,0,0,0,0,0,0
-9,Teknaf,12,1800,01,300,24,203
-10,Ukhia,0,0,0,0,0,0
-11,Total,212,18085,18,1055,78,3150
+1,,,,,,,
+2, Upazila,Residential hostel,Residential hostel,Hall/hostel,Hall/hostel,Mess/barracks,Mess/barracks
+3, Upazila,Number,Capacity,Number,Capacity,Number,Capacity
+4,Chakaria,7,310,0,0,30,897
+5,Cox's Bazar Sadar,185,15725,7,455,4,1650
+6,Kutubdia,0,0,0,0,0,0
+7,Moheshkhali,8,250,10,300,20,400
+8,Pekua,0,0,0,0,0,0
+9,Ramu,0,0,0,0,0,0
+10,Teknaf,12,1800,01,300,24,203
+11,Ukhia,0,0,0,0,0,0
+12,Total,212,18085,18,1055,78,3150

@@ -1,12 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Number of religious institution 2011,,,,,,
-1,Upazila,Mosque,Eid-Gah,"Temple
-(Mandir)","Church
-(Girza)",Pagoda,Others
-2,Dimla,580,27,74,0,0,0
-3,Domar,365,96,91,0,0,0
-4,Jaldhaka,450,42,70,1,0,0
-5,Kishorgonj,396,161,135,0,0,0
-6,Nilphamary Sadar,490,242,135,0,0,0
-7,Sayedpur,240,126,54,3,0,0
-8,Total,2521,694,559,4,0,0
+1,,,,,,,
+2,Upazila,Mosque,Eid-Gah,Temple (Mandir),Church (Girza),Pagoda,Others
+3,Dimla,580,27,74,0,0,0
+4,Domar,365,96,91,0,0,0
+5,Jaldhaka,450,42,70,1,0,0
+6,Kishorgonj,396,161,135,0,0,0
+7,Nilphamary Sadar,490,242,135,0,0,0
+8,Sayedpur,240,126,54,3,0,0
+9,Total,2521,694,559,4,0,0

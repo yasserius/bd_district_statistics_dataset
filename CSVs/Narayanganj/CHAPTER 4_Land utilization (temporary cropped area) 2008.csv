@@ -1,14 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,"
-Upazila","
-Current fallow",Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Productivity of crop
-2,"
-Upazila","
-Current fallow",Single,Double,Triple,Net,Gross,Productivity of crop
-3,Araihazar,126,15561,8099,1272,24932,35575,143
-4,Bandar,146,3902,1336,464,5702,7966,140
-5,Narayanganj Sadar,450,1014,4873,3365,9252,20855,177
-6,Rupganj,251,20350,2221,2172,24743,31308,127
-7,Sonargaon,254,14501,2157,991,17649,21788,123
-8,Total,1228,55328,18686,8264,82278,117492,137
+1,,,,,,,,
+2, Upazila, Current fallow,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Productivity of crop
+3, Upazila, Current fallow,Single,Double,Triple,Net,Gross,Productivity of crop
+4,Araihazar,126,15561,8099,1272,24932,35575,143
+5,Bandar,146,3902,1336,464,5702,7966,140
+6,Narayanganj Sadar,450,1014,4873,3365,9252,20855,177
+7,Rupganj,251,20350,2221,2172,24743,31308,127
+8,Sonargaon,254,14501,2157,991,17649,21788,123
+9,Total,1228,55328,18686,8264,82278,117492,137

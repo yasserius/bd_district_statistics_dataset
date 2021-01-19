@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (Temporary cropped area) 2008,,,,,,,
-1,"
-Upazila/City corporation",Current fallow,Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Productivity of crop
-2,"
-Upazila/City corporation",Current fallow,Single,Double,Triple,Net,Gross,Productivity of crop
+1,,,,,,,,
+2,Upazila/City corporation,Current fallow,Temporary cropped area Single,Temporary cropped area Double,Temporary cropped area Triple,Temporary cropped area Net,Temporary cropped area Gross,Productivity of crop
 3,Balaganj,152,51090,15960,830,67880,85500,1.26
 4,Beanibazar,533,17798,17110,4120,39028,39561,6.37
 5,Bishwanath,230,21200,3500,787,25487,30561,1.2

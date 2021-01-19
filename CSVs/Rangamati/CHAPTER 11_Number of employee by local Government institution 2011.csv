@@ -1,17 +1,15 @@
 ,0,1,2,3,4,5
 0,Number of employee by local Government institution 2011,,,,,
-1,Upazila,"City
-corporation",Municipality,Zila parishad,"Upazila
-parishad","Union
-parishad"
-2,Baghaichhari,0,12,0,1,80
-3,Barkal,0,0,0,5,50
-4,Belai Chhari,0,0,2,3,30
-5,Jurai Chhari,0,0,0,5,40
-6,Kaptai,0,0,0,3,54
-7,Kawkhali,0,0,0,5,38
-8,Langadu,0,0,0,2,70
-9,Naniarchar,0,0,0,2,40
-10,Rangamati Sadar,0,175,69,1,66
-11,Rajasthali,0,0,0,2,30
-12,Total,0,187,71,29,498
+1,,,,,,
+2,Upazila,City corporation,Municipality,Zila parishad,Upazila parishad,Union parishad
+3,Baghaichhari,0,12,0,1,80
+4,Barkal,0,0,0,5,50
+5,Belai Chhari,0,0,2,3,30
+6,Jurai Chhari,0,0,0,5,40
+7,Kaptai,0,0,0,3,54
+8,Kawkhali,0,0,0,5,38
+9,Langadu,0,0,0,2,70
+10,Naniarchar,0,0,0,2,40
+11,Rangamati Sadar,0,175,69,1,66
+12,Rajasthali,0,0,0,2,30
+13,Total,0,187,71,29,498

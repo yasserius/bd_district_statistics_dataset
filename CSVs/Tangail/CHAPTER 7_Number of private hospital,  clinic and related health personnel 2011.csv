@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital,  clinic and related health personnel 2011",,,,,,
-1,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-2,Basail,0,0,0,0,0,0
-3,Bhuapur,10,20,17,1,15,33
-4,Delduar,2,20,4,9,2,4
-5,Dhanbari,0,0,0,0,0,0
-6,Ghatail,8,80,38,39,19,92
-7,Gopalpur,0,0,0,0,0,0
-8,Kalihati,5,46,12,15,10,27
-9,Madhupur,3,60,3,17,13,83
-10,Mirzapur,32,560,64,165,42,310
-11,Nagarpur,0,0,0,0,0,0
-12,Sakhipur,5,50,15,15,15,25
-13,Tangail Sadar,35,505,143,225,96,738
-14,Total,100,1341,296,486,212,1312
+1,,,,,,,
+2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Basail,0,0,0,0,0,0
+4,Bhuapur,10,20,17,1,15,33
+5,Delduar,2,20,4,9,2,4
+6,Dhanbari,0,0,0,0,0,0
+7,Ghatail,8,80,38,39,19,92
+8,Gopalpur,0,0,0,0,0,0
+9,Kalihati,5,46,12,15,10,27
+10,Madhupur,3,60,3,17,13,83
+11,Mirzapur,32,560,64,165,42,310
+12,Nagarpur,0,0,0,0,0,0
+13,Sakhipur,5,50,15,15,15,25
+14,Tangail Sadar,35,505,143,225,96,738
+15,Total,100,1341,296,486,212,1312

@@ -1,20 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of brinjal, lady s finger and arum 2009-10",,,,,,
 1,(Area in acres & production in metric tons),,,,,,
-2,"
-Upazila",Brinjal,Brinjal,Lady’s finger,Lady’s finger,Arum,Arum
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Basail,66,281,35,65,22,136
-5,Bhuapur,579,3234.42,114,401.72,90,756.1
-6,Delduar,159,431,50,53,126,528
-7,Dhanbari,207,1781.1,205,533,86.92,640.31
-8,Ghatail,376,1159,102,193,1018,3180
-9,Gopalpur,142,496.94,71,108.55,33.5,242.5
-10,Kalihati,135,605,175,540,27.5,136
-11,Madhupur,332,3044,255,651,1983,13870
-12,Mirzapur,583,1432,63,175,143,409
-13,Nagarpur,112,124,193,284,75,50
-14,Sakhipur,507,1081,67,85,338,8450
-15,Tangail Sadar,1023,6878,224,626,124,1040
-16,Total,4221,20547.46,1554,3715.27,4066.92,29437.91
+2,Upazila,Brinjal Area,Brinjal Production,Lady’s finger Area,Lady’s finger Production,Arum Area,Arum Production
+3,Basail,66,281,35,65,22,136
+4,Bhuapur,579,3234.42,114,401.72,90,756.1
+5,Delduar,159,431,50,53,126,528
+6,Dhanbari,207,1781.1,205,533,86.92,640.31
+7,Ghatail,376,1159,102,193,1018,3180
+8,Gopalpur,142,496.94,71,108.55,33.5,242.5
+9,Kalihati,135,605,175,540,27.5,136
+10,Madhupur,332,3044,255,651,1983,13870
+11,Mirzapur,583,1432,63,175,143,409
+12,Nagarpur,112,124,193,284,75,50
+13,Sakhipur,507,1081,67,85,338,8450
+14,Tangail Sadar,1023,6878,224,626,124,1040
+15,Total,4221,20547.46,1554,3715.27,4066.92,29437.91

@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Population and literacy rate of 1981, 1991, 2001 & 2011 and number of voter 2011",,,,,,,,,,,
-1,"
-Upazila",Population (000),Population (000),Population (000),Population (000),Literacy rate (%),Literacy rate (%),Literacy rate (%),Literacy rate (%),Number of voter (000),Number of voter (000),Number of voter (000)
-2,"
-Upazila",1981,1991,2001,2011,1981,1991,2001,2011,Male,Female,Total
+1,,,,,,,,,,,,
+2,Upazila,Population (000) 1981,Population (000) 1991,Population (000) 2001,Population (000) 2011,Literacy rate (%) 1981,Literacy rate (%) 1991,Literacy rate (%) 2001,Literacy rate (%) 2011,Number of voter (000) Male,Number of voter (000) Female,Number of voter (000) Total
 3,Magura Sadar,241,287,331,380,24.8,29.6,45.8,52.4,112,116,228
 4,Mohammadpur,149,160,189,208,21.6,25.8,44.5,47.7,58,61,119
 5,Shalikha,114,132,148,164,21.2,25.0,44.0,49.0,50,51,101

@@ -1,10 +1,8 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2010-11,,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Potato,Potato,Sweet potato,Sweet potato,Total potato,Total potato
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
+2, Upazila,Potato,Potato,Sweet potato,Sweet potato,Total potato,Total potato
+3, Upazila,Area,Production,Area,Production,Area,Production
 4,Chakaria,340.4,2089,324,992,664.65,3081
 5,Cox's Bazar Sadar,252,1035,111,594,363,1628
 6,Kutubdia,4,10,2,2,5.8,1120

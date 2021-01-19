@@ -1,12 +1,10 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C","Number of
-current account"
-2,Aditmari,4,34,23106,884
-3,Hatibandha,3,36,35157,2880
-4,Kaligonj,3,33,31458,1747
-5,Lalmonirhat Sadar,10,134,48559,4541
-6,Patgram,5,45,25194,1964
-7,Total,25,282,163474,12016
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current account
+3,Aditmari,4,34,23106,884
+4,Hatibandha,3,36,35157,2880
+5,Kaligonj,3,33,31458,1747
+6,Lalmonirhat Sadar,10,134,48559,4541
+7,Patgram,5,45,25194,1964
+8,Total,25,282,163474,12016

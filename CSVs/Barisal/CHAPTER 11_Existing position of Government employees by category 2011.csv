@@ -1,16 +1,16 @@
 ,0,1,2,3,4,5
 0,Existing position of Government employees by category 2011,,,,,
-1,Upazila/city corporation,Class-I,Class-II,Class-III,Class-IV,"Number of total
-employee"
-2,Agailjhara,9,10,232,77,327
-3,Babuganj,19,19,578,155,771
-4,Bakerganj,54,0,1174,134,1395
-5,Banaripara,28,15,249,135,427
-6,Barisal city corporation,456,305,11121,254,12136
-7,Barisal sadar,26,22,359,90,497
-8,Gaurnadi,13,33,94,43,164
-9,Hizla,12,19,92,59,182
-10,Mehendiganj,27,37,355,106,525
-11,Muladi,18,17,257,52,344
-12,Wazirpur,21,30,321,188,560
-13,Total,683,507,14832,1293,17328
+1,,,,,,
+2,Upazila/city corporation,Class-I,Class-II,Class-III,Class-IV,Number of total employee
+3,Agailjhara,9,10,232,77,327
+4,Babuganj,19,19,578,155,771
+5,Bakerganj,54,0,1174,134,1395
+6,Banaripara,28,15,249,135,427
+7,Barisal city corporation,456,305,11121,254,12136
+8,Barisal sadar,26,22,359,90,497
+9,Gaurnadi,13,33,94,43,164
+10,Hizla,12,19,92,59,182
+11,Mehendiganj,27,37,355,106,525
+12,Muladi,18,17,257,52,344
+13,Wazirpur,21,30,321,188,560
+14,Total,683,507,14832,1293,17328

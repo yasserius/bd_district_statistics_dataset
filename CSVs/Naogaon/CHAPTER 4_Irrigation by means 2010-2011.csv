@@ -1,14 +1,8 @@
 ,0,1,2,3,4,5,6,7
 0,Irrigation by means 2010-2011,,,,,,,
 1,(In acre),,,,,,,
-2,"
-Upazila",Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,"
-Total"
-3,"
-Upazila","Power
-pump",Tube well,Doon,"Swing
-basket",Canal,Others,"
-Total"
+2, Upazila,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management, Total
+3, Upazila,Power pump,Tube well,Doon,Swing basket,Canal,Others, Total
 4,Atrai,10841,0,0,0,0,0,1074
 5,Badalgachhi,18045,31600,27,12,28,7,41514
 6,Dhamoirhat,13844,0,210,0,0,0,210

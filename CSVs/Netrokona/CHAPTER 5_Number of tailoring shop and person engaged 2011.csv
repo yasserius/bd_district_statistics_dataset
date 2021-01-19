@@ -1,19 +1,16 @@
 ,0,1,2,3,4
 0,Number of tailoring shop and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Atpara,203,203,42,245
-4,Barhatta,237,237,95,332
-5,Durgapur,115,50,200,250
-6,Kalmakanda,173,173,0,173
-7,Kendua,220,220,130,350
-8,Khaliajuri,30,37,8,45
-9,Madan,147,178,20,198
-10,Mohanganj,95,380,83,463
-11,Netrokona Sadar,80,80,160,240
-12,Purbadhala,1250,1250,1250,2500
-13,Total,2550,2808,1988,4796
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Atpara,203,203,42,245
+5,Barhatta,237,237,95,332
+6,Durgapur,115,50,200,250
+7,Kalmakanda,173,173,0,173
+8,Kendua,220,220,130,350
+9,Khaliajuri,30,37,8,45
+10,Madan,147,178,20,198
+11,Mohanganj,95,380,83,463
+12,Netrokona Sadar,80,80,160,240
+13,Purbadhala,1250,1250,1250,2500
+14,Total,2550,2808,1988,4796

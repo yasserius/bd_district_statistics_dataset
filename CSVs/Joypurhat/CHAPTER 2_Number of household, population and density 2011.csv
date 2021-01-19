@@ -1,14 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,"
-Upazila","
-Household",Population,Population,Population,Sex ratio (M/F),Average size of household,Density per sq. km.
-2,"
-Upazila","
-Household",Male,Female,Total,Sex ratio (M/F),Average size of household,Density per sq. km.
-3,Akkelpur,36638,68333,69286,137619,99,3.75,888
-4,Joypurhat sadar,76385,147096,141962,289058,104,3.72,1221
-5,Kalai,38745,70860,72337,143197,98,3.69,861
-6,Khetlal,29805,54214,54114,108326,100,3.62,760
-7,Panchbibi,60983,118781,116787,235568,102,3.83,756
-8,Total,242556,45928,454486,913768,101,3.74,903
+1,,,,,,,,
+2, Upazila, Household,Population,Population,Population,Sex ratio (M/F),Average size of household,Density per sq. km.
+3, Upazila, Household,Male,Female,Total,Sex ratio (M/F),Average size of household,Density per sq. km.
+4,Akkelpur,36638,68333,69286,137619,99,3.75,888
+5,Joypurhat sadar,76385,147096,141962,289058,104,3.72,1221
+6,Kalai,38745,70860,72337,143197,98,3.69,861
+7,Khetlal,29805,54214,54114,108326,100,3.62,760
+8,Panchbibi,60983,118781,116787,235568,102,3.83,756
+9,Total,242556,45928,454486,913768,101,3.74,903

@@ -1,14 +1,12 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C","Number of
-current A/C"
-2,Alikadam,0,0,0,0
-3,Bandarban Sadar,5,38,6096,1240
-4,Lama,0,0,0,0
-5,Naikhongchhari,0,0,0,0
-6,Rowangchhari,0,0,0,0
-7,Ruma,0,0,0,0
-8,Thanchi,0,0,0,0
-9,Total,5,38,6096,1240
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Alikadam,0,0,0,0
+4,Bandarban Sadar,5,38,6096,1240
+5,Lama,0,0,0,0
+6,Naikhongchhari,0,0,0,0
+7,Rowangchhari,0,0,0,0
+8,Ruma,0,0,0,0
+9,Thanchi,0,0,0,0
+10,Total,5,38,6096,1240

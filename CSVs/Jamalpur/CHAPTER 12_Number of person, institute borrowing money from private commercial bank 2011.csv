@@ -1,25 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,"
-
-Upazila",Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-
-Upazila",Number of branch of all private commercial banks,"Agriculture
-debt","Agriculture
-debt",Industry debt,Industry debt,Other debt,Other debt,"Number of
-borrower","Number of
-borrower","Total debt
-(crore tk)","Total debt
-(crore tk)"
-3,"
-
-Upazila",Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Bakshiganj,2,20,931,0,0,26,0,46,931,2.5,1
-5,Dewanganj,0,0,0,0,0,0,0,0,0,0,0
-6,Islampur,0,0,0,0,0,0,0,0,0,0,0
-7,Jamalpur Sadar,24,4667,46794,24,440,3893,2854,8584,50088,802.33,91.17
-8,Madarganj,0,0,0,0,0,0,0,0,0,0,0
-9,Melandaha,0,0,0,0,0,0,0,0,0,0,0
-10,Sarishabari,3,315,1469,0,0,1058,2025,1373,3434,4.79,6.16
-11,Total,29,5002,49194,24,440,4977,4879,10003,54453,809.62,98.33
+1,,,,,,,,,,,,
+2,  Upazila,Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3,  Upazila,Number of branch of all private commercial banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
+4,  Upazila,Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+5,Bakshiganj,2,20,931,0,0,26,0,46,931,2.5,1
+6,Dewanganj,0,0,0,0,0,0,0,0,0,0,0
+7,Islampur,0,0,0,0,0,0,0,0,0,0,0
+8,Jamalpur Sadar,24,4667,46794,24,440,3893,2854,8584,50088,802.33,91.17
+9,Madarganj,0,0,0,0,0,0,0,0,0,0,0
+10,Melandaha,0,0,0,0,0,0,0,0,0,0,0
+11,Sarishabari,3,315,1469,0,0,1058,2025,1373,3434,4.79,6.16
+12,Total,29,5002,49194,24,440,4977,4879,10003,54453,809.62,98.33

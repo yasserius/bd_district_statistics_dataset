@@ -1,15 +1,13 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Sonali and Janata bank 2011,,,,,,,,,,
-1,"
-Upazila",Sonali bank,Sonali bank,Sonali bank,Sonali bank,Sonali bank,Janata bank,Janata bank,Janata bank,Janata bank,Janata bank
-2,"
-Upazila",Number of  branch,Account,Account,Account,Account,Number of  branch,Account,Account,Account,Account
-3,"
-Upazila",Number of  branch,S.D,C.D,F.D,S.T.D,Number of  branch,S.D,C.D,F.D,S.T.D
-4,Bagatipara,2,7021,185,199,20,2,10021,513,90,13
-5,Baraigram,2,6081,530,92,25,5,17480,1389,154,14
-6,Gurudaspur,2,10956,2043,1112,35,2,15390,1603,161,30
-7,Lalpur,1,750,1182,71,36,1,1290,140,46,6
-8,Natore Sadar,4,16738,1193,129,27,6,13312,1019,134,23
-9,Singra,1,8373,506,138,36,1,9605,1062,90,27
-10,Total,12,49919,5639,1741,179,17,67098,5726,675,113
+1,,,,,,,,,,,
+2, Upazila,Sonali bank,Sonali bank,Sonali bank,Sonali bank,Sonali bank,Janata bank,Janata bank,Janata bank,Janata bank,Janata bank
+3, Upazila,Number of  branch,Account,Account,Account,Account,Number of  branch,Account,Account,Account,Account
+4, Upazila,Number of  branch,S.D,C.D,F.D,S.T.D,Number of  branch,S.D,C.D,F.D,S.T.D
+5,Bagatipara,2,7021,185,199,20,2,10021,513,90,13
+6,Baraigram,2,6081,530,92,25,5,17480,1389,154,14
+7,Gurudaspur,2,10956,2043,1112,35,2,15390,1603,161,30
+8,Lalpur,1,750,1182,71,36,1,1290,140,46,6
+9,Natore Sadar,4,16738,1193,129,27,6,13312,1019,134,23
+10,Singra,1,8373,506,138,36,1,9605,1062,90,27
+11,Total,12,49919,5639,1741,179,17,67098,5726,675,113

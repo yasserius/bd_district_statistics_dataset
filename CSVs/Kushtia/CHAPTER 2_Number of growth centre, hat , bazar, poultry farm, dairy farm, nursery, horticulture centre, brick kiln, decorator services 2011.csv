@@ -1,18 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of growth centre, hat , bazar, poultry farm, dairy farm, nursery, horticulture centre, brick kiln, decorator services 2011",,,,,,,,
-1,Upazila,"Growth
-Centre","Hat
-/Bazar","Poultry
-Farm","Dairy
-Farm",Nursery,"Horticulture
-Centre","Brick
-kiln","Decorator
-services"
-2,Kushtia,5,35,329,140,12,1,33,101
-3,Sadar,,,,,,,,
-4,Bheramara,5,26,90,47,32,1,7,29
-5,Daulatpur,5,56,140,373,21,0,17,50
-6,Khoksa,3,19,68,34,16,0,10,34
-7,Kumarkhali,3,45,85,102,60,0,20,70
-8,Mirpur,5,28,185,223,5,0,28,52
-9,Total,26,209,897,919,146,2,115,336
+1,,,,,,,,,
+2,Upazila,Growth Centre,Hat /Bazar,Poultry Farm,Dairy Farm,Nursery,Horticulture Centre,Brick kiln,Decorator services
+3,Kushtia,5,35,329,140,12,1,33,101
+4,Sadar,,,,,,,,
+5,Bheramara,5,26,90,47,32,1,7,29
+6,Daulatpur,5,56,140,373,21,0,17,50
+7,Khoksa,3,19,68,34,16,0,10,34
+8,Kumarkhali,3,45,85,102,60,0,20,70
+9,Mirpur,5,28,185,223,5,0,28,52
+10,Total,26,209,897,919,146,2,115,336

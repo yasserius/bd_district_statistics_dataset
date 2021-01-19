@@ -1,20 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of papaya, guava, lime and lemon 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Papaya,Papaya,Guava,Guava,Lime and lemon,Lime and lemon
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Bhaluka,88,4320,51,502,79,779
-5,Dhobaura,17,259,11,170,13,192
-6,Fulbaria,13,110,14,79,9,73
-7,Gaffargaon,86,726,28,1055,72,44
-8,Gauripur,3,1,1,5,1,5
-9,Haluaghat,6,51,7,38,10,343
-10,Ishwargonj,31,926,14,159,10,39
-11,Muktagacha,25,460,14,386,35,251
-12,Mymensingh Sadar,29,1141,24,159,14,283
-13,Nandail,32,92,9,283,56,528
-14,Phulpur,3,627,6,1315,5,1437
-15,Trishal,85,1338,8,821,46,995
-16,Total,418,10051,187,4972,350,4969
+2,Upazila,Papaya Area,Papaya Production,Guava Area,Guava Production,Lime and lemon Area,Lime and lemon Production
+3,Bhaluka,88,4320,51,502,79,779
+4,Dhobaura,17,259,11,170,13,192
+5,Fulbaria,13,110,14,79,9,73
+6,Gaffargaon,86,726,28,1055,72,44
+7,Gauripur,3,1,1,5,1,5
+8,Haluaghat,6,51,7,38,10,343
+9,Ishwargonj,31,926,14,159,10,39
+10,Muktagacha,25,460,14,386,35,251
+11,Mymensingh Sadar,29,1141,24,159,14,283
+12,Nandail,32,92,9,283,56,528
+13,Phulpur,3,627,6,1315,5,1437
+14,Trishal,85,1338,8,821,46,995
+15,Total,418,10051,187,4972,350,4969

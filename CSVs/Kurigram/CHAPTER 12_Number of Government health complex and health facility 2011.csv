@@ -1,43 +1,16 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Government health complex and health facility 2011,,,,,,,,,,
-1,"
-
-Upazila","Number of hospital/ clinic/
-nursing home","
-Number of bed","
-Number of doctor","
-Number of nurse","
-Number of    technician","Number of
-other staff","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility"
-2,"
-
-Upazila","Number of hospital/ clinic/
-nursing home","
-Number of bed","
-Number of doctor","
-Number of nurse","
-Number of    technician","Number of
-other staff",Indoor,Indoor,Outdoor,Outdoor
-3,"
-
-Upazila","Number of hospital/ clinic/
-nursing home","
-Number of bed","
-Number of doctor","
-Number of nurse","
-Number of    technician","Number of
-other staff",Male,Female,Male,Female
-4,Bhurungamari,1,31,7,6,4,88,1389,2367,23319,26494
-5,Char Rajibpur,1,31,3,3,5,41,1611,2052,22345,24297
-6,Chilmari,1,50,3,13,2,44,4913,5086,31659,32999
-7,Kurigram Sadar,284,200,15,50,15,85,4454,10000,25000,29000
-8,Nageshwari,2,41,6,9,4,136,38165,37152,1176,2784
-9,Phulbari,1,31,6,3,4,16,15388,17529,532,587
-10,Rajarhat,1,31,6,7,2,43,413,618,5482,6823
-11,Raumari,1,50,3,6,0,35,1095,1420,23000,24000
-12,Ulipur,1,50,4,13,4,40,1100,1275,6200,6900
-13,Total,293,515,53,110,40,528,68528,77499,138713,153884
+1,,,,,,,,,,,
+2,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of    technician,Number of other staff,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility
+3,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of    technician,Number of other staff,Indoor,Indoor,Outdoor,Outdoor
+4,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of    technician,Number of other staff,Male,Female,Male,Female
+5,Bhurungamari,1,31,7,6,4,88,1389,2367,23319,26494
+6,Char Rajibpur,1,31,3,3,5,41,1611,2052,22345,24297
+7,Chilmari,1,50,3,13,2,44,4913,5086,31659,32999
+8,Kurigram Sadar,284,200,15,50,15,85,4454,10000,25000,29000
+9,Nageshwari,2,41,6,9,4,136,38165,37152,1176,2784
+10,Phulbari,1,31,6,3,4,16,15388,17529,532,587
+11,Rajarhat,1,31,6,7,2,43,413,618,5482,6823
+12,Raumari,1,50,3,6,0,35,1095,1420,23000,24000
+13,Ulipur,1,50,4,13,4,40,1100,1275,6200,6900
+14,Total,293,515,53,110,40,528,68528,77499,138713,153884

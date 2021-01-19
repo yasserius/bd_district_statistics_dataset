@@ -1,24 +1,21 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Non-government secondary school, teacher and student 2011",,,,,,,,
-1,Upazila/City corporation,"Number
-of school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students
-per teacher"
-2,Upazila/City corporation,"Number
-of school",Male,Female,Total,Male,Female,Total,"Students
-per teacher"
-3,Anowara,23,205,56,261,5298,6980,12278,47
-4,Banshkhali,25,203,50,253,6444,9233,15677,62
-5,Boalkhali,29,213,62,275,6838,8488,15326,56
-6,Chandanaish,26,216,79,295,6249,8544,14793,50
-7,Chittagong City Corp.,134,1401,755,2156,55751,55813,111564,52
-8,Fatikchhari,57,571,101,672,22027,25295,47322,70
-9,Hathazari,52,415,205,620,21130,14088,35248,57
-10,Lohagara,28,223,15,238,8200,9110,17310,73
-11,Mirsharai,46,344,286,630,15218,17152,32370,51
-12,Patiya,50,17,26,43,25611,18550,44161,1027
-13,Rangunia,42,361,106,467,9040,11708,20748,44
-14,Raozan,52,657,121,778,14428,17359,31787,41
-15,Sandwip,25,275,53,328,15210,16320,31420,96
-16,Satkania,82,358,83,441,4056,12424,21480,49
-17,Sitakunda,27,487,152,639,10648,13136,23784,37
-18,Total,698,5946,2150,8096,226148,244200,475268,59
+1,,,,,,,,,
+2,Upazila/City corporation,Number of school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3,Upazila/City corporation,Number of school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Anowara,23,205,56,261,5298,6980,12278,47
+5,Banshkhali,25,203,50,253,6444,9233,15677,62
+6,Boalkhali,29,213,62,275,6838,8488,15326,56
+7,Chandanaish,26,216,79,295,6249,8544,14793,50
+8,Chittagong City Corp.,134,1401,755,2156,55751,55813,111564,52
+9,Fatikchhari,57,571,101,672,22027,25295,47322,70
+10,Hathazari,52,415,205,620,21130,14088,35248,57
+11,Lohagara,28,223,15,238,8200,9110,17310,73
+12,Mirsharai,46,344,286,630,15218,17152,32370,51
+13,Patiya,50,17,26,43,25611,18550,44161,1027
+14,Rangunia,42,361,106,467,9040,11708,20748,44
+15,Raozan,52,657,121,778,14428,17359,31787,41
+16,Sandwip,25,275,53,328,15210,16320,31420,96
+17,Satkania,82,358,83,441,4056,12424,21480,49
+18,Sitakunda,27,487,152,639,10648,13136,23784,37
+19,Total,698,5946,2150,8096,226148,244200,475268,59

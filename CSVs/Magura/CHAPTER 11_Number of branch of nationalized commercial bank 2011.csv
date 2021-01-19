@@ -1,11 +1,9 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C","Number of
-current account"
-2,Magura Sadar,13,184,77197,7955
-3,Mohammadpur,5,47,32102,1069
-4,Shalikha,6,50,4589,309
-5,Sreepur,4,47,15928,889
-6,Total,28,328,129816,10222
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current account
+3,Magura Sadar,13,184,77197,7955
+4,Mohammadpur,5,47,32102,1069
+5,Shalikha,6,50,4589,309
+6,Sreepur,4,47,15928,889
+7,Total,28,328,129816,10222

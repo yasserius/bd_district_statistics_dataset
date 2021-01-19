@@ -1,10 +1,8 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of wheat, jute and sugarcane 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Wheat,Wheat,Jute,Jute,Sugarcane,Sugarcane
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
+2, Upazila,Wheat,Wheat,Jute,Jute,Sugarcane,Sugarcane
+3, Upazila,Area,Production,Area,Production,Area,Production
 4,Kalia,925,1050,5786,4038,1188,4658
 5,Lohagara,3186,3612,27442,99990,185,3750
 6,Narail Sadar,2325,329,16180,17798,360,5148

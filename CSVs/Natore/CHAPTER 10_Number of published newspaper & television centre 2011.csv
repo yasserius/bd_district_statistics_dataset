@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of published newspaper & television centre 2011,,,,
-1,Municipality,Daily newspaper,Weekly newspaper,Magazine,Television centre
-2,Bagatipara,0,0,0,0
-3,Baraigram,0,1,0,0
-4,Gurudaspur,0,1,0,0
-5,Lalpur,0,0,0,0
-6,Natore Sadar,3,1,0,1
-7,Singra,0,0,0,0
-8,Total,3,3,0,1
+1,,,,,
+2,Municipality,Daily newspaper,Weekly newspaper,Magazine,Television centre
+3,Bagatipara,0,0,0,0
+4,Baraigram,0,1,0,0
+5,Gurudaspur,0,1,0,0
+6,Lalpur,0,0,0,0
+7,Natore Sadar,3,1,0,1
+8,Singra,0,0,0,0
+9,Total,3,3,0,1

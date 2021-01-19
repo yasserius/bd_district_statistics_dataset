@@ -1,23 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from nationalized bank 2011",,,,,,,,,,,
-1,"
-
-Upazila",Number of branch of all nationalized banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-
-Upazila",Number of branch of all nationalized banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,"Number of
-borrower","Number of
-borrower","Total debt
-(crore tk)","Total debt
-(crore tk)"
-3,"
-
-Upazila",Number of branch of all nationalized banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Fulchhari,3,5623,55,0,0,1646,26,7272,81,14,40
-5,Gaibandha Sadar,10,9464,1329,8,0,4226,2000,13698,3329,35,4
-6,Gobindaganj,8,10886,622,73,0,2424,1195,13383,1817,46,8
-7,Palashbari,5,6409,682,0,0,1291,598,7700,1280,25,4
-8,Sadullapur,9,7000,3588,38,12,3466,1733,11812,5250,9,3
-9,Saghata,4,13242,1719,428,5,611,17904,0,0,28,36
-10,Sundarganj,7,7248,487,0,0,5347,3154,12595,3641,40,6
-11,Total,46,59872,8482,547,12,19011,26610,66460,15398,197,100
+1,,,,,,,,,,,,
+2,  Upazila,Number of branch of all nationalized banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3,  Upazila,Number of branch of all nationalized banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
+4,  Upazila,Number of branch of all nationalized banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+5,Fulchhari,3,5623,55,0,0,1646,26,7272,81,14,40
+6,Gaibandha Sadar,10,9464,1329,8,0,4226,2000,13698,3329,35,4
+7,Gobindaganj,8,10886,622,73,0,2424,1195,13383,1817,46,8
+8,Palashbari,5,6409,682,0,0,1291,598,7700,1280,25,4
+9,Sadullapur,9,7000,3588,38,12,3466,1733,11812,5250,9,3
+10,Saghata,4,13242,1719,428,5,611,17904,0,0,28,36
+11,Sundarganj,7,7248,487,0,0,5347,3154,12595,3641,40,6
+12,Total,46,59872,8482,547,12,19011,26610,66460,15398,197,100

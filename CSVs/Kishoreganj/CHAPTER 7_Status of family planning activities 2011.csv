@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Status of family planning activities 2011,,,,,,
-1,"
-Upazila",Sterilization in number,Sterilization in number,"IUD/
-Injection",Condom (in pieces),Oral pill (in cycles),Copper- Tee
-2,"
-Upazila",Vasectomy,Tubectomy,"IUD/
-Injection",Condom (in pieces),Oral pill (in cycles),Copper- Tee
+1,,,,,,,
+2,Upazila,Sterilization in number Vasectomy,Sterilization in number Tubectomy,IUD/ Injection,Condom (in pieces),Oral pill (in cycles),Copper- Tee
 3,Austagram,112,377,4338,2227,10927,458
 4,Bajitpur,1203,2607,4475,3662,20817,1323
 5,Bhairab,157,1221,6247,3382,15890,1146

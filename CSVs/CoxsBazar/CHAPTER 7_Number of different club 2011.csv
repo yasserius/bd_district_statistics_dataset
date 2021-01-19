@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of different club 2011,,,,
-1,Upazila,Sports club,Cultural club,Science club,Other social club
-2,Chakaria,19,15,0,10
-3,Cox's Bazar Sadar,97,6,0,5
-4,Kutubdia,0,0,0,0
-5,Moheshkhali,20,50,1,2
-6,Pekua,2,3,0,3
-7,Ramu,1,1,0,1
-8,Teknaf,20,0,0,4
-9,Ukhia,23,5,0,1
-10,Total,182,80,1,26
+1,,,,,
+2,Upazila,Sports club,Cultural club,Science club,Other social club
+3,Chakaria,19,15,0,10
+4,Cox's Bazar Sadar,97,6,0,5
+5,Kutubdia,0,0,0,0
+6,Moheshkhali,20,50,1,2
+7,Pekua,2,3,0,3
+8,Ramu,1,1,0,1
+9,Teknaf,20,0,0,4
+10,Ukhia,23,5,0,1
+11,Total,182,80,1,26

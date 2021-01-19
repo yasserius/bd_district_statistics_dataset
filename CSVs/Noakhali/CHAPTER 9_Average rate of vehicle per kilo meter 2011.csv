@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5
 0,Average rate of vehicle per kilo meter 2011,,,,,
-1,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
-2,Upazila,Vehicle,Vehicle,Vehicle,Vehicle,Vehicle
-3,Upazila,Rickshaw,Rickshaw van,Easy bike,Auto rickshaw,Tempo
-4,Begumganj,20,50,10,10,5
-5,Chatkhil,20,0,10,10,5
-6,Companiganj,15,0,10,10,5
-7,Hatiya,15,0,10,7,5
-8,Kabirhat,20,0,5,10,3
-9,Noakhali Sadar,10,0,5,5,4
-10,Senbagh,10,6,5,5,5
-11,Sonaimuri,20,0,10,10,5
-12,Subarnachar,15,10,5,5,3
-13,Average,16,22,8,8,4.5
+1,,,,,,
+2,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
+3,Upazila,Vehicle,Vehicle,Vehicle,Vehicle,Vehicle
+4,Upazila,Rickshaw,Rickshaw van,Easy bike,Auto rickshaw,Tempo
+5,Begumganj,20,50,10,10,5
+6,Chatkhil,20,0,10,10,5
+7,Companiganj,15,0,10,10,5
+8,Hatiya,15,0,10,7,5
+9,Kabirhat,20,0,5,10,3
+10,Noakhali Sadar,10,0,5,5,4
+11,Senbagh,10,6,5,5,5
+12,Sonaimuri,20,0,10,10,5
+13,Subarnachar,15,10,5,5,3
+14,Average,16,22,8,8,4.5

@@ -1,11 +1,8 @@
 ,0,1,2,3,4
 0,Number of cold storage and capacity in following years,,,,
 1,(Capacity in metric ton),,,,
-2,"
-Upazila/City corporation",2010-11,2010-11,2009-10,2009-10
-3,"
-Upazila/City corporation",Number,Installed capacity,Number,"Installed
-capacity"
+2, Upazila/City corporation,2010-11,2010-11,2009-10,2009-10
+3, Upazila/City corporation,Number,Installed capacity,Number,Installed capacity
 4,Anowara,0,0,0,0
 5,Banshkhali,0,0,0,0
 6,Boalkhali,0,0,0,0

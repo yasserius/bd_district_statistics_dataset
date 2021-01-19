@@ -1,19 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Sonali and Janata bank 2011,,,,,,,,,,
-1,"
-Upazila/city corporation",Sonali bank,Sonali bank,Sonali bank,Sonali bank,Sonali bank,Janata bank,Janata bank,Janata bank,Janata bank,Janata bank
-2,"
-Upazila/city corporation",Number of  branch,Account,Account,Account,Account,Number of  branch,Account,Account,Account,Account
-3,"
-Upazila/city corporation",Number of  branch,S.D,C.D,F.D,S.T.D,Number of  branch,S.D,C.D,F.D,S.T.D
-4,Bagha,2,347,128,229,47,1,2500,837,181,8
-5,Baghmara,1,16463,1396,1201,56,5,55872,3266,260,62
-6,Charghat,3,7600,797,105,30,1,7488,185,49,5
-7,Durgapur,1,4845,605,121,21,2,0,727,56,28
-8,Godagari,1,6762,1206,1696,32,5,35419,2164,237,54
-9,Mohanpur,2,7667,564,175,34,1,9240,319,56,12
-10,Paba,1,9586,6573,1153,44,2,8003,292,454,86
-11,Puthia,2,2446,749,146,34,2,2564,233,66,12
-12,Rajshahi city corporation,8,39654,8080,6712,181,10,33599,2516,654,201
-13,Tanore,2,6868,327,54,0,1,4715,480,0,0
-14,Total	23,Total	23,102238,20425,11592,479,30,159400,11019,2013,468
+1,,,,,,,,,,,
+2,Upazila/city corporation,Sonali bank Number of branch Number of branch,Sonali bank Account S.D,Sonali bank Account C.D,Sonali bank Account F.D,Sonali bank Account S.T.D,Janata bank Number of branch Number of branch,Janata bank Account S.D,Janata bank Account C.D,Janata bank Account F.D,Janata bank Account S.T.D
+3,Bagha,2,347,128,229,47,1,2500,837,181,8
+4,Baghmara,1,16463,1396,1201,56,5,55872,3266,260,62
+5,Charghat,3,7600,797,105,30,1,7488,185,49,5
+6,Durgapur,1,4845,605,121,21,2,0,727,56,28
+7,Godagari,1,6762,1206,1696,32,5,35419,2164,237,54
+8,Mohanpur,2,7667,564,175,34,1,9240,319,56,12
+9,Paba,1,9586,6573,1153,44,2,8003,292,454,86
+10,Puthia,2,2446,749,146,34,2,2564,233,66,12
+11,Rajshahi city corporation,8,39654,8080,6712,181,10,33599,2516,654,201
+12,Tanore,2,6868,327,54,0,1,4715,480,0,0
+13,Total	23,Total	23,102238,20425,11592,479,30,159400,11019,2013,468

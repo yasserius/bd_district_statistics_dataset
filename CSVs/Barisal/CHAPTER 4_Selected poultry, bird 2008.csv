@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,"Selected poultry, bird 2008",,,,,,
-1,"
-Upazila/city corporation",Hen and cock,Hen and cock,Duck,Duck,Others,Others
-2,"
-Upazila/city corporation",Holding reporting,Total number,Holding reporting,Total number,Holding reporting,Total number
+1,,,,,,,
+2,Upazila/city corporation,Hen and cock Holding reporting,Hen and cock Total number,Duck Holding reporting,Duck Total number,Others Holding reporting,Others Total number
 3,Agailjhara,18905,140485,13542,71612,785,5140
 4,Babuganj,19637,132226,12971,52151,2198,17693
 5,Bakerganj,44871,355287,35583,183308,6998,49901

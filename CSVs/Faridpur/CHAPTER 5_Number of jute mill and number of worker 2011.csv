@@ -1,16 +1,15 @@
 ,0,1,2,3,4,5,6,7
 0,Number of jute mill and number of worker 2011,,,,,,,
-1,"
-Upazila",Number of mill,Number of loom (installed),Number of loom,Number of loom,Number of worker,Number of worker,Number of worker
-2,"
-Upazila",Number of mill,Number of loom (installed),Operative,Non- operational,Permanent,Temporary,Total
-3,Alfadanga,0,0,0,0,0,0,0
-4,Bhanga,0,0,0,0,0,0,0
-5,Boalmari,0,0,0,0,0,0,0
-6,Charbhadrashon,0,0,0,0,0,0,0
-7,Faridpur Sadar,11,327,327,0,1410,12647,13892
-8,Madhukhali,3,36,36,0,157,598,755
-9,Nagarkanda,0,0,0,0,0,0,0
-10,Sadarpur,0,0,0,0,0,0,0
-11,Saltha,0,0,0,0,0,0,0
-12,Total,14,363,363,0,1567,13245,14647
+1,,,,,,,,
+2, Upazila,Number of mill,Number of loom (installed),Number of loom,Number of loom,Number of worker,Number of worker,Number of worker
+3, Upazila,Number of mill,Number of loom (installed),Operative,Non- operational,Permanent,Temporary,Total
+4,Alfadanga,0,0,0,0,0,0,0
+5,Bhanga,0,0,0,0,0,0,0
+6,Boalmari,0,0,0,0,0,0,0
+7,Charbhadrashon,0,0,0,0,0,0,0
+8,Faridpur Sadar,11,327,327,0,1410,12647,13892
+9,Madhukhali,3,36,36,0,157,598,755
+10,Nagarkanda,0,0,0,0,0,0,0
+11,Sadarpur,0,0,0,0,0,0,0
+12,Saltha,0,0,0,0,0,0,0
+13,Total,14,363,363,0,1567,13245,14647

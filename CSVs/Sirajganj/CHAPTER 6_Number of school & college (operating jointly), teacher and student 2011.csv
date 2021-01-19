@@ -1,20 +1,15 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of school & college (operating jointly), teacher and student 2011",,,,,,,,
-1,"
-Upazila","Number of
-institute",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students per
-teacher"
-2,"
-Upazila","Number of
-institute",Male,Female,Total,Male,Female,Total,"Students per
-teacher"
-3,Belkuchi,0,0,0,0,0,0,0,0
-4,Chauhali,0,0,0,0,0,0,0,0
-5,Kamarkhanda,1,24,3,27,268,161,429,16
-6,Kazipur,1,18,2,20,234,191,425,21
-7,Royganj,1,20,4,24,287,258,545,22
-8,Shahjadpur,0,0,0,0,0,0,0,0
-9,Sirajganj Sadar,3,32,6,38,554,466,1020,27
-10,Tarash,0,0,0,0,0,0,0,0
-11,Ullahpara,6,117,16,133,3552,1447,4999,38
-12,Total,12,211,31,242,4895,2523,7418,31
+1,,,,,,,,,
+2, Upazila,Number of institute,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of institute,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Belkuchi,0,0,0,0,0,0,0,0
+5,Chauhali,0,0,0,0,0,0,0,0
+6,Kamarkhanda,1,24,3,27,268,161,429,16
+7,Kazipur,1,18,2,20,234,191,425,21
+8,Royganj,1,20,4,24,287,258,545,22
+9,Shahjadpur,0,0,0,0,0,0,0,0
+10,Sirajganj Sadar,3,32,6,38,554,466,1020,27
+11,Tarash,0,0,0,0,0,0,0,0
+12,Ullahpara,6,117,16,133,3552,1447,4999,38
+13,Total,12,211,31,242,4895,2523,7418,31

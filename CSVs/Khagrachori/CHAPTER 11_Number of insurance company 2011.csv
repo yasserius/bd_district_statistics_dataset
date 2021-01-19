@@ -1,17 +1,13 @@
 ,0,1,2,3,4,5
 0,Number of insurance company 2011,,,,,
-1,"
-Upazila","Number of insurance
-company",Number of employee,"
-Number of client","Annual premium
-(in lac tk.).","Annual claimed paid
-(in lac tk.)"
-2,Dighinala,1,12,28,4.50,0.52
-3,Khagrachhari Sadar,10,111,25030,520.37,32.97
-4,Laxshmichhari,0,0,0,0,0
-5,Mahalchhari,3,7,690,12.42,6.10
-6,Manikchhari,11,1016,18752,193.50,0.78
-7,Matiranga,9,20,8989,112.45,13.97
-8,Panchhari,5,102,2550,23.50,2.40
-9,Ramgarh,4,27,7423,2.32,88.63
-10,Total,43,1295,63462,869.06,145.367
+1,,,,,,
+2,Upazila,Number of insurance company,Number of employee,Number of client,Annual premium (in lac tk.).,Annual claimed paid (in lac tk.)
+3,Dighinala,1,12,28,4.50,0.52
+4,Khagrachhari Sadar,10,111,25030,520.37,32.97
+5,Laxshmichhari,0,0,0,0,0
+6,Mahalchhari,3,7,690,12.42,6.10
+7,Manikchhari,11,1016,18752,193.50,0.78
+8,Matiranga,9,20,8989,112.45,13.97
+9,Panchhari,5,102,2550,23.50,2.40
+10,Ramgarh,4,27,7423,2.32,88.63
+11,Total,43,1295,63462,869.06,145.367

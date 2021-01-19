@@ -1,18 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,Upazila,"Number
-of centre","Number
-of bed","Number
-of doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Badarganj,0,0,0,0,0,0
-3,Gangachara,0,0,0,0,0,0
-4,Kaunia,0,0,0,0,0,0
-5,Mithapukur,0,0,0,0,0,0
-6,Pirgachha,0,0,0,0,0,0
-7,Pirganj,1,0,1,0,0,1
-8,Rangpur sadar,55,1220,75,181,85,524
-9,Taraganj,0,0,0,0,0,0
-10,Total,56,1220,76,181,85,525
+1,,,,,,,
+2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Badarganj,0,0,0,0,0,0
+4,Gangachara,0,0,0,0,0,0
+5,Kaunia,0,0,0,0,0,0
+6,Mithapukur,0,0,0,0,0,0
+7,Pirgachha,0,0,0,0,0,0
+8,Pirganj,1,0,1,0,0,1
+9,Rangpur sadar,55,1220,75,181,85,524
+10,Taraganj,0,0,0,0,0,0
+11,Total,56,1220,76,181,85,525

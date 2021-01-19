@@ -1,21 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting selected livestock species 2008,,,,,,
-1,"
-Upazila",Cow & buffalo,Cow & buffalo,Goat,Goat,Sheep,Sheep
-2,"
-Upazila","Holding
-number","Number
-of animal","Holding
-number","Number
-of goat","Holding
-number","Number
-of sheep"
-3,Bauphal,26146,69825,5793,15216,"
-323",1901
-4,Dashmina,14072,40847,4957,13416,130,870
-5,Dumki,6821,19212,1658,4169,21,223
-6,Galachipa,37839,147115,18677,64672,1084,7218
-7,Kalapara,21994,86840,14291,53099,429,3579
-8,Mirzaganj,12441,37605,3739,10575,113,702
-9,Patuakhali Sadar,25139,82465,7043,20979,268,2170
-10,Total,144452,483909,56158,182126,2368,16663
+1,,,,,,,
+2, Upazila,Cow & buffalo,Cow & buffalo,Goat,Goat,Sheep,Sheep
+3, Upazila,Holding number,Number of animal,Holding number,Number of goat,Holding number,Number of sheep
+4,Bauphal,26146,69825,5793,15216, 323,1901
+5,Dashmina,14072,40847,4957,13416,130,870
+6,Dumki,6821,19212,1658,4169,21,223
+7,Galachipa,37839,147115,18677,64672,1084,7218
+8,Kalapara,21994,86840,14291,53099,429,3579
+9,Mirzaganj,12441,37605,3739,10575,113,702
+10,Patuakhali Sadar,25139,82465,7043,20979,268,2170
+11,Total,144452,483909,56158,182126,2368,16663

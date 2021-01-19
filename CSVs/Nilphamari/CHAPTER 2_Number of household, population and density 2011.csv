@@ -1,15 +1,12 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,"
-Upazila","
-Household",Population (000),Population (000),Population (000),Sex ratio (M/F),Average size of household,Density per sq. km.
-2,"
-Upazila","
-Household",Male,Female,Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
-3,Dimla,63535,142412,141026,283438,101,4.46,867
-4,Domar,58020,125338,124091,249429,101,4.29,1153
-5,Jaldhaka,78994,171466,169206,341672,101,4.30,1122
-6,Kishorgonj,65798,130931,130138,261069,101,3.96,1273
-7,Nilphamary Sadar,97088,219080,216082,435165,101,4.46,1166
-8,Sayedpur,58137,134737,131724,265461,102,4.51,2174
-9,Total,421572,922964,911267,1834231,101,4.34,1186
+1,,,,,,,,
+2, Upazila, Household,Population (000),Population (000),Population (000),Sex ratio (M/F),Average size of household,Density per sq. km.
+3, Upazila, Household,Male,Female,Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
+4,Dimla,63535,142412,141026,283438,101,4.46,867
+5,Domar,58020,125338,124091,249429,101,4.29,1153
+6,Jaldhaka,78994,171466,169206,341672,101,4.30,1122
+7,Kishorgonj,65798,130931,130138,261069,101,3.96,1273
+8,Nilphamary Sadar,97088,219080,216082,435165,101,4.46,1166
+9,Sayedpur,58137,134737,131724,265461,102,4.51,2174
+10,Total,421572,922964,911267,1834231,101,4.34,1186

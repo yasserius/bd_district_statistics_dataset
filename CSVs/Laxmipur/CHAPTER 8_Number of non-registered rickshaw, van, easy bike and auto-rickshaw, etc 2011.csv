@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,"Number of non-registered rickshaw, van, easy bike and auto-rickshaw, etc 2011",,,,,
-1,Upazila,Rickshaw,Van,Easy bike and auto-rickshaw,Tempo,Nochimon/korimon/ bhotvoti
-2,Kamalnagar,480,119,85,15,0
-3,Lakshmipur Sadar,336,18,18,4,16
-4,Ramganj,500,320,15,13,80
-5,Ramgati,755,115,0,0,45
-6,Roypur,1280,25,590,0,0
-7,Total,3351,597,708,32,141
+1,,,,,,
+2,Upazila,Rickshaw,Van,Easy bike and auto-rickshaw,Tempo,Nochimon/korimon/ bhotvoti
+3,Kamalnagar,480,119,85,15,0
+4,Lakshmipur Sadar,336,18,18,4,16
+5,Ramganj,500,320,15,13,80
+6,Ramgati,755,115,0,0,45
+7,Roypur,1280,25,590,0,0
+8,Total,3351,597,708,32,141

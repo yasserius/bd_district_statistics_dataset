@@ -1,12 +1,7 @@
 ,0,1,2,3,4,5,6
 0,"Police personnel and criminal offences by municipality, city corporation 2011",,,,,,
-1,Municipality/city corporation,Police personnel,Criminal offence,Criminal offence,Traffic accident (reported),Traffic accident (reported),Traffic accident (reported)
-2,Municipality/city corporation,Police personnel,"Number of
-offence","Number of
-case filled","Number of
-accident","Person
-killed","Person
-injured"
+1,,,,,,,
+2,Municipality/city corporation,Police personnel,Criminal offence Number of offence,Criminal offence Number of case filled,Traffic accident (reported) Number of accident,Traffic accident (reported) Person killed,Traffic accident (reported) Person injured
 3,Bagha,37,0,325,0,2,90
 4,Baghmara,16,59,59,0,0,0
 5,Charghat,30,279,279,5,1,4

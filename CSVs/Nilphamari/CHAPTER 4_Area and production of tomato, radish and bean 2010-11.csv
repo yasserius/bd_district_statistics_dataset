@@ -1,14 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Tomato,Tomato,Radish,Radish,Bean,Bean
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Dimla,78,110,323,685,36,59
-5,Domar,352,778,78,228,64,24
-6,Jaldhaka,16,37,232,809,81,125
-7,Kishorgonj,9,11,40,113,56,25
-8,Nilphamary Sadar,37,163,127,508,19,84
-9,Sayedpur,41,392,65,500,43,140
-10,Total,533,1491,865,2843,299,457
+2,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Bean Area,Bean Production
+3,Dimla,78,110,323,685,36,59
+4,Domar,352,778,78,228,64,24
+5,Jaldhaka,16,37,232,809,81,125
+6,Kishorgonj,9,11,40,113,56,25
+7,Nilphamary Sadar,37,163,127,508,19,84
+8,Sayedpur,41,392,65,500,43,140
+9,Total,533,1491,865,2843,299,457

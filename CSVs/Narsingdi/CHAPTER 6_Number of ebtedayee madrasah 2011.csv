@@ -1,13 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of ebtedayee madrasah 2011,,,,,,,,
-1,"
-Upazila",Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Belabo,8,21,8,29,824,956,1780,61
-4,Manohardi,5,22,0,22,1070,450,1520,69
-5,Narsingdi Sadar,14,50,20,70,3412,4545,8057,115
-6,Palash,1,3,0,3,44,33,77,26
-7,Roypura,6,12,7,19,323,287,610,32
-8,Sibpur,0,0,0,0,0,0,0,0
-9,Total,34,108,35,143,5673,6271,12044,84
+1,,,,,,,,,
+2, Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Belabo,8,21,8,29,824,956,1780,61
+5,Manohardi,5,22,0,22,1070,450,1520,69
+6,Narsingdi Sadar,14,50,20,70,3412,4545,8057,115
+7,Palash,1,3,0,3,44,33,77,26
+8,Roypura,6,12,7,19,323,287,610,32
+9,Sibpur,0,0,0,0,0,0,0,0
+10,Total,34,108,35,143,5673,6271,12044,84

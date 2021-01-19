@@ -1,15 +1,12 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Bhedarganj,4,4,32,36
-4,Damudya,10,0,40,40
-5,Gosairhat,70,105,190,295
-6,Naria,10,60,20,80
-7,Shariatpur Sadar,13,25,50,75
-8,Zanjira,4,6,25,31
-9,Total,111,200,357,557
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Bhedarganj,4,4,32,36
+5,Damudya,10,0,40,40
+6,Gosairhat,70,105,190,295
+7,Naria,10,60,20,80
+8,Shariatpur Sadar,13,25,50,75
+9,Zanjira,4,6,25,31
+10,Total,111,200,357,557

@@ -1,12 +1,8 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and health personnel 2011,,,,,
-1,Upazila,"Number of
-bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Kalia,50,7,14,3,109
-3,Lohagara,50,8,7,2,9
-4,Narail Sadar,100,16,46,6,29
-5,Total,200,31,67,11,147
+1,,,,,,
+2,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Kalia,50,7,14,3,109
+4,Lohagara,50,8,7,2,9
+5,Narail Sadar,100,16,46,6,29
+6,Total,200,31,67,11,147

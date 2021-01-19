@@ -1,12 +1,7 @@
 ,0,1,2,3,4,5,6,7
 0,Average price of selected item 2011,,,,,,,
 1,"(Price unit per kg, taka)",,,,,,,
-2,Upazila,"Fine rice
-(minicate)","Medium
-rice","Coarse rice
-(normal)",Wheat,"Coarse flour
-(Aata)",Potato,"Soyabean
-oil"
+2,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
 3,Belkuchi,43,34,30,18,27,15,120
 4,Chauhali,42,30,25,21,29,15,130
 5,Kamarkhanda,48,32,27,21,25,10,122

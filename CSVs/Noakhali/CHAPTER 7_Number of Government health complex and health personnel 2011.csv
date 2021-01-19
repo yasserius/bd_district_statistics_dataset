@@ -1,18 +1,14 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and health personnel 2011,,,,,
-1,Upazila,"Number of
-bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Begumganj,10,2,6,1,11
-3,Chatkhil,50,19,10,7,110
-4,Companiganj,50,16,15,6,77
-5,Hatiya,50,7,5,2,113
-6,Kabirhat,20,13,2,4,54
-7,Noakhali Sadar,250,27,12,11,27
-8,Senbagh,50,14,7,8,86
-9,Sonaimuri,50,20,6,4,86
-10,Subarnachar,50,26,15,6,87
-11,Total,580,144,78,49,651
+1,,,,,,
+2,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Begumganj,10,2,6,1,11
+4,Chatkhil,50,19,10,7,110
+5,Companiganj,50,16,15,6,77
+6,Hatiya,50,7,5,2,113
+7,Kabirhat,20,13,2,4,54
+8,Noakhali Sadar,250,27,12,11,27
+9,Senbagh,50,14,7,8,86
+10,Sonaimuri,50,20,6,4,86
+11,Subarnachar,50,26,15,6,87
+12,Total,580,144,78,49,651

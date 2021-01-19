@@ -1,18 +1,15 @@
 ,0,1,2,3,4,5
 0,Number of employee by local Government institution 2011,,,,,
-1,Upazila/city corporation,"City
-Corporation",Municipality,"Zila
-Parishad","Upazila
-Parishad","Union
-Parishad"
-2,Batiaghata,0,0,0,0,77
-3,Dacope,0,12,0,0,99
-4,Dighalia,0,0,0,0,66
-5,Dumuria,0,0,0,3,14
-6,Khulna City Corporation,575,0,130,0,0
-7,Koyra,0,0,0,4,69
-8,Paikgachha,0,12,0,382,98
-9,Phultala,0,0,0,4,33
-10,Rupsa,0,0,0,1,53
-11,Terokhada,0,0,0,3,66
-12,Total,575,24,130,397,575
+1,,,,,,
+2,Upazila/city corporation,City Corporation,Municipality,Zila Parishad,Upazila Parishad,Union Parishad
+3,Batiaghata,0,0,0,0,77
+4,Dacope,0,12,0,0,99
+5,Dighalia,0,0,0,0,66
+6,Dumuria,0,0,0,3,14
+7,Khulna City Corporation,575,0,130,0,0
+8,Koyra,0,0,0,4,69
+9,Paikgachha,0,12,0,382,98
+10,Phultala,0,0,0,4,33
+11,Rupsa,0,0,0,1,53
+12,Terokhada,0,0,0,3,66
+13,Total,575,24,130,397,575

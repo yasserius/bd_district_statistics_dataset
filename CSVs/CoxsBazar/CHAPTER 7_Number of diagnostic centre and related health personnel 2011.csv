@@ -1,17 +1,13 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,Upazila,"Number of
-centre","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Chakaria,30,5,60,20,36
-3,Cox's Bazar Sadar,8,32,8,16,32
-4,Kutubdia,2,0,0,2,3
-5,Moheshkhali,2,3,0,2,5
-6,Pekua,5,1,6,25,30
-7,Ramu,10,10,10,10,20
-8,Teknaf,7,0,0,7,32
-9,Ukhia,2,2,2,2,2
-10,Total,66,53,86,84,160
+1,,,,,,
+2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Chakaria,30,5,60,20,36
+4,Cox's Bazar Sadar,8,32,8,16,32
+5,Kutubdia,2,0,0,2,3
+6,Moheshkhali,2,3,0,2,5
+7,Pekua,5,1,6,25,30
+8,Ramu,10,10,10,10,20
+9,Teknaf,7,0,0,7,32
+10,Ukhia,2,2,2,2,2
+11,Total,66,53,86,84,160

@@ -1,27 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2009-10,,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Potato,Potato,Sweet potato,Sweet potato,Total potato,Total potato
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Bhandaria,98,564,185,1480,283,2044
-5,Kawkhali,98,576,18,31,116,607
-6,Mathbaria,129,677,63,202,192,879
-7,Nazirpur,1143,5143,210,840,1353,5983
-8,Nesarabad,350,2380,34,95,384,2475
-9,Pirojpur Sadar,85,187,60,160,145,174
-10,Zianagar,18,81,54,194,35,135
-11,Total,1921,9608,624,3002,2508,12296
-12,"
-Upazila",Rape & mustard,Rape & mustard,Ground nut,Ground nut,Til,Til
-13,"
-Upazila",Area,Production,Area,Production,Area,Production
-14,Bhandaria,98,564,185,1480,283,2044
-15,Kawkhali,98,576,18,31,116,607
-16,Mathbaria,129,677,63,202,192,879
-17,Nazirpur,1143,5143,210,840,1353,5983
-18,Nesarabad,350,2380,34,95,384,2475
-19,Pirojpur Sadar,85,187,60,160,145,174
-20,Zianagar,18,81,54,194,35,135
-21,Total,1921,9608,624,3002,2508,12296
+2,Upazila Upazila Bhandaria Kawkhali Mathbaria Nazirpur Nesarabad Pirojpur Sadar Zianagar Total,Potato Area 98 98 129 1143 350 85 18 1921,Potato Production 564 576 677 5143 2380 187 81 9608,Sweet potato Area 185 18 63 210 34 60 54 624,Sweet potato Production 1480 31 202 840 95 160 194 3002,Total potato Area 283 116 192 1353 384 145 35 2508,Total potato Production 2044 607 879 5983 2475 174 135 12296
+3, Upazila,Rape & mustard,Rape & mustard,Ground nut,Ground nut,Til,Til
+4, Upazila,Area,Production,Area,Production,Area,Production
+5,Bhandaria,98,564,185,1480,283,2044
+6,Kawkhali,98,576,18,31,116,607
+7,Mathbaria,129,677,63,202,192,879
+8,Nazirpur,1143,5143,210,840,1353,5983
+9,Nesarabad,350,2380,34,95,384,2475
+10,Pirojpur Sadar,85,187,60,160,145,174
+11,Zianagar,18,81,54,194,35,135
+12,Total,1921,9608,624,3002,2508,12296

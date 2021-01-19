@@ -1,12 +1,10 @@
 ,0,1,2,3,4
 0,Number of branch of Grameen bank 2011,,,,
-1,Upazila,"Number of
-branch","Number of
-employee","Number of
-member",Number of account
-2,Aditmari,6,68,3994,6211
-3,Hatibandha,8,49,20500,20500
-4,Kaligonj,5,29,7400,7400
-5,Lalmonirhat Sadar,7,49,28580,28580
-6,Patgram,4,25,10918,11741
-7,Total,30,220,71392,74432
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of member,Number of account
+3,Aditmari,6,68,3994,6211
+4,Hatibandha,8,49,20500,20500
+5,Kaligonj,5,29,7400,7400
+6,Lalmonirhat Sadar,7,49,28580,28580
+7,Patgram,4,25,10918,11741
+8,Total,30,220,71392,74432

@@ -1,13 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of madrasah, teacher and student under the madrasah education board 2011",,,,,,,,
-1,"
-Upazila",Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Dimla,23,359,33,392,3873,4000,7873,21
-4,Domar,45,93,5,98,1062,1315,2377,24
-5,Jaldhaka,64,311,62,373,2050,2505,4555,12
-6,Kishorgonj,32,403,33,434,4269,5840,10109,23
-7,Nilphamary Sadar,45,520,212,732,5215,4910,10125,14
-8,Sayedpur,17,255,26,281,955,1818,2773,10
-9,Total,226,1941,371,2310,17424,20388,37812,16
+1,,,,,,,,,
+2, Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Dimla,23,359,33,392,3873,4000,7873,21
+5,Domar,45,93,5,98,1062,1315,2377,24
+6,Jaldhaka,64,311,62,373,2050,2505,4555,12
+7,Kishorgonj,32,403,33,434,4269,5840,10109,23
+8,Nilphamary Sadar,45,520,212,732,5215,4910,10125,14
+9,Sayedpur,17,255,26,281,955,1818,2773,10
+10,Total,226,1941,371,2310,17424,20388,37812,16

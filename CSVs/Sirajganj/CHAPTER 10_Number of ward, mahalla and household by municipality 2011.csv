@@ -1,11 +1,11 @@
 ,0,1,2,3,4,5
 0,"Number of ward, mahalla and household by municipality 2011",,,,,
-1,Upazila,"Name of
-municipality",Total ward,Total mahalla,Total holding,Total household
-2,Belkuchi,Belkuchi,9,14,15742,16229
-3,Kazipur,Kazipur,9,11,3382,3396
-4,Royganj,Royganj,9,29,3131,4354
-5,Shahjadpur,Shahjadpur,9,31,12307,14226
-6,Sirajganj Sadar,Siraganj,15,50,3142,35556
-7,Ullahpara,Ullahpara,9,25,8247,10526
-8,Total,-,60,160,45951,84287
+1,,,,,,
+2,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
+3,Belkuchi,Belkuchi,9,14,15742,16229
+4,Kazipur,Kazipur,9,11,3382,3396
+5,Royganj,Royganj,9,29,3131,4354
+6,Shahjadpur,Shahjadpur,9,31,12307,14226
+7,Sirajganj Sadar,Siraganj,15,50,3142,35556
+8,Ullahpara,Ullahpara,9,25,8247,10526
+9,Total,-,60,160,45951,84287

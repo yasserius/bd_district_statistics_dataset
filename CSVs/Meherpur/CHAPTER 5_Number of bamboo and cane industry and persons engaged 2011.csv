@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of bamboo and cane industry and persons engaged 2011,,,,
-1,"
-Upazila","
-Units",Persons engaged,Persons engaged,Persons engaged
-2,"
-Upazila","
-Units",Family,Hired,Total
+1,,,,,
+2,Upazila,Units,Persons engaged Family,Persons engaged Hired,Persons engaged Total
 3,Gangni,85,312,55,367
 4,Mujibnagar,170,325,0,325
 5,Meherpur Sadar,15,72,15,87

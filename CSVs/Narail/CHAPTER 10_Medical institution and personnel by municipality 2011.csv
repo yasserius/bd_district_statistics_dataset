@@ -1,10 +1,9 @@
 ,0,1,2,3,4,5,6
 0,Medical institution and personnel by municipality 2011,,,,,,
-1,"
-Upazila",Government institution,Private institution,Medical personal,Medical personal,Medical personal,Medical personal
-2,"
-Upazila",Government institution,Private institution,Bed,Doctor,Nurse,Technician
-3,Kalia,1,2,60,9,22,6
-4,Lohagara,1,4,50,8,7,2
-5,Narail Sadar,2,11,238,44,75,42
-6,Total,4,17,348,61,104,50
+1,,,,,,,
+2, Upazila,Government institution,Private institution,Medical personal,Medical personal,Medical personal,Medical personal
+3, Upazila,Government institution,Private institution,Bed,Doctor,Nurse,Technician
+4,Kalia,1,2,60,9,22,6
+5,Lohagara,1,4,50,8,7,2
+6,Narail Sadar,2,11,238,44,75,42
+7,Total,4,17,348,61,104,50

@@ -1,15 +1,12 @@
 ,0,1,2,3,4
 0,Number of garments factory (for local use) and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Male,Female,Total
-3,Dhaka Metropolitan,56,872,3289,4161
-4,Dhamrai,3,48,62,120
-5,Dohar,0,0,0,0
-6,Keraniganj,5985,22000,25000,47000
-7,Nawabganj,0,0,0,0
-8,Savar,32,8250,15750,24000
-9,Total,6076,31170,44101,75281
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Male,Female,Total
+4,Dhaka Metropolitan,56,872,3289,4161
+5,Dhamrai,3,48,62,120
+6,Dohar,0,0,0,0
+7,Keraniganj,5985,22000,25000,47000
+8,Nawabganj,0,0,0,0
+9,Savar,32,8250,15750,24000
+10,Total,6076,31170,44101,75281

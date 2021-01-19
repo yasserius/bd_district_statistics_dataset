@@ -1,14 +1,10 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and health personnel 2011,,,,,
-1,Upazila,"Number of
-bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Baliakandi,50,9,9,4,25
-3,Goalanda,31,15,16,17,64
-4,Kalukhali,0,0,0,0,0
-5,Pangsha,50,20,14,16,130
-6,Rajbari Sadar,120,12,41,4,41
-7,Total,251,56,80,41,260
+1,,,,,,
+2,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Baliakandi,50,9,9,4,25
+4,Goalanda,31,15,16,17,64
+5,Kalukhali,0,0,0,0,0
+6,Pangsha,50,20,14,16,130
+7,Rajbari Sadar,120,12,41,4,41
+8,Total,251,56,80,41,260

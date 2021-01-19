@@ -1,17 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,Upazila,"Number of
-centre","Number
-of bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Assasuni,5,50,8,10,0,19
-3,Debhata,3,30,3,9,1,24
-4,Kalaroa,14,109,14,14,6,42
-5,Kaliganj,9,120,12,20,9,45
-6,Satkhira Sadar,32,350,20,32,0,320
-7,Shyamnagar,9,90,2,2,0,43
-8,Tala,5,28,5,10,5,35
-9,Total,77,777,64,97,21,528
+1,,,,,,,
+2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Assasuni,5,50,8,10,0,19
+4,Debhata,3,30,3,9,1,24
+5,Kalaroa,14,109,14,14,6,42
+6,Kaliganj,9,120,12,20,9,45
+7,Satkhira Sadar,32,350,20,32,0,320
+8,Shyamnagar,9,90,2,2,0,43
+9,Tala,5,28,5,10,5,35
+10,Total,77,777,64,97,21,528

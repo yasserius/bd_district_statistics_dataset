@@ -1,15 +1,12 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Harinakunda,174,205,318,523
-4,Jhenaidah Sadar,211,110,684,794
-5,Kaliganj,235,265,705,970
-6,Kotchandpur,67,484,155,639
-7,Mahespur,186,265,327,592
-8,Shailkupa,188,188,564,752
-9,Total,1061,1517,2753,4270
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Harinakunda,174,205,318,523
+5,Jhenaidah Sadar,211,110,684,794
+6,Kaliganj,235,265,705,970
+7,Kotchandpur,67,484,155,639
+8,Mahespur,186,265,327,592
+9,Shailkupa,188,188,564,752
+10,Total,1061,1517,2753,4270

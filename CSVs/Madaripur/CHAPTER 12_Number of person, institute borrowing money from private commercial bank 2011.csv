@@ -1,22 +1,11 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,"
-Upazila","Number of branch of all private commercial
-bank",Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-Upazila","Number of branch of all private commercial
-bank","Agriculture
-debt","Agriculture
-debt",Industry debt,Industry debt,Other debt,Other debt,"Number of
-borrower","Number of
-borrower","Total debt
-(crore tk)","Total debt
-(crore tk)"
-3,"
-Upazila","Number of branch of all private commercial
-bank",Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Kalkini,1,0,0,0,0,53,0,53,0,222,0
-5,Madaripur Sadar,19,17,0,508,55,1485,118,1710,173,126,35
-6,Rajoir,1,1580,0,0,0,0,0,1580,0,2,0
-7,Shibchar,4,50,14181,0,0,435,0,485,14181,4,33
-8,Total,25,1647,14181,508,55,1973,118,3775,14354,354,69
+1,,,,,,,,,,,,
+2, Upazila,Number of branch of all private commercial bank,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3, Upazila,Number of branch of all private commercial bank,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
+4, Upazila,Number of branch of all private commercial bank,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+5,Kalkini,1,0,0,0,0,53,0,53,0,222,0
+6,Madaripur Sadar,19,17,0,508,55,1485,118,1710,173,126,35
+7,Rajoir,1,1580,0,0,0,0,0,1580,0,2,0
+8,Shibchar,4,50,14181,0,0,435,0,485,14181,4,33
+9,Total,25,1647,14181,508,55,1973,118,3775,14354,354,69

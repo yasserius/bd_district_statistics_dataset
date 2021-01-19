@@ -1,13 +1,10 @@
 ,0,1,2,3,4
 0,Cotton and Sericulture cultivation for the year 2010-11,,,,
 1,(Area in acre and production in metric ton),,,,
-2,"
-Upazila",All cotton,All cotton,Sericulture,Sericulture
-3,"
-Upazila",Area,Production,Area,Production
-4,Baliakandi,3,7,0,0
-5,Goalanda,10,6,0,0
-6,Kalukhali,0,0,0,0
-7,Pangsha,0,0,0,0
-8,Rajbari Sadar,32,19,14.37,2
-9,Total,45,32,14.37,2
+2,Upazila,All cotton Area,All cotton Production,Sericulture Area,Sericulture Production
+3,Baliakandi,3,7,0,0
+4,Goalanda,10,6,0,0
+5,Kalukhali,0,0,0,0
+6,Pangsha,0,0,0,0
+7,Rajbari Sadar,32,19,14.37,2
+8,Total,45,32,14.37,2

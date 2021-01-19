@@ -1,14 +1,12 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,"
-Upazila","
-Number of power tiller","
-Tractor",Number of threshing machine
-2,Daulotpur,302,55,1461
-3,Gheor,576,1,21
-4,Horirampur,350,101,33
-5,Manikganj Sadar,7450,0,305
-6,Saturia,273,2,1275
-7,Shibalaya,1019,5,510
-8,Singair,550,15,310
-9,Total,10520,179,3915
+1,,,,
+2, Upazila, Number of power tiller, Tractor,Number of threshing machine
+3,Daulotpur,302,55,1461
+4,Gheor,576,1,21
+5,Horirampur,350,101,33
+6,Manikganj Sadar,7450,0,305
+7,Saturia,273,2,1275
+8,Shibalaya,1019,5,510
+9,Singair,550,15,310
+10,Total,10520,179,3915

@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of cooperative society and member 2011,,,,
-1,"
-Upazila/city corporation",Number of co- operative societie,Number of member,Number of member,"
-Both sex"
-2,"
-Upazila/city corporation",Number of co- operative societie,Male,Female,"
-Both sex"
+1,,,,,
+2,Upazila/city corporation,Number of co- operative societie,Number of member Male,Number of member Female,Both sex
 3,Batiaghata,163,13270,540,13814
 4,Dacope,130,2868,4500,7368
 5,Dighalia,118,13499,891,14390

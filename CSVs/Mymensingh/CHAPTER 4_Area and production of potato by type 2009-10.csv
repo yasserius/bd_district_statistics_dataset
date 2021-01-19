@@ -1,10 +1,8 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2009-10,,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Potato,Potato,Sweet potato,Sweet potato,Total potato,Total potato
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
+2, Upazila,Potato,Potato,Sweet potato,Sweet potato,Total potato,Total potato
+3, Upazila,Area,Production,Area,Production,Area,Production
 4,Bhaluka,198,305,19,36,217,341
 5,Dhobaura,490,1294,148,541,638,1835
 6,Fulbaria,491,1037,135,67,586,1104

@@ -1,14 +1,10 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of health centre, providing health and family planning service 2011",,,,,,,
-1,"
-Upazila","Number of
-union health centre",Health service,"
-Sterilization","
-M.R.",Injection/ copper-T,Oral pill/ condom,"Number of
-immunization centre"
-2,Jhenaigati,4,51411,136,16,44074,220289,58
-3,Nakla,8,88741,185,10,27852,58852,98
-4,Nalitabari,6,45171,430,34,21748,47728,74
-5,Sherpur Sadar,13,137852,866,31,17883,48726,159
-6,Sreebardi,8,74114,841,117,10029,75585,102
-7,Total,39,397289,2458,208,121586,451180,491
+1,,,,,,,,
+2, Upazila,Number of union health centre,Health service, Sterilization, M.R.,Injection/ copper-T,Oral pill/ condom,Number of immunization centre
+3,Jhenaigati,4,51411,136,16,44074,220289,58
+4,Nakla,8,88741,185,10,27852,58852,98
+5,Nalitabari,6,45171,430,34,21748,47728,74
+6,Sherpur Sadar,13,137852,866,31,17883,48726,159
+7,Sreebardi,8,74114,841,117,10029,75585,102
+8,Total,39,397289,2458,208,121586,451180,491

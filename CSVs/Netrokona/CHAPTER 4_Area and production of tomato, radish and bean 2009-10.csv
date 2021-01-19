@@ -1,18 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2009-10",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Tomato,Tomato,Radish,Radish,Bean,Bean
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Atpara,44,63,63,112,33,51
-5,Barhatta,43,71,133,162,35,39
-6,Durgapur,104,126,268,208,77,87
-7,Kalmakanda,74,266,272,749,45,11
-8,Kendua,192,1632,29,4484,247,1200
-9,Khaliajuri,12,45,120,420,5,1
-10,Madan,123,800,86,525,62,125
-11,Mohanganj,50,400,112,900,43,85
-12,Netrokona Sadar,53,67,89,347,35,23
-13,Purbadhala,54,66,130,455,48,62
-14,Total,749,3536,1302,8362,630,1684
+2,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Bean Area,Bean Production
+3,Atpara,44,63,63,112,33,51
+4,Barhatta,43,71,133,162,35,39
+5,Durgapur,104,126,268,208,77,87
+6,Kalmakanda,74,266,272,749,45,11
+7,Kendua,192,1632,29,4484,247,1200
+8,Khaliajuri,12,45,120,420,5,1
+9,Madan,123,800,86,525,62,125
+10,Mohanganj,50,400,112,900,43,85
+11,Netrokona Sadar,53,67,89,347,35,23
+12,Purbadhala,54,66,130,455,48,62
+13,Total,749,3536,1302,8362,630,1684

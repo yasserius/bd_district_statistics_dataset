@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Number of rice mill and person engaged 2011,,,,
-1,Upazila,Unit,Person engaged,Person engaged,Person engaged
-2,Upazila,Unit,Male,Female,Total
-3,Bagerhat Sadar,16,34,41,75
-4,Kachua,22,36,43,79
-5,Rampal,32,40,10,50
-6,Sarankhola,2,8,7,15
-7,Chitalmari,26,26,56,82
-8,Morrelgonj,6,35,67,102
-9,Mongla,4,12,20,32
-10,Mollahat,4,48,27,75
-11,Fakirhat,17,19,21,40
-12,Total,129,258,292,550
+1,,,,,
+2,Upazila,Unit,Person engaged,Person engaged,Person engaged
+3,Upazila,Unit,Male,Female,Total
+4,Bagerhat Sadar,16,34,41,75
+5,Kachua,22,36,43,79
+6,Rampal,32,40,10,50
+7,Sarankhola,2,8,7,15
+8,Chitalmari,26,26,56,82
+9,Morrelgonj,6,35,67,102
+10,Mongla,4,12,20,32
+11,Mollahat,4,48,27,75
+12,Fakirhat,17,19,21,40
+13,Total,129,258,292,550

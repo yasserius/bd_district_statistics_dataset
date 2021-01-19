@@ -1,13 +1,10 @@
 ,0,1,2,3,4
 0,"Number of branch of specialized (Krishi, Co-operative etc) bank 2011",,,,
-1,Upazila,"Number of
-branch","Number of
-employee","Number of
-savings A/C","Number of
-current A/C"
-2,Gazipur Sadar,5,29,20136,652
-3,Kaliakair,3,24,19245,408
-4,Kaliganj,2,16,5478,245
-5,Kapashia,4,36,29270,1145
-6,Sreepur,2,19,1418,317
-7,Total,16,124,75547,2767
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Gazipur Sadar,5,29,20136,652
+4,Kaliakair,3,24,19245,408
+5,Kaliganj,2,16,5478,245
+6,Kapashia,4,36,29270,1145
+7,Sreepur,2,19,1418,317
+8,Total,16,124,75547,2767

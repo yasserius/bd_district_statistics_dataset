@@ -1,12 +1,10 @@
 ,0,1,2,3,4,5,6,7
 0,Number of technical personnel 2011,,,,,,,
-1,"
-Upazila",Agricultural personnel,"Live-
-stock personnel",Plant protection,Fishery personnel,Sanitary personnel,"Family
-planning personnel",Trained midwife
-2,Akkelpur,63,9,0,21,25,19,20
-3,Joypurhat sadar,67,39,0,11,31,51,17
-4,Kalai,22,8,11,4,10,69,7
-5,Khetlal,15,7,0,12,26,37,16
-6,Panchbibi,58,18,22,38,56,37,12
-7,Total,225,81,33,86,148,213,72
+1,,,,,,,,
+2, Upazila,Agricultural personnel,Live- stock personnel,Plant protection,Fishery personnel,Sanitary personnel,Family planning personnel,Trained midwife
+3,Akkelpur,63,9,0,21,25,19,20
+4,Joypurhat sadar,67,39,0,11,31,51,17
+5,Kalai,22,8,11,4,10,69,7
+6,Khetlal,15,7,0,12,26,37,16
+7,Panchbibi,58,18,22,38,56,37,12
+8,Total,225,81,33,86,148,213,72

@@ -1,18 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting cattle head 2008,,,,,,
-1,"
-Upazila","
-Total holding",Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
-2,"
-Upazila","
-Total holding",1-3 head,4-6 head,7 -9 head,10-15 head,"15 head &
-above"
-3,Azmirigonj,7003,0,0,0,0,0
-4,Bahubal,13975,12852,579,428,116,0
-5,Baniachang,19585,3650,2300,1025,663,356
-6,Chunarughat,26679,21500,16000,4000,2600,1500
-7,Habiganj Sadar,18320,22400,10050,4350,1650,0
-8,Lakhai,9879,7082,4936,3648,3219,2575
-9,Madhabpur,23615,17521,614,127,19,0
-10,Nabiganj,19124,8887,5873,4364,1289,1072
-11,Total,138180,93892,40352,17942,9556,5503
+1,,,,,,,
+2, Upazila, Total holding,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
+3, Upazila, Total holding,1-3 head,4-6 head,7 -9 head,10-15 head,15 head & above
+4,Azmirigonj,7003,0,0,0,0,0
+5,Bahubal,13975,12852,579,428,116,0
+6,Baniachang,19585,3650,2300,1025,663,356
+7,Chunarughat,26679,21500,16000,4000,2600,1500
+8,Habiganj Sadar,18320,22400,10050,4350,1650,0
+9,Lakhai,9879,7082,4936,3648,3219,2575
+10,Madhabpur,23615,17521,614,127,19,0
+11,Nabiganj,19124,8887,5873,4364,1289,1072
+12,Total,138180,93892,40352,17942,9556,5503

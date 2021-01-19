@@ -1,33 +1,13 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Non-Government health complex and health facility 2011,,,,,,,,,,
-1,"
-
-Upazila",Number of hospital/ clinic/ nursing home,"
-Number of bed","
-Number of  doctor","
-Number of nurse","
-Number of technician","Number of
-other staff",Number of patient under health facility,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility
-2,"
-
-Upazila",Number of hospital/ clinic/ nursing home,"
-Number of bed","
-Number of  doctor","
-Number of nurse","
-Number of technician","Number of
-other staff",Indoor,Indoor,Outdoor,Outdoor
-3,"
-
-Upazila",Number of hospital/ clinic/ nursing home,"
-Number of bed","
-Number of  doctor","
-Number of nurse","
-Number of technician","Number of
-other staff",Male,Female,Male,Female
-4,Bhedarganj,1,10,4,2,2,7,245,291,1157,1309
-5,Damudya,2,10,7,4,2,5,265,291,1065,1273
-6,Gosairhat,0,0,0,0,0,0,0,0,0,0
-7,Naria,2,21,6,8,4,18,870,960,4700,7950
-8,Shariatpur Sadar,0,0,0,0,0,0,0,0,0,0
-9,Zanjira,0,0,0,0,0,0,0,0,0,0
-10,Total,5,41,17,14,8,30,1380,1542,6922,10532
+1,,,,,,,,,,,
+2,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of technician,Number of other staff,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility
+3,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of technician,Number of other staff,Indoor,Indoor,Outdoor,Outdoor
+4,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of technician,Number of other staff,Male,Female,Male,Female
+5,Bhedarganj,1,10,4,2,2,7,245,291,1157,1309
+6,Damudya,2,10,7,4,2,5,265,291,1065,1273
+7,Gosairhat,0,0,0,0,0,0,0,0,0,0
+8,Naria,2,21,6,8,4,18,870,960,4700,7950
+9,Shariatpur Sadar,0,0,0,0,0,0,0,0,0,0
+10,Zanjira,0,0,0,0,0,0,0,0,0,0
+11,Total,5,41,17,14,8,30,1380,1542,6922,10532

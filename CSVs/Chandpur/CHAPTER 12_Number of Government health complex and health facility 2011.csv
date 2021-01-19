@@ -1,35 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Government health complex and health facility 2011,,,,,,,,,,
-1,"
-Upazila","Number of hospital/ clinic/ nursing
-home","
-Number of bed","
-Number of doctor","
-Number of nurse","
-Number of    technician","
-Number of other staff",Number of patient under health facility,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility
-2,"
-Upazila","Number of hospital/ clinic/ nursing
-home","
-Number of bed","
-Number of doctor","
-Number of nurse","
-Number of    technician","
-Number of other staff",Indoor,Indoor,Outdoor,Outdoor
-3,"
-Upazila","Number of hospital/ clinic/ nursing
-home","
-Number of bed","
-Number of doctor","
-Number of nurse","
-Number of    technician","
-Number of other staff",Male,Female,Male,Female
-4,Chandpur Sadar,3,260,36,55,13,60,7590,13885,66175,62882
-5,Foridganj,1,31,20,7,5,21,5343,3388,21521,10779
-6,Haimchar,1,31,11,4,2,6,1217,1510,30625,41231
-7,Hajiganj,12,50,23,10,7,127,1320,1560,17400,33000
-8,Kachua,1,50,20,10,6,129,1568,1406,34820,39178
-9,Matlab Dakshin,1,50,13,16,6,88,5947,9634,12445,14445
-10,Matlab uttar,1,31,14,5,4,112,16525,8703,22175,38225
-11,Shahrasti,20,50,8,9,6,114,1400,3700,18100,30200
-12,Total,40,553,124,116,49,657,40910,43786,223261,269940
+1,,,,,,,,,,,
+2, Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of    technician, Number of other staff,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility
+3, Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of    technician, Number of other staff,Indoor,Indoor,Outdoor,Outdoor
+4, Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of    technician, Number of other staff,Male,Female,Male,Female
+5,Chandpur Sadar,3,260,36,55,13,60,7590,13885,66175,62882
+6,Foridganj,1,31,20,7,5,21,5343,3388,21521,10779
+7,Haimchar,1,31,11,4,2,6,1217,1510,30625,41231
+8,Hajiganj,12,50,23,10,7,127,1320,1560,17400,33000
+9,Kachua,1,50,20,10,6,129,1568,1406,34820,39178
+10,Matlab Dakshin,1,50,13,16,6,88,5947,9634,12445,14445
+11,Matlab uttar,1,31,14,5,4,112,16525,8703,22175,38225
+12,Shahrasti,20,50,8,9,6,114,1400,3700,18100,30200
+13,Total,40,553,124,116,49,657,40910,43786,223261,269940

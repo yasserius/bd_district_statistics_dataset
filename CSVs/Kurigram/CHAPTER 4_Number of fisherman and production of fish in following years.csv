@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
-2,Upazila,2010-11,2010-11,2009-10,2009-10
-3,Upazila,Number,Production,Number,Production
-4,Bhurungamari,662,627,650,613
-5,Char Rajibpur,820,206,850,178
-6,Chilmari,915,2515,513,1385
-7,Kurigram Sadar,4100,1675,4492,1865
-8,Nageshwari,2300,5507,2095,2534
-9,Phulbari,625,890,532,850
-10,Rajarhat,253,1846,264,1927
-11,Raumari,375,14,375,14
-12,Ulipur,2050,1598,1975,1480
-13,Total,12100,14877,11746,10845
+1,,,,,
+2,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
+3,Upazila,2010-11,2010-11,2009-10,2009-10
+4,Upazila,Number,Production,Number,Production
+5,Bhurungamari,662,627,650,613
+6,Char Rajibpur,820,206,850,178
+7,Chilmari,915,2515,513,1385
+8,Kurigram Sadar,4100,1675,4492,1865
+9,Nageshwari,2300,5507,2095,2534
+10,Phulbari,625,890,532,850
+11,Rajarhat,253,1846,264,1927
+12,Raumari,375,14,375,14
+13,Ulipur,2050,1598,1975,1480
+14,Total,12100,14877,11746,10845

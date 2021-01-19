@@ -1,10 +1,8 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2010-11,,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Potato,Potato,Sweet potato,Sweet potato,Total potato,Total potato
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
+2, Upazila,Potato,Potato,Sweet potato,Sweet potato,Total potato,Total potato
+3, Upazila,Area,Production,Area,Production,Area,Production
 4,Harinakunda,264,1848,22,8,264,1848
 5,Jhenaidah Sadar,195,1317,47,17,195,1317
 6,Kaliganj,416,2659,23,82,439,2741

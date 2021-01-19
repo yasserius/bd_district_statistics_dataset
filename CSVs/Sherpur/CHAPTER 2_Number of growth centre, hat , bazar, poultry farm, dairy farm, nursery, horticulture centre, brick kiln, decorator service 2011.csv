@@ -1,16 +1,10 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of growth centre, hat , bazar, poultry farm, dairy farm, nursery, horticulture centre, brick kiln, decorator service 2011",,,,,,,,
-1,Upazila,"Growth
-centre","Hat
-/bazar","Poultry
-farm","Dairy
-farm",Nursery,"Horticulture
-centre","Brick
-kiln","Decorator
-service"
-2,Jhenaigati,6,22,206,267,15,0,0,12
-3,Nakla,6,26,122,110,13,0,2,21
-4,Nalitabari,5,31,138,16,47,0,0,15
-5,Sherpur Sadar,5,39,89,103,40,0,20,67
-6,Sreebardi,4,30,17,19,18,0,1,20
-7,Total,26,148,572,515,133,0,23,135
+1,,,,,,,,,
+2,Upazila,Growth centre,Hat /bazar,Poultry farm,Dairy farm,Nursery,Horticulture centre,Brick kiln,Decorator service
+3,Jhenaigati,6,22,206,267,15,0,0,12
+4,Nakla,6,26,122,110,13,0,2,21
+5,Nalitabari,5,31,138,16,47,0,0,15
+6,Sherpur Sadar,5,39,89,103,40,0,20,67
+7,Sreebardi,4,30,17,19,18,0,1,20
+8,Total,26,148,572,515,133,0,23,135

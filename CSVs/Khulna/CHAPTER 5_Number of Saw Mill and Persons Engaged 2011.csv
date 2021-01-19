@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of Saw Mill and Persons Engaged 2011,,,,
-1,"
-Upazila/city corporation","
-Units",Persons engaged,Persons engaged,Persons engaged
-2,"
-Upazila/city corporation","
-Units",Family,Hired,Total
+1,,,,,
+2,Upazila/city corporation,Units,Persons engaged Family,Persons engaged Hired,Persons engaged Total
 3,Batiaghata,15,15,45,60
 4,Dacope,11,11,55,66
 5,Dighalia,11,20,40,60

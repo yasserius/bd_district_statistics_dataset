@@ -1,17 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Number of fire service unit & casualty by municipality, city corporation 2011",,,,,,
-1,,,,,Monetary,,
-2,Municipality /city,Fire service,Persons,Fire,loss,Persons,Persons
-3,corporation,unit,employed,cases,(in thousand,dead,injured
-4,,,,,taka),,
-5,Bagha,0,0,0,0,0,0
-6,Baghmara,0,0,0,0,0,0
-7,Charghat,1,0,0,0,0,0
-8,Durgapur,0,0,0,0,0,0
-9,Godagari,1,22,0,0,0,0
-10,Mohanpur,0,0,0,0,0,0
-11,Paba,0,0,0,0,0,0
-12,Puthia,1,19,73,268500,0,53
-13,Rajshahi city corporation,0,0,0,0,0,0
-14,Tanore,1,24,19,260000,0,0
-15,Total,4,65,92,528500,0,53
+1,,,,,,,
+2,Municipality /city corporation ,Fire service unit ,Persons employed ,Fire cases ,Monetary loss (in thousand taka),Persons dead ,Persons injured 
+3,Bagha,0,0,0,0,0,0
+4,Baghmara,0,0,0,0,0,0
+5,Charghat,1,0,0,0,0,0
+6,Durgapur,0,0,0,0,0,0
+7,Godagari,1,22,0,0,0,0
+8,Mohanpur,0,0,0,0,0,0
+9,Paba,0,0,0,0,0,0
+10,Puthia,1,19,73,268500,0,53
+11,Rajshahi city corporation,0,0,0,0,0,0
+12,Tanore,1,24,19,260000,0,0
+13,Total,4,65,92,528500,0,53

@@ -1,17 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Number and area of pond, dighee and other area 2010-2011",,,,,,
-1,(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre)
-2,"
-Upazila",Pond,Pond,Dighee,Dighee,"
-Other area","
-Total area"
-3,"
-Upazila",Number,Area,Number,Area,"
-Other area","
-Total area"
-4,Gopalganj Sadar,5690,6916,2,75,3361,10352
-5,Kashiani,1256,443,6,8,1022,1471
-6,Kotalipara,5118,2500,16,70,87,1933
-7,Muksudpur,3612,1279,12,49,15309,13637
-8,Tungipara,1001,1083,1,12,36,1131
-9,Total,16677,12221,37,214,19815,28524
+1,,,,,,,
+2,(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre)
+3, Upazila,Pond,Pond,Dighee,Dighee, Other area, Total area
+4, Upazila,Number,Area,Number,Area, Other area, Total area
+5,Gopalganj Sadar,5690,6916,2,75,3361,10352
+6,Kashiani,1256,443,6,8,1022,1471
+7,Kotalipara,5118,2500,16,70,87,1933
+8,Muksudpur,3612,1279,12,49,15309,13637
+9,Tungipara,1001,1083,1,12,36,1131
+10,Total,16677,12221,37,214,19815,28524

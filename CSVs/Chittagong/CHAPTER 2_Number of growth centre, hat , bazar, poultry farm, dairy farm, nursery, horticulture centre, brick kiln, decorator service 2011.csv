@@ -1,27 +1,20 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of growth centre, hat , bazar, poultry farm, dairy farm, nursery, horticulture centre, brick kiln, decorator service 2011",,,,,,,,
-1,"Upazila/City
-corporation","Growth
-centre","Hat
-/bazar","Poultry
-farm","Dairy
-farm",Nursery,"Horticulture
-centre","Brick
-kiln","Decorator
-service"
-2,Anowara,5,28,522,63,7,0,0,39
-3,Banshkhali,9,35,21,13,27,0,3,3
-4,Boalkhali,6,24,280,60,15,2,9,83
-5,Chandanaish,0,22,82,54,5,0,31,55
-6,Chittagong City Corp,00,81,186,159,83,01,10,208
-7,Fatikchhari,2,56,270,2,17,0,39,120
-8,Hathazari,3,36,43,17,2,2,10,106
-9,Lohagara,0,20,585,21,0,0,5,30
-10,Mirsharai,20,38,44,9,30,0,12,90
-11,Patiya,12,36,343,72,31,4,18,210
-12,Rangunia,13,22,256,76,30,0,91,85
-13,Raozan,5,26,94,30,36,0,44,119
-14,Sandwip,0,42,257,67,10,2,6,42
-15,Satkania,4,24,3500,14810,16,0,45,83
-16,Sitakunda,6,23,397,43,14,0,22,67
-17,Total,112,513,6880,15496,323,11,345,1340
+1,,,,,,,,,
+2,Upazila/City corporation,Growth centre,Hat /bazar,Poultry farm,Dairy farm,Nursery,Horticulture centre,Brick kiln,Decorator service
+3,Anowara,5,28,522,63,7,0,0,39
+4,Banshkhali,9,35,21,13,27,0,3,3
+5,Boalkhali,6,24,280,60,15,2,9,83
+6,Chandanaish,0,22,82,54,5,0,31,55
+7,Chittagong City Corp,00,81,186,159,83,01,10,208
+8,Fatikchhari,2,56,270,2,17,0,39,120
+9,Hathazari,3,36,43,17,2,2,10,106
+10,Lohagara,0,20,585,21,0,0,5,30
+11,Mirsharai,20,38,44,9,30,0,12,90
+12,Patiya,12,36,343,72,31,4,18,210
+13,Rangunia,13,22,256,76,30,0,91,85
+14,Raozan,5,26,94,30,36,0,44,119
+15,Sandwip,0,42,257,67,10,2,6,42
+16,Satkania,4,24,3500,14810,16,0,45,83
+17,Sitakunda,6,23,397,43,14,0,22,67
+18,Total,112,513,6880,15496,323,11,345,1340

@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,Upazila,Number of pump fielded,Number of pump fielded,Number of pump fielded,Area irrigated (in acre)
-2,Upazila,Electric,Diesel,Total,Area irrigated (in acre)
-3,Badarganj,2450,4925,7375,36864
-4,Gangachara,818,7520,8338,42165
-5,Kaunia,2650,2315,4965,33204
-6,Mithapukur,1102,16912,18014,87796
-7,Pirgachha,1471,6529,8000,47689
-8,Pirganj,1473,11000,12473,56933
-9,Rangpur sadar,1810,10900,12710,70570
-10,Taraganj,1500,5600,7100,28900
-11,Total,13274,65701,78975,404121
+1,,,,,
+2,Upazila,Number of pump fielded,Number of pump fielded,Number of pump fielded,Area irrigated (in acre)
+3,Upazila,Electric,Diesel,Total,Area irrigated (in acre)
+4,Badarganj,2450,4925,7375,36864
+5,Gangachara,818,7520,8338,42165
+6,Kaunia,2650,2315,4965,33204
+7,Mithapukur,1102,16912,18014,87796
+8,Pirgachha,1471,6529,8000,47689
+9,Pirganj,1473,11000,12473,56933
+10,Rangpur sadar,1810,10900,12710,70570
+11,Taraganj,1500,5600,7100,28900
+12,Total,13274,65701,78975,404121

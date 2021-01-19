@@ -1,18 +1,15 @@
 ,0,1,2,3,4
 0,Area and Production of turmeric and ginger 2010-11,,,,
 1,(Area in acre & production in metric ton),,,,
-2,"
-Upazila/city corporation",Turmeric,Turmeric,Ginger,Ginger
-3,"
-Upazila/city corporation",Area,Production,Area,Production
-4,Batiaghata,23,14.78,3,1.85
-5,Dacope,3,3.82,0,0
-6,Dighalia,23,102,6,10
-7,Dumuria,161,591.95,25,38.86
-8,Khulna City Corporation,1,1,0,0
-9,Koyra,12,29.55,5,10.25
-10,Paikgachha,276,424.5,6,3.25
-11,Phultala,19,152.8,2,11.1
-12,Rupsa,20,45.29,1.6,1.16
-13,Terokhada,3,4,3.5,3.5
-14,Total,541,1369.69,52.1,79.97
+2,Upazila/city corporation,Turmeric Area,Turmeric Production,Ginger Area,Ginger Production
+3,Batiaghata,23,14.78,3,1.85
+4,Dacope,3,3.82,0,0
+5,Dighalia,23,102,6,10
+6,Dumuria,161,591.95,25,38.86
+7,Khulna City Corporation,1,1,0,0
+8,Koyra,12,29.55,5,10.25
+9,Paikgachha,276,424.5,6,3.25
+10,Phultala,19,152.8,2,11.1
+11,Rupsa,20,45.29,1.6,1.16
+12,Terokhada,3,4,3.5,3.5
+13,Total,541,1369.69,52.1,79.97

@@ -1,23 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,"
-
-Upazila",Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-
-Upazila",Number of branch of all private commercial banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,"Number of
-borrower","Number of
-borrower","Total debt
-(crore tk)","Total debt
-(crore tk)"
-3,"
-
-Upazila",Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Assasuni,4,260,0,0,0,515,850,775,850,12,15
-5,Debhata,2,0,4859,0,0,0,0,0,4856,0,5
-6,Kalaroa,2,3200,13420,0,0,1342,2570,4542,15990,40,24
-7,Kaliganj,3,105,0,0,0,0,0,105,0,25,0
-8,Satkhira Sadar,14,8500,1200,4010,0,10020,1300,22530,2500,59,1
-9,Shyamnagar,1,87,0,0,0,38,4,125,4,0,0
-10,Tala,3,250,4982,0,0,550,130,800,5112,19,2
-11,Total,29,12402,24461,4010,0,12465,4854,28877,29312,155,47
+1,,,,,,,,,,,,
+2,  Upazila,Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3,  Upazila,Number of branch of all private commercial banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
+4,  Upazila,Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+5,Assasuni,4,260,0,0,0,515,850,775,850,12,15
+6,Debhata,2,0,4859,0,0,0,0,0,4856,0,5
+7,Kalaroa,2,3200,13420,0,0,1342,2570,4542,15990,40,24
+8,Kaliganj,3,105,0,0,0,0,0,105,0,25,0
+9,Satkhira Sadar,14,8500,1200,4010,0,10020,1300,22530,2500,59,1
+10,Shyamnagar,1,87,0,0,0,38,4,125,4,0,0
+11,Tala,3,250,4982,0,0,550,130,800,5112,19,2
+12,Total,29,12402,24461,4010,0,12465,4854,28877,29312,155,47

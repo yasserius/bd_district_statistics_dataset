@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,Use of chemical fertilizer 2010-11,,,,,
-1,Upazila,UREA,TSP,MP,DAP,Others
-2,Gopalganj Sadar,4810,1080,1810,1960,690
-3,Kashiani,4505,1669,1404,914,3470
-4,Kotalipara,3915,2050,1650,960,250
-5,Muksudpur,59100,1942,1380,964,0
-6,Tungipara,2090,278,239,274,91
-7,Total,74420,7019,6483,5072,4501
+1,,,,,,
+2,Upazila,UREA,TSP,MP,DAP,Others
+3,Gopalganj Sadar,4810,1080,1810,1960,690
+4,Kashiani,4505,1669,1404,914,3470
+5,Kotalipara,3915,2050,1650,960,250
+6,Muksudpur,59100,1942,1380,964,0
+7,Tungipara,2090,278,239,274,91
+8,Total,74420,7019,6483,5072,4501

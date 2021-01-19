@@ -1,14 +1,11 @@
 ,0,1,2,3,4
 0,Area and production of cauliflower and cucumber 2010-11,,,,
 1,(Area in acre and production in metric ton),,,,
-2,"
-Upazila",Cauliflower,Cauliflower,Cucumber,Cucumber
-3,"
-Upazila",Area,Production,Area,Production
-4,Harinakunda,123,492,101,303
-5,Jhenaidah Sadar,203,1078,42,130
-6,Kaliganj,157,539,89,376
-7,Kotchandpur,117,415,33,118
-8,Mahespur,130,689,70,259
-9,Shailkupa,267,1121,56,95
-10,Total,997,4334,391,1281
+2,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
+3,Harinakunda,123,492,101,303
+4,Jhenaidah Sadar,203,1078,42,130
+5,Kaliganj,157,539,89,376
+6,Kotchandpur,117,415,33,118
+7,Mahespur,130,689,70,259
+8,Shailkupa,267,1121,56,95
+9,Total,997,4334,391,1281

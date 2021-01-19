@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,Upazila,Number of insurance company,Number of employee,Number of client
-2,Abhaynagar,13,52,26221
-3,Bagherpara,2,138,14636
-4,Chaugachha,8,24,1920
-5,Jessore Sadar,46,462,19706
-6,Jhikargachha,19,323,10530
-7,Keshabpur,11,90,39995
-8,Manirampur,10,55,450
-9,Sharsha,18,610,32495
-10,Total,127,1754,145953
+1,,,,
+2,Upazila,Number of insurance company,Number of employee,Number of client
+3,Abhaynagar,13,52,26221
+4,Bagherpara,2,138,14636
+5,Chaugachha,8,24,1920
+6,Jessore Sadar,46,462,19706
+7,Jhikargachha,19,323,10530
+8,Keshabpur,11,90,39995
+9,Manirampur,10,55,450
+10,Sharsha,18,610,32495
+11,Total,127,1754,145953

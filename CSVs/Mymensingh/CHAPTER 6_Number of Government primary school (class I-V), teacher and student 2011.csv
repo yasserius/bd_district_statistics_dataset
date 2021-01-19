@@ -1,21 +1,18 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Government primary school (class I-V), teacher and student 2011",,,,,,,,
-1,"
-Upazila","Number of Government
-primary school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila","Number of Government
-primary school",Male,Female,Total,Male,Female,Total,Students per teacher
-3,Bhaluka,94,217,303,520,13601,14714,28315,54
-4,Dhubaura,43,116,132,248,8733,10255,18988,77
-5,Fulbaria,104,214,370,584,20091,19059,39150,67
-6,Gaffargaon,160,331,483,814,30312,29406,56718,70
-7,Gauripur,90,219,272,491,14269,14589,28858,59
-8,Haluaghat,65,139,239,378,13796,13682,27408,73
-9,Ishwargonj,88,192,278,470,19022,21286,40308,86
-10,Muktagacha,101,220,376,596,20888,20612,41500,70
-11,Mymensingh Sadar,132,162,632,794,26454,29475,56079,71
-12,Nandail,115,259,342,601,20485,22457,42942,71
-13,Phulpur,133,217,455,672,38183,37094,74277,111
-14,Trishal,120,254,388,642,18183,20458,38641,60
-15,Total,1245,2540,4270,6810,244017,253087,493184,72
+1,,,,,,,,,
+2, Upazila,Number of Government primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of Government primary school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Bhaluka,94,217,303,520,13601,14714,28315,54
+5,Dhubaura,43,116,132,248,8733,10255,18988,77
+6,Fulbaria,104,214,370,584,20091,19059,39150,67
+7,Gaffargaon,160,331,483,814,30312,29406,56718,70
+8,Gauripur,90,219,272,491,14269,14589,28858,59
+9,Haluaghat,65,139,239,378,13796,13682,27408,73
+10,Ishwargonj,88,192,278,470,19022,21286,40308,86
+11,Muktagacha,101,220,376,596,20888,20612,41500,70
+12,Mymensingh Sadar,132,162,632,794,26454,29475,56079,71
+13,Nandail,115,259,342,601,20485,22457,42942,71
+14,Phulpur,133,217,455,672,38183,37094,74277,111
+15,Trishal,120,254,388,642,18183,20458,38641,60
+16,Total,1245,2540,4270,6810,244017,253087,493184,72

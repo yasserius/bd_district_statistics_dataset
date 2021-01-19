@@ -1,13 +1,7 @@
 ,0,1,2,3,4
 0,Number of co-operative society and member 2011,,,,
-1,"
-Upazila","Number of
-co-operative society",Number of members,Number of members,"
-Both sex"
-2,"
-Upazila","Number of
-co-operative society",Male,Female,"
-Both sex"
+1,,,,,
+2,Upazila,Number of co-operative society,Number of members Male,Number of members Female,Both sex
 3,Basail,320,12138,4296,16434
 4,Bhuapur,272,12429,516,12945
 5,Delduar,56,3769,310,4079

@@ -1,13 +1,12 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
-2,"
-Upazila",2010-11,2010-11,2009-10,2009-10
-3,"
-Upazila",Number,Production,Number,Production
-4,Baliakandi,275,1950,262,1880
-5,Goalanda,1218,8,1050,7
-6,Kalukhali,132,194,93,183
-7,Pangsha,208,306,147,287
-8,Rajbari Sadar,4350,1118,4330,1106
-9,Total,6183,3576,5882,3463
+1,,,,,
+2,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
+3, Upazila,2010-11,2010-11,2009-10,2009-10
+4, Upazila,Number,Production,Number,Production
+5,Baliakandi,275,1950,262,1880
+6,Goalanda,1218,8,1050,7
+7,Kalukhali,132,194,93,183
+8,Pangsha,208,306,147,287
+9,Rajbari Sadar,4350,1118,4330,1106
+10,Total,6183,3576,5882,3463

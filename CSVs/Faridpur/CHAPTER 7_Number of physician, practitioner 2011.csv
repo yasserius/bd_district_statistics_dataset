@@ -1,15 +1,14 @@
 ,0,1,2,3,4,5
 0,"Number of physician, practitioner 2011",,,,,
-1,Upazila,Physician,"MBBS,
-FCPS/over",L.M.F,"Unani /
-ayurbedic",Homeopathy
-2,Alfadanga,16,5,3,3,5
-3,Bhanga,90,18,6,7,59
-4,Boalmari,81,12,8,4,57
-5,Charbhadrashon,16,5,9,1,7
-6,Faridpur Sadar,315,120,64,19,112
-7,Madhukhali,47,5,10,2,30
-8,Nagarkanda,87,3,36,5,43
-9,Sadarpur,22,5,4,2,11
-10,Saltha,43,2,10,2,31
-11,Total,717,175,150,45,355
+1,,,,,,
+2,Upazila,Physician,"MBBS, FCPS/over",L.M.F,Unani / ayurbedic,Homeopathy
+3,Alfadanga,16,5,3,3,5
+4,Bhanga,90,18,6,7,59
+5,Boalmari,81,12,8,4,57
+6,Charbhadrashon,16,5,9,1,7
+7,Faridpur Sadar,315,120,64,19,112
+8,Madhukhali,47,5,10,2,30
+9,Nagarkanda,87,3,36,5,43
+10,Sadarpur,22,5,4,2,11
+11,Saltha,43,2,10,2,31
+12,Total,717,175,150,45,355

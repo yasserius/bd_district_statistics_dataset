@@ -1,18 +1,16 @@
 ,0,1,2,3,4,5,6
 0,Daily average wage rate of construction labour 2011,,,,,,
-1,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
-2,"
-Upazila",Labour,Labour,Labour,Labour,Labour,Labour
-3,"
-Upazila",Mason,"Helper
-(Jogaly)",Carpenter,Colour,Electric,Plumber
-4,Alfadanga,400,300,500,500,500,500
-5,Bhanga,350,280,300,300,350,400
-6,Boalmari,350,250,400,350,400,500
-7,Charbhadrashon,400,250,350,400,400,350
-8,Faridpur Sadar,400,250,400,400,400,400
-9,Madhukhali,300,200,300,300,500,300
-10,Nagarkanda,400,300,500,400,500,500
-11,Sadarpur,300,200,300,300,350,450
-12,Saltha,400,300,400,400,500,500
-13,Average,367,259,383,372,433,433
+1,,,,,,,
+2,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
+3, Upazila,Labour,Labour,Labour,Labour,Labour,Labour
+4, Upazila,Mason,Helper (Jogaly),Carpenter,Colour,Electric,Plumber
+5,Alfadanga,400,300,500,500,500,500
+6,Bhanga,350,280,300,300,350,400
+7,Boalmari,350,250,400,350,400,500
+8,Charbhadrashon,400,250,350,400,400,350
+9,Faridpur Sadar,400,250,400,400,400,400
+10,Madhukhali,300,200,300,300,500,300
+11,Nagarkanda,400,300,500,400,500,500
+12,Sadarpur,300,200,300,300,350,450
+13,Saltha,400,300,400,400,500,500
+14,Average,367,259,383,372,433,433

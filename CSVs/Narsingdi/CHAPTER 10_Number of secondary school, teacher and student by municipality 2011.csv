@@ -1,12 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of secondary school, teacher and student by municipality 2011",,,,,,,,
-1,"
-Upazila",Number of  institute,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of  institute,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Manohardi,2,40,13,53,767,1214,1981,37
-4,Narsingdi Sadar,12,199,111,310,5339,6440,11779,38
-5,Palash,8,110,48,158,2147,2168,4315,27
-6,Roypura,3,45,19,64,2868,1836,4704,73
-7,Sibpur,3,44,11,55,478,1286,1764,32
-8,Total,28,438,202,640,11599,12944,24543,38
+1,,,,,,,,,
+2, Upazila,Number of  institute,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of  institute,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Manohardi,2,40,13,53,767,1214,1981,37
+5,Narsingdi Sadar,12,199,111,310,5339,6440,11779,38
+6,Palash,8,110,48,158,2147,2168,4315,27
+7,Roypura,3,45,19,64,2868,1836,4704,73
+8,Sibpur,3,44,11,55,478,1286,1764,32
+9,Total,28,438,202,640,11599,12944,24543,38

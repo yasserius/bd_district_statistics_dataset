@@ -1,16 +1,15 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in Metric Ton),(Production in Metric Ton),(Production in Metric Ton),(Production in Metric Ton),(Production in Metric Ton)
-2,"
-Upazila",2010-11,2010-11,2009-10,2009-10
-3,"
-Upazila",Number,Production,Number,Production
-4,Chakaria,870,5,860,4
-5,Cox's Bazar Sadar,5895,25700,5483,24125
-6,Kutubdia,5500,659165,5400,626579
-7,Moheshkhali,40000,15000,35000,14000
-8,Pekua,3250,659,3185,499
-9,Ramu,450,600,450,566
-10,Teknaf,22000,860,21500,8597
-11,Ukhia,600,4870,520,4710
-12,Total,78565,706859,72398,679080
+1,,,,,
+2,(Production in Metric Ton),(Production in Metric Ton),(Production in Metric Ton),(Production in Metric Ton),(Production in Metric Ton)
+3, Upazila,2010-11,2010-11,2009-10,2009-10
+4, Upazila,Number,Production,Number,Production
+5,Chakaria,870,5,860,4
+6,Cox's Bazar Sadar,5895,25700,5483,24125
+7,Kutubdia,5500,659165,5400,626579
+8,Moheshkhali,40000,15000,35000,14000
+9,Pekua,3250,659,3185,499
+10,Ramu,450,600,450,566
+11,Teknaf,22000,860,21500,8597
+12,Ukhia,600,4870,520,4710
+13,Total,78565,706859,72398,679080

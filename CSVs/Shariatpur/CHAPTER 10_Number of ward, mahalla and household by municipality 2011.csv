@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,"Number of ward, mahalla and household by municipality 2011",,,,,
-1,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
-2,Bhedarganj,Bhedarganj,9,12,1712,1791
-3,Damudya,Damudya,9,11,3218,3274
-4,Gosairhat,-,-,-,-,-
-5,Naria,Naria,9,27,4911,4957
-6,Shariatpur Sadar,Shariatpur,9,27,10759,10908
-7,Zanjira,Zanjira,9,19,3616,4434
-8,Total,,45,96,24216,25364
+1,,,,,,
+2,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
+3,Bhedarganj,Bhedarganj,9,12,1712,1791
+4,Damudya,Damudya,9,11,3218,3274
+5,Gosairhat,-,-,-,-,-
+6,Naria,Naria,9,27,4911,4957
+7,Shariatpur Sadar,Shariatpur,9,27,10759,10908
+8,Zanjira,Zanjira,9,19,3616,4434
+9,Total,,45,96,24216,25364

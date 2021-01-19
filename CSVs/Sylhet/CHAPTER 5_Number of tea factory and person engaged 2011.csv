@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Number of tea factory and person engaged 2011,,,,
-1,Upazila/City corporation,"
-Units",Person engaged,Person engaged,Person engaged
-2,Upazila/City corporation,"
-Units",Male,Female,Total
+1,,,,,
+2,Upazila/City corporation,Units,Person engaged Male,Person engaged Female,Person engaged Total
 3,Balaganj,0,0,0,0
 4,Beanibazar,0,0,0,0
 5,Bishwanath,0,0,0,0

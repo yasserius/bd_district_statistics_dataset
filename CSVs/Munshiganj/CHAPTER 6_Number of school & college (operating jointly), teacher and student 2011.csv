@@ -1,13 +1,7 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of school & college (operating jointly), teacher and student 2011",,,,,,,,
-1,"
-Upazila","Number
-of  Institute",Number of teacher,Number of student,"Students per
-teacher",,,,
-2,"
-Upazila","Number
-of  Institute",Male	I Female I Total,Male	I Female   I	Total,"Students per
-teacher",,,,
+1,,,,,,,,,
+2,Upazila,Number of Institute,Number of teacher MaleI Female I Total,Number of student MaleI Female ITotal,Students per teacher,,,,
 3,Gazaria,29,240,93,333,5673,5851,11524,35
 4,Laubajang,0,0,0,0,0,0,0,0
 5,Munshiganj Sadar,1,31,14,45,723,348,1071,24

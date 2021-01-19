@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building material 2011,,,,,,
-1,(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka)
-2,Upazila,Brick-01 (per1000),Cement (per 50 kg bag),Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
-3,Amtali,7000,420,68500,32,12,90
-4,Bamna,6000,430,62000,32,12,120
-5,Barguna Sadar,7000,425,66500,35,12,100
-6,Betagi,7000,420,62000,35,12,95
-7,Patharghata,6200,430,63000,40,14,130
-8,Average,6640,425,64400,35,12,107
+1,,,,,,,
+2,(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka)
+3,Upazila,Brick-01 (per1000),Cement (per 50 kg bag),Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
+4,Amtali,7000,420,68500,32,12,90
+5,Bamna,6000,430,62000,32,12,120
+6,Barguna Sadar,7000,425,66500,35,12,100
+7,Betagi,7000,420,62000,35,12,95
+8,Patharghata,6200,430,63000,40,14,130
+9,Average,6640,425,64400,35,12,107

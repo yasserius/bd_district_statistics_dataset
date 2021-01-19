@@ -1,14 +1,10 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Sonali and Janata bank 2011,,,,,,,,,,
-1,"
-Upazila",Sonali Bank,Sonali Bank,Sonali Bank,Sonali Bank,Sonali Bank,Janata Bank,Janata Bank,Janata Bank,Janata Bank,Janata Bank
-2,"
-Upazila",Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
-3,"
-Upazila",Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
-4,Kamalnagar,2,16500,1120,118,26,0,0,0,0,0
-5,Lakshmipur Sadar,3,19197,1813,386,51,2,9300,475,171,40
-6,Ramganj,2,9660,206,395,22,2,406,8,84,0
-7,Ramgati,2,12871,531,59,66,1,7716,994,118,30
-8,Roypur,3,12483,883,286,71,2,892,182,36,3
-9,Total,12,70711,4553,1244,236,7,18314,1659,409,73
+1,,,,,,,,,,,
+2,Upazila,Sonali Bank Number of branch Number of branch,Sonali Bank Account S.D,Sonali Bank Account C.D,Sonali Bank Account F.D,Sonali Bank Account S.T.D,Janata Bank Number of branch Number of branch,Janata Bank Account S.D,Janata Bank Account C.D,Janata Bank Account F.D,Janata Bank Account S.T.D
+3,Kamalnagar,2,16500,1120,118,26,0,0,0,0,0
+4,Lakshmipur Sadar,3,19197,1813,386,51,2,9300,475,171,40
+5,Ramganj,2,9660,206,395,22,2,406,8,84,0
+6,Ramgati,2,12871,531,59,66,1,7716,994,118,30
+7,Roypur,3,12483,883,286,71,2,892,182,36,3
+8,Total,12,70711,4553,1244,236,7,18314,1659,409,73

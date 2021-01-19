@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
+1,,,,,
+2,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Dighinala,112,112,336,448
 4,Khagrachhari Sadar,77,82,308,390
 5,Laxshmichhari,2,2,8,10

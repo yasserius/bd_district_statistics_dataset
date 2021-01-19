@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
-2,Basail,4,8,0,6,15
-3,Bhuapur,2,2,0,12,17
-4,Delduar,13,13,0,26,26
-5,Dhanbari,3,11,0,8,15
-6,Ghatail,7,19,0,10,23
-7,Gopalpur,4,16,0,8,19
-8,Kalihati,26,26,0,52,73
-9,Madhupur,11,3,0,11,11
-10,Mirzapur,6,7,11,14,27
-11,Nagarpur,6,6,18,12,30
-12,Sakhipur,12,12,0,12,28
-13,Tangail Sadar,7,32,32,19,106
-14,Total,101,155,61,190,390
+1,,,,,,
+2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Basail,4,8,0,6,15
+4,Bhuapur,2,2,0,12,17
+5,Delduar,13,13,0,26,26
+6,Dhanbari,3,11,0,8,15
+7,Ghatail,7,19,0,10,23
+8,Gopalpur,4,16,0,8,19
+9,Kalihati,26,26,0,52,73
+10,Madhupur,11,3,0,11,11
+11,Mirzapur,6,7,11,14,27
+12,Nagarpur,6,6,18,12,30
+13,Sakhipur,12,12,0,12,28
+14,Tangail Sadar,7,32,32,19,106
+15,Total,101,155,61,190,390

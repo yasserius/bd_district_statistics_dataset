@@ -1,15 +1,12 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,"
-Upazila","
-Current fallow",Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Productivity of crop
-2,"
-Upazila","
-Current fallow",Single,Double,Triple,Net,Gross,Productivity of crop
-3,Dimla,421,4964,35587,11878,52429,111772,213
-4,Domar,154,1544,32028,13028,46600,104684,225
-5,Jaldhaka,222,7170,15395,26535,49100,117565,239
-6,Kishorgonj,85,2082,22611,11365,36058,81399,226
-7,Nilphamary Sadar,69,5511,43960,20273,69744,154250,221
-8,Sayedpur,62,1272,13186,6548,21006,47288,225
-9,Total,1013,22543,162767,89627,274937,616958,224
+1,,,,,,,,
+2, Upazila, Current fallow,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Productivity of crop
+3, Upazila, Current fallow,Single,Double,Triple,Net,Gross,Productivity of crop
+4,Dimla,421,4964,35587,11878,52429,111772,213
+5,Domar,154,1544,32028,13028,46600,104684,225
+6,Jaldhaka,222,7170,15395,26535,49100,117565,239
+7,Kishorgonj,85,2082,22611,11365,36058,81399,226
+8,Nilphamary Sadar,69,5511,43960,20273,69744,154250,221
+9,Sayedpur,62,1272,13186,6548,21006,47288,225
+10,Total,1013,22543,162767,89627,274937,616958,224

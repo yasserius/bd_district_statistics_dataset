@@ -1,14 +1,12 @@
 ,0,1,2,3,4,5,6,7
 0,Number of jute mill and number of worker 2011,,,,,,,
-1,"
-Upazila",Number of mill,Number of loom (installed),Number of loom,Number of loom,Number of worker,Number of worker,Number of worker
-2,"
-Upazila",Number of mill,Number of loom (installed),Operative,"Non-
-operational",permanent,Temporary,Total
-3,Harinakunda,0,0,0,0,0,0,0
-4,Jhenaidah Sadar,1,75,50,25,760,110,870
-5,Kaliganj,0,0,0,0,0,0,0
-6,Kotchandpur,0,0,0,0,0,0,0
-7,Mahespur,0,0,0,0,0,0,0
-8,Shailkupa,0,0,0,0,0,0,0
-9,Total,1,75,50,25,760,110,870
+1,,,,,,,,
+2, Upazila,Number of mill,Number of loom (installed),Number of loom,Number of loom,Number of worker,Number of worker,Number of worker
+3, Upazila,Number of mill,Number of loom (installed),Operative,Non- operational,permanent,Temporary,Total
+4,Harinakunda,0,0,0,0,0,0,0
+5,Jhenaidah Sadar,1,75,50,25,760,110,870
+6,Kaliganj,0,0,0,0,0,0,0
+7,Kotchandpur,0,0,0,0,0,0,0
+8,Mahespur,0,0,0,0,0,0,0
+9,Shailkupa,0,0,0,0,0,0,0
+10,Total,1,75,50,25,760,110,870

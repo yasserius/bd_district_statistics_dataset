@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Number of bridge, baily bridge, culvert, pool, shako and others 2011",,,,,,
-1,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
-2,Bagerhat Sadar,9,2,73,23,37,0
-3,Kachua,9,4,227,137,246,0
-4,Rampal,6,2,76,19,54,23
-5,Sarankhola,314,2,160,56,80,16
-6,Chitalmari,10,1,219,89,85,0
-7,Morrelgonj,217,9,447,250,1015,0
-8,Mongla,40,2,229,56,13,0
-9,Mollahat,18,4,283,35,43,15
-10,Fakirhat,50,1,351,70,15,0
-11,Total,673,27,2065,735,1588,54
+1,,,,,,,
+2,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
+3,Bagerhat Sadar,9,2,73,23,37,0
+4,Kachua,9,4,227,137,246,0
+5,Rampal,6,2,76,19,54,23
+6,Sarankhola,314,2,160,56,80,16
+7,Chitalmari,10,1,219,89,85,0
+8,Morrelgonj,217,9,447,250,1015,0
+9,Mongla,40,2,229,56,13,0
+10,Mollahat,18,4,283,35,43,15
+11,Fakirhat,50,1,351,70,15,0
+12,Total,673,27,2065,735,1588,54

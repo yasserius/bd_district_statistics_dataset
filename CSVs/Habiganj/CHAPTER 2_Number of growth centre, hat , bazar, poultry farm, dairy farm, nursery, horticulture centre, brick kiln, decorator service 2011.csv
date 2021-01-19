@@ -1,19 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of growth centre, hat , bazar, poultry farm, dairy farm, nursery, horticulture centre, brick kiln, decorator service 2011",,,,,,,,
-1,Upazila,"Growth
-centre","Hat
-/bazar","Poultry
-farm","Dairy
-farm",Nursery,"Horticulture
-centre","Brick
-kiln","Decorator
-service"
-2,Azmirigonj,3,7,0,0,5,0,1,17
-3,Bahubal,4,16,113,48,25,0,44,28
-4,Baniachang,5,35,51,49,1,0,2,31
-5,Chunarughat,5,56,203,25,20,0,15,30
-6,Habiganj Sadar,3,24,23,17,22,0,8,24
-7,Lakhai,3,14,48,38,5,0,1,16
-8,Madhabpur,5,19,62,59,32,0,4,68
-9,Nabiganj,6,20,309,0,0,0,3,29
-10,Total,34,191,809,236,110,0,78,243
+1,,,,,,,,,
+2,Upazila,Growth centre,Hat /bazar,Poultry farm,Dairy farm,Nursery,Horticulture centre,Brick kiln,Decorator service
+3,Azmirigonj,3,7,0,0,5,0,1,17
+4,Bahubal,4,16,113,48,25,0,44,28
+5,Baniachang,5,35,51,49,1,0,2,31
+6,Chunarughat,5,56,203,25,20,0,15,30
+7,Habiganj Sadar,3,24,23,17,22,0,8,24
+8,Lakhai,3,14,48,38,5,0,1,16
+9,Madhabpur,5,19,62,59,32,0,4,68
+10,Nabiganj,6,20,309,0,0,0,3,29
+11,Total,34,191,809,236,110,0,78,243

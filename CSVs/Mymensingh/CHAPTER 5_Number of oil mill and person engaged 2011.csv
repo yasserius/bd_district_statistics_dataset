@@ -1,21 +1,18 @@
 ,0,1,2,3,4
 0,Number of oil mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Bhaluka,2,5,6,11
-4,Dhobaura,4,5,7,12
-5,Fulbaria,7,7,18,25
-6,Gafargaon,2,2,8,10
-7,Gauripur,0,0,0,0
-8,Haluaghat,3,10,3,13
-9,Ishwargonj,10,20,30,50
-10,Muktagacha,10,15,45,60
-11,Mymensingh Sadar,18,35,245,280
-12,Nandail,3,9,15,24
-13,Phulpur,2,2,2,4
-14,Trishal,0,0,0,0
-15,Total,61,110,379,489
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Bhaluka,2,5,6,11
+5,Dhobaura,4,5,7,12
+6,Fulbaria,7,7,18,25
+7,Gafargaon,2,2,8,10
+8,Gauripur,0,0,0,0
+9,Haluaghat,3,10,3,13
+10,Ishwargonj,10,20,30,50
+11,Muktagacha,10,15,45,60
+12,Mymensingh Sadar,18,35,245,280
+13,Nandail,3,9,15,24
+14,Phulpur,2,2,2,4
+15,Trishal,0,0,0,0
+16,Total,61,110,379,489

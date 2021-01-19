@@ -1,16 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2009-10,,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Potato,Potato,Sweet potato,Sweet potato,Total potato,Total potato
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Dighinala,94,419,68,173,162,592
-5,Khagrachhari Sadar,315,750,118,323,433,1073
-6,Laxshmichhari,4,3,41,103,45,105
-7,Mahalchhari,102,222,30,84,132,306
-8,Manikchhari,362,524,185,537,547,1060
-9,Matiranga,68,339,91,435,159,774
-10,Panchhari,85,195,60,217,145,412
-11,Ramgarh,0,0,47,244,47,244
-12,Total,1030,2452,640,2116,1670,4566
+2,Upazila,Potato Area,Potato Production,Sweet potato Area,Sweet potato Production,Total potato Area,Total potato Production
+3,Dighinala,94,419,68,173,162,592
+4,Khagrachhari Sadar,315,750,118,323,433,1073
+5,Laxshmichhari,4,3,41,103,45,105
+6,Mahalchhari,102,222,30,84,132,306
+7,Manikchhari,362,524,185,537,547,1060
+8,Matiranga,68,339,91,435,159,774
+9,Panchhari,85,195,60,217,145,412
+10,Ramgarh,0,0,47,244,47,244
+11,Total,1030,2452,640,2116,1670,4566

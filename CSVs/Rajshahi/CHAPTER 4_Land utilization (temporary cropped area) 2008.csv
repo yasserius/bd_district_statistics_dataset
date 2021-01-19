@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Land utilization (temporary cropped area) 2008,,,,,,
-1,"
-Upazila/city corporation",Temporary cropped area (in acre),Temporary cropped area (in acre),Temporary cropped area (in acre),Temporary cropped area (in acre),Temporary cropped area (in acre),Productivity of crop
-2,"
-Upazila/city corporation",Single,Double,Triple,Net,Gross,Productivity of crop
+1,,,,,,,
+2,Upazila/city corporation,Temporary cropped area (in acre) Single,Temporary cropped area (in acre) Double,Temporary cropped area (in acre) Triple,Temporary cropped area (in acre) Net,Temporary cropped area (in acre) Gross,Productivity of crop
 3,Bagha,6150,27500,2050,25054,67300,2.69
 4,Baghmara,19892,26439,19768,66099,66627,1.01
 5,Charghat,3500,20150,4734,26578,58002,2.18

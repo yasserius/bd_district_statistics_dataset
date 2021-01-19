@@ -1,22 +1,13 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from nationalized bank 2011",,,,,,,,,,,
-1,"
-
-Upazila",Number of branch of nationalized bank,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-
-Upazila",Number of branch of nationalized bank,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,"Number of
-borrower","Number of
-borrower","Total debt
-(crore tk)","Total debt
-(crore tk)"
-3,"
-
-Upazila",Number of branch of nationalized bank,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Dhaka Metropolitan,291,0,0,3705,301,26074,2114,31893,2439,36793,966
-5,Dhamrai,6,1483,50,0,0,307,45,2308,87,11,0.1
-6,Dohar,6,1471,0,1,0,727,0,2199,0,22,0
-7,Keraniganj,11,11459,1404,38,0,1115,479,12612,1883,82,4
-8,Nawabganj,15,6595,1486,1,0,1857,2119,8453,3605,43,13
-9,Savar,14,4402,1618,244,18,6712,4960,11358,6596,146,72
-10,Total,343,25410,4558,3989,319,36792,9717,68823,14610,37099,1057
+1,,,,,,,,,,,,
+2,  Upazila,Number of branch of nationalized bank,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3,  Upazila,Number of branch of nationalized bank,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
+4,  Upazila,Number of branch of nationalized bank,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+5,Dhaka Metropolitan,291,0,0,3705,301,26074,2114,31893,2439,36793,966
+6,Dhamrai,6,1483,50,0,0,307,45,2308,87,11,0.1
+7,Dohar,6,1471,0,1,0,727,0,2199,0,22,0
+8,Keraniganj,11,11459,1404,38,0,1115,479,12612,1883,82,4
+9,Nawabganj,15,6595,1486,1,0,1857,2119,8453,3605,43,13
+10,Savar,14,4402,1618,244,18,6712,4960,11358,6596,146,72
+11,Total,343,25410,4558,3989,319,36792,9717,68823,14610,37099,1057

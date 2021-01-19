@@ -1,17 +1,12 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,"
-
-Upazila",Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-
-Upazila",Number of branch of all private commercial banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
-3,"
-
-Upazila",Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Gopalganj Sadar,18,474,1822,1,1,2700,2883,3175,3065,58,173
-5,Kashiani,2,110,30,230,20,163,60,476,110,1,1
-6,Kotalipara,4,0,0,0,0,0,701,0,0,0,11
-7,Muksudpur,1,315,4,0,0,22,28,337,32,3,1
-8,Tungipara,3,0,0,0,0,0,560,0,560,0,8
-9,Total,28,899,1856,231,21,2885,4232,3988,3767,62,194
+1,,,,,,,,,,,,
+2,  Upazila,Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3,  Upazila,Number of branch of all private commercial banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
+4,  Upazila,Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+5,Gopalganj Sadar,18,474,1822,1,1,2700,2883,3175,3065,58,173
+6,Kashiani,2,110,30,230,20,163,60,476,110,1,1
+7,Kotalipara,4,0,0,0,0,0,701,0,0,0,11
+8,Muksudpur,1,315,4,0,0,22,28,337,32,3,1
+9,Tungipara,3,0,0,0,0,0,560,0,560,0,8
+10,Total,28,899,1856,231,21,2885,4232,3988,3767,62,194

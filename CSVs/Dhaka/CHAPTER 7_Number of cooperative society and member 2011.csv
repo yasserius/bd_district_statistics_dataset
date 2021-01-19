@@ -1,15 +1,12 @@
 ,0,1,2,3,4
 0,Number of cooperative society and member 2011,,,,
-1,"
-Upazila",Number of co- operative society,Number of member,Number of member,"
-Both sex"
-2,"
-Upazila",Number of co- operative society,Male,Female,"
-Both sex"
-3,Dhaka Metropolitan,8401,5018022,166197,670219
-4,Dhamrai,84,3550,1322,4872
-5,Dohar,328,7707,7000,14707
-6,Keraniganj,1028,63378,8134,71512
-7,Nawabganj,344,7910,2860,10770
-8,Savar,212,39491,13537,53028
-9,Total,10397,5140058,199050,825108
+1,,,,,
+2, Upazila,Number of co- operative society,Number of member,Number of member, Both sex
+3, Upazila,Number of co- operative society,Male,Female, Both sex
+4,Dhaka Metropolitan,8401,5018022,166197,670219
+5,Dhamrai,84,3550,1322,4872
+6,Dohar,328,7707,7000,14707
+7,Keraniganj,1028,63378,8134,71512
+8,Nawabganj,344,7910,2860,10770
+9,Savar,212,39491,13537,53028
+10,Total,10397,5140058,199050,825108

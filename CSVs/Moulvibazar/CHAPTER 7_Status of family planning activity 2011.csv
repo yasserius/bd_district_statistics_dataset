@@ -1,18 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Status of family planning activity 2011,,,,,,
-1,"
-Upazila",Sterilization in number,Sterilization in number,"IUD/
-Injection",Condom (in piece),Oral pill (in cycle),"
-Copper- T"
-2,"
-Upazila",Vasectomy,Tubectomy,"IUD/
-Injection",Condom (in piece),Oral pill (in cycle),"
-Copper- T"
-3,Barlekha,185,298,4905,3868,16094,1648
-4,Juri,275,305,177,1707,8784,74
-5,Kamalganj,396,248,2306,1804,181464,312
-6,Kulaura,350,320,11491,3006,21756,151
-7,Moulvibazar Sadar,602,533,2157,2123,4705,602
-8,Rajnagar,200,444,6483,2133,13201,490
-9,Sreemangal,505,356,8366,3540,21536,727
-10,Total,2513,2504,35885,18181,267540,4004
+1,,,,,,,
+2, Upazila,Sterilization in number,Sterilization in number,IUD/ Injection,Condom (in piece),Oral pill (in cycle), Copper- T
+3, Upazila,Vasectomy,Tubectomy,IUD/ Injection,Condom (in piece),Oral pill (in cycle), Copper- T
+4,Barlekha,185,298,4905,3868,16094,1648
+5,Juri,275,305,177,1707,8784,74
+6,Kamalganj,396,248,2306,1804,181464,312
+7,Kulaura,350,320,11491,3006,21756,151
+8,Moulvibazar Sadar,602,533,2157,2123,4705,602
+9,Rajnagar,200,444,6483,2133,13201,490
+10,Sreemangal,505,356,8366,3540,21536,727
+11,Total,2513,2504,35885,18181,267540,4004

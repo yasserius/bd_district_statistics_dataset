@@ -1,20 +1,13 @@
 ,0,1,2,3,4,5,6,7,8,9
 0,Number of small scale and cottage industry 2011,,,,,,,,,
-1,"
-Upazila",Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry
-2,"
-Upazila","Weaving/
-handloom",Handy,"Husking
-crafts mill","Goor
-processing","Biri
-factory","Salt
-processing","Dry fish
-processing",Pottery,Others
-3,Bakshiganj,4,290,980,0,0,0,0,0,45
-4,Dewanganj,0,160,451,86,0,0,50,0,0
-5,Islampur,0,0,58,3,0,0,0,23,11
-6,Jamalpur Sadar,3070,149,0,0,2,0,0,22,10
-7,Madarganj,0,26,370,0,0,0,0,42,55
-8,Melandaha,0,172,252,0,1,0,0,26,0
-9,Sarishabari,6,541,64,15,0,0,0,27,112
-10,Total,3080,1338,2175,104,3,0,50,140,233
+1,,,,,,,,,,
+2, Upazila,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry
+3, Upazila,Weaving/ handloom,Handy,Husking crafts mill,Goor processing,Biri factory,Salt processing,Dry fish processing,Pottery,Others
+4,Bakshiganj,4,290,980,0,0,0,0,0,45
+5,Dewanganj,0,160,451,86,0,0,50,0,0
+6,Islampur,0,0,58,3,0,0,0,23,11
+7,Jamalpur Sadar,3070,149,0,0,2,0,0,22,10
+8,Madarganj,0,26,370,0,0,0,0,42,55
+9,Melandaha,0,172,252,0,1,0,0,26,0
+10,Sarishabari,6,541,64,15,0,0,0,27,112
+11,Total,3080,1338,2175,104,3,0,50,140,233

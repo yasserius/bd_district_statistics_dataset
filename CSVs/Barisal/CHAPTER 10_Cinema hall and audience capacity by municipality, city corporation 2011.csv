@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,"Cinema hall and audience capacity by municipality, city corporation 2011",,,,
-1,Municipality,Number of cinema hall,Seating capacity,Show per day,Attendance (daily average)
-2,Bakerganj,1,150,2,50
-3,Banaripara,1,425,2,100
-4,Barisal city corporation,2,1646,3,306
-5,Gaurnadi,1,160,3,400
-6,Mehendiganj,2,450,3,160
-7,Muladi,1,300,2,350
-8,Total,8,3131,15,1366
+1,,,,,
+2,Municipality,Number of cinema hall,Seating capacity,Show per day,Attendance (daily average)
+3,Bakerganj,1,150,2,50
+4,Banaripara,1,425,2,100
+5,Barisal city corporation,2,1646,3,306
+6,Gaurnadi,1,160,3,400
+7,Mehendiganj,2,450,3,160
+8,Muladi,1,300,2,350
+9,Total,8,3131,15,1366

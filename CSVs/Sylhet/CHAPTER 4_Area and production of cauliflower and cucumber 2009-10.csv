@@ -1,19 +1,18 @@
 ,0,1,2,3,4
 0,Area and production of cauliflower and cucumber 2009-10,,,,
 1,(Area in acre and production in metric ton),,,,
-2,Upazila/City,Cauliflower,Cauliflower,Cucumber,Cucumber
-3,corporation,Area,Production,Area,Production
-4,Balaganj,0,0,0,0
-5,Beanibazar,19.7,42,43,76
-6,Bishwanath,55,137.5,6,14.2
-7,Companiganj,44,41,0,0
-8,Dakhin surma,16,32,31,36
-9,Fenchuganj,17.5,14.0875,10,44
-10,Golapganj,15,138,2.5,3.8
-11,Gowainghat,234,676.52,144,258.37
-12,Jaintiapur,46,166,59,46
-13,Kanaighat,900,4500,115,500
-14,Sylhet city corporation,0,0,0,0
-15,Sylhet sadar,420,3629,99,400
-16,Zakiganj,20,500,0,0
-17,Total,1787.2,9876.1075,509.5,1378.37
+2,Upazila/City corporation,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
+3,Balaganj,0,0,0,0
+4,Beanibazar,19.7,42,43,76
+5,Bishwanath,55,137.5,6,14.2
+6,Companiganj,44,41,0,0
+7,Dakhin surma,16,32,31,36
+8,Fenchuganj,17.5,14.0875,10,44
+9,Golapganj,15,138,2.5,3.8
+10,Gowainghat,234,676.52,144,258.37
+11,Jaintiapur,46,166,59,46
+12,Kanaighat,900,4500,115,500
+13,Sylhet city corporation,0,0,0,0
+14,Sylhet sadar,420,3629,99,400
+15,Zakiganj,20,500,0,0
+16,Total,1787.2,9876.1075,509.5,1378.37

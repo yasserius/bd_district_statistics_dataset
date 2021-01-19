@@ -1,13 +1,14 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,Upazila,Number,Number of employee,Number of client
-2,Belkuchi,500,4,19693
-3,Chauhali,155,13,7146
-4,Kamarkhanda,309,309,10692
-5,Kazipur,33,5,1882
-6,Royganj,230,49,11648
-7,Shahjadpur,800,20,34531
-8,Sirajganj Sadar,230,15,5750
-9,Tarash,249,95,7490
-10,Ullahpara,564,16,26616
-11,Total,3070,526,125448
+1,,,,
+2,Upazila,Number,Number of employee,Number of client
+3,Belkuchi,500,4,19693
+4,Chauhali,155,13,7146
+5,Kamarkhanda,309,309,10692
+6,Kazipur,33,5,1882
+7,Royganj,230,49,11648
+8,Shahjadpur,800,20,34531
+9,Sirajganj Sadar,230,15,5750
+10,Tarash,249,95,7490
+11,Ullahpara,564,16,26616
+12,Total,3070,526,125448

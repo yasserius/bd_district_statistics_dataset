@@ -1,29 +1,23 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Krishi and Co-operative bank 2011,,,,,,,,,,
-1,"
-Upazila",Krishi bank,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank
-2,"
-Upazila","Number of
-branch",Account,Account,Account,Account,"Number of
-branch",Account,Account,Account,Account
-3,"
-Upazila","Number of
-branch",S.D,C.D,F.D,S.T.D,"Number of
-branch",S.D,C.D,F.D,S.T.D
-4,Adarsha Sadar,2,3250,210,1652,922,1,0,0,0,0
-5,Barura,3,726,106,9705,1893,0,0,0,0,0
-6,Brahmanpara,3,5724,340,118,22,0,0,0,0,0
-7,Burichang,3,5820,362,138,32,0,0,0,0,0
-8,Chandina,4,12982,181,129,5,0,0,0,0,0
-9,Chauddagram,7,239,331,306,42,0,0,0,0,0
-10,Comilla Sadar Dakshin,1,1780,90,930,470,0,0,0,0,0
-11,Daudkandi,3,4121,161,128,7,0,0,0,0,0
-12,Debidwar,2,8766,345,860,4,0,0,0,0,0
-13,Homna,1,101,11,15,1,0,0,0,0,0
-14,Laksam,3,12080,309,102,14,0,0,0,0,0
-15,Monoharganj,3,20441,133,93,3,0,0,0,0,0
-16,Meghna,1,7753,51,18,2,0,0,0,0,0
-17,Muradnagar,3,19298,114,177,11,0,0,0,0,0
-18,Nangalkot,3,5907,566,288,5,0,0,0,0,0
-19,Titas,2,11856,95,95,3,0,0,0,0,0
-20,Total,44,120844,3405,14754,3436,1,0,0,0,0
+1,,,,,,,,,,,
+2, Upazila,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank
+3, Upazila,Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
+4, Upazila,Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
+5,Adarsha Sadar,2,3250,210,1652,922,1,0,0,0,0
+6,Barura,3,726,106,9705,1893,0,0,0,0,0
+7,Brahmanpara,3,5724,340,118,22,0,0,0,0,0
+8,Burichang,3,5820,362,138,32,0,0,0,0,0
+9,Chandina,4,12982,181,129,5,0,0,0,0,0
+10,Chauddagram,7,239,331,306,42,0,0,0,0,0
+11,Comilla Sadar Dakshin,1,1780,90,930,470,0,0,0,0,0
+12,Daudkandi,3,4121,161,128,7,0,0,0,0,0
+13,Debidwar,2,8766,345,860,4,0,0,0,0,0
+14,Homna,1,101,11,15,1,0,0,0,0,0
+15,Laksam,3,12080,309,102,14,0,0,0,0,0
+16,Monoharganj,3,20441,133,93,3,0,0,0,0,0
+17,Meghna,1,7753,51,18,2,0,0,0,0,0
+18,Muradnagar,3,19298,114,177,11,0,0,0,0,0
+19,Nangalkot,3,5907,566,288,5,0,0,0,0,0
+20,Titas,2,11856,95,95,3,0,0,0,0,0
+21,Total,44,120844,3405,14754,3436,1,0,0,0,0

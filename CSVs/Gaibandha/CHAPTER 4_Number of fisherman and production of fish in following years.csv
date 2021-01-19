@@ -1,15 +1,14 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
-2,"
-Upazila",2010-11,2010-11,2009-10,2009-10
-3,"
-Upazila",Number,Production,Number,Production
-4,Fulchhari,640,224,640,219
-5,Gaibandha Sadar,1420,182,1400,182
-6,Gobindaganj,695,2920,695,2654
-7,Palashbari,1750,267,1746,253
-8,Sadullapur,3275,672,3275,653
-9,Saghata,2200,676,2200,743
-10,Sundarganj,11440,4,12450,5
-11,Total,21420,4945,22406,4709
+1,,,,,
+2,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
+3, Upazila,2010-11,2010-11,2009-10,2009-10
+4, Upazila,Number,Production,Number,Production
+5,Fulchhari,640,224,640,219
+6,Gaibandha Sadar,1420,182,1400,182
+7,Gobindaganj,695,2920,695,2654
+8,Palashbari,1750,267,1746,253
+9,Sadullapur,3275,672,3275,653
+10,Saghata,2200,676,2200,743
+11,Sundarganj,11440,4,12450,5
+12,Total,21420,4945,22406,4709

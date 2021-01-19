@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of flour mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
+1,,,,,
+2,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Adamdighi,7,10,87,97
 4,Bogra sadar,13,17,25,42
 5,Dhunat,6,6,10,16

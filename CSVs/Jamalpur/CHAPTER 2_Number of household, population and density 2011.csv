@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,Upazila,Household,Population (000),Population (000),Population (000),Sex ratio (M/F),Average size of household,Density per sq. km.
-2,Upazila,Household,Male,Female,Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
-3,Bakshiganj,52222,107718,111212,218930,97,4.19,919
-4,Dewanganj,60716,126623,131510,258133,96,4.25,965
-5,Islampur,74963,148439,149990,298429,99,3.98,845
-6,Jamalpur Sadar,152174,301912,313160,615072,96,4.01,1209
-7,Madarganj,63704,130339,133269,263608,98,4.14,1170
-8,Melandaha,79390,154110,159072,313182,97,3.93,1212
-9,Sarishabari,80198,159583,165737,325320,96,4..05,1235
-10,Total,563367,1128724,1163950,2292674,97,4.06,1084
+1,,,,,,,,
+2,Upazila,Household,Population (000),Population (000),Population (000),Sex ratio (M/F),Average size of household,Density per sq. km.
+3,Upazila,Household,Male,Female,Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
+4,Bakshiganj,52222,107718,111212,218930,97,4.19,919
+5,Dewanganj,60716,126623,131510,258133,96,4.25,965
+6,Islampur,74963,148439,149990,298429,99,3.98,845
+7,Jamalpur Sadar,152174,301912,313160,615072,96,4.01,1209
+8,Madarganj,63704,130339,133269,263608,98,4.14,1170
+9,Melandaha,79390,154110,159072,313182,97,3.93,1212
+10,Sarishabari,80198,159583,165737,325320,96,4..05,1235
+11,Total,563367,1128724,1163950,2292674,97,4.06,1084

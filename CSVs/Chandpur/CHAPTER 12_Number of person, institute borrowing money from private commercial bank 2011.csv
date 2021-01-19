@@ -1,23 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,"
-Upazila",Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-Upazila",Number of branch of all private commercial banks,"Agriculture
-debt","Agriculture
-debt",Industry debt,Industry debt,Other debt,Other debt,"Number of
-borrower","Number of
-borrower","Total debt
-(Crore)","Total debt
-(Crore)"
-3,"
-Upazila",Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Chandpur Sadar,16,10364,2484,15,0,1292,236,11671,2720,916.5,134.19
-5,Foridganj,2,0,0,0,0,251,37,257,37,1.29,0.02
-6,Haimchar,2,0,0,0,0,6174,0,6174,0,12,0
-7,Hajiganj,11,2400,95,22,0,1248,70,3670,165,46.85,2.42
-8,Kachua,8,6948,121,7,0,507,86,7462,207,697.95,2.65
-9,Matlab Dakshin,1,150,1218,0,0,132,2,282,1220,2.01,0.8
-10,Matlab uttar,0,0,0,0,0,0,0,0,0,0,0
-11,Shahrasti,1,2,0,0,0,3,0,5,0,1.26,0
-12,Total,41,19864,3918,44,0,9607,431,29521,4349,1679.83,140.08
+1,,,,,,,,,,,,
+2, Upazila,Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3, Upazila,Number of branch of all private commercial banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (Crore),Total debt (Crore)
+4, Upazila,Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+5,Chandpur Sadar,16,10364,2484,15,0,1292,236,11671,2720,916.5,134.19
+6,Foridganj,2,0,0,0,0,251,37,257,37,1.29,0.02
+7,Haimchar,2,0,0,0,0,6174,0,6174,0,12,0
+8,Hajiganj,11,2400,95,22,0,1248,70,3670,165,46.85,2.42
+9,Kachua,8,6948,121,7,0,507,86,7462,207,697.95,2.65
+10,Matlab Dakshin,1,150,1218,0,0,132,2,282,1220,2.01,0.8
+11,Matlab uttar,0,0,0,0,0,0,0,0,0,0,0
+12,Shahrasti,1,2,0,0,0,3,0,5,0,1.26,0
+13,Total,41,19864,3918,44,0,9607,431,29521,4349,1679.83,140.08

@@ -1,27 +1,16 @@
 ,0,1,2,3,4
 0,Area and production of turmeric and ginger 2010-11,,,,
 1,(Area in acre and production in metric ton),,,,
-2,Upazila,Turmeric,Turmeric,Ginger,Ginger
-3,Upazila,Area,Production,Area,Production
-4,Bhurungamari,135,135,69,72
-5,Char Rajibpur,25,70,8,13
-6,Chilmari,46,31,33,82
-7,Kurigram Sadar,67,1340,90,135
-8,Nageshwari,44,27,55,126
-9,Phulbari,66,80,53,64
-10,Rajarhat,52,36,48,72
-11,Raumari,20,8,12,6
-12,Ulipur,59,59,81,211
-13,Total,514,1786,449,781
-14,Upazila,Turmeric,Turmeric,Ginger,Ginger
-15,Upazila,Area,Production,Area,Production
-16,Bhurungamari,134,134,68,71
-17,Char Rajibpur,17,42,5,8
-18,Chilmari,46,31,39,97
-19,Kurigram Sadar,65,1300,80,130
-20,Nageshwari,40,24,53,122
-21,Phulbari,64,78,50,60
-22,Rajarhat,53,36,49,72
-23,Raumari,20,8,12,6
-24,Ulipur,60,60,82,213
-25,Total,499,1714,438,779
+2,Upazila Upazila Bhurungamari Char Rajibpur Chilmari Kurigram Sadar Nageshwari Phulbari Rajarhat Raumari Ulipur Total,Turmeric Area 135 25 46 67 44 66 52 20 59 514,Turmeric Production 135 70 31 1340 27 80 36 8 59 1786,Ginger Area 69 8 33 90 55 53 48 12 81 449,Ginger Production 72 13 82 135 126 64 72 6 211 781
+3,Upazila,Turmeric,Turmeric,Ginger,Ginger
+4,Upazila,Area,Production,Area,Production
+5,Bhurungamari,134,134,68,71
+6,Char Rajibpur,17,42,5,8
+7,Chilmari,46,31,39,97
+8,Kurigram Sadar,65,1300,80,130
+9,Nageshwari,40,24,53,122
+10,Phulbari,64,78,50,60
+11,Rajarhat,53,36,49,72
+12,Raumari,20,8,12,6
+13,Ulipur,60,60,82,213
+14,Total,499,1714,438,779

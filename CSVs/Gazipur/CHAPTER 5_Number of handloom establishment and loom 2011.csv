@@ -1,12 +1,11 @@
 ,0,1,2,3,4
 0,Number of handloom establishment and loom 2011,,,,
-1,"
-Upazila",Number of unit (factory),Number of loom,Number of loom,Number of loom
-2,"
-Upazila",Number of unit (factory),Operational,Non-operational,Total
-3,Gazipur Sadar,0,0,0,0
-4,Kaliakair,0,0,0,0
-5,Kaliganj,9,31,11,42
-6,Kapashia,0,0,0,0
-7,Sreepur,2,0,2,2
-8,Total,11,31,13,44
+1,,,,,
+2, Upazila,Number of unit (factory),Number of loom,Number of loom,Number of loom
+3, Upazila,Number of unit (factory),Operational,Non-operational,Total
+4,Gazipur Sadar,0,0,0,0
+5,Kaliakair,0,0,0,0
+6,Kaliganj,9,31,11,42
+7,Kapashia,0,0,0,0
+8,Sreepur,2,0,2,2
+9,Total,11,31,13,44

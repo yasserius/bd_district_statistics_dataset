@@ -1,12 +1,7 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,"Number of primary school (class I-V), teacher and student by municipality, city corporation 2011",,,,,,,,,,
-1,"Municipality
-/city corporation",Primary school,Primary school,Primary school,Teacher,Teacher,Teacher,Student,Student,Student,Student per teacher
-2,"Municipality
-/city corporation",Govt.,"Non-
-govt.",Total,Govt.,"Non-
-govt.",Total,Govt.,"Non-
-govt.",Total,Student per teacher
+1,,,,,,,,,,,
+2,Municipality /city corporation,Primary school Govt.,Primary school Non- govt.,Primary school Total,Teacher Govt.,Teacher Non- govt.,Teacher Total,Student Govt.,Student Non- govt.,Student Total,Student per teacher
 3,Bagha,7,7,14,56,26,82,2728,1311,4039,49
 4,Baghmara,8,8,16,51,30,81,2056,1112,3168,39
 5,Charghat,8,2,10,51,8,59,2288,441,2729,46

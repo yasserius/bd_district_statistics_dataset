@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,Upazila,Unit,Person engaged,Person engaged,Person engaged
-2,Upazila,Unit,Family,Hired,Total
-3,Bhandaria,86,89,145,234
-4,Kawkhali,23,26,28,54
-5,Mathbaria,173,166,512,678
-6,Nazirpur,47,52,60,112
-7,Nesarabad,268,322,212,534
-8,Pirojpur Sadar,172,187,282,469
-9,Zianagar,30,30,45,75
-10,Total,799,872,1284,2156
+1,,,,,
+2,Upazila,Unit,Person engaged,Person engaged,Person engaged
+3,Upazila,Unit,Family,Hired,Total
+4,Bhandaria,86,89,145,234
+5,Kawkhali,23,26,28,54
+6,Mathbaria,173,166,512,678
+7,Nazirpur,47,52,60,112
+8,Nesarabad,268,322,212,534
+9,Pirojpur Sadar,172,187,282,469
+10,Zianagar,30,30,45,75
+11,Total,799,872,1284,2156

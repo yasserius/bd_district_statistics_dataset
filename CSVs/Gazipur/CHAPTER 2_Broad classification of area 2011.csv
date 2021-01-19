@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Broad classification of area 2011,,,,
 1,(In sq. km.),,,,
-2,Upazila,Total area,Land area,"Reserve
-forest","Riverine
-area"
+2,Upazila,Total area,Land area,Reserve forest,Riverine area
 3,Gazipur Sadar,457.67,402.84,54.52,0.31
 4,Kaliakair,314.13,233.19,79.72,1.22
 5,Kaliganj,214.63,212.14,0.34,2.15

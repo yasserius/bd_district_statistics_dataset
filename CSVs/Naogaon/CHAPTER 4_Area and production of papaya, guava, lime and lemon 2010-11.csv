@@ -1,19 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of papaya, guava, lime and lemon 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Papaya,Papaya,Guava,Guava,Lime and lemon,Lime and lemon
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Atrai,5,114,12,26,13,169
-5,Badalgachhi,3,50,3128,49,2,34
-6,Dhamoirhat,8,25,16,61,5,4
-7,Manda,64,969,0,501,0,130
-8,Mahadebpur,10,184,96,362,19,77
-9,Naogaon sadar,10,9,67,134,41,66
-10,Niamatpur,0,159,0,97,1,127
-11,Patnitala,14,96,39,56,30,26
-12,Porsha,5,25,5,14,5,11
-13,Raninagar,13,59,15,40,7,37
-14,Sapahar,4,120,3177,48,8,5
-15,Total,136,1810,6555,1388,131,687
+2,Upazila,Papaya Area,Papaya Production,Guava Area,Guava Production,Lime and lemon Area,Lime and lemon Production
+3,Atrai,5,114,12,26,13,169
+4,Badalgachhi,3,50,3128,49,2,34
+5,Dhamoirhat,8,25,16,61,5,4
+6,Manda,64,969,0,501,0,130
+7,Mahadebpur,10,184,96,362,19,77
+8,Naogaon sadar,10,9,67,134,41,66
+9,Niamatpur,0,159,0,97,1,127
+10,Patnitala,14,96,39,56,30,26
+11,Porsha,5,25,5,14,5,11
+12,Raninagar,13,59,15,40,7,37
+13,Sapahar,4,120,3177,48,8,5
+14,Total,136,1810,6555,1388,131,687

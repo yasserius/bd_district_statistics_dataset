@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,"
-Upazila","
-Units",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Units",Family,Hired,Total
+1,,,,,
+2,Upazila,Units,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Akhaura,70,20,350,370
 4,Ashuganj,70,95,277,372
 5,Banchharampur,84,168,679,847

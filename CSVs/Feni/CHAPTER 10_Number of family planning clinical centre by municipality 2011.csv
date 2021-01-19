@@ -1,13 +1,10 @@
 ,0,1,2,3,4,5
 0,Number of family planning clinical centre by municipality 2011,,,,,
-1,"
-Municipality",Sterilization centre,"
-Mobile centre","
-Injection centre","Menstrual regularization
-centre",Family welfare centre
-2,Chhagalnaiya,1,0,4,1,1
-3,Daganbhuiyan,1,0,0,0,0
-4,Feni Sadar,2,1,8,3,0
-5,Parshuram,1,4,4,1,1
-6,Sonagazi,0,0,1,1,0
-7,Total,5,5,17,6,2
+1,,,,,,
+2, Municipality,Sterilization centre, Mobile centre, Injection centre,Menstrual regularization centre,Family welfare centre
+3,Chhagalnaiya,1,0,4,1,1
+4,Daganbhuiyan,1,0,0,0,0
+5,Feni Sadar,2,1,8,3,0
+6,Parshuram,1,4,4,1,1
+7,Sonagazi,0,0,1,1,0
+8,Total,5,5,17,6,2

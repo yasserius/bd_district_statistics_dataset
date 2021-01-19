@@ -1,11 +1,11 @@
 ,0,1,2,3,4,5
 0,Existing position of Government employee by category 2011,,,,,
-1,Upazila,Class-I,Class-II,Class-III,Class-IV,"Number of
-employee"
-2,Bagatipara,23,16,419,73,531
-3,Baraigram,45,35,648,95,823
-4,Gurudaspur,24,17,197,79,317
-5,Lalpur,45,12,620,141,819
-6,Natore Sadar,239,60,1513,376,2188
-7,Singra,38,19,219,58,406
-8,Total,414,159,3616,822,5084
+1,,,,,,
+2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
+3,Bagatipara,23,16,419,73,531
+4,Baraigram,45,35,648,95,823
+5,Gurudaspur,24,17,197,79,317
+6,Lalpur,45,12,620,141,819
+7,Natore Sadar,239,60,1513,376,2188
+8,Singra,38,19,219,58,406
+9,Total,414,159,3616,822,5084

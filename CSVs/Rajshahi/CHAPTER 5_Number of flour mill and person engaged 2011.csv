@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Number of flour mill and person engaged 2011,,,,
-1,"
-Upazila/city corporation",Number of unit,Person engaged,Person engaged,Person engaged
-2,"
-Upazila/city corporation",Number of unit,Family,Hired,Total
+1,,,,,
+2,Upazila/city corporation,Number of unit,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Bagha,25,25,25,50
 4,Baghmara,37,49,35,84
 5,Charghat,70,70,50,120

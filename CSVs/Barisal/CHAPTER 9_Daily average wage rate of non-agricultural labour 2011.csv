@@ -1,13 +1,7 @@
 ,0,1,2,3,4,5
 0,Daily average wage rate of non-agricultural labour 2011,,,,,
 1,(Wage in taka),,,,,
-2,"
-Upazila/city corporation","
-Porter (coolee)","
-Garden male labour","
-Garden female labour","
-Other labour (adult)","
-Other labour (child)"
+2,Upazila/city corporation,Porter (coolee),Garden male labour,Garden female labour,Other labour (adult),Other labour (child)
 3,Agailjhara,200,250,200,250,120
 4,Babuganj,300,250,200,250,160
 5,Bakerganj,300,280,220,300,120

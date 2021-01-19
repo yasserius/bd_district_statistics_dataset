@@ -1,20 +1,17 @@
 ,0,1,2,3,4,5,6,7
 0,Irrigation by means 2010-2011,,,,,,,
 1,(In acres),,,,,,,
-2,"
-Upazila",Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Total
-3,"
-Upazila",Power pump,Tube well,Doon,Swing basket,Canal,Others,
-4,Basail,39,4111,15,65,0,73,4303
-5,Bhuapur,67,3037,20,61,0,125,3310
-6,Delduar,37,3781,17,55,0,127,4017
-7,Dhanbari,43,4425,13,43,0,117,4641
-8,Ghatail,214,7820,27,127,0,157,8345
-9,Gopalpur,137,6060,23,93,0,108,6421
-10,Kalihati,48,6163,21,105,0,115,6452
-11,Madhupur,118,6342,19,125,0,103,6707
-12,Mirzapur,88,6428,18,113,0,147,6794
-13,Nagarpur,24,6720,14,83,0,123,6964
-14,Sakhipur,115,2820,17,67,0,87,3106
-15,Tangail Sadar,65,6730,29,107,0,185,7116
-16,Total,995,64437,233,1044,0,1467,68176
+2,Upazila,Irrigation management Power pump,Irrigation management Tube well,Irrigation management Doon,Irrigation management Swing basket,Irrigation management Canal,Irrigation management Others,Total 
+3,Basail,39,4111,15,65,0,73,4303
+4,Bhuapur,67,3037,20,61,0,125,3310
+5,Delduar,37,3781,17,55,0,127,4017
+6,Dhanbari,43,4425,13,43,0,117,4641
+7,Ghatail,214,7820,27,127,0,157,8345
+8,Gopalpur,137,6060,23,93,0,108,6421
+9,Kalihati,48,6163,21,105,0,115,6452
+10,Madhupur,118,6342,19,125,0,103,6707
+11,Mirzapur,88,6428,18,113,0,147,6794
+12,Nagarpur,24,6720,14,83,0,123,6964
+13,Sakhipur,115,2820,17,67,0,87,3106
+14,Tangail Sadar,65,6730,29,107,0,185,7116
+15,Total,995,64437,233,1044,0,1467,68176

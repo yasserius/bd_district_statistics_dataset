@@ -1,13 +1,14 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
-1,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
-2,Upazila,Labour,Labour,Labour
-3,Upazila,Male,Female,Child (under 15 years old)
-4,Alikadam,250,150,120
-5,Bandarban Sadar,300,250,150
-6,Lama,300,200,100
-7,Naikhongchhari,300,200,170
-8,Rowangchhari,250,200,150
-9,Ruma,250,200,160
-10,Thanchi,400,300,150
-11,Average,293,214,143
+1,,,,
+2,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
+3,Upazila,Labour,Labour,Labour
+4,Upazila,Male,Female,Child (under 15 years old)
+5,Alikadam,250,150,120
+6,Bandarban Sadar,300,250,150
+7,Lama,300,200,100
+8,Naikhongchhari,300,200,170
+9,Rowangchhari,250,200,150
+10,Ruma,250,200,160
+11,Thanchi,400,300,150
+12,Average,293,214,143

@@ -1,10 +1,9 @@
 ,0,1,2,3,4
 0,Number of cinema hall and audience capacity by municipality 2011,,,,
-1,Municipality,"Number of
-cinema hall",Seating capacity,Show per day,"Attendance
-(daily average)"
-2,Alamdanga,2,500,4,300
-3,Chuadanga Sadar,2,650,4,160
-4,Darshana,1,200,2,50
-5,Jibonnagar,1,250,4,120
-6,Total,6,1600,14,630
+1,,,,,
+2,Municipality,Number of cinema hall,Seating capacity,Show per day,Attendance (daily average)
+3,Alamdanga,2,500,4,300
+4,Chuadanga Sadar,2,650,4,160
+5,Darshana,1,200,2,50
+6,Jibonnagar,1,250,4,120
+7,Total,6,1600,14,630

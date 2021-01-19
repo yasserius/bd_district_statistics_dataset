@@ -1,13 +1,7 @@
 ,0,1,2,3,4,5,6,7,8
 0,Progress of rural electrification 2011,,,,,,,,
-1,"
-Upazila/City corporation",Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified
-2,"
-Upazila/City corporation","
-Village",Residential holding,Large scale industry,"Small scale
-industry","Deep tube-
-well",Power pump,Commercial holding,"
-Others"
+1,,,,,,,,,
+2,Upazila/City corporation,Number of electrified Village,Number of electrified Residential holding,Number of electrified Large scale industry,Number of electrified Small scale industry,Number of electrified Deep tube- well,Number of electrified Power pump,Number of electrified Commercial holding,Number of electrified Others
 3,Balaganj,298,28198,0,462,0,21,6020,0
 4,Beanibazar,169,25281,0,336,0,1,5141,0
 5,Bishwanath,407,19719,0,306,0,4,3042,0

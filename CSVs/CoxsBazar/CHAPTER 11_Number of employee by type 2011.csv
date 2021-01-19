@@ -1,17 +1,13 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,"
-Upazila","
-Police personnel","
-Ansar personnel","
-VDP personnel",Autonomous bodies,"Local
-Government employee"
-2,Chakaria,92,755,14464,89,57
-3,Cox's Bazar Sadar,1278,358,31,380,100
-4,Kutubdia,29,307,576,3,75
-5,Moheshkhali,56,371,1535,5,94
-6,Pekua,43,359,4032,0,182
-7,Ramu,48,352,4544,31,127
-8,Teknaf,83,324,3904,2,133
-9,Ukhia,45,307,7040,8,54
-10,Total,1674,3133,36126,518,822
+1,,,,,,
+2, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous bodies,Local Government employee
+3,Chakaria,92,755,14464,89,57
+4,Cox's Bazar Sadar,1278,358,31,380,100
+5,Kutubdia,29,307,576,3,75
+6,Moheshkhali,56,371,1535,5,94
+7,Pekua,43,359,4032,0,182
+8,Ramu,48,352,4544,31,127
+9,Teknaf,83,324,3904,2,133
+10,Ukhia,45,307,7040,8,54
+11,Total,1674,3133,36126,518,822

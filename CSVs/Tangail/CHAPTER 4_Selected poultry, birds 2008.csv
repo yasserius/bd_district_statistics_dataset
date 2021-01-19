@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,"Selected poultry, birds 2008",,,,,,
-1,"
-Upazila",Hen and cocks,Hen and cocks,Ducks,Ducks,Others,Others
-2,"
-Upazila",Holding reporting,Total number,Holding reporting,Total number,Holding reporting,Total number
+1,,,,,,,
+2,Upazila,Hen and cocks Holding reporting,Hen and cocks Total number,Ducks Holding reporting,Ducks Total number,Others Holding reporting,Others Total number
 3,Basail,12955,65806,8697,39672,1285,9506
 4,Bhuapur,21078,124402,7462,36103,2687,21657
 5,Delduar,20788,109295,9380,38746,1590,8500

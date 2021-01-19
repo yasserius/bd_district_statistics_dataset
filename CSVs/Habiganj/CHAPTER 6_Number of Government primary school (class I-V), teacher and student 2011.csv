@@ -1,17 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Government primary school (class I-V), teacher and student 2011",,,,,,,,
-1,"
-Upazila","Number of Government
-primary school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila","Number of Government
-primary school",Male,Female,Total,Male,Female,Total,Students per teacher
-3,Azmirigonj,39,62,50,112,4817,5218,10035,90
-4,Bahubal,75,126,200,326,8010,9321,17331,53
-5,Baniachang,114,421,129,550,26100,26790,52890,96
-6,Chunarughat,110,299,205,504,12611,12785,25396,50
-7,Habiganj Sadar,93,155,381,536,23080,22047,45127,84
-8,Lakhai,51,104,147,251,9001,10219,19220,76
-9,Madhabpur,97,236,312,548,16824,15844,33668,61
-10,Nabiganj,148,277,364,641,23874,25647,49521,77
-11,Total,727,1680,1788,3468,124317,127871,253188,73
+1,,,,,,,,,
+2, Upazila,Number of Government primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of Government primary school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Azmirigonj,39,62,50,112,4817,5218,10035,90
+5,Bahubal,75,126,200,326,8010,9321,17331,53
+6,Baniachang,114,421,129,550,26100,26790,52890,96
+7,Chunarughat,110,299,205,504,12611,12785,25396,50
+8,Habiganj Sadar,93,155,381,536,23080,22047,45127,84
+9,Lakhai,51,104,147,251,9001,10219,19220,76
+10,Madhabpur,97,236,312,548,16824,15844,33668,61
+11,Nabiganj,148,277,364,641,23874,25647,49521,77
+12,Total,727,1680,1788,3468,124317,127871,253188,73

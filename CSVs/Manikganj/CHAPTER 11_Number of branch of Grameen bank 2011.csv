@@ -1,13 +1,12 @@
 ,0,1,2,3,4
 0,Number of branch of Grameen bank 2011,,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-member",Number of account
-2,Daulotpur,2,17,146,1774
-3,Gheor,5,48,22390,53378
-4,Horirampur,3,26,11760,4939
-5,Manikganj Sadar,7,43,30235,65747
-6,Saturia,3,24,14200,15300
-7,Shibalaya,4,40,13155,17462
-8,Singair,10,80,33949,11931
-9,Total,34,278,125835,170531
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of member,Number of account
+3,Daulotpur,2,17,146,1774
+4,Gheor,5,48,22390,53378
+5,Horirampur,3,26,11760,4939
+6,Manikganj Sadar,7,43,30235,65747
+7,Saturia,3,24,14200,15300
+8,Shibalaya,4,40,13155,17462
+9,Singair,10,80,33949,11931
+10,Total,34,278,125835,170531

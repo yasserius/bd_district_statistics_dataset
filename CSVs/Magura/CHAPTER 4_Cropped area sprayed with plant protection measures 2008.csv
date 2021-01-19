@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5
 0,Cropped area sprayed with plant protection measures 2008,,,,,
-1,"
-Upazila",Total farm holding,Total farm holding,Spraying farm holding,Spraying farm holding,Reporting area sprayed
-2,"
-Upazila",Number,Cropped area,Number,Cropped area,Reporting area sprayed
+1,,,,,,
+2,Upazila,Total farm holding Number,Total farm holding Cropped area,Spraying farm holding Number,Spraying farm holding Cropped area,Reporting area sprayed
 3,Magura Sadar,53129,74907,53129,72635,55257
 4,Mohammadpur,31897,74907,19138,28500,18348
 5,Shalikha,28424,43334,28424,40201,40201

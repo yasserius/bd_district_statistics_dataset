@@ -1,17 +1,16 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of ebtedayee madrasah 2011,,,,,,,,
-1,"
-Upazila",Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Atpara,10,22,3,25,1520,700,2220,89
-4,Barhatta,7,18,3,21,573,654,1227,58
-5,Durgapur,15,30,15,45,210,240,450,10
-6,Kalmakanda,29,85,5,90,1680,437,2117,24
-7,Kendua,9,32,4,36,514,503,1017,28
-8,Khaliajuri,5,15,0,15,38,62,100,17
-9,Madan,0,0,0,0,0,0,0,0
-10,Mohanganj,4,12,0,12,150,100,250,21
-11,Netrokona Sadar,17,58,09,67,1535,1800,3335,0
-12,Purbadhala,39,68,28,96,2868,3005,5873,61
-13,Total,135,340,67,407,9083,7501,16589,28
+1,,,,,,,,,
+2, Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Atpara,10,22,3,25,1520,700,2220,89
+5,Barhatta,7,18,3,21,573,654,1227,58
+6,Durgapur,15,30,15,45,210,240,450,10
+7,Kalmakanda,29,85,5,90,1680,437,2117,24
+8,Kendua,9,32,4,36,514,503,1017,28
+9,Khaliajuri,5,15,0,15,38,62,100,17
+10,Madan,0,0,0,0,0,0,0,0
+11,Mohanganj,4,12,0,12,150,100,250,21
+12,Netrokona Sadar,17,58,09,67,1535,1800,3335,0
+13,Purbadhala,39,68,28,96,2868,3005,5873,61
+14,Total,135,340,67,407,9083,7501,16589,28

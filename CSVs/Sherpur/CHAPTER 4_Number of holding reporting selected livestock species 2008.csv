@@ -1,18 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting selected livestock species 2008,,,,,,
-1,"
-Upazila",Cow & Buffalo,Cow & Buffalo,Goat,Goat,Sheep,Sheep
-2,"
-Upazila","Holding
-number","Number
-of animal","Holding
-number","Number
-of goat","Holding
-number","Number
-of sheep"
-3,Jhenaigati,9775,42425,2533,18544,234,1770
-4,Nakla,17814,44549,9760,22992,156,835
-5,Nalitabari,15618,62472,16597,40107,322,1249
-6,Sherpur Sadar,46765,140215,28420,85270,1785,3575
-7,Sreebardi,30081,69591,14362,30461,548,1740
-8,Total,120053,359252,71672,197374,3045,9169
+1,,,,,,,
+2, Upazila,Cow & Buffalo,Cow & Buffalo,Goat,Goat,Sheep,Sheep
+3, Upazila,Holding number,Number of animal,Holding number,Number of goat,Holding number,Number of sheep
+4,Jhenaigati,9775,42425,2533,18544,234,1770
+5,Nakla,17814,44549,9760,22992,156,835
+6,Nalitabari,15618,62472,16597,40107,322,1249
+7,Sherpur Sadar,46765,140215,28420,85270,1785,3575
+8,Sreebardi,30081,69591,14362,30461,548,1740
+9,Total,120053,359252,71672,197374,3045,9169

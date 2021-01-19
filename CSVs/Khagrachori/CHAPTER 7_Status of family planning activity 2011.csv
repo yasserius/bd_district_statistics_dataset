@@ -1,13 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Status of family planning activity 2011,,,,,,
-1,"
-Upazila",Sterilization in number,Sterilization in number,"IUD/
-Injection",Condom (in pieces),Oral pill (in cycles),"
-Copper- T"
-2,"
-Upazila",Vasectomy,Tubectomy,"IUD/
-Injection",Condom (in pieces),Oral pill (in cycles),"
-Copper- T"
+1,,,,,,,
+2,Upazila,Sterilization in number Vasectomy,Sterilization in number Tubectomy,IUD/ Injection,Condom (in pieces),Oral pill (in cycles),Copper- T
 3,Dighinala,61,38,591,198,504,114
 4,Khagrachhari Sadar,135,88,1445,112029,74407,146
 5,Laxshmichhari,26,18,84,74,255,81

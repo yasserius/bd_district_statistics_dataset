@@ -1,10 +1,9 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of NGO school, teacher and student 2011",,,,,,,,
-1,"
-Upazila",Number of NGO school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of NGO school,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Kalia,0,0,0,0,0,0,0,0
-4,Lohagara,25,27,56,83,620,630,1250,15
-5,Narail Sadar,19,0,23,23,290,280,570,25
-6,Total,44,27,79,106,910,910,1820,17
+1,,,,,,,,,
+2, Upazila,Number of NGO school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of NGO school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Kalia,0,0,0,0,0,0,0,0
+5,Lohagara,25,27,56,83,620,630,1250,15
+6,Narail Sadar,19,0,23,23,290,280,570,25
+7,Total,44,27,79,106,910,910,1820,17

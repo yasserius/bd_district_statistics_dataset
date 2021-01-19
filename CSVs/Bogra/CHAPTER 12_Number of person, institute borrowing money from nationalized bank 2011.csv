@@ -1,27 +1,17 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from nationalized bank 2011",,,,,,,,,,,
-1,"
-
-Upazila","Number of branch of all    nationalized
-banks",Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-
-Upazila","Number of branch of all    nationalized
-banks",Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
-3,"
-
-Upazila","Number of branch of all    nationalized
-banks",Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Adamdighi,6,1574,90,29,0,733,104,0,0,16.98,2.05
-5,Bogra sadar,30,18664,2741,67,0,6829,744,25560,3485,2310.17,837.17
-6,Dhunat,3,4099,5,0,0,987,0,5086,5,1.91,.01
-7,Gabtali,10,5797,148,104,3,1364,211,7265,362,908.62,71.5
-8,Dhupchanchia,9,1206,94,53,0,580,88,1839,182,44.95,2.09
-9,Kahaloo,7,5370,142,40,3,1603,304,7013,449,4.36,0.19
-10,Nandigram,8,1916,97,5,0,435,92,2356,189,1.28,0.13
-11,Sariakandi,6,11835,0,0,0,137,19,11972,19,11,0.4
-12,Sherpur,8,879,47,15,6,1187,42,2122,98,45.28,3.93
-13,Shibganj,16,82382,7319,4,0,15196,2189,97582,9508,71.48,5
-14,Sonatola,8,891,68,2,0,490,6,1381,74,23.10,7.17
-15,Shajahanpur,8,1011,50,0,0,1647,336,2658,386,21.27,2.56
-16,Total,119,135624,10801,319,12,31188,4135,164834,14757,3460.4,932.2
+1,,,,,,,,,,,,
+2,Upazila,Number of branch of all nationalized banks,Number of borrower Agriculture debt Male,Number of borrower Agriculture debt Female,Number of borrower Industry debt Male,Number of borrower Industry debt Female,Number of borrower Other debt Male,Number of borrower Other debt Female,Number of borrower Number of borrower Male,Number of borrower Number of borrower Female,Number of borrower Total debt (crore tk) Male,Number of borrower Total debt (crore tk) Female
+3,Adamdighi,6,1574,90,29,0,733,104,0,0,16.98,2.05
+4,Bogra sadar,30,18664,2741,67,0,6829,744,25560,3485,2310.17,837.17
+5,Dhunat,3,4099,5,0,0,987,0,5086,5,1.91,.01
+6,Gabtali,10,5797,148,104,3,1364,211,7265,362,908.62,71.5
+7,Dhupchanchia,9,1206,94,53,0,580,88,1839,182,44.95,2.09
+8,Kahaloo,7,5370,142,40,3,1603,304,7013,449,4.36,0.19
+9,Nandigram,8,1916,97,5,0,435,92,2356,189,1.28,0.13
+10,Sariakandi,6,11835,0,0,0,137,19,11972,19,11,0.4
+11,Sherpur,8,879,47,15,6,1187,42,2122,98,45.28,3.93
+12,Shibganj,16,82382,7319,4,0,15196,2189,97582,9508,71.48,5
+13,Sonatola,8,891,68,2,0,490,6,1381,74,23.10,7.17
+14,Shajahanpur,8,1011,50,0,0,1647,336,2658,386,21.27,2.56
+15,Total,119,135624,10801,319,12,31188,4135,164834,14757,3460.4,932.2

@@ -1,15 +1,14 @@
 ,0,1,2,3,4
 0,Area and production of cauliflower and cucumber 2009-10,,,,
 1,(Area in acre and production in metric ton),,,,
-2,Upazila,Cauliflower,Cauliflower,Cucumber,Cucumber
-3,Upazila,Area,Production,Area,Production
-4,Belkuchi,69,314,81,125
-5,Chauhali,40,45,40,58
-6,Kamarkhanda,52,67,10,45
-7,Kazipur,62,750,30,180
-8,Royganj,74,540,5,29
-9,Shahjadpur,72,242,12.5,32
-10,Sirajganj Sadar,136,1105,60,245
-11,Tarash,35,98,14,27
-12,Ullahpara,63,222,109,488
-13,Total,603,3383,361.5,1229
+2,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
+3,Belkuchi,69,314,81,125
+4,Chauhali,40,45,40,58
+5,Kamarkhanda,52,67,10,45
+6,Kazipur,62,750,30,180
+7,Royganj,74,540,5,29
+8,Shahjadpur,72,242,12.5,32
+9,Sirajganj Sadar,136,1105,60,245
+10,Tarash,35,98,14,27
+11,Ullahpara,63,222,109,488
+12,Total,603,3383,361.5,1229

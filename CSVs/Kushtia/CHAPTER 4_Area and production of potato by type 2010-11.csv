@@ -1,14 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2010-11,,,,,,
 1,(Area in acre & production in metric ton),,,,,,
-2,"
-Upazila",Potato,Potato,Sweet potato,Sweet potato,Total Potato,Total Potato
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Kushtia Sadar,550,3989,50,258,600,4247
-5,Bheramara,480,4012,45,174,525,4186
-6,Daulatpur,4062,4054,185,670,4247,41201
-7,Khoksa,22,172,58,372,58,372
-8,Kumarkhali,122,1171,35,70,157,1398
-9,Mirpur,170,1301,47,143,217,1443
-10,Total,5406,14699,420,1687,5804,52847
+2,Upazila,Potato Area,Potato Production,Sweet potato Area,Sweet potato Production,Total Potato Area,Total Potato Production
+3,Kushtia Sadar,550,3989,50,258,600,4247
+4,Bheramara,480,4012,45,174,525,4186
+5,Daulatpur,4062,4054,185,670,4247,41201
+6,Khoksa,22,172,58,372,58,372
+7,Kumarkhali,122,1171,35,70,157,1398
+8,Mirpur,170,1301,47,143,217,1443
+9,Total,5406,14699,420,1687,5804,52847

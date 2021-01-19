@@ -1,14 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Number of municipality, union, mauza, mahalla and village 2011",,,,,,
-1,Upazila,Municipality,"Ward
-(PSA)",Mahalla,Union,Mauza,Village
-2,Akhaura,1,9,23,5,86,112
-3,Ashuganj,0,0,0,8,30,41
-4,Banchharampur,0,0,0,13,69,121
-5,Bijoynagar,0,0,0,10,164,225
-6,Brahmanbaria Sadar,1,12,34,11,103,146
-7,Kasba,1,9,34,10,136,209
-8,Nabinagar,1,9,18,21,149,200
-9,Nasirnagar,0,0,0,13,96,128
-10,Sarail,0,0,0,9,67,141
-11,Total,4,39,109,100,900,1323
+1,,,,,,,
+2,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
+3,Akhaura,1,9,23,5,86,112
+4,Ashuganj,0,0,0,8,30,41
+5,Banchharampur,0,0,0,13,69,121
+6,Bijoynagar,0,0,0,10,164,225
+7,Brahmanbaria Sadar,1,12,34,11,103,146
+8,Kasba,1,9,34,10,136,209
+9,Nabinagar,1,9,18,21,149,200
+10,Nasirnagar,0,0,0,13,96,128
+11,Sarail,0,0,0,9,67,141
+12,Total,4,39,109,100,900,1323

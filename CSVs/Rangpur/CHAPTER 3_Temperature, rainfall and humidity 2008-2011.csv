@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,"Temperature, rainfall and humidity 2008-2011",,,,
-1,"
-Year",Temperature (0C),Temperature (0C),Rainfall (milimeter),"
-Humidity (%)"
-2,"
-Year",Maximum,Minimum,Rainfall (milimeter),"
-Humidity (%)"
+1,,,,,
+2,Year,Temperature (0C) Maximum,Temperature (0C) Minimum,Rainfall (milimeter),Humidity (%)
 3,2008,32.2,10.4,1907,41
 4,2009,33.1,8.8,2217,69
 5,2010,41.8,10.5,2102,60

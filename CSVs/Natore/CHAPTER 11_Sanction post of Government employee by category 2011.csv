@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Sanction post of Government employee by category 2011,,,,,
-1,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
-2,Bagatipara,33,21,471,96,621
-3,Baraigram,63,56,800,111,1030
-4,Gurudaspur,41,20,261,100,422
-5,Lalpur,78,13,760,153,1004
-6,Natore Sadar,`312,83,1730,511,2636
-7,Singra,52,22,401,89,564
-8,Total,267,215,4423,1060,6277
+1,,,,,,
+2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
+3,Bagatipara,33,21,471,96,621
+4,Baraigram,63,56,800,111,1030
+5,Gurudaspur,41,20,261,100,422
+6,Lalpur,78,13,760,153,1004
+7,Natore Sadar,`312,83,1730,511,2636
+8,Singra,52,22,401,89,564
+9,Total,267,215,4423,1060,6277

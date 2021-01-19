@@ -1,18 +1,17 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of madrasah, teacher and student under the madrasah education board 2011",,,,,,,,
-1,"
-Upazila",Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Atrai,15,195,18,213,2328,2096,4424,21
-4,Badalgachhi,20,290,40,330,4367,4135,8502,26
-5,Dhamoirhat,24,384,32,416,3607,3523,7130,17
-6,Manda,41,493,57,550,3932,3804,7736,14
-7,Mahadebpur,28,391,57,448,2333,2367,4700,10
-8,Naogaon sadar,55,302,46,348,3545,4172,7717,22
-9,Niamatpur,26,370,51,421,3977,4137,8114,19
-10,Patnitala,37,495,5,500,5200,2500,7700,15
-11,Porsha,27,383,22,405,1413,2887,4300,11
-12,Raninagar,7,97,10,107,1196,1030,2226,21
-13,Sapahar,40,605,50,655,5181,6009,11190,17
-14,Total,320,4005,388,4393,37079,36660,73739,17
+1,,,,,,,,,
+2, Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Atrai,15,195,18,213,2328,2096,4424,21
+5,Badalgachhi,20,290,40,330,4367,4135,8502,26
+6,Dhamoirhat,24,384,32,416,3607,3523,7130,17
+7,Manda,41,493,57,550,3932,3804,7736,14
+8,Mahadebpur,28,391,57,448,2333,2367,4700,10
+9,Naogaon sadar,55,302,46,348,3545,4172,7717,22
+10,Niamatpur,26,370,51,421,3977,4137,8114,19
+11,Patnitala,37,495,5,500,5200,2500,7700,15
+12,Porsha,27,383,22,405,1413,2887,4300,11
+13,Raninagar,7,97,10,107,1196,1030,2226,21
+14,Sapahar,40,605,50,655,5181,6009,11190,17
+15,Total,320,4005,388,4393,37079,36660,73739,17

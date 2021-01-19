@@ -1,10 +1,8 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Pepper,Pepper,Onion,Onion,Garlic,Garlic
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
+2, Upazila,Pepper,Pepper,Onion,Onion,Garlic,Garlic
+3, Upazila,Area,Production,Area,Production,Area,Production
 4,Chandpur Sadar,1530,806,618,1625,272,605
 5,Foridganj,172,156,98,128,37,34
 6,Haimchar,1852,975,988,1840,617,1075

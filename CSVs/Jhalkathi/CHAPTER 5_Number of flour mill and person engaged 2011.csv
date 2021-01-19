@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Number of flour mill and person engaged 2011,,,,
-1,Upazila,Unit,Person engaged,Person engaged,Person engaged
-2,Upazila,Unit,Family,Hired,Total
-3,Jhalokati Sadar,20,20,30,50
-4,Kanthalia,26,26,52,78
-5,Nalchity,40,15,25,40
-6,Rajpur,8,6,7,13
-7,Total,94,67,114,181
+1,,,,,
+2,Upazila,Unit,Person engaged,Person engaged,Person engaged
+3,Upazila,Unit,Family,Hired,Total
+4,Jhalokati Sadar,20,20,30,50
+5,Kanthalia,26,26,52,78
+6,Nalchity,40,15,25,40
+7,Rajpur,8,6,7,13
+8,Total,94,67,114,181

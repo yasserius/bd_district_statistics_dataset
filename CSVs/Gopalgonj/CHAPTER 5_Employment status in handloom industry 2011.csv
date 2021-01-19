@@ -1,14 +1,11 @@
 ,0,1,2,3,4,5
 0,Employment status in handloom industry 2011,,,,,
-1,"
-Upazila",Number of handloom,Person engaged,Person engaged,Person engaged,"
-Total"
-2,"
-Upazila",Number of handloom,Family member,Regular,Hired /Casual,"
-Total"
-3,Gopalganj Sadar,0,0,0,0,0
-4,Kashiani,0,0,0,0,0
-5,Kotalipara,6,1,2,0,2
-6,Muksudpur,0,0,0,0,0
-7,Tungipara,0,0,0,0,0
-8,Total,6,1,2,0,2
+1,,,,,,
+2, Upazila,Number of handloom,Person engaged,Person engaged,Person engaged, Total
+3, Upazila,Number of handloom,Family member,Regular,Hired /Casual, Total
+4,Gopalganj Sadar,0,0,0,0,0
+5,Kashiani,0,0,0,0,0
+6,Kotalipara,6,1,2,0,2
+7,Muksudpur,0,0,0,0,0
+8,Tungipara,0,0,0,0,0
+9,Total,6,1,2,0,2

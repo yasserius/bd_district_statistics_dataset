@@ -1,18 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting selected livestock species 2008,,,,,,
-1,"
-Upazila",Cow & buffalo,Cow & buffalo,Goat,Goat,Sheep,Sheep
-2,"
-Upazila","Holding
-number","Number
-of animal","Holding
-number","Number
-of goat","Holding
-number","Number
-of sheep"
-3,Bholahat,8821,20977,7209,19993,388,1643
-4,Chapai Nawabganj Sadar,31437,65774,38730,104640,601,2885
-5,Gomastapur,27786,73150,22389,65551,1672,6371
-6,Nachole,17567,46951,10486,31030,507,2225
-7,Shibganj,42406,87216,49008,137280,778,4056
-8,Total,128017,294068,127822,358494,3946,17180
+1,,,,,,,
+2, Upazila,Cow & buffalo,Cow & buffalo,Goat,Goat,Sheep,Sheep
+3, Upazila,Holding number,Number of animal,Holding number,Number of goat,Holding number,Number of sheep
+4,Bholahat,8821,20977,7209,19993,388,1643
+5,Chapai Nawabganj Sadar,31437,65774,38730,104640,601,2885
+6,Gomastapur,27786,73150,22389,65551,1672,6371
+7,Nachole,17567,46951,10486,31030,507,2225
+8,Shibganj,42406,87216,49008,137280,778,4056
+9,Total,128017,294068,127822,358494,3946,17180

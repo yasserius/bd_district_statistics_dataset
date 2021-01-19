@@ -1,18 +1,15 @@
 ,0,1,2,3,4,5
 0,Cropped area sprayed with plant protection measures 2008,,,,,
 1,(Area in acre),,,,,
-2,"
-Upazila/city corporation",Total farm holding,Total farm holding,Spraying farm holding,Spraying farm holding,Reporting area sprayed
-3,"
-Upazila/city corporation",Number,Cropped area,Number,Cropped area,Reporting area sprayed
-4,Bagha,27488,33188,20600,15520,15520
-5,Baghmara,62375,69389,61273,77597,69953
-6,Charghat,28198,30612,38317,26816,8045
-7,Durgapur,32700,32924,32700,30470,30470
-8,Godagari,38922,71148,38922,93117,91000
-9,Mohanpur,28600,29332,19500,432,432
-10,Paba,36613,41501,36613,42952,42952
-11,Puthia,32486,34598,32486,35244,29450
-12,Rajshahi city corporation,5528,6734,5528,1890,1300
-13,Tanore,38471,53307,30455,55982,55982
-14,Total,331381,402733,316394,380020,345104
+2,Upazila/city corporation,Total farm holding Number,Total farm holding Cropped area,Spraying farm holding Number,Spraying farm holding Cropped area,Reporting area sprayed
+3,Bagha,27488,33188,20600,15520,15520
+4,Baghmara,62375,69389,61273,77597,69953
+5,Charghat,28198,30612,38317,26816,8045
+6,Durgapur,32700,32924,32700,30470,30470
+7,Godagari,38922,71148,38922,93117,91000
+8,Mohanpur,28600,29332,19500,432,432
+9,Paba,36613,41501,36613,42952,42952
+10,Puthia,32486,34598,32486,35244,29450
+11,Rajshahi city corporation,5528,6734,5528,1890,1300
+12,Tanore,38471,53307,30455,55982,55982
+13,Total,331381,402733,316394,380020,345104

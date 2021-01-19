@@ -1,20 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Rupali and Agrani bank 2011,,,,,,,,,,
-1,"
-Upazila",Rupali bank,Rupali bank,Rupali bank,Rupali bank,Rupali bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank
-2,"
-Upazila","Number of
-branch",Account,Account,Account,Account,"Number of
-branch",Account,Account,Account,Account
-3,"
-Upazila","Number of
-branch",S.D,C.D,F.D,S.T.D,"Number of
-branch",S.D,C.D,F.D,S.T.D
-4,Fulchhari,0,0,0,0,0,1,2000,150,99,135
-5,Gaibandha Sadar,1,16140,1213,95,60,1,17198,1322,105,66
-6,Gobindaganj,0,0,0,0,0,0,0,0,0,0
-7,Palashbari,0,0,0,0,0,0,0,0,0,0
-8,Sadullapur,1,3600,208,0,14,5,53560,4222,83,85
-9,Saghata,0,0,0,0,0,2,3205,222,82,13
-10,Sundarganj,0,0,0,0,0,1,12273,1048,71,19
-11,Total,2,19740,1421,95,74,10,88236,6964,440,318
+1,,,,,,,,,,,
+2, Upazila,Rupali bank,Rupali bank,Rupali bank,Rupali bank,Rupali bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank
+3, Upazila,Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
+4, Upazila,Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
+5,Fulchhari,0,0,0,0,0,1,2000,150,99,135
+6,Gaibandha Sadar,1,16140,1213,95,60,1,17198,1322,105,66
+7,Gobindaganj,0,0,0,0,0,0,0,0,0,0
+8,Palashbari,0,0,0,0,0,0,0,0,0,0
+9,Sadullapur,1,3600,208,0,14,5,53560,4222,83,85
+10,Saghata,0,0,0,0,0,2,3205,222,82,13
+11,Sundarganj,0,0,0,0,0,1,12273,1048,71,19
+12,Total,2,19740,1421,95,74,10,88236,6964,440,318

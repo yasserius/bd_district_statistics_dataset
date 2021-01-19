@@ -1,16 +1,13 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Bauphal,77,92,139,231
-4,Dashmina,10,100,10,110
-5,Dumki,68,87,20,107
-6,Galachipa,155,435,0,435
-7,Kalapara,68,87,20,107
-8,Mirzaganj,37,40,274,314
-9,Patuakhali Sadar,110,120,215,335
-10,Total,525,961,678,1639
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Bauphal,77,92,139,231
+5,Dashmina,10,100,10,110
+6,Dumki,68,87,20,107
+7,Galachipa,155,435,0,435
+8,Kalapara,68,87,20,107
+9,Mirzaganj,37,40,274,314
+10,Patuakhali Sadar,110,120,215,335
+11,Total,525,961,678,1639

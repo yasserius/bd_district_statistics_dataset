@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Broad soil classification 2008,,,,,,
-1,"
-Upazila","
-Total",Soil classification,Soil classification,Soil classification,Soil classification,Soil classification
-2,"
-Upazila","
-Total",Doash,Bele,Etel,Kankar,Others
+1,,,,,,,
+2,Upazila,Total,Soil classification Doash,Soil classification Bele,Soil classification Etel,Soil classification Kankar,Soil classification Others
 3,Adamdighi,4049,23830,8511,1702,0,0
 4,Bogra sadar,41663,14980,0,11770,0,15672
 5,Dhunat,62643,25346,5070,10138,0,10138

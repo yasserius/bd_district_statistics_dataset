@@ -1,24 +1,21 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of NGO school, teacher and student 2011",,,,,,,,
-1,Upazila/City corporation,"Number of NGO
-school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students per
-teacher"
-2,Upazila/City corporation,"Number of NGO
-school",Male,Female,Total,Male,Female,Total,"Students per
-teacher"
-3,Anowara,0,0,0,0,0,0,0,0
-4,Banshkhali,40,0,40,40,321,424,745,19
-5,Boalkhali,31,6,25,31,450,480,930,30
-6,Chandanaish,5,6,12,18,149,278,427,24
-7,Chittagong City Corp.,51,74,142,216,6426,7100,13526,63
-8,Fatikchhari,97,44,53,97,1057,1585,2642,27
-9,Hathazari,12,14,22,36,273,343,616,17
-10,Lohagara,49,0,49,49,519,952,1471,30
-11,Mirsharai,16,0,16,16,415,475,890,56
-12,Patiya,54,24,70,94,1760,2110,3870,41
-13,Rangunia,82,8,82,90,1469,1484,2953,33
-14,Raozan,0,0,0,0,0,0,0,0
-15,Sandwip,2,12,17,29,1500,1520,3020,104
-16,Satkania,2,0,5,5,407,492,899,180
-17,Sitakunda,5,0,5,5,654,681,1335,267
-18,Total,446,188,538,726,15400,17924,33324,46
+1,,,,,,,,,
+2,Upazila/City corporation,Number of NGO school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3,Upazila/City corporation,Number of NGO school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Anowara,0,0,0,0,0,0,0,0
+5,Banshkhali,40,0,40,40,321,424,745,19
+6,Boalkhali,31,6,25,31,450,480,930,30
+7,Chandanaish,5,6,12,18,149,278,427,24
+8,Chittagong City Corp.,51,74,142,216,6426,7100,13526,63
+9,Fatikchhari,97,44,53,97,1057,1585,2642,27
+10,Hathazari,12,14,22,36,273,343,616,17
+11,Lohagara,49,0,49,49,519,952,1471,30
+12,Mirsharai,16,0,16,16,415,475,890,56
+13,Patiya,54,24,70,94,1760,2110,3870,41
+14,Rangunia,82,8,82,90,1469,1484,2953,33
+15,Raozan,0,0,0,0,0,0,0,0
+16,Sandwip,2,12,17,29,1500,1520,3020,104
+17,Satkania,2,0,5,5,407,492,899,180
+18,Sitakunda,5,0,5,5,654,681,1335,267
+19,Total,446,188,538,726,15400,17924,33324,46

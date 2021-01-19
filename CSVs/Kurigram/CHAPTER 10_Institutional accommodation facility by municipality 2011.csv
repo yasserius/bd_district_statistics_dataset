@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6
 0,Institutional accommodation facility by municipality 2011,,,,,,
-1,Municipality,Residential hostel,Residential hostel,Hall/hostel,Hall/hostel,Mess/barracks,Mess/barracks
-2,Municipality,Number,Capacity,Number,Capacity,Number,Capacity
-3,Kurigram,8,160,2,260,48,465
-4,Nageshwari,5,105,2,110,15,330
-5,Ulipur,1,12,1,42,22,265
-6,Total,14,277,5,412,85,1060
+1,,,,,,,
+2,Municipality,Residential hostel,Residential hostel,Hall/hostel,Hall/hostel,Mess/barracks,Mess/barracks
+3,Municipality,Number,Capacity,Number,Capacity,Number,Capacity
+4,Kurigram,8,160,2,260,48,465
+5,Nageshwari,5,105,2,110,15,330
+6,Ulipur,1,12,1,42,22,265
+7,Total,14,277,5,412,85,1060

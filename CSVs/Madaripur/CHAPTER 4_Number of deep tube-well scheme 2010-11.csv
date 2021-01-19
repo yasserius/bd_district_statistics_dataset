@@ -1,11 +1,10 @@
 ,0,1,2,3
 0,Number of deep tube-well scheme 2010-11,,,
-1,"
-Upazila",Number of deep tube-well,Number of deep tube-well,Area irrigated (In acre)
-2,"
-Upazila",Commissioned,Operated,Area irrigated (In acre)
-3,Kalkini,0,0,0
-4,Madaripur Sadar,0,0,0
-5,Rajoir,0,7,828
-6,Shibchar,2,0,38
-7,Total,2,7,866
+1,,,,
+2, Upazila,Number of deep tube-well,Number of deep tube-well,Area irrigated (In acre)
+3, Upazila,Commissioned,Operated,Area irrigated (In acre)
+4,Kalkini,0,0,0
+5,Madaripur Sadar,0,0,0
+6,Rajoir,0,7,828
+7,Shibchar,2,0,38
+8,Total,2,7,866

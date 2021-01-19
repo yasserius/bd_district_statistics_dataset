@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,"Selected poultry, birds 2008",,,,,,
-1,"
-Upazila",Hen and cock,Hen and cock,Duck,Duck,Others,Others
-2,"
-Upazila",Holding reporting,Total number,Holding reporting,Total number,Holding reporting,Total number
+1,,,,,,,
+2,Upazila,Hen and cock Holding reporting,Hen and cock Total number,Duck Holding reporting,Duck Total number,Others Holding reporting,Others Total number
 3,Atwari,15484,104055,4601,17519,1353,9790
 4,Boda,28477,196310,9155,44753,0,0
 5,Debiganj,29667,196052,10148,55463,0,0

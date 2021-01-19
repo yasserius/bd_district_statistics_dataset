@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
 1,(According to Agriculture Census 2008),,,,
-2,"
-Upazila",Total farm holding,"
-Owner holding","
-Owner cum tenant","
-Tenant holding"
+2, Upazila,Total farm holding, Owner holding, Owner cum tenant, Tenant holding
 3,Dhaka Metropolitan,116472,824782,16808,882852
 4,Dhamrai,5151,55434,20936,7413
 5,Dohar,47333,32406,4629,5584

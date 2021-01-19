@@ -1,15 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting cattle head 2008,,,,,,
-1,"
-Upazila","
-Total holding",Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
-2,"
-Upazila","
-Total holding",1-3 head,4-6 head,7-9 head,10-15 head,"15 head &
-above"
-3,Amtali,30630,12339,8725,6977,1350,1239
-4,Bamna,8135,4218,2699,1218,0,0
-5,Barguna Sadar,23767,11252,1296,4670,275,274
-6,Betagi,12430,8439,3268,680,43,0
-7,Patharghata,13601,8854,2555,1030,770,385
-8,Total,88563,45102,18543,14575,2438,4336
+1,,,,,,,
+2, Upazila, Total holding,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
+3, Upazila, Total holding,1-3 head,4-6 head,7-9 head,10-15 head,15 head & above
+4,Amtali,30630,12339,8725,6977,1350,1239
+5,Bamna,8135,4218,2699,1218,0,0
+6,Barguna Sadar,23767,11252,1296,4670,275,274
+7,Betagi,12430,8439,3268,680,43,0
+8,Patharghata,13601,8854,2555,1030,770,385
+9,Total,88563,45102,18543,14575,2438,4336

@@ -1,6 +1,5 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Population and literacy rate of 1981, 1991, 2001 & 2011 and number of voter 2011",,,,,,,,,,,
-1,"
-Upazila",Population (000),Population (000),Population (000),Population (000),Literacy rate (%),Literacy rate (%),Literacy rate (%),Literacy rate (%),Number of voter (000),Number of voter (000),Number of voter (000)
-2,"
-Upazila",1981,1991,2001,2011,1981,1991,2001,2011,Male,Female,Total
+1,,,,,,,,,,,,
+2, Upazila,Population (000),Population (000),Population (000),Population (000),Literacy rate (%),Literacy rate (%),Literacy rate (%),Literacy rate (%),Number of voter (000),Number of voter (000),Number of voter (000)
+3, Upazila,1981,1991,2001,2011,1981,1991,2001,2011,Male,Female,Total

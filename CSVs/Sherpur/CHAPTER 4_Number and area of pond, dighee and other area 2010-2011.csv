@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Number and area of pond, dighee and other area 2010-2011",,,,,,
-1,(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre)
-2,Upazila,Pond,Pond,Dighee,Dighee,Other area,Total area
-3,Upazila,Number,Area,Number,Area,Other area,Total area
-4,Jhenaigati,5726,1510,0,0,1511,3021
-5,Nakla,4120,1569,0,0,390,1959
-6,Nalitabari,9575,2507,55,182,442,3131
-7,Sherpur Sadar,5054,1622,0,0,844,2466
-8,Sreebardi,6293,1482,0,0,260,1742
-9,Total,30768,8690,55,182,3447,12319
+1,,,,,,,
+2,(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre)
+3,Upazila,Pond,Pond,Dighee,Dighee,Other area,Total area
+4,Upazila,Number,Area,Number,Area,Other area,Total area
+5,Jhenaigati,5726,1510,0,0,1511,3021
+6,Nakla,4120,1569,0,0,390,1959
+7,Nalitabari,9575,2507,55,182,442,3131
+8,Sherpur Sadar,5054,1622,0,0,844,2466
+9,Sreebardi,6293,1482,0,0,260,1742
+10,Total,30768,8690,55,182,3447,12319

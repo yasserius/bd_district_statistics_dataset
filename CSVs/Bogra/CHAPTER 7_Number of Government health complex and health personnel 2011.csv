@@ -1,21 +1,17 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and health personnel 2011,,,,,
-1,Upazila,"Number of
-bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Adamdighi,50,7,9,8,60
-3,Bogra sadar,810,185,358,85,538
-4,Dhunat,50,5,9,0,113
-5,Gabtali,50,11,16,4,31
-6,Dhupchanchia,50,6,10,5,65
-7,Kahaloo,50,30,17,7,102
-8,Nandigram,31,4,8,4,76
-9,Sariakandi,50,11,7,3,115
-10,Sherpur,31,9,11,10,83
-11,Shibganj,50,9,8,8,0
-12,Sonatola,50,4,8,24,94
-13,Shajahanpur,31,16,8,4,72
-14,Total,1303,297,469,162,1349
+1,,,,,,
+2,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Adamdighi,50,7,9,8,60
+4,Bogra sadar,810,185,358,85,538
+5,Dhunat,50,5,9,0,113
+6,Gabtali,50,11,16,4,31
+7,Dhupchanchia,50,6,10,5,65
+8,Kahaloo,50,30,17,7,102
+9,Nandigram,31,4,8,4,76
+10,Sariakandi,50,11,7,3,115
+11,Sherpur,31,9,11,10,83
+12,Shibganj,50,9,8,8,0
+13,Sonatola,50,4,8,24,94
+14,Shajahanpur,31,16,8,4,72
+15,Total,1303,297,469,162,1349

@@ -1,23 +1,21 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting cattle head 2008,,,,,,
-1,Upazila/City corporation,"
-Total holding",Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
-2,Upazila/City corporation,"
-Total holding",1-3 head,4-6 head,7-9 head,10-15 head,"15 head &
-above"
-3,Anowara,11862,8362,3397,40,60,3
-4,Banshkhali,22511,20113,2238,118,30,12
-5,Boalkhali,5792,3902,1620,270,0,0
-6,Chandanaish,12550,12335,202,6,2,5
-7,Chittagong City Corp.,3038,2244,568,141,49,36
-8,Fatikchhari,33711,14754,15317,1602,1003,1035
-9,Hathazari,25789,14931,9540,808,478,32
-10,Lohagara,17986,15139,2061,583,201,2
-11,Mirsharai,22603,20008,1377,688,377,153
-12,Patiya,15833,11618,2853,1362,0,0
-13,Rangunia,19363,12404,4806,1903,250,0
-14,Raozan,18121,7571,8486,1000,941,123
-15,Sandwip,12215,10398,1150,267,250,150
-16,Satkania,21217,12111,6008,3098,0,0
-17,Sitakunda,13153,11743,1227,183,0,0
-18,Total,255744,177633,60850,12069,3641,1551
+1,,,,,,,
+2,Upazila/City corporation, Total holding,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
+3,Upazila/City corporation, Total holding,1-3 head,4-6 head,7-9 head,10-15 head,15 head & above
+4,Anowara,11862,8362,3397,40,60,3
+5,Banshkhali,22511,20113,2238,118,30,12
+6,Boalkhali,5792,3902,1620,270,0,0
+7,Chandanaish,12550,12335,202,6,2,5
+8,Chittagong City Corp.,3038,2244,568,141,49,36
+9,Fatikchhari,33711,14754,15317,1602,1003,1035
+10,Hathazari,25789,14931,9540,808,478,32
+11,Lohagara,17986,15139,2061,583,201,2
+12,Mirsharai,22603,20008,1377,688,377,153
+13,Patiya,15833,11618,2853,1362,0,0
+14,Rangunia,19363,12404,4806,1903,250,0
+15,Raozan,18121,7571,8486,1000,941,123
+16,Sandwip,12215,10398,1150,267,250,150
+17,Satkania,21217,12111,6008,3098,0,0
+18,Sitakunda,13153,11743,1227,183,0,0
+19,Total,255744,177633,60850,12069,3641,1551

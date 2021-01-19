@@ -1,18 +1,14 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of pond, dighee, flood camps, shelter, cyclone shelter, stadium,  playground, park,  amusement park 2011",,,,,,,
-1,"
-Upazila","
-Pond","
-Dighee",River flow,"Flood
-camp/ shelter",Cyclone shelter,Stadium/ playground,"Park/
-amusement park"
-2,Akhaura,699,6,3,1,0,5,0
-3,Ashuganj,763,6,1,0,0,6,0
-4,Banchharampur,1310,0,3,1,0,14,0
-5,Bijoynagar,1633,0,1,0,0,0,0
-6,Brahmanbaria Sadar,6000,2,1,1,0,12,2
-7,Kasba,4616,9,0,0,0,5,0
-8,Nabinagar,2820,25,6,0,0,25,0
-9,Nasirnagar,3064,5,1,12,0,10,0
-10,Sarail,1766,4,2,1,0,1,0
-11,Total,22671,57,18,16,0,78,2
+1,,,,,,,,
+2,Upazila,Pond,Dighee,River flow,Flood camp/ shelter,Cyclone shelter,Stadium/ playground,Park/ amusement park
+3,Akhaura,699,6,3,1,0,5,0
+4,Ashuganj,763,6,1,0,0,6,0
+5,Banchharampur,1310,0,3,1,0,14,0
+6,Bijoynagar,1633,0,1,0,0,0,0
+7,Brahmanbaria Sadar,6000,2,1,1,0,12,2
+8,Kasba,4616,9,0,0,0,5,0
+9,Nabinagar,2820,25,6,0,0,25,0
+10,Nasirnagar,3064,5,1,12,0,10,0
+11,Sarail,1766,4,2,1,0,1,0
+12,Total,22671,57,18,16,0,78,2

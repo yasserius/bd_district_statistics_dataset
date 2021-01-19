@@ -1,9 +1,9 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,Upazila,"Number of
-insurance company",Number of employee,Number of client
-2,Jhalokati Sadar,15,61,7375
-3,Kanthalia,8,24,20000
-4,Nalchity,8,50,5250
-5,Rajapur,12,32,17200
-6,Total,43,167,49825
+1,,,,
+2,Upazila,Number of insurance company,Number of employee,Number of client
+3,Jhalokati Sadar,15,61,7375
+4,Kanthalia,8,24,20000
+5,Nalchity,8,50,5250
+6,Rajapur,12,32,17200
+7,Total,43,167,49825

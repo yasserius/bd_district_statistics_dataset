@@ -1,9 +1,8 @@
 ,0,1,2,3,4
 0,Number of cinema hall and audience capacity by municipality 2011,,,,
-1,Upazila,"Number of
-cinema hall",Audience capacity,Show per day,"Attendance
-(daily average)"
-2,Bandar,1,260,3,150
-3,Narayanganj Sadar,8,1870,3,1050
-4,Rupganj,2,250,2,197
-5,Total,11,2380,8,1397
+1,,,,,
+2,Upazila,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
+3,Bandar,1,260,3,150
+4,Narayanganj Sadar,8,1870,3,1050
+5,Rupganj,2,250,2,197
+6,Total,11,2380,8,1397

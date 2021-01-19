@@ -1,18 +1,15 @@
 ,0,1,2,3,4,5
 0,Number of family planning personnel working by municipality 2011,,,,,
-1,"
-Upazila","
-Doctor","Family
-planning inspector",Family planning assistant,"Family
-planning visitor",Midwife/ birth attendant (Dai)
-2,Atpara,0,0,0,0,0
-3,Barhatta,0,0,0,0,0
-4,Durgapur,0,2,5,2,0
-5,Kalmakanda,0,0,0,0,0
-6,Kendua,2,0,3,2,0
-7,Khaliajuri,0,0,0,0,0
-8,Madan,1,1,3,2,2
-9,Mohanganj,1,1,3,2,0
-10,Netrokona Sadar,3,1,3,1,0
-11,Purbadhala,0,0,0,0,0
-12,Total,7,5,17,9,2
+1,,,,,,
+2, Upazila, Doctor,Family planning inspector,Family planning assistant,Family planning visitor,Midwife/ birth attendant (Dai)
+3,Atpara,0,0,0,0,0
+4,Barhatta,0,0,0,0,0
+5,Durgapur,0,2,5,2,0
+6,Kalmakanda,0,0,0,0,0
+7,Kendua,2,0,3,2,0
+8,Khaliajuri,0,0,0,0,0
+9,Madan,1,1,3,2,2
+10,Mohanganj,1,1,3,2,0
+11,Netrokona Sadar,3,1,3,1,0
+12,Purbadhala,0,0,0,0,0
+13,Total,7,5,17,9,2

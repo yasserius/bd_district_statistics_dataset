@@ -1,10 +1,8 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of lentil (masur), mug and maize crops 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Lentil (Masur),Lentil (Masur),Mug,Mug,Maize,Maize
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
+2, Upazila,Lentil (Masur),Lentil (Masur),Mug,Mug,Maize,Maize
+3, Upazila,Area,Production,Area,Production,Area,Production
 4,Kalkini,3577,1517,75,21,0,0
 5,Madaripur Sadar,2575,2112,0,0,0,0
 6,Rajoir,1708,564,281,91,0,0

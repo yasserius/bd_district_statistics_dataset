@@ -1,19 +1,18 @@
 ,0,1,2,3,4
 0,Number of handloom establishment and loom 2011,,,,
-1,"
-Upazila",Number of unit (factory),Number of loom,Number of loom,Number of loom
-2,"
-Upazila",Number of unit (factory),Operational,Non-operational,Total
-3,Bhaluka,220,170,50,220
-4,Dhobaura,0,0,0,0
-5,Fulbaria,0,0,0,0
-6,Gaffargaon,0,0,0,0
-7,Gauripur,0,0,0,0
-8,Haluaghat,30,50,40,90
-9,Ishwargonj,50,40,10,50
-10,Muktagacha,142,0,305,305
-11,Mymensingh Sadar,50,35,25,60
-12,Nandail,0,0,0,0
-13,Phulpur,0,0,0,0
-14,Trishal,0,0,0,0
-15,Total,492,295,430,725
+1,,,,,
+2, Upazila,Number of unit (factory),Number of loom,Number of loom,Number of loom
+3, Upazila,Number of unit (factory),Operational,Non-operational,Total
+4,Bhaluka,220,170,50,220
+5,Dhobaura,0,0,0,0
+6,Fulbaria,0,0,0,0
+7,Gaffargaon,0,0,0,0
+8,Gauripur,0,0,0,0
+9,Haluaghat,30,50,40,90
+10,Ishwargonj,50,40,10,50
+11,Muktagacha,142,0,305,305
+12,Mymensingh Sadar,50,35,25,60
+13,Nandail,0,0,0,0
+14,Phulpur,0,0,0,0
+15,Trishal,0,0,0,0
+16,Total,492,295,430,725

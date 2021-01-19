@@ -1,17 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting cattle head 2008,,,,,,
-1,"
-Upazila","
-Total holding",Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
-2,"
-Upazila","
-Total holding",1-3 head,4-6 head,7-9 head,10-15 head,"15 head &
-above"
-3,Assasuni,11493,4597,3332,1839,1145,580
-4,Debhata,24682,18378,5080,816,272,136
-5,Kalaroa,31504,22332,7382,1163,501,126
-6,Kaliganj,34192,19398,8271,4596,1872,55
-7,Satkhira Sadar,44144,26486,12349,5309,0,0
-8,Shyamnagar,15529,10250,3882,1397,0,0
-9,Tala,65328,42500,16533,3007,2960,328
-10,Total,226872,143941,56829,18127,6750,1225
+1,,,,,,,
+2, Upazila, Total holding,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
+3, Upazila, Total holding,1-3 head,4-6 head,7-9 head,10-15 head,15 head & above
+4,Assasuni,11493,4597,3332,1839,1145,580
+5,Debhata,24682,18378,5080,816,272,136
+6,Kalaroa,31504,22332,7382,1163,501,126
+7,Kaliganj,34192,19398,8271,4596,1872,55
+8,Satkhira Sadar,44144,26486,12349,5309,0,0
+9,Shyamnagar,15529,10250,3882,1397,0,0
+10,Tala,65328,42500,16533,3007,2960,328
+11,Total,226872,143941,56829,18127,6750,1225

@@ -1,8 +1,8 @@
 ,0,1,2,3,4,5
 0,"Number of ward, mahalla and household by municipality 2011",,,,,
-1,Upazila,"Name of
-municipality",Total ward,Total mahalla,Total holding,Total household
-2,Kalia,Kalia,9,19,4021,4485
-3,Lohagara,Lohagara,9,24,4958,5919
-4,Narail Sadar,Narail Sadar,9,24,8542,9945
-5,Total,-,27,67,17521,20349
+1,,,,,,
+2,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
+3,Kalia,Kalia,9,19,4021,4485
+4,Lohagara,Lohagara,9,24,4958,5919
+5,Narail Sadar,Narail Sadar,9,24,8542,9945
+6,Total,-,27,67,17521,20349

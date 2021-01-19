@@ -1,21 +1,16 @@
 ,0,1,2,3,4
 0,Number of cooperative society and member 2011,,,,
-1,"
-Upazila","Number of
-co-operative society",Number of member,Number of member,"
-Both sex"
-2,"
-Upazila","Number of
-co-operative society",Male,Female,"
-Both sex"
-3,Atpara,162,4050,324,4374
-4,Barhatta,435,11957,6024,17980
-5,Durgapur,105,1020,680,1700
-6,Kalmakanda,153,5365,0,5365
-7,Kendua,346,6600,200,6800
-8,Khaliajuri,205,4701,14,4715
-9,Madan,452,13587,3732,17319
-10,Mohanganj,167,5770,559,6329
-11,Netrokona Sadar,267,11794,617,12411
-12,Purbadhala,64,7442,7251,14693
-13,Total,2356,72286,19401,91686
+1,,,,,
+2, Upazila,Number of co-operative society,Number of member,Number of member, Both sex
+3, Upazila,Number of co-operative society,Male,Female, Both sex
+4,Atpara,162,4050,324,4374
+5,Barhatta,435,11957,6024,17980
+6,Durgapur,105,1020,680,1700
+7,Kalmakanda,153,5365,0,5365
+8,Kendua,346,6600,200,6800
+9,Khaliajuri,205,4701,14,4715
+10,Madan,452,13587,3732,17319
+11,Mohanganj,167,5770,559,6329
+12,Netrokona Sadar,267,11794,617,12411
+13,Purbadhala,64,7442,7251,14693
+14,Total,2356,72286,19401,91686

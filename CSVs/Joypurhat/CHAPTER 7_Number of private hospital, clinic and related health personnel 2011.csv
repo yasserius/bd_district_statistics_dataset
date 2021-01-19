@@ -1,15 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,Upazila,"Number
-of centre","Number
-of bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Akkelpur,0,0,0,0,0,0
-3,Joypurhat sadar,25,250,63,78,50,252
-4,Kalai,0,0,0,0,0,0
-5,Khetlal,0,0,0,0,0,0
-6,Panchbibi,0,0,0,0,0,0
-7,Total,25,250,63,78,50,252
+1,,,,,,,
+2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Akkelpur,0,0,0,0,0,0
+4,Joypurhat sadar,25,250,63,78,50,252
+5,Kalai,0,0,0,0,0,0
+6,Khetlal,0,0,0,0,0,0
+7,Panchbibi,0,0,0,0,0,0
+8,Total,25,250,63,78,50,252

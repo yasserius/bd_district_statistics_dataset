@@ -1,14 +1,11 @@
 ,0,1,2,3,4
 0,Number of Saw mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Araihazar,26,18,156,174
-4,Bandar,20,20,100,120
-5,Narayanganj Sadar,54,108,290,398
-6,Rupganj,36,39,147,186
-7,Sonargaon,28,50,160,210
-8,Total,164,235,853,1088
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Araihazar,26,18,156,174
+5,Bandar,20,20,100,120
+6,Narayanganj Sadar,54,108,290,398
+7,Rupganj,36,39,147,186
+8,Sonargaon,28,50,160,210
+9,Total,164,235,853,1088

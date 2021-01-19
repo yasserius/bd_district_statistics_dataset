@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Number of pottery and person engaged 2011,,,,
-1,Upazila,Unit,Person engaged,Person engaged,Person engaged
-2,Upazila,Unit,Family,Hired,Total
-3,Belkuchi,5,15,0,15
-4,Chauhali,4,8,100,108
-5,Kamarkhanda,42,162,0,162
-6,Kazipur,5,15,0,15
-7,Royganj,21,44,38,82
-8,Shahjadpur,108,432,0,432
-9,Sirajganj Sadar,42,126,0,126
-10,Tarash,0,0,0,0
-11,Ullahpara,61,136,122,258
-12,Total,288,938,260,1198
+1,,,,,
+2,Upazila,Unit,Person engaged,Person engaged,Person engaged
+3,Upazila,Unit,Family,Hired,Total
+4,Belkuchi,5,15,0,15
+5,Chauhali,4,8,100,108
+6,Kamarkhanda,42,162,0,162
+7,Kazipur,5,15,0,15
+8,Royganj,21,44,38,82
+9,Shahjadpur,108,432,0,432
+10,Sirajganj Sadar,42,126,0,126
+11,Tarash,0,0,0,0
+12,Ullahpara,61,136,122,258
+13,Total,288,938,260,1198

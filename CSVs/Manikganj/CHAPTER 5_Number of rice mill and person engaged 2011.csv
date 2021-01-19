@@ -1,16 +1,13 @@
 ,0,1,2,3,4
 0,Number of rice mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Male,Female,Total
-3,Daulotpur,0,0,0,0
-4,Gheor,44,132,0,132
-5,Horirampur,2,16,4,20
-6,Manikganj Sadar,5,15,15,30
-7,Saturia,40,85,20,105
-8,Shibalaya,7,12,15,27
-9,Singair,40,40,40,80
-10,Total,138,300,94,394
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Male,Female,Total
+4,Daulotpur,0,0,0,0
+5,Gheor,44,132,0,132
+6,Horirampur,2,16,4,20
+7,Manikganj Sadar,5,15,15,30
+8,Saturia,40,85,20,105
+9,Shibalaya,7,12,15,27
+10,Singair,40,40,40,80
+11,Total,138,300,94,394

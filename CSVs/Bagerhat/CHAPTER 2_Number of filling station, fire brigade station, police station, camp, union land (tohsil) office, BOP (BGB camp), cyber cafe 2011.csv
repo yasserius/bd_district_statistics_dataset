@@ -1,20 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of filling station, fire brigade station, police station, camp, union land (tohsil) office, BOP (BGB camp), cyber cafe 2011",,,,,,,,
-1,"
-Upazila",Filling station,"Fire
-brigade station","Police
-station/ camp","Union land
-(tohsil) office","Sub-
-registry office","BOP (BGB
-camp)","ISP
-provider",Cyber cafe
-2,Bagerhat Sadar,2,1,5,5,1,0,0,16
-3,Kachua,1,0,1,3,1,0,0,0
-4,Rampal,1,0,3,5,1,0,0,0
-5,Sarankhola,0,1,3,4,1,0,0,0
-6,Chitalmari,1,1,3,4,1,0,0,0
-7,Morrelgonj,0,1,5,10,1,0,0,0
-8,Mongla,2,1,4,3,1,1,0,1
-9,Mollahat,3,0,3,3,1,0,0,0
-10,Fakirhat,9,0,7,2,1,0,0,0
-11,Total,19,5,34,39,9,1,0,17
+1,,,,,,,,,
+2, Upazila,Filling station,Fire brigade station,Police station/ camp,Union land (tohsil) office,Sub- registry office,BOP (BGB camp),ISP provider,Cyber cafe
+3,Bagerhat Sadar,2,1,5,5,1,0,0,16
+4,Kachua,1,0,1,3,1,0,0,0
+5,Rampal,1,0,3,5,1,0,0,0
+6,Sarankhola,0,1,3,4,1,0,0,0
+7,Chitalmari,1,1,3,4,1,0,0,0
+8,Morrelgonj,0,1,5,10,1,0,0,0
+9,Mongla,2,1,4,3,1,1,0,1
+10,Mollahat,3,0,3,3,1,0,0,0
+11,Fakirhat,9,0,7,2,1,0,0,0
+12,Total,19,5,34,39,9,1,0,17

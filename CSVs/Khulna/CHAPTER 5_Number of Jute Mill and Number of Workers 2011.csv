@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6,7
 0,Number of Jute Mill and Number of Workers 2011,,,,,,,
-1,"
-Upazila/city corporation","
-Number of mill",Number of loom (installed),Number of loom,Number of loom,Number of workers,Number of workers,Number of workers
-2,"
-Upazila/city corporation","
-Number of mill",Number of loom (installed),Operative,Non- operational,Permanent,Temporary,Total
+1,,,,,,,,
+2,Upazila/city corporation,Number of mill,Number of loom (installed),Number of loom Operative,Number of loom Non- operational,Number of workers Permanent,Number of workers Temporary,Number of workers Total
 3,Batiaghata,0,0,0,0,0,0,0
 4,Dacope,0,0,0,0,0,0,0
 5,Dighalia,3,870,782,88,2726,5749,8475

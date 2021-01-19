@@ -1,12 +1,12 @@
 ,0,1,2,3,4,5
 0,Sanction post of Government employee by category 2011,,,,,
-1,Upazila,Class-I,Class-II,Class-III,Class-IV,"Number of total
-employee"
-2,Fulchhari,34,36,630,117,817
-3,Gaibandha Sadar,210,415,2310,156,3091
-4,Gobindaganj,63,63,1375,164,1665
-5,Palashbari,77,58,815,186,1136
-6,Sadullapur,32,24,646,250,952
-7,Saghata,25,40,488,30,583
-8,Sundarganj,34,94,1394,321,1843
-9,Total,475,730,7658,1224,10087
+1,,,,,,
+2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
+3,Fulchhari,34,36,630,117,817
+4,Gaibandha Sadar,210,415,2310,156,3091
+5,Gobindaganj,63,63,1375,164,1665
+6,Palashbari,77,58,815,186,1136
+7,Sadullapur,32,24,646,250,952
+8,Saghata,25,40,488,30,583
+9,Sundarganj,34,94,1394,321,1843
+10,Total,475,730,7658,1224,10087

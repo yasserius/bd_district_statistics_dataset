@@ -1,16 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Krishi and Co-operative bank 2011,,,,,,,,,,
-1,"
-Upazila",Krishi bank,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank
-2,"
-Upazila",Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
-3,"
-Upazila",Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
-4,Daulotpur,1,100,0,110,1,0,0,0,0,0
-5,Gheor,2,12674,294,255,3,0,0,0,0,0
-6,Horirampur,2,10745,182,387,10,0,0,0,0,0
-7,Manikganj Sadar,2,7951,322,380,12,0,0,0,0,0
-8,Saturia,1,4400,169,221,5,0,0,0,0,0
-9,Shibalaya,2,11,444,257,10,0,0,0,0,0
-10,Singair,3,9866,234,198,11,0,0,0,0,0
-11,Total,13,45747,1645,1808,52,0,0,0,0,0
+1,,,,,,,,,,,
+2, Upazila,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank
+3, Upazila,Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
+4, Upazila,Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
+5,Daulotpur,1,100,0,110,1,0,0,0,0,0
+6,Gheor,2,12674,294,255,3,0,0,0,0,0
+7,Horirampur,2,10745,182,387,10,0,0,0,0,0
+8,Manikganj Sadar,2,7951,322,380,12,0,0,0,0,0
+9,Saturia,1,4400,169,221,5,0,0,0,0,0
+10,Shibalaya,2,11,444,257,10,0,0,0,0,0
+11,Singair,3,9866,234,198,11,0,0,0,0,0
+12,Total,13,45747,1645,1808,52,0,0,0,0,0

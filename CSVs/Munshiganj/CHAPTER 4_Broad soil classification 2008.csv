@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6,7,8
 0,Broad soil classification 2008,,,,,,,,
-1,"
-Upazila","
-Total",Soil classification,Soil classification,Soil classification,Soil classification,Soil classification,Soil classification,Soil classification
-2,"
-Upazila","
-Total",Doash,I,Bele,I,Etel,I,Kankar I Others
+1,,,,,,,,,
+2,Upazila,Total,Soil classification Doash,Soil classification I,Soil classification Bele,Soil classification I,Soil classification Etel,Soil classification I,Soil classification Kankar I Others
 3,Gazaria,19331,14556,9705,8087,0,0,,
 4,Lauhajang,18462,20685,5231,6195,0,233,,
 5,Munshiganj Sadar,29575,10790,3211,25695,0,24,,

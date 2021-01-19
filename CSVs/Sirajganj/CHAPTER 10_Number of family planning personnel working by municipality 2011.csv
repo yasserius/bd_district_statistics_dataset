@@ -1,14 +1,11 @@
 ,0,1,2,3,4,5
 0,Number of family planning personnel working by municipality 2011,,,,,
-1,"
-Upazila","
-Doctor","Family planning
-inspector",Family planning assistant,"Family planning
-visitor",Midwife/ birth attendant (Dai)
-2,Belkuchi,1,1,3,1,2
-3,Kazipur,0,0,0,0,0
-4,Royganj,0,1,2,1,2
-5,Shahjadpur,0,0,0,0,0
-6,Sirajganj Sadar,3,1,0,6,0
-7,Ullahpara,2,1,4,1,0
-8,Total,6,4,9,9,4
+1,,,,,,
+2, Upazila, Doctor,Family planning inspector,Family planning assistant,Family planning visitor,Midwife/ birth attendant (Dai)
+3,Belkuchi,1,1,3,1,2
+4,Kazipur,0,0,0,0,0
+5,Royganj,0,1,2,1,2
+6,Shahjadpur,0,0,0,0,0
+7,Sirajganj Sadar,3,1,0,6,0
+8,Ullahpara,2,1,4,1,0
+9,Total,6,4,9,9,4

@@ -1,22 +1,20 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Rupali and Agrani bank 2011,,,,,,,,,,
-1,"
-Upazila",Rupali bank,Rupali bank,Rupali bank,Rupali bank,Rupali bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank
-2,"
-Upazila",Number of  branch,Account,Account,Account,Account,Number of  branch,Account,Account,Account,Account
-3,"
-Upazila",Number of  branch,S.D,C.D,F.D,S.T.D,Number of  branch,S.D,C.D,F.D,S.T.D
-4,Biral,1,5968,247,78,24,0,0,0,0,0
-5,Birampur,0,0,0,0,0,1,3683,751,197,48
-6,Birganj,2,12418,1991,123,83,0,0,0,0,0
-7,Bochaganj,0,0,0,0,0,1,11944,888,204,27
-8,Chirirbandar,1,4310,130,52,4,2,7639,1107,102,12
-9,Dinajpur Sadar,3,233,259,128,49,6,340,226,228,117
-10,Fulbari,0,0,0,0,0,2,12826,557,162,56
-11,Ghoraghat,0,0,0,0,0,0,0,0,0,0
-12,Hakimpur,0,0,0,0,0,1,76,37,34,16
-13,Kaharole,0,0,0,0,0,0,0,0,0,0
-14,Khansama,0,0,0,0,0,0,0,0,0,0
-15,Nawabganj,1,0,5,41,6,1,6517,298,66,10
-16,Parbatipur,0,0,0,0,0,2,13095,1230,97,51
-17,Total,8,22929,2632,422,167,16,56120,5094,1090,337
+1,,,,,,,,,,,
+2, Upazila,Rupali bank,Rupali bank,Rupali bank,Rupali bank,Rupali bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank
+3, Upazila,Number of  branch,Account,Account,Account,Account,Number of  branch,Account,Account,Account,Account
+4, Upazila,Number of  branch,S.D,C.D,F.D,S.T.D,Number of  branch,S.D,C.D,F.D,S.T.D
+5,Biral,1,5968,247,78,24,0,0,0,0,0
+6,Birampur,0,0,0,0,0,1,3683,751,197,48
+7,Birganj,2,12418,1991,123,83,0,0,0,0,0
+8,Bochaganj,0,0,0,0,0,1,11944,888,204,27
+9,Chirirbandar,1,4310,130,52,4,2,7639,1107,102,12
+10,Dinajpur Sadar,3,233,259,128,49,6,340,226,228,117
+11,Fulbari,0,0,0,0,0,2,12826,557,162,56
+12,Ghoraghat,0,0,0,0,0,0,0,0,0,0
+13,Hakimpur,0,0,0,0,0,1,76,37,34,16
+14,Kaharole,0,0,0,0,0,0,0,0,0,0
+15,Khansama,0,0,0,0,0,0,0,0,0,0
+16,Nawabganj,1,0,5,41,6,1,6517,298,66,10
+17,Parbatipur,0,0,0,0,0,2,13095,1230,97,51
+18,Total,8,22929,2632,422,167,16,56120,5094,1090,337

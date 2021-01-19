@@ -1,12 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of ebtedayee madrasah 2011,,,,,,,,
-1,"
-Upazila",Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Baliakandi,8,20,12,32,240,280,520,16
-4,Goalanda,1,1,1,2,36,70,106,53
-5,Kalukhali,0,0,0,0,0,0,0,0
-6,Pangsha,3,6,3,9,105,90,195,22
-7,Rajbari Sadar,6,18,6,24,383,327,710,30
-8,Total,18,45,22,67,764,767,1531,30
+1,,,,,,,,,
+2, Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Baliakandi,8,20,12,32,240,280,520,16
+5,Goalanda,1,1,1,2,36,70,106,53
+6,Kalukhali,0,0,0,0,0,0,0,0
+7,Pangsha,3,6,3,9,105,90,195,22
+8,Rajbari Sadar,6,18,6,24,383,327,710,30
+9,Total,18,45,22,67,764,767,1531,30

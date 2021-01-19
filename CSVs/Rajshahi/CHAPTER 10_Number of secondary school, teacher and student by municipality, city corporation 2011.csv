@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of secondary school, teacher and student by municipality, city corporation 2011",,,,,,,,
-1,"Municipality
-/city corporation",Number of    institution,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Student per teacher
-2,"Municipality
-/city corporation",Number of    institution,Male,Female,Total,Male,Female,Total,Student per teacher
+1,,,,,,,,,
+2,Municipality /city corporation,Number of institution,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Student per teacher
 3,Bagha,9,79,31,110,1490,1992,3482,32
 4,Baghmara,10,82,12,94,1393,741,2134,23
 5,Charghat,10,115,25,140,1607,1963,3570,26

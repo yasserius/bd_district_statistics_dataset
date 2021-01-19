@@ -1,16 +1,12 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of pond, dighee, flood camps, shelter, cyclone shelter, stadium,  playground, park,  amusement park 2011",,,,,,,
-1,"
-Upazila","
-Pond","
-Dighee","
-River flow",Flood camp/ shelter,Cyclone shelter,Stadium/ playground,"Park/ amusement
-park"
-2,Barlekha,1710,0,1,1,0,0,0
-3,Juri,2105,30,2,7,0,45,1
-4,Kamalganj,190,4,2,0,1,5,0
-5,Kulaura,2662,90,3,1,0,7,0
-6,Moulvibazar Sadar,3246,22,2,4,0,18,2
-7,Rajnagar,2596,5,2,6,0,5,0
-8,Sreemangal,5441,18,1,0,0,16,0
-9,Total,17950,169,13,19,1,96,3
+1,,,,,,,,
+2, Upazila, Pond, Dighee, River flow,Flood camp/ shelter,Cyclone shelter,Stadium/ playground,Park/ amusement park
+3,Barlekha,1710,0,1,1,0,0,0
+4,Juri,2105,30,2,7,0,45,1
+5,Kamalganj,190,4,2,0,1,5,0
+6,Kulaura,2662,90,3,1,0,7,0
+7,Moulvibazar Sadar,3246,22,2,4,0,18,2
+8,Rajnagar,2596,5,2,6,0,5,0
+9,Sreemangal,5441,18,1,0,0,16,0
+10,Total,17950,169,13,19,1,96,3

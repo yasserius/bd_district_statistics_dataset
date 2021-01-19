@@ -1,14 +1,15 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,Upazila/city corporation,Number,Number of employee,Number of client
-2,Bagha,40,60,1480
-3,Baghmara,147,206,7020
-4,Charghat,298,435,16237
-5,Durgapur,84,135,1390
-6,Godagari,474,762,25700
-7,Mohanpur,407,742,20498
-8,Paba,220,325,11094
-9,Puthia,258,365,9486
-10,Rajshahi city corporation,97,254,214
-11,Tanore,91,186,8518
-12,Total,2116,3470,101637
+1,,,,
+2,Upazila/city corporation,Number,Number of employee,Number of client
+3,Bagha,40,60,1480
+4,Baghmara,147,206,7020
+5,Charghat,298,435,16237
+6,Durgapur,84,135,1390
+7,Godagari,474,762,25700
+8,Mohanpur,407,742,20498
+9,Paba,220,325,11094
+10,Puthia,258,365,9486
+11,Rajshahi city corporation,97,254,214
+12,Tanore,91,186,8518
+13,Total,2116,3470,101637

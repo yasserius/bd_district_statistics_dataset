@@ -1,19 +1,16 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Atpara,25,20,85,105
-4,Barhatta,73,73,219,292
-5,Durgapur,95,95,285,380
-6,Kalmakanda,75,75,225,300
-7,Kendua,121,120,308,428
-8,Khaliajuri,10,13,17,30
-9,Madan,78,61,227,288
-10,Mohanganj,199,1166,340,1476
-11,Netrokona Sadar,320,425,855,1280
-12,Purbadhala,135,100,270,370
-13,Total,1131,2148,2831,4949
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Atpara,25,20,85,105
+5,Barhatta,73,73,219,292
+6,Durgapur,95,95,285,380
+7,Kalmakanda,75,75,225,300
+8,Kendua,121,120,308,428
+9,Khaliajuri,10,13,17,30
+10,Madan,78,61,227,288
+11,Mohanganj,199,1166,340,1476
+12,Netrokona Sadar,320,425,855,1280
+13,Purbadhala,135,100,270,370
+14,Total,1131,2148,2831,4949

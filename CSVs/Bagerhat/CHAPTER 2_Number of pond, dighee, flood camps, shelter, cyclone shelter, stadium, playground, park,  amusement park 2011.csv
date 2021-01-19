@@ -1,17 +1,14 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of pond, dighee, flood camps, shelter, cyclone shelter, stadium, playground, park,  amusement park 2011",,,,,,,
-1,Upazila,Pond,Dighee,River flow,"Flood camp/
-shelter","Cyclone
-shelter","Stadium/
-playground","Park/amusement
-park"
-2,Bagerhat Sadar,5765,4,2,0,7,16,2
-3,Kachua,3649,12,2,0,17,5,0
-4,Rampal,18376,31,5,3,9,146,0
-5,Sarankhola,720,16,2,2,66,10,0
-6,Chitalmari,1747,0,3,6,12,107,0
-7,Morrelgonj,12750,0,1,4,51,6,0
-8,Mongla,3813,11,2,0,21,16,0
-9,Mollahat,1855,0,1,8,4,40,2
-10,Fakirhat,2042,4,0,0,0,0,0
-11,Total,50717,78,18,23,187,346,4
+1,,,,,,,,
+2,Upazila,Pond,Dighee,River flow,Flood camp/ shelter,Cyclone shelter,Stadium/ playground,Park/amusement park
+3,Bagerhat Sadar,5765,4,2,0,7,16,2
+4,Kachua,3649,12,2,0,17,5,0
+5,Rampal,18376,31,5,3,9,146,0
+6,Sarankhola,720,16,2,2,66,10,0
+7,Chitalmari,1747,0,3,6,12,107,0
+8,Morrelgonj,12750,0,1,4,51,6,0
+9,Mongla,3813,11,2,0,21,16,0
+10,Mollahat,1855,0,1,8,4,40,2
+11,Fakirhat,2042,4,0,0,0,0,0
+12,Total,50717,78,18,23,187,346,4

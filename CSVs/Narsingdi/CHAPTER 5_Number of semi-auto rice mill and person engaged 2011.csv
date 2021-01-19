@@ -1,15 +1,12 @@
 ,0,1,2,3,4
 0,Number of semi-auto rice mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Male,Female,Total
-3,Belabo,0,0,0,0
-4,Manohardi,0,0,0,0
-5,Narsingdi Sadar,34,52,16,68
-6,Palash,1,4,3,7
-7,Roypura,0,0,0,0
-8,Sibpur,0,0,0,0
-9,Total,35,56,19,75
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Male,Female,Total
+4,Belabo,0,0,0,0
+5,Manohardi,0,0,0,0
+6,Narsingdi Sadar,34,52,16,68
+7,Palash,1,4,3,7
+8,Roypura,0,0,0,0
+9,Sibpur,0,0,0,0
+10,Total,35,56,19,75

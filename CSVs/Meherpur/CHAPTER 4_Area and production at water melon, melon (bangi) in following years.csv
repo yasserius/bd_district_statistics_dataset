@@ -1,9 +1,8 @@
 ,0,1,2,3,4
 0,"Area and production at water melon, melon (bangi) in following years",,,,
 1,(Area in acre & production in metric ton),,,,
-2,Upazila,2010-11,2010-11,2009-10,2009-10
-3,Upazila,Area,Production,Area,Production
-4,Gangni,85,492,74,424
-5,Mujibnagar,0,0,0,0
-6,Meherpur Sadar,0,0,0,0
-7,Total,85,492,74,424
+2,Upazila,2010-11 Area,2010-11 Production,2009-10 Area,2009-10 Production
+3,Gangni,85,492,74,424
+4,Mujibnagar,0,0,0,0
+5,Meherpur Sadar,0,0,0,0
+6,Total,85,492,74,424

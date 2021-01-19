@@ -1,41 +1,17 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Non-Government health complex and health facility 2011,,,,,,,,,,
-1,"
-
-Upazila",Number of hospital/ clinic/ nursing home,"
-Number of bed","
-Number of doctor","
-Number of nurse","
-Number of technician","Number of
-other staff","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility"
-2,"
-
-Upazila",Number of hospital/ clinic/ nursing home,"
-Number of bed","
-Number of doctor","
-Number of nurse","
-Number of technician","Number of
-other staff",Indoor,Indoor,Outdoor,Outdoor
-3,"
-
-Upazila",Number of hospital/ clinic/ nursing home,"
-Number of bed","
-Number of doctor","
-Number of nurse","
-Number of technician","Number of
-other staff",Male,Female,Male,Female
-4,Atpara,0,0,0,0,0,0,0,0,0,0
-5,Barhatta,0,0,0,0,0,0,0,0,0,0
-6,Durgapur,2,22,6,10,3,13,192,317,3861,8215
-7,Kalmakanda,0,0,0,0,0,0,0,0,0,0
-8,Kendua,0,0,0,0,0,0,0,0,0,0
-9,Khaliajuri,0,0,0,0,0,0,0,0,0,0
-10,Madan,0,0,0,0,0,0,0,0,0,0
-11,Mohanganj,0,0,0,0,0,0,0,0,0,0
-12,Netrokona Sadar,5,60,12,15,4,32,1805,5416,2780,4950
-13,Purbadhala,0,0,0,0,0,0,0,0,0,0
-14,Total,6,82,18,25,7,45,1997,5733,6641,13165
+1,,,,,,,,,,,
+2,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of technician,Number of other staff,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility
+3,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of technician,Number of other staff,Indoor,Indoor,Outdoor,Outdoor
+4,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of technician,Number of other staff,Male,Female,Male,Female
+5,Atpara,0,0,0,0,0,0,0,0,0,0
+6,Barhatta,0,0,0,0,0,0,0,0,0,0
+7,Durgapur,2,22,6,10,3,13,192,317,3861,8215
+8,Kalmakanda,0,0,0,0,0,0,0,0,0,0
+9,Kendua,0,0,0,0,0,0,0,0,0,0
+10,Khaliajuri,0,0,0,0,0,0,0,0,0,0
+11,Madan,0,0,0,0,0,0,0,0,0,0
+12,Mohanganj,0,0,0,0,0,0,0,0,0,0
+13,Netrokona Sadar,5,60,12,15,4,32,1805,5416,2780,4950
+14,Purbadhala,0,0,0,0,0,0,0,0,0,0
+15,Total,6,82,18,25,7,45,1997,5733,6641,13165

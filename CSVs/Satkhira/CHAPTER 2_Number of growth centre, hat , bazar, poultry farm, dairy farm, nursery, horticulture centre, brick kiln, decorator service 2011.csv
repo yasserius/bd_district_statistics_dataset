@@ -1,18 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of growth centre, hat , bazar, poultry farm, dairy farm, nursery, horticulture centre, brick kiln, decorator service 2011",,,,,,,,
-1,Upazila,"Growth
-centre","Hat
-/bazar","Poultry
-farm","Dairy
-farm",Nursery,"Horticulture
-centre","Brick
-kiln","Decorator
-service"
-2,Assasuni,6,38,120,221,13,0,9,15
-3,Debhata,4,15,220,150,20,0,7,12
-4,Kalaroa,5,35,122,265,15,0,17,40
-5,Kaliganj,6,49,1032,125,176,1,8,29
-6,Satkhira Sadar,6,52,671,260,92,1,26,39
-7,Shyamnagar,6,45,165,131,16,1,8,25
-8,Tala,6,40,260,67,14,1,16,19
-9,Total,39,274,2590,1219,346,4,91,179
+1,,,,,,,,,
+2,Upazila,Growth centre,Hat /bazar,Poultry farm,Dairy farm,Nursery,Horticulture centre,Brick kiln,Decorator service
+3,Assasuni,6,38,120,221,13,0,9,15
+4,Debhata,4,15,220,150,20,0,7,12
+5,Kalaroa,5,35,122,265,15,0,17,40
+6,Kaliganj,6,49,1032,125,176,1,8,29
+7,Satkhira Sadar,6,52,671,260,92,1,26,39
+8,Shyamnagar,6,45,165,131,16,1,8,25
+9,Tala,6,40,260,67,14,1,16,19
+10,Total,39,274,2590,1219,346,4,91,179

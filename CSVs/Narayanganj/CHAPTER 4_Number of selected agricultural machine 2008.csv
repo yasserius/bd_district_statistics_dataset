@@ -1,9 +1,10 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,Upazila,Number of power tiller,Tractor,Number of threshing machine
-2,Araihazar,154,67,1550
-3,Bandar,29,11,141
-4,Narayanganj Sadar,20,77,57
-5,Rupganj,157,76,1455
-6,Sonargaon,200,65,240
-7,Total,560,296,3443
+1,,,,
+2,Upazila,Number of power tiller,Tractor,Number of threshing machine
+3,Araihazar,154,67,1550
+4,Bandar,29,11,141
+5,Narayanganj Sadar,20,77,57
+6,Rupganj,157,76,1455
+7,Sonargaon,200,65,240
+8,Total,560,296,3443

@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of establishment and person engaged in cottage industry 2011,,,,
-1,"
-Upazila/city corporation","
-Number of units",Persons engaged,Persons engaged,Persons engaged
-2,"
-Upazila/city corporation","
-Number of units",Family,Hired,Total
+1,,,,,
+2,Upazila/city corporation,Number of units,Persons engaged Family,Persons engaged Hired,Persons engaged Total
 3,Batiaghata,56,90,0,90
 4,Dacope,0,0,0,0
 5,Dighalia,76,259,42,301

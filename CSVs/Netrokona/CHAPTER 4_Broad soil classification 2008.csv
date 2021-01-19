@@ -1,19 +1,16 @@
 ,0,1,2,3,4,5,6
 0,Broad soil classification 2008,,,,,,
-1,"
-Upazila","
-Total",Soil classification,Soil classification,Soil classification,Soil classification,Soil classification
-2,"
-Upazila","
-Total",Doash,Bele,Etel,Kankar,Others
-3,Atpara,47360,41677,947,4736,0,0
-4,Barhatta,52613,26556,4757,6852,0,14448
-5,Durgapur,58912,46509,9302,3101,0,0
-6,Kalmakanda,54913,47501,7412,0,0,0
-7,Kendua,30789,24514,5421,854,0,0
-8,Khaliajuri,70622,2149,79,23218,0,45176
-9,Madan,57650,28820,14215,14615,0,0
-10,Mohanganj,48303,47211,241,851,0,0
-11,Netrokona Sadar,23968,19000,0,4968,0,0
-12,Purbadhala,74861,41174,7486,26201,0,0
-13,Total,408948,205885,36786,390691,0,59624
+1,,,,,,,
+2, Upazila, Total,Soil classification,Soil classification,Soil classification,Soil classification,Soil classification
+3, Upazila, Total,Doash,Bele,Etel,Kankar,Others
+4,Atpara,47360,41677,947,4736,0,0
+5,Barhatta,52613,26556,4757,6852,0,14448
+6,Durgapur,58912,46509,9302,3101,0,0
+7,Kalmakanda,54913,47501,7412,0,0,0
+8,Kendua,30789,24514,5421,854,0,0
+9,Khaliajuri,70622,2149,79,23218,0,45176
+10,Madan,57650,28820,14215,14615,0,0
+11,Mohanganj,48303,47211,241,851,0,0
+12,Netrokona Sadar,23968,19000,0,4968,0,0
+13,Purbadhala,74861,41174,7486,26201,0,0
+14,Total,408948,205885,36786,390691,0,59624

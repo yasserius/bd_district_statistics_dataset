@@ -1,20 +1,16 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting cattle head 2008,,,,,,
-1,"
-Upazila","
-Total holding",Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
-2,"
-Upazila","
-Total holding",1-3 head,4-6 head,7 -9 head,10-15 head,"15 head &
-above"
-3,Baghaichhari,6554,3024,1900,900,550,180
-4,Barkal,3089,1128,837,1124,0,0
-5,Belai Chhari,1513,838,391,284,0,0
-6,Jurai Chhari,2373,1023,558,454,207,100
-7,Kaptai,2771,1418,840,342,147,24
-8,Kawkhali,5562,2376,2134,621,311,120
-9,Langadu,7598,2501,2123,1593,1063,318
-10,Naniarchar,2775,1536,786,369,84,0
-11,Rangamati Sadar,2741,1850,725,135,26,5
-12,Rajasthali,2287,1337,526,296,112,16
-13,Total,37263,17031,10820,6118,2500,763
+1,,,,,,,
+2, Upazila, Total holding,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
+3, Upazila, Total holding,1-3 head,4-6 head,7 -9 head,10-15 head,15 head & above
+4,Baghaichhari,6554,3024,1900,900,550,180
+5,Barkal,3089,1128,837,1124,0,0
+6,Belai Chhari,1513,838,391,284,0,0
+7,Jurai Chhari,2373,1023,558,454,207,100
+8,Kaptai,2771,1418,840,342,147,24
+9,Kawkhali,5562,2376,2134,621,311,120
+10,Langadu,7598,2501,2123,1593,1063,318
+11,Naniarchar,2775,1536,786,369,84,0
+12,Rangamati Sadar,2741,1850,725,135,26,5
+13,Rajasthali,2287,1337,526,296,112,16
+14,Total,37263,17031,10820,6118,2500,763

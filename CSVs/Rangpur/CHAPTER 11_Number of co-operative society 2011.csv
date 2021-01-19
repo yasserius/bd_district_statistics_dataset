@@ -1,16 +1,13 @@
 ,0,1,2,3,4,5
 0,Number of co-operative society 2011,,,,,
-1,"
-Upazila","
-Number",Number of Employee,Number of Client,"Annual Premium
-(in lac tk.)","Annual claimed Paid
-(in lac tk.)"
-2,Badarganj,116,0,3977,2,5
-3,Gangachara,114,0,12015,184,1
-4,Kaunia,73,5,3217,27,0
-5,Mithapukur,176,0,2080,44,0
-6,Pirgachha,357,3,16235,28,0
-7,Pirganj,441,20,20315,69,383
-8,Rangpur sadar,525,200,32041,1200,2000
-9,Taraganj,72,6,11156,121,1
-10,Total,1874,234,101036,1675,2390
+1,,,,,,
+2, Upazila, Number,Number of Employee,Number of Client,Annual Premium (in lac tk.),Annual claimed Paid (in lac tk.)
+3,Badarganj,116,0,3977,2,5
+4,Gangachara,114,0,12015,184,1
+5,Kaunia,73,5,3217,27,0
+6,Mithapukur,176,0,2080,44,0
+7,Pirgachha,357,3,16235,28,0
+8,Pirganj,441,20,20315,69,383
+9,Rangpur sadar,525,200,32041,1200,2000
+10,Taraganj,72,6,11156,121,1
+11,Total,1874,234,101036,1675,2390

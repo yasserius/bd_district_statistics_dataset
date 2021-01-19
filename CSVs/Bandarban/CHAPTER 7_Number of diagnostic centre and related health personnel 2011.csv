@@ -1,16 +1,12 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,Upazila,"Number of
-centre","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Alikadam,0,0,0,0,0
-3,Bandarban Sadar,5,4,0,5,10
-4,Lama,0,0,0,0,0
-5,Naikhongchhari,0,0,0,0,0
-6,Rowangchhari,0,0,0,0,0
-7,Ruma,0,0,0,0,0
-8,Thanchi,0,0,0,0,0
-9,Total,5,4,0,5,10
+1,,,,,,
+2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Alikadam,0,0,0,0,0
+4,Bandarban Sadar,5,4,0,5,10
+5,Lama,0,0,0,0,0
+6,Naikhongchhari,0,0,0,0,0
+7,Rowangchhari,0,0,0,0,0
+8,Ruma,0,0,0,0,0
+9,Thanchi,0,0,0,0,0
+10,Total,5,4,0,5,10

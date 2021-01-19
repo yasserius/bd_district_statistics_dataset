@@ -1,9 +1,8 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2010-11,,,,,,
 1,(Area in acre & production in metric ton),,,,,,
-2,Upazila,Potato,Potato,Sweet potato,Sweet potato,Total potato,Total potato
-3,Upazila,Area,Production,Area,Production,Area,Production
-4,Gangni,2115,18375,131,609,2246,18984
-5,Mujibnagar,370,3463,6,24,376,3487
-6,Meherpur Sadar,1939,17858,185,110,2125,17968
-7,Total,4424,39696,322,743,4747,40439
+2,Upazila,Potato Area,Potato Production,Sweet potato Area,Sweet potato Production,Total potato Area,Total potato Production
+3,Gangni,2115,18375,131,609,2246,18984
+4,Mujibnagar,370,3463,6,24,376,3487
+5,Meherpur Sadar,1939,17858,185,110,2125,17968
+6,Total,4424,39696,322,743,4747,40439

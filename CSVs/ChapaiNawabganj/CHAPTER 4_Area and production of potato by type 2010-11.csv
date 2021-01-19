@@ -1,19 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2010-11,,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Potato,Potato,Sweet potato,Sweet potato,Total potato,Total potato
-3,Upazila,Area,Production,Area,Production,Area,Production
-4,Bholahat,315,2148,97,923,412,3071
-5,Chapai Nawabganj Sadar,836,8119,41,225,877,8345
-6,Gomastapur,707,4794,14,36,721,4830
-7,Nachole,971,6281,0,0,971,6281
-8,Shibganj,875,6483,87,352,962,6835
-9,Total,3704,27825,239,1536,3943,29362
-10,Upazila,Potato,Potato,Sweet potato,Sweet potato,Total potato,Total potato
-11,Upazila,Area,Production,Area,Production,Area,Production
-12,Bholahat,384,2490,91,864,475,3354
-13,Chapai Nawabganj Sadar,935,6219,49,269,984,6489
-14,Gomastapur,699,4408,19,49,748,4457
-15,Nachole,1088,6670,0,0,1088,6670
-16,Shibganj,958,8382,87,352,1045,8734
-17,Total,4064,28169,246,1534,4340,29704
+2,Upazila Upazila Bholahat Chapai Nawabganj Sadar Gomastapur Nachole Shibganj Total,Potato Area 315 836 707 971 875 3704,Potato Production 2148 8119 4794 6281 6483 27825,Sweet potato Area 97 41 14 0 87 239,Sweet potato Production 923 225 36 0 352 1536,Total potato Area 412 877 721 971 962 3943,Total potato Production 3071 8345 4830 6281 6835 29362
+3,Upazila,Potato,Potato,Sweet potato,Sweet potato,Total potato,Total potato
+4,Upazila,Area,Production,Area,Production,Area,Production
+5,Bholahat,384,2490,91,864,475,3354
+6,Chapai Nawabganj Sadar,935,6219,49,269,984,6489
+7,Gomastapur,699,4408,19,49,748,4457
+8,Nachole,1088,6670,0,0,1088,6670
+9,Shibganj,958,8382,87,352,1045,8734
+10,Total,4064,28169,246,1534,4340,29704

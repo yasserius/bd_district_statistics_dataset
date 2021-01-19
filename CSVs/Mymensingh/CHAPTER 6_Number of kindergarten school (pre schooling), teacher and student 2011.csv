@@ -1,19 +1,18 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kindergarten school (pre schooling), teacher and student 2011",,,,,,,,
-1,"
-Upazila",Number of kindergarten school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of kindergarten school,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Bhaluka,122,351,503,854,5866,5997,11863,14
-4,Dhubaura,7,15,14,29,754,807,1561,54
-5,Fulbaria,47,22,28,50,1786,1594,3380,68
-6,Gaffargaon,25,94,81,175,2410,1826,4236,24
-7,Gauripur,37,85,213,298,2961,3300,6261,21
-8,Phulpur,54,78,138,216,6968,7404,14372,67
-9,Haluaghat,12,17,63,80,684,435,1119,14
-10,Ishwargonj,24,83,124,207,1102,1347,2449,12
-11,Muktagacha,22,59,37,86,902,896,1798,21
-12,Nandail,50,108,150,258,2180,1691,3891,15
-13,Mymensingh Sadar,152,342,825,1167,6303,6125,12428,11
-14,Trishal,53,104,161,265,7059,7219,14278,54
-15,Total,605,1358,2337,3685,38975,38641,77636,21
+1,,,,,,,,,
+2, Upazila,Number of kindergarten school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of kindergarten school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Bhaluka,122,351,503,854,5866,5997,11863,14
+5,Dhubaura,7,15,14,29,754,807,1561,54
+6,Fulbaria,47,22,28,50,1786,1594,3380,68
+7,Gaffargaon,25,94,81,175,2410,1826,4236,24
+8,Gauripur,37,85,213,298,2961,3300,6261,21
+9,Phulpur,54,78,138,216,6968,7404,14372,67
+10,Haluaghat,12,17,63,80,684,435,1119,14
+11,Ishwargonj,24,83,124,207,1102,1347,2449,12
+12,Muktagacha,22,59,37,86,902,896,1798,21
+13,Nandail,50,108,150,258,2180,1691,3891,15
+14,Mymensingh Sadar,152,342,825,1167,6303,6125,12428,11
+15,Trishal,53,104,161,265,7059,7219,14278,54
+16,Total,605,1358,2337,3685,38975,38641,77636,21

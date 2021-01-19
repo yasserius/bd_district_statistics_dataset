@@ -1,17 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of agricultural & veterinary colleges, teachers and students 2011",,,,,,,,
-1,Thana/Upazila Name,"Number of
-college",Number of teachers,Number of teachers,Number of teachers,Number of students,Number of students,Number of students,"Students per
-teacher"
-2,Thana/Upazila Name,"Number of
-college",Male,Female,Total,Male,Female,Total,"Students per
-teacher"
-3,Badarganj,1,4,1,5,85,10,95,19
-4,Gangachara,0,0,0,0,0,0,0,0
-5,Kaunia,0,0,0,0,0,0,0,0
-6,Mitha pukur,0,0,0,0,0,0,0,0
-7,Pirgachha,0,0,0,0,0,0,0,0
-8,Pirganj,0,0,0,0,0,0,0,0
-9,Rangpur sadar,0,0,0,0,0,0,0,0
-10,Taraganj,1,7,1,8,51,8,59,7
-11,Total,2,11,2,13,136,18,154,12
+1,,,,,,,,,
+2,Thana/Upazila Name,Number of college,Number of teachers,Number of teachers,Number of teachers,Number of students,Number of students,Number of students,Students per teacher
+3,Thana/Upazila Name,Number of college,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Badarganj,1,4,1,5,85,10,95,19
+5,Gangachara,0,0,0,0,0,0,0,0
+6,Kaunia,0,0,0,0,0,0,0,0
+7,Mitha pukur,0,0,0,0,0,0,0,0
+8,Pirgachha,0,0,0,0,0,0,0,0
+9,Pirganj,0,0,0,0,0,0,0,0
+10,Rangpur sadar,0,0,0,0,0,0,0,0
+11,Taraganj,1,7,1,8,51,8,59,7
+12,Total,2,11,2,13,136,18,154,12

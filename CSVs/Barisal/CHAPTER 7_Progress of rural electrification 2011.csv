@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6,7,8
 0,Progress of rural electrification 2011,,,,,,,,
-1,"
-Upazila/city corporation",Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified
-2,"
-Upazila/city corporation","
-Village",Residential holdings,Large scale industry,Small scale industry,Deep tube- well,Power pump,Commercial holding,"
-Others"
+1,,,,,,,,,
+2,Upazila/city corporation,Number of electrified Village,Number of electrified Residential holdings,Number of electrified Large scale industry,Number of electrified Small scale industry,Number of electrified Deep tube- well,Number of electrified Power pump,Number of electrified Commercial holding,Number of electrified Others
 3,Agailjhara,91,13960,0,179,0,116,2170,0
 4,Babuganj,82,14100,1,67,1,0,2009,0
 5,Bakerganj,126,22367,0,134,0,0,2268,0

@@ -1,22 +1,19 @@
 ,0,1,2,3,4
 0,Number of printing press and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Biral,1,3,1,4
-4,Birampur,2,10,6,16
-5,Birganj,4,60,19,25
-6,Bochaganj,2,2,5,7
-7,Chirirbandar,0,0,0,0
-8,Dinajpur Sadar,16,20,70,90
-9,Fulbari,5,6,13,19
-10,Ghoraghat,0,0,0,0
-11,Hakimpur,1,1,1,2
-12,Kaharole,1,2,0,2
-13,Khansama,0,0,0,0
-14,Nawabganj,1,1,2,3
-15,Parbatipur,4,4,3,7
-16,Total,37,109,120,175
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Biral,1,3,1,4
+5,Birampur,2,10,6,16
+6,Birganj,4,60,19,25
+7,Bochaganj,2,2,5,7
+8,Chirirbandar,0,0,0,0
+9,Dinajpur Sadar,16,20,70,90
+10,Fulbari,5,6,13,19
+11,Ghoraghat,0,0,0,0
+12,Hakimpur,1,1,1,2
+13,Kaharole,1,2,0,2
+14,Khansama,0,0,0,0
+15,Nawabganj,1,1,2,3
+16,Parbatipur,4,4,3,7
+17,Total,37,109,120,175

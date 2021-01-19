@@ -1,18 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Status of family planning activity 2011,,,,,,
-1,"
-Upazila",Sterilization in number,Sterilization in number,"IUD/
-Injection",Condom (in piece),Oral pill (in cycle),"
-Copper- T"
-2,"
-Upazila",Vasectomy,Tubectomy,"IUD/
-Injection",Condom (in piece),Oral pill (in cycle),"
-Copper- T"
-3,Fulchhari,148,125,3000,7000,12591,363
-4,Gaibandha Sadar,180,511,371/9315,4281,42873,371
-5,Gobindaganj,850,563,5212,4243,15162,624
-6,Palashbari,440,215,666,127050,271068,613
-7,Sadullapur,590,258,2407,2741,24500,2113
-8,Saghata,340,285,1933,838,5632,476
-9,Sundarganj,500,315,4717,24299,51402,1024
-10,Total,3048,2272,17935,170452,423228,5584
+1,,,,,,,
+2, Upazila,Sterilization in number,Sterilization in number,IUD/ Injection,Condom (in piece),Oral pill (in cycle), Copper- T
+3, Upazila,Vasectomy,Tubectomy,IUD/ Injection,Condom (in piece),Oral pill (in cycle), Copper- T
+4,Fulchhari,148,125,3000,7000,12591,363
+5,Gaibandha Sadar,180,511,371/9315,4281,42873,371
+6,Gobindaganj,850,563,5212,4243,15162,624
+7,Palashbari,440,215,666,127050,271068,613
+8,Sadullapur,590,258,2407,2741,24500,2113
+9,Saghata,340,285,1933,838,5632,476
+10,Sundarganj,500,315,4717,24299,51402,1024
+11,Total,3048,2272,17935,170452,423228,5584

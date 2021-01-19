@@ -1,10 +1,9 @@
 ,0,1,2,3,4
 0,Area and production of cauliflower and cucumber 2009-10,,,,
 1,(Area in acre and production in metric ton),,,,
-2,Upazila,Cauliflower,Cauliflower,Cucumber,Cucumber
-3,Upazila,Area,Production,Area,Production
-4,Jhalokati Sadar,102,244,62,167
-5,Kanthalia,30,364,10,28
-6,Nalchity,17,12,22,12
-7,Rajapur,10,10,49,60
-8,Total,158,630,143,267
+2,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
+3,Jhalokati Sadar,102,244,62,167
+4,Kanthalia,30,364,10,28
+5,Nalchity,17,12,22,12
+6,Rajapur,10,10,49,60
+7,Total,158,630,143,267

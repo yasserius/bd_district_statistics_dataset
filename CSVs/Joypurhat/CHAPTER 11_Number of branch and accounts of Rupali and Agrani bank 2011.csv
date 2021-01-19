@@ -1,18 +1,12 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Rupali and Agrani bank 2011,,,,,,,,,,
-1,"
-Upazila",Rupali bank,Rupali bank,Rupali bank,Rupali bank,Rupali bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank
-2,"
-Upazila","Number of
-branch",Account,Account,Account,Account,"Number of
-branch",Account,Account,Account,Account
-3,"
-Upazila","Number of
-branch",S.D,C.D,F.D,S.T.D,"Number of
-branch",S.D,C.D,F.D,S.T.D
-4,Akkelpur,2,6103,393,138,13,1,15887,1761,76,33
-5,Joypurhat sadar,1,7262,177,80,88,2,19217,830,133,95
-6,Kalai,1,2300,30,14,31,2,9278,1317,172,1
-7,Khetlal,1,1345,111,56,14,0,0,0,0,0
-8,Panchbibi,0,0,0,0,0,3,666,69,72,6
-9,Total,5,17010,711,288,146,8,45048,3977,453,135
+1,,,,,,,,,,,
+2, Upazila,Rupali bank,Rupali bank,Rupali bank,Rupali bank,Rupali bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank
+3, Upazila,Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
+4, Upazila,Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
+5,Akkelpur,2,6103,393,138,13,1,15887,1761,76,33
+6,Joypurhat sadar,1,7262,177,80,88,2,19217,830,133,95
+7,Kalai,1,2300,30,14,31,2,9278,1317,172,1
+8,Khetlal,1,1345,111,56,14,0,0,0,0,0
+9,Panchbibi,0,0,0,0,0,3,666,69,72,6
+10,Total,5,17010,711,288,146,8,45048,3977,453,135

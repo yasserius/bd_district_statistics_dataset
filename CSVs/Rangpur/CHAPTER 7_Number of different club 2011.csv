@@ -1,17 +1,13 @@
 ,0,1,2,3,4
 0,Number of different club 2011,,,,
-1,"
-Upazila","
-Sports club","
-Cultural club","
-Science club","Other social club
-(like officers, rifle club etc.)"
-2,Badarganj,2,2,0,1
-3,Gangachara,31,13,0,1
-4,Kaunia,9,1,0,1
-5,Mithapukur,18,13,0,1
-6,Pirgachha,39,2,0,1
-7,Pirganj,0,2,0,2
-8,Rangpur sadar,45,29,10,498
-9,Taraganj,35,0,0,1
-10,Total,179,62,10,506
+1,,,,,
+2, Upazila, Sports club, Cultural club, Science club,"Other social club (like officers, rifle club etc.)"
+3,Badarganj,2,2,0,1
+4,Gangachara,31,13,0,1
+5,Kaunia,9,1,0,1
+6,Mithapukur,18,13,0,1
+7,Pirgachha,39,2,0,1
+8,Pirganj,0,2,0,2
+9,Rangpur sadar,45,29,10,498
+10,Taraganj,35,0,0,1
+11,Total,179,62,10,506

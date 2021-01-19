@@ -1,15 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of papaya, guava, lime and lemon 2009-10",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Papaya,Papaya,Guava,Guava,Lime and lemon,Lime and lemon
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Fulchhari,14,250,16,182,5,40
-5,Gaibandha sadar,276,27,62,145,48,78
-6,Gobindaganj,27,151,0,0,0,0
-7,Palashbari,36,237,96,278,120,135
-8,Sadullapur,38,84,26,142,7,0
-9,Saghata,5,89,6,44,2,26
-10,Sundarganj,0,122,0,164,0,8
-11,Total,396,960,207,955,182,287
+2,Upazila,Papaya Area,Papaya Production,Guava Area,Guava Production,Lime and lemon Area,Lime and lemon Production
+3,Fulchhari,14,250,16,182,5,40
+4,Gaibandha sadar,276,27,62,145,48,78
+5,Gobindaganj,27,151,0,0,0,0
+6,Palashbari,36,237,96,278,120,135
+7,Sadullapur,38,84,26,142,7,0
+8,Saghata,5,89,6,44,2,26
+9,Sundarganj,0,122,0,164,0,8
+10,Total,396,960,207,955,182,287

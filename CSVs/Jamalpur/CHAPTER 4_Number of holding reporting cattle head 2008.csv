@@ -1,17 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting cattle head 2008,,,,,,
-1,"
-Upazila","
-Total holding",Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
-2,"
-Upazila","
-Total holding",1-3 head,4-6 head,7 -9 head,10-15 head,"15 head &
-above"
-3,Bakshiganj,22506,17606,3912,800,120,68
-4,Dewanganj,22290,14267,6139,1719,150,15
-5,Islampur,31300,18944,7958,2696,1269,25
-6,Jamalpur Sadar,67657,47360,16237,3306,742,12
-7,Madarganj,41057,30544,8100,1500,613,300
-8,Melandaha,19999,9022,7373,2577,891,137
-9,Sarishabari,50681,25727,23345,1313,220,76
-10,Total,255490,163470,73064,13911,4005,633
+1,,,,,,,
+2, Upazila, Total holding,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
+3, Upazila, Total holding,1-3 head,4-6 head,7 -9 head,10-15 head,15 head & above
+4,Bakshiganj,22506,17606,3912,800,120,68
+5,Dewanganj,22290,14267,6139,1719,150,15
+6,Islampur,31300,18944,7958,2696,1269,25
+7,Jamalpur Sadar,67657,47360,16237,3306,742,12
+8,Madarganj,41057,30544,8100,1500,613,300
+9,Melandaha,19999,9022,7373,2577,891,137
+10,Sarishabari,50681,25727,23345,1313,220,76
+11,Total,255490,163470,73064,13911,4005,633

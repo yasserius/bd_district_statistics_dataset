@@ -1,11 +1,10 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Government secondary school, teacher and student 2011",,,,,,,,
-1,"
-Upazila",Number of  school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of  school,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Alamdanga,0,0,0,0,0,0,0,0
-4,Chuadanga Sadar,2,83,12,95,1950,1942,3892,41
-5,Damurhuda,0,0,0,0,0,0,0,0
-6,Jibonnagar,0,0,0,0,0,0,0,0
-7,Total,2,83,12,95,1950,1942,3892,41
+1,,,,,,,,,
+2, Upazila,Number of  school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of  school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Alamdanga,0,0,0,0,0,0,0,0
+5,Chuadanga Sadar,2,83,12,95,1950,1942,3892,41
+6,Damurhuda,0,0,0,0,0,0,0,0
+7,Jibonnagar,0,0,0,0,0,0,0,0
+8,Total,2,83,12,95,1950,1942,3892,41

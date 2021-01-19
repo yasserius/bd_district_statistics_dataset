@@ -1,39 +1,12 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Non-Government health complex and health facility 2011,,,,,,,,,,
-1,"
-
-Upazila","Number of hospital/ clinic/ nursing
-home","
-Number of bed","
-Number of  doctor","
-Number of nurse","
-Number of technician","Number of
-other staff","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility"
-2,"
-
-Upazila","Number of hospital/ clinic/ nursing
-home","
-Number of bed","
-Number of  doctor","
-Number of nurse","
-Number of technician","Number of
-other staff",Indoor,Indoor,Outdoor,Outdoor
-3,"
-
-Upazila","Number of hospital/ clinic/ nursing
-home","
-Number of bed","
-Number of  doctor","
-Number of nurse","
-Number of technician","Number of
-other staff",Male,Female,Male,Female
-4,Akkelpur,0,0,0,0,0,0,0,0,0,0
-5,Joypurhat sadar,25,250,75,75,50,252,5151,6712,3112,4213
-6,Kalai,0,0,0,0,0,0,0,0,0,0
-7,Khetlal,0,0,0,0,0,0,0,0,0,0
-8,Panchbibi,0,0,0,0,0,0,0,0,0,0
-9,Total,25,250,75,75,50,252,5151,6712,3112,4213
+1,,,,,,,,,,,
+2,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of technician,Number of other staff,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility
+3,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of technician,Number of other staff,Indoor,Indoor,Outdoor,Outdoor
+4,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of technician,Number of other staff,Male,Female,Male,Female
+5,Akkelpur,0,0,0,0,0,0,0,0,0,0
+6,Joypurhat sadar,25,250,75,75,50,252,5151,6712,3112,4213
+7,Kalai,0,0,0,0,0,0,0,0,0,0
+8,Khetlal,0,0,0,0,0,0,0,0,0,0
+9,Panchbibi,0,0,0,0,0,0,0,0,0,0
+10,Total,25,250,75,75,50,252,5151,6712,3112,4213

@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of pottery and person engaged 2011,,,,
-1,"
-Upazila","
-Units",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Units",Family,Hired,Total
+1,,,,,
+2,Upazila,Units,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Basail,117,229,10,239
 4,Bhuapur,103,350,5,355
 5,Delduar,220,612,15,627

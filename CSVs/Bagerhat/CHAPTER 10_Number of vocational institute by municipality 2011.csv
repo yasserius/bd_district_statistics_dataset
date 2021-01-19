@@ -1,8 +1,8 @@
 ,0,1,2,3
 0,Number of vocational institute by municipality 2011,,,
-1,Municipality,"Number of
-institution",Number of teacher,Number of student
-2,Bagerhat,1,18,215
-3,Morrelgonj,2,10,162
-4,Mongla,1,5,136
-5,Total,4,33,513
+1,,,,
+2,Municipality,Number of institution,Number of teacher,Number of student
+3,Bagerhat,1,18,215
+4,Morrelgonj,2,10,162
+5,Mongla,1,5,136
+6,Total,4,33,513

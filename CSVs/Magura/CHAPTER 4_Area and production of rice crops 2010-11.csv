@@ -1,12 +1,9 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2010-11,,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Aus,Aus,Aman,Aman,Boro,Boro
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Magura Sadar,12130,10617,47580,58451,43184,62902
-5,Mohammadpur,2155,1381,27240,25016,11839,17404
-6,Shalikha,11132,10720,26251,25053,29525,45086
-7,Sreepur,5114,46470,21404,23057,8116,17214
-8,Total,30531,69188,122475,131577,92664,142606
+2,Upazila,Aus Area,Aus Production,Aman Area,Aman Production,Boro Area,Boro Production
+3,Magura Sadar,12130,10617,47580,58451,43184,62902
+4,Mohammadpur,2155,1381,27240,25016,11839,17404
+5,Shalikha,11132,10720,26251,25053,29525,45086
+6,Sreepur,5114,46470,21404,23057,8116,17214
+7,Total,30531,69188,122475,131577,92664,142606

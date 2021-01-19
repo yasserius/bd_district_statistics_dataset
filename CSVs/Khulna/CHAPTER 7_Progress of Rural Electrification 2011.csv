@@ -1,15 +1,7 @@
 ,0,1,2,3,4,5,6,7,8
 0,Progress of Rural Electrification 2011,,,,,,,,
-1,"
-Thana/ Upazila Name",Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified
-2,"
-Thana/ Upazila Name","
-Village","
-Residential Holdings",Large scale industry,Small scale Industry,"
-Deep Tube-well","
-Power pump","
-Commercial holding","
-Others"
+1,,,,,,,,,
+2,Thana/ Upazila Name,Number of electrified Village,Number of electrified Residential Holdings,Number of electrified Large scale industry,Number of electrified Small scale Industry,Number of electrified Deep Tube-well,Number of electrified Power pump,Number of electrified Commercial holding,Number of electrified Others
 3,Batiaghata,479,10216,1,1187,1181,0,7731,0
 4,Dacope,30,3800,7,66,0,0,1500,0
 5,Dighalia,34,9800,16,12,0,13,534,0

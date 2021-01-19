@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-2,Kamalnagar,0,0,0,0,0,0
-3,Lakshmipur Sadar,14,125,32,172,36,116
-4,Ramganj,6,60,6,24,0,17
-5,Ramgati,0,0,0,0,0,0
-6,Roypur,3,30,21,34,8,61
-7,Total,23,215,59,230,44,194
+1,,,,,,,
+2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Kamalnagar,0,0,0,0,0,0
+4,Lakshmipur Sadar,14,125,32,172,36,116
+5,Ramganj,6,60,6,24,0,17
+6,Ramgati,0,0,0,0,0,0
+7,Roypur,3,30,21,34,8,61
+8,Total,23,215,59,230,44,194

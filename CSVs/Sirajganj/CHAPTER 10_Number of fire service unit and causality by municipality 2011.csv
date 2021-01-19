@@ -1,14 +1,11 @@
 ,0,1,2,3,4,5
 0,Number of fire service unit and causality by municipality 2011,,,,,
-1,"
-Upazila",Fire service unit,Person employed,"
-Fire case","
-Person dead","
-Person injured"
-2,Belkuchi,0,0,0,0,0
-3,Kazipur,1,18,16,1,0
-4,Royganj,0,0,0,0,0
-5,Shahjadpur,1,22,62,0,70
-6,Sirajganj Sadar,1,32,75,0,2
-7,Ullahpara,1,25,57,0,0
-8,Total,4,97,210,1,72
+1,,,,,,
+2, Upazila,Fire service unit,Person employed, Fire case, Person dead, Person injured
+3,Belkuchi,0,0,0,0,0
+4,Kazipur,1,18,16,1,0
+5,Royganj,0,0,0,0,0
+6,Shahjadpur,1,22,62,0,70
+7,Sirajganj Sadar,1,32,75,0,2
+8,Ullahpara,1,25,57,0,0
+9,Total,4,97,210,1,72

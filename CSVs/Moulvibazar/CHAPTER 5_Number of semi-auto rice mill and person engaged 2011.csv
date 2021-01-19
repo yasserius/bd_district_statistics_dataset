@@ -1,16 +1,13 @@
 ,0,1,2,3,4
 0,Number of semi-auto rice mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Male,Female,Total
-3,Barlekha,23,28,7,35
-4,Juri,13,39,65,104
-5,Kamalganj,5,5,2,7
-6,Kulaura,10,8,4,12
-7,Moulvibazar Sadar,0,0,0,0
-8,Rajnagar,8,77,127,204
-9,Sreemangal,7,50,0,50
-10,Total,66,207,205,412
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Male,Female,Total
+4,Barlekha,23,28,7,35
+5,Juri,13,39,65,104
+6,Kamalganj,5,5,2,7
+7,Kulaura,10,8,4,12
+8,Moulvibazar Sadar,0,0,0,0
+9,Rajnagar,8,77,127,204
+10,Sreemangal,7,50,0,50
+11,Total,66,207,205,412

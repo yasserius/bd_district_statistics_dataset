@@ -1,16 +1,14 @@
 ,0,1,2,3,4,5,6,7
 0,Number of technical personnel 2011,,,,,,,
-1,"
-Upazila",Agricultural personnel,"Live- stock
-personnel",Plant protection,Fishery personnel,Sanitary personnel,"Family planning
-personnel",Trained midwife
-2,Belkuchi,33,25,0,47,210,35,45
-3,Chauhali,56,22,0,12,15,56,35
-4,Kamarkhanda,32,6,0,11,15,32,10
-5,Kazipur,129,50,5,13,750,150,10
-6,Royganj,87,33,0,80,260,60,69
-7,Shahjadpur,84,125,39,55,95,165,1
-8,Sirajganj Sadar,107,502,4,150,34,10,19
-9,Tarash,78,149,5,32,19,9,2
-10,Ullahpara,11,113,35,85,62,178,20
-11,Total,617,1025,78,485,1460,695,211
+1,,,,,,,,
+2, Upazila,Agricultural personnel,Live- stock personnel,Plant protection,Fishery personnel,Sanitary personnel,Family planning personnel,Trained midwife
+3,Belkuchi,33,25,0,47,210,35,45
+4,Chauhali,56,22,0,12,15,56,35
+5,Kamarkhanda,32,6,0,11,15,32,10
+6,Kazipur,129,50,5,13,750,150,10
+7,Royganj,87,33,0,80,260,60,69
+8,Shahjadpur,84,125,39,55,95,165,1
+9,Sirajganj Sadar,107,502,4,150,34,10,19
+10,Tarash,78,149,5,32,19,9,2
+11,Ullahpara,11,113,35,85,62,178,20
+12,Total,617,1025,78,485,1460,695,211

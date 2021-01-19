@@ -1,15 +1,11 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,"
-Upazila","
-Police personnel","
-Ansar personnel","
-VDP personnel",Autonomous bodies,"Local
-Government employee"
-2,Harinakunda,81,388,7552,5,19
-3,Jhenaidah Sadar,597,685,16987,363,287
-4,Kaliganj,75,484,12352,2,117
-5,Kotchandpur,68,324,5632,2,5
-6,Mahespur,25,558,13184,43,128
-7,Shailkupa,97,652,18176,0,238
-8,Total,943,3091,73883,415,794
+1,,,,,,
+2, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous bodies,Local Government employee
+3,Harinakunda,81,388,7552,5,19
+4,Jhenaidah Sadar,597,685,16987,363,287
+5,Kaliganj,75,484,12352,2,117
+6,Kotchandpur,68,324,5632,2,5
+7,Mahespur,25,558,13184,43,128
+8,Shailkupa,97,652,18176,0,238
+9,Total,943,3091,73883,415,794

@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Number of bridge, baily bridge, culvert, pool, shako and others 2011",,,,,,
-1,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
-2,Daulotpur,28,8,30,3,30,0
-3,Gheor,53,0,78,0,0,0
-4,Horirampur,20,7,56,100,20,0
-5,Manikganj Sadar,55,1,94,0,5,10
-6,Saturia,130,5,95,40,150,20
-7,Shibalaya,42,1,88,3,280,0
-8,Singair,120,2,213,110,45,0
-9,Total,448,24,654,256,530,30
+1,,,,,,,
+2,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
+3,Daulotpur,28,8,30,3,30,0
+4,Gheor,53,0,78,0,0,0
+5,Horirampur,20,7,56,100,20,0
+6,Manikganj Sadar,55,1,94,0,5,10
+7,Saturia,130,5,95,40,150,20
+8,Shibalaya,42,1,88,3,280,0
+9,Singair,120,2,213,110,45,0
+10,Total,448,24,654,256,530,30

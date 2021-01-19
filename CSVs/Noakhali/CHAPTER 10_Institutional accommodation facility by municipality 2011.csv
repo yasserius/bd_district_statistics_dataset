@@ -1,15 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Institutional accommodation facility by municipality 2011,,,,,,
-1,"
-Municipality",Residential hostel,Residential hostel,Hall/hostel,Hall/hostel,Mess/barracks,Mess/barracks
-2,"
-Municipality",Number,Capacity,Number,Capacity,Number,Capacity
-3,Begumganj,11,265,4,320,2,50
-4,Chatkhil,4,135,0,0,2,30
-5,Companiganj,1,8,0,0,0,0
-6,Hatiya,6,122,0,0,4,285
-7,Kabirhat,0,0,0,0,0,0
-8,Noakhali,18,360,2,350,1,450
-9,Senbagh,0,0,0,0,0,0
-10,Sonaimuri,2,42,2,250,0,0
-11,Total,42,932,8,920,9,815
+1,,,,,,,
+2, Municipality,Residential hostel,Residential hostel,Hall/hostel,Hall/hostel,Mess/barracks,Mess/barracks
+3, Municipality,Number,Capacity,Number,Capacity,Number,Capacity
+4,Begumganj,11,265,4,320,2,50
+5,Chatkhil,4,135,0,0,2,30
+6,Companiganj,1,8,0,0,0,0
+7,Hatiya,6,122,0,0,4,285
+8,Kabirhat,0,0,0,0,0,0
+9,Noakhali,18,360,2,350,1,450
+10,Senbagh,0,0,0,0,0,0
+11,Sonaimuri,2,42,2,250,0,0
+12,Total,42,932,8,920,9,815

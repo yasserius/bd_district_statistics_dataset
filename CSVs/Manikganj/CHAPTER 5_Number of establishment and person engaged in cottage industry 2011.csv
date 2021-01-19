@@ -1,16 +1,13 @@
 ,0,1,2,3,4
 0,Number of establishment and person engaged in cottage industry 2011,,,,
-1,"
-Upazila","
-Number of unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Number of unit",Family,Hired,Total
-3,Daulotpur,258,255,150,405
-4,Gheor,4,12,0,12
-5,Horirampur,495,754,176,930
-6,Manikganj Sadar,570,1024,355,1379
-7,Saturia,60,120,60,180
-8,Shibalaya,69,109,65,174
-9,Singair,0,0,0,0
-10,Total,1456,2274,806,3080
+1,,,,,
+2, Upazila, Number of unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Number of unit,Family,Hired,Total
+4,Daulotpur,258,255,150,405
+5,Gheor,4,12,0,12
+6,Horirampur,495,754,176,930
+7,Manikganj Sadar,570,1024,355,1379
+8,Saturia,60,120,60,180
+9,Shibalaya,69,109,65,174
+10,Singair,0,0,0,0
+11,Total,1456,2274,806,3080

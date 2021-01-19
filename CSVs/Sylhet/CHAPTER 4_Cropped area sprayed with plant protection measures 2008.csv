@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5
 0,Cropped area sprayed with plant protection measures 2008,,,,,
-1,"
-Upazila/City corporation",Total farm holding,Total farm holding,Spraying Farm holding,Spraying Farm holding,Reporting area sprayed
-2,"
-Upazila/City corporation",Number,"Cropped
-area",Number,"Cropped
-area",Reporting area sprayed
+1,,,,,,
+2,Upazila/City corporation,Total farm holding Number,Total farm holding Cropped area,Spraying Farm holding Number,Spraying Farm holding Cropped area,Reporting area sprayed
 3,Balaganj,24672,43662,1391,16231,613
 4,Beanibazar,21299,39028,250,30,10
 5,Bishwanath,16541,23843,1032,1592,443

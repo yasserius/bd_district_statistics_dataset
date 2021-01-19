@@ -1,17 +1,13 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of health centre, providing health and family planning service 2011",,,,,,,
-1,"
-Upazila","Number of
-union health centre",Health service,"
-Sterilization","
-M.R.",Injection/ copper-T,Oral pill/ condom,"Number of
-immunization centre"
-2,Badarganj,11,6250,5200,845,14800,7250,241
-3,Gangachara,9,34,9745,2187,12527,828,241
-4,Kaunia,6,2881,10,671,821,9021,199
-5,Mithapukur,17,6583,45,1663,2143,32360,409
-6,Pirgachha,8,58301,499,249,54024,31290,164
-7,Pirganj,9,12,455,603,53059,938167,361
-8,Rangpur sadar,8,34618,0,19,4995,4641,264
-9,Taraganj,4,790,578,118,94,11204,121
-10,Total,72,109469,16532,6355,142463,1034761,2000
+1,,,,,,,,
+2, Upazila,Number of union health centre,Health service, Sterilization, M.R.,Injection/ copper-T,Oral pill/ condom,Number of immunization centre
+3,Badarganj,11,6250,5200,845,14800,7250,241
+4,Gangachara,9,34,9745,2187,12527,828,241
+5,Kaunia,6,2881,10,671,821,9021,199
+6,Mithapukur,17,6583,45,1663,2143,32360,409
+7,Pirgachha,8,58301,499,249,54024,31290,164
+8,Pirganj,9,12,455,603,53059,938167,361
+9,Rangpur sadar,8,34618,0,19,4995,4641,264
+10,Taraganj,4,790,578,118,94,11204,121
+11,Total,72,109469,16532,6355,142463,1034761,2000

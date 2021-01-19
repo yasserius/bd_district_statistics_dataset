@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,"
-Upazila/city corporation","
-Household",Population,Population,Population,Sex ratio (M/F),Average size of household,Density per sq. km.
-2,"
-Upazila/city corporation","
-Household",Male,Female,Total,Sex ratio (M/F),Average size of household,Density per sq. km.
+1,,,,,,,,
+2,Upazila/city corporation,Household,Population Male,Population Female,Population Total,Sex ratio (M/F),Average size of household,Density per sq. km.
 3,Bagha,46711,92010,92173,184183,100,3.94,995
 4,Baghmara,94050,177157,177507,354664,100,3.77,968
 5,Charghat,51783,104138,102650,206788,101,3.95,1257

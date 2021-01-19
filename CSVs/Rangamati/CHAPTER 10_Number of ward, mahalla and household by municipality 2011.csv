@@ -1,15 +1,15 @@
 ,0,1,2,3,4,5
 0,"Number of ward, mahalla and household by municipality 2011",,,,,
-1,Upazila,"Name of
-municipality",Total ward,Total mahalla,Total holding,Total household
-2,Baghaichhari,Baghachhari,9,35,2000,2774
-3,Barkal,-,0,0,0,0
-4,Belai Chhari,-,0,0,0,0
-5,Jurai Chhari,-,0,0,0,0
-6,Kaptai,-,0,0,0,0
-7,Kawkhali,-,0,0,0,0
-8,Langadu,-,0,0,0,0
-9,Naniarchar,-,0,0,0,0
-10,Rangamati Sadar,Rangamati,9,55,15618,18355
-11,Rajasthali,-,0,0,0,0
-12,Total,-,18,90,17618,21129
+1,,,,,,
+2,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
+3,Baghaichhari,Baghachhari,9,35,2000,2774
+4,Barkal,-,0,0,0,0
+5,Belai Chhari,-,0,0,0,0
+6,Jurai Chhari,-,0,0,0,0
+7,Kaptai,-,0,0,0,0
+8,Kawkhali,-,0,0,0,0
+9,Langadu,-,0,0,0,0
+10,Naniarchar,-,0,0,0,0
+11,Rangamati Sadar,Rangamati,9,55,15618,18355
+12,Rajasthali,-,0,0,0,0
+13,Total,-,18,90,17618,21129

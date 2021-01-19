@@ -1,17 +1,14 @@
 ,0,1,2,3,4,5
 0,Cropped area (permanent + temporary) sprayed with plant protection measures 2008,,,,,
-1,"
-Upazila",Total farm holding,Total farm holding,Spraying farm holding,Spraying farm holding,Reporting area sprayed
-2,"
-Upazila",Number,"Cropped
-area",Number,"Cropped
-area",Reporting area sprayed
-3,Chandpur Sadar,37244,20468,29645,21044,17705
-4,Foridganj,52294,27369,52192,31873,31873
-5,Haimchar,13902,9566,13902,12822,9271
-6,Hajiganj,34739,22922,20420,22140,21235
-7,Kachua,40966,30243,40966,89440,89000
-8,Matlab Dakshin,24767,16351,18200,22183,18385
-9,Matlab Uttar,38093,25857,38093,44092,43765
-10,Shahrasti,28409,19610,12750,15550,9510
-11,Total,270414,172386,226168,259144,240744
+1,,,,,,
+2, Upazila,Total farm holding,Total farm holding,Spraying farm holding,Spraying farm holding,Reporting area sprayed
+3, Upazila,Number,Cropped area,Number,Cropped area,Reporting area sprayed
+4,Chandpur Sadar,37244,20468,29645,21044,17705
+5,Foridganj,52294,27369,52192,31873,31873
+6,Haimchar,13902,9566,13902,12822,9271
+7,Hajiganj,34739,22922,20420,22140,21235
+8,Kachua,40966,30243,40966,89440,89000
+9,Matlab Dakshin,24767,16351,18200,22183,18385
+10,Matlab Uttar,38093,25857,38093,44092,43765
+11,Shahrasti,28409,19610,12750,15550,9510
+12,Total,270414,172386,226168,259144,240744

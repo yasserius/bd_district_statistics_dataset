@@ -1,15 +1,13 @@
 ,0,1,2,3,4
 0,"Number of branch of specialized (Krishi, Co-operative etc) bank 2011",,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C","Number of current
-A/C"
-2,Abhaynagar,1,10,6504,106
-3,Bagherpara,1,9,5610,13
-4,Chaugachha,4,27,25057,203
-5,Jessore Sadar,4,99,9108,1482
-6,Jhikargachha,3,31,18953,247
-7,Keshabpur,2,17,12215,115
-8,Manirampur,5,35,17970,418
-9,Sharsha,2,18,15731,313
-10,Total,22,246,111148,2897
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Abhaynagar,1,10,6504,106
+4,Bagherpara,1,9,5610,13
+5,Chaugachha,4,27,25057,203
+6,Jessore Sadar,4,99,9108,1482
+7,Jhikargachha,3,31,18953,247
+8,Keshabpur,2,17,12215,115
+9,Manirampur,5,35,17970,418
+10,Sharsha,2,18,15731,313
+11,Total,22,246,111148,2897

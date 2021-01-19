@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Number of bridge, baily bridge, culvert and shako and others 2011",,,,,,
-1,Upazila,Bridge,Bailey bridge,Culvert,Pool,Shako,others
-2,Kamalnagar,49,0,210,0,30,0
-3,Lakshmipur Sadar,931,4,433,0,130,0
-4,Ramganj,655,1,258,15,6,0
-5,Ramgati,80,1,163,7,15,0
-6,Roypur,71,1,300,0,0,0
-7,Total,1786,7,1364,22,181,0
+1,,,,,,,
+2,Upazila,Bridge,Bailey bridge,Culvert,Pool,Shako,others
+3,Kamalnagar,49,0,210,0,30,0
+4,Lakshmipur Sadar,931,4,433,0,130,0
+5,Ramganj,655,1,258,15,6,0
+6,Ramgati,80,1,163,7,15,0
+7,Roypur,71,1,300,0,0,0
+8,Total,1786,7,1364,22,181,0

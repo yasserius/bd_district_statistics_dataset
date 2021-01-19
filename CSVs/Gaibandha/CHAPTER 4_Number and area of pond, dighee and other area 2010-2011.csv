@@ -1,19 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Number and area of pond, dighee and other area 2010-2011",,,,,,
-1,(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre)
-2,"
-Upazila",Pond,Pond,Dighee,Dighee,"
-Other area","
-Total area"
-3,"
-Upazila",Number,Area,Number,Area,"
-Other area","
-Total area"
-4,Fulchhari,820,137,15,10,1950,2097
-5,Gaibandha Sadar,2478,2478,310,350,4000,6788
-6,Gobindaganj,6000,1050,227,465,370,1730
-7,Palashbari,3960,81263,0,0,23,12965
-8,Sadullapur,1077,427,950,195,27,419
-9,Saghata,2057,758,1300,144,73,975
-10,Sundarganj,6245,1357,0,0,2050,3407
-11,Total,22637,87470,2802,1164,8493,28381
+1,,,,,,,
+2,(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre)
+3, Upazila,Pond,Pond,Dighee,Dighee, Other area, Total area
+4, Upazila,Number,Area,Number,Area, Other area, Total area
+5,Fulchhari,820,137,15,10,1950,2097
+6,Gaibandha Sadar,2478,2478,310,350,4000,6788
+7,Gobindaganj,6000,1050,227,465,370,1730
+8,Palashbari,3960,81263,0,0,23,12965
+9,Sadullapur,1077,427,950,195,27,419
+10,Saghata,2057,758,1300,144,73,975
+11,Sundarganj,6245,1357,0,0,2050,3407
+12,Total,22637,87470,2802,1164,8493,28381

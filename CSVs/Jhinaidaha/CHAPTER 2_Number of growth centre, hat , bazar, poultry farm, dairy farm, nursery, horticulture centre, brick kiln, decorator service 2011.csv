@@ -1,17 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of growth centre, hat , bazar, poultry farm, dairy farm, nursery, horticulture centre, brick kiln, decorator service 2011",,,,,,,,
-1,Upazila,"Growth
-centre","Hat
-/bazar","Poultry
-farm","Dairy
-farm",Nursery,"Horticulture
-centre","Brick
-kiln","Decorator
-service"
-2,Harinakunda,6,42,284,69,192,2,26,32
-3,Jhenaidah Sadar,10,37,102,34,12,0,17,35
-4,Kaliganj,2,33,97,48,68,0,17,37
-5,Kotchandpur,5,31,75,68,37,0,16,29
-6,Mahespur,6,50,148,114,39,0,12,36
-7,Shailkupa,2,10,240,54,16,0,6,13
-8,Total,31,203,946,387,364,2,94,182
+1,,,,,,,,,
+2,Upazila,Growth centre,Hat /bazar,Poultry farm,Dairy farm,Nursery,Horticulture centre,Brick kiln,Decorator service
+3,Harinakunda,6,42,284,69,192,2,26,32
+4,Jhenaidah Sadar,10,37,102,34,12,0,17,35
+5,Kaliganj,2,33,97,48,68,0,17,37
+6,Kotchandpur,5,31,75,68,37,0,16,29
+7,Mahespur,6,50,148,114,39,0,12,36
+8,Shailkupa,2,10,240,54,16,0,6,13
+9,Total,31,203,946,387,364,2,94,182

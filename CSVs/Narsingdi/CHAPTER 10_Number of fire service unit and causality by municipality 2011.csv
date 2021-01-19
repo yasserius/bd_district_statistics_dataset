@@ -1,14 +1,11 @@
 ,0,1,2,3,4,5
 0,Number of fire service unit and causality by municipality 2011,,,,,
-1,"
-Upazila",Fire service unit,Person employed,"
-Fire case","
-Person dead","
-Person injured"
-2,Belabo,0,0,0,0,0
-3,Manohardi,1,23,35,0,1
-4,Narsingdi Sadar,2,55,127,21,11
-5,Palash,1,24,22,0,0
-6,Roypura,0,0,0,0,0
-7,Sibpur,1,0,0,0,0
-8,Total,5,102,184,21,12
+1,,,,,,
+2, Upazila,Fire service unit,Person employed, Fire case, Person dead, Person injured
+3,Belabo,0,0,0,0,0
+4,Manohardi,1,23,35,0,1
+5,Narsingdi Sadar,2,55,127,21,11
+6,Palash,1,24,22,0,0
+7,Roypura,0,0,0,0,0
+8,Sibpur,1,0,0,0,0
+9,Total,5,102,184,21,12

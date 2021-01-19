@@ -1,15 +1,12 @@
 ,0,1,2,3,4
 0,Number of pottery and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Bhedarganj,10,10,50,60
-4,Damudya,40,54,20,74
-5,Gosairhat,35,85,30,115
-6,Naria,55,275,100,375
-7,Shariatpur Sadar,12,50,20,70
-8,Zanjira,0,0,0,0
-9,Total,152,474,220,694
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Bhedarganj,10,10,50,60
+5,Damudya,40,54,20,74
+6,Gosairhat,35,85,30,115
+7,Naria,55,275,100,375
+8,Shariatpur Sadar,12,50,20,70
+9,Zanjira,0,0,0,0
+10,Total,152,474,220,694

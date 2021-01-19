@@ -1,12 +1,9 @@
 ,0,1,2,3,4,5
 0,Number of fire service unit and causality by municipality 2011,,,,,
-1,"
-Municipality",Fire service unit,Person employed,"
-Fire case","
-Person dead","
-Person injured"
-2,Nakla,0,0,0,0,0
-3,Nalitabari,0,0,0,0,0
-4,Sherpur,1,26,120,0,4
-5,Sreebardi,0,0,0,0,0
-6,Total,1,26,120,0,4
+1,,,,,,
+2, Municipality,Fire service unit,Person employed, Fire case, Person dead, Person injured
+3,Nakla,0,0,0,0,0
+4,Nalitabari,0,0,0,0,0
+5,Sherpur,1,26,120,0,4
+6,Sreebardi,0,0,0,0,0
+7,Total,1,26,120,0,4

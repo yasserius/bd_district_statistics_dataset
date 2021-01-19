@@ -1,17 +1,16 @@
 ,0,1,2,3,4,5,6
 0,Land area under irrigation for selected crops 2008,,,,,,
-1,"
-Upazila",Paddy,Paddy,Wheat,Wheat,Potato,Potato
-2,"
-Upazila",Total area,Irrigated area,Total area,Irrigated area,Total area,Irrigated area
-3,Atpara,42449,25024,225,225,137,137
-4,Barhatta,58523,31652,123,99,190,190
-5,Durgapur,64176,32812,131,131,127,127
-6,Kalmakanda,77428,45426,655,206,657,657
-7,Kendua,85996,49151,502,132,483,483
-8,Khaliajuri,32141,31585,179,0,57,57
-9,Madan,43696,35274,228,0,254,254
-10,Mohanganj,48239,34287,135,10,173,173
-11,Netrokona Sadar,86526,47707,317,40,455,455
-12,Purbadhala,93813,49691,218,90,629,629
-13,Total,632987,382609,2713,933,3162,3162
+1,,,,,,,
+2, Upazila,Paddy,Paddy,Wheat,Wheat,Potato,Potato
+3, Upazila,Total area,Irrigated area,Total area,Irrigated area,Total area,Irrigated area
+4,Atpara,42449,25024,225,225,137,137
+5,Barhatta,58523,31652,123,99,190,190
+6,Durgapur,64176,32812,131,131,127,127
+7,Kalmakanda,77428,45426,655,206,657,657
+8,Kendua,85996,49151,502,132,483,483
+9,Khaliajuri,32141,31585,179,0,57,57
+10,Madan,43696,35274,228,0,254,254
+11,Mohanganj,48239,34287,135,10,173,173
+12,Netrokona Sadar,86526,47707,317,40,455,455
+13,Purbadhala,93813,49691,218,90,629,629
+14,Total,632987,382609,2713,933,3162,3162

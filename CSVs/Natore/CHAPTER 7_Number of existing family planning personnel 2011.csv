@@ -1,11 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,Number of existing family planning personnel 2011,,,,,,,
-1,Upazila,TFPO,MO,FPI,TFPA,FWV,FWA,"Midwife or
-SBA"
-2,Bagatipara,1,1,3,3,3,25,40
-3,Baraigram,1,1,6,4,4,43,0
-4,Gurudaspur,1,1,2,2,6,35,6
-5,Lalpur,1,1,8,2,9,51,0
-6,Natore Sadar,1,2,12,3,16,66,12
-7,Singra,1,1,8,3,11,51,5
-8,Total,6,7,39,17,49,271,63
+1,,,,,,,,
+2,Upazila,TFPO,MO,FPI,TFPA,FWV,FWA,Midwife or SBA
+3,Bagatipara,1,1,3,3,3,25,40
+4,Baraigram,1,1,6,4,4,43,0
+5,Gurudaspur,1,1,2,2,6,35,6
+6,Lalpur,1,1,8,2,9,51,0
+7,Natore Sadar,1,2,12,3,16,66,12
+8,Singra,1,1,8,3,11,51,5
+9,Total,6,7,39,17,49,271,63

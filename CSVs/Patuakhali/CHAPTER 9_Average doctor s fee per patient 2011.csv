@@ -1,15 +1,14 @@
 ,0,1,2,3,4,5
 0,Average doctor s fee per patient 2011,,,,,
-1,(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka)
-2,"
-Upazila",Doctor,Doctor,Doctor,Doctor,Doctor
-3,"
-Upazila",MBBS,FCPS,Dentist,Gynaecologist,Homeopathy
-4,Bauphal,150,0,150,0,30
-5,Dashmina,200,300,0,100,50
-6,Dumki,200,0,0,0,50
-7,Galachipa,300,0,300,0,50
-8,Kalapara,300,0,300,200,0
-9,Mirzaganj,200,0,0,200,0
-10,Patuakhali Sadar,300,400,300,400,0
-11,Average,220,350,260,225,45
+1,,,,,,
+2,(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka)
+3, Upazila,Doctor,Doctor,Doctor,Doctor,Doctor
+4, Upazila,MBBS,FCPS,Dentist,Gynaecologist,Homeopathy
+5,Bauphal,150,0,150,0,30
+6,Dashmina,200,300,0,100,50
+7,Dumki,200,0,0,0,50
+8,Galachipa,300,0,300,0,50
+9,Kalapara,300,0,300,200,0
+10,Mirzaganj,200,0,0,200,0
+11,Patuakhali Sadar,300,400,300,400,0
+12,Average,220,350,260,225,45

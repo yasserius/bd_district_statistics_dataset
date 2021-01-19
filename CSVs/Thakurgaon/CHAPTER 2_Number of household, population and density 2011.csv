@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,"
-Upazila","
-Household",Population (000),Population (000),Population (000),Sex ratio (M/F),Average size of household,Density per sq. km.
-2,"
-Upazila","
-Household",Male,Female,Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
+1,,,,,,,,
+2,Upazila,Household,Population (000) Male,Population (000) Female,Population (000) Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
 3,Baliadangi,45509,98769,96280,195049,103,4.28,686
 4,Haripur,32607,74213,73734,147947,101,4.53,736
 5,Pirgonj,58299,122553,120982,243535,101,4.17,688

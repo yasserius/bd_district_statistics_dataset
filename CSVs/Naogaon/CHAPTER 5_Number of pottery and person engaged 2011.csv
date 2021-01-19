@@ -1,20 +1,17 @@
 ,0,1,2,3,4
 0,Number of pottery and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Atrai,54,216,0,216
-4,Badalgachhi,120,200,35,235
-5,Dhamoirhat,14,50,0,50
-6,Manda,121,242,0,242
-7,Mahadebpur,107,229,0,229
-8,Naogaon sadar,21,50,5,55
-9,Niamatpur,125,500,155,655
-10,Patnitala,110,300,20,320
-11,Porsha,20,56,0,56
-12,Raninagar,82,164,25,189
-13,Sapahar,3,18,0,18
-14,Total,777,2025,240,2265
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Atrai,54,216,0,216
+5,Badalgachhi,120,200,35,235
+6,Dhamoirhat,14,50,0,50
+7,Manda,121,242,0,242
+8,Mahadebpur,107,229,0,229
+9,Naogaon sadar,21,50,5,55
+10,Niamatpur,125,500,155,655
+11,Patnitala,110,300,20,320
+12,Porsha,20,56,0,56
+13,Raninagar,82,164,25,189
+14,Sapahar,3,18,0,18
+15,Total,777,2025,240,2265

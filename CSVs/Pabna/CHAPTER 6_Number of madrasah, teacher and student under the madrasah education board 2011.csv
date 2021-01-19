@@ -1,21 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of madrasah, teacher and student under the madrasah education board 2011",,,,,,,,
-1,"
-Upazila","Number
-of   madrasah",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Student
-per teacher"
-2,"
-Upazila","Number
-of   madrasah",Male,Female,Total,Male,Female,Total,"Student
-per teacher"
-3,1,2,3,4,5,6,7,8,9
-4,Atgharia,9,90,29,119,2013,596,2609,29
-5,Bera,7,101,17,118,1455,762,2217,27
-6,Bhangura,12,218,51,269,1355,866,2221,12
-7,Chatmohar,13,365,55,420,4377,839,5216,23
-8,Faridpur,15,215,21,236,1140,811,1951,11
-9,Ishwardi,18,145,53,198,1258,997,2255,12
-10,Pabna Sadar,32,270,101,371,3992,896,4888,13
-11,Santhia,15,174,54,228,1588,577,2165,13
-12,Sujanagar,8,83,5,88,790,733,1523,17
-13,Total,129,2367,386,2753,17968,7077,25045,17
+1,,,,,,,,,
+2,Upazila Upazila 1,Number of madrasah Number of madrasah 2,Number of teacher Male 3,Number of teacher Female 4,Number of teacher Total 5,Number of student Male 6,Number of student Female 7,Number of student Total 8,Student per teacher Student per teacher 9
+3,Atgharia,9,90,29,119,2013,596,2609,29
+4,Bera,7,101,17,118,1455,762,2217,27
+5,Bhangura,12,218,51,269,1355,866,2221,12
+6,Chatmohar,13,365,55,420,4377,839,5216,23
+7,Faridpur,15,215,21,236,1140,811,1951,11
+8,Ishwardi,18,145,53,198,1258,997,2255,12
+9,Pabna Sadar,32,270,101,371,3992,896,4888,13
+10,Santhia,15,174,54,228,1588,577,2165,13
+11,Sujanagar,8,83,5,88,790,733,1523,17
+12,Total,129,2367,386,2753,17968,7077,25045,17

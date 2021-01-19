@@ -1,13 +1,12 @@
 ,0,1,2,3,4,5
 0,"Number of non-registered rickshaw, van, easy bike and auto-rickshaw 2011",,,,,
-1,Upazila,Rickshaw,Van,"Easy bike and
-auto-rickshaw",Tempo,"Nochimon/korimon/
-bhotvoti"
-2,Barlekha,100,0,12,6,1
-3,Juri,720,98,0,0,15
-4,Kamalganj,200,20,50,400,0
-5,Kulaura,1000,50,12,22,0
-6,Moulvibazar Sadar,11272,133,581,12,0
-7,Rajnagar,197,30,18,0,0
-8,Sreemangal,1335,12,8,0,0
-9,Total,14824,343,681,440,16
+1,,,,,,
+2,Upazila,Rickshaw,Van,Easy bike and auto-rickshaw,Tempo,Nochimon/korimon/ bhotvoti
+3,Barlekha,100,0,12,6,1
+4,Juri,720,98,0,0,15
+5,Kamalganj,200,20,50,400,0
+6,Kulaura,1000,50,12,22,0
+7,Moulvibazar Sadar,11272,133,581,12,0
+8,Rajnagar,197,30,18,0,0
+9,Sreemangal,1335,12,8,0,0
+10,Total,14824,343,681,440,16

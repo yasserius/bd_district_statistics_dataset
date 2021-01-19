@@ -1,18 +1,15 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kawmi madrasah, teacher and student 2011",,,,,,,,
-1,"
-Upazila",Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students per
-teacher"
-2,"
-Upazila",Number of madrasah,Male,Female,Total,Male,Female,Total,"Students per
-teacher"
-3,Bhurungamari,12,42,6,48,425,135,660,14
-4,Char Rajibpur,8,8,0,8,120,66,186,23
-5,Chilmari,3,12,0,12,304,71,375,31
-6,Kurigram Sadar,1,28,6,34,669,205,874,26
-7,Nageshwari,1,8,2,10,45,22,70,7
-8,Phulbari,1,1,0,1,10,8,18,18
-9,Rajarhat,12,32,0,32,402,0,402,13
-10,Raumari,6,24,0,24,250,0,250,10
-11,Ulipur,0,0,0,0,0,0,0,0
-12,Total,44,155,14,169,2225,507,2835,17
+1,,,,,,,,,
+2, Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Bhurungamari,12,42,6,48,425,135,660,14
+5,Char Rajibpur,8,8,0,8,120,66,186,23
+6,Chilmari,3,12,0,12,304,71,375,31
+7,Kurigram Sadar,1,28,6,34,669,205,874,26
+8,Nageshwari,1,8,2,10,45,22,70,7
+9,Phulbari,1,1,0,1,10,8,18,18
+10,Rajarhat,12,32,0,32,402,0,402,13
+11,Raumari,6,24,0,24,250,0,250,10
+12,Ulipur,0,0,0,0,0,0,0,0
+13,Total,44,155,14,169,2225,507,2835,17

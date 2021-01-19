@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of Auto rice mill and persons engaged 2011,,,,
-1,"
-Upazila","
-Units",Persons engaged,Persons engaged,Persons engaged
-2,"
-Upazila","
-Units",Male,Female,Total
+1,,,,,
+2,Upazila,Units,Persons engaged Male,Persons engaged Female,Persons engaged Total
 3,Austagram,0,0,0,0
 4,Bajitpur,35,70,455,525
 5,Bhairab,3,6,25,31

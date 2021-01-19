@@ -1,11 +1,7 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
 1,(Rate in taka),,,
-2,"
-Upazila/city corporation","
-Male","
-Female","Child
-(Child means under 15 years old)"
+2,Upazila/city corporation,Male,Female,Child (Child means under 15 years old)
 3,Bagha,200,160,120
 4,Baghmara,230,190,100
 5,Charghat,200,150,120

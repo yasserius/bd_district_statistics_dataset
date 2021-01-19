@@ -1,18 +1,16 @@
 ,0,1,2,3,4,5
 0,Number of physician practice in the upazila 2011,,,,,
-1,"
-Upazila",Total physician,"MBBS, FCPS","
-L.M.F",Unani / ayurbedic,"
-Homeopathy"
-2,Bishwamvarpur,15,3,2,0,10
-3,Chhatak,92,15,25,12,30
-4,Dakshin Sunamganj,35,5,10,0,20
-5,Derai,28,4,2,0,23
-6,Dharmapasha,88,4,50,5,68
-7,Doarabazar,47,2,15,7,23
-8,Jagannathpur,53,12,20,1,22
-9,Jamalganj,21,4,0,2,15
-10,Shalla,20,3,0,2,15
-11,Sunamganj Sadar,85,25,20,5,30
-12,Tahirpur,15,2,0,0,13
-13,Total,494,79,144,34,269
+1,,,,,,
+2, Upazila,Total physician,"MBBS, FCPS", L.M.F,Unani / ayurbedic, Homeopathy
+3,Bishwamvarpur,15,3,2,0,10
+4,Chhatak,92,15,25,12,30
+5,Dakshin Sunamganj,35,5,10,0,20
+6,Derai,28,4,2,0,23
+7,Dharmapasha,88,4,50,5,68
+8,Doarabazar,47,2,15,7,23
+9,Jagannathpur,53,12,20,1,22
+10,Jamalganj,21,4,0,2,15
+11,Shalla,20,3,0,2,15
+12,Sunamganj Sadar,85,25,20,5,30
+13,Tahirpur,15,2,0,0,13
+14,Total,494,79,144,34,269

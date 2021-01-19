@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
 1,(According to Agriculture Census 2008),,,,
-2,"
-Upazila",Total farm holding,"
-Owner holding","
-Owner cum tenant","
-Tenant holding"
+2, Upazila,Total farm holding, Owner holding, Owner cum tenant, Tenant holding
 3,Atrai,30935,28714,15622,4457
 4,Badalgachhi,36099,31146,18881,1097
 5,Dhamoirhat,32228,24894,16924,4117

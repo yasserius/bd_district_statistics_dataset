@@ -1,13 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,Number of technical personnel 2011,,,,,,,
-1,"
-Upazila",Agricultural personnel,"Live-
-stock personnel",Plant protection,Fishery personnel,Sanitary personnel,"Family
-planning personnel",Trained midwife
-2,Bagatipara,39,25,0,65,12,36,40
-3,Baraigram,28,7,4,5,11,67,12
-4,Gurudaspur,40,10,0,88,32,95,15
-5,Lalpur,23,8,0,4,2,72,15
-6,Natore Sadar,48,265,394,249,312,1406,12
-7,Singra,47,7,5,5,4,51,11
-8,Total,225,322,403,416,373,1727,105
+1,,,,,,,,
+2, Upazila,Agricultural personnel,Live- stock personnel,Plant protection,Fishery personnel,Sanitary personnel,Family planning personnel,Trained midwife
+3,Bagatipara,39,25,0,65,12,36,40
+4,Baraigram,28,7,4,5,11,67,12
+5,Gurudaspur,40,10,0,88,32,95,15
+6,Lalpur,23,8,0,4,2,72,15
+7,Natore Sadar,48,265,394,249,312,1406,12
+8,Singra,47,7,5,5,4,51,11
+9,Total,225,322,403,416,373,1727,105

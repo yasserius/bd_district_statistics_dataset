@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Broad classification of area 2011,,,,
 1,(In sq. km.),,,,
-2,Upazila,Total area,Land area,"Reserve
-forest","Riverine
-area"
+2,Upazila,Total area,Land area,Reserve forest,Riverine area
 3,Dhaka Metropolitan,302.92,279.43,0,23.49
 4,Dhamrai,307.41,301.43,0,5.98
 5,Dohar,161.49,151.83,0,9.66

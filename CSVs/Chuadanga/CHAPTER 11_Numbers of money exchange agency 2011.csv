@@ -1,10 +1,9 @@
 ,0,1,2,3,4
 0,Numbers of money exchange agency 2011,,,,
-1,"
-Upazila",Number of money exchange agency,Number of employee,"Annual transactions per money exchange
-agency",Annual profit per agency
-2,Alamdanga,0,0,0,0
-3,Chuadanga Sadar,0,0,0,0
-4,Damurhuda,1,2,350000,200000
-5,Jibonnagar,0,0,0,0
-6,Total,1,2,350000,200000
+1,,,,,
+2, Upazila,Number of money exchange agency,Number of employee,Annual transactions per money exchange agency,Annual profit per agency
+3,Alamdanga,0,0,0,0
+4,Chuadanga Sadar,0,0,0,0
+5,Damurhuda,1,2,350000,200000
+6,Jibonnagar,0,0,0,0
+7,Total,1,2,350000,200000

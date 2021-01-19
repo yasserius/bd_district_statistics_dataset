@@ -1,19 +1,16 @@
 ,0,1,2,3,4
 0,Number of rice mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Male,Female,Total
-3,Baghaichhari,180,210,15,225
-4,Barkal,22,22,0,22
-5,Belai Chhari,6,6,6,12
-6,Jurai Chhari,30,32,0,32
-7,Kaptai,47,84,11,95
-8,Kawkhali,155,182,0,182
-9,Langadu,115,135,0,135
-10,Naniarchar,30,50,10,60
-11,Rangamati Sadar,0,0,0,0
-12,Rajasthali,10,15,4,19
-13,Total,595,736,46,782
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Male,Female,Total
+4,Baghaichhari,180,210,15,225
+5,Barkal,22,22,0,22
+6,Belai Chhari,6,6,6,12
+7,Jurai Chhari,30,32,0,32
+8,Kaptai,47,84,11,95
+9,Kawkhali,155,182,0,182
+10,Langadu,115,135,0,135
+11,Naniarchar,30,50,10,60
+12,Rangamati Sadar,0,0,0,0
+13,Rajasthali,10,15,4,19
+14,Total,595,736,46,782

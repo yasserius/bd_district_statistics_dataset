@@ -1,10 +1,9 @@
 ,0,1,2,3,4
 0,"Number of branch of foreign bank (Standard Chattered, American Express etc) 2011",,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C",Number of current A/C
-2,Kalkini,0,0,0,0
-3,Madaripur Sadar,0,0,0,0
-4,Rajoir,1,17,1839,487
-5,Shibchar,0,0,0,0
-6,Total,1,17,1839,487
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Kalkini,0,0,0,0
+4,Madaripur Sadar,0,0,0,0
+5,Rajoir,1,17,1839,487
+6,Shibchar,0,0,0,0
+7,Total,1,17,1839,487

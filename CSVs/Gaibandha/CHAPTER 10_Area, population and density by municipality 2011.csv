@@ -1,16 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Area, population and density by municipality 2011",,,,,,
-1,"
-Upazila",Name of municipality,"Area (In sq.
-km.)",Population census-2011,Population census-2011,Population census-2011,Density per sq.km.
-2,"
-Upazila",Name of municipality,"Area (In sq.
-km.)",Male,Female,Both sex,Density per sq.km.
-3,Fulchhari,-,0,0,0,0,0
-4,Gaibandha Sadar,Gaibandha,11.29,33987,33846,67833,1349
-5,Gobindaganj,Gobiandaganj,14.77,19362,19053,38415,1125
-6,Palashbari,-,0,0,0,0,0
-7,Sadullapur,-,0,0,0,0,0
-8,Saghata,-,0,0,0,0,0
-9,Sundarganj,Sundarganj,6.5,8559,8609,17168,1125
-10,Total,,32.56,61908,61508,123416,1125
+1,,,,,,,
+2, Upazila,Name of municipality,Area (In sq. km.),Population census-2011,Population census-2011,Population census-2011,Density per sq.km.
+3, Upazila,Name of municipality,Area (In sq. km.),Male,Female,Both sex,Density per sq.km.
+4,Fulchhari,-,0,0,0,0,0
+5,Gaibandha Sadar,Gaibandha,11.29,33987,33846,67833,1349
+6,Gobindaganj,Gobiandaganj,14.77,19362,19053,38415,1125
+7,Palashbari,-,0,0,0,0,0
+8,Sadullapur,-,0,0,0,0,0
+9,Saghata,-,0,0,0,0,0
+10,Sundarganj,Sundarganj,6.5,8559,8609,17168,1125
+11,Total,,32.56,61908,61508,123416,1125

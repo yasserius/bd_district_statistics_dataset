@@ -1,12 +1,8 @@
 ,0,1,2,3,4,5,6,7
 0,Irrigation by means 2010-2011,,,,,,,
 1,(In acre),,,,,,,
-2,"
-Upazila/City corporation",Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,"
-Total"
-3,"
-Upazila/City corporation",Power pump,Tube well,Doon,Swing basket,Canal,Others,"
-Total"
+2, Upazila/City corporation,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management, Total
+3, Upazila/City corporation,Power pump,Tube well,Doon,Swing basket,Canal,Others, Total
 4,Anowara,8040,0,0,0,0,1964,10004
 5,Banshkhali,4804,9374,342,540,11200,4000,30260
 6,Boalkhali,155,88,0,120,0,0,363

@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Other accommodation facility by municipality 2011,,,,
-1,Municipality/ city corporation,Orphanage,Orphanage,Slum area,Slum area
-2,Municipality/ city corporation,Number,Capacity,Area in acre,Number H/H
-3,Dhaka Metropolitan,85,455,3066,7345
-4,Dhamrai,0,0,0,0
-5,Dohar,0,0,0,0
-6,Savar,12,1440,0,0
-7,Total,97,1895,3066,7345
+1,,,,,
+2,Municipality/ city corporation,Orphanage,Orphanage,Slum area,Slum area
+3,Municipality/ city corporation,Number,Capacity,Area in acre,Number H/H
+4,Dhaka Metropolitan,85,455,3066,7345
+5,Dhamrai,0,0,0,0
+6,Dohar,0,0,0,0
+7,Savar,12,1440,0,0
+8,Total,97,1895,3066,7345

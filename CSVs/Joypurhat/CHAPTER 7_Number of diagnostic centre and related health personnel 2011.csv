@@ -1,14 +1,10 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,Upazila,"Number of
-centre","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Akkelpur,3,8,7,8,12
-3,Joypurhat sadar,7,15,19,7,36
-4,Kalai,0,0,0,0,0
-5,Khetlal,1,0,0,1,0
-6,Panchbibi,1,0,0,1,0
-7,Total,12,23,26,17,48
+1,,,,,,
+2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Akkelpur,3,8,7,8,12
+4,Joypurhat sadar,7,15,19,7,36
+5,Kalai,0,0,0,0,0
+6,Khetlal,1,0,0,1,0
+7,Panchbibi,1,0,0,1,0
+8,Total,12,23,26,17,48

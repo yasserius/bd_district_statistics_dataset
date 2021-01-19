@@ -1,14 +1,13 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,"
-Upazila",Number of pump fielded,Number of pump fielded,Number of pump fielded,Area irrigated (in acre)
-2,"
-Upazila",Electric,Diesel,Total,Area irrigated (in acre)
-3,Assasuni,256,4704,4960,26565
-4,Debhata,73,4485,4558,20886
-5,Kalaroa,37,4004,4041,14020
-6,Kaliganj,70,6114,6184,17256
-7,Satkhira Sadar,2626,486,3112,65810
-8,Shyamnagar,6,455,461,1736
-9,Tala,1542,3082,4624,58300
-10,Total,4610,23330,27940,204573
+1,,,,,
+2, Upazila,Number of pump fielded,Number of pump fielded,Number of pump fielded,Area irrigated (in acre)
+3, Upazila,Electric,Diesel,Total,Area irrigated (in acre)
+4,Assasuni,256,4704,4960,26565
+5,Debhata,73,4485,4558,20886
+6,Kalaroa,37,4004,4041,14020
+7,Kaliganj,70,6114,6184,17256
+8,Satkhira Sadar,2626,486,3112,65810
+9,Shyamnagar,6,455,461,1736
+10,Tala,1542,3082,4624,58300
+11,Total,4610,23330,27940,204573

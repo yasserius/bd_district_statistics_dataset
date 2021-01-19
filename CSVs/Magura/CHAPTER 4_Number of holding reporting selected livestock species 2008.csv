@@ -1,15 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting selected livestock species 2008,,,,,,
-1,"
-Upazila",Cow & buffalo,Cow & buffalo,Goat,Goat,Sheep,Sheep
-2,"
-Upazila","Holding
-number","Number
-of animal","Holding
-number","Number
-of goat","Holding
-number","Number
-of sheep"
+1,,,,,,,
+2,Upazila,Cow & buffalo Holding number,Cow & buffalo Number of animal,Goat Holding number,Goat Number of goat,Sheep Holding number,Sheep Number of sheep
 3,Magura Sadar,35343,60855,30861,79615,150,707
 4,Mohammadpur,25354,56450,20466,72722,70,357
 5,Shalikha,21612,58592,12107,32749,140,597

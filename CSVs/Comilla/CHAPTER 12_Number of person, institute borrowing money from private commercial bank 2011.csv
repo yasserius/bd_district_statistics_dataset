@@ -1,36 +1,23 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,"
-
-Upazila",Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-
-Upazila",Number of branch of all private commercial banks,"Agriculture
-debt","Agriculture
-debt","Industry
-debt","Industry
-debt",Other debt,Other debt,"Number of
-borrower","Number of
-borrower","Total debt
-(crore tk)","Total debt
-(crore tk)"
-3,"
-
-Upazila",Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Adarsha Sadar,15,388,118,8,1,621,476,1017,595,169.35,4.2
-5,Barura,1,0,0,0,0,130,96,130,96,0.56,0.031
-6,Brahmanpara,3,959,93,0,0,65,16,1333,109,14.78,0.32
-7,Burichang,5,7890,0,0,0,0,0,7890,0,220,0
-8,Chandina,9,7831,972,8,0,142,138,8313,1087,3180.8,6.39
-9,Chauddagram,4,0,0,0,0,375,245,375,245,2,0.5
-10,Comilla Sadar Dakshin,0,0,0,0,0,0,0,0,0,0,0
-11,Daudkandi,11,4780,1236,2,0,1532,3036,6314,3272,107.55,42.59
-12,Debidwar,0,0,0,0,0,0,0,0,0,0,0
-13,Homna,0,0,0,0,0,0,0,0,0,0,0
-14,Laksam,22,346,11312,29,0,1696,7162,2071,18475,223.41,27.29
-15,Monoharganj,3,3590,12,0,0,1376,250,4978,262,13.31,0.38
-16,Meghna,0,0,0,0,0,0,0,0,0,0,0
-17,Muradnagar,5,525,2691,0,0,650,19,1175,2710,61.02,6.8
-18,Nangalkot,20,11232,0,2,0,4144,0,14775,0,14.08,5.49
-19,Titas,2,201,4,0,0,0,0,201,4,0.85,0.01
-20,Total,100,37742,16438,49,1,10731,11438,48572,26855,4007.71,94.001
+1,,,,,,,,,,,,
+2,  Upazila,Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3,  Upazila,Number of branch of all private commercial banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
+4,  Upazila,Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+5,Adarsha Sadar,15,388,118,8,1,621,476,1017,595,169.35,4.2
+6,Barura,1,0,0,0,0,130,96,130,96,0.56,0.031
+7,Brahmanpara,3,959,93,0,0,65,16,1333,109,14.78,0.32
+8,Burichang,5,7890,0,0,0,0,0,7890,0,220,0
+9,Chandina,9,7831,972,8,0,142,138,8313,1087,3180.8,6.39
+10,Chauddagram,4,0,0,0,0,375,245,375,245,2,0.5
+11,Comilla Sadar Dakshin,0,0,0,0,0,0,0,0,0,0,0
+12,Daudkandi,11,4780,1236,2,0,1532,3036,6314,3272,107.55,42.59
+13,Debidwar,0,0,0,0,0,0,0,0,0,0,0
+14,Homna,0,0,0,0,0,0,0,0,0,0,0
+15,Laksam,22,346,11312,29,0,1696,7162,2071,18475,223.41,27.29
+16,Monoharganj,3,3590,12,0,0,1376,250,4978,262,13.31,0.38
+17,Meghna,0,0,0,0,0,0,0,0,0,0,0
+18,Muradnagar,5,525,2691,0,0,650,19,1175,2710,61.02,6.8
+19,Nangalkot,20,11232,0,2,0,4144,0,14775,0,14.08,5.49
+20,Titas,2,201,4,0,0,0,0,201,4,0.85,0.01
+21,Total,100,37742,16438,49,1,10731,11438,48572,26855,4007.71,94.001

@@ -1,11 +1,12 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,Upazila,Number,Number of employee,Number of client
-2,Assasuni,282,21,10307
-3,Debhata,111,5,2220
-4,Kalaroa,352,46,21444
-5,Kaliganj,188,237,20552
-6,Satkhira Sadar,260,300,21511
-7,Shyamnagar,266,113,42444
-8,Tala,274,5,7550
-9,Total,1733,727,126028
+1,,,,
+2,Upazila,Number,Number of employee,Number of client
+3,Assasuni,282,21,10307
+4,Debhata,111,5,2220
+5,Kalaroa,352,46,21444
+6,Kaliganj,188,237,20552
+7,Satkhira Sadar,260,300,21511
+8,Shyamnagar,266,113,42444
+9,Tala,274,5,7550
+10,Total,1733,727,126028

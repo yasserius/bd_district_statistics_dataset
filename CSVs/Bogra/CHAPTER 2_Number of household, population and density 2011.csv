@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,"
-Upazila","
-Household",Population (000),Population (000),Population (000),Sex ratio (M/F),Average size of household,Density per sq. km.
-2,"
-Upazila","
-Household",Male,Female,Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
+1,,,,,,,,
+2,Upazila,Household,Population (000) Male,Population (000) Female,Population (000) Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
 3,Adamdighi,49600,97,98,195,100,3.92,1156
 4,Bogra sadar,131862,288,267,555,108,4.04,3143
 5,Dhunat,74897,143,149,292,96,3.90,1180

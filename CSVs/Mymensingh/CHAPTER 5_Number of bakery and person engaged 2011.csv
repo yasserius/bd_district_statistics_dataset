@@ -1,21 +1,18 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Bhaluka,13,32,42,74
-4,Dhobaura,9,11,48,59
-5,Fulbaria,6,10,50,60
-6,Gaffargaon,14,26,70,96
-7,Gauripur,5,5,65,70
-8,Haluaghat,18,18,90,108
-9,Ishwargonj,12,45,75,120
-10,Muktagacha,13,15,30,45
-11,Mymensingh Sadar,28,35,245,240
-12,Nandail,19,15,21,36
-13,Phulpur,6,6,24,30
-14,Trishal,5,7,35,42
-15,Total,148,225,795,980
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Bhaluka,13,32,42,74
+5,Dhobaura,9,11,48,59
+6,Fulbaria,6,10,50,60
+7,Gaffargaon,14,26,70,96
+8,Gauripur,5,5,65,70
+9,Haluaghat,18,18,90,108
+10,Ishwargonj,12,45,75,120
+11,Muktagacha,13,15,30,45
+12,Mymensingh Sadar,28,35,245,240
+13,Nandail,19,15,21,36
+14,Phulpur,6,6,24,30
+15,Trishal,5,7,35,42
+16,Total,148,225,795,980

@@ -1,14 +1,11 @@
 ,0,1,2,3,4
 0,Number of flour mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Araihazar,36,38,25,63
-4,Bandar,20,20,20,40
-5,Narayanganj Sadar,49,65,493,558
-6,Rupganj,2,3,119,122
-7,Sonargaon,1,0,36,36
-8,Total,108,126,693,819
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Araihazar,36,38,25,63
+5,Bandar,20,20,20,40
+6,Narayanganj Sadar,49,65,493,558
+7,Rupganj,2,3,119,122
+8,Sonargaon,1,0,36,36
+9,Total,108,126,693,819

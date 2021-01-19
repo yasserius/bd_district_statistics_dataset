@@ -1,14 +1,10 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and health personnel 2011,,,,,
-1,Upazila,"Number of
-bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Bholahat,50,5,9,5,75
-3,Chapai Nawabganj Sadar,100,25,37,8,164
-4,Gomastapur,31,3,9,5,82
-5,Nachole,31,6,9,8,61
-6,Shibganj,50,11,14,8,112
-7,Total,362,50,78,34,494
+1,,,,,,
+2,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Bholahat,50,5,9,5,75
+4,Chapai Nawabganj Sadar,100,25,37,8,164
+5,Gomastapur,31,3,9,5,82
+6,Nachole,31,6,9,8,61
+7,Shibganj,50,11,14,8,112
+8,Total,362,50,78,34,494

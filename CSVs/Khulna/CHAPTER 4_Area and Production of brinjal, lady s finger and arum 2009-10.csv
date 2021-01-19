@@ -1,18 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area and Production of brinjal, lady s finger and arum 2009-10",,,,,,
 1,(Area in acre & production in metric ton),,,,,,
-2,"
-Upazila/city corporation",Brinjal,Brinjal,Lady’s finger,Lady’s finger,Arum,Arum
-3,"
-Upazila/city corporation",Area,Production,Area,Production,Area,Production
-4,Batiaghata	153,106,32,19,72,221,
-5,Dacope	47,36,26,27,49,52,
-6,Dighalia	30,105,18,55,22,60,
-7,Dumuria	365,693,117,249,98,71,
-8,Khulna City Corporation	11,7,3,4,3,5,
-9,Koyra	17,34,9,12,11,22,
-10,Paikgachha	178,1004,46,86,11,24,
-11,Phultala	18,60,29,83,5,21,
-12,Rupsa	171,328,28,19,126,338,
-13,Terokhada	52,38,28,28,34,125,
-14,Total	1041,2410,335,583,431,938,
+2,Upazila/city corporation,Brinjal Area,Brinjal Production,Lady’s finger Area,Lady’s finger Production,Arum Area,Arum Production
+3,Batiaghata	153,106,32,19,72,221,
+4,Dacope	47,36,26,27,49,52,
+5,Dighalia	30,105,18,55,22,60,
+6,Dumuria	365,693,117,249,98,71,
+7,Khulna City Corporation	11,7,3,4,3,5,
+8,Koyra	17,34,9,12,11,22,
+9,Paikgachha	178,1004,46,86,11,24,
+10,Phultala	18,60,29,83,5,21,
+11,Rupsa	171,328,28,19,126,338,
+12,Terokhada	52,38,28,28,34,125,
+13,Total	1041,2410,335,583,431,938,

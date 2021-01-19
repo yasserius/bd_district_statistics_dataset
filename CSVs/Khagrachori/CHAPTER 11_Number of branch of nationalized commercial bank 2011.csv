@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Number of branch of nationalized commercial bank 2011,,,,,,
 1,(Figures in lac Tk.),,,,,,
-2,"
-Upazila",Number of branch,Number of employee,"Number of savings
-A/C","Number of current
-A/C","Average annual
-deposit Tk.",Annual credit disbursed Tk.
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C,Average annual deposit Tk.,Annual credit disbursed Tk.
 3,Dighinala,1,15,6736,1107,1600,200
 4,Khagrachhari Sadar,3,57,"18,755",4103,1306,940
 5,Laxshmichhari,1,4,2517,157,509.27,96.91

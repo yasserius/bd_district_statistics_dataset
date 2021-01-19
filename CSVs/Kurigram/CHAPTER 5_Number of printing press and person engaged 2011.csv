@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Number of printing press and person engaged 2011,,,,
-1,Upazila,Unit,Person engaged,Person engaged,Person engaged
-2,Upazila,Unit,Family,Hired,Total
-3,Bhurungamari,1,2,4,6
-4,Char Rajibpur,0,0,0,0
-5,Chilmari,1,2,2,4
-6,Kurigram Sadar,3,3,15,18
-7,Nageshwari,2,4,8,12
-8,Phulbari,2,2,4,6
-9,Rajarhat,2,3,3,6
-10,Raumari,1,3,0,3
-11,Ulipur,2,3,5,8
-12,Total,14,22,41,63
+1,,,,,
+2,Upazila,Unit,Person engaged,Person engaged,Person engaged
+3,Upazila,Unit,Family,Hired,Total
+4,Bhurungamari,1,2,4,6
+5,Char Rajibpur,0,0,0,0
+6,Chilmari,1,2,2,4
+7,Kurigram Sadar,3,3,15,18
+8,Nageshwari,2,4,8,12
+9,Phulbari,2,2,4,6
+10,Rajarhat,2,3,3,6
+11,Raumari,1,3,0,3
+12,Ulipur,2,3,5,8
+13,Total,14,22,41,63

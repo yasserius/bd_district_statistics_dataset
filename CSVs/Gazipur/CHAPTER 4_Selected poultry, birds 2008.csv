@@ -1,18 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Selected poultry, birds 2008",,,,,,
-1,"
-Upazila",Hen and cock,Hen and cock,Duck,Duck,Others,Others
-2,"
-Upazila","Holding
-reporting","Total
-number","Holding
-reporting","Total
-number","Holding
-reporting","Total
-number"
-3,Gazipur Sadar,26484,188197,12893,71906,4062,36636
-4,Kaliakair,20315,158100,7010,34011,0,0
-5,Kaliganj,620,620000,15,3250,0,0
-6,Kapashia,42009,25975,10722,45345,3414,23494
-7,Sreepur,42585,256094,9509,41960,2567,24567
-8,Total,132013,1248366,40149,196472,10043,84697
+1,,,,,,,
+2, Upazila,Hen and cock,Hen and cock,Duck,Duck,Others,Others
+3, Upazila,Holding reporting,Total number,Holding reporting,Total number,Holding reporting,Total number
+4,Gazipur Sadar,26484,188197,12893,71906,4062,36636
+5,Kaliakair,20315,158100,7010,34011,0,0
+6,Kaliganj,620,620000,15,3250,0,0
+7,Kapashia,42009,25975,10722,45345,3414,23494
+8,Sreepur,42585,256094,9509,41960,2567,24567
+9,Total,132013,1248366,40149,196472,10043,84697

@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Broad Soil Classification 2008,,,,,,
-1,"
-Upazila/city corporation","
-Total",Soil classification,Soil classification,Soil classification,Soil classification,Soil classification
-2,"
-Upazila/city corporation","
-Total",Doash,Bele,Etel,Kankar,Others
+1,,,,,,,
+2,Upazila/city corporation,Total,Soil classification Doash,Soil classification Bele,Soil classification Etel,Soil classification Kankar,Soil classification Others
 3,Batiaghata,37944,42906,0,0,0,0
 4,Dacope,44497,42300,5640,21150,0,1410
 5,Dighalia,14783,1050,49,9509,1297,0

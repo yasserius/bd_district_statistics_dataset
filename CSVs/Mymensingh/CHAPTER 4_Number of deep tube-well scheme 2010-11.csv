@@ -1,19 +1,18 @@
 ,0,1,2,3
 0,Number of deep tube-well scheme 2010-11,,,
-1,"
-Upazila",Number of deep tube-well,Number of deep tube-well,Area Irrigated (In acre)
-2,"
-Upazila",Commissioned,Operated,Area Irrigated (In acre)
-3,Bhaluka,0,325,20933
-4,Dhobaura,36,30,3085
-5,Fulbaria,671,660,38236
-6,Gaffargaon,0,1628,52000
-7,Gauripur,47,43,2042
-8,Haluaghat,78,156,6789
-9,Ishwargonj,301,237,8064
-10,Muktagacha,552,530,29052
-11,Mymensingh Sadar,281,267,14919
-12,Nandail,358,358,17008
-13,Phulpur,0,44,739
-14,Trishal,0,445,54877
-15,Total,2324,4723,247744
+1,,,,
+2, Upazila,Number of deep tube-well,Number of deep tube-well,Area Irrigated (In acre)
+3, Upazila,Commissioned,Operated,Area Irrigated (In acre)
+4,Bhaluka,0,325,20933
+5,Dhobaura,36,30,3085
+6,Fulbaria,671,660,38236
+7,Gaffargaon,0,1628,52000
+8,Gauripur,47,43,2042
+9,Haluaghat,78,156,6789
+10,Ishwargonj,301,237,8064
+11,Muktagacha,552,530,29052
+12,Mymensingh Sadar,281,267,14919
+13,Nandail,358,358,17008
+14,Phulpur,0,44,739
+15,Trishal,0,445,54877
+16,Total,2324,4723,247744

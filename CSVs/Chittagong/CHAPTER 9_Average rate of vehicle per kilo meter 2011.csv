@@ -1,21 +1,22 @@
 ,0,1,2,3,4,5
 0,Average rate of vehicle per kilo meter 2011,,,,,
-1,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
-2,Upazila/City corporation,Vehicle,Vehicle,Vehicle,Vehicle,Vehicle
-3,Upazila/City corporation,Rickshaw,Rickshaw van,Easy bike,Auto rickshaw,Tempo
-4,Anowara,12,0,0,0,3
-5,Banshkhali,5,10,3,5,2
-6,Boalkhali,10,20,10,5,4
-7,Chandanaish,0,0,4,5,2
-8,Chittagong City Corp.,15,12,10,5,5
-9,Fatikchhari,15,20,10,5,5
-10,Hathazari,25,20,0,25,3
-11,Lohagara,10,10,0,5,5
-12,Mirsharai,15,20,10,10,8
-13,Patiya,15,30,10,5,3
-14,Rangunia,20,20,0,5,5
-15,Raozan,10,30,5,10,0
-16,Sandwip,10,5,5,5,5
-17,Satkania,12,8,5,5,4
-18,Sitakunda,10,30,10,10,5
-19,Average,14,18,7,8,4
+1,,,,,,
+2,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
+3,Upazila/City corporation,Vehicle,Vehicle,Vehicle,Vehicle,Vehicle
+4,Upazila/City corporation,Rickshaw,Rickshaw van,Easy bike,Auto rickshaw,Tempo
+5,Anowara,12,0,0,0,3
+6,Banshkhali,5,10,3,5,2
+7,Boalkhali,10,20,10,5,4
+8,Chandanaish,0,0,4,5,2
+9,Chittagong City Corp.,15,12,10,5,5
+10,Fatikchhari,15,20,10,5,5
+11,Hathazari,25,20,0,25,3
+12,Lohagara,10,10,0,5,5
+13,Mirsharai,15,20,10,10,8
+14,Patiya,15,30,10,5,3
+15,Rangunia,20,20,0,5,5
+16,Raozan,10,30,5,10,0
+17,Sandwip,10,5,5,5,5
+18,Satkania,12,8,5,5,4
+19,Sitakunda,10,30,10,10,5
+20,Average,14,18,7,8,4

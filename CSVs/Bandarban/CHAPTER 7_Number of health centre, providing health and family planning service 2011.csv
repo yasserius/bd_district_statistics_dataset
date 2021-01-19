@@ -1,14 +1,12 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of health centre, providing health and family planning service 2011",,,,,,,
-1,"
-Upazila",Number of union health centre,Health service,"
-Sterilization","
-M.R.",Injection/ copper-T,Oral pill/ condom,Number of immunization centre
-2,Alikadam,3,2,1,2,2,2,49
-3,Bandarban Sadar,5,5,5,5,5,5,34
-4,Lama,9,15,4,4,15,15,30
-5,Naikhongchhari,3,3,3,2,2,2,97
-6,Rowangchhari,4,4,4,4,4,4,36
-7,Ruma,2,3,3,3,3,3,0
-8,Thanchi,1,2,2,2,2,2,0
-9,Total,27,34,22,22,33,33,246
+1,,,,,,,,
+2, Upazila,Number of union health centre,Health service, Sterilization, M.R.,Injection/ copper-T,Oral pill/ condom,Number of immunization centre
+3,Alikadam,3,2,1,2,2,2,49
+4,Bandarban Sadar,5,5,5,5,5,5,34
+5,Lama,9,15,4,4,15,15,30
+6,Naikhongchhari,3,3,3,2,2,2,97
+7,Rowangchhari,4,4,4,4,4,4,36
+8,Ruma,2,3,3,3,3,3,0
+9,Thanchi,1,2,2,2,2,2,0
+10,Total,27,34,22,22,33,33,246

@@ -1,18 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building material 2011,,,,,,
-1,(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka)
-2,Upazila,"Brick-01
-(per1000)","Cement
-(per 50 kg bag)","Iron bar
-(per ton)","Sand-01
-(per c.f.t.)","Sand -02
-(per c.f.t.)","Stone
-(per c.f.t.)"
-3,Barlekha,6500,450,68000,40,20,110
-4,Juri,7500,460,61000,20,25,55
-5,Kamalganj,6000,450,63000,0,0,0
-6,Kulaura,7500,460,61000,20,25,55
-7,Moulvibazar Sadar,7000,560,68000,10,12,0
-8,Rajnagar,7500,450,60000,50,25,70
-9,Sreemangal,4500,280,35000,700,50,0
-10,Average,6643,444,59429,120,26,73
+1,,,,,,,
+2,(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka)
+3,Upazila,Brick-01 (per1000),Cement (per 50 kg bag),Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
+4,Barlekha,6500,450,68000,40,20,110
+5,Juri,7500,460,61000,20,25,55
+6,Kamalganj,6000,450,63000,0,0,0
+7,Kulaura,7500,460,61000,20,25,55
+8,Moulvibazar Sadar,7000,560,68000,10,12,0
+9,Rajnagar,7500,450,60000,50,25,70
+10,Sreemangal,4500,280,35000,700,50,0
+11,Average,6643,444,59429,120,26,73

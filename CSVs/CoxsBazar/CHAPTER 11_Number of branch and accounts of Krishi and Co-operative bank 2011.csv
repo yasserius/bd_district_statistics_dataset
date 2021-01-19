@@ -1,21 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Krishi and Co-operative bank 2011,,,,,,,,,,
-1,"
-Upazila",Krishi bank,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank
-2,"
-Upazila","Number of
-branch",Account,Account,Account,Account,"Number of
-branch",Account,Account,Account,Account
-3,"
-Upazila","Number of
-branch",S.D,C.D,F.D,S.T.D,"Number of
-branch",S.D,C.D,F.D,S.T.D
-4,Chakaria,3,3250,3112,2120,1500,0,0,0,0,0
-5,Cox's Bazar Sadar,1,17000,1200,600,1200,1,650,350,290,150
-6,Kutubdia,2,8284,76,122,12,0,0,0,0,0
-7,Moheshkhali,5,17500,280,175,25,0,0,0,0,0
-8,Pekua,1,1329,99,17,10,0,0,0,0,0
-9,Ramu,249,113,110,0,0,0,0,0,0,0
-10,Teknaf,2,51,0,142,180,0,0,0,0,0
-11,Ukhia,1,10103,78,76,4,0,0,0,0,0
-12,Total,264,57630,4955,3252,2931,1,650,350,290,150
+1,,,,,,,,,,,
+2, Upazila,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank
+3, Upazila,Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
+4, Upazila,Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
+5,Chakaria,3,3250,3112,2120,1500,0,0,0,0,0
+6,Cox's Bazar Sadar,1,17000,1200,600,1200,1,650,350,290,150
+7,Kutubdia,2,8284,76,122,12,0,0,0,0,0
+8,Moheshkhali,5,17500,280,175,25,0,0,0,0,0
+9,Pekua,1,1329,99,17,10,0,0,0,0,0
+10,Ramu,249,113,110,0,0,0,0,0,0,0
+11,Teknaf,2,51,0,142,180,0,0,0,0,0
+12,Ukhia,1,10103,78,76,4,0,0,0,0,0
+13,Total,264,57630,4955,3252,2931,1,650,350,290,150

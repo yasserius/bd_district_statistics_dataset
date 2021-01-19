@@ -1,17 +1,14 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,"
-Upazila","
-Units",Persons engaged,Persons engaged,Persons engaged
-2,"
-Upazila","
-Units",Family,Hired,Total
-3,Chandpur Sadar,52,78,187,265
-4,Foridganj,18,47,62,109
-5,Haimchar,11,11,59,70
-6,Hajiganj,19,18,60,78
-7,Kachua,20,28,140,168
-8,Matlab Dakshin,18,18,90,108
-9,Matlab Uttar,20,20,140,160
-10,Shahrasti,23,20,150,170
-11,Total,181,240,888,1128
+1,,,,,
+2, Upazila, Units,Persons engaged,Persons engaged,Persons engaged
+3, Upazila, Units,Family,Hired,Total
+4,Chandpur Sadar,52,78,187,265
+5,Foridganj,18,47,62,109
+6,Haimchar,11,11,59,70
+7,Hajiganj,19,18,60,78
+8,Kachua,20,28,140,168
+9,Matlab Dakshin,18,18,90,108
+10,Matlab Uttar,20,20,140,160
+11,Shahrasti,23,20,150,170
+12,Total,181,240,888,1128

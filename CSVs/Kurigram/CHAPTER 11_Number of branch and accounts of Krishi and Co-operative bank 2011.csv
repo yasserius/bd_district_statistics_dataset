@@ -1,22 +1,16 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Krishi and Co-operative bank 2011,,,,,,,,,,
-1,"
-Upazila",Krishi bank,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank
-2,"
-Upazila","Number
-of branch",Account,Account,Account,Account,"Number
-of branch",Account,Account,Account,Account
-3,"
-Upazila","Number
-of branch",S.D,C.D,F.D,S.T.D,"Number
-of branch",S.D,C.D,F.D,S.T.D
-4,Bhurungamari,2,5825,73,36,2,0,0,0,0,0
-5,Char Rajibpur,1,0,0,30,2,0,0,0,0,0
-6,Chilmari,1,5401,37,90,3,0,0,0,0,0
-7,Kurigram Sadar,3,3418,2165,935,435,0,0,0,0,0
-8,Nageshwari,4,8494,107,75,9,0,0,0,0,0
-9,Phulbari,2,4127,145,29,1,0,0,0,0,0
-10,Rajarhat,2,11222,412,24,18,0,0,0,0,0
-11,Raumari,1,25024,107,61,4,0,0,0,0,0
-12,Ulipur,3,54121,164,61,10,0,0,0,0,0
-13,Total,19,117632,3210,1341,484,0,0,0,0,0
+1,,,,,,,,,,,
+2, Upazila,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank
+3, Upazila,Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
+4, Upazila,Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
+5,Bhurungamari,2,5825,73,36,2,0,0,0,0,0
+6,Char Rajibpur,1,0,0,30,2,0,0,0,0,0
+7,Chilmari,1,5401,37,90,3,0,0,0,0,0
+8,Kurigram Sadar,3,3418,2165,935,435,0,0,0,0,0
+9,Nageshwari,4,8494,107,75,9,0,0,0,0,0
+10,Phulbari,2,4127,145,29,1,0,0,0,0,0
+11,Rajarhat,2,11222,412,24,18,0,0,0,0,0
+12,Raumari,1,25024,107,61,4,0,0,0,0,0
+13,Ulipur,3,54121,164,61,10,0,0,0,0,0
+14,Total,19,117632,3210,1341,484,0,0,0,0,0

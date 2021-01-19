@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
-2,Dhaka Metropolitan,40,7547,19,143,82
-3,Dhamrai,2,476,1,5,2
-4,Dohar,2,48,1,18,1
-5,Keraniganj,5,169,1,76,1
-6,Nawabganj,4,89,0,4,1
-7,Savar,3,270,1,21,19
-8,Total,56,8599,23,267,106
+1,,,,,,
+2,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
+3,Dhaka Metropolitan,40,7547,19,143,82
+4,Dhamrai,2,476,1,5,2
+5,Dohar,2,48,1,18,1
+6,Keraniganj,5,169,1,76,1
+7,Nawabganj,4,89,0,4,1
+8,Savar,3,270,1,21,19
+9,Total,56,8599,23,267,106

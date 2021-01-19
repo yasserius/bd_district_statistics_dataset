@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Broad classification of area 2011,,,,
 1,(In sq. km.),,,,
-2,Upazila,Total area,Land area,"Reserve
-forest","Riverine
-area"
+2,Upazila,Total area,Land area,Reserve forest,Riverine area
 3,Jhenaigati,242.07,209.93,32.14,0
 4,Nakla,173.89,172.1,0,1.79
 5,Nalitabari,327.61,325.15,0.78,1.68

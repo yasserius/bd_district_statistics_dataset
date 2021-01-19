@@ -1,10 +1,7 @@
 ,0,1,2,3,4,5
 0,Number of insurance company 2011,,,,,
 1,(Figures in lac Tk.),,,,,
-2,"
-Upazila","Number of insurance
-company",Number of employee,Number of client,"Annual premium
-Tk.",Annual claimed paid Tk.
+2,Upazila,Number of insurance company,Number of employee,Number of client,Annual premium Tk.,Annual claimed paid Tk.
 3,Gangni,13,40,10400,650,1
 4,Mujibnagar,3,96,727,302,15
 5,Meherpur Sadar,10,113,7300,67,394

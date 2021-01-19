@@ -1,23 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Selected poultry, birds 2008",,,,,,
-1,"
-Upazila",Hen and cock,Hen and cock,Duck,Duck,Others,Others
-2,"
-Upazila","Holding
-reporting","Total
-number","Holding
-reporting","Total
-number","Holding
-reporting","Total
-number"
-3,Atpara,16736,89749,9019,49164,618,2473
-4,Barhatta,20081,117215,12214,70173,761,2712
-5,Durgapur,27654,150061,13277,65542,10,3437
-6,Kalmakanda,29393,185114,17120,96202,0,0
-7,Kendua,34188,186885,12163,56155,13,91
-8,Khaliajuri,7780,50643,3373,22794,175,876
-9,Madan,17914,110887,5827,37829,175,876
-10,Mohanganj,16329,93272,7669,44707,0,0
-11,Netrokona Sadar,32705,186548,18403,100102,1644,6480
-12,Purbadhala,38210,219165,24958,130127,530,6764
-13,Total,240990,1389539,124023,672795,3926,23709
+1,,,,,,,
+2, Upazila,Hen and cock,Hen and cock,Duck,Duck,Others,Others
+3, Upazila,Holding reporting,Total number,Holding reporting,Total number,Holding reporting,Total number
+4,Atpara,16736,89749,9019,49164,618,2473
+5,Barhatta,20081,117215,12214,70173,761,2712
+6,Durgapur,27654,150061,13277,65542,10,3437
+7,Kalmakanda,29393,185114,17120,96202,0,0
+8,Kendua,34188,186885,12163,56155,13,91
+9,Khaliajuri,7780,50643,3373,22794,175,876
+10,Madan,17914,110887,5827,37829,175,876
+11,Mohanganj,16329,93272,7669,44707,0,0
+12,Netrokona Sadar,32705,186548,18403,100102,1644,6480
+13,Purbadhala,38210,219165,24958,130127,530,6764
+14,Total,240990,1389539,124023,672795,3926,23709

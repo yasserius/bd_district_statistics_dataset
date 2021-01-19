@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Number of handloom establishments and loom 2011,,,,
-1,"
-Upazila",Number of unit (factory),Number of loom,Number of loom,Number of loom
-2,"
-Upazila",Number of unit (factory),Operational,Non-operational,Total
+1,,,,,
+2,Upazila,Number of unit (factory),Number of loom Operational,Number of loom Non-operational,Number of loom Total
 3,Basail,522,1077,420,1497
 4,Bhuapur,15,196,9,205
 5,Delduar,1134,4104,432,4536

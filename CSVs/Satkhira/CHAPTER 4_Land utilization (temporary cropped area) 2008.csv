@@ -1,16 +1,13 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,"
-Upazila","
-Current fallow",Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Productivity of crop
-2,"
-Upazila","
-Current fallow",Single,Double,Triple,Net,Gross,Productivity of crop
-3,Assasuni,275,20815,3255,1305,25375,31240,123
-4,Debhata,92,5203,4615,2126,11944,20811,174
-5,Kalaroa,653,10290,14238,8457,32985,64137,194
-6,Kaliganj,163,30564,4036,4236,38836,51344,132
-7,Satkhira Sadar,309,32421,16550,12543,61514,103150,168
-8,Shyamnagar,173,33393,1790,1946,37129,42811,115
-9,Tala,134,28452,17603,3509,49564,74185,150
-10,Total,1799,161138,62087,34122,257347,387678,151
+1,,,,,,,,
+2, Upazila, Current fallow,Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Productivity of crop
+3, Upazila, Current fallow,Single,Double,Triple,Net,Gross,Productivity of crop
+4,Assasuni,275,20815,3255,1305,25375,31240,123
+5,Debhata,92,5203,4615,2126,11944,20811,174
+6,Kalaroa,653,10290,14238,8457,32985,64137,194
+7,Kaliganj,163,30564,4036,4236,38836,51344,132
+8,Satkhira Sadar,309,32421,16550,12543,61514,103150,168
+9,Shyamnagar,173,33393,1790,1946,37129,42811,115
+10,Tala,134,28452,17603,3509,49564,74185,150
+11,Total,1799,161138,62087,34122,257347,387678,151

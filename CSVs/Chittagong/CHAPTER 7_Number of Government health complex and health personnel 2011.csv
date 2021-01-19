@@ -1,25 +1,21 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and health personnel 2011,,,,,
-1,Upazila/City corporation,"Number of
-bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Anowara,50,32,17,8,145
-3,Banshkhali,50,11,11,5,119
-4,Boalkhali,50,39,15,3,16
-5,Chandanaish,65,52,16,8,160
-6,Chittagong City Corp.,1464,153,88,18,116
-7,Fatikchhari,40,14,29,5,23
-8,Halishahar,0,0,0,0,0
-9,Hathazari,50,35,15,66,99
-10,Lohagara,50,21,15,3,75
-11,Mirsharai,50,26,9,2,186
-12,Patiya,15,21,23,84,58
-13,Rangunia,50,35,13,4,115
-14,Raozan,31,8,5,2,145
-15,Sandwip,78,12,5,3,115
-16,Satkania,31,23,7,4,54
-17,Sitakunda,50,27,13,7,9
-18,Total,1809,246,153,36,179
+1,,,,,,
+2,Upazila/City corporation,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Anowara,50,32,17,8,145
+4,Banshkhali,50,11,11,5,119
+5,Boalkhali,50,39,15,3,16
+6,Chandanaish,65,52,16,8,160
+7,Chittagong City Corp.,1464,153,88,18,116
+8,Fatikchhari,40,14,29,5,23
+9,Halishahar,0,0,0,0,0
+10,Hathazari,50,35,15,66,99
+11,Lohagara,50,21,15,3,75
+12,Mirsharai,50,26,9,2,186
+13,Patiya,15,21,23,84,58
+14,Rangunia,50,35,13,4,115
+15,Raozan,31,8,5,2,145
+16,Sandwip,78,12,5,3,115
+17,Satkania,31,23,7,4,54
+18,Sitakunda,50,27,13,7,9
+19,Total,1809,246,153,36,179

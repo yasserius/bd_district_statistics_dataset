@@ -1,12 +1,11 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,"
-Upazila",Number of pumps fielded,Number of pumps fielded,Number of pumps fielded,Area irrigated (in acre)
-2,"
-Upazila",Electric,Diesel,Total,Area irrigated (in acre)
-3,Gopalganj Sadar,190,3500,3690,27923
-4,Kashiani,354,3157,3511,33950
-5,Kotalipara,4,180,184,3240
-6,Muksudpur,249,3270,3519,45547
-7,Tungipara,0,17,17,235
-8,Total,797,10124,10921,110895
+1,,,,,
+2, Upazila,Number of pumps fielded,Number of pumps fielded,Number of pumps fielded,Area irrigated (in acre)
+3, Upazila,Electric,Diesel,Total,Area irrigated (in acre)
+4,Gopalganj Sadar,190,3500,3690,27923
+5,Kashiani,354,3157,3511,33950
+6,Kotalipara,4,180,184,3240
+7,Muksudpur,249,3270,3519,45547
+8,Tungipara,0,17,17,235
+9,Total,797,10124,10921,110895

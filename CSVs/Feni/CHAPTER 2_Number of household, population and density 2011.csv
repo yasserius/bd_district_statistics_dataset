@@ -1,15 +1,12 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,"
-Upazila","
-Household",Population (000),Population (000),Population (000),Sex ratio (M/F),Average size of household,Density per sq. km.
-2,"
-Upazila","
-Household",Male,Female,Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
-3,Chhagalnaiya,36744,89494,97662,187156,92,5.04,1341
-4,Daganbhuiyan,49038,118752,135650,254402,88,5.15,1795
-5,Feni Sadar,97869,254751,257895,512646,99,5.15,2266
-6,Fulgazi,23494,59497,60061,119558,99,5.06,1170
-7,Parshuram,20353,47981,53081,101062,90,4.91,1055
-8,Sonagazi,50167,123653,138894,262547,89,5.20,922
-9,Total,277665,694128,743243,1437371,93,5.12,1451
+1,,,,,,,,
+2, Upazila, Household,Population (000),Population (000),Population (000),Sex ratio (M/F),Average size of household,Density per sq. km.
+3, Upazila, Household,Male,Female,Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
+4,Chhagalnaiya,36744,89494,97662,187156,92,5.04,1341
+5,Daganbhuiyan,49038,118752,135650,254402,88,5.15,1795
+6,Feni Sadar,97869,254751,257895,512646,99,5.15,2266
+7,Fulgazi,23494,59497,60061,119558,99,5.06,1170
+8,Parshuram,20353,47981,53081,101062,90,4.91,1055
+9,Sonagazi,50167,123653,138894,262547,89,5.20,922
+10,Total,277665,694128,743243,1437371,93,5.12,1451

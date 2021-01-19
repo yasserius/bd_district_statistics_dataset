@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of bamboo and cane industry and person engaged in cottage industry 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
+1,,,,,
+2,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Dighinala,52,52,0,52
 4,Khagrachhari Sadar,144,295,0,295
 5,Laxshmichhari,0,0,0,0

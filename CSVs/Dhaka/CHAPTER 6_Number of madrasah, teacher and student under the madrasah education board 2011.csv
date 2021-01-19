@@ -1,13 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of madrasah, teacher and student under the madrasah education board 2011",,,,,,,,
-1,"
-Upazila",Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Dhaka Metropolitan,108,1526,293,1819,37130,15214,52344,29
-4,Dhamrai,120,116,40,156,2850,3000,5850,38
-5,Dohar,3,54,0,54,902,620,1522,28
-6,Keraniganj,9,128,11,139,1945,2462,4407,32
-7,Nawabganj,5,67,3,70,1481,812,2293,33
-8,Savar,13,252,14,266,3621,3391,7012,26
-9,Total,258,2143,361,2504,47929,25499,73428,29
+1,,,,,,,,,
+2, Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Dhaka Metropolitan,108,1526,293,1819,37130,15214,52344,29
+5,Dhamrai,120,116,40,156,2850,3000,5850,38
+6,Dohar,3,54,0,54,902,620,1522,28
+7,Keraniganj,9,128,11,139,1945,2462,4407,32
+8,Nawabganj,5,67,3,70,1481,812,2293,33
+9,Savar,13,252,14,266,3621,3391,7012,26
+10,Total,258,2143,361,2504,47929,25499,73428,29

@@ -1,14 +1,13 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
-2,"
-Upazila",2010-11,2010-11,2009-10,2009-10
-3,"
-Upazila",Number,Production,Number,Production
-4,Bhedarganj,6879,3902,7516,3528
-5,Damudya,325,682,325,681
-6,Gosairhat,1720,128,1634,122
-7,Naria,1540,2467,1430,2268
-8,Shariatpur Sadar,704,2875,655,2610
-9,Zanjira,925,309,1225,310
-10,Total,12093,10363,12785,9519
+1,,,,,
+2,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
+3, Upazila,2010-11,2010-11,2009-10,2009-10
+4, Upazila,Number,Production,Number,Production
+5,Bhedarganj,6879,3902,7516,3528
+6,Damudya,325,682,325,681
+7,Gosairhat,1720,128,1634,122
+8,Naria,1540,2467,1430,2268
+9,Shariatpur Sadar,704,2875,655,2610
+10,Zanjira,925,309,1225,310
+11,Total,12093,10363,12785,9519

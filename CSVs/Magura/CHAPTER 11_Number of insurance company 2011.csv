@@ -1,9 +1,9 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,Upazila,"Number of
-insurance company",Number of employee,Number of client
-2,Magura Sadar,12,56,730
-3,Mohammadpur,6,575,11015
-4,Shalikha,13,183,11312
-5,Sreepur,6,24,4686
-6,Total,37,838,27743
+1,,,,
+2,Upazila,Number of insurance company,Number of employee,Number of client
+3,Magura Sadar,12,56,730
+4,Mohammadpur,6,575,11015
+5,Shalikha,13,183,11312
+6,Sreepur,6,24,4686
+7,Total,37,838,27743

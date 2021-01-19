@@ -1,36 +1,12 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Government health complex and health facility 2011,,,,,,,,,,
-1,"
-
-Upazila",Number of hospital/ clinic/ nursing home,"
-Number of bed","
-Number of doctor","
-Number of nurse","
-Number of technician","Number of
-other staff","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility"
-2,"
-
-Upazila",Number of hospital/ clinic/ nursing home,"
-Number of bed","
-Number of doctor","
-Number of nurse","
-Number of technician","Number of
-other staff",Indoor,Indoor,Outdoor,Outdoor
-3,"
-
-Upazila",Number of hospital/ clinic/ nursing home,"
-Number of bed","
-Number of doctor","
-Number of nurse","
-Number of technician","Number of
-other staff",Male,Female,Male,Female
-4,Baliakandi,1,50,9,9,4,25,309,426,3675,4112
-5,Goalanda,1,31,15,16,17,64,1950,3644,24829,37178
-6,Kalukhali,0,0,0,0,0,0,0,0,0,0
-7,Pangsha,1,50,20,14,16,130,3700,3627,16815,24656
-8,Rajbari Sadar,2,120,12,41,4,41,10312,6112,73301,7459
-9,Total,5,251,56,80,41,260,16271,13809,118620,73405
+1,,,,,,,,,,,
+2,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of technician,Number of other staff,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility
+3,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of technician,Number of other staff,Indoor,Indoor,Outdoor,Outdoor
+4,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of technician,Number of other staff,Male,Female,Male,Female
+5,Baliakandi,1,50,9,9,4,25,309,426,3675,4112
+6,Goalanda,1,31,15,16,17,64,1950,3644,24829,37178
+7,Kalukhali,0,0,0,0,0,0,0,0,0,0
+8,Pangsha,1,50,20,14,16,130,3700,3627,16815,24656
+9,Rajbari Sadar,2,120,12,41,4,41,10312,6112,73301,7459
+10,Total,5,251,56,80,41,260,16271,13809,118620,73405

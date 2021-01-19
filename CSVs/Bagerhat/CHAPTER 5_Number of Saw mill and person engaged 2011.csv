@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Number of Saw mill and person engaged 2011,,,,
-1,Upazila,Unit,Person engaged,Person engaged,Person engaged
-2,Upazila,Unit,Family,Hired,Total
-3,Bagerhat Sadar,42,8,192,200
-4,Kachua,28,12,84,96
-5,Rampal,22,84,60,144
-6,Sarankhola,29,5,87,92
-7,Chitalmari,29,25,91,116
-8,Morrelgonj,32,47,110,157
-9,Mongla,20,0,80,80
-10,Mollahat,27,30,82,112
-11,Fakirhat,25,28,102,130
-12,Total,254,239,888,1127
+1,,,,,
+2,Upazila,Unit,Person engaged,Person engaged,Person engaged
+3,Upazila,Unit,Family,Hired,Total
+4,Bagerhat Sadar,42,8,192,200
+5,Kachua,28,12,84,96
+6,Rampal,22,84,60,144
+7,Sarankhola,29,5,87,92
+8,Chitalmari,29,25,91,116
+9,Morrelgonj,32,47,110,157
+10,Mongla,20,0,80,80
+11,Mollahat,27,30,82,112
+12,Fakirhat,25,28,102,130
+13,Total,254,239,888,1127

@@ -1,9 +1,10 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,Upazila,Number,Number of employee,Number of client
-2,Amtali,541,26,9912
-3,Bamna,62,3,5064
-4,Barguna Sadar,247,85,12362
-5,Betagi,156,320,36196
-6,Patharghata,92,22,17923
-7,Total,1098,456,81457
+1,,,,
+2,Upazila,Number,Number of employee,Number of client
+3,Amtali,541,26,9912
+4,Bamna,62,3,5064
+5,Barguna Sadar,247,85,12362
+6,Betagi,156,320,36196
+7,Patharghata,92,22,17923
+8,Total,1098,456,81457

@@ -1,41 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Non-government Health Complex & Health Facility 2011,,,,,,,,,,
-1,"
-
-Upazila/ City Corporation",Number of hospital/ clinic/ nursing home,"
-Number of bed","
-Number of doctor","
-Number of nurse","
-Number of    technician","
-Number of other staff","Number of patient under health facility-
-2011","Number of patient under health facility-
-2011","Number of patient under health facility-
-2011","Number of patient under health facility-
-2011"
-2,"
-
-Upazila/ City Corporation",Number of hospital/ clinic/ nursing home,"
-Number of bed","
-Number of doctor","
-Number of nurse","
-Number of    technician","
-Number of other staff",Indoor,Indoor,Outdoor,Outdoor
-3,"
-
-Upazila/ City Corporation",Number of hospital/ clinic/ nursing home,"
-Number of bed","
-Number of doctor","
-Number of nurse","
-Number of    technician","
-Number of other staff",Male,Female,Male,Female
-4,Batiaghata,0,0,0,0,0,0,0,0,0,0
-5,Dacope,1,5,1,0,0,2,0,0,0,0
-6,Dighalia,3,27,4,8,0,6,125,220,251,367
-7,Dumuria,6,60,16,30,0,38,7,15,75,92
-8,Khulna City Corporation,79,790,116,241,121,318,11325,11066,17437,64663
-9,Koyra,4,3,4,0,0,0,504,651,1085,1398
-10,Paikgachha,2,105,20,15,7,60,7112,8314,45102,72381
-11,Phultala,6,33,23,22,12,28,1820,2160,15563,42334
-12,Rupsa,2,100,14,20,11,55,3091,4636,26984,42920
-13,Terokhada,3,24,5,11,0,7,375,1208,8020,25305
-14,Total,106,1147,203,347,151,514,24359,28270,114517,249460
+1,,,,,,,,,,,
+2,Upazila/ City Corporation,Number of hospital/ clinic/ nursing home,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff,Number of patient under health facility- 2011 Indoor Male,Number of patient under health facility- 2011 Indoor Female,Number of patient under health facility- 2011 Outdoor Male,Number of patient under health facility- 2011 Outdoor Female
+3,Batiaghata,0,0,0,0,0,0,0,0,0,0
+4,Dacope,1,5,1,0,0,2,0,0,0,0
+5,Dighalia,3,27,4,8,0,6,125,220,251,367
+6,Dumuria,6,60,16,30,0,38,7,15,75,92
+7,Khulna City Corporation,79,790,116,241,121,318,11325,11066,17437,64663
+8,Koyra,4,3,4,0,0,0,504,651,1085,1398
+9,Paikgachha,2,105,20,15,7,60,7112,8314,45102,72381
+10,Phultala,6,33,23,22,12,28,1820,2160,15563,42334
+11,Rupsa,2,100,14,20,11,55,3091,4636,26984,42920
+12,Terokhada,3,24,5,11,0,7,375,1208,8020,25305
+13,Total,106,1147,203,347,151,514,24359,28270,114517,249460

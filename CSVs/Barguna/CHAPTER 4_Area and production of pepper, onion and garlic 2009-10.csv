@@ -1,11 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic 2009-10",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Pepper,Pepper,Onion,Onion,Garlic,Garlic
-3,Upazila,Area,Production,Area,Production,Area,Production
-4,Amtali,169,55,23,23,33,26
-5,Bamna,26,26,0,0,0,0
-6,Barguna Sadar,0,0,47,6,0,0
-7,Betagi,425,109,27,37,19,16
-8,Patharghata,362,72,8,4,5,3
-9,Total,982,262,105,70,57,45
+2,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
+3,Amtali,169,55,23,23,33,26
+4,Bamna,26,26,0,0,0,0
+5,Barguna Sadar,0,0,47,6,0,0
+6,Betagi,425,109,27,37,19,16
+7,Patharghata,362,72,8,4,5,3
+8,Total,982,262,105,70,57,45

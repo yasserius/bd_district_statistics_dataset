@@ -1,25 +1,18 @@
 ,0,1,2,3,4,5,6
 0,Daily average wage rate of construction labour 2011,,,,,,
 1,(Rate in Taka),,,,,,
-2,"
-Thana/Upazila/City corporation",Labour,Labour,Labour,Labour,Labour,Labour
-3,"
-Thana/Upazila/City corporation",Mason,"Helper
-(Jogaly)",Carpenter,"Colour
-mistree","Electric
-mistree","Plumber
-mistree"
-4,Balaganj,350,250,350,350,350,400
-5,Beanibazar,300,150,250,300,350,300
-6,Bishwanath,340,200,350,250,100,100
-7,Companiganj,500,250,500,500,500,400
-8,Dakhin surma,300,200,300,300,300,300
-9,Fenchuganj,250,150,350,400,400,250
-10,Golapganj,250,200,285,285,285,285
-11,Gowainghat,500,300,450,550,400,450
-12,Jaintiapur,350,250,350,400,400,500
-13,Kanaighat,350,200,400,400,500,400
-14,Sylhet city corporation,400,200,350,350,400,400
-15,Sylhet sadar,300,170,300,350,250,350
-16,Zakiganj,350,200,300,300,350,300
-17,District Average,349,209,348,364,352,341
+2,Thana/Upazila/City corporation,Labour Mason,Labour Helper (Jogaly),Labour Carpenter,Labour Colour mistree,Labour Electric mistree,Labour Plumber mistree
+3,Balaganj,350,250,350,350,350,400
+4,Beanibazar,300,150,250,300,350,300
+5,Bishwanath,340,200,350,250,100,100
+6,Companiganj,500,250,500,500,500,400
+7,Dakhin surma,300,200,300,300,300,300
+8,Fenchuganj,250,150,350,400,400,250
+9,Golapganj,250,200,285,285,285,285
+10,Gowainghat,500,300,450,550,400,450
+11,Jaintiapur,350,250,350,400,400,500
+12,Kanaighat,350,200,400,400,500,400
+13,Sylhet city corporation,400,200,350,350,400,400
+14,Sylhet sadar,300,170,300,350,250,350
+15,Zakiganj,350,200,300,300,350,300
+16,District Average,349,209,348,364,352,341

@@ -1,19 +1,17 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C","Number of
-current account"
-2,Adamdighi,6,68,42216,2216
-3,Bogra sadar,30,533,188100,32727
-4,Dhunat,3,26,29048,3117
-5,Gabtali,8,58,49333,1732
-6,Dhupchanchia,9,83,38499,3387
-7,Kahaloo,3,30,12672,1438
-8,Nandigram,4,37,8110,770
-9,Sariakandi,3,34,45585,1077
-10,Sherpur,8,96,58373,7920
-11,Shibganj,16,159,126061,2380
-12,Sonatola,5,60,27577,3099
-13,Shajahanpur,8,72,33234,1926
-14,Total,103,1256,658808,61789
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current account
+3,Adamdighi,6,68,42216,2216
+4,Bogra sadar,30,533,188100,32727
+5,Dhunat,3,26,29048,3117
+6,Gabtali,8,58,49333,1732
+7,Dhupchanchia,9,83,38499,3387
+8,Kahaloo,3,30,12672,1438
+9,Nandigram,4,37,8110,770
+10,Sariakandi,3,34,45585,1077
+11,Sherpur,8,96,58373,7920
+12,Shibganj,16,159,126061,2380
+13,Sonatola,5,60,27577,3099
+14,Shajahanpur,8,72,33234,1926
+15,Total,103,1256,658808,61789

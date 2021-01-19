@@ -1,15 +1,12 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization 2008,,,,,
-1,Upazila,"Operated
-area","Permanent
-cropped area","Temporary
-cropped area","Permanent
-fallow area",Others
-2,Alikadam,14932,3052,9908,159,1813
-3,Bandarban Sadar,27605,12661,10062,687,4195
-4,Lama,39510,14652,14182,1357,9319
-5,Naikhongchhari,21708,5655,11080,602,4371
-6,Rowangchhari,19613,5358,8829,30,5396
-7,Ruma,21755,4860,13693,64,3138
-8,Thanchi,9806,2037,7220,15,534
-9,Total,154931,48275,74974,2914,28768
+1,,,,,,
+2,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
+3,Alikadam,14932,3052,9908,159,1813
+4,Bandarban Sadar,27605,12661,10062,687,4195
+5,Lama,39510,14652,14182,1357,9319
+6,Naikhongchhari,21708,5655,11080,602,4371
+7,Rowangchhari,19613,5358,8829,30,5396
+8,Ruma,21755,4860,13693,64,3138
+9,Thanchi,9806,2037,7220,15,534
+10,Total,154931,48275,74974,2914,28768

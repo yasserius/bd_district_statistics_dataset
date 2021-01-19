@@ -1,13 +1,8 @@
 ,0,1,2,3,4,5,6,7
 0,Irrigation by means 2010-2011,,,,,,,
 1,(In acre),,,,,,,
-2,"
-Upazila",Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,"
-Total"
-3,"
-Upazila",Power pump,Tube well,Doon,"Swing
-basket",Canal,Others,"
-Total"
+2, Upazila,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management, Total
+3, Upazila,Power pump,Tube well,Doon,Swing basket,Canal,Others, Total
 4,Bagerhat Sadar,3586,22,1825,1537,1100,0,8639
 5,Kachua,2172,0,320,274,256,2690,5712
 6,Rampal,4820,157,408,90,0,0,5318

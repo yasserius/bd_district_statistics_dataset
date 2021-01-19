@@ -1,14 +1,13 @@
 ,0,1,2,3,4
 0,Number of handloom establishment and loom 2011,,,,
-1,"
-Upazila",Number of unit (factory),Number of loom,Number of loom,Number of loom
-2,"
-Upazila",Number of unit (factory),Operational,Non-operational,Total
-3,Assasuni,0,0,0,0
-4,Debhata,0,0,0,0
-5,Kalaroa,0,0,0,0
-6,Kaliganj,500,300,200,500
-7,Satkhira Sadar,15,10,5,15
-8,Shyamnagar,21,19,2,21
-9,Tala,51,51,0,51
-10,Total,587,380,207,587
+1,,,,,
+2, Upazila,Number of unit (factory),Number of loom,Number of loom,Number of loom
+3, Upazila,Number of unit (factory),Operational,Non-operational,Total
+4,Assasuni,0,0,0,0
+5,Debhata,0,0,0,0
+6,Kalaroa,0,0,0,0
+7,Kaliganj,500,300,200,500
+8,Satkhira Sadar,15,10,5,15
+9,Shyamnagar,21,19,2,21
+10,Tala,51,51,0,51
+11,Total,587,380,207,587

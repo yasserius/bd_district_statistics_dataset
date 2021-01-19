@@ -1,18 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area and Production of mango, litchi and blackberry 2010-11",,,,,,
 1,(Area in acre & production in metric ton),,,,,,
-2,"
-Upazila/city corporation",Mango,Mango,Litchi,Litchi,Blackberry,Blackberry
-3,"
-Upazila/city corporation",Area,Production,Area,Production,Area,Production
-4,Batiaghata	100,225,10,29,5,4,
-5,Dacope	69,307,0,0,2,1,
-6,Dighalia	129,576,16,40,9,20,
-7,Dumuria	55,4845,6,131,8,173,
-8,Khulna City Corporation	8,40,5,7,3,21,
-9,Koyra	12,118,2,9,2,3,
-10,Paikgachha	16,38,4,5,7,24,
-11,Phultala	178,700,59,57,7,34,
-12,Rupsa	175,152,11,17,3,6,
-13,Terokhada	127,182,32,19,14,20,
-14,Total	868,7181,144,314,59,306,
+2,Upazila/city corporation,Mango Area,Mango Production,Litchi Area,Litchi Production,Blackberry Area,Blackberry Production
+3,Batiaghata	100,225,10,29,5,4,
+4,Dacope	69,307,0,0,2,1,
+5,Dighalia	129,576,16,40,9,20,
+6,Dumuria	55,4845,6,131,8,173,
+7,Khulna City Corporation	8,40,5,7,3,21,
+8,Koyra	12,118,2,9,2,3,
+9,Paikgachha	16,38,4,5,7,24,
+10,Phultala	178,700,59,57,7,34,
+11,Rupsa	175,152,11,17,3,6,
+12,Terokhada	127,182,32,19,14,20,
+13,Total	868,7181,144,314,59,306,

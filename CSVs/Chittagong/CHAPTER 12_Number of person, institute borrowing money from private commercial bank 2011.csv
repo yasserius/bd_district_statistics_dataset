@@ -1,31 +1,22 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,"
-Upazila/City corporation","Number of branch of all private
-commercial banks",Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-Upazila/City corporation","Number of branch of all private
-commercial banks",Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,"Number of
-borrower","Number of
-borrower","Total debt
-(crore tk)","Total debt
-(crore tk)"
-3,"
-Upazila/City corporation","Number of branch of all private
-commercial banks",Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Anowara,1,0,0,0,0,7,2,7,2,0,0
-5,Banshkhali,3,178,252,1,0,381,20,560,272,6,1
-6,Boalkhali,3,5,0,0,0,300,0,305,0,1,0
-7,Chandanaish,3,872,230,532,328,585,473,1989,1031,6,3
-8,Chittagong City Corp.,205,542,165,2949,478,6903,1846,10282,3495,39290,13408
-9,Fatikchhari,17,1143,124,572,63,1080,190,2858,317,17,2
-10,Hathazari,15,105,15,35,0,300,25,480,0,1,0
-11,Lohagara,8,1204,60,0,0,1400,400,2604,1460,19,17
-12,Mirsharai,17,1465,0,0,0,1890,0,3355,0,2,0
-13,Patiya,5,8,0,0,0,528,0,613,0,0,0
-14,Rangunia,1,4,0,0,0,48,0,52,0,5,0
-15,Raozan,6,0,0,0,0,270,0,0,0,27,0
-16,Sandwip,5,1100,650,0,0,700,120,1800,770,200,50
-17,Satkania,8,42,1003,0,0,1240,135,1282,1138,38,5
-18,Sitakunda,20,3223,6221,17,5,3893,67,7133,6293,14,0
-19,Total,317,9891,8720,4106,874,19525,3278,33320,14778,39626,13486
+1,,,,,,,,,,,,
+2, Upazila/City corporation,Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3, Upazila/City corporation,Number of branch of all private commercial banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
+4, Upazila/City corporation,Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+5,Anowara,1,0,0,0,0,7,2,7,2,0,0
+6,Banshkhali,3,178,252,1,0,381,20,560,272,6,1
+7,Boalkhali,3,5,0,0,0,300,0,305,0,1,0
+8,Chandanaish,3,872,230,532,328,585,473,1989,1031,6,3
+9,Chittagong City Corp.,205,542,165,2949,478,6903,1846,10282,3495,39290,13408
+10,Fatikchhari,17,1143,124,572,63,1080,190,2858,317,17,2
+11,Hathazari,15,105,15,35,0,300,25,480,0,1,0
+12,Lohagara,8,1204,60,0,0,1400,400,2604,1460,19,17
+13,Mirsharai,17,1465,0,0,0,1890,0,3355,0,2,0
+14,Patiya,5,8,0,0,0,528,0,613,0,0,0
+15,Rangunia,1,4,0,0,0,48,0,52,0,5,0
+16,Raozan,6,0,0,0,0,270,0,0,0,27,0
+17,Sandwip,5,1100,650,0,0,700,120,1800,770,200,50
+18,Satkania,8,42,1003,0,0,1240,135,1282,1138,38,5
+19,Sitakunda,20,3223,6221,17,5,3893,67,7133,6293,14,0
+20,Total,317,9891,8720,4106,874,19525,3278,33320,14778,39626,13486

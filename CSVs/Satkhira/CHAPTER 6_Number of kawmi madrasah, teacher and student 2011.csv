@@ -1,14 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kawmi madrasah, teacher and student 2011",,,,,,,,
-1,"
-Upazila",Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Assasuni,35,45,0,45,525,0,525,12
-4,Debhata,3,12,0,12,228,240,468,39
-5,Kalaroa,3,10,0,10,82,51,133,13
-6,Kaliganj,4,35,0,35,1320,255,1575,45
-7,Satkhira Sadar,7,98,4,102,631,210,841,8
-8,Shyamnagar,12,142,0,142,960,0,960,7
-9,Tala,2,12,2,14,88,28,116,8
-10,Total,66,354,6,360,3834,784,4618,13
+1,,,,,,,,,
+2, Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Assasuni,35,45,0,45,525,0,525,12
+5,Debhata,3,12,0,12,228,240,468,39
+6,Kalaroa,3,10,0,10,82,51,133,13
+7,Kaliganj,4,35,0,35,1320,255,1575,45
+8,Satkhira Sadar,7,98,4,102,631,210,841,8
+9,Shyamnagar,12,142,0,142,960,0,960,7
+10,Tala,2,12,2,14,88,28,116,8
+11,Total,66,354,6,360,3834,784,4618,13

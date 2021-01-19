@@ -1,20 +1,11 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,,Number of,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-Upazila","branch of private
-commercial",Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-3,"
-Upazila","branch of private
-commercial",Agriculture debt,Agriculture debt,Industry debt,Industry debt,Others debt,Others debt,Number of borrower,Number of borrower,Total debt (Crore),Total debt (Crore)
-4,"
-Upazila","branch of private
-commercial",Male,female,Male,female,Male,female,Male,female,Male,female
-5,,bank,Male,female,Male,female,Male,female,Male,female,Male,female
-6,Kushtia Sadar,22,18,74,66,10,1960,408,4042,472,464.56,35.86
-7,Bheramara,2,2,7,6,1,178,37,186,45,42.23,3.26
-8,Daulatpur,0,0,0,0,0,0,0,0,0,0,0
-9,Khoksa,1,15,6,0,0,122,19,137,25,2,8
-10,Kumarkhali,1,50,350,7,0,64,0,121,350,573,0.35
-11,Mirpur,4,508,1176,118,0,381,1210,1005,2386,14.9,5.66
-12,Total,30,593,1613,195,11,2705,1674,5491,3278,1096.69,53.13
+1,,,,,,,,,,,,
+2,Upazila Upazila Upazila ,Number of branch of private commercial branch of private commercial branch of private commercial bank,Number of borrower Number of borrower Agriculture debt Male Male,Number of borrower Number of borrower Agriculture debt female female,Number of borrower Number of borrower Industry debt Male Male,Number of borrower Number of borrower Industry debt female female,Number of borrower Number of borrower Others debt Male Male,Number of borrower Number of borrower Others debt female female,Number of borrower Number of borrower Number of borrower Male Male,Number of borrower Number of borrower Number of borrower female female,Number of borrower Number of borrower Total debt (Crore) Male Male,Number of borrower Number of borrower Total debt (Crore) female female
+3,Kushtia Sadar,22,18,74,66,10,1960,408,4042,472,464.56,35.86
+4,Bheramara,2,2,7,6,1,178,37,186,45,42.23,3.26
+5,Daulatpur,0,0,0,0,0,0,0,0,0,0,0
+6,Khoksa,1,15,6,0,0,122,19,137,25,2,8
+7,Kumarkhali,1,50,350,7,0,64,0,121,350,573,0.35
+8,Mirpur,4,508,1176,118,0,381,1210,1005,2386,14.9,5.66
+9,Total,30,593,1613,195,11,2705,1674,5491,3278,1096.69,53.13

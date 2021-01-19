@@ -1,39 +1,22 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Government health complex and health facility 2011,,,,,,,,,,
-1,"
-Upazila/City corporation","Number of hospital/ clinic/ nursing
-home","
-Number of bed","
-Number of  doctor","
-Number of nurse",Number of  technici an,"Num ber of other
-staff",Number of patient under health facility,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility
-2,"
-Upazila/City corporation","Number of hospital/ clinic/ nursing
-home","
-Number of bed","
-Number of  doctor","
-Number of nurse",Number of  technici an,"Num ber of other
-staff",Indoor,Indoor,Outdoor,Outdoor
-3,"
-Upazila/City corporation","Number of hospital/ clinic/ nursing
-home","
-Number of bed","
-Number of  doctor","
-Number of nurse",Number of  technici an,"Num ber of other
-staff",Male,Female,Male,Female
-4,Anowara,1,50,32,17,8,35,3522,11446,52103,67588
-5,Banshkhali,1,50,11,11,5,119,1607,1948,12150,30858
-6,Boalkhali,1,50,49,15,3,16,8500,8000,10000,12000
-7,Chandanaish,2,66,52,16,8,160,2955,3285,35775,65625
-8,Chittagong City Corp.,11,343,96,70,21,71,69574,68628,944856,742625
-9,Fatikchhari,2,40,14,29,5,23,1329,1625,5317,6499
-10,Hathazari,1,50,15,6,9,40,33335,8922,70925,72150
-11,Lohagara,1,50,21,15,3,75,4308,4388,18958,39210
-12,Mirsharai,1,50,26,9,2,186,3917,7722,8866,7673
-13,Patiya,2,100,72,33,18,27,10200,10000,15000,18000
-14,Rangunia,1,50,35,13,4,115,3049,3097,55120,71246
-15,Raozan,2,62,8,5,2,145,5215,7825,8320,10340
-16,Sandwip,2,53,13,7,5,112,1500,3100,2100,5200
-17,Satkania,1,31,23,7,4,54,5238,5294,28610,31171
-18,Sitakunda,1,50,27,13,7,9,4112,4692,24196,33392
-19,Total,30,1095,494,266,104,1187,158361,149972,1292296,1213577
+1,,,,,,,,,,,
+2, Upazila/City corporation,Number of hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse,Number of  technici an,Num ber of other staff,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility,Number of patient under health facility
+3, Upazila/City corporation,Number of hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse,Number of  technici an,Num ber of other staff,Indoor,Indoor,Outdoor,Outdoor
+4, Upazila/City corporation,Number of hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse,Number of  technici an,Num ber of other staff,Male,Female,Male,Female
+5,Anowara,1,50,32,17,8,35,3522,11446,52103,67588
+6,Banshkhali,1,50,11,11,5,119,1607,1948,12150,30858
+7,Boalkhali,1,50,49,15,3,16,8500,8000,10000,12000
+8,Chandanaish,2,66,52,16,8,160,2955,3285,35775,65625
+9,Chittagong City Corp.,11,343,96,70,21,71,69574,68628,944856,742625
+10,Fatikchhari,2,40,14,29,5,23,1329,1625,5317,6499
+11,Hathazari,1,50,15,6,9,40,33335,8922,70925,72150
+12,Lohagara,1,50,21,15,3,75,4308,4388,18958,39210
+13,Mirsharai,1,50,26,9,2,186,3917,7722,8866,7673
+14,Patiya,2,100,72,33,18,27,10200,10000,15000,18000
+15,Rangunia,1,50,35,13,4,115,3049,3097,55120,71246
+16,Raozan,2,62,8,5,2,145,5215,7825,8320,10340
+17,Sandwip,2,53,13,7,5,112,1500,3100,2100,5200
+18,Satkania,1,31,23,7,4,54,5238,5294,28610,31171
+19,Sitakunda,1,50,27,13,7,9,4112,4692,24196,33392
+20,Total,30,1095,494,266,104,1187,158361,149972,1292296,1213577

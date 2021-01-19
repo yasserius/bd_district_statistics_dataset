@@ -1,16 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Number of community clinic and person engaged 2011,,,,,,
-1,"
-Upazila",Number of clinic,"Number of health
-assistant",Number of FPI,Number of FWV,Number of FWA,Number of other staff
-2,Baghaichhari,6,0,0,0,0,13
-3,Barkal,3,0,0,0,0,3
-4,Belai Chhari,3,0,0,0,0,3
-5,Jurai Chhari,3,0,0,0,0,3
-6,Kaptai,0,0,0,0,0,0
-7,Kawkhali,4,0,0,0,0,8
-8,Langadu,7,0,0,0,0,14
-9,Naniarchar,2,0,0,0,0,2
-10,Rangamati Sadar,6,0,0,0,0,10
-11,Rajasthali,0,0,0,0,0,0
-12,Total,34,0,0,0,0,56
+1,,,,,,,
+2, Upazila,Number of clinic,Number of health assistant,Number of FPI,Number of FWV,Number of FWA,Number of other staff
+3,Baghaichhari,6,0,0,0,0,13
+4,Barkal,3,0,0,0,0,3
+5,Belai Chhari,3,0,0,0,0,3
+6,Jurai Chhari,3,0,0,0,0,3
+7,Kaptai,0,0,0,0,0,0
+8,Kawkhali,4,0,0,0,0,8
+9,Langadu,7,0,0,0,0,14
+10,Naniarchar,2,0,0,0,0,2
+11,Rangamati Sadar,6,0,0,0,0,10
+12,Rajasthali,0,0,0,0,0,0
+13,Total,34,0,0,0,0,56

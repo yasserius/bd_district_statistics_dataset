@@ -1,22 +1,19 @@
 ,0,1,2,3,4
 0,Number of oil mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Biral,4,12,4,16
-4,Birampur,13,13,21,34
-5,Birganj,4,9,5,14
-6,Bochaganj,12,26,18,44
-7,Chirirbandar,5,7,10,17
-8,Dinajpur Sadar,12,40,70,110
-9,Fulbari,6,6,15,21
-10,Ghoraghat,8,18,3,21
-11,Hakimpur,3,3,13,16
-12,Kaharole,0,0,0,0
-13,Khansama,2,3,0,3
-14,Nawabganj,28,28,28,56
-15,Parbatipur,7,7,9,16
-16,Total,104,172,196,368
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Biral,4,12,4,16
+5,Birampur,13,13,21,34
+6,Birganj,4,9,5,14
+7,Bochaganj,12,26,18,44
+8,Chirirbandar,5,7,10,17
+9,Dinajpur Sadar,12,40,70,110
+10,Fulbari,6,6,15,21
+11,Ghoraghat,8,18,3,21
+12,Hakimpur,3,3,13,16
+13,Kaharole,0,0,0,0
+14,Khansama,2,3,0,3
+15,Nawabganj,28,28,28,56
+16,Parbatipur,7,7,9,16
+17,Total,104,172,196,368

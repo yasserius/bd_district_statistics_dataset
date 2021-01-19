@@ -1,14 +1,13 @@
 ,0,1,2,3,4,5
 0,"Number of physician, practitioner in the upazila, city corporation 2011",,,,,
-1,Upazila,Physician,"MBBS,
-FCPS/over",L.M.F,"Unani /
-ayurbedic",Homeopathy
-2,Azmirigonj,61,6,0,5,50
-3,Bahubal,40,9,12,5,14
-4,Baniachang,13,13,6,0,0
-5,Chunarughat,45,15,0,0,30
-6,Habiganj Sadar,77,13,2,9,53
-7,Lakhai,0,0,0,5,29
-8,Madhabpur,51,22,3,7,19
-9,Nabiganj,139,13,46,18,62
-10,Total,426,91,69,49,257
+1,,,,,,
+2,Upazila,Physician,"MBBS, FCPS/over",L.M.F,Unani / ayurbedic,Homeopathy
+3,Azmirigonj,61,6,0,5,50
+4,Bahubal,40,9,12,5,14
+5,Baniachang,13,13,6,0,0
+6,Chunarughat,45,15,0,0,30
+7,Habiganj Sadar,77,13,2,9,53
+8,Lakhai,0,0,0,5,29
+9,Madhabpur,51,22,3,7,19
+10,Nabiganj,139,13,46,18,62
+11,Total,426,91,69,49,257

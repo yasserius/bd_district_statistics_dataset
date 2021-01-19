@@ -1,16 +1,13 @@
 ,0,1,2,3,4
 0,Number of semi-auto rice mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Male,Female,Total
-3,Alikadam,0,0,0,0
-4,Bandarban Sadar,2,3,3,6
-5,Lama,0,0,0,0
-6,Naikhongchhari,2,3,2,5
-7,Rowangchhari,0,0,0,0
-8,Ruma,0,0,0,0
-9,Thanchi,0,0,0,0
-10,Total,4,6,5,11
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Male,Female,Total
+4,Alikadam,0,0,0,0
+5,Bandarban Sadar,2,3,3,6
+6,Lama,0,0,0,0
+7,Naikhongchhari,2,3,2,5
+8,Rowangchhari,0,0,0,0
+9,Ruma,0,0,0,0
+10,Thanchi,0,0,0,0
+11,Total,4,6,5,11

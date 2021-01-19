@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of holding reporting selected livestock species 2008,,,,,,,,
-1,"
-Upazila",Cow & Buffalo,Cow & Buffalo,Cow & Buffalo,Goat,Goat,Goat,Sheep,Sheep
-2,"
-Upazila","Holding
-number",I,Number of animal,Holding number,I,Number of goat,"Holding
-number	I",Number of sheep
+1,,,,,,,,,
+2,Upazila,Cow & Buffalo Holding number,Cow & Buffalo I,Cow & Buffalo Number of animal,Goat Holding number,Goat I,Goat Number of goat,Sheep Holding numberI,Sheep Number of sheep
 3,Gazaria,8264,21393,4508,11473,62,271,,
 4,Lauhajang,4609,12739,1929,4833,134,393,,
 5,Munshiganj Sadar,11623,29952,3861,10128,75,277,,

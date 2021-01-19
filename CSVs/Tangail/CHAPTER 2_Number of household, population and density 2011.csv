@@ -1,13 +1,7 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,"
-Upazila","
-Households",Population (adjusted),Population (adjusted),Population (adjusted),Sex ratio (M / F),"Average size of
-households",Density Per sq. Km.
-2,"
-Upazila","
-Households",Male,Female,Both Sex,Sex ratio (M / F),"Average size of
-households",Density Per sq. Km.
+1,,,,,,,,
+2,Upazila,Households,Population (adjusted) Male,Population (adjusted) Female,Population (adjusted) Both Sex,Sex ratio (M / F),Average size of households,Density Per sq. Km.
 3,Basail,39,78,88,166,89,4.14,1013
 4,Bhuapur,46,96,102,198,94,4.08,844
 5,Delduar,48,104,111,215,94,4.29,1123

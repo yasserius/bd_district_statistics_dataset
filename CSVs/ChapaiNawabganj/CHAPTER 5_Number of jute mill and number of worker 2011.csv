@@ -1,13 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,Number of jute mill and number of worker 2011,,,,,,,
-1,"
-Upazila",Number of mill,Number of loom (installed),Number of loom,Number of loom,Number of worker,Number of worker,Number of worker
-2,"
-Upazila",Number of mill,Number of loom (installed),Operative,"Non-
-operational",permanent,Temporary,Total
-3,Bholahat,0,0,0,0,0,0,0
-4,Chapai Nawabganj Sadar,1,0,0,0,100,100,200
-5,Gomastapur,0,0,0,0,0,0,0
-6,Nachole,0,0,0,0,0,0,0
-7,Shibganj,0,0,0,0,0,0,0
-8,Total,1,0,0,0,100,100,200
+1,,,,,,,,
+2, Upazila,Number of mill,Number of loom (installed),Number of loom,Number of loom,Number of worker,Number of worker,Number of worker
+3, Upazila,Number of mill,Number of loom (installed),Operative,Non- operational,permanent,Temporary,Total
+4,Bholahat,0,0,0,0,0,0,0
+5,Chapai Nawabganj Sadar,1,0,0,0,100,100,200
+6,Gomastapur,0,0,0,0,0,0,0
+7,Nachole,0,0,0,0,0,0,0
+8,Shibganj,0,0,0,0,0,0,0
+9,Total,1,0,0,0,100,100,200

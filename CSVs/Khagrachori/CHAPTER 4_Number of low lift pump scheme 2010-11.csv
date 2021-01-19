@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,"
-Upazila",Number of pump fielded,Number of pump fielded,Number of pump fielded,Area irrigated (in acres)
-2,"
-Upazila",Electric,Diesel,Total,Area irrigated (in acres)
+1,,,,,
+2,Upazila,Number of pump fielded Electric,Number of pump fielded Diesel,Number of pump fielded Total,Area irrigated (in acres)
 3,Dighinala,0,0,0,0
 4,Khagrachhari Sadar,0,0,0,0
 5,Laxshmichhari,8,94,102,902

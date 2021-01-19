@@ -1,13 +1,7 @@
 ,0,1,2,3,4
 0,Number of cooperative society and member 2011,,,,
-1,"
-Upazila","Number of
-co-operative society",Number of member,Number of member,"
-Total"
-2,"
-Upazila","Number of
-co-operative society",Male,Female,"
-Total"
+1,,,,,
+2,Upazila,Number of co-operative society,Number of member Male,Number of member Female,Total
 3,Aditmari,720,6000,4000,10000
 4,Hatibandha,66,2200,2800,5000
 5,Kaligonj,252,3855,2145,6000

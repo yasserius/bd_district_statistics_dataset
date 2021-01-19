@@ -1,18 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of brinjal, lady s finger and arum 2009-10",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila/city corporation",Brinjal,Brinjal,Lady’s finger,Lady’s finger,Arum,Arum
-3,"
-Upazila/city corporation",Area,Production,Area,Production,Area,Production
-4,Bagha,230,1288,35,63,154,355
-5,Baghmara,697,1486,50,65,175,347
-6,Charghat,90,187,37,44,41,230
-7,Durgapur,336,827,27,48,37,88
-8,Godagari,800,4700,120,480,340,2800
-9,Mohanpur,115,492,42,82,15,31
-10,Paba,254,725,152,248,82,265
-11,Puthia,772,4471,96,184,45,109
-12,Rajshahi city corporation,49,192,15,28,9,18
-13,Tanore,17,24,17,8,16,25
-14,Total,3360,14392,591,1250,914,4268
+2,Upazila/city corporation,Brinjal Area,Brinjal Production,Lady’s finger Area,Lady’s finger Production,Arum Area,Arum Production
+3,Bagha,230,1288,35,63,154,355
+4,Baghmara,697,1486,50,65,175,347
+5,Charghat,90,187,37,44,41,230
+6,Durgapur,336,827,27,48,37,88
+7,Godagari,800,4700,120,480,340,2800
+8,Mohanpur,115,492,42,82,15,31
+9,Paba,254,725,152,248,82,265
+10,Puthia,772,4471,96,184,45,109
+11,Rajshahi city corporation,49,192,15,28,9,18
+12,Tanore,17,24,17,8,16,25
+13,Total,3360,14392,591,1250,914,4268

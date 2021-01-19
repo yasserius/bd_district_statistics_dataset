@@ -1,9 +1,8 @@
 ,0,1,2,3,4,5
 0,Number of family planning clinical centre by municipality 2011,,,,,
-1,"
-Upazila",Sterilization centre,Mobile centre,Injection centre,"Menstrual regularization
-centre",Family welfare centre
-2,Khagrachhari Sadar,1,0,0,4,1
-3,Matiranga,1,0,2,2,2
-4,Ramgarh,1,0,1,1,0
-5,Total,3,0,3,7,3
+1,,,,,,
+2,Upazila,Sterilization centre,Mobile centre,Injection centre,Menstrual regularization centre,Family welfare centre
+3,Khagrachhari Sadar,1,0,0,4,1
+4,Matiranga,1,0,2,2,2
+5,Ramgarh,1,0,1,1,0
+6,Total,3,0,3,7,3

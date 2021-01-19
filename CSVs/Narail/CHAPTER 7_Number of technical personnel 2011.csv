@@ -1,10 +1,8 @@
 ,0,1,2,3,4,5,6,7
 0,Number of technical personnel 2011,,,,,,,
-1,"
-Upazila",Agricultural personnel,"Live-
-stock personnel",Plant protection,Fishery personnel,Sanitary personnel,"Family
-planning personnel",Trained midwife
-2,Kalia,89967,31,15,1826,38,112,14
-3,Lohagara,26,11,0,5210,73,55,5
-4,Narail Sadar,171668,73,568,2855,208,171,263
-5,Total,261661,115,583,9891,319,338,282
+1,,,,,,,,
+2, Upazila,Agricultural personnel,Live- stock personnel,Plant protection,Fishery personnel,Sanitary personnel,Family planning personnel,Trained midwife
+3,Kalia,89967,31,15,1826,38,112,14
+4,Lohagara,26,11,0,5210,73,55,5
+5,Narail Sadar,171668,73,568,2855,208,171,263
+6,Total,261661,115,583,9891,319,338,282

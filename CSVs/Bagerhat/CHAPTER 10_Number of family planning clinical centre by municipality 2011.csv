@@ -1,12 +1,8 @@
 ,0,1,2,3,4,5
 0,Number of family planning clinical centre by municipality 2011,,,,,
-1,Municipality,"Sterilization
-centre","Mobile
-centre","Injection
-centre","Menstrual regularization
-centre","Family welfare
-centre"
-2,Bagerhat,1,0,617,124,1
-3,Morrelgonj,1,0,2,1,1
-4,Mongla,2,0,26,0,26
-5,Total,4,0,645,125,28
+1,,,,,,
+2,Municipality,Sterilization centre,Mobile centre,Injection centre,Menstrual regularization centre,Family welfare centre
+3,Bagerhat,1,0,617,124,1
+4,Morrelgonj,1,0,2,1,1
+5,Mongla,2,0,26,0,26
+6,Total,4,0,645,125,28

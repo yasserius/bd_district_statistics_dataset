@@ -1,15 +1,15 @@
 ,0,1,2,3,4,5
 0,Sanction post of Government employee by category 2011,,,,,
-1,Upazila/city corporation,Class-I,Class-II,Class-III,Class-IV,"Number of
-total employee"
-2,Bagha,48,35,286,141,510
-3,Baghmara,55,54,1062,123,1294
-4,Charghat,257,9,920,92,1278
-5,Durgapur,33,13,709,37,793
-6,Godagari,32,24,774,147,977
-7,Mohanpur,24,19,600,61,704
-8,Paba,43,28,346,163,580
-9,Puthia,52,24,621,103,800
-10,Rajshahi city corporation,1744,679,9945,3535,15903
-11,Tanore,49,14,298,79,440
-12,Total,2337,899,15561,4481,23279
+1,,,,,,
+2,Upazila/city corporation,Class-I,Class-II,Class-III,Class-IV,Number of total employee
+3,Bagha,48,35,286,141,510
+4,Baghmara,55,54,1062,123,1294
+5,Charghat,257,9,920,92,1278
+6,Durgapur,33,13,709,37,793
+7,Godagari,32,24,774,147,977
+8,Mohanpur,24,19,600,61,704
+9,Paba,43,28,346,163,580
+10,Puthia,52,24,621,103,800
+11,Rajshahi city corporation,1744,679,9945,3535,15903
+12,Tanore,49,14,298,79,440
+13,Total,2337,899,15561,4481,23279

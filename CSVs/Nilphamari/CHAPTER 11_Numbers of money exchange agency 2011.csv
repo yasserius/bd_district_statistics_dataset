@@ -1,12 +1,11 @@
 ,0,1,2,3,4
 0,Numbers of money exchange agency 2011,,,,
-1,"
-Upazila",Number of money exchange agency,Number of employee,"Annual transactions
-per money exchange agency",Annual profit per agency (lac tk)
-2,Dimla,2,2,160,2
-3,Domar,0,0,0,0
-4,Jaldhaka,1,1,457,27
-5,Kishorgonj,0,0,0,0
-6,Nilphamary Sadar,0,0,0,0
-7,Sayedpur,0,0,0,0
-8,Total,3,3,617,29
+1,,,,,
+2, Upazila,Number of money exchange agency,Number of employee,Annual transactions per money exchange agency,Annual profit per agency (lac tk)
+3,Dimla,2,2,160,2
+4,Domar,0,0,0,0
+5,Jaldhaka,1,1,457,27
+6,Kishorgonj,0,0,0,0
+7,Nilphamary Sadar,0,0,0,0
+8,Sayedpur,0,0,0,0
+9,Total,3,3,617,29

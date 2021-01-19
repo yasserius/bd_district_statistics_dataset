@@ -1,14 +1,10 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Rupali and Agrani bank 2011,,,,,,,,,,
-1,"
-Upazila",Rupali bank,Rupali bank,Rupali bank,Rupali bank,Rupali bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank,Agrani bank
-2,"
-Upazila",Number of  branch,Account,Account,Account,Account,Number of  branch,Account,Account,Account,Account
-3,"
-Upazila",Number of  branch,S.D,C.D,F.D,S.T.D,Number of  branch,S.D,C.D,F.D,S.T.D
-4,Baliadangi,1,2105,209,63,14,0,0,0,0,0
-5,Haripur,0,0,0,0,0,1,2753,325,30,11
-6,Pirgonj,0,0,0,0,0,1,7635,686,39,4
-7,Ranisankail,0,0,0,0,0,0,0,0,0,0
-8,Thakurgaon Sadar,2,28,40,171,162,2,5420,112,10,7
-9,Total,3,2133,249,234,176,4,15808,1123,79,22
+1,,,,,,,,,,,
+2,Upazila,Rupali bank Number of branch Number of branch,Rupali bank Account S.D,Rupali bank Account C.D,Rupali bank Account F.D,Rupali bank Account S.T.D,Agrani bank Number of branch Number of branch,Agrani bank Account S.D,Agrani bank Account C.D,Agrani bank Account F.D,Agrani bank Account S.T.D
+3,Baliadangi,1,2105,209,63,14,0,0,0,0,0
+4,Haripur,0,0,0,0,0,1,2753,325,30,11
+5,Pirgonj,0,0,0,0,0,1,7635,686,39,4
+6,Ranisankail,0,0,0,0,0,0,0,0,0,0
+7,Thakurgaon Sadar,2,28,40,171,162,2,5420,112,10,7
+8,Total,3,2133,249,234,176,4,15808,1123,79,22

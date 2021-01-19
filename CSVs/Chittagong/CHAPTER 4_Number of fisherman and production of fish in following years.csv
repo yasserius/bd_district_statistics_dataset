@@ -1,21 +1,22 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
-2,Upazila/City corporation,2010-11,2010-11,2009-10,2009-10
-3,Upazila/City corporation,Number,Production,Number,Production
-4,Anowara,2120,148,1950,135
-5,Banshkhali,3150,2118,3100,2108
-6,Boalkhali,691,2559,626,2513
-7,Chandanaish,650,3575,620,50
-8,Chittagong City Corp.,5067,3351,5311,3605
-9,Fatikchhari,787,4473,798,4536
-10,Hathazari,820,6340,800,5800
-11,Lohagara,60,2000,50,1850
-12,Mirsharai,11068,392,10752,296
-13,Patiya,1213,2082,1110,1953
-14,Rangunia,1170,640,1040,580
-15,Raozan,1334,5155,1334,4975
-16,Sandwip,3370,2476,3305,2344
-17,Satkania,1950,490,1230,446
-18,Sitakunda,230,580,210,560
-19,Total,33680,36378,32236,31751
+1,,,,,
+2,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
+3,Upazila/City corporation,2010-11,2010-11,2009-10,2009-10
+4,Upazila/City corporation,Number,Production,Number,Production
+5,Anowara,2120,148,1950,135
+6,Banshkhali,3150,2118,3100,2108
+7,Boalkhali,691,2559,626,2513
+8,Chandanaish,650,3575,620,50
+9,Chittagong City Corp.,5067,3351,5311,3605
+10,Fatikchhari,787,4473,798,4536
+11,Hathazari,820,6340,800,5800
+12,Lohagara,60,2000,50,1850
+13,Mirsharai,11068,392,10752,296
+14,Patiya,1213,2082,1110,1953
+15,Rangunia,1170,640,1040,580
+16,Raozan,1334,5155,1334,4975
+17,Sandwip,3370,2476,3305,2344
+18,Satkania,1950,490,1230,446
+19,Sitakunda,230,580,210,560
+20,Total,33680,36378,32236,31751

@@ -1,13 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of madrasah, teacher and student under the madrasah education board 2011",,,,,,,,
-1,"
-Upazila",Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Harinakunda,12,165,17,182,1150,1015,2165,12
-4,Jhenaidah Sadar,27,352,53,405,8307,3062,11369,28
-5,Kaliganj,25,246,48,244,2436,2817,5253,22
-6,Kotchandpur,9,126,30,156,1144,1227,2371,15
-7,Mahespur,24,305,15,320,2630,3552,6182,19
-8,Shailkupa,14,189,31,220,3295,2999,6294,29
-9,Total,111,1383,194,1527,18962,14672,33634,22
+1,,,,,,,,,
+2, Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Harinakunda,12,165,17,182,1150,1015,2165,12
+5,Jhenaidah Sadar,27,352,53,405,8307,3062,11369,28
+6,Kaliganj,25,246,48,244,2436,2817,5253,22
+7,Kotchandpur,9,126,30,156,1144,1227,2371,15
+8,Mahespur,24,305,15,320,2630,3552,6182,19
+9,Shailkupa,14,189,31,220,3295,2999,6294,29
+10,Total,111,1383,194,1527,18962,14672,33634,22

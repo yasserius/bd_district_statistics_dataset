@@ -1,18 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Krishi and Co-operative bank 2011,,,,,,,,,,
-1,"
-Upazila",Krishi bank,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank
-2,"
-Upazila",Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
-3,"
-Upazila",Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
-4,Akhaura,1,31,6232,92,40,0,0,0,0,0
-5,Ashuganj,2,4481,59,95,3,0,0,0,0,0
-6,Banchharampur,3,23580,341,268,11,0,0,0,0,0
-7,Bijoynagar,4,21886,206,212,14,0,0,0,0,0
-8,Brahmanbaria Sadar,3,8331,881,212,18,1,0,0,0,9
-9,Kasba,3,10976,290,23,2,0,0,0,0,0
-10,Nabinagar,5,24754,462,167,12,0,0,0,0,0
-11,Nasirnagar,3,47600,580,170,65,0,0,0,0,0
-12,Sarail,2,14829,145,142,10,0,0,0,0,0
-13,Total,26,156468,9196,1381,175,1,0,0,0,9
+1,,,,,,,,,,,
+2,Upazila,Krishi bank Number of branch Number of branch,Krishi bank Account S.D,Krishi bank Account C.D,Krishi bank Account F.D,Krishi bank Account S.T.D,Co-operative bank Number of branch Number of branch,Co-operative bank Account S.D,Co-operative bank Account C.D,Co-operative bank Account F.D,Co-operative bank Account S.T.D
+3,Akhaura,1,31,6232,92,40,0,0,0,0,0
+4,Ashuganj,2,4481,59,95,3,0,0,0,0,0
+5,Banchharampur,3,23580,341,268,11,0,0,0,0,0
+6,Bijoynagar,4,21886,206,212,14,0,0,0,0,0
+7,Brahmanbaria Sadar,3,8331,881,212,18,1,0,0,0,9
+8,Kasba,3,10976,290,23,2,0,0,0,0,0
+9,Nabinagar,5,24754,462,167,12,0,0,0,0,0
+10,Nasirnagar,3,47600,580,170,65,0,0,0,0,0
+11,Sarail,2,14829,145,142,10,0,0,0,0,0
+12,Total,26,156468,9196,1381,175,1,0,0,0,9

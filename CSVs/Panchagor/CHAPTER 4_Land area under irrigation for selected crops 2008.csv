@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Land area under irrigation for selected crops 2008,,,,,,
-1,"
-Upazila",Paddy,Paddy,Wheat,Wheat,Potato,Potato
-2,"
-Upazila",Total area,Irrigated area,Total area,Irrigated area,Total area,Irrigated area
+1,,,,,,,
+2,Upazila,Paddy Total area,Paddy Irrigated area,Wheat Total area,Wheat Irrigated area,Potato Total area,Potato Irrigated area
 3,Atwari,49313,17156,7491,8719,1720,2300
 4,Boda,74341,32628,4921,6262,2410,1950
 5,Debiganj,72516,34225,4039,6320,4573,2050

@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5
 0,Cropped area sprayed with plant protection measures 2008,,,,,
-1,"
-Upazila",Total farm holding,Total farm holding,Spraying farm holding,Spraying farm holding,Reporting area sprayed
-2,"
-Upazila",Number,Cropped area,Number,Cropped area,Reporting area sprayed
+1,,,,,,
+2,Upazila,Total farm holding Number,Total farm holding Cropped area,Spraying farm holding Number,Spraying farm holding Cropped area,Reporting area sprayed
 3,Adamdighi,25763,34043,1700,6000,2500
 4,Bogra sadar,33587,29340,31993,24953,24953
 5,Dhunat,47691,51020,42922,45918,35714

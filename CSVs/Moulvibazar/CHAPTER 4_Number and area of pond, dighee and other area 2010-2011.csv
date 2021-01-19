@@ -1,19 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Number and area of pond, dighee and other area 2010-2011",,,,,,
-1,(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre)
-2,"
-Upazila",Pond,Pond,Dighee,Dighee,"
-Other area","
-Total area"
-3,"
-Upazila",Number,Area,Number,Area,"
-Other area","
-Total area"
-4,Barlekha,1710,1294,0,0,45709,48713
-5,Juri,2105,501,30,105,9,2775
-6,Kamalganj,3290,1259,4,0,8,4624
-7,Kulaura,1959,880,90,450,34472,37851
-8,Moulvibazar Sadar,3246,1242,22,90,91,4691
-9,Rajnagar,2596,1060,5,99,69,3829
-10,Sreemangal,5441,571,18,380,22455,28865
-11,Total,20347,6808,169,1124,102813,131349
+1,,,,,,,
+2,(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre)
+3, Upazila,Pond,Pond,Dighee,Dighee, Other area, Total area
+4, Upazila,Number,Area,Number,Area, Other area, Total area
+5,Barlekha,1710,1294,0,0,45709,48713
+6,Juri,2105,501,30,105,9,2775
+7,Kamalganj,3290,1259,4,0,8,4624
+8,Kulaura,1959,880,90,450,34472,37851
+9,Moulvibazar Sadar,3246,1242,22,90,91,4691
+10,Rajnagar,2596,1060,5,99,69,3829
+11,Sreemangal,5441,571,18,380,22455,28865
+12,Total,20347,6808,169,1124,102813,131349

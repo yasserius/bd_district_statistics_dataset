@@ -1,20 +1,21 @@
 ,0,1,2,3,4,5
 0,Daily average wage rate of non-agricultural labour 2011,,,,,
-1,(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka)
-2,Upazila/City corporation,Porter (coolee),Garden labour male,Garden female labour,Other labour (Adult),Other labour (Child)
-3,Anowara,300,300,0,300,200
-4,Banshkhali,350,350,240,300,120
-5,Boalkhali,275,200,150,250,100
-6,Chandanaish,550,400,250,400,250
-7,Chittagong City Corp.,450,400,350,300,250
-8,Fatikchhari,400,48,48,200,100
-9,Hathazari,500,300,250,300,150
-10,Lohagara,150,150,150,0,0
-11,Mirsharai,500,350,300,350,250
-12,Patiya,250,350,250,250,200
-13,Rangunia,400,48,48,150,44
-14,Raozan,400,300,200,300,100
-15,Sandwip,450,350,300,300,200
-16,Satkania,400,300,200,300,150
-17,Sitakunda,350,300,200,300,200
-18,Average :,382,275,210,285,165
+1,,,,,,
+2,(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka)
+3,Upazila/City corporation,Porter (coolee),Garden labour male,Garden female labour,Other labour (Adult),Other labour (Child)
+4,Anowara,300,300,0,300,200
+5,Banshkhali,350,350,240,300,120
+6,Boalkhali,275,200,150,250,100
+7,Chandanaish,550,400,250,400,250
+8,Chittagong City Corp.,450,400,350,300,250
+9,Fatikchhari,400,48,48,200,100
+10,Hathazari,500,300,250,300,150
+11,Lohagara,150,150,150,0,0
+12,Mirsharai,500,350,300,350,250
+13,Patiya,250,350,250,250,200
+14,Rangunia,400,48,48,150,44
+15,Raozan,400,300,200,300,100
+16,Sandwip,450,350,300,300,200
+17,Satkania,400,300,200,300,150
+18,Sitakunda,350,300,200,300,200
+19,Average :,382,275,210,285,165

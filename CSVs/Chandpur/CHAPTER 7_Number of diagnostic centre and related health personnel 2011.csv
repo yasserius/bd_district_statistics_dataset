@@ -1,17 +1,13 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,Upazila,"Number of
-centre","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Chandpur Sadar,34,36,42,46,110
-3,Foridganj,13,16,0,26,40
-4,Haimchar,2,2,2,4,2
-5,Hajiganj,6,0,6,6,11
-6,Kachua,15,5,12,28,47
-7,Matlab Dakshin,16,10,16,16,48
-8,Matlab Uttar,7,15,9,11,17
-9,Shahrasti,12,14,3,19,38
-10,Total,105,98,90,202,313
+1,,,,,,
+2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Chandpur Sadar,34,36,42,46,110
+4,Foridganj,13,16,0,26,40
+5,Haimchar,2,2,2,4,2
+6,Hajiganj,6,0,6,6,11
+7,Kachua,15,5,12,28,47
+8,Matlab Dakshin,16,10,16,16,48
+9,Matlab Uttar,7,15,9,11,17
+10,Shahrasti,12,14,3,19,38
+11,Total,105,98,90,202,313

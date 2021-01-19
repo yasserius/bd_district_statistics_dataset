@@ -1,10 +1,10 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,Upazila,"Number of
-insurance company",Number of employee,Number of client
-2,Baliadangi,6,87,23010
-3,Haripur,5,65,12421
-4,Pirgonj,8,113,17780
-5,Ranisankail,13,235,10954
-6,Thakurgaon Sadar,9,138,21150
-7,Total,41,638,85315
+1,,,,
+2,Upazila,Number of insurance company,Number of employee,Number of client
+3,Baliadangi,6,87,23010
+4,Haripur,5,65,12421
+5,Pirgonj,8,113,17780
+6,Ranisankail,13,235,10954
+7,Thakurgaon Sadar,9,138,21150
+8,Total,41,638,85315

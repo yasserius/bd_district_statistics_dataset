@@ -1,16 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Pubali and Uttara bank 2011,,,,,,,,,,
-1,"
-Upazila",Pubali bank,Pubali bank,Pubali bank,Pubali bank,Pubali bank,Uttara bank,Uttara bank,Uttara bank,Uttara bank,Uttara bank
-2,"
-Upazila",Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
-3,"
-Upazila",Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
-4,Assasuni,0,0,0,0,0,0,0,0,0,0
-5,Debhata,0,0,0,0,0,0,0,0,0,0
-6,Kalaroa,0,0,0,0,0,0,0,0,0,0
-7,Kaliganj,0,0,0,0,0,0,0,0,0,0
-8,Satkhira Sadar,1,5200,1600,450,38,1,3032,839,149,10
-9,Shyamnagar,0,0,0,0,0,0,0,0,0,0
-10,Tala,0,0,0,0,0,0,0,0,0,0
-11,Total,1,5200,1600,450,38,1,3032,0,149,10
+1,,,,,,,,,,,
+2, Upazila,Pubali bank,Pubali bank,Pubali bank,Pubali bank,Pubali bank,Uttara bank,Uttara bank,Uttara bank,Uttara bank,Uttara bank
+3, Upazila,Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
+4, Upazila,Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
+5,Assasuni,0,0,0,0,0,0,0,0,0,0
+6,Debhata,0,0,0,0,0,0,0,0,0,0
+7,Kalaroa,0,0,0,0,0,0,0,0,0,0
+8,Kaliganj,0,0,0,0,0,0,0,0,0,0
+9,Satkhira Sadar,1,5200,1600,450,38,1,3032,839,149,10
+10,Shyamnagar,0,0,0,0,0,0,0,0,0,0
+11,Tala,0,0,0,0,0,0,0,0,0,0
+12,Total,1,5200,1600,450,38,1,3032,0,149,10

@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Number of establishment and person engaged in cottage industry 2011,,,,
-1,"
-Upazila/city corporation",Number of unit,Person engaged,Person engaged,Person engaged
-2,"
-Upazila/city corporation",Number of unit,Family,Hired,Total
+1,,,,,
+2,Upazila/city corporation,Number of unit,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Agailjhara,1054,1422,92,1514
 4,Babuganj,88,110,53,163
 5,Bakerganj,1398,2597,1262,3859

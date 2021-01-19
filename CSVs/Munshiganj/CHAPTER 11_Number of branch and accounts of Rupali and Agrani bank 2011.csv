@@ -1,25 +1,11 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Rupali and Agrani bank 2011,,,,,,,,,,
-1,"
-Upazila",Rupali bank,Rupali bank,Agrani bank,Agrani bank,"I
-i",,,,,
-2,"
-Upazila","Number of
-branch",Account,"Number of
-branch",Account,"I
-i",,,,,
-3,"
-Upazila","Number of
-branch",S.D    I   C.D I  F.D	I S.T.D,"Number of
-branch","j
-S.D	I    C.D  I  F.D	I S.T.D i
-I","j
-S.D	I    C.D  I  F.D	I S.T.D i
-I",,,,,
-4,Gazaria,0,0,0,0,0,,2300,430,100,34
-5,Lauhajang,,4138,186,0,9,1,0,79,82,0
-6,Munshiganj Sadar,2,2727,409,126,IO,2,10800,510,190,105
-7,Serajdikhan,0,0,0,0,0,0,0,0,0,0
-8,Sreenagar,0,0,0,0,0,4,27065,868,128,17
-9,Tongibari,0,0,0,0,0,3,8264,198,63,4
-10,Total,3,6865,595,126,19,11,48429,2085,563,160
+1,,,,,,,,,,,
+2,Upazila,Rupali bank Number of branch Number of branch,Rupali bank Account S.D I C.D I F.DI S.T.D,Agrani bank Number of branch Number of branch,Agrani bank Account j S.DI C.D I F.DI S.T.D i I,I i I i j S.DI C.D I F.DI S.T.D i I,,,,,
+3,Gazaria,0,0,0,0,0,,2300,430,100,34
+4,Lauhajang,,4138,186,0,9,1,0,79,82,0
+5,Munshiganj Sadar,2,2727,409,126,IO,2,10800,510,190,105
+6,Serajdikhan,0,0,0,0,0,0,0,0,0,0
+7,Sreenagar,0,0,0,0,0,4,27065,868,128,17
+8,Tongibari,0,0,0,0,0,3,8264,198,63,4
+9,Total,3,6865,595,126,19,11,48429,2085,563,160

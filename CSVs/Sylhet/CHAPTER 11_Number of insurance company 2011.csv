@@ -1,20 +1,18 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,"
-Upazila","Number of
-insurance company",Number of employee,"
-Number of client"
-2,Balaganj,7,745,7680
-3,Beanibazar,0,0,0
-4,Bishwanath,6,12,3978
-5,Companiganj,4,90,12000
-6,Dakhin surma,8,96,12000
-7,Fenchuganj,8,29,1600
-8,Golapganj,3,22,9508
-9,Gowainghat,5,38,749
-10,Jaintiapur,7,23,2116
-11,Kanaighat,3,42,53000
-12,Sylhet city corporation,45,319,64911
-13,Sylhet sadar,0,0,0
-14,Zakiganj,7,140,7500
-15,Total,103,1556,175042
+1,,,,
+2,Upazila,Number of insurance company,Number of employee,Number of client
+3,Balaganj,7,745,7680
+4,Beanibazar,0,0,0
+5,Bishwanath,6,12,3978
+6,Companiganj,4,90,12000
+7,Dakhin surma,8,96,12000
+8,Fenchuganj,8,29,1600
+9,Golapganj,3,22,9508
+10,Gowainghat,5,38,749
+11,Jaintiapur,7,23,2116
+12,Kanaighat,3,42,53000
+13,Sylhet city corporation,45,319,64911
+14,Sylhet sadar,0,0,0
+15,Zakiganj,7,140,7500
+16,Total,103,1556,175042

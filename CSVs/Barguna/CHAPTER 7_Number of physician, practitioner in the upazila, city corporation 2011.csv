@@ -1,11 +1,10 @@
 ,0,1,2,3,4,5
 0,"Number of physician, practitioner in the upazila, city corporation 2011",,,,,
-1,Upazila,Physician,"MBBS,
-FCPS/over",L.M.F,"Unani /
-ayurbedic",Homeopathy
-2,Amtali,10,0,0,4,36
-3,Bamna,3,3,4,0,15
-4,Barguna Sadar,27,3,4,2,19
-5,Betagi,23,0,4,3,16
-6,Patharghata,4,4,20,4,18
-7,Total,67,10,32,13,104
+1,,,,,,
+2,Upazila,Physician,"MBBS, FCPS/over",L.M.F,Unani / ayurbedic,Homeopathy
+3,Amtali,10,0,0,4,36
+4,Bamna,3,3,4,0,15
+5,Barguna Sadar,27,3,4,2,19
+6,Betagi,23,0,4,3,16
+7,Patharghata,4,4,20,4,18
+8,Total,67,10,32,13,104

@@ -1,16 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kawmi madrasah, teacher and student 2011",,,,,,,,
-1,"
-Upazila",Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students per
-teacher"
-2,"
-Upazila",Number of madrasah,Male,Female,Total,Male,Female,Total,"Students per
-teacher"
-3,Bakshiganj,0,0,0,0,0,0,0,0
-4,Dewanganj,2,16,0,16,455,0,455,28
-5,Islampur,20,80,0,80,800,0,800,10
-6,Jamalpur Sadar,63,219,73,292,4703,2883,7586,26
-7,Madarganj,2,6,0,6,82,4,86,14
-8,Melandaha,15,104,4,108,1950,38,1988,18
-9,Sarishabari,2,15,0,15,300,0,300,20
-10,Total,104,440,77,517,8290,2925,11215,22
+1,,,,,,,,,
+2, Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Bakshiganj,0,0,0,0,0,0,0,0
+5,Dewanganj,2,16,0,16,455,0,455,28
+6,Islampur,20,80,0,80,800,0,800,10
+7,Jamalpur Sadar,63,219,73,292,4703,2883,7586,26
+8,Madarganj,2,6,0,6,82,4,86,14
+9,Melandaha,15,104,4,108,1950,38,1988,18
+10,Sarishabari,2,15,0,15,300,0,300,20
+11,Total,104,440,77,517,8290,2925,11215,22

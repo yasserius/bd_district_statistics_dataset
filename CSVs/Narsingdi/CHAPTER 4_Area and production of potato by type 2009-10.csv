@@ -1,10 +1,8 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2009-10,,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Potato,Potato,Sweet potato,Sweet potato,Total potato,Total potato
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
+2, Upazila,Potato,Potato,Sweet potato,Sweet potato,Total potato,Total potato
+3, Upazila,Area,Production,Area,Production,Area,Production
 4,Belabo,139,601,246,679,385,7392
 5,Manohardi,376,1680,233,792,609,2472
 6,Narsingdi Sadar,308,1532,354,1988,662,3520

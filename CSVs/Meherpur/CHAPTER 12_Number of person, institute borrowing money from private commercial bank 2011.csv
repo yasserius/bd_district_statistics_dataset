@@ -1,11 +1,8 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,,Number of,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,,branch of all,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Others debt,Others debt,Number of,Number of,Total debt,Total debt
-3,Upazila,private,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Others debt,Others debt,borrower,borrower,(Crore),(Crore)
-4,,commercial,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-5,,bank,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-6,Gangni,0,0,0,0,0,0,0,0,0,0,0
-7,Mujibnagar,0,0,0,0,0,0,0,0,0,0,0
-8,Meherpur Sadar,3,62,6,61,8,85,5,208,19,57,5
-9,Total,3,62,6,61,8,85,5,208,19,57,5
+1,,,,,,,,,,,,
+2,Upazila ,Number of branch of all private commercial bank,Number of borrower Agriculture debt Agriculture debt Male Male,Number of borrower Agriculture debt Agriculture debt Female Female,Number of borrower Industry debt Industry debt Male Male,Number of borrower Industry debt Industry debt Female Female,Number of borrower Others debt Others debt Male Male,Number of borrower Others debt Others debt Female Female,Number of borrower Number of borrower Male Male,Number of borrower Number of borrower Female Female,Number of borrower Total debt (Crore) Male Male,Number of borrower Total debt (Crore) Female Female
+3,Gangni,0,0,0,0,0,0,0,0,0,0,0
+4,Mujibnagar,0,0,0,0,0,0,0,0,0,0,0
+5,Meherpur Sadar,3,62,6,61,8,85,5,208,19,57,5
+6,Total,3,62,6,61,8,85,5,208,19,57,5

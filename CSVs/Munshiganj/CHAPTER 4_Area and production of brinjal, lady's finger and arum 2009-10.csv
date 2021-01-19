@@ -1,16 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Area and production of brinjal, lady's finger and arum 2009-10",,,,,,,,
 1,(Area in acre and production in metti.:: ton ),,,,,,,,
-2,"
-Upazila",Brinj al,Brinj al,Brinj al,Lady's finger,Lady's finger,Arum,Arum,Arum
-3,"
-Upazila",Area,I,Production,Area	I,Production,Area,I,Production
-4,Gazaria,79,1760,,30,84,13,11,
-5,Lauhajang,48,62,,49,155,4,2,
-6,Munshiganj Sadar,435,907,,99,56,131,383,
-7,Serajdikhan,112,224,,74,37,15,36,
-8,Sreenagar,95,161,,25,18,0,0,
-9,Tongibari,43,54,,20,13,17,12,
-10,Total,812,3168,,297,363,180,444,
-11,,,,"
-40",,,,,
+2,Upazila,Brinj al Area,Brinj al I,Brinj al Production,Lady's finger AreaI,Lady's finger Production,Arum Area,Arum I,Arum Production
+3,Gazaria,79,1760,,30,84,13,11,
+4,Lauhajang,48,62,,49,155,4,2,
+5,Munshiganj Sadar,435,907,,99,56,131,383,
+6,Serajdikhan,112,224,,74,37,15,36,
+7,Sreenagar,95,161,,25,18,0,0,
+8,Tongibari,43,54,,20,13,17,12,
+9,Total,812,3168,,297,363,180,444,
+10,,,, 40,,,,,

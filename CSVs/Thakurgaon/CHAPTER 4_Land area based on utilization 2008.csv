@@ -1,12 +1,10 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization 2008,,,,,
-1,Upazila,Total area,"Permanent
-cropped area","Temporary
-cropped area","Permanent
-fallow area",Others
-2,Baliadangi,66649,823,58804,800,6222
-3,Haripur,48302,711,42605,4739,287
-4,Pirgonj,78425,1508,68245,297,8375
-5,Ranisankail,71731,1089,62929,713,7000
-6,Thakurgaon Sadar,159815,2249,138362,12468,6736
-7,Total,424922,6380,370945,34990,34924
+1,,,,,,
+2,Upazila,Total area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
+3,Baliadangi,66649,823,58804,800,6222
+4,Haripur,48302,711,42605,4739,287
+5,Pirgonj,78425,1508,68245,297,8375
+6,Ranisankail,71731,1089,62929,713,7000
+7,Thakurgaon Sadar,159815,2249,138362,12468,6736
+8,Total,424922,6380,370945,34990,34924

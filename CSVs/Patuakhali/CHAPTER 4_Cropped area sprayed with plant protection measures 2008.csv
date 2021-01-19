@@ -1,14 +1,13 @@
 ,0,1,2,3,4,5
 0,Cropped area sprayed with plant protection measures 2008,,,,,
-1,"
-Upazila",Total farm holding,Total farm holding,Spraying farm holding,Spraying farm holding,Reporting area sprayed
-2,"
-Upazila",Number,Cropped area,Number,Cropped area,Reporting area sprayed
-3,Bauphal,42949,55456,3890,19121,4290
-4,Dashmina,18720,24545,11229,41520,5112
-5,Dumki,10733,10308,4043,6768,1592
-6,Galachipa,50910,102878,9500,32500,20750
-7,Kalapara,30448,69085,8608,30600,19960
-8,Mirzaganj,19540,19076,7450,11235,5432
-9,Patuakhali Sadar,40079,46520,5342,8262,5220
-10,Total,225921,327868,50062,150006,62356
+1,,,,,,
+2, Upazila,Total farm holding,Total farm holding,Spraying farm holding,Spraying farm holding,Reporting area sprayed
+3, Upazila,Number,Cropped area,Number,Cropped area,Reporting area sprayed
+4,Bauphal,42949,55456,3890,19121,4290
+5,Dashmina,18720,24545,11229,41520,5112
+6,Dumki,10733,10308,4043,6768,1592
+7,Galachipa,50910,102878,9500,32500,20750
+8,Kalapara,30448,69085,8608,30600,19960
+9,Mirzaganj,19540,19076,7450,11235,5432
+10,Patuakhali Sadar,40079,46520,5342,8262,5220
+11,Total,225921,327868,50062,150006,62356

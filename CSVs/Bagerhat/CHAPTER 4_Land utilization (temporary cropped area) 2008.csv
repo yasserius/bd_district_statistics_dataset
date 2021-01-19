@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,Upazila,Current fallow,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Productivity of crop
-2,Upazila,Current fallow,Single,Double,Triple,Net,Gross,Productivity of crop
-3,Bagerhat Sadar,258,30201,8101,922,39224,44304,113
-4,Kachua,934,6832,5203,1848,15883,24030,151
-5,Rampal,247,29303,2020,889,32212,34790,108
-6,Sarankhola,171,13434,5301,881,19616,26468,135
-7,Chitalmari,841,10059,17053,985,28097,37928,135
-8,Morrelgonj,1036,41342,9568,2976,53886,64268,119
-9,Mongla,465,12987,6352,957,19296,19895,103
-10,Mollahat,753,10667,7854,1417,22938,32406,141
-11,Fakirhat,48,12576,5245,925,18746,23195,124
-12,Total,4754,167401,66697,11800,249898,307284,121
+1,,,,,,,,
+2,Upazila,Current fallow,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Temporary Cropped area,Productivity of crop
+3,Upazila,Current fallow,Single,Double,Triple,Net,Gross,Productivity of crop
+4,Bagerhat Sadar,258,30201,8101,922,39224,44304,113
+5,Kachua,934,6832,5203,1848,15883,24030,151
+6,Rampal,247,29303,2020,889,32212,34790,108
+7,Sarankhola,171,13434,5301,881,19616,26468,135
+8,Chitalmari,841,10059,17053,985,28097,37928,135
+9,Morrelgonj,1036,41342,9568,2976,53886,64268,119
+10,Mongla,465,12987,6352,957,19296,19895,103
+11,Mollahat,753,10667,7854,1417,22938,32406,141
+12,Fakirhat,48,12576,5245,925,18746,23195,124
+13,Total,4754,167401,66697,11800,249898,307284,121

@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Number of handloom establishment and loom 2011,,,,
-1,"
-Upazila",Number of unit (factory),Number of loom,Number of loom,Number of loom
-2,"
-Upazila",Number of unit (factory),Operational,Non-operational,Total
+1,,,,,
+2,Upazila,Number of unit (factory),Number of loom Operational,Number of loom Non-operational,Number of loom Total
 3,Atwari,0,0,0,0
 4,Boda,33,23,10,33
 5,Debiganj,0,0,0,0

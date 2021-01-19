@@ -1,21 +1,18 @@
 ,0,1,2,3,4
 0,Area and production of cauliflower and cucumber 2009-10,,,,
 1,(Area in acre and production in metric ton),,,,
-2,"
-Upazila",Cauliflower,Cauliflower,Cucumber,Cucumber
-3,"
-Upazila",Area,Production,Area,Production
-4,Biral,92,193,48,48
-5,Birampur,280,812,55,110
-6,Birganj,255,1015,31,90
-7,Bochaganj,122,336,8,3
-8,Chirirbandar,65,155,40,95
-9,Dinajpur Sadar,208,618,65,1480
-10,Fulbari,59,206,26,78
-11,Ghoraghat,54,155,11,22
-12,Hakimpur,21,61,5,15
-13,Kaharole,260,1140,21,80
-14,Khansama,89,205,18,36
-15,Nawabganj,80,232,10,20
-16,Parbatipur,55,198,29,73
-17,Total,1640,5326,367,2150
+2,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
+3,Biral,92,193,48,48
+4,Birampur,280,812,55,110
+5,Birganj,255,1015,31,90
+6,Bochaganj,122,336,8,3
+7,Chirirbandar,65,155,40,95
+8,Dinajpur Sadar,208,618,65,1480
+9,Fulbari,59,206,26,78
+10,Ghoraghat,54,155,11,22
+11,Hakimpur,21,61,5,15
+12,Kaharole,260,1140,21,80
+13,Khansama,89,205,18,36
+14,Nawabganj,80,232,10,20
+15,Parbatipur,55,198,29,73
+16,Total,1640,5326,367,2150

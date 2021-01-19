@@ -1,7 +1,7 @@
 ,0,1,2,3,4,5,6
 0,"Institutional accommodation facility by municipality, city corporation 2011",,,,,,
-1,Municipality/city corporation,Residential hostel,Residential hostel,Hall/hostel,Hall/hostel,Mess/barrack,Mess/barrack
-2,Municipality/city corporation,Number,Capacity,Number,Capacity,Number,Capacity
+1,,,,,,,
+2,Municipality/city corporation,Residential hostel Number,Residential hostel Capacity,Hall/hostel Number,Hall/hostel Capacity,Mess/barrack Number,Mess/barrack Capacity
 3,Bagha,0,0,0,0,4,40
 4,Baghmara,0,0,0,0,2,30
 5,Charghat,0,0,2,450,300,3500

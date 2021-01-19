@@ -1,16 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Number of health centre, providing health and family planning service 2011",,,,,,
-1,"
-Upazila",Number of union health centre,Health service,"
-Sterilization","
-M.R.",Injection/ copper-T,Oral pill/ condoms
-2,Akhaura,4,4,4,4,4,4
-3,Ashuganj,6,6,6,6,6,6
-4,Banchharampur,12,12,12,12,12,12
-5,Bijoynagar,10,10,10,10,10,10
-6,Brahmanbaria Sadar,21,21,21,21,21,21
-7,Kasba,2,2,2,2,2,2
-8,Nabinagar,19,19,19,19,19,19
-9,Nasirnagar,12,12,12,12,12,12
-10,Sarail,9,9,259,68,8780,20742
-11,Total,95,95,345,154,8866,20828
+1,,,,,,,
+2,Upazila,Number of union health centre,Health service,Sterilization,M.R.,Injection/ copper-T,Oral pill/ condoms
+3,Akhaura,4,4,4,4,4,4
+4,Ashuganj,6,6,6,6,6,6
+5,Banchharampur,12,12,12,12,12,12
+6,Bijoynagar,10,10,10,10,10,10
+7,Brahmanbaria Sadar,21,21,21,21,21,21
+8,Kasba,2,2,2,2,2,2
+9,Nabinagar,19,19,19,19,19,19
+10,Nasirnagar,12,12,12,12,12,12
+11,Sarail,9,9,259,68,8780,20742
+12,Total,95,95,345,154,8866,20828

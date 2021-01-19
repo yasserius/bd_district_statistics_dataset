@@ -1,20 +1,15 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Government primary school (class I-V), teacher and student 2011",,,,,,,,
-1,"
-Upazila","Number of Government
-primary school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students per
-teacher"
-2,"
-Upazila","Number of Government
-primary school",Male,Female,Total,Male,Female,Total,"Students per
-teacher"
-3,Bhurungamari,62,238,174,412,8961,11034,19995,48
-4,Char Rajibpur,21,78,66,144,3410,3152,6562,46
-5,Chilmari,55,124,226,350,6256,6290,12546,36
-6,Kurigram Sadar,70,185,214,399,18550,20635,29185,49
-7,Nageshwari,95,230,345,575,13575,14130,27706,48
-8,Phulbari,54,147,158,305,6588,8052,14640,48
-9,Rajarhat,49,105,159,264,5267,5334,10601,40
-10,Raumari,39,149,140,289,8040,7985,16025,55
-11,Ulipur,118,266,440,706,17675,17850,35250,50
-12,Total,563,1522,1922,3444,88322,94462,172510,47
+1,,,,,,,,,
+2, Upazila,Number of Government primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of Government primary school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Bhurungamari,62,238,174,412,8961,11034,19995,48
+5,Char Rajibpur,21,78,66,144,3410,3152,6562,46
+6,Chilmari,55,124,226,350,6256,6290,12546,36
+7,Kurigram Sadar,70,185,214,399,18550,20635,29185,49
+8,Nageshwari,95,230,345,575,13575,14130,27706,48
+9,Phulbari,54,147,158,305,6588,8052,14640,48
+10,Rajarhat,49,105,159,264,5267,5334,10601,40
+11,Raumari,39,149,140,289,8040,7985,16025,55
+12,Ulipur,118,266,440,706,17675,17850,35250,50
+13,Total,563,1522,1922,3444,88322,94462,172510,47

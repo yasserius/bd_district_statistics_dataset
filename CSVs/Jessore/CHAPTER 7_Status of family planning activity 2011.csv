@@ -1,18 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Status of family planning activity 2011,,,,,,
-1,"
-Upazila",Sterilization in number,Sterilization in number,"IUD/
-Injection",Condom (in piece),Oral pill (in cycle),"
-Copper- T"
-2,"
-Upazila",Vasectomy,Tubectomy,"IUD/
-Injection",Condom (in piece),Oral pill (in cycle),"
-Copper- T"
-3,Abhaynagar,2260,5796,13027,3883,17868,1712
-4,Bagherpara,113,273,22619,32836,156145,653
-5,Chaugachha,209,338,24490,23826,170017,375
-6,Jhikargachha,3011,6679,16185,5246,22711,1881
-7,Keshabpur,165,322,35686,14982,142387,415
-8,Manirampur,400,275,20896,2677,24380,1376
-9,Sharsha,194,274,8864,44106,262146,864
-10,Total,8008,14581,141767,127556,1337514,8560
+1,,,,,,,
+2, Upazila,Sterilization in number,Sterilization in number,IUD/ Injection,Condom (in piece),Oral pill (in cycle), Copper- T
+3, Upazila,Vasectomy,Tubectomy,IUD/ Injection,Condom (in piece),Oral pill (in cycle), Copper- T
+4,Abhaynagar,2260,5796,13027,3883,17868,1712
+5,Bagherpara,113,273,22619,32836,156145,653
+6,Chaugachha,209,338,24490,23826,170017,375
+7,Jhikargachha,3011,6679,16185,5246,22711,1881
+8,Keshabpur,165,322,35686,14982,142387,415
+9,Manirampur,400,275,20896,2677,24380,1376
+10,Sharsha,194,274,8864,44106,262146,864
+11,Total,8008,14581,141767,127556,1337514,8560

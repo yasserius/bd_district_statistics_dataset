@@ -1,26 +1,22 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting cattle head 2008,,,,,,
-1,"
-Upazila","
-Total holding",Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
-2,"
-Upazila","
-Total holding",1-3 head,4-6 head,7 -9 head,10-15 head,"15 head &
-above"
-3,Adarsha Sadar,43055,42964,67,19,4,1
-4,Barura,35405,28910,5596,971,15,12
-5,Brahmanpara,18113,17425,520,112,53,3
-6,Burichang,39262,18425,620,113,60,4
-7,Chandina,40513,28537,11488,488,0,0
-8,Chauddagram,40237,35051,3180,2002,4,0
-9,Comilla Sadar Dakshin,71485,60360,8125,2800,190,10
-10,Daudkandi,15064,11338,2930,479,219,98
-11,Debidwar,73256,26728,4461,660,68,5
-12,Homna,14257,12415,1790,47,0,0
-13,Laksam,17208,12970,1047,112,33,2
-14,Monoharganj,13866,11543,1803,493,27,0
-15,Meghna,19170,6390,2130,0,0,0
-16,Muradnagar,28036,21994,4956,1086,0,0
-17,Nangalkot,26566,20482,5231,828,67,52
-18,Titas,11763,9536,1816,250,105,56
-19,Total,507256,365068,55760,10460,845,243
+1,,,,,,,
+2, Upazila, Total holding,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
+3, Upazila, Total holding,1-3 head,4-6 head,7 -9 head,10-15 head,15 head & above
+4,Adarsha Sadar,43055,42964,67,19,4,1
+5,Barura,35405,28910,5596,971,15,12
+6,Brahmanpara,18113,17425,520,112,53,3
+7,Burichang,39262,18425,620,113,60,4
+8,Chandina,40513,28537,11488,488,0,0
+9,Chauddagram,40237,35051,3180,2002,4,0
+10,Comilla Sadar Dakshin,71485,60360,8125,2800,190,10
+11,Daudkandi,15064,11338,2930,479,219,98
+12,Debidwar,73256,26728,4461,660,68,5
+13,Homna,14257,12415,1790,47,0,0
+14,Laksam,17208,12970,1047,112,33,2
+15,Monoharganj,13866,11543,1803,493,27,0
+16,Meghna,19170,6390,2130,0,0,0
+17,Muradnagar,28036,21994,4956,1086,0,0
+18,Nangalkot,26566,20482,5231,828,67,52
+19,Titas,11763,9536,1816,250,105,56
+20,Total,507256,365068,55760,10460,845,243

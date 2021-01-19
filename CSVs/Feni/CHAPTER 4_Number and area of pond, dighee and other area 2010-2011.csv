@@ -1,18 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Number and area of pond, dighee and other area 2010-2011",,,,,,
-1,(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre)
-2,"
-Upazila",Pond,Pond,Dighee,Dighee,"
-Other area","
-Total area"
-3,"
-Upazila",Number,Area,Number,Area,"
-Other area","
-Total area"
-4,Chhagalnaiya,5928,1050,11,90,3,1142
-5,Daganbhuiyan,8689,1912,8,35,0,1947
-6,Feni Sadar,7697,1342,3,535,7,1877
-7,Fulgazi,3868,677,30,255,3,935
-8,Parshuram,5583,969,2,5,471,1445
-9,Sonagazi,13698,3736,0,0,0,3736
-10,Total,45463,9686,54,919,484,11082
+1,,,,,,,
+2,(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre)
+3, Upazila,Pond,Pond,Dighee,Dighee, Other area, Total area
+4, Upazila,Number,Area,Number,Area, Other area, Total area
+5,Chhagalnaiya,5928,1050,11,90,3,1142
+6,Daganbhuiyan,8689,1912,8,35,0,1947
+7,Feni Sadar,7697,1342,3,535,7,1877
+8,Fulgazi,3868,677,30,255,3,935
+9,Parshuram,5583,969,2,5,471,1445
+10,Sonagazi,13698,3736,0,0,0,3736
+11,Total,45463,9686,54,919,484,11082

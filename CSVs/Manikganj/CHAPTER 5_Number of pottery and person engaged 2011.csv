@@ -1,16 +1,13 @@
 ,0,1,2,3,4
 0,Number of pottery and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Daulotpur,28,56,5,61
-4,Gheor,17,51,0,51
-5,Horirampur,120,360,50,410
-6,Manikganj Sadar,35,70,0,70
-7,Saturia,115,340,220,570
-8,Shibalaya,21,61,0,61
-9,Singair,0,0,0,0
-10,Total,336,938,275,1223
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Daulotpur,28,56,5,61
+5,Gheor,17,51,0,51
+6,Horirampur,120,360,50,410
+7,Manikganj Sadar,35,70,0,70
+8,Saturia,115,340,220,570
+9,Shibalaya,21,61,0,61
+10,Singair,0,0,0,0
+11,Total,336,938,275,1223

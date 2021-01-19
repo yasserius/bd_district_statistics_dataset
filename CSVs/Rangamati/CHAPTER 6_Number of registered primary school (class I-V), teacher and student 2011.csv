@@ -1,19 +1,16 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of registered primary school (class I-V), teacher and student 2011",,,,,,,,
-1,"
-Upazila","Number of registered primary
-school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila","Number of registered primary
-school",Male,Female,Total,Male,Female,Total,Students per teacher
-3,Baghaichhari,40,65,38,103,1203,1082,2285,22
-4,Barkal,9,21,14,35,306,280,586,17
-5,Belai Chhari,2,5,3,8,84,80,164,21
-6,Jurai Chhari,7,20,6,26,180,145,325,13
-7,Kaptai,11,27,19,46,760,507,1267,28
-8,Kawkhali,21,56,23,79,1175,1092,2267,29
-9,Langadu,29,73,39,112,2032,2103,4135,37
-10,Naniarchar,16,49,13,62,502,428,930,15
-11,Rangamati Sadar,28,57,51,108,1049,1049,2098,20
-12,Rajasthali,13,26,27,53,404,360,764,15
-13,Total,176,399,233,632,7695,7126,14821,23
+1,,,,,,,,,
+2, Upazila,Number of registered primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of registered primary school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Baghaichhari,40,65,38,103,1203,1082,2285,22
+5,Barkal,9,21,14,35,306,280,586,17
+6,Belai Chhari,2,5,3,8,84,80,164,21
+7,Jurai Chhari,7,20,6,26,180,145,325,13
+8,Kaptai,11,27,19,46,760,507,1267,28
+9,Kawkhali,21,56,23,79,1175,1092,2267,29
+10,Langadu,29,73,39,112,2032,2103,4135,37
+11,Naniarchar,16,49,13,62,502,428,930,15
+12,Rangamati Sadar,28,57,51,108,1049,1049,2098,20
+13,Rajasthali,13,26,27,53,404,360,764,15
+14,Total,176,399,233,632,7695,7126,14821,23

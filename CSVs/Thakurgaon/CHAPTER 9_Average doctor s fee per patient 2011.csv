@@ -1,13 +1,10 @@
 ,0,1,2,3,4,5
 0,Average doctor s fee per patient 2011,,,,,
 1,(Fee in taka),,,,,
-2,"
-Upazila",Doctor,Doctor,Doctor,Doctor,Doctor
-3,"
-Upazila",MBBS,FCPS,Dentist,Gynaecologist,Homeopathy
-4,Baliadangi,250,200,150,150,50
-5,Haripur,150,0,0,0,0
-6,Pirgonj,100,300,200,300,0
-7,Ranisankail,250,0,100,250,30
-8,Thakurgaon Sadar,300,500,300,300,100
-9,Average,210,200,150,200,36
+2,Upazila,Doctor MBBS,Doctor FCPS,Doctor Dentist,Doctor Gynaecologist,Doctor Homeopathy
+3,Baliadangi,250,200,150,150,50
+4,Haripur,150,0,0,0,0
+5,Pirgonj,100,300,200,300,0
+6,Ranisankail,250,0,100,250,30
+7,Thakurgaon Sadar,300,500,300,300,100
+8,Average,210,200,150,200,36

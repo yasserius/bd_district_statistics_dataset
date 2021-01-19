@@ -1,10 +1,9 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of secondary school & college (operating jointly), teacher and student by municipality 2011",,,,,,,,
-1,"
-Upazila",Number of Institute,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of Institute,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Gazipur Sadar,34,373,200,573,7343,5000,12343,22
-4,Kaliganj,5,35,26,61,1087,1406,2493,41
-5,Sreepur,6,42,24,66,1518,1680,3198,48
-6,Total,45,450,250,700,9948,8086,18034,26
+1,,,,,,,,,
+2, Upazila,Number of Institute,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of Institute,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Gazipur Sadar,34,373,200,573,7343,5000,12343,22
+5,Kaliganj,5,35,26,61,1087,1406,2493,41
+6,Sreepur,6,42,24,66,1518,1680,3198,48
+7,Total,45,450,250,700,9948,8086,18034,26

@@ -1,16 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,Upazila,"Number
-of centre","Number
-of bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Bhedarganj,1,10,4,2,2,7
-3,Damudya,5,0,5,0,0,0
-4,Gosairhat,0,0,0,0,0,0
-5,Naria,2,21,6,8,4,18
-6,Shariatpur Sadar,7,66,15,16,15,40
-7,Zanjira,0,0,0,0,0,0
-8,Total,15,97,30,26,21,65
+1,,,,,,,
+2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Bhedarganj,1,10,4,2,2,7
+4,Damudya,5,0,5,0,0,0
+5,Gosairhat,0,0,0,0,0,0
+6,Naria,2,21,6,8,4,18
+7,Shariatpur Sadar,7,66,15,16,15,40
+8,Zanjira,0,0,0,0,0,0
+9,Total,15,97,30,26,21,65

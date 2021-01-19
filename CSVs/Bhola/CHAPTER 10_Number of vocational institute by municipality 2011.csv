@@ -1,9 +1,10 @@
 ,0,1,2,3
 0,Number of vocational institute by municipality 2011,,,
-1,Municipality,Number of institution,Number of teacher,Number of student
-2,Bhola Sadar,2,35,425
-3,Burhanuddin,1,5,145
-4,Char Fasson,0,0,0
-5,Daulatkhan,1,11,92
-6,Lalmohan,1,4,43
-7,Total,5,55,705
+1,,,,
+2,Municipality,Number of institution,Number of teacher,Number of student
+3,Bhola Sadar,2,35,425
+4,Burhanuddin,1,5,145
+5,Char Fasson,0,0,0
+6,Daulatkhan,1,11,92
+7,Lalmohan,1,4,43
+8,Total,5,55,705

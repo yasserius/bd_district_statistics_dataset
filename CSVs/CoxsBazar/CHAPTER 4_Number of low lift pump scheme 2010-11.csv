@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,Upazila,Number of pumps fielded,Number of pumps fielded,Number of pumps fielded,Area irrigated (in acre)
-2,Upazila,Electric,Diesel,Total,Area irrigated (in acre)
-3,Chakaria,121,212,333,750
-4,Cox's Bazar Sadar,795,165,960,10497
-5,Kutubdia,0,681,681,7055
-6,Moheshkhali,362,250,612,12285
-7,Pekua,160,40,200,11374
-8,Ramu,101,109,210,17485
-9,Teknaf,43,5,48,2766
-10,Ukhia,1139,103,1242,8776
-11,Total,2721,1565,4286,70988
+1,,,,,
+2,Upazila,Number of pumps fielded,Number of pumps fielded,Number of pumps fielded,Area irrigated (in acre)
+3,Upazila,Electric,Diesel,Total,Area irrigated (in acre)
+4,Chakaria,121,212,333,750
+5,Cox's Bazar Sadar,795,165,960,10497
+6,Kutubdia,0,681,681,7055
+7,Moheshkhali,362,250,612,12285
+8,Pekua,160,40,200,11374
+9,Ramu,101,109,210,17485
+10,Teknaf,43,5,48,2766
+11,Ukhia,1139,103,1242,8776
+12,Total,2721,1565,4286,70988

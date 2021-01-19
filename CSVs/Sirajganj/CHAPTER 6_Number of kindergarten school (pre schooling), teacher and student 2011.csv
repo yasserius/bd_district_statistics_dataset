@@ -1,20 +1,15 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kindergarten school (pre schooling), teacher and student 2011",,,,,,,,
-1,"
-Upazila","Number of
-kindergarten school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students
-per teacher"
-2,"
-Upazila","Number of
-kindergarten school",Male,Female,Total,Male,Female,Total,"Students
-per teacher"
-3,Belkuchi,28,50,65,115,1546,1818,3364,29
-4,Chauhali,12,36,18,54,735,470,1205,22
-5,Kamarkhanda,15,111,74,185,2005,1290,3295,18
-6,Kazipur,16,39,73,112,1144,1143,2287,20
-7,Royganj,30,91,124,215,1475,1494,3069,15
-8,Shahjadpur,37,120,140,260,3384,1926,5310,20
-9,Sirajganj Sadar,38,127,64,191,1871,1973,3844,20
-10,Tarash,3,20,10,30,219,157,376,13
-11,Ullahpara,28,40,72,112,1083,1173,2256,20
-12,Total,207,634,640,1274,13462,11444,25006,20
+1,,,,,,,,,
+2, Upazila,Number of kindergarten school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of kindergarten school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Belkuchi,28,50,65,115,1546,1818,3364,29
+5,Chauhali,12,36,18,54,735,470,1205,22
+6,Kamarkhanda,15,111,74,185,2005,1290,3295,18
+7,Kazipur,16,39,73,112,1144,1143,2287,20
+8,Royganj,30,91,124,215,1475,1494,3069,15
+9,Shahjadpur,37,120,140,260,3384,1926,5310,20
+10,Sirajganj Sadar,38,127,64,191,1871,1973,3844,20
+11,Tarash,3,20,10,30,219,157,376,13
+12,Ullahpara,28,40,72,112,1083,1173,2256,20
+13,Total,207,634,640,1274,13462,11444,25006,20

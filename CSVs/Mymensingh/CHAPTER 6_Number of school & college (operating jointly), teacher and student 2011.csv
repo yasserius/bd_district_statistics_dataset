@@ -1,19 +1,18 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of school & college (operating jointly), teacher and student 2011",,,,,,,,
-1,"
-Upazila",Number of  institute,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of  institute,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Bhaluka,3,72,9,81,1658,835,2493,31
-4,Dhubaura,1,24,2,26,1380,481,1861,72
-5,Fulbaria,1,14,8,22,0,401,401,18
-6,Gaffargaon,0,0,0,0,0,0,0,0
-7,Gauripur,2,19,2,21,410,505,915,44
-8,Haluaghat,0,0,0,0,0,0,0,0
-9,Ishwargonj,0,0,0,0,0,0,0,0
-10,Muktagacha,0,0,0,0,0,0,0,0
-11,Mymensingh Sadar,5,70,90,160,1110,4349,5459,34
-12,Nandail,1,19,7,26,710,480,1190,46
-13,Phulpur,0,0,0,0,0,0,0,0
-14,Trishal,0,0,0,0,0,0,0,0
-15,Total,13,218,118,336,5268,7051,12319,37
+1,,,,,,,,,
+2, Upazila,Number of  institute,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of  institute,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Bhaluka,3,72,9,81,1658,835,2493,31
+5,Dhubaura,1,24,2,26,1380,481,1861,72
+6,Fulbaria,1,14,8,22,0,401,401,18
+7,Gaffargaon,0,0,0,0,0,0,0,0
+8,Gauripur,2,19,2,21,410,505,915,44
+9,Haluaghat,0,0,0,0,0,0,0,0
+10,Ishwargonj,0,0,0,0,0,0,0,0
+11,Muktagacha,0,0,0,0,0,0,0,0
+12,Mymensingh Sadar,5,70,90,160,1110,4349,5459,34
+13,Nandail,1,19,7,26,710,480,1190,46
+14,Phulpur,0,0,0,0,0,0,0,0
+15,Trishal,0,0,0,0,0,0,0,0
+16,Total,13,218,118,336,5268,7051,12319,37

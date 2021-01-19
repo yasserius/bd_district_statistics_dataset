@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Number and area of pond, dighee and other area 2010-2011",,,,,,
-1,(Area in Acre),(Area in Acre),(Area in Acre),(Area in Acre),(Area in Acre),(Area in Acre),(Area in Acre)
-2,Upazila,Pond,Pond,Dighee,Dighee,Other area,Total area
-3,Upazila,Number,Area,Number,Area,Other area,Total area
-4,Bholahat,1094,430,0,0,0,430
-5,Chapai Nawabganj Sadar,1270,802,0,0,1071,1874
-6,Gomastapur,1987,921,130,390,3466,4777
-7,Nachole,3623,1986,42,118,684,2788
-8,Shibganj,1294,1290,1,33,3,320
-9,Total,9268,5429,173,541,5224,10189
+1,,,,,,,
+2,(Area in Acre),(Area in Acre),(Area in Acre),(Area in Acre),(Area in Acre),(Area in Acre),(Area in Acre)
+3,Upazila,Pond,Pond,Dighee,Dighee,Other area,Total area
+4,Upazila,Number,Area,Number,Area,Other area,Total area
+5,Bholahat,1094,430,0,0,0,430
+6,Chapai Nawabganj Sadar,1270,802,0,0,1071,1874
+7,Gomastapur,1987,921,130,390,3466,4777
+8,Nachole,3623,1986,42,118,684,2788
+9,Shibganj,1294,1290,1,33,3,320
+10,Total,9268,5429,173,541,5224,10189

@@ -1,10 +1,8 @@
 ,0,1,2,3,4,5
 0,Average rate of vehicle per kilo meter 2011,,,,,
 1,(Rate in Taka),,,,,
-2,"
-Upazila",Vehicle,Vehicle,Vehicle,Vehicle,Vehicle
-3,"
-Upazila",Rickshaw,Rickshaw van,Easy bike,Auto rickshaw,Tempo
+2, Upazila,Vehicle,Vehicle,Vehicle,Vehicle,Vehicle
+3, Upazila,Rickshaw,Rickshaw van,Easy bike,Auto rickshaw,Tempo
 4,Basail,10,60,30,35,40
 5,Bhuapur,10,60,22,32,35
 6,Delduar,15,50,25,35,45

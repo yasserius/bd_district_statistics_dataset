@@ -1,14 +1,11 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,"
-Upazila","
-Number","
-Number of employee","
-Number of client"
-2,Bagatipara,72,0,1440
-3,Baraigram,142,85,12750
-4,Gurudaspur,119,4,7342
-5,Lalpur,193,5,3800
-6,Natore Sadar,461,112,13219
-7,Singra,349,4,12088
-8,Total,1336,210,50639
+1,,,,
+2, Upazila, Number, Number of employee, Number of client
+3,Bagatipara,72,0,1440
+4,Baraigram,142,85,12750
+5,Gurudaspur,119,4,7342
+6,Lalpur,193,5,3800
+7,Natore Sadar,461,112,13219
+8,Singra,349,4,12088
+9,Total,1336,210,50639

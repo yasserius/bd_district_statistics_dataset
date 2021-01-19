@@ -1,16 +1,8 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Sonali and Janata bank 2011,,,,,,,,,,
-1,"
-Upazila",Sonali bank,Sonali bank,Sonali bank,Sonali bank,Sonali bank,Janata bank,Janata bank,Janata bank,Janata bank,Janata bank
-2,"
-Upazila","Number
-of branch",Account,Account,Account,Account,"Number
-of branch",Account,Account,Account,Account
-3,"
-Upazila","Number
-of branch",S.D,C.D,F.D,S.T.D,"Number
-of branch",S.D,C.D,F.D,S.T.D
-4,Gangni,4,1725,223,234,58,1,15,270,111,12
-5,Mujibnagar,1,1685,268,44,14,0,0,0,0,0
-6,Meherpur Sadar,2,8549,2615,1668,37,1,8848,690,36,13
-7,Total,7,11959,3106,1946,109,2,8863,960,147,25
+1,,,,,,,,,,,
+2,Upazila,Sonali bank Number of branch Number of branch,Sonali bank Account S.D,Sonali bank Account C.D,Sonali bank Account F.D,Sonali bank Account S.T.D,Janata bank Number of branch Number of branch,Janata bank Account S.D,Janata bank Account C.D,Janata bank Account F.D,Janata bank Account S.T.D
+3,Gangni,4,1725,223,234,58,1,15,270,111,12
+4,Mujibnagar,1,1685,268,44,14,0,0,0,0,0
+5,Meherpur Sadar,2,8549,2615,1668,37,1,8848,690,36,13
+6,Total,7,11959,3106,1946,109,2,8863,960,147,25

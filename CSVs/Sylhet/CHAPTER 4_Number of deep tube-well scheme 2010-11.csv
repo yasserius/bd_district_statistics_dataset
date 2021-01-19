@@ -1,9 +1,7 @@
 ,0,1,2,3
 0,Number of deep tube-well scheme 2010-11,,,
-1,"
-Upazila/City corporation",Number of deep tube-wells,Number of deep tube-wells,Area irrigated (in acres)
-2,"
-Upazila/City corporation",Commissioned,Operated,Area irrigated (in acres)
+1,,,,
+2,Upazila/City corporation,Number of deep tube-wells Commissioned,Number of deep tube-wells Operated,Area irrigated (in acres)
 3,Balaganj,0,0,0
 4,Beanibazar,8,2,890
 5,Bishwanath,0,2,210

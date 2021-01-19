@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
-2,Belabo,0,0,0,0,0
-3,Manohardi,6,13,0,14,15
-4,Narsingdi Sadar,22,87,74,110,145
-5,Palash,12,57,0,34,74
-6,Roypura,8,4,3,16,24
-7,Sibpur,4,2,2,7,11
-8,Total,52,163,79,181,269
+1,,,,,,
+2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Belabo,0,0,0,0,0
+4,Manohardi,6,13,0,14,15
+5,Narsingdi Sadar,22,87,74,110,145
+6,Palash,12,57,0,34,74
+7,Roypura,8,4,3,16,24
+8,Sibpur,4,2,2,7,11
+9,Total,52,163,79,181,269

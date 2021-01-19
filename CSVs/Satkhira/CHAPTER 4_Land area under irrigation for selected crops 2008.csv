@@ -1,14 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Land area under irrigation for selected crops 2008,,,,,,
-1,"
-Upazila",Paddy,Paddy,Wheat,Wheat,Potato,Potato
-2,"
-Upazila",Total area,Irrigated area,Total area,Irrigated area,Total area,Irrigated area
-3,Assasuni,27007,12262,54,36,674,345
-4,Debhata,17234,8896,149,102,468,790
-5,Kalaroa,48477,30439,1051,1050,448,448
-6,Kaliganj,38645,17594,354,122,2529,1660
-7,Satkhira Sadar,82535,52760,1740,1560,1494,1402
-8,Shyamnagar,35720,9574,33,17,1969,850
-9,Tala,53642,41911,1479,1015,2373,2350
-10,Total,303260,173438,4860,3902,9955,7845
+1,,,,,,,
+2, Upazila,Paddy,Paddy,Wheat,Wheat,Potato,Potato
+3, Upazila,Total area,Irrigated area,Total area,Irrigated area,Total area,Irrigated area
+4,Assasuni,27007,12262,54,36,674,345
+5,Debhata,17234,8896,149,102,468,790
+6,Kalaroa,48477,30439,1051,1050,448,448
+7,Kaliganj,38645,17594,354,122,2529,1660
+8,Satkhira Sadar,82535,52760,1740,1560,1494,1402
+9,Shyamnagar,35720,9574,33,17,1969,850
+10,Tala,53642,41911,1479,1015,2373,2350
+11,Total,303260,173438,4860,3902,9955,7845

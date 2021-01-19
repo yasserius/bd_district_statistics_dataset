@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Number of oil mills and person engaged 2011,,,,
-1,"
-Upazila/city corporation",Number of unit,Person engaged,Person engaged,Person engaged
-2,"
-Upazila/city corporation",Number of unit,Family,Hired,Total
+1,,,,,
+2,Upazila/city corporation,Number of unit,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Bagha,13,13,13,26
 4,Baghmara,38,48,76,124
 5,Charghat,10,10,22,32

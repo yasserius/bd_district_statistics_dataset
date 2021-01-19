@@ -1,13 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Land area under irrigation for selected crops 2008,,,,,,
-1,"
-Upazila",Paddy,Paddy,Wheat,Wheat,Potato,Potato
-2,"
-Upazila",Total area,Irrigated area,Total area,Irrigated area,Total area,Irrigated area
-3,Bagatipara,10631,12482,5130,820,173,173
-4,Baraigram,48245,39622,11643,2840,110,110
-5,Gurudaspur,38019,35843,5275,1345,221,221
-6,Lalpur,18800,19251,10328,1200,250,250
-7,Natore Sadar,46414,58029,5551,1456,590,590
-8,Singra,147699,90281,2744,2065,1045,1045
-9,Total,309807,255508,40670,9726,2388,2388
+1,,,,,,,
+2, Upazila,Paddy,Paddy,Wheat,Wheat,Potato,Potato
+3, Upazila,Total area,Irrigated area,Total area,Irrigated area,Total area,Irrigated area
+4,Bagatipara,10631,12482,5130,820,173,173
+5,Baraigram,48245,39622,11643,2840,110,110
+6,Gurudaspur,38019,35843,5275,1345,221,221
+7,Lalpur,18800,19251,10328,1200,250,250
+8,Natore Sadar,46414,58029,5551,1456,590,590
+9,Singra,147699,90281,2744,2065,1045,1045
+10,Total,309807,255508,40670,9726,2388,2388

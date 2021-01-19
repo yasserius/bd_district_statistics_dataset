@@ -1,20 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of papaya, guava, lime and lemon 2009-10",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Papaya,Papaya,Guava,Guava,Lime and lemon,Lime and lemon
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Adamdighi,17.7,66.45,34,136,14.64,19.18
-5,Bogra sadar,46.85,761,10,219,0,59
-6,Dhunat,72.73,336.75,29.12,35.82,19.52,25.17
-7,Gabtali,139,1110,56.24,53.51,141.66,75.91
-8,Dhupchanchia,5.4,142,0,0,0,0
-9,Kahaloo,6,62,1.5,235,2,34
-10,Nandigram,8.2,280,3,120.98,2.8,62.295
-11,Sariakandi,3,97,2,84,3,12
-12,Sherpur,26,147,41,294,12,181
-13,Shibganj,17.82,154.574,81.13,331.63,37.79,103.84
-14,Sonatola,88,248,16,113,9,21
-15,Shajahanpur,81,1342,81,314,8,537
-16,Total,511.7,4746.77,355,1936.94,250.41,1130.40
+2,Upazila,Papaya Area,Papaya Production,Guava Area,Guava Production,Lime and lemon Area,Lime and lemon Production
+3,Adamdighi,17.7,66.45,34,136,14.64,19.18
+4,Bogra sadar,46.85,761,10,219,0,59
+5,Dhunat,72.73,336.75,29.12,35.82,19.52,25.17
+6,Gabtali,139,1110,56.24,53.51,141.66,75.91
+7,Dhupchanchia,5.4,142,0,0,0,0
+8,Kahaloo,6,62,1.5,235,2,34
+9,Nandigram,8.2,280,3,120.98,2.8,62.295
+10,Sariakandi,3,97,2,84,3,12
+11,Sherpur,26,147,41,294,12,181
+12,Shibganj,17.82,154.574,81.13,331.63,37.79,103.84
+13,Sonatola,88,248,16,113,9,21
+14,Shajahanpur,81,1342,81,314,8,537
+15,Total,511.7,4746.77,355,1936.94,250.41,1130.40

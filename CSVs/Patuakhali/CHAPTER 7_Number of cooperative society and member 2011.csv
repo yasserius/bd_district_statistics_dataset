@@ -1,18 +1,13 @@
 ,0,1,2,3,4
 0,Number of cooperative society and member 2011,,,,
-1,"
-Upazila","Number of
-co-operative society",Number of member,Number of member,"
-Total"
-2,"
-Upazila","Number of
-co-operative society",Male,Female,"
-Total"
-3,Bauphal,284,3900,2600,6500
-4,Dashmina,130,6450,3800,10250
-5,Dumki,53,3464,1264,4728
-6,Galachipa,571,12000,10840,22840
-7,Kalapara,26,428,222,650
-8,Mirzaganj,265,6500,4500,11000
-9,Patuakhali Sadar,507,11920,1700,13620
-10,Total,1836,44662,24926,69588
+1,,,,,
+2, Upazila,Number of co-operative society,Number of member,Number of member, Total
+3, Upazila,Number of co-operative society,Male,Female, Total
+4,Bauphal,284,3900,2600,6500
+5,Dashmina,130,6450,3800,10250
+6,Dumki,53,3464,1264,4728
+7,Galachipa,571,12000,10840,22840
+8,Kalapara,26,428,222,650
+9,Mirzaganj,265,6500,4500,11000
+10,Patuakhali Sadar,507,11920,1700,13620
+11,Total,1836,44662,24926,69588

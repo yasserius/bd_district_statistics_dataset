@@ -1,15 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of brinjal, lady s finger and arum 2009-10",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Brinjal,Brinjal,Lady’s finger,Lady’s finger,Arum,Arum
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Assasuni,56,109,20,15,44,66
-5,Debhata,358,1826,18,58,83,642
-6,Kalaroa,245,544,87,56,277,1196
-7,Kaliganj,360,1840,271,538,296,3590
-8,Satkhira Sadar,108,340,95,173,182,1155
-9,Shyamnagar,88,522,25,63,108,1151
-10,Tala,1370,6765,150,450,642,3065
-11,Total,2585,11946,666,1353,1632,10864
+2,Upazila,Brinjal Area,Brinjal Production,Lady’s finger Area,Lady’s finger Production,Arum Area,Arum Production
+3,Assasuni,56,109,20,15,44,66
+4,Debhata,358,1826,18,58,83,642
+5,Kalaroa,245,544,87,56,277,1196
+6,Kaliganj,360,1840,271,538,296,3590
+7,Satkhira Sadar,108,340,95,173,182,1155
+8,Shyamnagar,88,522,25,63,108,1151
+9,Tala,1370,6765,150,450,642,3065
+10,Total,2585,11946,666,1353,1632,10864

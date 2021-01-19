@@ -1,16 +1,10 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of growth centre, hat , bazar, poultry farm, dairy farm, nursery, horticulture centre, brick kiln, decorator service 2011",,,,,,,,
-1,Upazila,"Growth
-centre","Hat
-/bazar","Poultry
-farm","Dairy
-farm",Nursery,"Horticulture
-centre","Brick
-kiln","Decorator
-service"
-2,Bholahat,2,26,4,13,21,0,6,10
-3,Chapai Nawabganj Sadar,6,47,152,46,42,2,54,62
-4,Gomastapur,2,39,128,24,28,0,20,20
-5,Nachole,5,30,22,22,10,0,6,11
-6,Shibganj,6,54,181,52,35,1,30,46
-7,Total,21,196,487,157,136,3,116,149
+1,,,,,,,,,
+2,Upazila,Growth centre,Hat /bazar,Poultry farm,Dairy farm,Nursery,Horticulture centre,Brick kiln,Decorator service
+3,Bholahat,2,26,4,13,21,0,6,10
+4,Chapai Nawabganj Sadar,6,47,152,46,42,2,54,62
+5,Gomastapur,2,39,128,24,28,0,20,20
+6,Nachole,5,30,22,22,10,0,6,11
+7,Shibganj,6,54,181,52,35,1,30,46
+8,Total,21,196,487,157,136,3,116,149

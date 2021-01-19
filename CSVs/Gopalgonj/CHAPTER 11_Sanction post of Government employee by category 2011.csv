@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,Sanction post of Government employee by category 2011,,,,,
-1,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
-2,Gopalganj Sadar,138,129,1599,545,2411
-3,Kashiani,45,49,434,155,683
-4,Kotalipara,93,33,970,121,1217
-5,Muksudpur,53,32,357,174,606
-6,Tungipara,21,29,184,186,420
-7,Total,350,272,3544,1181,5337
+1,,,,,,
+2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
+3,Gopalganj Sadar,138,129,1599,545,2411
+4,Kashiani,45,49,434,155,683
+5,Kotalipara,93,33,970,121,1217
+6,Muksudpur,53,32,357,174,606
+7,Tungipara,21,29,184,186,420
+8,Total,350,272,3544,1181,5337

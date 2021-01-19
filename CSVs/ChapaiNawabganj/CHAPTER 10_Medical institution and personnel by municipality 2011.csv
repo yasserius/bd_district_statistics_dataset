@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Medical institution and personnel by municipality 2011,,,,,,
-1,Upazila,Government institution,Private institution,Medical personal,Medical personal,Medical personal,Medical personal
-2,Upazila,Government institution,Private institution,Bed,Doctor,Nurse,Technician
-3,Bholahat,0,0,0,0,0,0
-4,Chapai Nawabganj Sadar,3,11,229,64,120,24
-5,Gomastapur,1,4,60,28,22,13
-6,Nachole,1,3,56,15,17,14
-7,Shibganj,1,3,80,18,27,14
-8,Total,6,21,425,125,186,65
+1,,,,,,,
+2,Upazila,Government institution,Private institution,Medical personal,Medical personal,Medical personal,Medical personal
+3,Upazila,Government institution,Private institution,Bed,Doctor,Nurse,Technician
+4,Bholahat,0,0,0,0,0,0
+5,Chapai Nawabganj Sadar,3,11,229,64,120,24
+6,Gomastapur,1,4,60,28,22,13
+7,Nachole,1,3,56,15,17,14
+8,Shibganj,1,3,80,18,27,14
+9,Total,6,21,425,125,186,65

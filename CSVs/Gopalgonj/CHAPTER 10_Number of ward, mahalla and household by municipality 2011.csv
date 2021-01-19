@@ -1,10 +1,10 @@
 ,0,1,2,3,4
 0,"Number of ward, mahalla and household by municipality 2011",,,,
-1,Upazila,"Name of
-municipality",Total ward,Total mahalla,Total household
-2,Gopalganj Sadar,Gopalganj,9,47,11600
-3,Kashiani,-,-,-,-
-4,Kotalipara,Kotalipara,9,9,1240
-5,Muksudpur,Musudpur,9,15,4312
-6,Tungipara,Tungipara,9,13,1754
-7,Total,,36,84,18906
+1,,,,,
+2,Upazila,Name of municipality,Total ward,Total mahalla,Total household
+3,Gopalganj Sadar,Gopalganj,9,47,11600
+4,Kashiani,-,-,-,-
+5,Kotalipara,Kotalipara,9,9,1240
+6,Muksudpur,Musudpur,9,15,4312
+7,Tungipara,Tungipara,9,13,1754
+8,Total,,36,84,18906

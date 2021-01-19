@@ -1,16 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of technical and vocational institution, teacher and student 2011",,,,,,,,
-1,"
-Upazila","
-Institution",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students per
-teacher"
-2,"
-Upazila","
-Institution",Male,Female,Total,Male,Female,Total,"Students per
-teacher"
-3,Akkelpur,1,4,2,6,43,24,67,11
-4,Joypurhat sadar,4,23,9,32,333,249,582,18
-5,Kalai,0,0,0,0,0,0,0,0
-6,Khetlal,1,9,5,14,158,12,170,12
-7,Panchbibi,1,14,2,16,150,23,173,11
-8,Total,7,50,18,68,684,308,992,15
+1,,,,,,,,,
+2, Upazila, Institution,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila, Institution,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Akkelpur,1,4,2,6,43,24,67,11
+5,Joypurhat sadar,4,23,9,32,333,249,582,18
+6,Kalai,0,0,0,0,0,0,0,0
+7,Khetlal,1,9,5,14,158,12,170,12
+8,Panchbibi,1,14,2,16,150,23,173,11
+9,Total,7,50,18,68,684,308,992,15

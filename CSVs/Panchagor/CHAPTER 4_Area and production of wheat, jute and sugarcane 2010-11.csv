@@ -1,13 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of wheat, jute and sugarcane 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Wheat,Wheat,Jute,Jute,Sugarcane,Sugarcane
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Atwari,9653,6911,3752,2570,2210,26.85
-5,Boda,6190,8251,4950,3524,2210,22100
-6,Debiganj,7900,4740,6900,5623,53,656
-7,Panchagarh Sadar,15104,21525,4190,2542,2936,27440
-8,Tentulia,3795,4269,2473,15456,4370,26897
-9,Total,42642,45696,22265,29715,11779,77119.85
+2,Upazila,Wheat Area,Wheat Production,Jute Area,Jute Production,Sugarcane Area,Sugarcane Production
+3,Atwari,9653,6911,3752,2570,2210,26.85
+4,Boda,6190,8251,4950,3524,2210,22100
+5,Debiganj,7900,4740,6900,5623,53,656
+6,Panchagarh Sadar,15104,21525,4190,2542,2936,27440
+7,Tentulia,3795,4269,2473,15456,4370,26897
+8,Total,42642,45696,22265,29715,11779,77119.85

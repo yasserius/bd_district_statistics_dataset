@@ -1,11 +1,10 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of NGO school, teacher and student 2011",,,,,,,,
-1,"
-Upazila",Number of NGO school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of NGO school,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Alamdanga,63,0,63,63,816,1224,2040,32
-4,Chuadanga Sadar,10,0,10,10,98,212,310,31
-5,Damurhuda,110,0,111,111,1374,2080,3454,31
-6,Jibonnagar,25,0,25,25,350,400,750,30
-7,Total,208,0,209,209,2638,3916,6554,31
+1,,,,,,,,,
+2, Upazila,Number of NGO school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of NGO school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Alamdanga,63,0,63,63,816,1224,2040,32
+5,Chuadanga Sadar,10,0,10,10,98,212,310,31
+6,Damurhuda,110,0,111,111,1374,2080,3454,31
+7,Jibonnagar,25,0,25,25,350,400,750,30
+8,Total,208,0,209,209,2638,3916,6554,31

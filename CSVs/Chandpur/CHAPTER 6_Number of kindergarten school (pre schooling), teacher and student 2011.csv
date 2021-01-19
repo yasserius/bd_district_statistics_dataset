@@ -1,19 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kindergarten school (pre schooling), teacher and student 2011",,,,,,,,
-1,"
-Upazila","Number of kindergarten
-school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students per
-teacher"
-2,"
-Upazila","Number of kindergarten
-school",Male,Female,Total,Male,Female,Total,"Students per
-teacher"
-3,Chandpur Sadar,40,68,92,160,925,1095,2020,13
-4,Foridganj,56,373,186,559,4723,5076,9799,18
-5,Haimchar,4,18,23,41,454,533,987,24
-6,Hajiganj,51,56,250,306,2756,5600,8356,27
-7,Kachua,49,192,216,408,2512,1890,4402,11
-8,Matlab Dakshin,27,75,65,140,716,710,1426,10
-9,Matlab Uttar,50,70,280,350,1661,1459,3120,9
-10,Shahrasti,57,175,267,442,2547,2363,4910,11
-11,Total,334,1027,1379,2406,16294,18726,35020,15
+1,,,,,,,,,
+2, Upazila,Number of kindergarten school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of kindergarten school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Chandpur Sadar,40,68,92,160,925,1095,2020,13
+5,Foridganj,56,373,186,559,4723,5076,9799,18
+6,Haimchar,4,18,23,41,454,533,987,24
+7,Hajiganj,51,56,250,306,2756,5600,8356,27
+8,Kachua,49,192,216,408,2512,1890,4402,11
+9,Matlab Dakshin,27,75,65,140,716,710,1426,10
+10,Matlab Uttar,50,70,280,350,1661,1459,3120,9
+11,Shahrasti,57,175,267,442,2547,2363,4910,11
+12,Total,334,1027,1379,2406,16294,18726,35020,15

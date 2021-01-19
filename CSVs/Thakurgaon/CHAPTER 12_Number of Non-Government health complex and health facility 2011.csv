@@ -1,27 +1,10 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Non-Government health complex and health facility 2011,,,,,,,,,,
-1,"
-
-Upazila","Number of  hospital/ clinic/ nursing
-home",Number of bed,Number of  doctor,Number of nurse,Number of technician,"Number of
-other staff","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility","Number of patient
-under health facility"
-2,"
-
-Upazila","Number of  hospital/ clinic/ nursing
-home",Number of bed,Number of  doctor,Number of nurse,Number of technician,"Number of
-other staff",Indoor,Indoor,Outdoor,Outdoor
-3,"
-
-Upazila","Number of  hospital/ clinic/ nursing
-home",Number of bed,Number of  doctor,Number of nurse,Number of technician,"Number of
-other staff",Male,Female,Male,Female
-4,Baliadangi,1,16,5,3,1,6,0,0,0,0
-5,Haripur,0,0,0,0,0,0,0,0,0,0
-6,Pirgonj,2,26,0,6,2,11,1000,330,0,0
-7,Ranisankail,3,30,2,2,5,15,0,0,0,0
-8,Thakurgaon Sadar,11,132,13,32,32,56,2240,2800,8400,5600
-9,Total,17,204,20,43,40,88,3240,3130,8400,5600
+1,,,,,,,,,,,
+2,Upazila,Number of hospital/ clinic/ nursing home,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff,Number of patient under health facility Indoor Male,Number of patient under health facility Indoor Female,Number of patient under health facility Outdoor Male,Number of patient under health facility Outdoor Female
+3,Baliadangi,1,16,5,3,1,6,0,0,0,0
+4,Haripur,0,0,0,0,0,0,0,0,0,0
+5,Pirgonj,2,26,0,6,2,11,1000,330,0,0
+6,Ranisankail,3,30,2,2,5,15,0,0,0,0
+7,Thakurgaon Sadar,11,132,13,32,32,56,2240,2800,8400,5600
+8,Total,17,204,20,43,40,88,3240,3130,8400,5600

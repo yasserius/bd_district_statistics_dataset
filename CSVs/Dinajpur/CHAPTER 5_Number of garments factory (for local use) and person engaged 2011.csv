@@ -1,22 +1,19 @@
 ,0,1,2,3,4
 0,Number of garments factory (for local use) and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Male,Female,Total
-3,Biral,0,0,0,0
-4,Birampur,0,0,0,0
-5,Birganj,0,0,0,0
-6,Bochaganj,0,0,0,0
-7,Chirirbandar,0,0,0,0
-8,Dinajpur Sadar,0,0,0,0
-9,Fulbari,8,36,12,48
-10,Ghoraghat,0,0,0,0
-11,Hakimpur,0,0,0,0
-12,Kaharole,0,0,0,0
-13,Khansama,0,0,0,0
-14,Nawabganj,0,0,0,0
-15,Parbatipur,0,0,0,0
-16,Total,8,36,12,48
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Male,Female,Total
+4,Biral,0,0,0,0
+5,Birampur,0,0,0,0
+6,Birganj,0,0,0,0
+7,Bochaganj,0,0,0,0
+8,Chirirbandar,0,0,0,0
+9,Dinajpur Sadar,0,0,0,0
+10,Fulbari,8,36,12,48
+11,Ghoraghat,0,0,0,0
+12,Hakimpur,0,0,0,0
+13,Kaharole,0,0,0,0
+14,Khansama,0,0,0,0
+15,Nawabganj,0,0,0,0
+16,Parbatipur,0,0,0,0
+17,Total,8,36,12,48

@@ -1,13 +1,10 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization 2008,,,,,
-1,Upazila,"Operated
-area","Permanent
-cropped area","Temporary
-cropped area","Permanent
-fallow area",Others
-2,Akkelpur,35134,338,29459,91,5337
-3,Joypurhat sadar,61388,656,51503,96,9229
-4,Kalai,39771,216,34260,91,5295
-5,Khetlal,34666,248,29864,131,4554
-6,Panchbibi,67382,891,57883,188,8608
-7,Total,238341,2349,202969,597,28253
+1,,,,,,
+2,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
+3,Akkelpur,35134,338,29459,91,5337
+4,Joypurhat sadar,61388,656,51503,96,9229
+5,Kalai,39771,216,34260,91,5295
+6,Khetlal,34666,248,29864,131,4554
+7,Panchbibi,67382,891,57883,188,8608
+8,Total,238341,2349,202969,597,28253

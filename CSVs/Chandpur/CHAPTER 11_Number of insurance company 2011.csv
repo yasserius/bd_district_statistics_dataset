@@ -1,13 +1,13 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,Upazila,"Number of insurance
-company",Number of employee,Number of client
-2,Chandpur Sadar,18,388,37998
-3,Foridganj,7,91,7569
-4,Haimchar,9,63,6614
-5,Hajiganj,15,126,58136
-6,Kachua,19,1661,73663
-7,Matlab Dakshin,4,120,2189
-8,Matlab Uttar,10,120,15000
-9,Shahrasti,14,118,52600
-10,Total,96,2687,253769
+1,,,,
+2,Upazila,Number of insurance company,Number of employee,Number of client
+3,Chandpur Sadar,18,388,37998
+4,Foridganj,7,91,7569
+5,Haimchar,9,63,6614
+6,Hajiganj,15,126,58136
+7,Kachua,19,1661,73663
+8,Matlab Dakshin,4,120,2189
+9,Matlab Uttar,10,120,15000
+10,Shahrasti,14,118,52600
+11,Total,96,2687,253769

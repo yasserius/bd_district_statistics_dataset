@@ -1,15 +1,14 @@
 ,0,1,2,3,4,5
 0,Average rate of vehicle per kilo meter 2011,,,,,
-1,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
-2,"
-Upazila",Vehicle,Vehicle,Vehicle,Vehicle,Vehicle
-3,"
-Upazila",Rickshaw,Rickshaw van,Easy bike,Auto rickshaw,Tempo
-4,Fulchhari,5,5,5,5,5
-5,Gaibandha Sadar,5,5,5,5,5
-6,Gobindaganj,5,6,5,5,5
-7,Palashbari,5,5,5,5,5
-8,Sadullapur,5,4,5,5,5
-9,Saghata,5,5,5,5,5
-10,Sundarganj,5,5,5,5,5
-11,Average,5,5,5,5,5
+1,,,,,,
+2,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
+3, Upazila,Vehicle,Vehicle,Vehicle,Vehicle,Vehicle
+4, Upazila,Rickshaw,Rickshaw van,Easy bike,Auto rickshaw,Tempo
+5,Fulchhari,5,5,5,5,5
+6,Gaibandha Sadar,5,5,5,5,5
+7,Gobindaganj,5,6,5,5,5
+8,Palashbari,5,5,5,5,5
+9,Sadullapur,5,4,5,5,5
+10,Saghata,5,5,5,5,5
+11,Sundarganj,5,5,5,5,5
+12,Average,5,5,5,5,5

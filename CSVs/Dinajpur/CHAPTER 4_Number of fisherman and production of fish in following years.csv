@@ -1,21 +1,20 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
-2,"
-Upazila",2010-11,2010-11,2009-10,2009-10
-3,"
-Upazila",Number,Production,Number,Production
-4,Biral,225,1976,184,1882
-5,Birampur,260,33,225,28
-6,Birganj,430,3506,430,3354
-7,Bochaganj,1837,2484,2756,2687
-8,Chirirbandar,4500,3471,5635,3493
-9,Dinajpur Sadar,882,18,850,17
-10,Fulbari,165,1350,160,1200
-11,Ghoraghat,320,971,280,943
-12,Hakimpur,180,266,170,269
-13,Kaharole,529,2098,620,2042
-14,Khansama,867,2290,771,2286
-15,Nawabganj,1050,2300,1105,2000
-16,Parbatipur,350,4500,200,3799
-17,Total,11595,25262,13386,24000
+1,,,,,
+2,(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton),(Production in metric ton)
+3, Upazila,2010-11,2010-11,2009-10,2009-10
+4, Upazila,Number,Production,Number,Production
+5,Biral,225,1976,184,1882
+6,Birampur,260,33,225,28
+7,Birganj,430,3506,430,3354
+8,Bochaganj,1837,2484,2756,2687
+9,Chirirbandar,4500,3471,5635,3493
+10,Dinajpur Sadar,882,18,850,17
+11,Fulbari,165,1350,160,1200
+12,Ghoraghat,320,971,280,943
+13,Hakimpur,180,266,170,269
+14,Kaharole,529,2098,620,2042
+15,Khansama,867,2290,771,2286
+16,Nawabganj,1050,2300,1105,2000
+17,Parbatipur,350,4500,200,3799
+18,Total,11595,25262,13386,24000

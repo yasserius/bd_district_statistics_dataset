@@ -1,22 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9
 0,Number of small scale and cottage industry 2011,,,,,,,,,
-1,"
-Upazila",Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry
-2,"
-Upazila","Weaving/
-handloom",Handy,"Husking
-crafts mill","Goor
-processing","Biri
-factory","Salt
-processing","Dry fish
-processing",Pottery,Others
-3,Begumganj,0,60,1500,0,1,1,0,32,60
-4,Chatkhil,0,145,0,0,1,0,0,37,0
-5,Companiganj,0,0,260,0,1,0,0,0,0
-6,Hatiya,0,0,93,0,0,0,0,39,201
-7,Kabirhat,0,0,1455,0,1,0,0,11,0
-8,Noakhali Sadar,20,17,783,0,0,0,0,24,0
-9,Senbagh,0,0,0,0,0,0,0,0,0
-10,Sonaimuri,0,0,1968,0,0,0,0,0,67
-11,Subarnachar,0,134,116,0,0,0,0,27,0
-12,Total,20,356,6175,0,4,1,0,170,328
+1,,,,,,,,,,
+2, Upazila,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry,Small scale and cottage industry
+3, Upazila,Weaving/ handloom,Handy,Husking crafts mill,Goor processing,Biri factory,Salt processing,Dry fish processing,Pottery,Others
+4,Begumganj,0,60,1500,0,1,1,0,32,60
+5,Chatkhil,0,145,0,0,1,0,0,37,0
+6,Companiganj,0,0,260,0,1,0,0,0,0
+7,Hatiya,0,0,93,0,0,0,0,39,201
+8,Kabirhat,0,0,1455,0,1,0,0,11,0
+9,Noakhali Sadar,20,17,783,0,0,0,0,24,0
+10,Senbagh,0,0,0,0,0,0,0,0,0
+11,Sonaimuri,0,0,1968,0,0,0,0,0,67
+12,Subarnachar,0,134,116,0,0,0,0,27,0
+13,Total,20,356,6175,0,4,1,0,170,328

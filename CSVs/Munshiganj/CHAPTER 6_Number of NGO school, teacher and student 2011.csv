@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of NGO school, teacher and student 2011",,,,,,,,
-1,"
-Upaz ila",Number of NGO school,Number of teacher,Number of student,"Students per
-teacher",,,,
-2,"
-Upaz ila",Number of NGO school,Male    l Female  I	Total,Male	I Female I Total,"Students per
-teacher",,,,
+1,,,,,,,,,
+2,Upaz ila,Number of NGO school,Number of teacher Male l Female ITotal,Number of student MaleI Female I Total,Students per teacher,,,,
 3,Gazaria,23,17,40,57,211,298,509,08
 4,Lauhajang,,0,5,5,118,117,235,47
 5,Munshiganj Sadar,0,0,0,0,0,0,0,0

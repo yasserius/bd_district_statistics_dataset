@@ -1,12 +1,12 @@
 ,0,1,2,3,4,5
 0,Existing position of Government employee by category 2011,,,,,
-1,Upazila,Class-I,Class-II,Class-III,Class-IV,"Number of
-employee"
-2,Assasuni,18,31,262,90,401
-3,Debhata,27,17,168,94,306
-4,Kalaroa,89,16,729,99,911
-5,Kaliganj,26,35,808,113,992
-6,Satkhira Sadar,82,53,1589,115,1839
-7,Shyamnagar,29,45,1222,98,1394
-8,Tala,26,18,307,125,476
-9,Total,297,215,5085,734,6319
+1,,,,,,
+2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
+3,Assasuni,18,31,262,90,401
+4,Debhata,27,17,168,94,306
+5,Kalaroa,89,16,729,99,911
+6,Kaliganj,26,35,808,113,992
+7,Satkhira Sadar,82,53,1589,115,1839
+8,Shyamnagar,29,45,1222,98,1394
+9,Tala,26,18,307,125,476
+10,Total,297,215,5085,734,6319

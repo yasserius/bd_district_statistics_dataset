@@ -1,23 +1,16 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting selected livestock species 2008,,,,,,
-1,"
-Upazila",Cow & buffalo,Cow & buffalo,Goat,Goat,Sheep,Sheep
-2,"
-Upazila","Holding
-number","Number
-of animal","Holding
-number","Number
-of goat","Holding
-number","Number
-of sheep"
-3,Atpara,13534,34162,4492,10133,157,584
-4,Barhatta,15800,39789,5346,12281,81,397
-5,Durgapur,21673,55009,10939,24857,113,532
-6,Kalmakanda,23487,60824,10032,23559,440,1729
-7,Kendua,30277,72278,7517,16805,173,944
-8,Khaliajuri,7930,30267,519,1261,239,844
-9,Madan,12900,37072,3115,7867,179,717
-10,Mohanganj,12810,40883,3519,7862,164,656
-11,Netrokona Sadar,28085,67722,11095,26068,136,723
-12,Purbadhala,30639,71673,14083,31942,189,1129
-13,Total,197135,509679,70657,162635,1871,8255
+1,,,,,,,
+2, Upazila,Cow & buffalo,Cow & buffalo,Goat,Goat,Sheep,Sheep
+3, Upazila,Holding number,Number of animal,Holding number,Number of goat,Holding number,Number of sheep
+4,Atpara,13534,34162,4492,10133,157,584
+5,Barhatta,15800,39789,5346,12281,81,397
+6,Durgapur,21673,55009,10939,24857,113,532
+7,Kalmakanda,23487,60824,10032,23559,440,1729
+8,Kendua,30277,72278,7517,16805,173,944
+9,Khaliajuri,7930,30267,519,1261,239,844
+10,Madan,12900,37072,3115,7867,179,717
+11,Mohanganj,12810,40883,3519,7862,164,656
+12,Netrokona Sadar,28085,67722,11095,26068,136,723
+13,Purbadhala,30639,71673,14083,31942,189,1129
+14,Total,197135,509679,70657,162635,1871,8255

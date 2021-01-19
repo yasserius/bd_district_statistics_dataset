@@ -1,20 +1,21 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,Upazila/City corporation,Current fallow,Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Productivity of crop
-2,Upazila/City corporation,Current fallow,Single,Double,Triple,Net,Gross,Productivity of crop
-3,Anowara,126,3151,7279,3866,14296,29307,205
-4,Banshkhali,208,12574,6974,5287,24835,42383,171
-5,Boalkhali,100,2497,3476,1028,7001,11533,165
-6,Chandanaish,135,6307,5464,1507,13278,21756,164
-7,Chittagong City Corp.,887,7901,4486,1394,13781,21055,163
-8,Fatikchhari,460,21296,13444,4940,39680,63004,159
-9,Hathazari,143,10986,3927,1208,16121,22464,139
-10,Lohagara,90,12749,1867,2415,17031,23728,139
-11,Mirsharai,420,6484,22344,3070,31898,60382,189
-12,Rangunia,235,10295,6855,2738,19888,32219,162
-13,Raozan,322,17560,7744,2095,27399,39333,144
-14,Sandwip,137,13300,6033,2952,22285,34222,154
-15,Satkania,398,13148,4149,3004,20301,30458,150
-16,Sitakunda,274,12879,9454,2230,24563,38477,157
-17,sPatiya,88,2159,4461,5074,11694,26303,225
-18,Total,4023,153286,269079,42808,304051,496624,163
+1,,,,,,,,
+2,Upazila/City corporation,Current fallow,Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Productivity of crop
+3,Upazila/City corporation,Current fallow,Single,Double,Triple,Net,Gross,Productivity of crop
+4,Anowara,126,3151,7279,3866,14296,29307,205
+5,Banshkhali,208,12574,6974,5287,24835,42383,171
+6,Boalkhali,100,2497,3476,1028,7001,11533,165
+7,Chandanaish,135,6307,5464,1507,13278,21756,164
+8,Chittagong City Corp.,887,7901,4486,1394,13781,21055,163
+9,Fatikchhari,460,21296,13444,4940,39680,63004,159
+10,Hathazari,143,10986,3927,1208,16121,22464,139
+11,Lohagara,90,12749,1867,2415,17031,23728,139
+12,Mirsharai,420,6484,22344,3070,31898,60382,189
+13,Rangunia,235,10295,6855,2738,19888,32219,162
+14,Raozan,322,17560,7744,2095,27399,39333,144
+15,Sandwip,137,13300,6033,2952,22285,34222,154
+16,Satkania,398,13148,4149,3004,20301,30458,150
+17,Sitakunda,274,12879,9454,2230,24563,38477,157
+18,sPatiya,88,2159,4461,5074,11694,26303,225
+19,Total,4023,153286,269079,42808,304051,496624,163

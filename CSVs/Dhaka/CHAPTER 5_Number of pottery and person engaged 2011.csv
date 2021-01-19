@@ -1,15 +1,12 @@
 ,0,1,2,3,4
 0,Number of pottery and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Dhaka Metropolitan,0,0,0,0
-4,Dhamrai,70,280,30,310
-5,Dohar,40,120,20,140
-6,Keraniganj,0,0,0,0
-7,Nawabganj,65,210,115,325
-8,Savar,45,180,135,315
-9,Total,220,790,300,1090
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Dhaka Metropolitan,0,0,0,0
+5,Dhamrai,70,280,30,310
+6,Dohar,40,120,20,140
+7,Keraniganj,0,0,0,0
+8,Nawabganj,65,210,115,325
+9,Savar,45,180,135,315
+10,Total,220,790,300,1090

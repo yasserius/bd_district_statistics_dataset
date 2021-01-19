@@ -1,22 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Selected poultry, birds 2008",,,,,,
-1,"
-Upazila",Hen and cock,Hen and cock,Duck,Duck,Others,Others
-2,"
-Upazila","Holding
-reporting","Total
-number","Holding
-reporting","Total
-number","Holding
-reporting","Total
-number"
-3,Alfadanga,6200,91050,3400,19400,2030,10035
-4,Bhanga,33385,219483,17417,70089,250,1500
-5,Boalmari,27500,30820,12300,36900,7,375
-6,Charbhadrashon,7953,95818,5355,27913,255,2550
-7,Faridpur Sadar,36309,395837,41033,64174,12,4855
-8,Madhukhali,18650,422411,1130,18480,100,2105
-9,Nagarkanda,24312,66578,2105,3905,0,0
-10,Sadarpur,30000,154400,520,26500,450,9000
-11,Saltha,10949,21340,1934,2782,0,0
-12,Total,195258,1497737,85194,270143,3104,30420
+1,,,,,,,
+2, Upazila,Hen and cock,Hen and cock,Duck,Duck,Others,Others
+3, Upazila,Holding reporting,Total number,Holding reporting,Total number,Holding reporting,Total number
+4,Alfadanga,6200,91050,3400,19400,2030,10035
+5,Bhanga,33385,219483,17417,70089,250,1500
+6,Boalmari,27500,30820,12300,36900,7,375
+7,Charbhadrashon,7953,95818,5355,27913,255,2550
+8,Faridpur Sadar,36309,395837,41033,64174,12,4855
+9,Madhukhali,18650,422411,1130,18480,100,2105
+10,Nagarkanda,24312,66578,2105,3905,0,0
+11,Sadarpur,30000,154400,520,26500,450,9000
+12,Saltha,10949,21340,1934,2782,0,0
+13,Total,195258,1497737,85194,270143,3104,30420

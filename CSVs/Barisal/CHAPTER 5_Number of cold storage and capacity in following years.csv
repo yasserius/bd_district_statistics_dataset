@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of cold storage and capacity in following years,,,,
-1,"
-Upazila/city corporation",2010-11,2010-11,2009-10,2009-10
-2,"
-Upazila/city corporation",Number,"Installed
-capacity",Number,"Installed
-capacity"
+1,,,,,
+2,Upazila/city corporation,2010-11 Number,2010-11 Installed capacity,2009-10 Number,2009-10 Installed capacity
 3,Agailjhara,0,0,0,0
 4,Babuganj,0,0,0,0
 5,Bakerganj,0,0,0,0

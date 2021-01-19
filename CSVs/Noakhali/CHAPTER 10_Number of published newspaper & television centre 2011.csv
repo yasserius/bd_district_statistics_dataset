@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of published newspaper & television centre 2011,,,,
-1,Municipality,Daily newspaper,Weekly newspaper,Magazine,Television centre
-2,Begumganj,3,1,1,0
-3,Chatkhil,1,0,0,0
-4,Companiganj,0,0,0,0
-5,Hatiya,0,4,0,0
-6,Kabirhat,0,0,0,0
-7,Noakhali,5,3,0,0
-8,Senbagh,0,0,0,0
-9,Sonaimuri,0,0,0,0
-10,Total,9,8,1,0
+1,,,,,
+2,Municipality,Daily newspaper,Weekly newspaper,Magazine,Television centre
+3,Begumganj,3,1,1,0
+4,Chatkhil,1,0,0,0
+5,Companiganj,0,0,0,0
+6,Hatiya,0,4,0,0
+7,Kabirhat,0,0,0,0
+8,Noakhali,5,3,0,0
+9,Senbagh,0,0,0,0
+10,Sonaimuri,0,0,0,0
+11,Total,9,8,1,0

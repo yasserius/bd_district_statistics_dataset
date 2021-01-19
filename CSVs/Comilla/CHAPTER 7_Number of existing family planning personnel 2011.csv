@@ -1,21 +1,21 @@
 ,0,1,2,3,4,5,6,7
 0,Number of existing family planning personnel 2011,,,,,,,
-1,Upazila,TFPO,MO,FPI,TFPA,FWV,FWA,"Midwife or
-SBA"
-2,Adarsha Sadar,1,1,6,3,9,40,35
-3,Brahmanpara,1,1,8,3,8,44,0
-4,Burichang,1,1,7,3,10,44,0
-5,Chandina,1,1,6,3,10,63,6
-6,Comilla Sadar Dakshin,1,1,9,3,12,65,3
-7,Daudkandi,1,1,12,2,14,66,1
-8,Debidwar,1,0,5,2,15,69,0
-9,Homna,1,1,4,2,5,37,0
-10,Monoharganj,1,0,6,1,6,40,0
-11,Meghna,1,0,6,2,3,22,0
-12,Muradnagar,1,1,17,3,16,106,0
-13,Titas,1,1,4,3,6,32,9
-14,Barura,1,1,11,2,16,76,0
-15,Laksam,1,1,6,3,7,38,7
-16,Chauddagram,1,2,14,1,14,13,14
-17,Nangalkot,0,1,9,2,5,54,0
-18,Total,15,14,130,38,156,809,75
+1,,,,,,,,
+2,Upazila,TFPO,MO,FPI,TFPA,FWV,FWA,Midwife or SBA
+3,Adarsha Sadar,1,1,6,3,9,40,35
+4,Brahmanpara,1,1,8,3,8,44,0
+5,Burichang,1,1,7,3,10,44,0
+6,Chandina,1,1,6,3,10,63,6
+7,Comilla Sadar Dakshin,1,1,9,3,12,65,3
+8,Daudkandi,1,1,12,2,14,66,1
+9,Debidwar,1,0,5,2,15,69,0
+10,Homna,1,1,4,2,5,37,0
+11,Monoharganj,1,0,6,1,6,40,0
+12,Meghna,1,0,6,2,3,22,0
+13,Muradnagar,1,1,17,3,16,106,0
+14,Titas,1,1,4,3,6,32,9
+15,Barura,1,1,11,2,16,76,0
+16,Laksam,1,1,6,3,7,38,7
+17,Chauddagram,1,2,14,1,14,13,14
+18,Nangalkot,0,1,9,2,5,54,0
+19,Total,15,14,130,38,156,809,75

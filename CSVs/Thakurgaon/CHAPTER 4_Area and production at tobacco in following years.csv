@@ -1,13 +1,10 @@
 ,0,1,2,3,4
 0,Area and production at tobacco in following years,,,,
 1,(Area in acre and production in metric ton),,,,
-2,"
-Upazila",2010-11,2010-11,2009-10,2009-10
-3,"
-Upazila",Area,Production,Area,Production
-4,Baliadangi,0,0,0,0
-5,Haripur,0,0,0,0
-6,Pirgonj,5,2,5,2
-7,Ranisankail,0,0,0,0
-8,Thakurgaon Sadar,0,0,0,0
-9,Total,5,2,5,2
+2,Upazila,2010-11 Area,2010-11 Production,2009-10 Area,2009-10 Production
+3,Baliadangi,0,0,0,0
+4,Haripur,0,0,0,0
+5,Pirgonj,5,2,5,2
+6,Ranisankail,0,0,0,0
+7,Thakurgaon Sadar,0,0,0,0
+8,Total,5,2,5,2

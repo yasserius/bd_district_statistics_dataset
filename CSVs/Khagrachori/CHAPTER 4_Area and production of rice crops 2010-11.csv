@@ -1,16 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2010-11,,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Aus,Aus,Aman,Aman,Boro,Boro
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Dighinala,1266,932,12160,15945,4444,5836
-5,Khagrachhari Sadar,325,121.98,11485,13213.15,3570,6311.19
-6,Laxshmichhari,49.45,45.68,5589,6807.854,2010.59,2221.94
-7,Mahalchhari,1140,838,6990,8129,3850,6222
-8,Manikchhari,525,662,9372,9748,2485,3260
-9,Matiranga,1856,1420,11641,13078,4294,6331
-10,Panchhari,1119,1087,9848,12565,3247,6112
-11,Ramgarh,444,334,6948,7572,2663,3787
-12,Total,6724.45,5440.66,74033,870584,26563.59,40081.13
+2,Upazila,Aus Area,Aus Production,Aman Area,Aman Production,Boro Area,Boro Production
+3,Dighinala,1266,932,12160,15945,4444,5836
+4,Khagrachhari Sadar,325,121.98,11485,13213.15,3570,6311.19
+5,Laxshmichhari,49.45,45.68,5589,6807.854,2010.59,2221.94
+6,Mahalchhari,1140,838,6990,8129,3850,6222
+7,Manikchhari,525,662,9372,9748,2485,3260
+8,Matiranga,1856,1420,11641,13078,4294,6331
+9,Panchhari,1119,1087,9848,12565,3247,6112
+10,Ramgarh,444,334,6948,7572,2663,3787
+11,Total,6724.45,5440.66,74033,870584,26563.59,40081.13

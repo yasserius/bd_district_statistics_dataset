@@ -1,21 +1,22 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
-1,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
-2,Upazila/City corporation,Labour,Labour,Labour
-3,Upazila/City corporation,Male,Female,Child (under 15 years old)
-4,Anowara,500,300,400
-5,Banshkhali,500,200,400
-6,Boalkhali,450,300,400
-7,Chandanaish,400,250,400
-8,Chittagong City Corp.,500,400,450
-9,Fatikchhari,500,250,400
-10,Hathazari,500,300,500
-11,Lohagara,500,300,400
-12,Mirsharai,500,300,500
-13,Patiya,450,350,430
-14,Rangunia,450,250,500
-15,Raozan,500,250,450
-16,Sandwip,550,250,300
-17,Satkania,500,400,500
-18,Sitakunda,400,300,400
-19,Average,480,290,428
+1,,,,
+2,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
+3,Upazila/City corporation,Labour,Labour,Labour
+4,Upazila/City corporation,Male,Female,Child (under 15 years old)
+5,Anowara,500,300,400
+6,Banshkhali,500,200,400
+7,Boalkhali,450,300,400
+8,Chandanaish,400,250,400
+9,Chittagong City Corp.,500,400,450
+10,Fatikchhari,500,250,400
+11,Hathazari,500,300,500
+12,Lohagara,500,300,400
+13,Mirsharai,500,300,500
+14,Patiya,450,350,430
+15,Rangunia,450,250,500
+16,Raozan,500,250,450
+17,Sandwip,550,250,300
+18,Satkania,500,400,500
+19,Sitakunda,400,300,400
+20,Average,480,290,428

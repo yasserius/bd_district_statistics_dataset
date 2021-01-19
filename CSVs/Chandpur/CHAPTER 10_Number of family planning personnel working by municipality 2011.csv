@@ -1,15 +1,13 @@
 ,0,1,2,3,4,5
 0,Number of family planning personnel working by municipality 2011,,,,,
-1,"
-Municipality","
-Doctors",Family planning inspector,Family planning assistants,Family planning visitor,"Midwives/ birth
-attendant (Dais)"
-2,Chandpur Sadar,0,0,0,6,4
-3,Foridganj,0,0,0,4,2
-4,Haimchar,0,0,0,0,0
-5,Hajiganj,1,1,6,3,0
-6,Kachua,1,1,2,0,0
-7,Matlab Dakshin,0,2,14,2,12
-8,Matlab Uttar,1,1,0,1,1
-9,Shahrasti,1,2,3,10,0
-10,Total,4,7,25,26,19
+1,,,,,,
+2, Municipality, Doctors,Family planning inspector,Family planning assistants,Family planning visitor,Midwives/ birth attendant (Dais)
+3,Chandpur Sadar,0,0,0,6,4
+4,Foridganj,0,0,0,4,2
+5,Haimchar,0,0,0,0,0
+6,Hajiganj,1,1,6,3,0
+7,Kachua,1,1,2,0,0
+8,Matlab Dakshin,0,2,14,2,12
+9,Matlab Uttar,1,1,0,1,1
+10,Shahrasti,1,2,3,10,0
+11,Total,4,7,25,26,19

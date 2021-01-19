@@ -1,16 +1,13 @@
 ,0,1,2,3,4
 0,Number of printing press and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Daulotpur,0,0,0,0
-4,Gheor,0,0,0,0
-5,Horirampur,1,1,4,5
-6,Manikganj Sadar,7,9,26,35
-7,Saturia,5,5,15,20
-8,Shibalaya,0,0,0,0
-9,Singair,0,0,0,0
-10,Total,13,15,45,60
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Daulotpur,0,0,0,0
+5,Gheor,0,0,0,0
+6,Horirampur,1,1,4,5
+7,Manikganj Sadar,7,9,26,35
+8,Saturia,5,5,15,20
+9,Shibalaya,0,0,0,0
+10,Singair,0,0,0,0
+11,Total,13,15,45,60

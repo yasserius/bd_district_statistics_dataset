@@ -1,19 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of filling station, fire brigade station, police station, camp, union land (tohsil) office, BOP (BGB camp), cyber cafe 2011",,,,,,,,
-1,"
-Upazila","
-Filling station",Fire brigade station,Police Station/ camp,"Union Land (Tohsil)
-office",Sub- registry office,"BOP (BGB
-camp)","
-ISP
-provider","
-Cyber cafe"
-2,Dighinala,6,0,3,0,0,1,0,0
-3,Khagrachhari Sadar,3,1,3,0,0,0,0,0
-4,Laxshmichhari,1,0,1,1,0,0,0,0
-5,Mahalchhari,0,0,10,1,0,0,5,0
-6,Manikchhari,0,0,2,0,1,0,0,0
-7,Matiranga,1,0,2,0,0,0,0,0
-8,Panchhari,0,0,1,0,0,2,0,0
-9,Ramgarh,0,1,74,0,1,9,1,1
-10,Total,11,2,96,2,2,12,6,1
+1,,,,,,,,,
+2,Upazila,Filling station,Fire brigade station,Police Station/ camp,Union Land (Tohsil) office,Sub- registry office,BOP (BGB camp),ISP provider,Cyber cafe
+3,Dighinala,6,0,3,0,0,1,0,0
+4,Khagrachhari Sadar,3,1,3,0,0,0,0,0
+5,Laxshmichhari,1,0,1,1,0,0,0,0
+6,Mahalchhari,0,0,10,1,0,0,5,0
+7,Manikchhari,0,0,2,0,1,0,0,0
+8,Matiranga,1,0,2,0,0,0,0,0
+9,Panchhari,0,0,1,0,0,2,0,0
+10,Ramgarh,0,1,74,0,1,9,1,1
+11,Total,11,2,96,2,2,12,6,1

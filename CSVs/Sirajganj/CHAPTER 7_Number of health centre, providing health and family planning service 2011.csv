@@ -1,18 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Number of health centre, providing health and family planning service 2011",,,,,,
-1,"
-Upazila","Number of
-union health centre","
-Sterilization","
-MR",Injection/ copper-T,Oral pill/ condom,"Number of
-immunization centre"
-2,Belkuchi,36,2140,78,10131,32986,160
-3,Chauhali,5,0,135,218,218999,168
-4,Kamarkhanda,4,125,58,14023,211435,96
-5,Kazipur,8,97,237,2857,43500,131
-6,Royganj,8,3960,180,13852,33464,216
-7,Shahjadpur,11,389,969,1162,9400,336
-8,Sirajganj Sadar,8,596,915,58102,891438,240
-9,Tarash,8,306,438,438,158454,192
-10,Ullahpara,11,487,264,74877,1103974,314
-11,Total,99,8100,3274,175660,2703650,1853
+1,,,,,,,
+2, Upazila,Number of union health centre, Sterilization, MR,Injection/ copper-T,Oral pill/ condom,Number of immunization centre
+3,Belkuchi,36,2140,78,10131,32986,160
+4,Chauhali,5,0,135,218,218999,168
+5,Kamarkhanda,4,125,58,14023,211435,96
+6,Kazipur,8,97,237,2857,43500,131
+7,Royganj,8,3960,180,13852,33464,216
+8,Shahjadpur,11,389,969,1162,9400,336
+9,Sirajganj Sadar,8,596,915,58102,891438,240
+10,Tarash,8,306,438,438,158454,192
+11,Ullahpara,11,487,264,74877,1103974,314
+12,Total,99,8100,3274,175660,2703650,1853

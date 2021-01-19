@@ -1,27 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Area and Production of papaya, guava, lime and lemon 2010-11",,,,,,
 1,(Area in acre & production in metric ton),,,,,,
-2,Upazila/city corporation,Papaya,Papaya,Guava,Guava,Lime and lemon,Lime and lemon
-3,Upazila/city corporation,Area,Production,Area,Production,Area,Production
-4,Batiaghata	32,65,23,320,65,70,
-5,Dacope	3,38,17,79,11,17,
-6,Dighalia	71,118,36,369,37,630,
-7,"Dumuria	42
-Khulna City
-Corporation	7","260
-
-23","14
-
-9","149
-
-36","15
-
-15","412
-
-58",
-8,Koyra	5,31,4,57,3,11,
-9,Paikgachha	15,1409,7,71,8,41,
-10,Phultala	16,115,16,137,12,262,
-11,Rupsa	20,46,31,241,48,324,
-12,Terokhada	40,100,47,145,23,67,
-13,Total	252,2205,204,1604,237,1891,
+2,Upazila/city corporation,Papaya Area,Papaya Production,Guava Area,Guava Production,Lime and lemon Area,Lime and lemon Production
+3,Batiaghata	32,65,23,320,65,70,
+4,Dacope	3,38,17,79,11,17,
+5,Dighalia	71,118,36,369,37,630,
+6,Dumuria	42 Khulna City Corporation	7,260  23,14  9,149  36,15  15,412  58,
+7,Koyra	5,31,4,57,3,11,
+8,Paikgachha	15,1409,7,71,8,41,
+9,Phultala	16,115,16,137,12,262,
+10,Rupsa	20,46,31,241,48,324,
+11,Terokhada	40,100,47,145,23,67,
+12,Total	252,2205,204,1604,237,1891,

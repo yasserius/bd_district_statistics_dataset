@@ -1,20 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pumpkin, parble (potol) and cabbage 2009-10",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Pumpkin,Pumpkin,Parble (potol),Parble (potol),Cabbage,Cabbage
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Bhaluka,185,427,20,22,71,240
-5,Dhobaura,233,606,0,0,105,326
-6,Fulbaria,17,48,17,48,31,162
-7,Gaffargaon,142,436,18,48,181,685
-8,Gauripur,18,0,5,0,62,232
-9,Haluaghat,89,205,0,0,130,783
-10,Ishwargonj,79,184,21,24,66,203
-11,Muktagacha,49,400,6,20,115,3050
-12,Mymensingh Sadar,105,478,39,53,62,227
-13,Nandail,59,84,70,140,64,193
-14,Phulpur,79,519,24,51,45,71
-15,Trishal,102,219,0,0,195,653
-16,Total,1157,3606,220,406,1127,6825
+2,Upazila,Pumpkin Area,Pumpkin Production,Parble (potol) Area,Parble (potol) Production,Cabbage Area,Cabbage Production
+3,Bhaluka,185,427,20,22,71,240
+4,Dhobaura,233,606,0,0,105,326
+5,Fulbaria,17,48,17,48,31,162
+6,Gaffargaon,142,436,18,48,181,685
+7,Gauripur,18,0,5,0,62,232
+8,Haluaghat,89,205,0,0,130,783
+9,Ishwargonj,79,184,21,24,66,203
+10,Muktagacha,49,400,6,20,115,3050
+11,Mymensingh Sadar,105,478,39,53,62,227
+12,Nandail,59,84,70,140,64,193
+13,Phulpur,79,519,24,51,45,71
+14,Trishal,102,219,0,0,195,653
+15,Total,1157,3606,220,406,1127,6825

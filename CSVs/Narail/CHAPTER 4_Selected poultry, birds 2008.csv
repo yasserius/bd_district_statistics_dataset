@@ -1,16 +1,9 @@
 ,0,1,2,3,4,5,6
 0,"Selected poultry, birds 2008",,,,,,
-1,"
-Upazila",Hen and cock,Hen and cock,Duck,Duck,Others,Others
-2,"
-Upazila","Holding
-reporting","Total
-number","Holding
-reporting","Total
-number","Holding
-reporting","Total
-number"
-3,Kalia,26896,162748,16262,75825,122,776
-4,Lohagara,30529,209832,16080,68593,65,780
-5,Narail Sadar,33658,238564,23049,115630,820,3560
-6,Total,91083,611144,55391,260048,1007,5116
+1,,,,,,,
+2, Upazila,Hen and cock,Hen and cock,Duck,Duck,Others,Others
+3, Upazila,Holding reporting,Total number,Holding reporting,Total number,Holding reporting,Total number
+4,Kalia,26896,162748,16262,75825,122,776
+5,Lohagara,30529,209832,16080,68593,65,780
+6,Narail Sadar,33658,238564,23049,115630,820,3560
+7,Total,91083,611144,55391,260048,1007,5116

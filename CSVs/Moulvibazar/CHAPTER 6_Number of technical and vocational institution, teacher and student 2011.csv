@@ -1,18 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of technical and vocational institution, teacher and student 2011",,,,,,,,
-1,"
-Upazila","
-Institution",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students per
-teacher"
-2,"
-Upazila","
-Institution",Male,Female,Total,Male,Female,Total,"Students per
-teacher"
-3,Barlekha,1,7,2,9,169,73,242,27
-4,Juri,0,0,0,0,0,0,0,0
-5,Kamalganj,0,0,0,0,0,0,0,0
-6,Kulaura,4,10,2,12,80,40,120,10
-7,Moulvibazar Sadar,1,15,0,15,362,61,423,28
-8,Rajnagar,0,0,0,0,0,0,0,0
-9,Sreemangal,0,0,0,0,0,0,0,0
-10,Total,26,88,28,116,1746,1369,3115,27
+1,,,,,,,,,
+2, Upazila, Institution,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila, Institution,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Barlekha,1,7,2,9,169,73,242,27
+5,Juri,0,0,0,0,0,0,0,0
+6,Kamalganj,0,0,0,0,0,0,0,0
+7,Kulaura,4,10,2,12,80,40,120,10
+8,Moulvibazar Sadar,1,15,0,15,362,61,423,28
+9,Rajnagar,0,0,0,0,0,0,0,0
+10,Sreemangal,0,0,0,0,0,0,0,0
+11,Total,26,88,28,116,1746,1369,3115,27

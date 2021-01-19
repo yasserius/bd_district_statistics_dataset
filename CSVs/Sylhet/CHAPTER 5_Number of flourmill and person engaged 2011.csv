@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Number of flourmill and person engaged 2011,,,,
-1,Upazila/City corporation,"
-Units",Person engaged,Person engaged,Person engaged
-2,Upazila/City corporation,"
-Units",Family,Hired,Total
+1,,,,,
+2,Upazila/City corporation,Units,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Balaganj,32,24,60,64
 4,Beanibazar,7,10,15,25
 5,Bishwanath,12,15,17,32

@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Land utilization (temporary cropped area) 2008,,,,,,
-1,"
-Upazila",Current fallow,Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area
-2,"
-Upazila",Current fallow,Single,Double,Triple,Net,Gross
+1,,,,,,,
+2,Upazila,Current fallow,Temporary cropped area Single,Temporary cropped area Double,Temporary cropped area Triple,Temporary cropped area Net,Temporary cropped area Gross
 3,Dighinala,2550,12236,9976,4638,15935,46102
 4,Khagrachhari Sadar,100,8040,13875,356,12672,36858
 5,Laxshmichhari,320,1680,2030,1240,4737,9460

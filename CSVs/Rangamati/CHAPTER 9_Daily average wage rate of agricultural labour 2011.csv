@@ -1,19 +1,17 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
-1,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
-2,"
-Upazila",Labour,Labour,Labour
-3,"
-Upazila",Male,Female,"Child
-(under 15 years old)"
-4,Baghaichhari,350,200,0
-5,Barkal,300,250,0
-6,Belai Chhari,250,180,0
-7,Jurai Chhari,300,280,0
-8,Kaptai,300,220,0
-9,Kawkhali,300,200,0
-10,Langadu,300,200,0
-11,Naniarchar,255,165,0
-12,Rangamati Sadar,300,250,0
-13,Rajasthali,300,220,0
-14,Average,296,217,0
+1,,,,
+2,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
+3, Upazila,Labour,Labour,Labour
+4, Upazila,Male,Female,Child (under 15 years old)
+5,Baghaichhari,350,200,0
+6,Barkal,300,250,0
+7,Belai Chhari,250,180,0
+8,Jurai Chhari,300,280,0
+9,Kaptai,300,220,0
+10,Kawkhali,300,200,0
+11,Langadu,300,200,0
+12,Naniarchar,255,165,0
+13,Rangamati Sadar,300,250,0
+14,Rajasthali,300,220,0
+15,Average,296,217,0

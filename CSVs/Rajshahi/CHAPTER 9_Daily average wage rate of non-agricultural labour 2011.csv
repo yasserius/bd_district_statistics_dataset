@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5
 0,Daily average wage rate of non-agricultural labour 2011,,,,,
 1,(Wage in taka),,,,,
-2,"
-Upazila/city corporation","
-Porter (coolee)",Garden male labour,Garden female labour,"Other labour
-(adult)","Other labour
-(child)"
+2,Upazila/city corporation,Porter (coolee),Garden male labour,Garden female labour,Other labour (adult),Other labour (child)
 3,Bagha,200,250,0,200,120
 4,Baghmara,312,200,150,200,120
 5,Charghat,400,200,150,200,150

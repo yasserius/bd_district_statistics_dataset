@@ -1,13 +1,7 @@
 ,0,1,2,3,4,5
 0,Employment status in handloom industry 2011,,,,,
-1,"
-Upazila","
-Number of handloom",Person engaged,Person engaged,Person engaged,"
-Total"
-2,"
-Upazila","
-Number of handloom",Family members,Regular,Hired /Casual,"
-Total"
+1,,,,,,
+2,Upazila,Number of handloom,Person engaged Family members,Person engaged Regular,Person engaged Hired /Casual,Total
 3,Basail,1077,522,975,70,1567
 4,Bhuapur,196,15,191,25,231
 5,Delduar,4104,1268,3013,270,4551

@@ -1,26 +1,16 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institiution borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,"
-Upazila/city corporation",Number of branch of private commercial bank,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-Upazila/city corporation",Number of branch of private commercial bank,"Agriculture
-debt","Agriculture
-debt",Industry debt,Industry debt,Other debt,Other debt,"Number of
-borrower","Number of
-borrower","Total debt
-(crore)","Total debt
-(crore)"
-3,"
-Upazila/city corporation",Number of branch of private commercial bank,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Agailjhara,5,0,0,0,0,1042,447,1042,447,11,4
-5,Babuganj,2,0,0,0,0,95,14,95,14,1.5,0.32
-6,Bakerganj,8,0,0,0,0,136,8072,136,8072,0.16,8.51
-7,Banaripara,0,0,0,0,0,0,0,0,0,0,0
-8,Barisal city corporation,27,0,0,108,0,8154,126,8262,126,682.48,2.12
-9,Barisal sadar,0,0,0,0,0,0,0,0,0,0,0
-10,Gaurnadi,5,2277,2049,176,2,564,0,3017,2051,17.32,6.20
-11,Hizla,1,0,2134,0,0,0,3992,0,6126,0,11
-12,Mehendiganj,0,18000,700,105,1,2060,1015,20165,8016,40.81,15.25
-13,Muladi,5,0,2327,0,0,0,4655,0,6982,0,16.26
-14,Wazirpur,0,0,0,0,0,0,0,0,0,0,0
-15,Total,53,20277,7210,389,3,12051,18321,32717,31834,753.27,63.66
+1,,,,,,,,,,,,
+2,Upazila/city corporation,Number of branch of private commercial bank,Number of borrower Agriculture debt Male,Number of borrower Agriculture debt Female,Number of borrower Industry debt Male,Number of borrower Industry debt Female,Number of borrower Other debt Male,Number of borrower Other debt Female,Number of borrower Number of borrower Male,Number of borrower Number of borrower Female,Number of borrower Total debt (crore) Male,Number of borrower Total debt (crore) Female
+3,Agailjhara,5,0,0,0,0,1042,447,1042,447,11,4
+4,Babuganj,2,0,0,0,0,95,14,95,14,1.5,0.32
+5,Bakerganj,8,0,0,0,0,136,8072,136,8072,0.16,8.51
+6,Banaripara,0,0,0,0,0,0,0,0,0,0,0
+7,Barisal city corporation,27,0,0,108,0,8154,126,8262,126,682.48,2.12
+8,Barisal sadar,0,0,0,0,0,0,0,0,0,0,0
+9,Gaurnadi,5,2277,2049,176,2,564,0,3017,2051,17.32,6.20
+10,Hizla,1,0,2134,0,0,0,3992,0,6126,0,11
+11,Mehendiganj,0,18000,700,105,1,2060,1015,20165,8016,40.81,15.25
+12,Muladi,5,0,2327,0,0,0,4655,0,6982,0,16.26
+13,Wazirpur,0,0,0,0,0,0,0,0,0,0,0
+14,Total,53,20277,7210,389,3,12051,18321,32717,31834,753.27,63.66

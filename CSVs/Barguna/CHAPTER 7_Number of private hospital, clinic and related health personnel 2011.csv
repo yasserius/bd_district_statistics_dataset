@@ -1,15 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,Upazila,"Number
-of centre","Number
-of bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Amtali,0,0,0,0,0,0
-3,Bamna,0,0,0,0,0,0
-4,Barguna Sadar,7,30,6,11,12,37
-5,Betagi,0,0,0,0,0,0
-6,Patharghata,3,30,0,3,3,9
-7,Total,10,60,6,14,15,46
+1,,,,,,,
+2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Amtali,0,0,0,0,0,0
+4,Bamna,0,0,0,0,0,0
+5,Barguna Sadar,7,30,6,11,12,37
+6,Betagi,0,0,0,0,0,0
+7,Patharghata,3,30,0,3,3,9
+8,Total,10,60,6,14,15,46

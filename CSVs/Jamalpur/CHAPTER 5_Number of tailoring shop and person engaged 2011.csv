@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of tailoring shop and person engaged 2011,,,,
-1,Upazila,Unit,Person engaged,Person engaged,Person engaged
-2,Upazila,Unit,Family,Hired,Total
-3,Bakshiganj,380,445,75,520
-4,Dewanganj,750,900,600,1500
-5,Islampur,136,136,80,216
-6,Jamalpur Sadar,564,428,630,1058
-7,Madarganj,83,37,63,100
-8,Melandaha,122,120,134,254
-9,Sarishabari,184,185,238,423
-10,Total,2219,2251,1820,4071
+1,,,,,
+2,Upazila,Unit,Person engaged,Person engaged,Person engaged
+3,Upazila,Unit,Family,Hired,Total
+4,Bakshiganj,380,445,75,520
+5,Dewanganj,750,900,600,1500
+6,Islampur,136,136,80,216
+7,Jamalpur Sadar,564,428,630,1058
+8,Madarganj,83,37,63,100
+9,Melandaha,122,120,134,254
+10,Sarishabari,184,185,238,423
+11,Total,2219,2251,1820,4071

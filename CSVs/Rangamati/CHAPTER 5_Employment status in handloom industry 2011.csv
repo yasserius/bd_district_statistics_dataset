@@ -1,19 +1,16 @@
 ,0,1,2,3,4,5
 0,Employment status in handloom industry 2011,,,,,
-1,"
-Upazila",Number of handloom,Person engaged,Person engaged,Person engaged,"
-Total"
-2,"
-Upazila",Number of handloom,Family member,Regular,Hired /Casual,"
-Total"
-3,Baghaichhari,0,0,0,0,0
-4,Barkal,10,0,0,0,0
-5,Belai Chhari,0,0,0,0,0
-6,Jurai Chhari,0,0,0,0,0
-7,Kaptai,0,0,0,0,0
-8,Kawkhali,13,0,0,8,8
-9,Langadu,0,0,0,0,0
-10,Naniarchar,10,0,0,10,10
-11,Rangamati Sadar,15,10,10,0,20
-12,Rajasthali,0,0,0,0,0
-13,Total,48,10,10,18,38
+1,,,,,,
+2, Upazila,Number of handloom,Person engaged,Person engaged,Person engaged, Total
+3, Upazila,Number of handloom,Family member,Regular,Hired /Casual, Total
+4,Baghaichhari,0,0,0,0,0
+5,Barkal,10,0,0,0,0
+6,Belai Chhari,0,0,0,0,0
+7,Jurai Chhari,0,0,0,0,0
+8,Kaptai,0,0,0,0,0
+9,Kawkhali,13,0,0,8,8
+10,Langadu,0,0,0,0,0
+11,Naniarchar,10,0,0,10,10
+12,Rangamati Sadar,15,10,10,0,20
+13,Rajasthali,0,0,0,0,0
+14,Total,48,10,10,18,38

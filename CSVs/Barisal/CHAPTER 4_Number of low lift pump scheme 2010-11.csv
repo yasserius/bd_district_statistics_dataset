@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,"
-Upazila/city corporation",Number of pump fielded,Number of pump fielded,Number of pump fielded,Area irrigated (acre)
-2,"
-Upazila/city corporation",Electric,Diesel,Total,Area irrigated (acre)
+1,,,,,
+2,Upazila/city corporation,Number of pump fielded Electric,Number of pump fielded Diesel,Number of pump fielded Total,Area irrigated (acre)
 3,Agailjhara,9,30,39,850
 4,Babuganj,6,24,30,790
 5,Bakerganj,0,5,5,120

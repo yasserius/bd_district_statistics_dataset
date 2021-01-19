@@ -1,21 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,Upazila/city corporation,"Number of
-centre","Number
-of bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other stuff"
-2,Agailjhara,3,27,3,4,4,17
-3,Babuganj,0,0,0,0,0,0
-4,Bakerganj,3,32,6,12,3,8
-5,Banaripara,1,10,4,2,2,10
-6,Barisal city corporation,36,558,63,152,81,53
-7,Barisal sadar,1,0,4,0,0,1
-8,Gaurnadi,8,10,15,5,13,48
-9,Hizla,0,0,0,0,0,0
-10,Mehendiganj,0,0,0,0,0,0
-11,Muladi,2,10,5,8,6,15
-12,Wazirpur,0,0,0,0,0,0
-13,Total,54,647,100,183,109,152
+1,,,,,,,
+2,Upazila/city corporation,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other stuff
+3,Agailjhara,3,27,3,4,4,17
+4,Babuganj,0,0,0,0,0,0
+5,Bakerganj,3,32,6,12,3,8
+6,Banaripara,1,10,4,2,2,10
+7,Barisal city corporation,36,558,63,152,81,53
+8,Barisal sadar,1,0,4,0,0,1
+9,Gaurnadi,8,10,15,5,13,48
+10,Hizla,0,0,0,0,0,0
+11,Mehendiganj,0,0,0,0,0,0
+12,Muladi,2,10,5,8,6,15
+13,Wazirpur,0,0,0,0,0,0
+14,Total,54,647,100,183,109,152

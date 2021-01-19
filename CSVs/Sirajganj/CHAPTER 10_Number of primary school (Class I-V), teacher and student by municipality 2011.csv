@@ -1,16 +1,12 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,"Number of primary school (Class I-V), teacher and student by municipality 2011",,,,,,,,,,
-1,"
-Upazila",Primary school,Primary school,Primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Govt.,"Non-
-govt.",Total,Govt.,"Non-
-govt.",Total,Govt.,"Non-
-govt.",Total,Students per teacher
-3,Belkuchi,16,6,22,122,19,141,7346,966,8312,59
-4,Kazipur,6,9,15,34,35,69,1207,691,1898,27
-5,Royganj,2,4,6,19,16,35,657,533,1190,34
-6,Shahjadpur,11,3,14,113,8,121,5570,420,5990,50
-7,Sirajganj Sadar,33,3,36,246,10,256,12054,555,12609,49
-8,Ullahpara,7,7,14,60,28,88,3362,1425,9747,53
-9,Total,75,32,107,594,116,710,30196,4590,39746,56
+1,,,,,,,,,,,
+2, Upazila,Primary school,Primary school,Primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Govt.,Non- govt.,Total,Govt.,Non- govt.,Total,Govt.,Non- govt.,Total,Students per teacher
+4,Belkuchi,16,6,22,122,19,141,7346,966,8312,59
+5,Kazipur,6,9,15,34,35,69,1207,691,1898,27
+6,Royganj,2,4,6,19,16,35,657,533,1190,34
+7,Shahjadpur,11,3,14,113,8,121,5570,420,5990,50
+8,Sirajganj Sadar,33,3,36,246,10,256,12054,555,12609,49
+9,Ullahpara,7,7,14,60,28,88,3362,1425,9747,53
+10,Total,75,32,107,594,116,710,30196,4590,39746,56

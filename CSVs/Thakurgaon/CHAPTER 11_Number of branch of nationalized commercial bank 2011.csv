@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current account
-2,Baliadangi,3,27,25409,674
-3,Haripur,2,16,6947,485
-4,Pirgonj,4,44,31125,2031
-5,Ranisankail,3,40,22203,1362
-6,Thakurgaon Sadar,28,398,176325,16455
-7,Total,40,525,262009,21007
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current account
+3,Baliadangi,3,27,25409,674
+4,Haripur,2,16,6947,485
+5,Pirgonj,4,44,31125,2031
+6,Ranisankail,3,40,22203,1362
+7,Thakurgaon Sadar,28,398,176325,16455
+8,Total,40,525,262009,21007

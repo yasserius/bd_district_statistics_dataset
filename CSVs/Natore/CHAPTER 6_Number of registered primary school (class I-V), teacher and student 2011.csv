@@ -1,13 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of registered primary school (class I-V), teacher and student 2011",,,,,,,,
-1,"
-Upazila",Number of registered primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of registered primary school,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Bagatipara,24,49,50,99,2301,2248,4549,46
-4,Baraigram,30,55,43,98,2775,2850,5625,57
-5,Gurudaspur,33,99,33,132,2900,2210,5110,39
-6,Lalpur,37,143,362,511,4006,3606,7612,15
-7,Natore Sadar,76,198,76,274,6980,7138,14118,52
-8,Singra,84,140,174,314,10504,12300,22804,73
-9,Total,284,684,738,1428,29466,30352,59818,42
+1,,,,,,,,,
+2, Upazila,Number of registered primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of registered primary school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Bagatipara,24,49,50,99,2301,2248,4549,46
+5,Baraigram,30,55,43,98,2775,2850,5625,57
+6,Gurudaspur,33,99,33,132,2900,2210,5110,39
+7,Lalpur,37,143,362,511,4006,3606,7612,15
+8,Natore Sadar,76,198,76,274,6980,7138,14118,52
+9,Singra,84,140,174,314,10504,12300,22804,73
+10,Total,284,684,738,1428,29466,30352,59818,42

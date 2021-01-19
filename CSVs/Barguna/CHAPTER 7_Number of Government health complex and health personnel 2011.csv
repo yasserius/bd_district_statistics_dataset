@@ -1,14 +1,10 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and health personnel 2011,,,,,
-1,Upazila,"Number of
-bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Amtali,80,4,15,12,11
-3,Bamna,31,4,9,5,15
-4,Barguna Sadar,100,9,23,8,20
-5,Betagi,80,4,15,12,11
-6,Patharghata,50,7,7,2,9
-7,Total,341,28,69,39,66
+1,,,,,,
+2,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Amtali,80,4,15,12,11
+4,Bamna,31,4,9,5,15
+5,Barguna Sadar,100,9,23,8,20
+6,Betagi,80,4,15,12,11
+7,Patharghata,50,7,7,2,9
+8,Total,341,28,69,39,66

@@ -1,9 +1,9 @@
 ,0,1,2,3,4,5,6
 0,"Number of municipality, union, mauza, mahalla and village 2011",,,,,,
-1,Upazila,Municipality,"Ward
-(PSA)",Mahalla,Union,Mauza,Village
-2,Alamdanga,1,9,18,14,126,211
-3,Chuadanga Sadar,1,9,21,7,102,128
-4,Damurhuda,1,9,21,7,78,102
-5,Jibonnagar,1,9,9,4,76,82
-6,Total,4,36,69,32,382,523
+1,,,,,,,
+2,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
+3,Alamdanga,1,9,18,14,126,211
+4,Chuadanga Sadar,1,9,21,7,102,128
+5,Damurhuda,1,9,21,7,78,102
+6,Jibonnagar,1,9,9,4,76,82
+7,Total,4,36,69,32,382,523

@@ -1,17 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting cattle head 2008,,,,,,
-1,"
-Upazila","
-Total holding",Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
-2,"
-Upazila","
-Total holding",1-3 head,4-6 head,7 -9 head,10-15 head,"15 head &
-above"
-3,Bauphal,25283,20686,10119,1025,149,127
-4,Dashmina,12722,25100,15200,10100,9200,500
-5,Dumki,6784,4015,1326,261,241,9
-6,Galachipa,33385,13200,18750,9450,4200,300
-7,Kalapara,20119,13250,17625,9225,3900,315
-8,Mirzaganj,12978,6275,3022,2560,1121,0
-9,Patuakhali Sadar,23703,16213,8985,2790,870,112
-10,Total,134974,98739,75027,35411,19681,1363
+1,,,,,,,
+2, Upazila, Total holding,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
+3, Upazila, Total holding,1-3 head,4-6 head,7 -9 head,10-15 head,15 head & above
+4,Bauphal,25283,20686,10119,1025,149,127
+5,Dashmina,12722,25100,15200,10100,9200,500
+6,Dumki,6784,4015,1326,261,241,9
+7,Galachipa,33385,13200,18750,9450,4200,300
+8,Kalapara,20119,13250,17625,9225,3900,315
+9,Mirzaganj,12978,6275,3022,2560,1121,0
+10,Patuakhali Sadar,23703,16213,8985,2790,870,112
+11,Total,134974,98739,75027,35411,19681,1363

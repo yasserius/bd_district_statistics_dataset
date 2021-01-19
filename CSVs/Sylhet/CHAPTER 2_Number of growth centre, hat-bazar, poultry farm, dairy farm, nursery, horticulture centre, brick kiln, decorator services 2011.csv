@@ -1,25 +1,18 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of growth centre, hat-bazar, poultry farm, dairy farm, nursery, horticulture centre, brick kiln, decorator services 2011",,,,,,,,
-1,"Upazila/City
-corporation","Growth
-centre","Hat
-/bazar","Poultry
-farm","Dairy
-farm",Nursery,"Horticulture
-centre","Brick
-kiln","Decorator
-services"
-2,Balaganj,5,21,65,15,10,0,32,41
-3,Beanibazar,7,30,296,6,18,0,12,26
-4,Bishwanath,4,38,28,9,6,0,9,33
-5,Companiganj,4,19,22,3,1,0,0,12
-6,Dakhin surma,11,27,157,73,28,0,16,34
-7,Fenchuganj,2,9,127,32,1,0,5,12
-8,Golapganj,5,38,258,23,58,2,13,43
-9,Gowainghat,4,39,0,0,26,0,10,24
-10,Jaintiapur,3,6,119,264,26,1,2,11
-11,Kanaighat,6,23,21,19,1,0,5,12
-12,Sylhet city corporation,0,15,0,0,4,0,0,91
-13,Sylhet sadar,8,27,95,35,15,8,15,31
-14,Zakiganj,5,23,65,20,3,0,8,32
-15,Total,64,315,1253,499,197,11,127,402
+1,,,,,,,,,
+2,Upazila/City corporation,Growth centre,Hat /bazar,Poultry farm,Dairy farm,Nursery,Horticulture centre,Brick kiln,Decorator services
+3,Balaganj,5,21,65,15,10,0,32,41
+4,Beanibazar,7,30,296,6,18,0,12,26
+5,Bishwanath,4,38,28,9,6,0,9,33
+6,Companiganj,4,19,22,3,1,0,0,12
+7,Dakhin surma,11,27,157,73,28,0,16,34
+8,Fenchuganj,2,9,127,32,1,0,5,12
+9,Golapganj,5,38,258,23,58,2,13,43
+10,Gowainghat,4,39,0,0,26,0,10,24
+11,Jaintiapur,3,6,119,264,26,1,2,11
+12,Kanaighat,6,23,21,19,1,0,5,12
+13,Sylhet city corporation,0,15,0,0,4,0,0,91
+14,Sylhet sadar,8,27,95,35,15,8,15,31
+15,Zakiganj,5,23,65,20,3,0,8,32
+16,Total,64,315,1253,499,197,11,127,402

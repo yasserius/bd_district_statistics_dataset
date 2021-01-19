@@ -1,13 +1,7 @@
 ,0,1,2,3,4
 0,Number of co-operative society and member 2011,,,,
-1,"
-Upazila","Number of
-co-operative society",Number of members,Number of members,"
-Both sex"
-2,"
-Upazila","Number of
-co-operative society",Male,Female,"
-Both sex"
+1,,,,,
+2,Upazila,Number of co-operative society,Number of members Male,Number of members Female,Both sex
 3,Dighinala,159,5825,1971,7796
 4,Khagrachhari Sadar,283,7094,988,8082
 5,Laxshmichhari,2,230,230,460

@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Number of tailoring shop and person engaged 2011,,,,
-1,Upazila/City corporation,"
-Units",Persons engaged,Persons engaged,Persons engaged
-2,Upazila/City corporation,"
-Units",Family,Hired,Total
+1,,,,,
+2,Upazila/City corporation,Units,Persons engaged Family,Persons engaged Hired,Persons engaged Total
 3,Balaganj,212,240,250,490
 4,Beanibazar,109,120,305,425
 5,Bishwanath,200,280,430,710

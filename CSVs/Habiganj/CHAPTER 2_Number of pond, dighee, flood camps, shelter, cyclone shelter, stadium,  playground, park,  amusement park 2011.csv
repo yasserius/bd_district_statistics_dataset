@@ -1,16 +1,13 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of pond, dighee, flood camps, shelter, cyclone shelter, stadium,  playground, park,  amusement park 2011",,,,,,,
-1,Upazila,Pond,Dighee,River flow,"Flood camp/
-shelter","Cyclone
-shelter","Stadium/
-playground","Park/ amusement
-park"
-2,Azmirigonj,632,19,2,0,0,6,0
-3,Bahubal,3035,10,2,3,0,7,0
-4,Baniachang,3242,208,12,3,0,4,0
-5,Chunarughat,8738,3,3,3,0,0,1
-6,Habiganj Sadar,7642,3,3,0,0,5,1
-7,Lakhai,3900,0,6,0,0,18,0
-8,Madhabpur,2744,8,3,2,0,1,0
-9,Nabiganj,5107,106,5,1,0,7,0
-10,Total,35040,357,36,12,0,48,2
+1,,,,,,,,
+2,Upazila,Pond,Dighee,River flow,Flood camp/ shelter,Cyclone shelter,Stadium/ playground,Park/ amusement park
+3,Azmirigonj,632,19,2,0,0,6,0
+4,Bahubal,3035,10,2,3,0,7,0
+5,Baniachang,3242,208,12,3,0,4,0
+6,Chunarughat,8738,3,3,3,0,0,1
+7,Habiganj Sadar,7642,3,3,0,0,5,1
+8,Lakhai,3900,0,6,0,0,18,0
+9,Madhabpur,2744,8,3,2,0,1,0
+10,Nabiganj,5107,106,5,1,0,7,0
+11,Total,35040,357,36,12,0,48,2

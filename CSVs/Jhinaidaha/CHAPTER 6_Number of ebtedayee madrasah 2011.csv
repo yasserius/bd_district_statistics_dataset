@@ -1,13 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of ebtedayee madrasah 2011,,,,,,,,
-1,"
-Upazila",Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Harinakunda,5,19,0,19,311,289,600,32
-4,Jhenaidah Sadar,5,16,4,20,405,252,667,33
-5,Kaliganj,1,4,0,4,82,45,164,42
-6,Kotchandpur,9,32,0,32,920,817,1737,54
-7,Mahespur,24,88,2,90,1720,3230,4950,55
-8,Shailkupa,9,38,7,45,970,805,1775,39
-9,Total,53,197,13,210,4408,5438,9893,47
+1,,,,,,,,,
+2, Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Harinakunda,5,19,0,19,311,289,600,32
+5,Jhenaidah Sadar,5,16,4,20,405,252,667,33
+6,Kaliganj,1,4,0,4,82,45,164,42
+7,Kotchandpur,9,32,0,32,920,817,1737,54
+8,Mahespur,24,88,2,90,1720,3230,4950,55
+9,Shailkupa,9,38,7,45,970,805,1775,39
+10,Total,53,197,13,210,4408,5438,9893,47

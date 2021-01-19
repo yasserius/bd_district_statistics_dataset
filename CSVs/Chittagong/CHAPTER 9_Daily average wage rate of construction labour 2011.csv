@@ -1,22 +1,22 @@
 ,0,1,2,3,4,5,6
 0,Daily average wage rate of construction labour 2011,,,,,,
-1,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
-2,Upazila/City corporation,Labour,Labour,Labour,Labour,Labour,Labour
-3,Upazila/City corporation,Mason,"Helper
-(Jogaly)",Carpenter,Colour,Electric,Plumber
-4,Anowara,500,300,400,380,500,450
-5,Banshkhali,500,200,400,300,200,250
-6,Boalkhali,450,300,400,400,400,350
-7,Chandanaish,400,250,400,400,300,450
-8,Chittagong City Corp.,500,400,450,450,500,500
-9,Fatikchhari,500,250,400,400,400,400
-10,Hathazari,500,300,500,400,500,500
-11,Lohagara,500,300,400,400,300,500
-12,Mirsharai,500,300,500,600,400,500
-13,Patiya,450,350,430,360,450,450
-14,Rangunia,450,250,500,500,400,450
-15,Raozan,500,250,450,450,500,500
-16,Sandwip,550,250,300,450,450,450
-17,Satkania,500,400,500,550,550,600
-18,Sitakunda,400,300,400,400,400,400
-19,Average,480,293,429,429,417,450
+1,,,,,,,
+2,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
+3,Upazila/City corporation,Labour,Labour,Labour,Labour,Labour,Labour
+4,Upazila/City corporation,Mason,Helper (Jogaly),Carpenter,Colour,Electric,Plumber
+5,Anowara,500,300,400,380,500,450
+6,Banshkhali,500,200,400,300,200,250
+7,Boalkhali,450,300,400,400,400,350
+8,Chandanaish,400,250,400,400,300,450
+9,Chittagong City Corp.,500,400,450,450,500,500
+10,Fatikchhari,500,250,400,400,400,400
+11,Hathazari,500,300,500,400,500,500
+12,Lohagara,500,300,400,400,300,500
+13,Mirsharai,500,300,500,600,400,500
+14,Patiya,450,350,430,360,450,450
+15,Rangunia,450,250,500,500,400,450
+16,Raozan,500,250,450,450,500,500
+17,Sandwip,550,250,300,450,450,450
+18,Satkania,500,400,500,550,550,600
+19,Sitakunda,400,300,400,400,400,400
+20,Average,480,293,429,429,417,450

@@ -1,14 +1,11 @@
 ,0,1,2,3,4
 0,Number of establishment and person engaged in cottage industry 2011,,,,
-1,"
-Upazila","
-Number of unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Number of unit",Family,Hired,Total
-3,Akkelpur,176,365,0,365
-4,Joypurhat sadar,6321,14336,758,15154
-5,Kalai,0,0,0,0
-6,Khetlal,157,218,164,382
-7,Panchbibi,85,170,0,170
-8,Total,6739,15089,922,16071
+1,,,,,
+2, Upazila, Number of unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Number of unit,Family,Hired,Total
+4,Akkelpur,176,365,0,365
+5,Joypurhat sadar,6321,14336,758,15154
+6,Kalai,0,0,0,0
+7,Khetlal,157,218,164,382
+8,Panchbibi,85,170,0,170
+9,Total,6739,15089,922,16071

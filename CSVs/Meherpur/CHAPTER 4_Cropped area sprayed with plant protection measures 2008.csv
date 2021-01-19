@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5
 0,Cropped area sprayed with plant protection measures 2008,,,,,
-1,"
-Upazila",Total farm holding,Total farm holding,Spraying Farm holding,Spraying Farm holding,Reporting area sprayed
-2,"
-Upazila",Number,Cropped area,Number,Cropped area,Reporting area sprayed
+1,,,,,,
+2,Upazila,Total farm holding Number,Total farm holding Cropped area,Spraying Farm holding Number,Spraying Farm holding Cropped area,Reporting area sprayed
 3,Gangni,52565,58111,50565,58111,58111
 4,Mujibnagar,17949,24000,16532,20100,17000
 5,Meherpur Sadar,42158,22756,23280,15410,7311

@@ -1,16 +1,12 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and health personnel 2011,,,,,
-1,Upazila,"Number of
-bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Fulchhari,31,2,2,6,81
-3,Gaibandha Sadar,120,9,32,5,40
-4,Gobindaganj,50,11,8,7,153
-5,Palashbari,31,9,10,5,99
-6,Sadullapur,50,4,5,5,93
-7,Saghata,31,3,3,1,79
-8,Sundarganj,31,4,8,6,127
-9,Total,344,42,68,35,672
+1,,,,,,
+2,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Fulchhari,31,2,2,6,81
+4,Gaibandha Sadar,120,9,32,5,40
+5,Gobindaganj,50,11,8,7,153
+6,Palashbari,31,9,10,5,99
+7,Sadullapur,50,4,5,5,93
+8,Saghata,31,3,3,1,79
+9,Sundarganj,31,4,8,6,127
+10,Total,344,42,68,35,672

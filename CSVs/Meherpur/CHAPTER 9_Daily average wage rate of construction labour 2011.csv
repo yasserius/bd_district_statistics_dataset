@@ -1,15 +1,8 @@
 ,0,1,2,3,4,5,6
 0,Daily average wage rate of construction labour 2011,,,,,,
 1,(Rate in Taka),,,,,,
-2,"
-Upazila",Labour,Labour,Labour,Labour,Labour,Labour
-3,"
-Upazila",Mason,"Helper
-(Jogaly)",Carpenter,"Colour
-Mistree","Electric
-Mistree","Plumber
-Mistree"
-4,Gangni,450,300,300,300,400,500
-5,Mujibnagar,300,200,300,300,350,300
-6,Meherpur Sadar,300,200,300,310,350,310
-7,Average,350,233,300,303,367,370
+2,Upazila,Labour Mason,Labour Helper (Jogaly),Labour Carpenter,Labour Colour Mistree,Labour Electric Mistree,Labour Plumber Mistree
+3,Gangni,450,300,300,300,400,500
+4,Mujibnagar,300,200,300,300,350,300
+5,Meherpur Sadar,300,200,300,310,350,310
+6,Average,350,233,300,303,367,370

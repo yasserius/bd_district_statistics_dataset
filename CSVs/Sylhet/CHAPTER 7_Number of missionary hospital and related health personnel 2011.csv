@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6
 0,Number of missionary hospital and related health personnel 2011,,,,,,
-1,Upazila/City corporation,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-2,Balaganj,0,0,0,0,0,0
-3,Beanibazar,0,0,0,0,0,0
-4,Bishwanath,0,0,0,0,0,0
-5,Companiganj,0,0,0,0,0,0
-6,Dakhin surma,0,0,0,0,0,0
-7,Fenchuganj,0,0,0,0,0,0
-8,Golapganj,1,0,3,1,4,5
-9,Gowainghat,3,15,8,3,4,11
-10,Jaintiapur,1,1,1,0,2,2
-11,Kanaighat,0,0,0,0,0,0
-12,Sylhet city corporation,0,0,0,0,0,0
-13,Sylhet sadar,0,0,0,0,0,0
-14,Zakiganj,0,0,0,0,0,0
-15,Total,5,16,12,4,10,18
+1,,,,,,,
+2,Upazila/City corporation,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Balaganj,0,0,0,0,0,0
+4,Beanibazar,0,0,0,0,0,0
+5,Bishwanath,0,0,0,0,0,0
+6,Companiganj,0,0,0,0,0,0
+7,Dakhin surma,0,0,0,0,0,0
+8,Fenchuganj,0,0,0,0,0,0
+9,Golapganj,1,0,3,1,4,5
+10,Gowainghat,3,15,8,3,4,11
+11,Jaintiapur,1,1,1,0,2,2
+12,Kanaighat,0,0,0,0,0,0
+13,Sylhet city corporation,0,0,0,0,0,0
+14,Sylhet sadar,0,0,0,0,0,0
+15,Zakiganj,0,0,0,0,0,0
+16,Total,5,16,12,4,10,18

@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5
 0,Average rate of vehicle per kilo meter 2011,,,,,
-1,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
-2,Upazila,Vehicle,Vehicle,Vehicle,Vehicle,Vehicle
-3,Upazila,Rickshaw,Rickshaw van,Easy bike,Auto rickshaw,Tempo
-4,Alfadanga,15,10,10,10,5
-5,Bhanga,10,8,5,5,3
-6,Boalmari,20,10,20,5,5
-7,Charbhadrashon,5,5,5,3,5
-8,Faridpur Sadar,15,0,5,0,5
-9,Madhukhali,15,10,10,0,10
-10,Nagarkanda,5,5,3,0,3
-11,Sadarpur,5,5,3,2,2
-12,Saltha,5,5,5,0,5
-13,Average,11,6,7,3,5
+1,,,,,,
+2,(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka),(Rate in taka)
+3,Upazila,Vehicle,Vehicle,Vehicle,Vehicle,Vehicle
+4,Upazila,Rickshaw,Rickshaw van,Easy bike,Auto rickshaw,Tempo
+5,Alfadanga,15,10,10,10,5
+6,Bhanga,10,8,5,5,3
+7,Boalmari,20,10,20,5,5
+8,Charbhadrashon,5,5,5,3,5
+9,Faridpur Sadar,15,0,5,0,5
+10,Madhukhali,15,10,10,0,10
+11,Nagarkanda,5,5,3,0,3
+12,Sadarpur,5,5,3,2,2
+13,Saltha,5,5,5,0,5
+14,Average,11,6,7,3,5

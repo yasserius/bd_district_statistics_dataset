@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of Bamboo and Cane Industry and Persons Engaged 2011,,,,
-1,"
-Upazila/city corporation","
-Units",Persons engaged,Persons engaged,Persons engaged
-2,"
-Upazila/city corporation","
-Units",Family,Hired,Total
+1,,,,,
+2,Upazila/city corporation,Units,Persons engaged Family,Persons engaged Hired,Persons engaged Total
 3,Batiaghata,118,354,0,354
 4,Dacope,65,130,0,130
 5,Dighalia,44,154,0,154

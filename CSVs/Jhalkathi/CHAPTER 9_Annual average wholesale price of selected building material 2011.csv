@@ -1,15 +1,10 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building material 2011,,,,,,
-1,(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka)
-2,Upazila,"Brick-01
-(per1000)","Cement
-(per 50 kg bag)","Iron bar (per
-ton)","Sand-01
-(per c.f.t.)","Sand -02 (per
-c.f.t.)","Stone
-(per c.f.t.)"
-3,Jhalokati Sadar,5000,370,65000,38,10,58
-4,Kanthalia,6000,410,61000,11,5,0
-5,Nalchity,6000,375,52000,9,3,0
-6,Rajpur,6000,370,55000,30,8,65
-7,Average,5750,381,58250,22,7,62
+1,,,,,,,
+2,(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka),(Price in taka)
+3,Upazila,Brick-01 (per1000),Cement (per 50 kg bag),Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
+4,Jhalokati Sadar,5000,370,65000,38,10,58
+5,Kanthalia,6000,410,61000,11,5,0
+6,Nalchity,6000,375,52000,9,3,0
+7,Rajpur,6000,370,55000,30,8,65
+8,Average,5750,381,58250,22,7,62

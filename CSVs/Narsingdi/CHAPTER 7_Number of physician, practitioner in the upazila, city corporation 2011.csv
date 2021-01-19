@@ -1,15 +1,11 @@
 ,0,1,2,3,4,5
 0,"Number of physician, practitioner in the upazila, city corporation 2011",,,,,
-1,"
-Upazila","
-Physician","MBBS,
-FCPS/over","
-L.M.F",Unani / ayurbedic,"
-Homeopathy"
-2,Belabo,34,1,0,7,26
-3,Manohardi,0,1,20,12,96
-4,Narsingdi Sadar,305,153,65,8,79
-5,Palash,210,40,0,30,140
-6,Roypura,457,12,305,10,130
-7,Sibpur,0,0,0,0,0
-8,Total,1006,207,390,67,471
+1,,,,,,
+2, Upazila, Physician,"MBBS, FCPS/over", L.M.F,Unani / ayurbedic, Homeopathy
+3,Belabo,34,1,0,7,26
+4,Manohardi,0,1,20,12,96
+5,Narsingdi Sadar,305,153,65,8,79
+6,Palash,210,40,0,30,140
+7,Roypura,457,12,305,10,130
+8,Sibpur,0,0,0,0,0
+9,Total,1006,207,390,67,471

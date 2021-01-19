@@ -1,16 +1,8 @@
 ,0,1,2,3,4,5,6,7
 0,Irrigation by means 2010-2011,,,,,,,
 1,(in acres),,,,,,,
-2,"
-Upazila",Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,"
-Total"
-3,"
-Upazila","Power
-pump","Tube
-well",Doon,"Swing
-basket",Canal,Others,"
-Total"
-4,Gangni,9240,0,0,0,0,0,105
-5,Mujibnagar,1061,0,0,0,0,0,0
-6,Meherpur Sadar,4365,0,0,0,0,0,86
-7,Total,14666,0,0,0,0,0,191
+2,Upazila,Irrigation management Power pump,Irrigation management Tube well,Irrigation management Doon,Irrigation management Swing basket,Irrigation management Canal,Irrigation management Others,Total
+3,Gangni,9240,0,0,0,0,0,105
+4,Mujibnagar,1061,0,0,0,0,0,0
+5,Meherpur Sadar,4365,0,0,0,0,0,86
+6,Total,14666,0,0,0,0,0,191

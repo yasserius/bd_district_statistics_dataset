@@ -1,10 +1,8 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of lentil (masur), mug and maize crops 2009-10",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Lentil (Masur),Lentil (Masur),Mug,Mug,Maize,Maize
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
+2, Upazila,Lentil (Masur),Lentil (Masur),Mug,Mug,Maize,Maize
+3, Upazila,Area,Production,Area,Production,Area,Production
 4,Chakaria,0,0,0,0,4,2
 5,Cox's Bazar Sadar,0,100,8010,1250,0,0
 6,Kutubdia,0,0,0,0,0,0

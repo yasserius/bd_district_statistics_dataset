@@ -1,14 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Land area under irrigation for selected crops 2008,,,,,,
-1,"
-Upazila",Paddy,Paddy,Wheat,Wheat,Potato,Potato
-2,"
-Upazila",Total area,Irrigated area,Total area,Irrigated area,Total area,Irrigated area
-3,Daulotpur,22636,14701,124,0,274,274
-4,Gheor,15386,14062,146,0,1123,1123
-5,Horirampur,15413,8129,289,0,59,59
-6,Manikganj Sadar,19060,17653,302,0,1190,1190
-7,Saturia,17009,13826,102,0,458,458
-8,Shibalaya,16253,11908,226,0,62,62
-9,Singair,24461,19868,696,0,1931,1931
-10,Total,130218,100147,1885,0,5097,5097
+1,,,,,,,
+2, Upazila,Paddy,Paddy,Wheat,Wheat,Potato,Potato
+3, Upazila,Total area,Irrigated area,Total area,Irrigated area,Total area,Irrigated area
+4,Daulotpur,22636,14701,124,0,274,274
+5,Gheor,15386,14062,146,0,1123,1123
+6,Horirampur,15413,8129,289,0,59,59
+7,Manikganj Sadar,19060,17653,302,0,1190,1190
+8,Saturia,17009,13826,102,0,458,458
+9,Shibalaya,16253,11908,226,0,62,62
+10,Singair,24461,19868,696,0,1931,1931
+11,Total,130218,100147,1885,0,5097,5097

@@ -1,24 +1,18 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of filling station, fire brigade station, police station,  camp, union land (tohsil) office, bop (BGB camp), cyber cafe 2011",,,,,,,,
-1,"
-Upazila","
-Filling Station",Fire brigade Station,Police Station/ Camp,"Union Land
-(Tohsil) Office",Sub- Registry Office,"BOP (BGB
-camp)","
-ISP
-provider","
-Cyber cafe"
-2,Austagram,0,0,1,5,1,0,0,0
-3,Bajitpur,0,1,1,9,1,0,0,0
-4,Bhairab,5,2,5,4,1,0,0,1
-5,Hossainpur,1,0,1,6,1,0,0,0
-6,Itna,0,0,1,8,1,0,0,0
-7,Karimganj,0,0,2,7,1,0,0,0
-8,Katiadi,1,0,2,8,1,0,0,0
-9,Kishoreganj Sadar,4,1,3,11,1,0,0,32
-10,Kuliar-char,0,1,1,5,1,0,0,0
-11,Mithamain,0,0,2,5,1,0,0,0
-12,Nikli,0,0,1,6,1,0,0,0
-13,Pakundia,1,0,2,7,1,0,0,0
-14,Tarail,0,0,1,6,1,0,0,0
-15,Total,12,5,23,87,13,0,0,33
+1,,,,,,,,,
+2,Upazila,Filling Station,Fire brigade Station,Police Station/ Camp,Union Land (Tohsil) Office,Sub- Registry Office,BOP (BGB camp),ISP provider,Cyber cafe
+3,Austagram,0,0,1,5,1,0,0,0
+4,Bajitpur,0,1,1,9,1,0,0,0
+5,Bhairab,5,2,5,4,1,0,0,1
+6,Hossainpur,1,0,1,6,1,0,0,0
+7,Itna,0,0,1,8,1,0,0,0
+8,Karimganj,0,0,2,7,1,0,0,0
+9,Katiadi,1,0,2,8,1,0,0,0
+10,Kishoreganj Sadar,4,1,3,11,1,0,0,32
+11,Kuliar-char,0,1,1,5,1,0,0,0
+12,Mithamain,0,0,2,5,1,0,0,0
+13,Nikli,0,0,1,6,1,0,0,0
+14,Pakundia,1,0,2,7,1,0,0,0
+15,Tarail,0,0,1,6,1,0,0,0
+16,Total,12,5,23,87,13,0,0,33

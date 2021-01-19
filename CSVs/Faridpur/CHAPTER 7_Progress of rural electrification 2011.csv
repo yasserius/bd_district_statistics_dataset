@@ -1,21 +1,15 @@
 ,0,1,2,3,4,5,6,7,8
 0,Progress of rural electrification 2011,,,,,,,,
-1,"
-Upazila",Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified
-2,"
-Upazila","
-Village",Residential holding,"Large scale
-industry","Small scale
-Industry","Deep tube-
-well",Power pump,Commercial holding,"
-Others"
-3,Alfadanga,48,7383,0,90,310,3,1200,0
-4,Bhanga,103,14163,0,97,20,412,1148,0
-5,Boalmari,153,13150,0,277,2,381,2861,0
-6,Charbhadrashon,38,4205,0,48,0,105,1550,0
-7,Faridpur Sadar,150,58962,3,155,32,347,1123,0
-8,Madhukhali,165,6500,3,90,4,70,500,0
-9,Nagarkanda,75,10612,0,91,21,230,1011,0
-10,Sadarpur,166,29560,1,0,6,221,1670,0
-11,Saltha,7,826,0,1,0,9,1580,0
-12,Total,905,145361,7,849,395,1778,12643,0
+1,,,,,,,,,
+2, Upazila,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified
+3, Upazila, Village,Residential holding,Large scale industry,Small scale Industry,Deep tube- well,Power pump,Commercial holding, Others
+4,Alfadanga,48,7383,0,90,310,3,1200,0
+5,Bhanga,103,14163,0,97,20,412,1148,0
+6,Boalmari,153,13150,0,277,2,381,2861,0
+7,Charbhadrashon,38,4205,0,48,0,105,1550,0
+8,Faridpur Sadar,150,58962,3,155,32,347,1123,0
+9,Madhukhali,165,6500,3,90,4,70,500,0
+10,Nagarkanda,75,10612,0,91,21,230,1011,0
+11,Sadarpur,166,29560,1,0,6,221,1670,0
+12,Saltha,7,826,0,1,0,9,1580,0
+13,Total,905,145361,7,849,395,1778,12643,0

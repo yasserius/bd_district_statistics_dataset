@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,"Number of hat-bazar, growth centre, hotel & restaurant 2011",,,,,
-1,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
-2,Daulotpur,32,20,2,12,0
-3,Gheor,30,13,2,64,0
-4,Horirampur,30,26,5,48,2
-5,Manikganj Sadar,40,28,5,190,6
-6,Saturia,19,7,3,75,0
-7,Shibalaya,25,16,3,313,4
-8,Singair,13,12,6,0,0
-9,Total,189,122,26,702,12
+1,,,,,,
+2,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
+3,Daulotpur,32,20,2,12,0
+4,Gheor,30,13,2,64,0
+5,Horirampur,30,26,5,48,2
+6,Manikganj Sadar,40,28,5,190,6
+7,Saturia,19,7,3,75,0
+8,Shibalaya,25,16,3,313,4
+9,Singair,13,12,6,0,0
+10,Total,189,122,26,702,12

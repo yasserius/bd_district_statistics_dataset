@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-2,Kamalnagar,2,20,6000,1000
-3,Lakshmipur Sadar,15,152,90297,4959
-4,Ramganj,8,74,23596,1122
-5,Ramgati,4,34,28409,2071
-6,Roypur,6,60,20375,3065
-7,Total,35,340,168677,12217
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Kamalnagar,2,20,6000,1000
+4,Lakshmipur Sadar,15,152,90297,4959
+5,Ramganj,8,74,23596,1122
+6,Ramgati,4,34,28409,2071
+7,Roypur,6,60,20375,3065
+8,Total,35,340,168677,12217

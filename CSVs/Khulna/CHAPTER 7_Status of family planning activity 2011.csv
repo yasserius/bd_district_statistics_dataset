@@ -1,19 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Status of family planning activity 2011,,,,,,
-1,"
-Upazila/city corporation",Sterilization in number,Sterilization in number,"
-IUD/
-Injection","
-Condom (in pieces)","
-Oral pill (in cycles)","
-Copper- Tee"
-2,"
-Upazila/city corporation",Vasectomy,Tubectomy,"
-IUD/
-Injection","
-Condom (in pieces)","
-Oral pill (in cycles)","
-Copper- Tee"
+1,,,,,,,
+2,Upazila/city corporation,Sterilization in number Vasectomy,Sterilization in number Tubectomy,IUD/ Injection,Condom (in pieces),Oral pill (in cycles),Copper- Tee
 3,Batiaghata,55,228,9672,131868,140904,684
 4,Dacope,329,221,11996,71690,142399,375
 5,Dighalia,239,180,24487,282141,153805,524

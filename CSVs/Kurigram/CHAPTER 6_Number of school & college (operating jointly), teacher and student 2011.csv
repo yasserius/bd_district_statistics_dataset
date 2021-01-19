@@ -1,20 +1,15 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of school & college (operating jointly), teacher and student 2011",,,,,,,,
-1,"
-Upazila","Number of
-Institute",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,"Students per
-teacher"
-2,"
-Upazila","Number of
-Institute",Male,Female,Total,Male,Female,Total,"Students per
-teacher"
-3,Bhurungamari,1,23,6,29,315,197,512,18
-4,Char Rajibpur,0,0,0,0,0,0,0,0
-5,Chilmari,0,0,0,0,0,0,0,0
-6,Kurigram Sadar,11,174,36,210,8922,10570,19492,93
-7,Nageshwari,1,40,6,46,280,210,490,11
-8,Phulbari,2,52,15,67,142,273,415,6
-9,Rajarhat,2,55,12,67,759,541,1300,19
-10,Raumari,1,19,2,21,312,338,650,31
-11,Ulipur,3,82,20,102,2158,627,2785,27
-12,Total,21,445,97,542,12888,12756,25644,47
+1,,,,,,,,,
+2, Upazila,Number of Institute,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of Institute,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Bhurungamari,1,23,6,29,315,197,512,18
+5,Char Rajibpur,0,0,0,0,0,0,0,0
+6,Chilmari,0,0,0,0,0,0,0,0
+7,Kurigram Sadar,11,174,36,210,8922,10570,19492,93
+8,Nageshwari,1,40,6,46,280,210,490,11
+9,Phulbari,2,52,15,67,142,273,415,6
+10,Rajarhat,2,55,12,67,759,541,1300,19
+11,Raumari,1,19,2,21,312,338,650,31
+12,Ulipur,3,82,20,102,2158,627,2785,27
+13,Total,21,445,97,542,12888,12756,25644,47

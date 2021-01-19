@@ -1,15 +1,13 @@
 ,0,1,2,3,4,5
 0,Number of employee by local Government institution 2011,,,,,
-1,Upazila,"City
-corporation",Municipality,Zila parishad,"Upazila
-parishad","Union
-parishad"
-2,Chakaria,0,17,0,65,175
-3,Cox's Bazar Sadar,0,20,18,56,100
-4,Kutubdia,0,0,0,21,69
-5,Moheshkhali,0,6,0,24,88
-6,Pekua,0,0,0,45,69
-7,Ramu,0,0,0,35,127
-8,Teknaf,0,15,0,23,59
-9,Ukhia,0,0,0,31,54
-10,Total,0,58,18,300,741
+1,,,,,,
+2,Upazila,City corporation,Municipality,Zila parishad,Upazila parishad,Union parishad
+3,Chakaria,0,17,0,65,175
+4,Cox's Bazar Sadar,0,20,18,56,100
+5,Kutubdia,0,0,0,21,69
+6,Moheshkhali,0,6,0,24,88
+7,Pekua,0,0,0,45,69
+8,Ramu,0,0,0,35,127
+9,Teknaf,0,15,0,23,59
+10,Ukhia,0,0,0,31,54
+11,Total,0,58,18,300,741

@@ -1,7 +1,8 @@
 ,0,1,2,3,4,5,6
 0,Population by religion 2011,,,,,,
-1,Upazila,Muslim,Hindu,Buddhist,Christian,Others,Total
-2,Kalia,185082,35063,3,49,5,220202
-3,Lohagara,202933,25618,1,4,38,228594
-4,Narail Sadar,198573,73913,2,205,179,272872
-5,Total,586588,134594,6,258,222,721668
+1,,,,,,,
+2,Upazila,Muslim,Hindu,Buddhist,Christian,Others,Total
+3,Kalia,185082,35063,3,49,5,220202
+4,Lohagara,202933,25618,1,4,38,228594
+5,Narail Sadar,198573,73913,2,205,179,272872
+6,Total,586588,134594,6,258,222,721668

@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of pottery and person engaged 2011,,,,
-1,Upazila,Unit,Person engaged,Person engaged,Person engaged
-2,Upazila,Unit,Family,Hired,Total
-3,Chakaria,40,40,60,100
-4,Cox's Bazar Sadar,40,80,0,80
-5,Kutubdia,0,0,0,0
-6,Moheshkhali,65,195,0,195
-7,Pekua,4,12,4,16
-8,Ramu,20,40,0,40
-9,Teknaf,2,12,0,12
-10,Ukhia,180,900,0,900
-11,Total,351,1279,64,1343
+1,,,,,
+2,Upazila,Unit,Person engaged,Person engaged,Person engaged
+3,Upazila,Unit,Family,Hired,Total
+4,Chakaria,40,40,60,100
+5,Cox's Bazar Sadar,40,80,0,80
+6,Kutubdia,0,0,0,0
+7,Moheshkhali,65,195,0,195
+8,Pekua,4,12,4,16
+9,Ramu,20,40,0,40
+10,Teknaf,2,12,0,12
+11,Ukhia,180,900,0,900
+12,Total,351,1279,64,1343

@@ -1,10 +1,11 @@
 ,0,1,2,3
 0,"Number of railway station, steamer, launch station and bus stand 2011",,,
-1,Upazila,Railway station,Steamer/launch station,Bus stand
-2,Bhedarganj,0,1,1
-3,Damudya,0,1,1
-4,Gosairhat,0,3,3
-5,Naria,0,4,10
-6,Shariatpur Sadar,0,2,1
-7,Zanjira,0,3,4
-8,Total,0,14,20
+1,,,,
+2,Upazila,Railway station,Steamer/launch station,Bus stand
+3,Bhedarganj,0,1,1
+4,Damudya,0,1,1
+5,Gosairhat,0,3,3
+6,Naria,0,4,10
+7,Shariatpur Sadar,0,2,1
+8,Zanjira,0,3,4
+9,Total,0,14,20

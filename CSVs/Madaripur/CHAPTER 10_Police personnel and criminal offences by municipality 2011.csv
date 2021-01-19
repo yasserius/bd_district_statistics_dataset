@@ -1,15 +1,9 @@
 ,0,1,2,3,4,5,6
 0,Police personnel and criminal offences by municipality 2011,,,,,,
-1,"
-Municipality",Police personnel,Criminal offence,Criminal offence,Traffic accident (Reported),Traffic accident (Reported),Traffic accident (Reported)
-2,"
-Municipality",Police personnel,"Number of
-offence","Number of
-case filled","Number of
-accident","Person
-killed","Person
-injured"
-3,Kalkini,0,0,437,0,0,0
-4,Madaripur,44,437,447,7,5,19
-5,Shibchar,42,229,229,12,15,132
-6,Total,86,666,676,19,20,151
+1,,,,,,,
+2, Municipality,Police personnel,Criminal offence,Criminal offence,Traffic accident (Reported),Traffic accident (Reported),Traffic accident (Reported)
+3, Municipality,Police personnel,Number of offence,Number of case filled,Number of accident,Person killed,Person injured
+4,Kalkini,0,0,437,0,0,0
+5,Madaripur,44,437,447,7,5,19
+6,Shibchar,42,229,229,12,15,132
+7,Total,86,666,676,19,20,151

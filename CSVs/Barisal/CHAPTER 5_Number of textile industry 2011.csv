@@ -1,8 +1,6 @@
 ,0,1,2,3,4,5,6
 0,Number of textile industry 2011,,,,,,
-1,"
-Upazila/city corporation",Number of mill,Installed capacity,Installed capacity,Total Person engaged,Total Person engaged,Total Person engaged
-2,"
-Upazila/city corporation",Number of mill,Spindles,Looms,Male,Female,Total
+1,,,,,,,
+2,Upazila/city corporation,Number of mill,Installed capacity Spindles,Installed capacity Looms,Total Person engaged Male,Total Person engaged Female,Total Person engaged Total
 3,Barisal city corporation,2,166560,0,530,892,1422
 4,Total,2,166560,0,530,892,1422

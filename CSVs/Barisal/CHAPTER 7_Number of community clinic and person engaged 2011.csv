@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,Number of community clinic and person engaged 2011,,,,,,
-1,Upazila/city corporation,Number of clinic,Number of health asst.,Number of Fpi,Number of Fwv,Number of Fwa,Number of other stuff
-2,Agailjhara,20,20,5,0,17,0
-3,Babuganj,18,18,6,10,36,0
-4,Bakerganj,3,57,14,12,77,3
-5,Banaripara,8,22,7,7,36,21
-6,Barisal city corporation,15,15,0,0,0,15
-7,Barisal sadar,35,49,0,0,0,29
-8,Gaurnadi,15,13,7,9,33,10
-9,Hizla,19,19,0,0,0,3
-10,Mehendiganj,23,58,13,13,56,80
-11,Muladi,14,0,0,0,0,14
-12,Wazirpur,29,46,9,7,54,20
-13,Total,199,317,61,58,309,195
+1,,,,,,,
+2,Upazila/city corporation,Number of clinic,Number of health asst.,Number of Fpi,Number of Fwv,Number of Fwa,Number of other stuff
+3,Agailjhara,20,20,5,0,17,0
+4,Babuganj,18,18,6,10,36,0
+5,Bakerganj,3,57,14,12,77,3
+6,Banaripara,8,22,7,7,36,21
+7,Barisal city corporation,15,15,0,0,0,15
+8,Barisal sadar,35,49,0,0,0,29
+9,Gaurnadi,15,13,7,9,33,10
+10,Hizla,19,19,0,0,0,3
+11,Mehendiganj,23,58,13,13,56,80
+12,Muladi,14,0,0,0,0,14
+13,Wazirpur,29,46,9,7,54,20
+14,Total,199,317,61,58,309,195

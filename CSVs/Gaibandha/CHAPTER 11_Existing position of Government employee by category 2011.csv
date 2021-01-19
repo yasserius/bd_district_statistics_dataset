@@ -1,12 +1,12 @@
 ,0,1,2,3,4,5
 0,Existing position of Government employee by category 2011,,,,,
-1,Upazila,Class-I,Class-II,Class-III,Class-IV,"Number of t
-total employee"
-2,Fulchhari,21,33,494,95,643
-3,Gaibandha Sadar,187,370,2231,142,2930
-4,Gobindaganj,32,47,1186,134,1399
-5,Palashbari,53,47,711,104,915
-6,Sadullapur,15,22,594,137,768
-7,Saghata,15,37,192,20,264
-8,Sundarganj,33,84,1187,266,1570
-9,Total,356,640,6595,898,8489
+1,,,,,,
+2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of t total employee
+3,Fulchhari,21,33,494,95,643
+4,Gaibandha Sadar,187,370,2231,142,2930
+5,Gobindaganj,32,47,1186,134,1399
+6,Palashbari,53,47,711,104,915
+7,Sadullapur,15,22,594,137,768
+8,Saghata,15,37,192,20,264
+9,Sundarganj,33,84,1187,266,1570
+10,Total,356,640,6595,898,8489

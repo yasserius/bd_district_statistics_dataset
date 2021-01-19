@@ -1,16 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Krishi and Co-operative bank 2011,,,,,,,,,,
-1,"
-Upazila",Krishi bank,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank
-2,"
-Upazila",Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
-3,"
-Upazila",Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
-4,Assasuni,2,14980,82,193,4,0,0,0,0,0
-5,Debhata,2,698,69,85,3,0,0,0,0,0
-6,Kalaroa,4,33363,425,393,12,0,0,0,0,0
-7,Kaliganj,1,5325,58,97,0,1,1000,0,200,0
-8,Satkhira Sadar,17,57090,1302,771,7,0,0,0,0,0
-9,Shyamnagar,1,5708,66,149,11,0,0,0,0,0
-10,Tala,1,5621,323,95,56,0,0,0,0,0
-11,Total,28,122785,2325,1783,93,1,1000,0,200,0
+1,,,,,,,,,,,
+2, Upazila,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank
+3, Upazila,Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
+4, Upazila,Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
+5,Assasuni,2,14980,82,193,4,0,0,0,0,0
+6,Debhata,2,698,69,85,3,0,0,0,0,0
+7,Kalaroa,4,33363,425,393,12,0,0,0,0,0
+8,Kaliganj,1,5325,58,97,0,1,1000,0,200,0
+9,Satkhira Sadar,17,57090,1302,771,7,0,0,0,0,0
+10,Shyamnagar,1,5708,66,149,11,0,0,0,0,0
+11,Tala,1,5621,323,95,56,0,0,0,0,0
+12,Total,28,122785,2325,1783,93,1,1000,0,200,0

@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,"Occurrence of river erosion during the years 2008-2011 (Yes, No)",,,,
-1,Upazila,2008,2009,2010,2011
-2,Gazaria,Yes,Yes,Yes,Yes
-3,Lauhajang,Yes,Yes,Yes,Yes
-4,Munshiganj Sadar,Yes,Yes,Yes,Yes
-5,Serajdikhan,No,No,No,No
-6,Sreenagar,Yes,Yes,Yes,Yes
-7,Tongibari,No,No,No,No
+1,,,,,
+2,Upazila,2008,2009,2010,2011
+3,Gazaria,Yes,Yes,Yes,Yes
+4,Lauhajang,Yes,Yes,Yes,Yes
+5,Munshiganj Sadar,Yes,Yes,Yes,Yes
+6,Serajdikhan,No,No,No,No
+7,Sreenagar,Yes,Yes,Yes,Yes
+8,Tongibari,No,No,No,No

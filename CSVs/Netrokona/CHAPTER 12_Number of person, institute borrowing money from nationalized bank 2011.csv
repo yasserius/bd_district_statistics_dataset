@@ -1,28 +1,17 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from nationalized bank 2011",,,,,,,,,,,
-1,"
-
-Upazila",Number of branch of all    nationalized banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-
-Upazila",Number of branch of all    nationalized banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,"Number of
-borrower","Number of
-borrower","Total debt
-(crore tk)","Total debt
-(crore tk)"
-3,"
-
-Upazila",Number of branch of all    nationalized banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Atpara,3,6100,48,0,0,593,170,6690,207,19.29,0.89
-5,Barhatta,5,7794,272,0,0,904,3217,8698,3489,7.16,1.74
-6,Durgapur,5,6242,395,0,0,684,133,6926,528,21.57,2.4
-7,Kalmakanda,1,2550,310,0,0,"235
-0",290,4900,600,13.16,1.5
-8,Kendua,2,10745,0,0,0,4,0,10749,0,19.54,0
-9,Khaliajuri,3,2569,24,0,0,147,14,2796,0,5.56,0
-10,Madan,4,2410,21,0,0,345,0,2785,21,5.31,0.06
-11,Mohanganj,3,4990,1209,0,0,280,90,5270,1470,495,32
-12,Netrokona Sadar,8,12655,1458,8,0,"178
-3",213,14446,1481,68.79,12.66
-13,Purbadhala,8,2306,0,0,0,285,31,2591,31,804,80
-14,Total,42,58361,3737,8,0,7375,4158,65851,7827,1460,131.25
+1,,,,,,,,,,,,
+2,  Upazila,Number of branch of all    nationalized banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3,  Upazila,Number of branch of all    nationalized banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
+4,  Upazila,Number of branch of all    nationalized banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+5,Atpara,3,6100,48,0,0,593,170,6690,207,19.29,0.89
+6,Barhatta,5,7794,272,0,0,904,3217,8698,3489,7.16,1.74
+7,Durgapur,5,6242,395,0,0,684,133,6926,528,21.57,2.4
+8,Kalmakanda,1,2550,310,0,0,235 0,290,4900,600,13.16,1.5
+9,Kendua,2,10745,0,0,0,4,0,10749,0,19.54,0
+10,Khaliajuri,3,2569,24,0,0,147,14,2796,0,5.56,0
+11,Madan,4,2410,21,0,0,345,0,2785,21,5.31,0.06
+12,Mohanganj,3,4990,1209,0,0,280,90,5270,1470,495,32
+13,Netrokona Sadar,8,12655,1458,8,0,178 3,213,14446,1481,68.79,12.66
+14,Purbadhala,8,2306,0,0,0,285,31,2591,31,804,80
+15,Total,42,58361,3737,8,0,7375,4158,65851,7827,1460,131.25

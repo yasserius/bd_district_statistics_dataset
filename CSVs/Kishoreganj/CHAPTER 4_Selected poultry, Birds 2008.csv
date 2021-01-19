@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,"Selected poultry, Birds 2008",,,,,,
-1,"
-Thana/Upazila Nane",Hen and cocks,Hen and cocks,Ducks,Ducks,Others,Others
-2,"
-Thana/Upazila Nane",Holding reporting,Total number,Holding reporting,Total number,Holding reporting,Total number
+1,,,,,,,
+2,Thana/Upazila Nane,Hen and cocks Holding reporting,Hen and cocks Total number,Ducks Holding reporting,Ducks Total number,Others Holding reporting,Others Total number
 3,Austagram,15877,105173,7681,52537,768,5524
 4,Bajitpur,27128,161745,9435,52092,50,196350
 5,Bhairab,23041,118571,10773,56557,126,527

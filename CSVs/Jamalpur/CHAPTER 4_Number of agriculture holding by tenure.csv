@@ -1,8 +1,7 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
 1,(According to Agriculture Census 2008),,,,
-2,Upazila,"Total farm
-holding",Owner holding,Owner cum tenant,Tenant holding
+2,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
 3,Bakshiganj,29391,32861,12134,5012
 4,Dewanganj,32329,31152,14579,10578
 5,Islampur,44685,42643,19576,11763

@@ -1,19 +1,15 @@
 ,0,1,2,3,4,5
 0,Daily average wage rate of non-agricultural labour 2011,,,,,
-1,(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka)
-2,Upazila,"Porter
-(coolee)","Garden labour
-male","Garden female
-labour","Other labour
-(Adult)","Other labour
-(Child)"
-3,Belkuchi,200,250,180,150,100
-4,Chauhali,250,240,170,200,100
-5,Kamarkhanda,300,250,200,200,180
-6,Kazipur,300,250,200,200,120
-7,Royganj,250,300,180,200,100
-8,Shahjadpur,300,250,200,250,100
-9,Sirajganj Sadar,350,250,160,180,120
-10,Tarash,350,250,180,200,80
-11,Ullahpara,260,250,130,200,90
-12,Average,284,254,178,198,110
+1,,,,,,
+2,(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka),(Wage in taka)
+3,Upazila,Porter (coolee),Garden labour male,Garden female labour,Other labour (Adult),Other labour (Child)
+4,Belkuchi,200,250,180,150,100
+5,Chauhali,250,240,170,200,100
+6,Kamarkhanda,300,250,200,200,180
+7,Kazipur,300,250,200,200,120
+8,Royganj,250,300,180,200,100
+9,Shahjadpur,300,250,200,250,100
+10,Sirajganj Sadar,350,250,160,180,120
+11,Tarash,350,250,180,200,80
+12,Ullahpara,260,250,130,200,90
+13,Average,284,254,178,198,110

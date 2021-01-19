@@ -1,13 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Land area under irrigation for selected crops 2008,,,,,,
-1,"
-Upazila",Paddy,Wheat,Wheat,"Potato
-·-'","Potato
-·-'","Potato
-·-'"
-2,"
-Upazila",Total area I Irrigated area,Total area,j Irrigated area,Total area,"
-J",Irrigated area !
+1,,,,,,,
+2,Upazila,Paddy Total area I Irrigated area,Wheat Total area,Wheat j Irrigated area,Potato ·-' Total area,Potato ·-' J,Potato ·-' Irrigated area !
 3,G azaria,10175,2003,372,0,5232,5232
 4,Lohajang,10283,5243,67,0,4999,4999
 5,Munshiganj Sadar,13902,8051,126,0,14771,14771

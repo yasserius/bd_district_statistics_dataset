@@ -1,13 +1,7 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of growth centre, hat, bazar, poultry farm, dairy farm, nursery, horticulture centre, brick kiln, decorator service 2011",,,,,,,,
-1,Upazila,"Growth
-centre","Hat
-/bazar","Poultry
-farm","Dairy
-farm",Nursery,"Horticulture
-centre",Brick kiln,"Decorator
-service"
-2,1,2,3,4,5,6,7,8,9
+1,,,,,,,,,
+2,Upazila 1,Growth centre 2,Hat /bazar 3,Poultry farm 4,Dairy farm 5,Nursery 6,Horticulture centre 7,Brick kiln 8,Decorator service 9
 3,Atgharia,2,18,289,149,36,0,1,41
 4,Bera,10,23,265,418,19,0,7,42
 5,Bhangura,6,11,265,745,12,0,5,19

@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of Auto Rice Mill and Persons Engaged 2011,,,,
-1,"
-Upazila/city corporation","
-Units",Persons engaged,Persons engaged,Persons engaged
-2,"
-Upazila/city corporation","
-Units",Male,Female,Total
+1,,,,,
+2,Upazila/city corporation,Units,Persons engaged Male,Persons engaged Female,Persons engaged Total
 3,Batiaghata,0,0,0,0
 4,Dacope,3,3,30,33
 5,Dighalia,0,0,0,0

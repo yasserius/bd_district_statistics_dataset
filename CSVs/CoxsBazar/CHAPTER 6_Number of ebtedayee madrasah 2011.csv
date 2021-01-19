@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of ebtedayee madrasah 2011,,,,,,,,
-1,Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Chakaria,52,100,160,260,1120,5120,6240,24
-4,Cox's Bazar Sadar,18,60,7,67,1466,1260,2700,40
-5,Kutubdia,14,105,5,110,980,850,1830,17
-6,Moheshkhali,9,30,6,36,1500,1200,2700,75
-7,Pekua,9,30,6,36,812,1637,2449,68
-8,Ramu,7,31,13,44,666,545,1212,28
-9,Teknaf,22,72,0,72,3989,2262,6251,87
-10,Ukhia,14,38,5,43,1024,1089,2113,49
-11,Total,145,466,202,668,11557,13963,25495,38
+1,,,,,,,,,
+2,Upazila,Number of madrasah,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3,Upazila,Number of madrasah,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Chakaria,52,100,160,260,1120,5120,6240,24
+5,Cox's Bazar Sadar,18,60,7,67,1466,1260,2700,40
+6,Kutubdia,14,105,5,110,980,850,1830,17
+7,Moheshkhali,9,30,6,36,1500,1200,2700,75
+8,Pekua,9,30,6,36,812,1637,2449,68
+9,Ramu,7,31,13,44,666,545,1212,28
+10,Teknaf,22,72,0,72,3989,2262,6251,87
+11,Ukhia,14,38,5,43,1024,1089,2113,49
+12,Total,145,466,202,668,11557,13963,25495,38

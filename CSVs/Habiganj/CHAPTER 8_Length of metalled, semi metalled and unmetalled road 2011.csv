@@ -1,8 +1,7 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
 1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,"Unmetalled
-(kacha) road",Total
+2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
 3,Azmirigonj,22.00,8.00,139.00,169.00
 4,Bahubal,85.27,7.06,496.62,589.50
 5,Baniachang,72.00,11.00,449.00,532.00

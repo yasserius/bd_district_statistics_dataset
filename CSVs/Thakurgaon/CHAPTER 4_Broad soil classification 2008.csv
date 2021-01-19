@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Broad soil classification 2008,,,,,,
-1,"
-Upazila","
-Total",Soil classification,Soil classification,Soil classification,Soil classification,Soil classification
-2,"
-Upazila","
-Total",Doash,Bele,Etel,Kankar,Others
+1,,,,,,,
+2,Upazila,Total,Soil classification Doash,Soil classification Bele,Soil classification Etel,Soil classification Kankar,Soil classification Others
 3,Baliadangi,61947,59465,0,2482,0,0
 4,Haripur,43369,14405,2315,7385,0,19264
 5,Pirgonj,27027,10575,7410,9042,0,0

@@ -1,18 +1,13 @@
 ,0,1,2,3,4
 0,"Area and production at water melon, melon (bangi) in following years",,,,
 1,(Area in acre and production in metric ton),,,,
-2,"
-Upazila",Year,Year,Year,Year
-3,"
-Upazila",2010-11,2010-11,2009-10,2009-10
-4,"
-Upazila",Area,Production,Area,Production
-5,Dighinala,36,2160,35,2100
-6,Khagrachhari Sadar,29,56,26,50
-7,Laxshmichhari,11,27,10,25
-8,Mahalchhari,0,0,0,0
-9,Manikchhari,46,129,43,125
-10,Matiranga,56,3490,50,3190
-11,Panchhari,12,54,11,48
-12,Ramgarh,0,0,0,0
-13,Total,190,5916,175,5536
+2,Upazila,Year 2010-11 Area,Year 2010-11 Production,Year 2009-10 Area,Year 2009-10 Production
+3,Dighinala,36,2160,35,2100
+4,Khagrachhari Sadar,29,56,26,50
+5,Laxshmichhari,11,27,10,25
+6,Mahalchhari,0,0,0,0
+7,Manikchhari,46,129,43,125
+8,Matiranga,56,3490,50,3190
+9,Panchhari,12,54,11,48
+10,Ramgarh,0,0,0,0
+11,Total,190,5916,175,5536

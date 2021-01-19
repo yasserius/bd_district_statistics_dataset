@@ -1,12 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Land Area under irrigation for selected crops 2008,,,,,,
-1,"
-Upazila",All Paddy,All Paddy,Wheat,Wheat,Potato,Potato
-2,"
-Upazila",Total area,"Irrigated
-area",Total area,"Irrigated
-area",Total area,"Irrigated
-area"
+1,,,,,,,
+2,Upazila,All Paddy Total area,All Paddy Irrigated area,Wheat Total area,Wheat Irrigated area,Potato Total area,Potato Irrigated area
 3,Bhola Sadar,84710,26986,2681,2964,890,1605
 4,Burhanuddin,39360,12652,326,235,495,345
 5,Char Fasson,10110,30480,481,683,1380,572

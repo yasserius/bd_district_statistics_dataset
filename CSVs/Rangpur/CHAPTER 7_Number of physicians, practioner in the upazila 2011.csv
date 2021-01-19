@@ -1,15 +1,13 @@
 ,0,1,2,3,4,5
 0,"Number of physicians, practioner in the upazila 2011",,,,,
-1,Upazila,"Total
-physicians","MBBS &
-FCPS",L.M.F,"Unani /
-Ayurbedic",Homeopathy
-2,Badarganj,19,5,3,1,10
-3,Gangachara,116,5,31,26,54
-4,Kaunia,0,0,0,0,0
-5,Mithapukur,579,14,215,23,327
-6,Pirgachha,3,3,57,36,190
-7,Pirganj,3,3,8,16,66
-8,Rangpur sadar,971,148,330,345,148
-9,Taraganj,199,10,69,49,71
-10,Total,1890,188,713,496,866
+1,,,,,,
+2,Upazila,Total physicians,MBBS & FCPS,L.M.F,Unani / Ayurbedic,Homeopathy
+3,Badarganj,19,5,3,1,10
+4,Gangachara,116,5,31,26,54
+5,Kaunia,0,0,0,0,0
+6,Mithapukur,579,14,215,23,327
+7,Pirgachha,3,3,57,36,190
+8,Pirganj,3,3,8,16,66
+9,Rangpur sadar,971,148,330,345,148
+10,Taraganj,199,10,69,49,71
+11,Total,1890,188,713,496,866

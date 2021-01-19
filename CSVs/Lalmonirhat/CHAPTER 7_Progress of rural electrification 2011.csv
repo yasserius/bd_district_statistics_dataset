@@ -1,13 +1,7 @@
 ,0,1,2,3,4,5,6,7,8
 0,Progress of rural electrification 2011,,,,,,,,
-1,"
-
-Upazila",Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified
-2,"
-
-Upazila","
-Village",Residential holding,Large scale industry,Small scale industry,Deep tube- well,Power pump,Commercial holding,"
-Others"
+1,,,,,,,,,
+2,Upazila,Number of electrified Village,Number of electrified Residential holding,Number of electrified Large scale industry,Number of electrified Small scale industry,Number of electrified Deep tube- well,Number of electrified Power pump,Number of electrified Commercial holding,Number of electrified Others
 3,Aditmari,101,7000,2,122,42,7,2000,0
 4,Hatibandha,0,0,0,0,51,700,100,0
 5,Kaligonj,0,0,0,0,0,0,0,0

@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,"
-Upazila",Number of pumps fielded,Number of pumps fielded,Number of pumps fielded,"
-Area irrigated (in acres)"
-2,"
-Upazila",Electric,Diesel,Total,"
-Area irrigated (in acres)"
+1,,,,,
+2,Upazila,Number of pumps fielded Electric,Number of pumps fielded Diesel,Number of pumps fielded Total,Area irrigated (in acres)
 3,Basail,1652,2382,4034,26350
 4,Bhuapur,598,2098,2693,15124
 5,Delduar,1765,1935,3700,20006

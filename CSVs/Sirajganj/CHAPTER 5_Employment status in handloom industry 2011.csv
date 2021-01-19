@@ -1,19 +1,15 @@
 ,0,1,2,3,4,5
 0,Employment status in handloom industry 2011,,,,,
-1,"
-Upazila",Number of handloom,Person engaged,Person engaged,Person engaged,"
-Total"
-2,"
-Upazila",Number of handloom,Family member,Regular,"Hired
-/Casual","
-Total"
-3,Belkuchi,310250,8300,32500,8700,49500
-4,Chauhali,6994,2012,5015,322,7349
-5,Kamarkhanda,1237,510,1237,1000,2747
-6,Kazipur,2932,506,2390,542,3438
-7,Royganj,5580,3820,4185,3585,11590
-8,Shahjadpur,47900,20700,20000,25000,65700
-9,Sirajganj Sadar,15916,1997,13792,19494,35283
-10,Tarash,26,14,7,7,28
-11,Ullahpara,14844,8544,10391,13586,32521
-12,Total,405679,46403,89517,72236,208156
+1,,,,,,
+2, Upazila,Number of handloom,Person engaged,Person engaged,Person engaged, Total
+3, Upazila,Number of handloom,Family member,Regular,Hired /Casual, Total
+4,Belkuchi,310250,8300,32500,8700,49500
+5,Chauhali,6994,2012,5015,322,7349
+6,Kamarkhanda,1237,510,1237,1000,2747
+7,Kazipur,2932,506,2390,542,3438
+8,Royganj,5580,3820,4185,3585,11590
+9,Shahjadpur,47900,20700,20000,25000,65700
+10,Sirajganj Sadar,15916,1997,13792,19494,35283
+11,Tarash,26,14,7,7,28
+12,Ullahpara,14844,8544,10391,13586,32521
+13,Total,405679,46403,89517,72236,208156

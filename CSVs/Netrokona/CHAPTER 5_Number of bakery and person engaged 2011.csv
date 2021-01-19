@@ -1,19 +1,16 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Atpara,5,3,30,33
-4,Barhatta,6,6,25,31
-5,Durgapur,5,5,30,35
-6,Kalmakanda,7,10,32,42
-7,Kendua,9,10,82,92
-8,Khaliajuri,1,3,4,7
-9,Madan,4,4,8,12
-10,Mohanganj,6,30,0,30
-11,Netrokona Sadar,25,50,150,200
-12,Purbadhala,5,5,20,25
-13,Total,73,126,381,507
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Atpara,5,3,30,33
+5,Barhatta,6,6,25,31
+6,Durgapur,5,5,30,35
+7,Kalmakanda,7,10,32,42
+8,Kendua,9,10,82,92
+9,Khaliajuri,1,3,4,7
+10,Madan,4,4,8,12
+11,Mohanganj,6,30,0,30
+12,Netrokona Sadar,25,50,150,200
+13,Purbadhala,5,5,20,25
+14,Total,73,126,381,507

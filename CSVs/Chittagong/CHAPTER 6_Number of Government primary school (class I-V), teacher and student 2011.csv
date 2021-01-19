@@ -1,30 +1,21 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Government primary school (class I-V), teacher and student 2011",,,,,,,,
-1,"
-Upazila/City corporation","Number of Government primary
-school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila/City corporation","Number of Government primary
-school","
-Male","
-Female","
-Total","
-Male","
-Female","
-Total",Students per teacher
-3,Anowara,88,155,366,521,24786,24473,49259,95
-4,Banshkhali,110,418,300,718,23412,24295,47707,66
-5,Boalkhali,87,200,370,570,11000,9979,20979,37
-6,Chandanaish,64,211,217,428,13074,14653,27727,65
-7,Chittagong City Corp.,179,501,993,1494,69186,71222,140408,94
-8,Fatikchhari,133,272,492,764,35751,33002,68753,90
-9,Hathazari,118,162,541,703,28653,19101,47754,68
-10,Lohagara,62,201,245,446,9003,13504,22507,50
-11,Mirsharai,145,253,565,818,18966,19460,38426,47
-12,Patiya,147,417,352,769,43900,39500,83400,108
-13,Rangunia,93,231,403,634,14127,16065,30192,48
-14,Raozan,147,358,435,793,22927,23578,46505,59
-15,Sandwip,115,615,210,825,3700,4000,7700,9
-16,Satkania,104,293,427,720,19589,20142,39731,55
-17,Sitakunda,73,152,368,520,14958,15568,30526,59
-18,Total,1665,4439,6284,10723,353032,348542,701574,65
+1,,,,,,,,,
+2, Upazila/City corporation,Number of Government primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila/City corporation,Number of Government primary school, Male, Female, Total, Male, Female, Total,Students per teacher
+4,Anowara,88,155,366,521,24786,24473,49259,95
+5,Banshkhali,110,418,300,718,23412,24295,47707,66
+6,Boalkhali,87,200,370,570,11000,9979,20979,37
+7,Chandanaish,64,211,217,428,13074,14653,27727,65
+8,Chittagong City Corp.,179,501,993,1494,69186,71222,140408,94
+9,Fatikchhari,133,272,492,764,35751,33002,68753,90
+10,Hathazari,118,162,541,703,28653,19101,47754,68
+11,Lohagara,62,201,245,446,9003,13504,22507,50
+12,Mirsharai,145,253,565,818,18966,19460,38426,47
+13,Patiya,147,417,352,769,43900,39500,83400,108
+14,Rangunia,93,231,403,634,14127,16065,30192,48
+15,Raozan,147,358,435,793,22927,23578,46505,59
+16,Sandwip,115,615,210,825,3700,4000,7700,9
+17,Satkania,104,293,427,720,19589,20142,39731,55
+18,Sitakunda,73,152,368,520,14958,15568,30526,59
+19,Total,1665,4439,6284,10723,353032,348542,701574,65

@@ -1,15 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building materials 2011,,,,,,
-1,(Price in Taka),(Price in Taka),(Price in Taka),(Price in Taka),(Price in Taka),(Price in Taka),(Price in Taka)
-2,"
-Upazila",Brick-01 (per1000),"Cement (per 50 KG
-bag)",Iron bar (per ton),Sand-01 (Per C.Ft.),Sand -02 (Per C.Ft.),Stone (per C.Ft.)
-3,Chandpur Sadar,7000,415,56000,9,5,82
-4,Foridganj,6200,450,70000,5,4,50
-5,Haimchar,7000,390,55000,8,6,0
-6,Hajiganj,7000,470,66000,14,8,25
-7,Kachua,7500,480,72000,15,12,75
-8,Matlab Dakshin,6500,430,72000,8,5,80
-9,Matlab Uttar,6500,430,72000,8,5,110
-10,Shahrasti,6000,450,70000,15,12,60
-11,Average,6713,439,66625,10,7,60
+1,,,,,,,
+2,(Price in Taka),(Price in Taka),(Price in Taka),(Price in Taka),(Price in Taka),(Price in Taka),(Price in Taka)
+3, Upazila,Brick-01 (per1000),Cement (per 50 KG bag),Iron bar (per ton),Sand-01 (Per C.Ft.),Sand -02 (Per C.Ft.),Stone (per C.Ft.)
+4,Chandpur Sadar,7000,415,56000,9,5,82
+5,Foridganj,6200,450,70000,5,4,50
+6,Haimchar,7000,390,55000,8,6,0
+7,Hajiganj,7000,470,66000,14,8,25
+8,Kachua,7500,480,72000,15,12,75
+9,Matlab Dakshin,6500,430,72000,8,5,80
+10,Matlab Uttar,6500,430,72000,8,5,110
+11,Shahrasti,6000,450,70000,15,12,60
+12,Average,6713,439,66625,10,7,60

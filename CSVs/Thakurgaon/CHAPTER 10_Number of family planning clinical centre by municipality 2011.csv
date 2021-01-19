@@ -1,12 +1,10 @@
 ,0,1,2,3,4,5
 0,Number of family planning clinical centre by municipality 2011,,,,,
-1,"
-Upazila",Sterilization centre,"
-Mobile centre",Injection centre,"Menstrual regularization
-centre",Family welfare centre
-2,Baliadangi,0,0,0,0,0
-3,Haripur,0,0,0,0,0
-4,Pirgonj,1,0,0,1,1
-5,Ranisankail,1,0,1,1,1
-6,Thakurgaon Sadar,1,0,1,0,1
-7,Total,3,0,2,2,3
+1,,,,,,
+2,Upazila,Sterilization centre,Mobile centre,Injection centre,Menstrual regularization centre,Family welfare centre
+3,Baliadangi,0,0,0,0,0
+4,Haripur,0,0,0,0,0
+5,Pirgonj,1,0,0,1,1
+6,Ranisankail,1,0,1,1,1
+7,Thakurgaon Sadar,1,0,1,0,1
+8,Total,3,0,2,2,3

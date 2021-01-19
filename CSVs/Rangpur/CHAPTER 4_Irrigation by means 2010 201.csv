@@ -1,12 +1,8 @@
 ,0,1,2,3,4,5,6,7
 0,Irrigation by means 2010 201,,,,,,,
 1,(area in acre),,,,,,,
-2,"
-Upazila",Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,"
-Total"
-3,"
-Upazila",Power pump,Tube well,Doon,Swing basket,Canal,Others,"
-Total"
+2, Upazila,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management,Irrigation management, Total
+3, Upazila,Power pump,Tube well,Doon,Swing basket,Canal,Others, Total
 4,Badarganj,22526,43903,0,0,0,0,43973
 5,Gangachara,6383,37515,70,90,1800,15,44500
 6,Kaunia,8677,21630,12,10,6,15,21743

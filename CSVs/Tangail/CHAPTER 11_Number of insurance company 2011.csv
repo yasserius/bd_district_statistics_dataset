@@ -1,16 +1,17 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,Upazila,Number of insurance company,Number of employee,Number of client
-2,Basail,5,51,6335
-3,Bhuapur,6,561,7880
-4,Delduar,13,167,2897
-5,Dhanbari,6,306,5620
-6,Ghatail,5,13,4544
-7,Gopalpur,2,192,2765
-8,Kalihati,19,102,1300
-9,Madhupur,1,2,3000
-10,Mirzapur,9,55,16958
-11,Nagarpur,10,30,500
-12,Sakhipur,5,118,5237
-13,Tangail Sadar,23,124,71135
-14,Total,104,1721,128171
+1,,,,
+2,Upazila,Number of insurance company,Number of employee,Number of client
+3,Basail,5,51,6335
+4,Bhuapur,6,561,7880
+5,Delduar,13,167,2897
+6,Dhanbari,6,306,5620
+7,Ghatail,5,13,4544
+8,Gopalpur,2,192,2765
+9,Kalihati,19,102,1300
+10,Madhupur,1,2,3000
+11,Mirzapur,9,55,16958
+12,Nagarpur,10,30,500
+13,Sakhipur,5,118,5237
+14,Tangail Sadar,23,124,71135
+15,Total,104,1721,128171

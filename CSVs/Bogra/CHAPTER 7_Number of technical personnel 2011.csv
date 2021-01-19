@@ -1,19 +1,17 @@
 ,0,1,2,3,4,5,6,7
 0,Number of technical personnel 2011,,,,,,,
-1,"
-Upazila",Agricultural personnel,"Live-
-stock personnel",Plant protection,Fishery personnel,Sanitary personnel,"Family
-planning personnel",Trained midwife
-2,Adamdighi,0,0,0,0,0,0,0
-3,Bogra sadar,413,300,56,213,165,576,47
-4,Dhunat,33,30,0,17,6,92,9
-5,Gabtali,25277,70,625,620,360,203,47
-6,Dhupchanchia,850,24,0,450,28,78,24
-7,Kahaloo,20,35,0,865,32,83,34
-8,Nandigram,60675,15,0,315,16,30,7
-9,Sariakandi,33,21,0,3,10,104,27
-10,Sherpur,39,7,31,4,10,75,4
-11,Shibganj,34,7,0,3,4,65,13
-12,Sonatola,141,82,0,24,30,60,0
-13,Shajahanpur,89125,19,0,250,450,92,12
-14,Total,176640,610,712,2764,1111,1458,224
+1,,,,,,,,
+2,Upazila,Agricultural personnel,Live- stock personnel,Plant protection,Fishery personnel,Sanitary personnel,Family planning personnel,Trained midwife
+3,Adamdighi,0,0,0,0,0,0,0
+4,Bogra sadar,413,300,56,213,165,576,47
+5,Dhunat,33,30,0,17,6,92,9
+6,Gabtali,25277,70,625,620,360,203,47
+7,Dhupchanchia,850,24,0,450,28,78,24
+8,Kahaloo,20,35,0,865,32,83,34
+9,Nandigram,60675,15,0,315,16,30,7
+10,Sariakandi,33,21,0,3,10,104,27
+11,Sherpur,39,7,31,4,10,75,4
+12,Shibganj,34,7,0,3,4,65,13
+13,Sonatola,141,82,0,24,30,60,0
+14,Shajahanpur,89125,19,0,250,450,92,12
+15,Total,176640,610,712,2764,1111,1458,224

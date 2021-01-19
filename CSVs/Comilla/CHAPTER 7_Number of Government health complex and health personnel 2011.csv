@@ -1,25 +1,21 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and health personnel 2011,,,,,
-1,Upazila,"Number of
-bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Adarsha Sadar,750,142,222,23,182
-3,Barura,31,22,9,6,63
-4,Brahmanpara,50,13,6,5,58
-5,Burichang,31,13,15,6,115
-6,Chandina,51,21,12,6,126
-7,Chauddagram,50,36,6,3,175
-8,Comilla Sadar Dakshin,31,20,6,5,68
-9,Daudkandi,50,27,13,6,139
-10,Debidwar,50,17,12,6,32
-11,Homna,50,18,11,10,90
-12,Laksam,50,20,12,7,56
-13,Monoharganj,0,16,0,3,14
-14,Meghna,31,16,1,4,31
-15,Muradnagar,50,35,11,8,150
-16,Nangalkot,50,24,8,5,81
-17,Titas,31,19,9,4,50
-18,Total,1356,459,353,107,1430
+1,,,,,,
+2,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Adarsha Sadar,750,142,222,23,182
+4,Barura,31,22,9,6,63
+5,Brahmanpara,50,13,6,5,58
+6,Burichang,31,13,15,6,115
+7,Chandina,51,21,12,6,126
+8,Chauddagram,50,36,6,3,175
+9,Comilla Sadar Dakshin,31,20,6,5,68
+10,Daudkandi,50,27,13,6,139
+11,Debidwar,50,17,12,6,32
+12,Homna,50,18,11,10,90
+13,Laksam,50,20,12,7,56
+14,Monoharganj,0,16,0,3,14
+15,Meghna,31,16,1,4,31
+16,Muradnagar,50,35,11,8,150
+17,Nangalkot,50,24,8,5,81
+18,Titas,31,19,9,4,50
+19,Total,1356,459,353,107,1430

@@ -1,17 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of registered primary school (class I-V), teacher and student 2011",,,,,,,,
-1,"
-Upazila","Number of
-registered primary school",Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila","Number of
-registered primary school",Male,Female,Total,Male,Female,Total,Students per teacher
-3,Azmirigonj,16,34,29,61,1444,1563,3007,49
-4,Bahubal,25,49,32,81,1842,2530,4372,53
-5,Baniachang,41,62,102,164,13220,11380,24600,150
-6,Chunarughat,56,121,84,205,4813,5190,10003,49
-7,Habiganj Sadar,45,47,73,120,5129,3850,8979,74
-8,Lakhai,19,42,22,64,1625,2075,3700,57
-9,Madhabpur,47,65,95,160,4499,4261,8758,55
-10,Nabiganj,27,60,24,84,1562,1678,3240,38
-11,Total,276,480,461,939,34134,32527,62287,66
+1,,,,,,,,,
+2, Upazila,Number of registered primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of registered primary school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Azmirigonj,16,34,29,61,1444,1563,3007,49
+5,Bahubal,25,49,32,81,1842,2530,4372,53
+6,Baniachang,41,62,102,164,13220,11380,24600,150
+7,Chunarughat,56,121,84,205,4813,5190,10003,49
+8,Habiganj Sadar,45,47,73,120,5129,3850,8979,74
+9,Lakhai,19,42,22,64,1625,2075,3700,57
+10,Madhabpur,47,65,95,160,4499,4261,8758,55
+11,Nabiganj,27,60,24,84,1562,1678,3240,38
+12,Total,276,480,461,939,34134,32527,62287,66

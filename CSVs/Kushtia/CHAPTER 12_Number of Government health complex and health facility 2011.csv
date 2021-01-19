@@ -1,42 +1,11 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Government health complex and health facility 2011,,,,,,,,,,
-1,"
-
-Upazila",Number of   Hospital/ Clinic/ nursing home,"
-
-Number of bed","
-Number of  doctor","
-
-Number of nurse","
-
-Number of technician","
-Number of other staff",Number of patient under health facilities-2011,Number of patient under health facilities-2011,Number of patient under health facilities-2011,Number of patient under health facilities-2011
-2,"
-
-Upazila",Number of   Hospital/ Clinic/ nursing home,"
-
-Number of bed","
-Number of  doctor","
-
-Number of nurse","
-
-Number of technician","
-Number of other staff",Indoor,Indoor,Outdoor,Outdoor
-3,"
-
-Upazila",Number of   Hospital/ Clinic/ nursing home,"
-
-Number of bed","
-Number of  doctor","
-
-Number of nurse","
-
-Number of technician","
-Number of other staff",Male,Female,Male,Female
-4,Kushtia Sadar,2,260,51,77,12,51,19552,20455,100559,116680
-5,Bheramara,1,50,10,13,7,26,1460,1800,12000,21000
-6,Daulatpur,1,50,11,15,6,195,8200,19100,10705,17700
-7,Khoksa,1,31,11,11,4,76,5416,6652,6309,13200
-8,Kumarkhali,2,50,9,12,5,108,250,350,13000,14000
-9,Mirpur,1,50,32,15,7,115,3109,1675,23940,15960
-10,Total,8,491,124,143,41,571,37987,50032,166513,198540
+1,,,,,,,,,,,
+2,Upazila,Number of Hospital/ Clinic/ nursing home,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff,Number of patient under health facilities-2011 Indoor Male,Number of patient under health facilities-2011 Indoor Female,Number of patient under health facilities-2011 Outdoor Male,Number of patient under health facilities-2011 Outdoor Female
+3,Kushtia Sadar,2,260,51,77,12,51,19552,20455,100559,116680
+4,Bheramara,1,50,10,13,7,26,1460,1800,12000,21000
+5,Daulatpur,1,50,11,15,6,195,8200,19100,10705,17700
+6,Khoksa,1,31,11,11,4,76,5416,6652,6309,13200
+7,Kumarkhali,2,50,9,12,5,108,250,350,13000,14000
+8,Mirpur,1,50,32,15,7,115,3109,1675,23940,15960
+9,Total,8,491,124,143,41,571,37987,50032,166513,198540

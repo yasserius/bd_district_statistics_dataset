@@ -1,25 +1,16 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from nationalized bank 2011",,,,,,,,,,,
-1,"
-Upazila","Number of branch of all    nationalized
-banks",Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-Upazila","Number of branch of all    nationalized
-banks",Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,"Number of
-borrower","Number of
-borrower","Total debt
-(crore tk)","Total debt
-(crore tk)"
-3,"
-Upazila","Number of branch of all    nationalized
-banks",Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Alfadanga,5,1102,0,0,0,123,46,1205,46,5,0
-5,Bhanga,8,4454,110,0,0,1314,144,5768,254,12,21
-6,Boalmari,5,12542,120,0,0,969,95,0,0,55,0
-7,Charbhadrashon,4,1702,119,0,0,1002,76,2704,195,7,5
-8,Faridpur Sadar,19,10528,176,79,0,5155,842,15762,1018,3312,5
-9,Madhukhali,3,4423,94,0,0,338,50,4761,144,55,2
-10,Nagarkanda,3,4170,417,0,0,86,0,4256,417,14,1
-11,Sadarpur,4,2925,38,0,0,887,33,3812,71,19,0
-12,Saltha,1,0,0,0,0,51,0,51,0,2,0
-13,Total,52,41846,1074,79,0,9925,1286,38319,2145,3480,34
+1,,,,,,,,,,,,
+2, Upazila,Number of branch of all    nationalized banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3, Upazila,Number of branch of all    nationalized banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
+4, Upazila,Number of branch of all    nationalized banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+5,Alfadanga,5,1102,0,0,0,123,46,1205,46,5,0
+6,Bhanga,8,4454,110,0,0,1314,144,5768,254,12,21
+7,Boalmari,5,12542,120,0,0,969,95,0,0,55,0
+8,Charbhadrashon,4,1702,119,0,0,1002,76,2704,195,7,5
+9,Faridpur Sadar,19,10528,176,79,0,5155,842,15762,1018,3312,5
+10,Madhukhali,3,4423,94,0,0,338,50,4761,144,55,2
+11,Nagarkanda,3,4170,417,0,0,86,0,4256,417,14,1
+12,Sadarpur,4,2925,38,0,0,887,33,3812,71,19,0
+13,Saltha,1,0,0,0,0,51,0,51,0,2,0
+14,Total,52,41846,1074,79,0,9925,1286,38319,2145,3480,34

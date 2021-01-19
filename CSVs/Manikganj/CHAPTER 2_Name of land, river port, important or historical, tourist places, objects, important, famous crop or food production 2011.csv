@@ -1,14 +1,11 @@
 ,0,1,2,3,4
 0,"Name of land, river port, important or historical, tourist places, objects, important, famous crop or food production 2011",,,,
-1,"
-Upazila",Name of land/river/sea port,Name of Important or historical/tourist place/object,"
-Name of important /famous crop or food production","Distance between district head quarter & upazila by road
-(km)"
-2,Daulotpur,-,-,"Mestered, Potato",26
-3,Gheor,-,-,"Paddy, Potato",21
-4,Horirampur,-,Machayan Mosjid,Hajari khajor gur,32
-5,"Manikganj
-Sadar",-,Mother moth,"Paddy, Corn",2
-6,Saturia,-,Shatorma jomidar bari,"Tobaco, Corn, Mastard",30
-7,Shibalaya,Patoria,Tatowta jomidar bari,"Jute, wheat, Mestered, Paddy",20
-8,Singair,-,Shahid Rafik musium,-,16
+1,,,,,
+2, Upazila,Name of land/river/sea port,Name of Important or historical/tourist place/object, Name of important /famous crop or food production,Distance between district head quarter & upazila by road (km)
+3,Daulotpur,-,-,"Mestered, Potato",26
+4,Gheor,-,-,"Paddy, Potato",21
+5,Horirampur,-,Machayan Mosjid,Hajari khajor gur,32
+6,Manikganj Sadar,-,Mother moth,"Paddy, Corn",2
+7,Saturia,-,Shatorma jomidar bari,"Tobaco, Corn, Mastard",30
+8,Shibalaya,Patoria,Tatowta jomidar bari,"Jute, wheat, Mestered, Paddy",20
+9,Singair,-,Shahid Rafik musium,-,16

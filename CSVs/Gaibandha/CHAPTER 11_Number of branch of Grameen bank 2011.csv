@@ -1,14 +1,12 @@
 ,0,1,2,3,4
 0,Number of branch of Grameen bank 2011,,,,
-1,Upazila,"Number of
-branch","Number of
-employee","Number of
-member",Number of account
-2,Fulchhari,3,17,7200,7700
-3,Gaibandha Sadar,11,60,18795,25841
-4,Gobindaganj,11,80,35459,33459
-5,Palashbari,6,37,24648,28703
-6,Sadullapur,7,50,28264,28264
-7,Saghata,5,85,521,20840
-8,Sundarganj,8,65,28837,31237
-9,Total,51,394,143724,176044
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of member,Number of account
+3,Fulchhari,3,17,7200,7700
+4,Gaibandha Sadar,11,60,18795,25841
+5,Gobindaganj,11,80,35459,33459
+6,Palashbari,6,37,24648,28703
+7,Sadullapur,7,50,28264,28264
+8,Saghata,5,85,521,20840
+9,Sundarganj,8,65,28837,31237
+10,Total,51,394,143724,176044

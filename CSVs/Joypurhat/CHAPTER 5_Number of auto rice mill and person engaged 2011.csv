@@ -1,14 +1,11 @@
 ,0,1,2,3,4
 0,Number of auto rice mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Male,Female,Total
-3,Akkelpur,0,0,0,0
-4,Joypurhat sadar,7,21,175,196
-5,Kalai,0,0,0,0
-6,Khetlal,0,0,0,0
-7,Panchbibi,2,4,50,54
-8,Total,9,25,225,250
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Male,Female,Total
+4,Akkelpur,0,0,0,0
+5,Joypurhat sadar,7,21,175,196
+6,Kalai,0,0,0,0
+7,Khetlal,0,0,0,0
+8,Panchbibi,2,4,50,54
+9,Total,9,25,225,250

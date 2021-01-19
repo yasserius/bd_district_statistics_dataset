@@ -1,23 +1,19 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting cattle head 2008,,,,,,
-1,"
-Upazila","
-Total holding",Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
-2,"
-Upazila","
-Total holding",1-3 head,4-6 head,7 -9 head,10-15 head,"15 head &
-above"
-3,Biral,42676,19288,10570,9361,4228,1229
-4,Birampur,26664,13210,7315,3520,2130,489
-5,Birganj,47564,24635,14293,5757,2528,351
-6,Bochaganj,24867,16943,5920,1609,395,0
-7,Chirirbandar,43387,28608,9424,3905,1300,150
-8,Dinajpur Sadar,41385,32635,5800,1200,950,800
-9,Fulbari,25626,12813,7688,2562,1537,1026
-10,Ghoraghat,12741,8282,3185,955,254,65
-11,Hakimpur,12529,8144,3132,877,251,125
-12,Kaharole,25151,65267,39003,17763,12180,2100
-13,Khansama,19576,15200,4241,100,25,10
-14,Nawabganj,30918,20632,7730,2164,318,74
-15,Parbatipur,53015,18555,21206,10603,2121,530
-16,Total,406099,284212,139507,60376,28217,6949
+1,,,,,,,
+2, Upazila, Total holding,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
+3, Upazila, Total holding,1-3 head,4-6 head,7 -9 head,10-15 head,15 head & above
+4,Biral,42676,19288,10570,9361,4228,1229
+5,Birampur,26664,13210,7315,3520,2130,489
+6,Birganj,47564,24635,14293,5757,2528,351
+7,Bochaganj,24867,16943,5920,1609,395,0
+8,Chirirbandar,43387,28608,9424,3905,1300,150
+9,Dinajpur Sadar,41385,32635,5800,1200,950,800
+10,Fulbari,25626,12813,7688,2562,1537,1026
+11,Ghoraghat,12741,8282,3185,955,254,65
+12,Hakimpur,12529,8144,3132,877,251,125
+13,Kaharole,25151,65267,39003,17763,12180,2100
+14,Khansama,19576,15200,4241,100,25,10
+15,Nawabganj,30918,20632,7730,2164,318,74
+16,Parbatipur,53015,18555,21206,10603,2121,530
+17,Total,406099,284212,139507,60376,28217,6949

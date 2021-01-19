@@ -1,12 +1,10 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of health centre, providing health and family planning service 2011",,,,,,,
-1,"
-Upazila",Number of union health centre,Health service,"
-Sterilization","
-M.R.",Injection/ copper-T,Oral pill/ condom,Number of immunization centre
-2,Gopalganj Sadar,21,44000,1264,187,17374,66347,420
-3,Kashiani,14,14012,415,300,21814,17533,338
-4,Kotalipara,10,10142,175,127,2987,15129,289
-5,Muksudpur,13,13541,676,120,8126,23539,178
-6,Tungipara,5,14520,288,125,1875,22172,170
-7,Total,63,96215,2818,859,52176,144720,1395
+1,,,,,,,,
+2, Upazila,Number of union health centre,Health service, Sterilization, M.R.,Injection/ copper-T,Oral pill/ condom,Number of immunization centre
+3,Gopalganj Sadar,21,44000,1264,187,17374,66347,420
+4,Kashiani,14,14012,415,300,21814,17533,338
+5,Kotalipara,10,10142,175,127,2987,15129,289
+6,Muksudpur,13,13541,676,120,8126,23539,178
+7,Tungipara,5,14520,288,125,1875,22172,170
+8,Total,63,96215,2818,859,52176,144720,1395

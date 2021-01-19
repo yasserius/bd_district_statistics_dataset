@@ -1,12 +1,11 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
-1,Upazila,"Total farm
-holding",Owner holding,"Owner cum
-tenant",Tenant holding
-2,Kushtia Sadar,49502,23425,24641,1436
-3,Bheramara,22456,11122,10715,619
-4,Daulatpur,78000,32000,28000,18000
-5,Khoksa,16808,9715,7093,3243
-6,Kumarkhali,38768,19012,18951,805
-7,Mirpur,35462,30315,22530,15429
-8,Total,240996,125589,111930,39532
+1,,,,,
+2,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
+3,Kushtia Sadar,49502,23425,24641,1436
+4,Bheramara,22456,11122,10715,619
+5,Daulatpur,78000,32000,28000,18000
+6,Khoksa,16808,9715,7093,3243
+7,Kumarkhali,38768,19012,18951,805
+8,Mirpur,35462,30315,22530,15429
+9,Total,240996,125589,111930,39532

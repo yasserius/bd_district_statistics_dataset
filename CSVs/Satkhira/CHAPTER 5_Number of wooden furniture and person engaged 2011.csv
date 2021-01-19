@@ -1,16 +1,13 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Assasuni,145,145,300,445
-4,Debhata,42,42,126,168
-5,Kalaroa,165,165,247,412
-6,Kaliganj,75,125,150,275
-7,Satkhira Sadar,200,350,1500,1850
-8,Shyamnagar,618,1258,1912,3170
-9,Tala,107,107,287,394
-10,Total,1352,2192,4522,6714
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Assasuni,145,145,300,445
+5,Debhata,42,42,126,168
+6,Kalaroa,165,165,247,412
+7,Kaliganj,75,125,150,275
+8,Satkhira Sadar,200,350,1500,1850
+9,Shyamnagar,618,1258,1912,3170
+10,Tala,107,107,287,394
+11,Total,1352,2192,4522,6714

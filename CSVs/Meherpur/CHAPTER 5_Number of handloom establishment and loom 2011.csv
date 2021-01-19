@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Number of handloom establishment and loom 2011,,,,
-1,"
-Upazila/Municipality",Number of units (factory),Number of loom,Number of loom,Number of loom
-2,"
-Upazila/Municipality",Number of units (factory),Operational,Non-operational,Total
+1,,,,,
+2,Upazila/Municipality,Number of units (factory),Number of loom Operational,Number of loom Non-operational,Number of loom Total
 3,Gangni,85,85,225,310
 4,Mujibnagar,92,30,100,130
 5,Meherpur Sadar,0,0,0,0

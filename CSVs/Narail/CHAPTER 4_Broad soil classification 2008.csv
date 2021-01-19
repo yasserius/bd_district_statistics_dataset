@@ -1,12 +1,9 @@
 ,0,1,2,3,4,5,6
 0,Broad soil classification 2008,,,,,,
-1,"
-Upazila","
-Total",Soil classification,Soil classification,Soil classification,Soil classification,Soil classification
-2,"
-Upazila","
-Total",Doash,Bele,Etel,Kankar,Others
-3,Kalia,61939,27642,10324,22961,0,1012
-4,Lohagara,66752,43390,2002,21360,0,0
-5,Narail Sadar,80490,26420,26500,25000,0,0
-6,Total,209181,97452,38826,69321,0,1012
+1,,,,,,,
+2, Upazila, Total,Soil classification,Soil classification,Soil classification,Soil classification,Soil classification
+3, Upazila, Total,Doash,Bele,Etel,Kankar,Others
+4,Kalia,61939,27642,10324,22961,0,1012
+5,Lohagara,66752,43390,2002,21360,0,0
+6,Narail Sadar,80490,26420,26500,25000,0,0
+7,Total,209181,97452,38826,69321,0,1012

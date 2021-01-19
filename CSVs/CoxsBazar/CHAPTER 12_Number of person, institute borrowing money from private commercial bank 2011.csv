@@ -1,26 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,"
-
-Upazila",Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-
-Upazila",Number of branch of all private commercial banks,"Agriculture
-debt","Agriculture
-debt",Industry debt,Industry debt,Other debt,Other debt,"Number of
-borrower","Number of
-borrower","Total debt
-(crore tk)","Total debt
-(crore tk)"
-3,"
-
-Upazila",Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Chakaria,13,2013,87,927,67,1172,115,4112,369,28,9
-5,Cox's Bazar Sadar,0,0,0,0,0,0,0,0,0,0,0
-6,Kutubdia,0,0,0,0,0,0,0,0,0,0,0
-7,Moheshkhali,1,20,1,10,0,1,1,31,2,0.01,0.002
-8,Pekua,1,6825,758,0,0,1646,147,8471,905,13.83,1.54
-9,Ramu,0,0,0,0,0,0,0,0,0,0,0
-10,Teknaf,2,140,98,0,0,659,432,799,530,17.68,1.23
-11,Ukhia,2,109,767,0,0,199,0,308,767,1.8,2.5
-12,Total,19,9107,1711,937,67,3677,695,13721,2573,61.32,14.272
+1,,,,,,,,,,,,
+2,  Upazila,Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3,  Upazila,Number of branch of all private commercial banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
+4,  Upazila,Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+5,Chakaria,13,2013,87,927,67,1172,115,4112,369,28,9
+6,Cox's Bazar Sadar,0,0,0,0,0,0,0,0,0,0,0
+7,Kutubdia,0,0,0,0,0,0,0,0,0,0,0
+8,Moheshkhali,1,20,1,10,0,1,1,31,2,0.01,0.002
+9,Pekua,1,6825,758,0,0,1646,147,8471,905,13.83,1.54
+10,Ramu,0,0,0,0,0,0,0,0,0,0,0
+11,Teknaf,2,140,98,0,0,659,432,799,530,17.68,1.23
+12,Ukhia,2,109,767,0,0,199,0,308,767,1.8,2.5
+13,Total,19,9107,1711,937,67,3677,695,13721,2573,61.32,14.272

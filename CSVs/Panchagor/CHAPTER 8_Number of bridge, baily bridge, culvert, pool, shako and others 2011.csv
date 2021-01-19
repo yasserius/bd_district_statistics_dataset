@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Number of bridge, baily bridge, culvert, pool, shako and others 2011",,,,,,
-1,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
-2,Atwari,300,0,749,0,1,0
-3,Boda,29,0,819,0,17,0
-4,Debiganj,15,0,557,42,6,45
-5,Panchagarh Sadar,5,0,1279,0,0,0
-6,Tentulia,6,0,450,0,0,0
-7,Total,355,0,3854,42,24,45
+1,,,,,,,
+2,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
+3,Atwari,300,0,749,0,1,0
+4,Boda,29,0,819,0,17,0
+5,Debiganj,15,0,557,42,6,45
+6,Panchagarh Sadar,5,0,1279,0,0,0
+7,Tentulia,6,0,450,0,0,0
+8,Total,355,0,3854,42,24,45

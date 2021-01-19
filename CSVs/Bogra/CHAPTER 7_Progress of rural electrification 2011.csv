@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6,7,8
 0,Progress of rural electrification 2011,,,,,,,,
-1,"
-Upazila",Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified,Number of electrified
-2,"
-Upazila","
-Village",Residential holding,Large scale industry,Small scale industry,Deep tube- well,Power pump,Commercial holding,"
-Others"
+1,,,,,,,,,
+2,Upazila,Number of electrified Village,Number of electrified Residential holding,Number of electrified Large scale industry,Number of electrified Small scale industry,Number of electrified Deep tube- well,Number of electrified Power pump,Number of electrified Commercial holding,Number of electrified Others
 3,Adamdighi,96,12532,0,156,167,438,618,0
 4,Bogra sadar,0,3156,1,36,5,5,144,120
 5,Dhunat,66,9853,132,104,3,688,1503,0

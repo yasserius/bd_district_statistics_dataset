@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Medical institution and personnel by municipality 2011,,,,,,
-1,"
-Upazila",Govt. institution,Private institution,Medical personal,Medical personal,Medical personal,Medical personal
-2,"
-Upazila",Govt. institution,Private institution,Bed,Doctor,Nurse,Technician
+1,,,,,,,
+2,Upazila,Govt. institution,Private institution,Medical personal Bed,Medical personal Doctor,Medical personal Nurse,Medical personal Technician
 3,Adamdighi,2,4,36,2,10,4
 4,Bogra sadar,4,34,1660,370,652,82
 5,Dhunat,1,1,60,8,12,2

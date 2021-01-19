@@ -1,8 +1,8 @@
 ,0,1,2,3
 0,Number of vocational institute by municipality 2011,,,
-1,Municipality,"Number of
-institution",Number of teacher,Number of student
-2,Kurigram,1,18,238
-3,Nageshwari,1,4,60
-4,Ulipur,2,17,229
-5,Total,4,39,527
+1,,,,
+2,Municipality,Number of institution,Number of teacher,Number of student
+3,Kurigram,1,18,238
+4,Nageshwari,1,4,60
+5,Ulipur,2,17,229
+6,Total,4,39,527

@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of agricultural & veterinary college, teacher and student 2011",,,,,,,,
-1,Upazila/City corporation,Numbe of college,Number of teacher,Number of teacher,Number of teacher,Numbe of student,Numbe of student,Numbe of student,"Student per
-teacher"
-2,Upazila/City corporation,Numbe of college,Male,Female,Total,Male,Female,Total,"Student per
-teacher"
+1,,,,,,,,,
+2,Upazila/City corporation,Numbe of college,Number of teacher Male,Number of teacher Female,Number of teacher Total,Numbe of student Male,Numbe of student Female,Numbe of student Total,Student per teacher
 3,Balaganj,0,0,0,0,0,0,0,0
 4,Beanibazar,0,0,0,0,0,0,0,0
 5,Bishwanath,0,0,0,0,0,0,0,0

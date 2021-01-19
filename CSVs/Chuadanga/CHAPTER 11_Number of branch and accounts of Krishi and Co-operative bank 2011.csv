@@ -1,13 +1,11 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Krishi and Co-operative bank 2011,,,,,,,,,,
-1,"
-Upazila",Krishi bank,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank
-2,"
-Upazila",Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
-3,"
-Upazila",Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
-4,Alamdanga,3,0,30,40,2,0,0,0,0,0
-5,Chuadanga Sadar,3,25261,236,143,18,2,762,250,10,0
-6,Damurhuda,3,9874,190,138,20,0,0,0,0,0
-7,Jibonnagar,2,36,260,138,70,0,0,0,0,0
-8,Total,11,35171,716,459,110,2,762,250,10,0
+1,,,,,,,,,,,
+2, Upazila,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank
+3, Upazila,Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
+4, Upazila,Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
+5,Alamdanga,3,0,30,40,2,0,0,0,0,0
+6,Chuadanga Sadar,3,25261,236,143,18,2,762,250,10,0
+7,Damurhuda,3,9874,190,138,20,0,0,0,0,0
+8,Jibonnagar,2,36,260,138,70,0,0,0,0,0
+9,Total,11,35171,716,459,110,2,762,250,10,0

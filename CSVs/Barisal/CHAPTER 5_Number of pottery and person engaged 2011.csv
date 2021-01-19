@@ -1,6 +1,5 @@
 ,0,1,2,3,4
 0,Number of pottery and person engaged 2011,,,,
-1,"
-Upazila/city corporation",Number of unit,Person engaged,Person engaged,Person engaged
-2,"
-Upazila/city corporation",Number of unit,Family,Hired,Total
+1,,,,,
+2, Upazila/city corporation,Number of unit,Person engaged,Person engaged,Person engaged
+3, Upazila/city corporation,Number of unit,Family,Hired,Total

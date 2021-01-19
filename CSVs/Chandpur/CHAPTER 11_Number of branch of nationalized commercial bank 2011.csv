@@ -1,16 +1,13 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,Upazila,"Number of
-branch","Number of
-employee","Number of
-savings A/C","Number of
-current A/C"
-2,Chandpur Sadar,18,201,229929,10688
-3,Foridganj,6,68,131085,3907
-4,Haimchar,2,13,8990,486
-5,Hajiganj,7,70,59330,2946
-6,Kachua,6,68,74865,2311
-7,Matlab Dakshin,5,54,56745,1402
-8,Matlab Uttar,9,70,73022,2433
-9,Shahrasti,7,62,62799,2539
-10,Total,60,606,696765,26712
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Chandpur Sadar,18,201,229929,10688
+4,Foridganj,6,68,131085,3907
+5,Haimchar,2,13,8990,486
+6,Hajiganj,7,70,59330,2946
+7,Kachua,6,68,74865,2311
+8,Matlab Dakshin,5,54,56745,1402
+9,Matlab Uttar,9,70,73022,2433
+10,Shahrasti,7,62,62799,2539
+11,Total,60,606,696765,26712

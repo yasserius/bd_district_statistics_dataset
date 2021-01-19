@@ -1,10 +1,9 @@
 ,0,1,2,3,4,5,6
 0,Institutional accommodation facility by municipality 2011,,,,,,
-1,"
-Upazila",Residential hostel,Residential hostel,Hall/hostel,Hall/hostel,Mess/barracks,Mess/barracks
-2,"
-Upazila",Number,Capacity,Number,Capacity,Number,Capacity
-3,Kalia,1,16,1,25,8,160
-4,Lohagara,0,0,0,0,1,40
-5,Narail Sadar,5,128,3,232,25,206
-6,Total,6,144,4,257,34,406
+1,,,,,,,
+2, Upazila,Residential hostel,Residential hostel,Hall/hostel,Hall/hostel,Mess/barracks,Mess/barracks
+3, Upazila,Number,Capacity,Number,Capacity,Number,Capacity
+4,Kalia,1,16,1,25,8,160
+5,Lohagara,0,0,0,0,1,40
+6,Narail Sadar,5,128,3,232,25,206
+7,Total,6,144,4,257,34,406

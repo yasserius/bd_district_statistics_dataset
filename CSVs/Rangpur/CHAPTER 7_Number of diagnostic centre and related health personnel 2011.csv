@@ -1,17 +1,13 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,Upazila,"Number of
-centre","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Badarganj,3,0,0,2,0
-3,Gangachara,0,0,0,0,0
-4,Kaunia,0,0,0,0,0
-5,Mithapukur,3,0,0,3,3
-6,Pirgachha,3,3,0,3,10
-7,Pirganj,1,1,1,1,2
-8,Rangpur sadar,53,10,1,133,130
-9,Taraganj,2,3,1,1,2
-10,Total,65,17,3,143,147
+1,,,,,,
+2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Badarganj,3,0,0,2,0
+4,Gangachara,0,0,0,0,0
+5,Kaunia,0,0,0,0,0
+6,Mithapukur,3,0,0,3,3
+7,Pirgachha,3,3,0,3,10
+8,Pirganj,1,1,1,1,2
+9,Rangpur sadar,53,10,1,133,130
+10,Taraganj,2,3,1,1,2
+11,Total,65,17,3,143,147

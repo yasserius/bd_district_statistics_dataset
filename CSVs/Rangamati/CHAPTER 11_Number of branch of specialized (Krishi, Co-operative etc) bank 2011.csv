@@ -1,16 +1,15 @@
 ,0,1,2,3,4
 0,"Number of branch of specialized (Krishi, Co-operative etc) bank 2011",,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C",Number of current A/C
-2,Baghaichhari,1,6,319,13
-3,Barkal,1,5,100,10
-4,Belai Chhari,1,5,59,0
-5,Jurai Chhari,1,7,135,6
-6,Kaptai,2,14,4263,58
-7,Kawkhali,1,7,217,3
-8,Langadu,1,8,315,3
-9,Naniarchar,1,6,906,31
-10,Rangamati Sadar,1,14,4479,193
-11,Rajasthali,1,6,40,2
-12,Total,11,78,10833,319
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Baghaichhari,1,6,319,13
+4,Barkal,1,5,100,10
+5,Belai Chhari,1,5,59,0
+6,Jurai Chhari,1,7,135,6
+7,Kaptai,2,14,4263,58
+8,Kawkhali,1,7,217,3
+9,Langadu,1,8,315,3
+10,Naniarchar,1,6,906,31
+11,Rangamati Sadar,1,14,4479,193
+12,Rajasthali,1,6,40,2
+13,Total,11,78,10833,319

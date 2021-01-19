@@ -1,10 +1,8 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of wheat, jute and sugarcane 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Wheat,Wheat,Jute,Jute,Sugarcane,Sugarcane
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
+2, Upazila,Wheat,Wheat,Jute,Jute,Sugarcane,Sugarcane
+3, Upazila,Area,Production,Area,Production,Area,Production
 4,Barlekha,5,3,0,0,2,45
 5,Juri,49,34,2,12,2,30
 6,Kamalganj,30,22,0,0,28,480

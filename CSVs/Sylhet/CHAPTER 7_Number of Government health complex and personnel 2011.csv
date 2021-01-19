@@ -1,23 +1,18 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and personnel 2011,,,,,
-1,"Upazila/City
-corporation","Number of
-bed","Number of
-doctor","Number of
-nurse","Number of
-technician","Number of
-other staff"
-2,Balaganj,31,5,4,1,24
-3,Beanibazar,50,16,8,4,108
-4,Bishwanath,31,11,6,9,100
-5,Companiganj,31,7,7,4,55
-6,Dakhin surma,31,19,9,5,99
-7,Fenchuganj,31,7,7,4,53
-8,Golapganj,31,26,8,4,99
-9,Gowainghat,50,5,2,2,97
-10,Jaintiapur,31,7,4,2,51
-11,Kanaighat,31,4,4,0,84
-12,Sylhet city corporation,1080,198,151,7,1435
-13,Sylhet sadar,0,0,0,0,0
-14,Zakiganj,31,8,3,2,87
-15,Total,1459,313,213,44,2292
+1,,,,,,
+2,Upazila/City corporation,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Balaganj,31,5,4,1,24
+4,Beanibazar,50,16,8,4,108
+5,Bishwanath,31,11,6,9,100
+6,Companiganj,31,7,7,4,55
+7,Dakhin surma,31,19,9,5,99
+8,Fenchuganj,31,7,7,4,53
+9,Golapganj,31,26,8,4,99
+10,Gowainghat,50,5,2,2,97
+11,Jaintiapur,31,7,4,2,51
+12,Kanaighat,31,4,4,0,84
+13,Sylhet city corporation,1080,198,151,7,1435
+14,Sylhet sadar,0,0,0,0,0
+15,Zakiganj,31,8,3,2,87
+16,Total,1459,313,213,44,2292

@@ -1,27 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,"
-
-Upazila","Number of branch of all private
-commercial bank",Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-
-Upazila","Number of branch of all private
-commercial bank","Agriculture
-debt","Agriculture
-debt",Industry debt,Industry debt,Others debt,Others debt,"Number of
-borrower","Number of
-borrower",Total debt (Crore),Total debt (Crore)
-3,"
-
-Upazila","Number of branch of all private
-commercial bank",Male,Female,Male,Female,Male,Female,Male,Femal,Male,Female
-4,Badarganj,9,0,0,0,0,3230,22192,3230,22192,2,25
-5,Gangachara,2,1125,275,0,0,425,125,1550,400,187,6.2
-6,Kaunia,0,0,0,0,0,0,0,0,0,0,0
-7,Mithapukur,1,0,0,0,0,46,0,46,0,3,0
-8,Pirgachha,2,9108,0,0,0,265,40,9373,40,29,0.5
-9,Pirganj,1,302,103,0,0,200,100,502,203,1,0.4
-10,Rangpur sadar,15,703,6541,122,4,4047,268,5020,6856,478,21
-11,Taraganj,3,0,0,0,0,2523,10092,2523,10092,1,4
-12,Total,33,11238,6919,122,4,10736,32817,22244,39783,701,57.1
+1,,,,,,,,,,,,
+2,  Upazila,Number of branch of all private commercial bank,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3,  Upazila,Number of branch of all private commercial bank,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Others debt,Others debt,Number of borrower,Number of borrower,Total debt (Crore),Total debt (Crore)
+4,  Upazila,Number of branch of all private commercial bank,Male,Female,Male,Female,Male,Female,Male,Femal,Male,Female
+5,Badarganj,9,0,0,0,0,3230,22192,3230,22192,2,25
+6,Gangachara,2,1125,275,0,0,425,125,1550,400,187,6.2
+7,Kaunia,0,0,0,0,0,0,0,0,0,0,0
+8,Mithapukur,1,0,0,0,0,46,0,46,0,3,0
+9,Pirgachha,2,9108,0,0,0,265,40,9373,40,29,0.5
+10,Pirganj,1,302,103,0,0,200,100,502,203,1,0.4
+11,Rangpur sadar,15,703,6541,122,4,4047,268,5020,6856,478,21
+12,Taraganj,3,0,0,0,0,2523,10092,2523,10092,1,4
+13,Total,33,11238,6919,122,4,10736,32817,22244,39783,701,57.1

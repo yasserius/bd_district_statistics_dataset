@@ -1,15 +1,10 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of growth centre, hat , bazar, poultry farm, dairy farm, nursery, horticulture centre, brick kiln, decorator service 2011",,,,,,,,
-1,Upazila,"Growth
-centre","Hat
-/bazar","Poultry
-farm","Dairy
-farm",Nursery,"Horticult
-ure centre",Brick kiln,"Decorator
-service"
-2,Baliakandi,4,15,89,30,14,0,10,41
-3,Goalanda,6,6,167,104,19,1,2,13
-4,Kalukhali,2,15,212,210,6,0,11,21
-5,Pangsha,6,30,547,626,18,0,9,45
-6,Rajbari Sadar,6,37,805,425,1,1,23,92
-7,Total,24,103,1820,1395,58,2,55,212
+1,,,,,,,,,
+2,Upazila,Growth centre,Hat /bazar,Poultry farm,Dairy farm,Nursery,Horticult ure centre,Brick kiln,Decorator service
+3,Baliakandi,4,15,89,30,14,0,10,41
+4,Goalanda,6,6,167,104,19,1,2,13
+5,Kalukhali,2,15,212,210,6,0,11,21
+6,Pangsha,6,30,547,626,18,0,9,45
+7,Rajbari Sadar,6,37,805,425,1,1,23,92
+8,Total,24,103,1820,1395,58,2,55,212

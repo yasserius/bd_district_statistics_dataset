@@ -1,14 +1,12 @@
 ,0,1,2,3,4,5
 0,Number of employee by local Government institution 2011,,,,,
-1,Upazila,"City
-corporation",Municipality,Zila parishad,"Upazila
-parishad","Union
-parishad"
-2,Fulchhari,0,0,0,6,77
-3,Gaibandha Sadar,0,23,11,0,143
-4,Gobindaganj,0,22,0,2,187
-5,Palashbari,0,0,0,3,99
-6,Sadullapur,0,0,0,4,121
-7,Saghata,0,0,0,4,110
-8,Sundarganj,0,19,0,0,165
-9,Total,0,64,11,19,902
+1,,,,,,
+2,Upazila,City corporation,Municipality,Zila parishad,Upazila parishad,Union parishad
+3,Fulchhari,0,0,0,6,77
+4,Gaibandha Sadar,0,23,11,0,143
+5,Gobindaganj,0,22,0,2,187
+6,Palashbari,0,0,0,3,99
+7,Sadullapur,0,0,0,4,121
+8,Saghata,0,0,0,4,110
+9,Sundarganj,0,19,0,0,165
+10,Total,0,64,11,19,902

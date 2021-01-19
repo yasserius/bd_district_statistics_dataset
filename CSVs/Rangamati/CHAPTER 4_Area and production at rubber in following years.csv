@@ -1,18 +1,17 @@
 ,0,1,2,3,4
 0,Area and production at rubber in following years,,,,
-1,(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton)
-2,"
-Upazila",2010-11,2010-11,2009-10,2009-10
-3,"
-Upazila",Area,Production,Area,Production
-4,Baghaichhari,715,111,715,128
-5,Barkal,0,0,0,0
-6,Belai Chhari,0,0,0,0
-7,Jurai Chhari,15,0,0,0
-8,Kaptai,50,0,50,0
-9,Kawkhali,0,0,0,0
-10,Langadu,0,0,0,0
-11,Naniarchar,0,0,0,0
-12,Rangamati Sadar,0,0,0,0
-13,Rajasthali,0,0,0,0
-14,Total,780,111,765,128
+1,,,,,
+2,(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton)
+3, Upazila,2010-11,2010-11,2009-10,2009-10
+4, Upazila,Area,Production,Area,Production
+5,Baghaichhari,715,111,715,128
+6,Barkal,0,0,0,0
+7,Belai Chhari,0,0,0,0
+8,Jurai Chhari,15,0,0,0
+9,Kaptai,50,0,50,0
+10,Kawkhali,0,0,0,0
+11,Langadu,0,0,0,0
+12,Naniarchar,0,0,0,0
+13,Rangamati Sadar,0,0,0,0
+14,Rajasthali,0,0,0,0
+15,Total,780,111,765,128

@@ -1,14 +1,12 @@
 ,0,1,2,3,4
 0,"Number of branch of specialized (Krishi, Co-operative etc) bank 2011",,,,
-1,Upazila,Number of branch,"Number of
-employee","Number of
-savings A/C","Number of
-current A/C"
-2,Fulchhari,1,6,3672,21
-3,Gaibandha Sadar,4,62,15610,215
-4,Gobindaganj,7,58,21203,1604
-5,Palashbari,3,22,4410,109
-6,Sadullapur,3,30,4546,85
-7,Saghata,4,52,9517,270
-8,Sundarganj,3,25,4892,116
-9,Total,25,255,63850,2420
+1,,,,,
+2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+3,Fulchhari,1,6,3672,21
+4,Gaibandha Sadar,4,62,15610,215
+5,Gobindaganj,7,58,21203,1604
+6,Palashbari,3,22,4410,109
+7,Sadullapur,3,30,4546,85
+8,Saghata,4,52,9517,270
+9,Sundarganj,3,25,4892,116
+10,Total,25,255,63850,2420

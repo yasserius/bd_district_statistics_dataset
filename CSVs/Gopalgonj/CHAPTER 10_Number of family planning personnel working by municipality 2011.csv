@@ -1,12 +1,9 @@
 ,0,1,2,3,4,5
 0,Number of family planning personnel working by municipality 2011,,,,,
-1,"
-Municipality","
-Doctor","Family
-planning inspector",Family planning assistant,"Family
-planning visitor",Midwife/ birth attendant (Dai)
-2,Gopalganj,1,1,4,2,1
-3,Kotalipara,1,1,1,2,1
-4,Muksudpur,1,1,9,1,3
-5,Tungipara,0,1,6,1,3
-6,Total,3,4,20,6,8
+1,,,,,,
+2, Municipality, Doctor,Family planning inspector,Family planning assistant,Family planning visitor,Midwife/ birth attendant (Dai)
+3,Gopalganj,1,1,4,2,1
+4,Kotalipara,1,1,1,2,1
+5,Muksudpur,1,1,9,1,3
+6,Tungipara,0,1,6,1,3
+7,Total,3,4,20,6,8

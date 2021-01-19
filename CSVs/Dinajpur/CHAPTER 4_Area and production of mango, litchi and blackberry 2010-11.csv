@@ -1,21 +1,18 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of mango, litchi and blackberry 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Mango,Mango,Litchi,Litchi,Blackberry,Blackberry
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Biral,120,7208,285,5531,23,92
-5,Birampur,80,70,20,20,5,6
-6,Birganj,143,2077,113,494,10,15
-7,Bochaganj,370,2220,34,169,18,72
-8,Chirirbandar,280,3404,56,575,204,370
-9,Dinajpur Sadar,149,410,427,723,2,8
-10,Fulbari,136,788,5,28,0,0
-11,Ghoraghat,119,103,10,10,6,8
-12,Hakimpur,55,47,0,0,5,7
-13,Kaharole,393,910,242,289,12,75
-14,Khansama,26,2217,17,792,0,209
-15,Nawabganj,582,500,38,38,10,13
-16,Parbatipur,871,582,9,71,38,33
-17,Total,3324,20536,1256,8740,333,908
+2,Upazila,Mango Area,Mango Production,Litchi Area,Litchi Production,Blackberry Area,Blackberry Production
+3,Biral,120,7208,285,5531,23,92
+4,Birampur,80,70,20,20,5,6
+5,Birganj,143,2077,113,494,10,15
+6,Bochaganj,370,2220,34,169,18,72
+7,Chirirbandar,280,3404,56,575,204,370
+8,Dinajpur Sadar,149,410,427,723,2,8
+9,Fulbari,136,788,5,28,0,0
+10,Ghoraghat,119,103,10,10,6,8
+11,Hakimpur,55,47,0,0,5,7
+12,Kaharole,393,910,242,289,12,75
+13,Khansama,26,2217,17,792,0,209
+14,Nawabganj,582,500,38,38,10,13
+15,Parbatipur,871,582,9,71,38,33
+16,Total,3324,20536,1256,8740,333,908

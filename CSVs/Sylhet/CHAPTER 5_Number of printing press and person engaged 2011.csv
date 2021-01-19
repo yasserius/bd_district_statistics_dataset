@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of printing press and person engaged 2011,,,,
-1,"
-Upazila/City corporation","
-Units",Person engaged,Person engaged,Person engaged
-2,"
-Upazila/City corporation","
-Units",Family,Hired,Total
+1,,,,,
+2,Upazila/City corporation,Units,Person engaged Family,Person engaged Hired,Person engaged Total
 3,Balaganj,0,0,0,0
 4,Beanibazar,3,6,9,19
 5,Bishwanath,2,3,5,8

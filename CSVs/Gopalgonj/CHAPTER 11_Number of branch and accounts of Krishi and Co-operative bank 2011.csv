@@ -1,14 +1,12 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Krishi and Co-operative bank 2011,,,,,,,,,,
-1,"
-Upazila",Krishi bank,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank
-2,"
-Upazila",Number of  branch,Account,Account,Account,Account,Number of  branch,Account,Account,Account,Account
-3,"
-Upazila",Number of  branch,S.D,C.D,F.D,S.T.D,Number of  branch,S.D,C.D,F.D,S.T.D
-4,Gopalganj Sadar,23,105705,458,557,57,1,12,15,10,4
-5,Kashiani,5,20228,220,158,154,0,0,0,0,0
-6,Kotalipara,3,7785,257,148,4,0,0,0,0,0
-7,Muksudpur,0,0,0,0,0,0,0,0,0,0
-8,Tungipara,3,1052,70,37,6,0,0,0,0,0
-9,Total,34,134770,1005,900,221,1,12,15,10,4
+1,,,,,,,,,,,
+2, Upazila,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Krishi bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank,Co-operative bank
+3, Upazila,Number of  branch,Account,Account,Account,Account,Number of  branch,Account,Account,Account,Account
+4, Upazila,Number of  branch,S.D,C.D,F.D,S.T.D,Number of  branch,S.D,C.D,F.D,S.T.D
+5,Gopalganj Sadar,23,105705,458,557,57,1,12,15,10,4
+6,Kashiani,5,20228,220,158,154,0,0,0,0,0
+7,Kotalipara,3,7785,257,148,4,0,0,0,0,0
+8,Muksudpur,0,0,0,0,0,0,0,0,0,0
+9,Tungipara,3,1052,70,37,6,0,0,0,0,0
+10,Total,34,134770,1005,900,221,1,12,15,10,4

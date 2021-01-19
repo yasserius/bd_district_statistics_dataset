@@ -1,22 +1,19 @@
 ,0,1,2,3,4,5,6
 0,Broad soil classification 2008,,,,,,
-1,"
-Upazila","
-Total",Soil classification,Soil classification,Soil classification,Soil classification,Soil classification
-2,"
-Upazila","
-Total",Doash,Bele,Etel,Kankar,Others
-3,Biral,85820,71241,0,14579,0,0
-4,Birampur,44737,42121,1208,173,0,1235
-5,Birganj,83306,45215,20830,11265,5996,0
-6,Bochaganj,54134,22852,12052,19230,0,0
-7,Chirirbandar,65840,23066,5000,23742,0,14032
-8,Dinajpur Sadar,79500,24863,4164,39781,0,10692
-9,Fulbari,54977,15132,0,39845,0,0
-10,Ghoraghat,35779,14312,2146,12165,7156,0
-11,Hakimpur,23806,14816,2469,4938,1583,0
-12,Kaharole,39998,11965,20623,7410,0,0
-13,Khansama,37290,22457,2433,1470,0,10930
-14,Nawabganj,76276,30510,22883,7627,11442,3814
-15,Parbatipur,97658,88832,4705,4121,0,0
-16,Total,779121,427382,98513,186346,26177,40703
+1,,,,,,,
+2, Upazila, Total,Soil classification,Soil classification,Soil classification,Soil classification,Soil classification
+3, Upazila, Total,Doash,Bele,Etel,Kankar,Others
+4,Biral,85820,71241,0,14579,0,0
+5,Birampur,44737,42121,1208,173,0,1235
+6,Birganj,83306,45215,20830,11265,5996,0
+7,Bochaganj,54134,22852,12052,19230,0,0
+8,Chirirbandar,65840,23066,5000,23742,0,14032
+9,Dinajpur Sadar,79500,24863,4164,39781,0,10692
+10,Fulbari,54977,15132,0,39845,0,0
+11,Ghoraghat,35779,14312,2146,12165,7156,0
+12,Hakimpur,23806,14816,2469,4938,1583,0
+13,Kaharole,39998,11965,20623,7410,0,0
+14,Khansama,37290,22457,2433,1470,0,10930
+15,Nawabganj,76276,30510,22883,7627,11442,3814
+16,Parbatipur,97658,88832,4705,4121,0,0
+17,Total,779121,427382,98513,186346,26177,40703

@@ -1,11 +1,7 @@
 ,0,1,2,3,4
 0,Number of co-operative society and member 2011,,,,
-1,Upazila/City corporation,"Number of co- operative
-society",Number of member,Number of member,"
-Both sex"
-2,Upazila/City corporation,"Number of co- operative
-society",Male,Female,"
-Both sex"
+1,,,,,
+2,Upazila/City corporation,Number of co- operative society,Number of member Male,Number of member Female,Both sex
 3,Balaganj,459,7774,2205,9979
 4,Beanibazar,90,2400,300,2700
 5,Bishwanath,223,3140,1320,4460

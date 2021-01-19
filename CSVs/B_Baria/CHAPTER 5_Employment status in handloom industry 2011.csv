@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5
 0,Employment status in handloom industry 2011,,,,,
-1,"
-Upazila",Number of handloom,Person Engaged,Person Engaged,Person Engaged,"
-Total"
-2,"
-Upazila",Number of handloom,Family members,Regular,Hired /Casual,"
-Total"
+1,,,,,,
+2,Upazila,Number of handloom,Person Engaged Family members,Person Engaged Regular,Person Engaged Hired /Casual,Total
 3,Akhaura,0,0,0,0,0
 4,Ashuganj,0,0,0,0,0
 5,Banchharampur,3005,812,626,110,1548

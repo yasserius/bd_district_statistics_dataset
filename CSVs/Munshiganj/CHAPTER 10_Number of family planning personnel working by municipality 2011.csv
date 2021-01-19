@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Number of family planning personnel working by municipality 2011,,,,,,
-1,"
-Municipality","
-Doctor","Family planning
-insoector",Family planning assistant,Family planning visitor,Midwife/ birth attendant (Dais),
-2,Munshiganj Sadar,3,2,,11,3,0
-3,Total,3,2,,11,3,0
-4,,,,"
-
-86",,,
+1,,,,,,,
+2,Municipality,Doctor,Family planning insoector,Family planning assistant,Family planning visitor,Midwife/ birth attendant (Dais),
+3,Munshiganj Sadar,3,2,,11,3,0
+4,Total,3,2,,11,3,0
+5,,,,  86,,,

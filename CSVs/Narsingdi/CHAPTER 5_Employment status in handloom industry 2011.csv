@@ -1,15 +1,12 @@
 ,0,1,2,3,4,5
 0,Employment status in handloom industry 2011,,,,,
-1,"
-Upazila",Number of handloom,Person engaged,Person engaged,Person engaged,"
-Total"
-2,"
-Upazila",Number of handloom,Family member,Regular,Hired /Casual,"
-Total"
-3,Belabo,0,0,0,0,0
-4,Manohardi,27,19,38,10,67
-5,Narsingdi Sadar,6938,1298,1812,200,3310
-6,Palash,1500,500,1000,500,2000
-7,Roypura,1150,1150,110,750,2010
-8,Sibpur,0,0,0,0,0
-9,Total,9615,2967,2960,1460,7387
+1,,,,,,
+2, Upazila,Number of handloom,Person engaged,Person engaged,Person engaged, Total
+3, Upazila,Number of handloom,Family member,Regular,Hired /Casual, Total
+4,Belabo,0,0,0,0,0
+5,Manohardi,27,19,38,10,67
+6,Narsingdi Sadar,6938,1298,1812,200,3310
+7,Palash,1500,500,1000,500,2000
+8,Roypura,1150,1150,110,750,2010
+9,Sibpur,0,0,0,0,0
+10,Total,9615,2967,2960,1460,7387

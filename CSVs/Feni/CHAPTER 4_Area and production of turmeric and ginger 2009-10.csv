@@ -1,14 +1,13 @@
 ,0,1,2,3,4
 0,Area and production of turmeric and ginger 2009-10,,,,
-1,(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton)
-2,"
-Upazila",Turmeric,Turmeric,Ginger,Ginger
-3,"
-Upazila",Area,Production,Area,Production
-4,Chhagalnaiya,15,14,13,12
-5,Daganbhuiyan,8,8,14,13
-6,Feni Sadar,24,26,17,18
-7,Fulgazi,3,3,1,1
-8,Parshuram,4,5,3,3
-9,Sonagazi,7,3,3,1
-10,Total,61,59,51,48
+1,,,,,
+2,(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton),(Area in acre and production in metric ton)
+3, Upazila,Turmeric,Turmeric,Ginger,Ginger
+4, Upazila,Area,Production,Area,Production
+5,Chhagalnaiya,15,14,13,12
+6,Daganbhuiyan,8,8,14,13
+7,Feni Sadar,24,26,17,18
+8,Fulgazi,3,3,1,1
+9,Parshuram,4,5,3,3
+10,Sonagazi,7,3,3,1
+11,Total,61,59,51,48

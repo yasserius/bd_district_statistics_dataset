@@ -1,18 +1,16 @@
 ,0,1,2,3
 0,Number of selected agriculrure machine 2008,,,
-1,"
-Upazila/city corporation",Number of power tiller,"
-Traktor","
-Number of threshing machine"
-2,Agailjhara,311,0,212
-3,Babuganj,100,1,53
-4,Bakerganj,320,0,83
-5,Banaripara,195,0,65
-6,Barisal city corporation,14,8,18
-7,Barisal sadar,105,28,89
-8,Gaurnadi,220,5,144
-9,Hizla,80,17,150
-10,Mehendiganj,220,0,52
-11,Muladi,105,0,42
-12,Wazirpur,300,0,150
-13,Total,1970,59,1058
+1,,,,
+2,Upazila/city corporation,Number of power tiller,Traktor,Number of threshing machine
+3,Agailjhara,311,0,212
+4,Babuganj,100,1,53
+5,Bakerganj,320,0,83
+6,Banaripara,195,0,65
+7,Barisal city corporation,14,8,18
+8,Barisal sadar,105,28,89
+9,Gaurnadi,220,5,144
+10,Hizla,80,17,150
+11,Mehendiganj,220,0,52
+12,Muladi,105,0,42
+13,Wazirpur,300,0,150
+14,Total,1970,59,1058

@@ -1,12 +1,9 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,"
-Upazila","
-Number","
-Number of employee","
-Number of client"
-2,Kalkini,413,142,16520
-3,Madaripur Sadar,386,58,8000
-4,Rajoir,383,0,22116
-5,Shibchar,205,500,19902
-6,Total,1387,700,66538
+1,,,,
+2, Upazila, Number, Number of employee, Number of client
+3,Kalkini,413,142,16520
+4,Madaripur Sadar,386,58,8000
+5,Rajoir,383,0,22116
+6,Shibchar,205,500,19902
+7,Total,1387,700,66538

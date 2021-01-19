@@ -1,15 +1,12 @@
 ,0,1,2,3,4
 0,Number of oil mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Belabo,2,12,78,60
-4,Manohardi,2,2,2,4
-5,Narsingdi Sadar,6,20,45,65
-6,Palash,3,3,3,6
-7,Roypura,8,10,18,28
-8,Sibpur,5,5,10,15
-9,Total,26,52,156,178
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Belabo,2,12,78,60
+5,Manohardi,2,2,2,4
+6,Narsingdi Sadar,6,20,45,65
+7,Palash,3,3,3,6
+8,Roypura,8,10,18,28
+9,Sibpur,5,5,10,15
+10,Total,26,52,156,178

@@ -1,14 +1,8 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of growth centre, hat,  bazar, poultry farm, dairy farm, nursery, horticulture centre, brick kiln, decorator services 2011",,,,,,,,
-1,Upazila,"Growth
-centre","Hat
-/Bazar","Poultry
-farm","Dairy
-farm",Nursery,"Horticulture
-centre","Brick
-kiln","Decorator
-services"
-2,Gangni,5,44,81,52,62,0,41,17
-3,Mujibnagar,3,11,37,81,9,0,12,4
-4,Meherpur Sadar,3,21,90,120,57,2,12,19
-5,Total,11,76,208,253,128,2,65,40
+1,,,,,,,,,
+2,Upazila,Growth centre,Hat /Bazar,Poultry farm,Dairy farm,Nursery,Horticulture centre,Brick kiln,Decorator services
+3,Gangni,5,44,81,52,62,0,41,17
+4,Mujibnagar,3,11,37,81,9,0,12,4
+5,Meherpur Sadar,3,21,90,120,57,2,12,19
+6,Total,11,76,208,253,128,2,65,40

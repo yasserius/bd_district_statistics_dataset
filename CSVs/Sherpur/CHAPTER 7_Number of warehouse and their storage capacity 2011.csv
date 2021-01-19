@@ -1,13 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of warehouse and their storage capacity 2011,,,,,,,,
-1,(Capacity in metric ton),(Capacity in metric ton),(Capacity in metric ton),(Capacity in metric ton),(Capacity in metric ton),(Capacity in metric ton),(Capacity in metric ton),(Capacity in metric ton),(Capacity in metric ton)
-2,"
-Upazila",Food godown,Food godown,Fertilizer godown,Fertilizer godown,Jute godown,Jute godown,Other godown,Other godown
-3,"
-Upazila",Number,Capacity,Number,Capacity,Number,Capacity,Number,Capacity
-4,Jhenaigati,7,500,0,0,0,0,0,0
-5,Nakla,3,1500,0,0,0,0,1,150
-6,Nalitabari,2,100,0,0,0,0,0,0
-7,Sherpur Sadar,1,2500,0,0,0,0,0,0
-8,Sreebardi,5,3500,0,0,0,0,0,0
-9,Total,18,8100,0,0,0,0,1,150
+1,,,,,,,,,
+2,(Capacity in metric ton),(Capacity in metric ton),(Capacity in metric ton),(Capacity in metric ton),(Capacity in metric ton),(Capacity in metric ton),(Capacity in metric ton),(Capacity in metric ton),(Capacity in metric ton)
+3, Upazila,Food godown,Food godown,Fertilizer godown,Fertilizer godown,Jute godown,Jute godown,Other godown,Other godown
+4, Upazila,Number,Capacity,Number,Capacity,Number,Capacity,Number,Capacity
+5,Jhenaigati,7,500,0,0,0,0,0,0
+6,Nakla,3,1500,0,0,0,0,1,150
+7,Nalitabari,2,100,0,0,0,0,0,0
+8,Sherpur Sadar,1,2500,0,0,0,0,0,0
+9,Sreebardi,5,3500,0,0,0,0,0,0
+10,Total,18,8100,0,0,0,0,1,150

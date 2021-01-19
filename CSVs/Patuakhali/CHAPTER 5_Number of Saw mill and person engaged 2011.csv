@@ -1,16 +1,13 @@
 ,0,1,2,3,4
 0,Number of Saw mill and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Bauphal,72,8,324,332
-4,Dashmina,20,10,80,90
-5,Dumki,12,18,39,57
-6,Galachipa,79,305,90,395
-7,Kalapara,12,18,39,57
-8,Mirzaganj,36,30,180,210
-9,Patuakhali Sadar,85,69,265,334
-10,Total,316,458,1017,1475
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Bauphal,72,8,324,332
+5,Dashmina,20,10,80,90
+6,Dumki,12,18,39,57
+7,Galachipa,79,305,90,395
+8,Kalapara,12,18,39,57
+9,Mirzaganj,36,30,180,210
+10,Patuakhali Sadar,85,69,265,334
+11,Total,316,458,1017,1475

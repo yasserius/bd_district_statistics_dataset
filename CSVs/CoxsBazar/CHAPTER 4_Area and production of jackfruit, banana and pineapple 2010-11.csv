@@ -1,14 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of jackfruit, banana and pineapple 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Jackfruits,Jackfruits,Banana,Banana,Pineapple,Pineapple
-3,Upazila,Area,Production,Area,Production,Area,Production
-4,Chakaria,5950,543,106,345,7,8
-5,Cox's Bazar Sadar,6255,1539,330,775,183,1240
-6,Kutubdia,0,0,3,6,0,0
-7,Moheshkhali,175,700,125,700,5,14
-8,Pekua,31,158,27,86,1,2
-9,Ramu,58,980,96,576,26,157
-10,Teknaf,137,481,115,551,11,23
-11,Ukhia,115,3254,40,58,88,686
-12,Total,12720,7655,843,3097,322,2130
+2,Upazila,Jackfruits Area,Jackfruits Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
+3,Chakaria,5950,543,106,345,7,8
+4,Cox's Bazar Sadar,6255,1539,330,775,183,1240
+5,Kutubdia,0,0,3,6,0,0
+6,Moheshkhali,175,700,125,700,5,14
+7,Pekua,31,158,27,86,1,2
+8,Ramu,58,980,96,576,26,157
+9,Teknaf,137,481,115,551,11,23
+10,Ukhia,115,3254,40,58,88,686
+11,Total,12720,7655,843,3097,322,2130

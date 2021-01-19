@@ -1,19 +1,20 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,Upazila/City corporation,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
-2,Anowara,1,0,0,0,0
-3,Banshkhali,19,20,0,19,15
-4,Boalkhali,10,10,11,10,22
-5,Chandanaish,9,53,22,21,25
-6,Chittagong City Corp.,104,237,243,172,424
-7,Fatikchhari,23,47,71,43,74
-8,Hathazari,9,28,0,18,26
-9,Lohagara,2,2,2,1,4
-10,Mirsharai,6,0,6,6,14
-11,Patiya,15,18,45,62,75
-12,Rangunia,17,17,0,17,34
-13,Raozan,18,0,0,36,36
-14,Sandwip,0,19,0,0,0
-15,Satkania,14,15,4,15,14
-16,Sitakunda,11,27,11,11,29
-17,Total,516,986,830,862,1584
+1,,,,,,
+2,Upazila/City corporation,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+3,Anowara,1,0,0,0,0
+4,Banshkhali,19,20,0,19,15
+5,Boalkhali,10,10,11,10,22
+6,Chandanaish,9,53,22,21,25
+7,Chittagong City Corp.,104,237,243,172,424
+8,Fatikchhari,23,47,71,43,74
+9,Hathazari,9,28,0,18,26
+10,Lohagara,2,2,2,1,4
+11,Mirsharai,6,0,6,6,14
+12,Patiya,15,18,45,62,75
+13,Rangunia,17,17,0,17,34
+14,Raozan,18,0,0,36,36
+15,Sandwip,0,19,0,0,0
+16,Satkania,14,15,4,15,14
+17,Sitakunda,11,27,11,11,29
+18,Total,516,986,830,862,1584

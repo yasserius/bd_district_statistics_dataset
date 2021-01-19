@@ -1,21 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Sonali and Janata bank 2011,,,,,,,,,,
-1,"
-Upazila",Sonali bank,Sonali bank,Sonali bank,Sonali bank,Sonali bank,Janata bank,Janata bank,Janata bank,Janata bank,Janata bank
-2,"
-Upazila","Number
-of branch",Account,Account,Account,Account,"Number
-of branch",Account,Account,Account,Account
-3,"
-Upazila","Number
-of branch",S.D,C.D,F.D,S.T.D,"Number
-of branch",S.D,C.D,F.D,S.T.D
-4,Chakaria,3,4500,3200,2000,1500,2,3500,1515,1620,1000
-5,Cox's Bazar Sadar,1,20000,15000,3000,17000,1,6091,1003,950,900
-6,Kutubdia,1,4630,1012,1029,139,1,6880,501,73,8
-7,Moheshkhali,1,7200,1722,2.5,1,0,0,0,0,0
-8,Pekua,0,0,0,0,0,1,1845,99,45,18
-9,Ramu,1,720,336,20,3,1,496,31,27,0
-10,Teknaf,1,10000,3500,120,15,1,2535,450,19,0
-11,Ukhia,1,101,1200,61,30,0,0,0,0,0
-12,Total,9,47151,25970,6232.5,18688,7,21347,3599,2734,1926
+1,,,,,,,,,,,
+2, Upazila,Sonali bank,Sonali bank,Sonali bank,Sonali bank,Sonali bank,Janata bank,Janata bank,Janata bank,Janata bank,Janata bank
+3, Upazila,Number of branch,Account,Account,Account,Account,Number of branch,Account,Account,Account,Account
+4, Upazila,Number of branch,S.D,C.D,F.D,S.T.D,Number of branch,S.D,C.D,F.D,S.T.D
+5,Chakaria,3,4500,3200,2000,1500,2,3500,1515,1620,1000
+6,Cox's Bazar Sadar,1,20000,15000,3000,17000,1,6091,1003,950,900
+7,Kutubdia,1,4630,1012,1029,139,1,6880,501,73,8
+8,Moheshkhali,1,7200,1722,2.5,1,0,0,0,0,0
+9,Pekua,0,0,0,0,0,1,1845,99,45,18
+10,Ramu,1,720,336,20,3,1,496,31,27,0
+11,Teknaf,1,10000,3500,120,15,1,2535,450,19,0
+12,Ukhia,1,101,1200,61,30,0,0,0,0,0
+13,Total,9,47151,25970,6232.5,18688,7,21347,3599,2734,1926

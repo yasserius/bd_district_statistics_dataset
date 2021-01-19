@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,"Number of hat-bazar, growth centre, hotel & restaurant 2011",,,,,
-1,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
-2,Kamalnagar,9,9,9,26,0
-3,Lakshmipur Sadar,4,64,7,643,6
-4,Ramganj,7,31,5,144,3
-5,Ramgati,1,15,4,252,8
-6,Roypur,16,26,3,77,2
-7,Total,37,145,28,1142,19
+1,,,,,,
+2,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
+3,Kamalnagar,9,9,9,26,0
+4,Lakshmipur Sadar,4,64,7,643,6
+5,Ramganj,7,31,5,144,3
+6,Ramgati,1,15,4,252,8
+7,Roypur,16,26,3,77,2
+8,Total,37,145,28,1142,19

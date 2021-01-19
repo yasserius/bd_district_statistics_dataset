@@ -1,14 +1,12 @@
 ,0,1,2,3,4,5
 0,Number of employee by local Government institution 2011,,,,,
-1,Upazila,"City
-corporation",Municipality,Zila parishad,"Upazila
-parishad","Union
-parishad"
-2,Bhandaria,0,0,0,4,65
-3,Kawkhali,0,0,0,6,70
-4,Mathbaria,0,44,0,3,122
-5,Nazirpur,0,0,0,2,70
-6,Nesarabad,0,16,0,0,83
-7,Pirojpur Sadar,0,152,10,2,65
-8,Zianagar,0,0,0,2,33
-9,Total,0,212,10,19,508
+1,,,,,,
+2,Upazila,City corporation,Municipality,Zila parishad,Upazila parishad,Union parishad
+3,Bhandaria,0,0,0,4,65
+4,Kawkhali,0,0,0,6,70
+5,Mathbaria,0,44,0,3,122
+6,Nazirpur,0,0,0,2,70
+7,Nesarabad,0,16,0,0,83
+8,Pirojpur Sadar,0,152,10,2,65
+9,Zianagar,0,0,0,2,33
+10,Total,0,212,10,19,508

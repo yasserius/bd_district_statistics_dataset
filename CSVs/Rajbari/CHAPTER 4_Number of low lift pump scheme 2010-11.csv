@@ -1,12 +1,11 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,"
-Upazila",Number of pumps fielded,Number of pumps fielded,Number of pumps fielded,Area irrigated (in acre)
-2,"
-Upazila",Electric,Diesel,Total,Area irrigated (in acre)
-3,Baliakandi,43,6737,6780,40492
-4,Goalanda,339,2417,2756,20876
-5,Kalukhali,256,4274,4530,24821
-6,Pangsha,160,5025,5185,42800
-7,Rajbari Sadar,727,4765,5492,11973
-8,Total,1525,23218,24743,140962
+1,,,,,
+2, Upazila,Number of pumps fielded,Number of pumps fielded,Number of pumps fielded,Area irrigated (in acre)
+3, Upazila,Electric,Diesel,Total,Area irrigated (in acre)
+4,Baliakandi,43,6737,6780,40492
+5,Goalanda,339,2417,2756,20876
+6,Kalukhali,256,4274,4530,24821
+7,Pangsha,160,5025,5185,42800
+8,Rajbari Sadar,727,4765,5492,11973
+9,Total,1525,23218,24743,140962

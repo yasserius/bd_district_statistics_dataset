@@ -1,11 +1,7 @@
 ,0,1,2,3,4,5
 0,Employment status in handloom industry 2011,,,,,
-1,"
-Upazila/Municipality",Number of handloom,Persons Engaged,Persons Engaged,Persons Engaged,"
-Total"
-2,"
-Upazila/Municipality",Number of handloom,Family members,Regular,Hired /Casual,"
-Total"
+1,,,,,,
+2,Upazila/Municipality,Number of handloom,Persons Engaged Family members,Persons Engaged Regular,Persons Engaged Hired /Casual,Total
 3,Gangni,310,615,100,50,765
 4,Mujibnagar,30,30,0,0,30
 5,Meherpur Sadar,0,0,0,0,0

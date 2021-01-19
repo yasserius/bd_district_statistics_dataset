@@ -1,22 +1,19 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Biral,4,12,4,16
-4,Birampur,3,10,20,30
-5,Birganj,5,5,150,155
-6,Bochaganj,5,6,52,58
-7,Chirirbandar,3,6,18,24
-8,Dinajpur Sadar,20,40,130,170
-9,Fulbari,6,9,40,49
-10,Ghoraghat,2,4,36,40
-11,Hakimpur,6,6,95,101
-12,Kaharole,2,10,140,150
-13,Khansama,6,10,18,28
-14,Nawabganj,4,8,4,12
-15,Parbatipur,11,20,115,135
-16,Total,77,146,822,968
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Biral,4,12,4,16
+5,Birampur,3,10,20,30
+6,Birganj,5,5,150,155
+7,Bochaganj,5,6,52,58
+8,Chirirbandar,3,6,18,24
+9,Dinajpur Sadar,20,40,130,170
+10,Fulbari,6,9,40,49
+11,Ghoraghat,2,4,36,40
+12,Hakimpur,6,6,95,101
+13,Kaharole,2,10,140,150
+14,Khansama,6,10,18,28
+15,Nawabganj,4,8,4,12
+16,Parbatipur,11,20,115,135
+17,Total,77,146,822,968

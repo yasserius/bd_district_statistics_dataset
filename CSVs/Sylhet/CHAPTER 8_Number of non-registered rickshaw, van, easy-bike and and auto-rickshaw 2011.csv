@@ -1,22 +1,18 @@
 ,0,1,2,3,4,5
 0,"Number of non-registered rickshaw, van, easy-bike and and auto-rickshaw 2011",,,,,
-1,"
-Upazila/City corporation","
-Rickshaw","
-Van",Easy -bike and auto-rickshaws,"
-Tempo","Nochimon/ Korimon/
-Bhotvoti"
-2,Balaganj,85,32,78,33,19
-3,Beanibazar,140,50,28,22,66
-4,Bishwanath,992,380,173,128,11
-5,Companiganj,312,71,15,17,8
-6,Dakhin surma,150,70,90,67,42
-7,Fenchuganj,100,70,69,29,12
-8,Golapganj,109,108,35,20,10
-9,Gowainghat,80,12,33,6,13
-10,Jaintiapur,200,59,25,19,20
-11,Kanaighat,100,65,90,10,43
-12,Sylhet city corporation,752,67,219,163,3
-13,Sylhet sadar,405,121,91,73,21
-14,Zakiganj,500,27,5,16,37
-15,Total,3925,1132,951,603,305
+1,,,,,,
+2,Upazila/City corporation,Rickshaw,Van,Easy -bike and auto-rickshaws,Tempo,Nochimon/ Korimon/ Bhotvoti
+3,Balaganj,85,32,78,33,19
+4,Beanibazar,140,50,28,22,66
+5,Bishwanath,992,380,173,128,11
+6,Companiganj,312,71,15,17,8
+7,Dakhin surma,150,70,90,67,42
+8,Fenchuganj,100,70,69,29,12
+9,Golapganj,109,108,35,20,10
+10,Gowainghat,80,12,33,6,13
+11,Jaintiapur,200,59,25,19,20
+12,Kanaighat,100,65,90,10,43
+13,Sylhet city corporation,752,67,219,163,3
+14,Sylhet sadar,405,121,91,73,21
+15,Zakiganj,500,27,5,16,37
+16,Total,3925,1132,951,603,305

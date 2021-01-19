@@ -1,9 +1,7 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,"
-Upazila",Current fallow,Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Productivity of crop
-2,"
-Upazila",Current fallow,Single,Double,Triple,Net,Gross,Productivity of crop
+1,,,,,,,,
+2,Upazila,Current fallow,Temporary cropped area Single,Temporary cropped area Double,Temporary cropped area Triple,Temporary cropped area Net,Temporary cropped area Gross,Productivity of crop
 3,Kamalnagar,385,1650,17675,6034,25359,63081,2.49
 4,Lakshmipur Sadar,417,11732,34910,657,47299,88742,1.88
 5,Ramganj,280,6380,8850,1416,16646,22027,1.32

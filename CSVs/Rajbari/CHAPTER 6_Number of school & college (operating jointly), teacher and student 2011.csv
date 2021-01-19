@@ -1,12 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of school & college (operating jointly), teacher and student 2011",,,,,,,,
-1,"
-Upazila",Number of  institute,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of  institute,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Baliakandi,1,15,5,20,422,425,847,42
-4,Goalanda,1,6,8,14,30,152,182,13
-5,Kalukhali,0,0,0,0,0,0,0,0
-6,Pangsha,0,0,0,0,0,0,0,0
-7,Rajbari Sadar,2,47,26,73,808,741,1549,21
-8,Total,4,68,39,107,1260,1318,2578,25
+1,,,,,,,,,
+2, Upazila,Number of  institute,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of  institute,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Baliakandi,1,15,5,20,422,425,847,42
+5,Goalanda,1,6,8,14,30,152,182,13
+6,Kalukhali,0,0,0,0,0,0,0,0
+7,Pangsha,0,0,0,0,0,0,0,0
+8,Rajbari Sadar,2,47,26,73,808,741,1549,21
+9,Total,4,68,39,107,1260,1318,2578,25

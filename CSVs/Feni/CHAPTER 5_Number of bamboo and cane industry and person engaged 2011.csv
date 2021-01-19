@@ -1,15 +1,12 @@
 ,0,1,2,3,4
 0,Number of bamboo and cane industry and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Chhagalnaiya,301,301,28,329
-4,Daganbhuiyan,53,53,0,53
-5,Feni Sadar,78,92,26,118
-6,Fulgazi,64,112,0,112
-7,Parshuram,154,420,15,435
-8,Sonagazi,373,621,126,747
-9,Total,1023,1599,195,1794
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Chhagalnaiya,301,301,28,329
+5,Daganbhuiyan,53,53,0,53
+6,Feni Sadar,78,92,26,118
+7,Fulgazi,64,112,0,112
+8,Parshuram,154,420,15,435
+9,Sonagazi,373,621,126,747
+10,Total,1023,1599,195,1794

@@ -1,17 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Number of community clinic and person engaged 2011,,,,,,
-1,Upazila,"Number of
-clinic","Number of
-health asst.","Number of
-FPI","Number of
-FWV","Number of
-FWA","Number of
-other staff"
-2,Alikadam,3,3,2,0,3,4
-3,Bandarban Sadar,5,15,6,8,15,0
-4,Lama,10,38,5,8,20,0
-5,Naikhongchhari,3,3,3,0,3,0
-6,Rowangchhari,3,12,4,6,12,0
-7,Ruma,2,2,2,1,2,0
-8,Thanchi,1,2,2,4,8,2
-9,Total,27,75,24,27,63,6
+1,,,,,,,
+2,Upazila,Number of clinic,Number of health asst.,Number of FPI,Number of FWV,Number of FWA,Number of other staff
+3,Alikadam,3,3,2,0,3,4
+4,Bandarban Sadar,5,15,6,8,15,0
+5,Lama,10,38,5,8,20,0
+6,Naikhongchhari,3,3,3,0,3,0
+7,Rowangchhari,3,12,4,6,12,0
+8,Ruma,2,2,2,1,2,0
+9,Thanchi,1,2,2,4,8,2
+10,Total,27,75,24,27,63,6

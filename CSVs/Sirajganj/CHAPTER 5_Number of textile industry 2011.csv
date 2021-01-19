@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Number of textile industry 2011,,,,,,
-1,Upazila,Number of mill,Installed capacity,Installed capacity,Total persons engaged,Total persons engaged,Total persons engaged
-2,Upazila,Number of mill,Spindle,Loom,Male,Female,Total
-3,Belkuchi,0,0,0,0,0,0
-4,Chauhali,0,0,0,0,0,0
-5,Kamarkhanda,1,0,0,20,41,61
-6,Kazipur,0,0,0,0,0,0
-7,Royganj,0,0,0,0,0,0
-8,Shahjadpur,0,0,0,0,0,0
-9,Sirajganj Sadar,2,86960,0,600,990,1590
-10,Tarash,0,0,0,0,0,0
-11,Ullahpara,0,0,0,0,0,0
-12,Total,3,86960,0,620,1031,1651
+1,,,,,,,
+2,Upazila,Number of mill,Installed capacity,Installed capacity,Total persons engaged,Total persons engaged,Total persons engaged
+3,Upazila,Number of mill,Spindle,Loom,Male,Female,Total
+4,Belkuchi,0,0,0,0,0,0
+5,Chauhali,0,0,0,0,0,0
+6,Kamarkhanda,1,0,0,20,41,61
+7,Kazipur,0,0,0,0,0,0
+8,Royganj,0,0,0,0,0,0
+9,Shahjadpur,0,0,0,0,0,0
+10,Sirajganj Sadar,2,86960,0,600,990,1590
+11,Tarash,0,0,0,0,0,0
+12,Ullahpara,0,0,0,0,0,0
+13,Total,3,86960,0,620,1031,1651

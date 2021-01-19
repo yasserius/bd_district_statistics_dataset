@@ -1,10 +1,7 @@
 ,0,1,2,3,4
 0,"Selected poultry, Birds 2008",,,,
-1,"
-Upazila",Hen and cocks,Hen and cocks,Ducks,Ducks
-2,"
-Upazila","Holding
-reporting",Total number,Holding reporting,Total number
+1,,,,,
+2,Upazila,Hen and cocks Holding reporting,Hen and cocks Total number,Ducks Holding reporting,Ducks Total number
 3,Gangni,40322,321974,19531,98413
 4,Mujibnagar,13051,88123,11614,71754
 5,Meherpur Sadar,30585,229863,22598,131164

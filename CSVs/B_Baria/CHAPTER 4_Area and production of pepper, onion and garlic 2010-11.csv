@@ -1,17 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Pepper,Pepper,Onion,Onion,Garlic,Garlic
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
-4,Akhaura,80,30,10,130,5,20
-5,Ashuganj,24,8.91,50,167.9,37,75.96
-6,Banchharampur,1297,772,531,268,272,165
-7,Bijoynagar,419,2171,17,93,15,48
-8,Brahmanbaria Sadar,102,51,185,200,83,91
-9,Kasba,305,137,41,65.6,29,18.85
-10,Nabinagar,480,134,367,1067,141,315
-11,Nasirnagar,173,147,122,672,55,57
-12,Sarail,328,89,79,163.14,23,27
-13,Total,3208,3539.91,1402,2826.64,660,817.81
+2,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
+3,Akhaura,80,30,10,130,5,20
+4,Ashuganj,24,8.91,50,167.9,37,75.96
+5,Banchharampur,1297,772,531,268,272,165
+6,Bijoynagar,419,2171,17,93,15,48
+7,Brahmanbaria Sadar,102,51,185,200,83,91
+8,Kasba,305,137,41,65.6,29,18.85
+9,Nabinagar,480,134,367,1067,141,315
+10,Nasirnagar,173,147,122,672,55,57
+11,Sarail,328,89,79,163.14,23,27
+12,Total,3208,3539.91,1402,2826.64,660,817.81

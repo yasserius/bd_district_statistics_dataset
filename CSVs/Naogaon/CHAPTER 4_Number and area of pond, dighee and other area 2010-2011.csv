@@ -1,23 +1,18 @@
 ,0,1,2,3,4,5,6
 0,"Number and area of pond, dighee and other area 2010-2011",,,,,,
-1,(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre)
-2,"
-Upazila",Pond,Pond,Dighee,Dighee,"
-Other area","
-Total area"
-3,"
-Upazila",Number,Area,Number,Area,"
-Other area","
-Total area"
-4,Atrai,3511,2700,0,0,4405,7105
-5,Badalgachhi,1611,1611,137,308,6,1007
-6,Dhamoirhat,3412,3176,9,101,50,3327
-7,Manda,5795,2891,10,69,25786,28746
-8,Mahadebpur,5972,4280,3,29,6,5392
-9,Naogaon sadar,3150,1622,7,34,13790,15447
-10,Niamatpur,4951,2764,0,0,3,60
-11,Patnitala,7275,4155,5,85,5,4969
-12,Porsha,2369,1119,12,152,32,3088
-13,Raninagar,2295,1532,3,22,3,45
-14,Sapahar,3390,1495,52,240,1193,2928
-15,Total,43731,27345,238,1040,45279,72114
+1,,,,,,,
+2,(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre),(Area in acre)
+3, Upazila,Pond,Pond,Dighee,Dighee, Other area, Total area
+4, Upazila,Number,Area,Number,Area, Other area, Total area
+5,Atrai,3511,2700,0,0,4405,7105
+6,Badalgachhi,1611,1611,137,308,6,1007
+7,Dhamoirhat,3412,3176,9,101,50,3327
+8,Manda,5795,2891,10,69,25786,28746
+9,Mahadebpur,5972,4280,3,29,6,5392
+10,Naogaon sadar,3150,1622,7,34,13790,15447
+11,Niamatpur,4951,2764,0,0,3,60
+12,Patnitala,7275,4155,5,85,5,4969
+13,Porsha,2369,1119,12,152,32,3088
+14,Raninagar,2295,1532,3,22,3,45
+15,Sapahar,3390,1495,52,240,1193,2928
+16,Total,43731,27345,238,1040,45279,72114

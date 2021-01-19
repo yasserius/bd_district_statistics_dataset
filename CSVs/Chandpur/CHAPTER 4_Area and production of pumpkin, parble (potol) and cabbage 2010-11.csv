@@ -1,10 +1,8 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pumpkin, parble (potol) and cabbage 2010-11",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
-2,"
-Upazila",Pumpkin,Pumpkin,Parble (potol),Parble (potol),Cabbage,Cabbage
-3,"
-Upazila",Area,Production,Area,Production,Area,Production
+2, Upazila,Pumpkin,Pumpkin,Parble (potol),Parble (potol),Cabbage,Cabbage
+3, Upazila,Area,Production,Area,Production,Area,Production
 4,Chandpur Sadar,132,950,0,0,296,1600
 5,Foridganj,132,773,0,0,148,4200
 6,Haimchar,148,1500,0,0,25,300

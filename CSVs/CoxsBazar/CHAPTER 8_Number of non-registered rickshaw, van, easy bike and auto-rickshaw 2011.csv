@@ -1,14 +1,13 @@
 ,0,1,2,3,4,5
 0,"Number of non-registered rickshaw, van, easy bike and auto-rickshaw 2011",,,,,
-1,Upazila,Rickshaw,Van,"Easy bike and
-auto-rickshaw",Tempo,"Nochimon/korimon/
-bhotvoti"
-2,Chakaria,600,300,150,60,120
-3,Cox's Bazar Sadar,800,120,1200,10,10
-4,Kutubdia,3010,30,0,0,32
-5,Moheshkhali,2000,100,100,100,50
-6,Pekua,120,30,45,0,20
-7,Ramu,282,210,42,6,15
-8,Teknaf,165,20,0,0,35
-9,Ukhia,731,21,123,14,43
-10,Total,7708,831,1660,190,325
+1,,,,,,
+2,Upazila,Rickshaw,Van,Easy bike and auto-rickshaw,Tempo,Nochimon/korimon/ bhotvoti
+3,Chakaria,600,300,150,60,120
+4,Cox's Bazar Sadar,800,120,1200,10,10
+5,Kutubdia,3010,30,0,0,32
+6,Moheshkhali,2000,100,100,100,50
+7,Pekua,120,30,45,0,20
+8,Ramu,282,210,42,6,15
+9,Teknaf,165,20,0,0,35
+10,Ukhia,731,21,123,14,43
+11,Total,7708,831,1660,190,325

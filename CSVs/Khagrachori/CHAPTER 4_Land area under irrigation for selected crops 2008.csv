@@ -1,12 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Land area under irrigation for selected crops 2008,,,,,,
-1,"
-Upazila",All Paddy,All Paddy,Wheat,Wheat,Potato,Potato
-2,"
-Upazila",Total area,"Irrigated
-area",Total area,"Irrigated
-area",Total area,"Irrigated
-area"
+1,,,,,,,
+2,Upazila,All Paddy Total area,All Paddy Irrigated area,Wheat Total area,Wheat Irrigated area,Potato Total area,Potato Irrigated area
 3,Dighinala,17936.02,4267,18,18,923,832
 4,Khagrachhari Sadar,16400.29,12770,13,0,256,320
 5,Laxshmichhari,2142.34,1650,4,0,194,0

@@ -1,16 +1,13 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of pond, dighee, flood camps, shelter, cyclone shelter, stadium,  playground, park,  amusement park 2011",,,,,,,
-1,Upazila,Pond,Dighee,River flow,"Flood camp/
-shelter","Cyclone
-shelter","Stadium/
-playground","Park/amus
-ement park"
-2,Chakaria,5060,525,2,3,130,60,2
-3,Cox's Bazar Sadar,933,27,2,2,49,1,1
-4,Kutubdia,1666,0,0,0,73,0,0
-5,Moheshkhali,570,1,2,4,72,6,0
-6,Pekua,380,0,0,0,13,1,0
-7,Ramu,888,11,1,18,13,12,0
-8,Teknaf,275,0,1,0,51,8,4
-9,Ukhia,865,18,1,0,42,11,0
-10,Total,10637,582,9,27,443,99,7
+1,,,,,,,,
+2,Upazila,Pond,Dighee,River flow,Flood camp/ shelter,Cyclone shelter,Stadium/ playground,Park/amus ement park
+3,Chakaria,5060,525,2,3,130,60,2
+4,Cox's Bazar Sadar,933,27,2,2,49,1,1
+5,Kutubdia,1666,0,0,0,73,0,0
+6,Moheshkhali,570,1,2,4,72,6,0
+7,Pekua,380,0,0,0,13,1,0
+8,Ramu,888,11,1,18,13,12,0
+9,Teknaf,275,0,1,0,51,8,4
+10,Ukhia,865,18,1,0,42,11,0
+11,Total,10637,582,9,27,443,99,7

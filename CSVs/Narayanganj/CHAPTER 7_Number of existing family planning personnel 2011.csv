@@ -1,10 +1,10 @@
 ,0,1,2,3,4,5,6,7
 0,Number of existing family planning personnel 2011,,,,,,,
-1,Upazila,TFPO,M.O,FPI,TFPA,FWV,FWA,"Midwife or
-SBA"
-2,Araihazar,1,2,8,3,11,59,1
-3,Bandar,1,1,6,3,11,49,8
-4,Narayanganj Sadar,1,3,18,3,29,91,2
-5,Rupganj,1,5,9,3,13,70,16
-6,Sonargaon,1,2,8,2,9,56,9
-7,Total,5,13,49,14,73,325,36
+1,,,,,,,,
+2,Upazila,TFPO,M.O,FPI,TFPA,FWV,FWA,Midwife or SBA
+3,Araihazar,1,2,8,3,11,59,1
+4,Bandar,1,1,6,3,11,49,8
+5,Narayanganj Sadar,1,3,18,3,29,91,2
+6,Rupganj,1,5,9,3,13,70,16
+7,Sonargaon,1,2,8,2,9,56,9
+8,Total,5,13,49,14,73,325,36

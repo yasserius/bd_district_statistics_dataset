@@ -1,20 +1,17 @@
 ,0,1,2,3,4
 0,Number of plastic industry and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Atrai,0,0,0,0
-4,Badalgachhi,0,0,0,0
-5,Dhamoirhat,0,0,0,0
-6,Manda,0,0,0,0
-7,Mahadebpur,0,0,0,0
-8,Naogaon sadar,3,5,2,7
-9,Niamatpur,0,0,0,0
-10,Patnitala,1,59,1,60
-11,Porsha,0,0,0,0
-12,Raninagar,0,0,0,0
-13,Sapahar,0,0,0,0
-14,Total,4,64,3,67
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Atrai,0,0,0,0
+5,Badalgachhi,0,0,0,0
+6,Dhamoirhat,0,0,0,0
+7,Manda,0,0,0,0
+8,Mahadebpur,0,0,0,0
+9,Naogaon sadar,3,5,2,7
+10,Niamatpur,0,0,0,0
+11,Patnitala,1,59,1,60
+12,Porsha,0,0,0,0
+13,Raninagar,0,0,0,0
+14,Sapahar,0,0,0,0
+15,Total,4,64,3,67

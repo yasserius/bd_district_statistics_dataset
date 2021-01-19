@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,Upazila,Unit,Person engaged,Person engaged,Person engaged
-2,Upazila,Unit,Family,Hired,Total
-3,Belkuchi,6,10,20,30
-4,Chauhali,4,4,12,16
-5,Kamarkhanda,1,5,8,13
-6,Kazipur,1,7,20,27
-7,Royganj,8,15,21,36
-8,Shahjadpur,10,22,30,52
-9,Sirajganj Sadar,28,32,373,405
-10,Tarash,2,0,8,8
-11,Ullahpara,2,3,31,34
-12,Total,62,98,523,621
+1,,,,,
+2,Upazila,Unit,Person engaged,Person engaged,Person engaged
+3,Upazila,Unit,Family,Hired,Total
+4,Belkuchi,6,10,20,30
+5,Chauhali,4,4,12,16
+6,Kamarkhanda,1,5,8,13
+7,Kazipur,1,7,20,27
+8,Royganj,8,15,21,36
+9,Shahjadpur,10,22,30,52
+10,Sirajganj Sadar,28,32,373,405
+11,Tarash,2,0,8,8
+12,Ullahpara,2,3,31,34
+13,Total,62,98,523,621

@@ -1,14 +1,11 @@
 ,0,1,2,3,4
 0,Area and production of turmeric and ginger 2010-11,,,,
 1,(Area in acre & production in metric ton),,,,
-2,"
-Upazila",Turmeric,Turmeric,Ginger,Ginger
-3,"
-Upazila",Area,Production,Area,Production
-4,Kushtia Sadar,351,1568,36,152
-5,Bheramara,207,497,26,51
-6,Daulatpur,398,2133,21,120
-7,Khoksa,191,466,7,9
-8,Kumarkhali,131,660,11,41
-9,Mirpur,242,399,0,0
-10,Total,1520,5723,101,373
+2,Upazila,Turmeric Area,Turmeric Production,Ginger Area,Ginger Production
+3,Kushtia Sadar,351,1568,36,152
+4,Bheramara,207,497,26,51
+5,Daulatpur,398,2133,21,120
+6,Khoksa,191,466,7,9
+7,Kumarkhali,131,660,11,41
+8,Mirpur,242,399,0,0
+9,Total,1520,5723,101,373

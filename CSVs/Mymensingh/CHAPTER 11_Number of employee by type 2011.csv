@@ -1,21 +1,17 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,"
-Upazila","
-Police personnel","
-Ansar personnel","
-VDP personnel",Autonomous bodies,"Local Government
-employee"
-2,Bhaluka,49,452,6910,33,132
-3,Dhobaura,40,324,10368,25,76
-4,Fulbaria,31,1200,8960,10,167
-5,Gaffargaon,43,480,12096,10,190
-6,Gauripur,39,7904,1141,21,127
-7,Haluaghat,37,416,13120,42,9
-8,Ishwargonj,40,490,24000,58,41
-9,Muktagacha,65,465,16192,25,214
-10,Mymensingh Sadar,986,385,5536,2573,315
-11,Nandail,41,516,16896,52,10
-12,Phulpur,78,1558,21736,29,256
-13,Trishal,51,120,13900,290,132
-14,Total,1500,14310,150855,3168,1669
+1,,,,,,
+2, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous bodies,Local Government employee
+3,Bhaluka,49,452,6910,33,132
+4,Dhobaura,40,324,10368,25,76
+5,Fulbaria,31,1200,8960,10,167
+6,Gaffargaon,43,480,12096,10,190
+7,Gauripur,39,7904,1141,21,127
+8,Haluaghat,37,416,13120,42,9
+9,Ishwargonj,40,490,24000,58,41
+10,Muktagacha,65,465,16192,25,214
+11,Mymensingh Sadar,986,385,5536,2573,315
+12,Nandail,41,516,16896,52,10
+13,Phulpur,78,1558,21736,29,256
+14,Trishal,51,120,13900,290,132
+15,Total,1500,14310,150855,3168,1669

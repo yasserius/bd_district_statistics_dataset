@@ -1,15 +1,8 @@
 ,0,1,2,3,4,5,6
 0,"Number and area of pond, dighee and other area 2010-2011",,,,,,
 1,(Area in Acre),,,,,,
-2,"
-Upazila",Pond,Pond,Tank (Dighee),Tank (Dighee),"
-Other area","
-Total Area"
-3,"
-Upazila",Number,Area,Number,Area,"
-Other area","
-Total Area"
-4,Gangni,2595,1452,9,105,363,1920
-5,Mujibnagar,550,199.18,0,0,872.74,1071.92
-6,Meherpur Sadar,1528,633.6,37,124.4,353,872
-7,Total,4673,2284.78,46,229.4,1588.74,3863.92
+2,Upazila,Pond Number,Pond Area,Tank (Dighee) Number,Tank (Dighee) Area,Other area,Total Area
+3,Gangni,2595,1452,9,105,363,1920
+4,Mujibnagar,550,199.18,0,0,872.74,1071.92
+5,Meherpur Sadar,1528,633.6,37,124.4,353,872
+6,Total,4673,2284.78,46,229.4,1588.74,3863.92

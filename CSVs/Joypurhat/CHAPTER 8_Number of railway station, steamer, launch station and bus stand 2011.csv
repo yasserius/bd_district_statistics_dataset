@@ -1,9 +1,10 @@
 ,0,1,2,3
 0,"Number of railway station, steamer, launch station and bus stand 2011",,,
-1,Upazila,Railway station,Steamer/launch station,Bus stand
-2,Akkelpur,4,0,3
-3,Joypurhat sadar,1,0,7
-4,Kalai,0,0,5
-5,Khetlal,0,0,4
-6,Panchbibi,1,0,4
-7,Total,6,0,23
+1,,,,
+2,Upazila,Railway station,Steamer/launch station,Bus stand
+3,Akkelpur,4,0,3
+4,Joypurhat sadar,1,0,7
+5,Kalai,0,0,5
+6,Khetlal,0,0,4
+7,Panchbibi,1,0,4
+8,Total,6,0,23

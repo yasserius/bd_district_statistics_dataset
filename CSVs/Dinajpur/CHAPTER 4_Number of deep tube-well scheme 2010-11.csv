@@ -1,20 +1,19 @@
 ,0,1,2,3
 0,Number of deep tube-well scheme 2010-11,,,
-1,"
-Upazila",Number of deep tube-well,Number of deep tube-well,Area irrigated (In acre)
-2,"
-Upazila",Commissioned,Operated,Area irrigated (In acre)
-3,Biral,0,161,9770
-4,Birampur,329,333,26400
-5,Birganj,265,55,19200
-6,Bochaganj,103,33,7300
-7,Chirirbandar,179,3,7185
-8,Dinajpur Sadar,30,71,4800
-9,Fulbari,137,96,19786
-10,Ghoraghat,238,202,13535
-11,Hakimpur,0,193,12871
-12,Kaharole,174,174,14469
-13,Khansama,91,81,5755
-14,Nawabganj,337,337,24535
-15,Parbatipur,209,278,20820
-16,Total,2092,2017,186426
+1,,,,
+2, Upazila,Number of deep tube-well,Number of deep tube-well,Area irrigated (In acre)
+3, Upazila,Commissioned,Operated,Area irrigated (In acre)
+4,Biral,0,161,9770
+5,Birampur,329,333,26400
+6,Birganj,265,55,19200
+7,Bochaganj,103,33,7300
+8,Chirirbandar,179,3,7185
+9,Dinajpur Sadar,30,71,4800
+10,Fulbari,137,96,19786
+11,Ghoraghat,238,202,13535
+12,Hakimpur,0,193,12871
+13,Kaharole,174,174,14469
+14,Khansama,91,81,5755
+15,Nawabganj,337,337,24535
+16,Parbatipur,209,278,20820
+17,Total,2092,2017,186426

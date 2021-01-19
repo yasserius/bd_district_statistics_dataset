@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of registered primary school (class I-V), teacher and student 2011",,,,,,,,
-1,Upazila,Number of registered primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,Upazila,Number of registered primary school,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Amtali,101,257,130,387,5130,5010,10140,26
-4,Bamna,15,31,23,54,978,1053,2031,38
-5,Barguna Sadar,95,237,115,352,11950,10162,22112,63
-6,Betagi,47,101,70,171,4217,3120,7337,43
-7,Patharghata,76,164,134,298,5170,4883,10053,34
-8,Total,334,790,472,1262,27445,24228,51673,41
+1,,,,,,,,,
+2,Upazila,Number of registered primary school,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3,Upazila,Number of registered primary school,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Amtali,101,257,130,387,5130,5010,10140,26
+5,Bamna,15,31,23,54,978,1053,2031,38
+6,Barguna Sadar,95,237,115,352,11950,10162,22112,63
+7,Betagi,47,101,70,171,4217,3120,7337,43
+8,Patharghata,76,164,134,298,5170,4883,10053,34
+9,Total,334,790,472,1262,27445,24228,51673,41

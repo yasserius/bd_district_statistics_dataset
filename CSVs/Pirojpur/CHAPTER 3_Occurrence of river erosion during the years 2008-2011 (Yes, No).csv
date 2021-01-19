@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,"Occurrence of river erosion during the years 2008-2011 (Yes, No)",,,,
-1,Upazila,2008,2009,2010,2011
-2,Bhandaria,No,No,No,No
-3,Kawkhali,No,No,No,No
-4,Mathbaria,No,No,No,No
-5,Nazirpur,Yes,Yes,Yes,Yes
-6,Nesarabad,Yes,Yes,Yes,Yes
-7,Pirojpur Sadar,Yes,Yes,Yes,Yes
-8,Zianagar,No,No,No,No
+1,,,,,
+2,Upazila,2008,2009,2010,2011
+3,Bhandaria,No,No,No,No
+4,Kawkhali,No,No,No,No
+5,Mathbaria,No,No,No,No
+6,Nazirpur,Yes,Yes,Yes,Yes
+7,Nesarabad,Yes,Yes,Yes,Yes
+8,Pirojpur Sadar,Yes,Yes,Yes,Yes
+9,Zianagar,No,No,No,No

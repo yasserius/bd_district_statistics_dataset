@@ -1,21 +1,16 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,"
-
-Upazila",Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
-2,"
-
-Upazila",Number of branch of all private commercial banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
-3,"
-
-Upazila",Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
-4,Belkuchi,7,232,1704,280,1,1027,60,1679,1725,9,2
-5,Chauhali,1,0,0,15,8,77,30,92,38,27,55
-6,Kamarkhanda,0,0,0,0,0,0,0,0,0,0,0
-7,Kazipur,2,7,0,4,0,13,1,24,1,1,0
-8,Royganj,1,235,0,0,0,140,3,375,3,18,1
-9,Shahjadpur,7,987,754,11,0,1373,5,2371,759,47,1
-10,Sirajganj Sadar,12,2760,106,137,32,1680,39,4577,177,86,12
-11,Tarash,8,1820,65,90,22,1020,27,2930,114,61,8
-12,Ullahpara,7,1719,18720,520,2720,604,2386,2846,23826,8,24
-13,Total,45,7760,21349,1057,2783,5934,2551,14894,26643,257,103
+1,,,,,,,,,,,,
+2,  Upazila,Number of branch of all private commercial banks,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower,Number of borrower
+3,  Upazila,Number of branch of all private commercial banks,Agriculture debt,Agriculture debt,Industry debt,Industry debt,Other debt,Other debt,Number of borrower,Number of borrower,Total debt (crore tk),Total debt (crore tk)
+4,  Upazila,Number of branch of all private commercial banks,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+5,Belkuchi,7,232,1704,280,1,1027,60,1679,1725,9,2
+6,Chauhali,1,0,0,15,8,77,30,92,38,27,55
+7,Kamarkhanda,0,0,0,0,0,0,0,0,0,0,0
+8,Kazipur,2,7,0,4,0,13,1,24,1,1,0
+9,Royganj,1,235,0,0,0,140,3,375,3,18,1
+10,Shahjadpur,7,987,754,11,0,1373,5,2371,759,47,1
+11,Sirajganj Sadar,12,2760,106,137,32,1680,39,4577,177,86,12
+12,Tarash,8,1820,65,90,22,1020,27,2930,114,61,8
+13,Ullahpara,7,1719,18720,520,2720,604,2386,2846,23826,8,24
+14,Total,45,7760,21349,1057,2783,5934,2551,14894,26643,257,103

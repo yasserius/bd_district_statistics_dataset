@@ -1,7 +1,7 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,Thana/Upazila Nmae,Current fallow,Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Temporary cropped area,Productivity of crop
-2,Thana/Upazila Nmae,Current fallow,Single,Double,Triple,Net,Gross,Productivity of crop
+1,,,,,,,,
+2,Thana/Upazila Nmae,Current fallow,Temporary cropped area Single,Temporary cropped area Double,Temporary cropped area Triple,Temporary cropped area Net,Temporary cropped area Gross,Productivity of crop
 3,Katiadi,2045,3620,24241,7594,35455,80600,2.27
 4,Hossainpur,12,1804,13145,5616,20565,23562,1.15
 5,Bajitpur,72,18620,14169,1350,34139,44074,1.29

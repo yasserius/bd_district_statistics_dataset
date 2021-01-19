@@ -1,19 +1,14 @@
 ,0,1,2,3,4,5
 0,Average Rate of Vehicle per Kilo Meter 2011,,,,,
 1,(Rate in Taka),,,,,
-2,"
-Upazila/City corporation",Vehicle,Vehicle,Vehicle,Vehicle,Vehicle
-3,"
-Upazila/City corporation",Rickshaw,"Rickshaw
-Van",Easy Bick,"Auto
-Rickshaw",Tempo
-4,Batiaghata,8,8,4,3,2
-5,Dacope,8,8,5,0,5
-6,Dighalia,8,5,5,5,5
-7,Dumuria,10,5,2,0,3
-8,Khulna City Corporation,10,6,5,5,4
-9,Koyra,10,4,5,0,5
-10,Paikgachha,10,4,5,5,5
-11,Phultala,10,3,2,2,2
-12,Rupsa,10,5,5,0,4
-13,Average,10,5,5,0,5
+2,Upazila/City corporation,Vehicle Rickshaw,Vehicle Rickshaw Van,Vehicle Easy Bick,Vehicle Auto Rickshaw,Vehicle Tempo
+3,Batiaghata,8,8,4,3,2
+4,Dacope,8,8,5,0,5
+5,Dighalia,8,5,5,5,5
+6,Dumuria,10,5,2,0,3
+7,Khulna City Corporation,10,6,5,5,4
+8,Koyra,10,4,5,0,5
+9,Paikgachha,10,4,5,5,5
+10,Phultala,10,3,2,2,2
+11,Rupsa,10,5,5,0,4
+12,Average,10,5,5,0,5

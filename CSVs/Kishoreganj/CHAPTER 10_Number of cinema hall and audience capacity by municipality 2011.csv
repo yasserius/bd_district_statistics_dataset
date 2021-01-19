@@ -1,17 +1,18 @@
 ,0,1,2,3,4
 0,Number of cinema hall and audience capacity by municipality 2011,,,,
-1,Municipality,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
-2,Austagram,1,0,0,0
-3,Bajitpur,1,375,14,30
-4,Bhairab,2,940,4,455
-5,Hossainpur,1,350,3,150
-6,Itna,0,0,.40,0
-7,Karimganj,1,250,2,420
-8,Katiadi,2,950,3,60
-9,Kishoreganj Sadar,2,1342,6,337
-10,Kuliar-char,2,870,3,580
-11,Mithamain,0,0,0,0
-12,Nikli,0,0,0,0
-13,Pakundia,1,450,3,350
-14,Tarail,0,0,0,0
-15,Total,12,5527,28,2382
+1,,,,,
+2,Municipality,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
+3,Austagram,1,0,0,0
+4,Bajitpur,1,375,14,30
+5,Bhairab,2,940,4,455
+6,Hossainpur,1,350,3,150
+7,Itna,0,0,.40,0
+8,Karimganj,1,250,2,420
+9,Katiadi,2,950,3,60
+10,Kishoreganj Sadar,2,1342,6,337
+11,Kuliar-char,2,870,3,580
+12,Mithamain,0,0,0,0
+13,Nikli,0,0,0,0
+14,Pakundia,1,450,3,350
+15,Tarail,0,0,0,0
+16,Total,12,5527,28,2382

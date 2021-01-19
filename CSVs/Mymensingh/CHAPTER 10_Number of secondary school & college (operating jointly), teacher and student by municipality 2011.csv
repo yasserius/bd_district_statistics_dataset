@@ -1,17 +1,16 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of secondary school & college (operating jointly), teacher and student by municipality 2011",,,,,,,,
-1,"
-Upazila",Number of  institute,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
-2,"
-Upazila",Number of  institute,Male,Female,Total,Male,Female,Total,Students per teacher
-3,Bhaluka,0,0,0,0,0,0,0,0
-4,Fulbaria,0,0,0,0,0,0,0,0
-5,Gaffargaon,0,0,0,0,0,0,0,0
-6,Gauripur,1,12,3,15,434,148,282,19
-7,Ishwargonj,1,3,9,22,0,698,698,32
-8,Muktagacha,0,0,0,0,0,0,0,0
-9,Mymensingh Sadar,5,70,90,160,1110,4349,5459,34
-10,Nandail,0,0,0,0,0,0,0,0
-11,Phulpur,0,0,0,0,0,0,0,0
-12,Trishal,0,0,0,0,0,0,0,0
-13,Total,7,85,102,197,1544,5195,6439,33
+1,,,,,,,,,
+2, Upazila,Number of  institute,Number of teacher,Number of teacher,Number of teacher,Number of student,Number of student,Number of student,Students per teacher
+3, Upazila,Number of  institute,Male,Female,Total,Male,Female,Total,Students per teacher
+4,Bhaluka,0,0,0,0,0,0,0,0
+5,Fulbaria,0,0,0,0,0,0,0,0
+6,Gaffargaon,0,0,0,0,0,0,0,0
+7,Gauripur,1,12,3,15,434,148,282,19
+8,Ishwargonj,1,3,9,22,0,698,698,32
+9,Muktagacha,0,0,0,0,0,0,0,0
+10,Mymensingh Sadar,5,70,90,160,1110,4349,5459,34
+11,Nandail,0,0,0,0,0,0,0,0
+12,Phulpur,0,0,0,0,0,0,0,0
+13,Trishal,0,0,0,0,0,0,0,0
+14,Total,7,85,102,197,1544,5195,6439,33

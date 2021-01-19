@@ -1,10 +1,8 @@
 ,0,1,2,3,4,5,6,7,8
 0,Area and production of pulse by type 2010-11,,,,,,,,
 1,(Area in acre and production in metric ton),,,,,,,,
-2,"
-Upazila",Gram,Gram,Motor,Motor,Khesari,Khesari,Mash-kalai,Mash-kalai
-3,"
-Upazila",Area,Production,Area,Production,Area,Production,Area,Production
+2, Upazila,Gram,Gram,Motor,Motor,Khesari,Khesari,Mash-kalai,Mash-kalai
+3, Upazila,Area,Production,Area,Production,Area,Production,Area,Production
 4,Biral,10,2,14,2,46,11,219,75
 5,Birampur,20,7,13,5,62,25,48,15
 6,Birganj,8,4,8,2,17,6,133,60

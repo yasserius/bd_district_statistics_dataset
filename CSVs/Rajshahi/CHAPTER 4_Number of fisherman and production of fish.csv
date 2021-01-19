@@ -1,18 +1,15 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish,,,,
 1,(Production in metric ton),,,,
-2,"
-Upazila/city corporation",2010-11,2010-11,2009-10,2009-10
-3,"
-Upazila/city corporation",Number,Production,Number,Production
-4,Bagha,880,2124,810,2010
-5,Baghmara,1300,9503,1200,8460
-6,Charghat,150,1630,145,1445
-7,Durgapur,317,12470,317,13850
-8,Godagari,2905,1960,2905,1952
-9,Mohanpur,300,4140,250,3476
-10,Paba,600,12140,600,11477
-11,Puthia,165,2967,165,4623
-12,Rajshahi city corporation,238,34,250,57
-13,Tanore,500,2130,450,2126
-14,Total,7355,49098,7092,49476
+2,Upazila/city corporation,2010-11 Number,2010-11 Production,2009-10 Number,2009-10 Production
+3,Bagha,880,2124,810,2010
+4,Baghmara,1300,9503,1200,8460
+5,Charghat,150,1630,145,1445
+6,Durgapur,317,12470,317,13850
+7,Godagari,2905,1960,2905,1952
+8,Mohanpur,300,4140,250,3476
+9,Paba,600,12140,600,11477
+10,Puthia,165,2967,165,4623
+11,Rajshahi city corporation,238,34,250,57
+12,Tanore,500,2130,450,2126
+13,Total,7355,49098,7092,49476

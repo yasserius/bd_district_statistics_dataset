@@ -1,9 +1,7 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,"
-Upazila",Number of pumps fielded,Number of pumps fielded,Number of pumps fielded,Area irrigated (in acre)
-2,"
-Upazila",Electric,Diesel,Total,Area irrigated (in acre)
+1,,,,,
+2,Upazila,Number of pumps fielded Electric,Number of pumps fielded Diesel,Number of pumps fielded Total,Area irrigated (in acre)
 3,Adamdighi,620,610,1230,14079
 4,Bogra sadar,569,2215,2784,15325
 5,Dhunat,643,13693,14336,41250

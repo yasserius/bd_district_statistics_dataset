@@ -1,16 +1,13 @@
 ,0,1,2,3,4
 0,Number of tailoring shop and person engaged 2011,,,,
-1,"
-Upazila","
-Unit",Person engaged,Person engaged,Person engaged
-2,"
-Upazila","
-Unit",Family,Hired,Total
-3,Assasuni,225,280,340,620
-4,Debhata,1248,1248,240,1488
-5,Kalaroa,994,994,298,1192
-6,Kaliganj,350,350,700,1050
-7,Satkhira Sadar,908,1005,2000,3005
-8,Shyamnagar,1062,1062,214,1276
-9,Tala,295,295,397,692
-10,Total,5082,5234,4189,9323
+1,,,,,
+2, Upazila, Unit,Person engaged,Person engaged,Person engaged
+3, Upazila, Unit,Family,Hired,Total
+4,Assasuni,225,280,340,620
+5,Debhata,1248,1248,240,1488
+6,Kalaroa,994,994,298,1192
+7,Kaliganj,350,350,700,1050
+8,Satkhira Sadar,908,1005,2000,3005
+9,Shyamnagar,1062,1062,214,1276
+10,Tala,295,295,397,692
+11,Total,5082,5234,4189,9323

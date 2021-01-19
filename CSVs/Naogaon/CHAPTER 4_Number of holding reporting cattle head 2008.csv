@@ -1,21 +1,17 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting cattle head 2008,,,,,,
-1,"
-Upazila","
-Total holding",Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
-2,"
-Upazila","
-Total holding",1-3 head,4-6 head,7 -9 head,10-15 head,"15 head &
-above"
-3,Atrai,19818,14040,5109,380,240,49
-4,Badalgachhi,46551,43098,2120,1327,6,0
-5,Dhamoirhat,18450,10570,4450,2350,975,105
-6,Manda,5934,2597,1892,905,525,15
-7,Mahadebpur,31671,21220,8551,1267,443,190
-8,Naogaon sadar,60178,30178,25575,2400,1825,200
-9,Niamatpur,36394,19738,9631,7025,0,0
-10,Patnitala,63586,44290,19296,0,0,0
-11,Porsha,15727,6145,4312,2775,1793,732
-12,Raninagar,19747,5000,10100,4500,147,0
-13,Sapahar,21244,14541,4393,1958,290,62
-14,Total,339300,211417,95429,24887,6244,1353
+1,,,,,,,
+2, Upazila, Total holding,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads,Number of holding based on cattle heads
+3, Upazila, Total holding,1-3 head,4-6 head,7 -9 head,10-15 head,15 head & above
+4,Atrai,19818,14040,5109,380,240,49
+5,Badalgachhi,46551,43098,2120,1327,6,0
+6,Dhamoirhat,18450,10570,4450,2350,975,105
+7,Manda,5934,2597,1892,905,525,15
+8,Mahadebpur,31671,21220,8551,1267,443,190
+9,Naogaon sadar,60178,30178,25575,2400,1825,200
+10,Niamatpur,36394,19738,9631,7025,0,0
+11,Patnitala,63586,44290,19296,0,0,0
+12,Porsha,15727,6145,4312,2775,1793,732
+13,Raninagar,19747,5000,10100,4500,147,0
+14,Sapahar,21244,14541,4393,1958,290,62
+15,Total,339300,211417,95429,24887,6244,1353
