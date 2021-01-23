@@ -27,7 +27,9 @@ In this project, we are trying to extract the PDF data and clean it to turn it i
 
 # Data Folders
 
-- [CSVs](https://github.com/yasserius/bd_district_statistics_dataset/tree/main/CSVs): Contains all CSV files, with 64 folders for every districts.
+- [cleaned_CSVs](https://github.com/yasserius/bd_district_statistics_dataset/tree/main/cleaned_CSVs): Contains all extracted CSV files, with 64 folders, one for each district. But this data is not verified.
+
+- [verified_CSVs](https://github.com/yasserius/bd_district_statistics_dataset/tree/main/verified_CSVs): Contains the verified CSV files, also with 64 folders, one for each district. This data was verified manually by different contributors.
 
 - [docx](https://github.com/yasserius/bd_district_statistics_dataset/tree/main/docx): Contains all docx files for every district, converted from PDF using Adobe Acrobat Pro.
 
