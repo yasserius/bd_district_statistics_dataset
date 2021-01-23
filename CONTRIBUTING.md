@@ -1,3 +1,5 @@
+[**"Team Board - Google Sheet"**](https://docs.google.com/spreadsheets/d/1sgcQSvns_XJ0uNDnYtMWr0_tURglhERWE-gd2BellDY/edit?usp=sharing) for coordinating
+
 # How to clean
 
 ## What a proper table looks like
