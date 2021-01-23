@@ -1,10 +1,19 @@
 # Bangladesh District Statistics Dataset from Bangladesh Bureau of Statistics - 2011 Census
 
-## UNDER CONSTRUCTION
-
 Original PDF Source: [[bbs.gov.bd]](http://www.bbs.gov.bd/site/page/2888a55d-d686-4736-bad0-54b70462afda/District-Statistics)
 
+# Introduction
+
 In this project, we are trying to extract the PDF data and clean it to turn it into easily readable formats (such as CSV and JSON) to be used easily by everyone.
+
+## Goals
+
+- The main aim is to create a digitized version of the 2011 census data by BBS so that anyone can access it and analyze it. 
+- Once the data is online and freely accessible by anyone, they can use it for any purpose they wish. 
+- The type of data is very diverse, example: number of school in each upazila, tons of rice produced, average wage of manual workers. So, this data captures many different aspects of Bangladesh in that time. 
+- The data can be used is various studies and can also be used in data visualizations. 
+- In the future, this data can be compared and/or merged with other data sources, example: the next census, and that will reveal some insights about Bangladesh. 
+- Another further task is to take the individual tables and merge them into a mega table, where there will be one row for each upazila, and many many columns, side by side, so that data about any upazila or zila can be easily read.
 
 # Notebooks
 
@@ -27,3 +36,19 @@ In this project, we are trying to extract the PDF data and clean it to turn it i
 # Contribute
 
 You can volunteer and take part in the data cleaning process, mail me if interested: yasser.aziz94 [aaat] gmail dot com
+
+## How to contribute
+
+1. Manually check the CSV files in the "not_cleaned_CSVs" folder and look for mistakes. Fix them if possible, else ask for help with the team members.
+2. Programatically improve the extraction process from the PDFs so that the cleaning process is made easier.
+3. Use the data to find insights or make helpful projects with this data.
+
+## How to coordinate with other team members
+
+1. Check [this Google Sheet](https://docs.google.com/spreadsheets/d/1sgcQSvns_XJ0uNDnYtMWr0_tURglhERWE-gd2BellDY/edit#gid=0) and follow the instructions on top. Choose the zila you want to work with and verify the tables inside. Submit your cleaned and verified files with a pull request.
+2. Mail me to ask anything: yasser.aziz94 [aaat] gmail dot com
+3. Post on the "Issues" tab if you face a difficulty.
+
+## How credit will be given
+
+Once you fork, verify the data and send a pull request, your submission will be checked and merged. Then your name will show up in the github repo under "Contributors".
