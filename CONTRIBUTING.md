@@ -4,7 +4,7 @@
 
 ## What a proper table looks like
 1. Example of a proper table:
-<img src="https://github.com/yasserius/bd_district_statistics_dataset/blob/main/images/proper_table.png?raw=true">
+<img src="https://github.com/yasserius/bd_district_statistics_dataset/blob/main/images/proper_table.png?raw=true" width=800px>
 
 
 2. The first row should be the table title.
@@ -19,10 +19,10 @@ then merge those cells with the other column titles so that they are in the same
 ## Types of errors
 
 1. Random characters and string in the cells, e.g. "Bagerhat\t123" or "Ban gla d esh"
-<img src="https://github.com/yasserius/bd_district_statistics_dataset/blob/main/images/error_1.png?raw=true">
+<img src="https://github.com/yasserius/bd_district_statistics_dataset/blob/main/images/error_1.png?raw=true" width=800px>
 
 2. The column titles are **not** in a single row, they are in two or three rows. Merge the cells to make them into a single row.
-<img src="https://github.com/yasserius/bd_district_statistics_dataset/blob/main/images/error_2.png?raw=true">
+<img src="https://github.com/yasserius/bd_district_statistics_dataset/blob/main/images/error_2.png?raw=true" width=800px>
 
 3. Table title is missing in the first row.
 
