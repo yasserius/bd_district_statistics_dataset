@@ -1,0 +1,167 @@
+Dacope	255
+Dacope	2492
+Dacope	5998
+Khulna City Corporation	11
+Dumuria	22
+Dacope	48
+Terokhada	2222
+Koyra	10
+Khulna City corporation
+Batiaghata	55
+Phultala	18
+Koyra	3
+Koyra	40
+Corporation
+Terokhada	52
+Rupsa	69
+Paikgachha	16
+Dighalia	36
+Total	1023
+Total	38669
+Paikgachha	14
+Dacope	252
+Dumuria	393
+Dumuria	399
+Total	257
+Dacope	2
+Dighalia	71
+Terokhada	26
+Paikgachha	78
+Batiaghata	69
+Phultala	28
+Rupsa	97
+Batiaghata	2946
+Phultala
+Total	583
+Total	833
+Rupsa	175
+Phultala	178
+Phultala	21
+Terokhada	59
+Dighalia	45
+Dighalia	26
+Khulna City Corporation	8
+Terokhada	40
+Terokhada	60
+Rupsa	123
+Paikgachha	15
+Batiaghata	146
+Dighalia	0
+Batiaghata	88
+Dighalia	49
+Rupsa	171
+Dighalia
+Paikgachha	6016
+Koyra	13
+Total	680
+Total	273
+Rupsa	180
+Phultala	2267
+Batiaghata	32
+Paikgachha	21
+Dighalia	30
+Koyra	14
+Rupsa	18
+Rupsa	84
+Paikgachha	178
+Terokhada
+Dighalia	27
+Dacope	69
+Koyra	17175
+Terokhada	125
+Dacope
+Khulna City Corporation	4
+Batiaghata	28
+Dumuria	229
+Koyra	18
+Total	847
+Paikgachha	181
+Dighalia	54
+Dumuria	55
+Phultala	9
+Total	600
+Paikgachha	29
+Terokhada	11
+Koyra	17
+Dumuria	44
+Dacope	9
+Khulna City Corporation	100
+Khulna City Corporation
+Total	1041
+Koyra	19
+Dumuria
+Khulna City Corporation	9
+Dacope	68
+Phultala	32
+Dacope	27
+Total	2226
+Batiaghata	11
+Khulna City Corporation	5
+Rupsa	165
+Batiaghata	19
+Terokhada	0
+Terokhada	49
+Rupsa
+Khulna City
+Khulna City Corporation	3
+Dighalia	29
+Dumuria	77
+Batiaghata	153
+Dumuria	365
+Total	235
+Dumuria	53
+Khulna City Corporation	0
+Phultala	173
+Terokhada	127
+Rupsa	145
+Phultala	4
+Phultala	161
+Terokhada	44
+Total	868
+Koyra	5
+Paikgachha	1677
+Rupsa	57
+Phultala	29
+Terokhada	42
+Total	30370
+Rupsa	1496
+Dighalia	1639
+Dumuria	21
+Koyra	8
+Dumuria	4222
+Batiaghata	8
+Dacope	6
+Terokhada	28
+Koyra
+Phultala	16
+Batiaghata	85
+Batiaghata	100
+Paikgachha	66
+Dighalia	129
+Batiaghata	30
+Dacope	3
+Terokhada	39
+Total	862
+Paikgachha	11
+Paikgachha
+Total
+Koyra	10278
+Phultala	2
+Rupsa	63
+Dighalia	55
+Dacope	47
+Paikgachha	75
+Batiaghata	29
+Dighalia	50
+Total	252
+Batiaghata
+Rupsa	76
+Khulna City Corporation	325
+Phultala	10
+Terokhada	1900
+Rupsa	36
+Dacope	25
+Koyra	12
+Dumuria	1809
+Average
+Total	648

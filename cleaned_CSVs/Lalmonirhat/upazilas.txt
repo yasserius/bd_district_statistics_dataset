@@ -1,0 +1,21 @@
+Hatibanda
+Xaligonj
+Total
+patgram
+Kaligonj	9
+Aditmari	7
+Hatibandha	5
+Patgram
+Lalmonirhat Sadar	11
+Kaligonj	7
+Average	38
+Hatibandha
+Hatibandha	10
+Total	78
+Lalmonirhat Sadar
+Kaligonj
+Aditmari
+Average
+Lalmonirhat
+Patgram	0
+Patgram	8
