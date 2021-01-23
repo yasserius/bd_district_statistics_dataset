@@ -37,11 +37,13 @@ In this project, we are trying to extract the PDF data and clean it to turn it i
 
 # Contribute
 
+
+
 You can volunteer and take part in the data cleaning process, mail me if interested: yasser.aziz94 [aaat] gmail dot com
 
 ## How to contribute
 
-1. Manually check the CSV files in the "not_cleaned_CSVs" folder and look for mistakes. Fix them if possible, else ask for help with the team members.
+1. Manually check the CSV files in the "cleaned_CSVs" folder and look for mistakes. Read the [**How to Clean Guide**](https://github.com/yasserius/bd_district_statistics_dataset/blob/main/CONTRIBUTING.md).
 2. Programatically improve the extraction process from the PDFs so that the cleaning process is made easier.
 3. Use the data to find insights or make helpful projects with this data.
 
