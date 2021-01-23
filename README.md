@@ -2,6 +2,8 @@
 
 Original PDF Source: [[bbs.gov.bd]](http://www.bbs.gov.bd/site/page/2888a55d-d686-4736-bad0-54b70462afda/District-Statistics)
 
+PDFs in Google Drive: [[Google Drive]](https://drive.google.com/drive/folders/1Hp2UGOK0eGDAMSIEBVmlRmONiBfhMyni?usp=sharing)
+
 # Introduction
 
 In this project, we are trying to extract the PDF data and clean it to turn it into easily readable formats (such as CSV and JSON) to be used easily by everyone.
