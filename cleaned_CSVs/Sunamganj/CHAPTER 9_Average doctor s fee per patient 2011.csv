@@ -1,0 +1,17 @@
+,0,1,2,3,4,5
+0,Average doctor s fee per patient 2011,,,,,
+1,(Fee in taka),,,,,
+2, Upazila,Doctor,Doctor,Doctor,Doctor,Doctor
+3, Upazila,MBBS,FCPS,Dentist,Gynaecologist,Homeopathy
+4,Bishwamvarpur,150,0,0,0,30
+5,Chhatak,300,500,200,300,100
+6,Dakshin Sunamganj,300,0,200,0,100
+7,Derai,200,0,200,0,20
+8,Dharmapasha,200,0,150,0,50
+9,Doarabazar,200,0,250,0,100
+10,Jagannathpur,200,0,200,0,0
+11,Jamalganj,200,0,200,0,100
+12,Shalla,200,0,0,0,20
+13,Sunamganj Sadar,300,500,300,300,50
+14,Tahirpur,200,0,0,0,0
+15,District Average,300,500,250,400,50
