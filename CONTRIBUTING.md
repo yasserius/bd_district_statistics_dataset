@@ -1,4 +1,4 @@
-[**Video Guide for Cleaning**](https://drive.google.com/file/d/1n671m0kvPZif7OU7Z7fE77wvn5vH2jz3/view)
+[**Video Guide for Cleaning**](https://drive.google.com/file/d/1n671m0kvPZif7OU7Z7fE77wvn5vH2jz3/view)<br>
 [**"Team Board - Google Sheet"**](https://docs.google.com/spreadsheets/d/1sgcQSvns_XJ0uNDnYtMWr0_tURglhERWE-gd2BellDY/edit?usp=sharing) for coordinating
 
 # How to clean
