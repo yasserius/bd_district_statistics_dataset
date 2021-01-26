@@ -2,10 +2,10 @@
 0,"Area and production of pumpkin, parble (potol) and cabbage 2009-10",,,,,,
 1,(Area in acre and production in metric ton),,,,,,
 2,Upazila,Pumpkin Area,Pumpkin Production,Parble (potol) Area,Parble (potol) Production,Cabbage Area,Cabbage Production
-3,Chhagalnaiya,83,132,-	-,13,35,
-4,Daganbhuiyan,41,85,-	-,19,180,
-5,Feni Sadar,93,141,-	-,28,140,
-6,Fulgazi,24,87,-	-,12,107,
-7,Parshuram,35,113,-	-,10,95,
-8,Sonagazi,105,195,-	-,19,116,
-9,Total,381,753,-	-,101,673,
+3,Chhagalnaiya,83,132,-,-,13,35
+4,Daganbhuiyan,41,85,-,-,19,180
+5,Feni Sadar,93,141,-,-,28,140
+6,Fulgazi,24,87,-,-,12,107
+7,Parshuram,35,113,-,-,10,95
+8,Sonagazi,105,195,-,-,19,116
+9,Total,381,753,-,-,101,673

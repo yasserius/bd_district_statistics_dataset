@@ -1,8 +1,10 @@
-,0,1,2,3
-0,Number of pottery and person engaged 2011,,,
-1,Aditmari 39 119 13 132,,,
-2,Hatibandha	10,30,0,30
-3,Kaligonj	9,9,3,12
-4,Lalmonirhat Sadar	20,24,23,47
-5,Patgram	0,0,0,0
-6,Total	78,182,39,221
+,0,1,2,3,4
+0,Number of pottery and person engaged 2011,,,,
+1,,,,,
+2,Upazila,Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+3,Aditmari,39,119,13,132
+4,Hatibandha,10,30,0,30
+5,Kaligonj,9,9,3,12
+6,Lalmonirhat Sadar,20,24,23,47
+7,Patgram,0,0,0,0
+8,Total,78,182,39,221

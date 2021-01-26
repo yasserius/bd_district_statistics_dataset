@@ -1,4 +1,31 @@
-<h1>Lalmonirhat</h1><br>
+
+        <head>
+          <style>
+          table {
+            font-family: Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+          }
+
+          table td, table th {
+            border: 1px solid #ddd;
+            padding: 8px;
+          }
+
+          table tr:nth-child(even){background-color: #f2f2f2;}
+
+          #customers tr:hover {background-color: #ddd;}
+
+          table th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: left;
+            background-color: #4CAF50;
+            color: white;
+          }
+          </style>
+        </head>
+        <body><h1>Lalmonirhat</h1><br>
 <br>
 <h2>./cleaned_CSVs\Lalmonirhat\CHAPTER 10_Area, population and density by municipality 2011.csv</h2>
 <table border="1" class="dataframe">
@@ -1081,56 +1108,56 @@
     <tr>
       <th>3</th>
       <td>Aditmari</td>
-      <td>-\t-\t-\t-\t-</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <th>4</th>
       <td>Hatibandha</td>
-      <td>-\t-\t-\t-\t-</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <th>5</th>
       <td>Kaligonj</td>
-      <td>-\t-\t-\t-\t-</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <th>6</th>
       <td>Lalmonirhat Sadar</td>
-      <td>Lamonirhat\t9\t64\t11682</td>
+      <td>Lamonirhat</td>
+      <td>9</td>
+      <td>64</td>
+      <td>11682</td>
       <td>13897</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <th>7</th>
       <td>Patgram</td>
-      <td>Patgram\t9\t23\t5965</td>
+      <td>Patgram</td>
+      <td>9</td>
+      <td>23</td>
+      <td>5965</td>
       <td>6379</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <th>8</th>
       <td>Total</td>
-      <td>18\t87\t17647</td>
+      <td></td>
+      <td>18</td>
+      <td>87</td>
+      <td>17647</td>
       <td>20276</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
   </tbody>
 </table>
@@ -2931,38 +2958,94 @@
       <td>Number of nurse</td>
       <td>Number of    technician</td>
       <td>Number of other staff</td>
-      <td>Number of patient under health facility</td>
-      <td>Number of patient under health facility</td>
-      <td>Number of patient under health facility</td>
-      <td>Number of patient under health facility</td>
+      <td>Number of patient under health facility Indoor Male</td>
+      <td>Number of patient under health facility Indoor Female</td>
+      <td>Number of patient under health facility Outdoor Male</td>
+      <td>Number of patient under health facility Outdoor Female</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>Upazila</td>
-      <td>Number of  hospital / clinic/ nursing home</td>
-      <td>Number of bed</td>
-      <td>Number of  doctor</td>
-      <td>Number of nurse</td>
-      <td>Number of    technician</td>
-      <td>Number of other staff</td>
-      <td>Indoor</td>
-      <td>Indoor</td>
-      <td>Outdoor</td>
-      <td>Outdoor</td>
+      <td>Kamalnagar</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>Upazila</td>
-      <td>Number of  hospital / clinic/ nursing home</td>
-      <td>Number of bed</td>
-      <td>Number of  doctor</td>
-      <td>Number of nurse</td>
-      <td>Number of    technician</td>
-      <td>Number of other staff</td>
-      <td>Male</td>
-      <td>Female</td>
-      <td>Male</td>
-      <td>Female</td>
+      <td>Lakshmipur Sadar</td>
+      <td>14</td>
+      <td>125</td>
+      <td>32</td>
+      <td>172</td>
+      <td>36</td>
+      <td>116</td>
+      <td>6540</td>
+      <td>7303</td>
+      <td>7932</td>
+      <td>8188</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Ramganj</td>
+      <td>6</td>
+      <td>60</td>
+      <td>6</td>
+      <td>4</td>
+      <td>0</td>
+      <td>17</td>
+      <td>12484</td>
+      <td>12884</td>
+      <td>640</td>
+      <td>1640</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Ramgati</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Roypur</td>
+      <td>3</td>
+      <td>30</td>
+      <td>21</td>
+      <td>34</td>
+      <td>8</td>
+      <td>61</td>
+      <td>872</td>
+      <td>2089</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Total</td>
+      <td>23</td>
+      <td>215</td>
+      <td>59</td>
+      <td>210</td>
+      <td>44</td>
+      <td>194</td>
+      <td>19896</td>
+      <td>22276</td>
+      <td>8572</td>
+      <td>9828</td>
     </tr>
   </tbody>
 </table>
@@ -5147,8 +5230,8 @@
       <td>Upazila</td>
       <td>Brinjal Area</td>
       <td>Brinjal Production</td>
-      <td>Lady’s finger Area</td>
-      <td>Lady’s finger Production</td>
+      <td>Ladys finger Area</td>
+      <td>Ladys finger Production</td>
       <td>Arum Area</td>
       <td>Arum Production</td>
     </tr>
@@ -9635,56 +9718,56 @@
     <tr>
       <th>3</th>
       <td>Aditmari</td>
-      <td></td>
       <td>1181</td>
       <td>2053</td>
       <td>3236</td>
-      <td>32000.0</td>
+      <td>32000</td>
+      <td></td>
     </tr>
     <tr>
       <th>4</th>
       <td>Hatibandha</td>
-      <td></td>
       <td>1729</td>
       <td>5164</td>
       <td>6893</td>
-      <td>48215.0</td>
+      <td>48215</td>
+      <td></td>
     </tr>
     <tr>
       <th>5</th>
       <td>Kaligonj</td>
-      <td></td>
       <td>226</td>
       <td>2675</td>
       <td>2901</td>
-      <td>46900.0</td>
+      <td>46900</td>
+      <td></td>
     </tr>
     <tr>
       <th>6</th>
-      <td>Lalmonirhat</td>
-      <td>Sadar</td>
+      <td>Lalmonirhat Sadar</td>
       <td>1342</td>
       <td>5672</td>
       <td>7014</td>
-      <td>43857.0</td>
+      <td>43857</td>
+      <td></td>
     </tr>
     <tr>
       <th>7</th>
       <td>Patgram</td>
-      <td></td>
       <td>215</td>
       <td>9860</td>
       <td>10075</td>
-      <td>45080.0</td>
+      <td>45080</td>
+      <td></td>
     </tr>
     <tr>
       <th>8</th>
       <td>Total</td>
-      <td></td>
       <td>4694</td>
       <td>25424</td>
       <td>30119</td>
-      <td>216052.0</td>
+      <td>216052</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -10990,6 +11073,7 @@
       <th>1</th>
       <th>2</th>
       <th>3</th>
+      <th>4</th>
     </tr>
   </thead>
   <tbody>
@@ -10999,48 +11083,71 @@
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <th>1</th>
-      <td>Aditmari 39 119 13 132</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th>2</th>
-      <td>Hatibandha\t10</td>
-      <td>30.0</td>
-      <td>0.0</td>
-      <td>30.0</td>
+      <td>Upazila</td>
+      <td>Unit</td>
+      <td>Person engaged - Family</td>
+      <td>Person engaged - Hired</td>
+      <td>Person engaged - Total</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>Kaligonj\t9</td>
-      <td>9.0</td>
-      <td>3.0</td>
-      <td>12.0</td>
+      <td>Aditmari</td>
+      <td>39</td>
+      <td>119</td>
+      <td>13</td>
+      <td>132</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>Lalmonirhat Sadar\t20</td>
-      <td>24.0</td>
-      <td>23.0</td>
-      <td>47.0</td>
+      <td>Hatibandha</td>
+      <td>10</td>
+      <td>30</td>
+      <td>0</td>
+      <td>30</td>
     </tr>
     <tr>
       <th>5</th>
-      <td>Patgram\t0</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>Kaligonj</td>
+      <td>9</td>
+      <td>9</td>
+      <td>3</td>
+      <td>12</td>
     </tr>
     <tr>
       <th>6</th>
-      <td>Total\t78</td>
-      <td>182.0</td>
-      <td>39.0</td>
-      <td>221.0</td>
+      <td>Lalmonirhat Sadar</td>
+      <td>20</td>
+      <td>24</td>
+      <td>23</td>
+      <td>47</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Patgram</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Total</td>
+      <td>78</td>
+      <td>182</td>
+      <td>39</td>
+      <td>221</td>
     </tr>
   </tbody>
 </table>
@@ -13076,7 +13183,8 @@
     </tr>
     <tr>
       <th>3</th>
-      <td>Aditmari\t7</td>
+      <td>Aditmari</td>
+      <td>7</td>
       <td>172</td>
       <td>24</td>
       <td>196</td>
@@ -13084,11 +13192,11 @@
       <td>1236</td>
       <td>2860</td>
       <td>14</td>
-      <td></td>
     </tr>
     <tr>
       <th>4</th>
-      <td>Hatibandha\t5</td>
+      <td>Hatibandha</td>
+      <td>5</td>
       <td>120</td>
       <td>18</td>
       <td>138</td>
@@ -13096,11 +13204,11 @@
       <td>400</td>
       <td>1800</td>
       <td>13</td>
-      <td></td>
     </tr>
     <tr>
       <th>5</th>
-      <td>Kaligonj\t7</td>
+      <td>Kaligonj</td>
+      <td>7</td>
       <td>180</td>
       <td>30</td>
       <td>210</td>
@@ -13108,11 +13216,11 @@
       <td>2294</td>
       <td>4494</td>
       <td>21</td>
-      <td></td>
     </tr>
     <tr>
       <th>6</th>
-      <td>Lalmonirhat Sadar\t11</td>
+      <td>Lalmonirhat Sadar</td>
+      <td>11</td>
       <td>194</td>
       <td>41</td>
       <td>235</td>
@@ -13120,11 +13228,11 @@
       <td>1817</td>
       <td>3984</td>
       <td>17</td>
-      <td></td>
     </tr>
     <tr>
       <th>7</th>
-      <td>Patgram\t8</td>
+      <td>Patgram</td>
+      <td>8</td>
       <td>110</td>
       <td>27</td>
       <td>137</td>
@@ -13132,11 +13240,11 @@
       <td>1528</td>
       <td>2506</td>
       <td>18</td>
-      <td></td>
     </tr>
     <tr>
       <th>8</th>
-      <td>Average\t38</td>
+      <td>Average</td>
+      <td>38</td>
       <td>776</td>
       <td>140</td>
       <td>916</td>
@@ -13144,7 +13252,6 @@
       <td>7275</td>
       <td>15644</td>
       <td>17</td>
-      <td></td>
     </tr>
   </tbody>
 </table>
@@ -16085,50 +16192,50 @@
       <th>2</th>
       <td>Upazila</td>
       <td>Railway station</td>
-      <td>Steamer/launchBus stand station</td>
-      <td></td>
+      <td>Steamer/launch station</td>
+      <td>Bus stand</td>
     </tr>
     <tr>
       <th>3</th>
       <td>Aditmari</td>
       <td>2</td>
       <td>0</td>
-      <td>4.0</td>
+      <td>4</td>
     </tr>
     <tr>
       <th>4</th>
       <td>Hatibandha</td>
       <td>3</td>
       <td>0</td>
-      <td>8.0</td>
+      <td>8</td>
     </tr>
     <tr>
       <th>5</th>
       <td>Kaligonj</td>
       <td>3</td>
       <td>0</td>
-      <td>4.0</td>
+      <td>4</td>
     </tr>
     <tr>
       <th>6</th>
       <td>Lalmonirhat Sadar</td>
       <td>3</td>
       <td>0</td>
-      <td>3.0</td>
+      <td>3</td>
     </tr>
     <tr>
       <th>7</th>
       <td>Patgram</td>
       <td>4</td>
       <td>0</td>
-      <td>2.0</td>
+      <td>2</td>
     </tr>
     <tr>
       <th>8</th>
       <td>Total</td>
       <td>15</td>
       <td>0</td>
-      <td>21.0</td>
+      <td>21</td>
     </tr>
   </tbody>
 </table>
@@ -16925,4 +17032,4 @@
       <td>100</td>
     </tr>
   </tbody>
-</table>
+</table></body>
