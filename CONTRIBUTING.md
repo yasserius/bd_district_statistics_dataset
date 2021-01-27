@@ -28,9 +28,10 @@ then merge those cells with the other column titles so that they are in the same
 
 4. Spelling mistakes in the names.
 
-5. ???
+5. Incorrect total values in some columns in the csv and in the pdf as well.
+<img src="https://github.com/dpauld/bd_district_statistics_dataset/blob/main/images/error_3_ttl_value.png" width=800px>
 
-
+6. ???
 
 Feel free to improve this file by editing.
   
