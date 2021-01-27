@@ -55,6 +55,13 @@ You can volunteer and take part in the data cleaning process, mail me if interes
 2. Mail me to ask anything: yasser.aziz94 [aaat] gmail dot com
 3. Post on the "Issues" tab if you face a difficulty.
 
+## How to keep my fork updated with the main repo?
+
+- Please see the commands here: [stackoverflow.com](https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository)
+- This video is also helpful: [youtube.com](https://youtube.com/watch?v=c6b6B9oN4Vg&feature=share)
+
+Thanks to [@cinmoy98](https://github.com/cinmoy98) for the awesome links. Kudos!
+
 ## How credit will be given
 
 Once you fork, verify the data and send a pull request, your submission will be checked and merged. Then your name will show up in the github repo under "Contributors".
