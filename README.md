@@ -27,6 +27,9 @@ In this project, we are trying to extract the PDF data and clean it to turn it i
 
 4. [4_generate_csv.ipynb](https://github.com/yasserius/bd_district_statistics_dataset/blob/main/4_generate_csv.ipynb): the cleaned tables are converted into CSV files using pandas.
 
+5. [5_unwanted_chars.ipynb](https://github.com/yasserius/bd_district_statistics_dataset/blob/main/4_unwanted_chars.ipynb): clean the tables with unwanted units. See error type 5.
+
+
 # Data Folders
 
 - [cleaned_CSVs](https://github.com/yasserius/bd_district_statistics_dataset/tree/main/cleaned_CSVs): Contains all extracted CSV files, with 64 folders, one for each district. But this data is not verified.
