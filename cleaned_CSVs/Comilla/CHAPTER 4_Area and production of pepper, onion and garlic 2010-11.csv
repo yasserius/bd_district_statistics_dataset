@@ -1,22 +1,21 @@
-,0,1,2,3,4,5,6,7
-0,"Area and production of pepper, onion and garlic 2010-11",,,,,,,
-1,(Area in acre and production in metric ton),,,,,,,
-2,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production,
-3,Adarsha Sadar,23,9,,0,0,0,0
-4,Barura,515,207,,90,76,20,10
-5,Brahmanpara,195,78,,45,180,75,135
-6,Burichang,124,500,,13,50,12,40
-7,Chandina,217,132,,40,111,34,85
-8,Chauddagram,158,52,,7,16,4,8
-9,Comilla Sadar Dakshin,68,95,,1,42,0,0
-10,Daudkandi,1341,750,,82,228,41,968
-11,Debidwar,266,289,,12,7,10,555
-12,Homna,3952,2368,,296,1092,321,780
-13,Laksam,18,24,,4,7,3,3
-14,Monoharganj,62,19,,18,37,9,10
-15,Meghna,3000,1344,,136,329,400,600
-16,Muradnagar,755,694,,182,583,110,209
-17,Nangalkot,86,49,,17,35,5,8
-18,Titas,2867,764,,40,50,54,50
-19,Total,13647,7374,,983,2843,1097,3460
-20,,,,44,,,,
+,0,1,2,3,4,5,6
+0,"Area and production of pepper, onion and garlic 2010-11",,,,,,
+1,(Area in acre and production in metric ton),,,,,,
+2,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
+3,Adarsha Sadar,23,9,0,0,0,0
+4,Barura,515,207,90,76,20,10
+5,Brahmanpara,195,78,45,180,75,135
+6,Burichang,124,500,13,50,12,40
+7,Chandina,217,132,40,111,34,85
+8,Chauddagram,158,52,7,16,4,8
+9,Comilla Sadar Dakshin,68,95,1,42,0,0
+10,Daudkandi,1341,750,82,228,41,968
+11,Debidwar,266,289,12,7,10,555
+12,Homna,3952,2368,296,1092,321,780
+13,Laksam,18,24,4,7,3,3
+14,Monoharganj,62,19,18,37,9,10
+15,Meghna,3000,1344,136,329,400,600
+16,Muradnagar,755,694,182,583,110,209
+17,Nangalkot,86,49,17,35,5,8
+18,Titas,2867,764,40,50,54,50
+19,Total,13647,7374,983,2843,1097,3460

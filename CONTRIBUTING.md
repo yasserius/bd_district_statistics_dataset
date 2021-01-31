@@ -1,3 +1,4 @@
+[**Video Guide for Cleaning**](https://drive.google.com/file/d/1n671m0kvPZif7OU7Z7fE77wvn5vH2jz3/view)<br>
 [**"Team Board - Google Sheet"**](https://docs.google.com/spreadsheets/d/1sgcQSvns_XJ0uNDnYtMWr0_tURglhERWE-gd2BellDY/edit?usp=sharing) for coordinating
 
 # How to clean
@@ -31,7 +32,13 @@ then merge those cells with the other column titles so that they are in the same
 5. Incorrect total values in some columns in the csv and in the pdf as well.
 <img src="https://github.com/dpauld/bd_district_statistics_dataset/blob/main/images/error_3_ttl_value.png" width=800px>
 
-6. ???
+6. Table units are merged with the 2nd level headings in the column title. Remove table units from the column title and copy unit to the 2nd row right below the Table title.
+
+7. Two tables are merged in one file. 
+
+8. Column title 'Upazila' missing.
+
+9. ???
 
 Feel free to improve this file by editing.
   

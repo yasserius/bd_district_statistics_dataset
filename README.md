@@ -27,6 +27,9 @@ In this project, we are trying to extract the PDF data and clean it to turn it i
 
 4. [4_generate_csv.ipynb](https://github.com/yasserius/bd_district_statistics_dataset/blob/main/4_generate_csv.ipynb): the cleaned tables are converted into CSV files using pandas.
 
+5. [5_unwanted_chars.ipynb](https://github.com/yasserius/bd_district_statistics_dataset/blob/main/4_unwanted_chars.ipynb): clean the tables with unwanted units. See error type 5.
+
+
 # Data Folders
 
 - [cleaned_CSVs](https://github.com/yasserius/bd_district_statistics_dataset/tree/main/cleaned_CSVs): Contains all extracted CSV files, with 64 folders, one for each district. But this data is not verified.
@@ -45,7 +48,7 @@ You can volunteer and take part in the data cleaning process, mail me if interes
 
 ## How to contribute
 
-1. Manually check the CSV files in the "cleaned_CSVs" folder and look for mistakes. Read the [**How to Clean Guide**](https://github.com/yasserius/bd_district_statistics_dataset/blob/main/CONTRIBUTING.md).
+1. Manually check the CSV files in the "cleaned_CSVs" folder and look for mistakes. Read the [**How to Clean Guide**](https://github.com/yasserius/bd_district_statistics_dataset/blob/main/CONTRIBUTING.md). Also watch the [**video guide**](https://drive.google.com/file/d/1n671m0kvPZif7OU7Z7fE77wvn5vH2jz3/view).
 2. Programatically improve the extraction process from the PDFs so that the cleaning process is made easier.
 3. Use the data to find insights or make helpful projects with this data.
 
@@ -54,6 +57,13 @@ You can volunteer and take part in the data cleaning process, mail me if interes
 1. Check [this Google Sheet](https://docs.google.com/spreadsheets/d/1sgcQSvns_XJ0uNDnYtMWr0_tURglhERWE-gd2BellDY/edit#gid=0) and follow the instructions on top. Choose the zila you want to work with and verify the tables inside. Submit your cleaned and verified files with a pull request.
 2. Mail me to ask anything: yasser.aziz94 [aaat] gmail dot com
 3. Post on the "Issues" tab if you face a difficulty.
+
+## How to keep my fork updated with the main repo?
+
+- Please see the commands here: [stackoverflow.com](https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository)
+- This video is also helpful: [youtube.com](https://youtube.com/watch?v=c6b6B9oN4Vg&feature=share)
+
+Thanks to [@cinmoy98](https://github.com/cinmoy98) for the awesome links. Kudos!
 
 ## How credit will be given
 
