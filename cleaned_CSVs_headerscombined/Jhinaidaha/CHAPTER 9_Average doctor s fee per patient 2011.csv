@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,Average doctor s fee per patient 2011,,,,,
+1,,,,,,
+2,(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka),(Fee in taka)
+3, Upazila,Doctor,Doctor,Doctor,Doctor,Doctor
+4, Upazila,MBBS,FCPS,Dentist,Gynecologist,Homeopathy
+5,Harinakunda,200,0,200,200,50
+6,Jhenaidah Sadar,300,400,300,300,50
+7,Kaliganj,200,300,200,300,60
+8,Kotchandpur,200,0,200,300,30
+9,Mahespur,100,0,200,200,25
+10,Shailkupa,200,0,300,300,60
+11,Average,200,350,233,267,46

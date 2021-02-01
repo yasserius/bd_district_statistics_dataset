@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,Average doctor s fee per patient 2011,,,,,
+1,(Fee in taka),,,,,
+2,Upazila,Doctor - MBBS,Doctor - FCPS,Doctor - Dentist,Doctor - Gynecologist,Doctor - Homeopathy
+3,Azmirigonj,200,300,0,200,20
+4,Bahubal,200,200,0,0,0
+5,Baniachang,200,0,0,0,0
+6,Chunarughat,200,150,0,200,50
+7,Habiganj Sadar,300,400,300,400,100
+8,Lakhai,150,300,0,0,100
+9,Madhabpur,200,500,150,300,50
+10,Nabiganj,200,400,50,300,0
+11,Average,206,321,167,280,64

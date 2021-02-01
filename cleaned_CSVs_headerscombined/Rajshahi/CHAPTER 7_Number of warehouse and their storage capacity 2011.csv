@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6,7,8
+0,Number of warehouse and their storage capacity 2011,,,,,,,,
+1,(Capacity in metric ton),,,,,,,,
+2,Upazila/city corporation,Food godown Number,Food godown Capacity,Fertilizer godown Number,Fertilizer godown Capacity,Jute godown Number,Jute godown Capacity,Other godown Number,Other godown Capacity
+3,Bagha,1,500,0,0,0,0,10,1800
+4,Baghmara,1,1950,18,1800,1,400,0,0
+5,Charghat,6,3500,1,50,0,0,1,10
+6,Durgapur,1,500,0,0,0,0,0,0
+7,Godagari,2,3500,10,1000,0,0,0,0
+8,Mohanpur,2,1000,0,0,0,0,0,0
+9,Paba,3,6000,11,2500,0,0,18,50
+10,Puthia,7,4000,15,900,0,0,0,0
+11,Rajshahi city corporation,7,4000,2,10000,0,0,1,4000
+12,Tanore,5,5000,0,0,0,0,1,600
+13,Total,35,29950,57,16250,1,400,31,6460

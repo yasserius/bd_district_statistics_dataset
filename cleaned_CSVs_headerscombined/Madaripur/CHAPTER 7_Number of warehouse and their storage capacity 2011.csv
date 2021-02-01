@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7,8
+0,Number of warehouse and their storage capacity 2011,,,,,,,,
+1,(Capacity in metric ton),,,,,,,,
+2,Upazila,Food godown Number,Food godown Capacity,Fertilizer godown Number,Fertilizer godown Capacity,Jute godown Number,Jute godown Capacity,Other godown Number,Other godown Capacity
+3,Madaripur Sadar,2,7000,1,1000,15,75000,0,0
+4,Kalkini,3,3500,0,0,27,2000,2,2000
+5,Rajoir,11,9000,0,0,0,0,0,0
+6,Shibchar,2,1000,19,1900,3,250,0,0
+7,Total,18,20500,20,2900,45,77250,2,2000

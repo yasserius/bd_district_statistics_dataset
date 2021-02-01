@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,Number of fire service unit and causality by municipality 2011,,,,,
+1,,,,,,
+2, Municipality,Fire service unit,Person employed, Fire case, Person dead, Person injured
+3,Noapara,1,25,41,0,0
+4,Bagherpara,1,14,25,0,0
+5,Chaugachha,0,0,0,0,0
+6,Jessore,1,41,119,2,68
+7,Jhikargachha,1,24,81,2,47
+8,Keshabpur,0,0,0,0,0
+9,Manirampur,1,17,72,1,0
+10,Benapole,1,23,72,4,2
+11,Total,6,144,410,9,117
