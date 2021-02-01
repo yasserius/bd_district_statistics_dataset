@@ -1,12 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
 1,,,,,,,,
-2, Upazila, Household,Population (000),Population (000),Population (000),Sex ratio (M/F),Average size of household,Density per sq. km.
-3, Upazila, Household,Male,Female,Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
-4,Harinakunda,48209,99,98,197,101,4.10,869
-5,Jhenaidah Sadar,108924,228,228,456,100,4.15,970
-6,Kaliganj,67841,141,141,282,100,4.15,910
-7,Kotchandpur,34249,71,70,141,101,4.12,852
-8,Mahespur,79761,166,166,332,100,4.16,796
-9,Shailkupa,83348,181,181,362,100,4.31,968
-10,Total,422332,886,885,1771,100,4.17,902
+2, Upazila, Household,Population (000) Male,Population (000) Female,Population (000) Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
+3,Harinakunda,48209,99,98,197,101,4.10,869
+4,Jhenaidah Sadar,108924,228,228,456,100,4.15,970
+5,Kaliganj,67841,141,141,282,100,4.15,910
+6,Kotchandpur,34249,71,70,141,101,4.12,852
+7,Mahespur,79761,166,166,332,100,4.16,796
+8,Shailkupa,83348,181,181,362,100,4.31,968
+9,Total,422332,886,885,1771,100,4.17,902
