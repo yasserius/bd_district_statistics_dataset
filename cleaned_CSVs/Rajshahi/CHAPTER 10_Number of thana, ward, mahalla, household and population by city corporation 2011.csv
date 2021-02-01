@@ -1,5 +1,9 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of thana, ward, mahalla, household and population by city corporation 2011",,,,,,,
 1,,,,,,,,
-2,Municipality /city corporation,Number of thana,Number of ward,Number of mahalla,Number of    household,Population,Population,Population
-3,Municipality /city corporation,Number of thana,Number of ward,Number of mahalla,Number of    household,Male,female,Total
+2,Municipality /city corporation,Number of thana,Number of ward,Number of mahalla,Number of household,Population - Male,Population - Female,Population - Total
+3,Rajshahi city corporation,4,30,170,99545,232974,216782,449756
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
