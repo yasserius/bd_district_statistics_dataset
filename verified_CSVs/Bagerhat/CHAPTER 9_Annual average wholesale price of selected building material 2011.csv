@@ -1,7 +1,7 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building material 2011,,,,,,
-1,,,,,,,
-2,(Price in taka) - Upazila,(Price in taka) - Brick-01 (per1000),(Price in taka) - Cement (per 50 kg bag),(Price in taka) - Iron bar (per ton),(Price in taka) - Sand-01 (per c.f.t.),(Price in taka) - Sand -02 (per c.f.t.),(Price in taka) - Stone (per c.f.t.)
+1,(Price in taka),,,,,,
+2,Upazila,Brick-01 (per1000),Cement (per 50 kg bag),Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
 3,Bagerhat Sadar,7500,375,62000,27,24,136
 4,Kachua,3800,370,72000,18,7,120
 5,Rampal,8000,440,82500,30,18,136

@@ -1,7 +1,7 @@
 ,0,1,2,3,4,5
 0,Average doctor s fee per patient 2011,,,,,
-1,,,,,,
-2,(Fee in taka) - Upazila,(Fee in taka) - Doctor - MBBS,(Fee in taka) - Doctor - FCPS,(Fee in taka) - Doctor - Dentist,(Fee in taka) - Doctor - Gynaecologist,(Fee in taka) - Doctor - Homeopathy
+1,(Fee in taka),,,,,
+2,Upazila,Doctor - MBBS,Doctor - FCPS,Doctor - Dentist,Doctor - Gynaecologist,Doctor - Homeopathy
 3,Bagerhat Sadar,300,400,200,300,0
 4,Kachua,200,0,100,0,0
 5,Rampal,200,80,100,200,100
