@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7,8
+0,Number of Establishment and Persons Engaged,,,,,,,
+1,,,,,,,,
+2,Code,Activity,Establishments - Total,Establishments - Urban,Establishments - Rural,Persons Engaged - Total,Persons Engaged - Male,Persons Engaged - Female
+3,C,Mining and quarrying,0,0,0,0,0,0
+4,D,Manufacturing,2290,496,1794,8423,7997,426
+5,E,"Electricity, gas and water supply",63,12,51,320,301,19
+6,F,Construction,8,8,0,214,213,1
+7,G,Wholesale & retail trade,24577,6591,17986,42084,41763,321
+8,H,Hotels and restaurants,3714,866,2848,8945,8741,204
+9,I,"Transport, storage and communication",266,135,131,565,553,12
+10,J,"Bank, insurance and financial institution",232,174,58,2181,1941,240
+11,K,Real estate and renting,411,295,116,1124,1117,7
+12,L,Public administration and defense,426,332,94,3517,3433,84
+13,M,Education,2187,206,1981,12330,10938,1392
+14,N,Health and social work,381,167,214,1994,1565,429
+15,O,"Community, social and personal services",4750,922,3828,9012,8902,110
+16,,Total,39305,10204,29101,90709,87464,3245
