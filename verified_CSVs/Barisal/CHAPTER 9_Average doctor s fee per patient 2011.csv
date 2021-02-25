@@ -1,0 +1,16 @@
+,0,1,2,3,4,5
+0,Average doctor s fee per patient 2011,,,,,
+1,(Fee in taka),,,,,
+2,Upazila/city corporation,Doctor MBBS,Doctor FCPS,Doctor Dentist,Doctor Gynaecologist,Doctor Homeopathy
+3,Agailjhara,200,0,150,0,40
+4,Babuganj,200,0,200,0,50
+5,Bakerganj,200,0,100,200,50
+6,Banaripara,100,0,100,100,0
+7,Barisal city corporation,200,400,300,300,100
+8,Barisal sadar,200,0,0,0,0
+9,Gaurnadi,200,250,100,300,50
+10,Hizla,0,0,100,0,0
+11,Mehendiganj,100,200,0,100,0
+12,Muladi,300,0,0,0,200
+13,Wazirpur,200,0,100,0,20
+14,Average,173,77,105,91,46
