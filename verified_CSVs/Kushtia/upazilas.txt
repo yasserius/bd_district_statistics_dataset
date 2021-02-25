@@ -1,0 +1,31 @@
+Kushtia Sadar	1378
+Kumarkhali
+Average
+Kumarkhali	43
+Mirpur	455
+Khoksa	64
+Kushtia
+Kumarkhali	110
+Total	399
+Mirpur
+Kustia Sadar
+Mirpur	32
+Daulatpur	1385
+Kushtia Sadar	97
+Daulatpur
+Khoksa	1376
+Bheramara	15
+Bheramara
+Kumarkhali	4235
+Sadar
+Khoksa
+Total	9349
+ Mirpur
+Kushtia Sadar
+Total
+Total	156
+Khosa
+Khoksa	23
+Bheramara	51
+Daulatpur	45
+Daulatpur	13
