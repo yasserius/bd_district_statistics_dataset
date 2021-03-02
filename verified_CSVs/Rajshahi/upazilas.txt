@@ -1,0 +1,24 @@
+Charghat	12
+Mohanpur
+Paba
+Total
+Tanore	13
+Bagha
+Durgapur	14
+Rajshahi city corporation
+Puthia	13
+Tanore
+Baghmara	22
+Puthia
+Total	23
+Bagha	9
+Durgapur
+District Average
+Godagari	8
+Paba	12
+Baghmara
+Godagari
+Mohanpur	21
+Rajshahi city corporation	17
+Total	141
+Charghat
