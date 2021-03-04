@@ -1,12 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
-0,"Number of secondary school, teacher and student by municipality, city corporation 2011",,,,,,,,
-1,,,,,,,,,
-2, Municipality,Number of    Institution,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Student per teacher
-3,Bakerganj,3,27,17,44,182,1395,1577,35
-4,Banaripara,3,32,18,50,691,746,1437,29
-5,Barisal city,39,355,192,547,6090,7493,13583,34
-6,Gaurnadi,6,40,23,63,1105,1260,2365,38
-7,Mehendiganj,6,42,26,68,1375,1678,3053,45
-8,Muladi,3,25,11,36,759,820,1579,44
-9,Total,60,521,287,808,10202,13392,23594,29
+0.0,"Number of secondary school, teacher and student by municipality, city corporation 2011",,,,,,,,
+1.0,,,,,,,,,
+2.0, Municipality,Number of    Institution,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Student per teacher
+3.0,Bakerganj,3,27,17,44,182,1395,1577,35
+4.0,Banaripara,3,32,18,50,691,746,1437,29
+5.0,Barisal city,39,355,192,547,6090,7493,13583,34
+6.0,Gaurnadi,6,40,23,63,1105,1260,2365,38
+7.0,Mehendiganj,6,42,26,68,1375,1678,3053,45
+8.0,Muladi,3,25,11,36,759,820,1579,44
+9.0,Total,60,521,287,808,10202,13392,23594,29
 ,,,,,,,,,

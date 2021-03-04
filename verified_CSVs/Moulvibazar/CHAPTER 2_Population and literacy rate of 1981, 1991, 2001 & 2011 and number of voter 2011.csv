@@ -1,7 +1,7 @@
 ,0,1,2,3,4,5,6,7,8,9
-0,"Population and literacy rate of 1981, 1991, 2001 & 2011 and number of voter 2011",,,,,,,,,
+0,"Population and literacy rate of 1981, 1991, 2001  2011 and number of voter 2011",,,,,,,,,
 1,,,,,,,,,,
-2, Upazila,Population - 1991,Population - 2001,Population - 2011,Literacy rate (%) - 1991,Literacy rate (%) - 2001,Literacy rate (%) - 2011,Number of voter (000) - Male,Number of voter (000) - Female,Number of voter (000) - Total
+2, Upazila,Population - 1991,Population - 2001,Population - 2011,Literacy rate () - 1991,Literacy rate () - 2001,Literacy rate () - 2011,Number of voter (000) - Male,Number of voter (000) - Female,Number of voter (000) - Total
 3,Barlekha,201,234,258,34.6,42.7,52.4,63,70,133
 4,Juri,-,-,149,-,-,52.3,40,40,80
 5,Kamalganj,192,230,259,28.6,40.7,48.6,73,75,148

@@ -1,7 +1,7 @@
 ,0,1,2,3,4
 0,"Temperature, rainfall, humidity during the years 2008-2011",,,,
 1,,,,,
-2, Years,Temperature (centigrade) - Maximum,Temperature (centigrade) - Minimum, Rainfall (millimeter), Humidity (%)
+2, Years,Temperature (centigrade) - Maximum,Temperature (centigrade) - Minimum, Rainfall (millimeter), Humidity ()
 3,2008,34.2,11.2,1850,81
 4,2009,34.4,13.1,1837,79
 5,2010,34.7,10.8,1220,66.2

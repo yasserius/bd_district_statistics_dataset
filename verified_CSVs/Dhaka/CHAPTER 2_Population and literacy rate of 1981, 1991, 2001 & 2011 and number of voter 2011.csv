@@ -1,7 +1,7 @@
 ,0,1,2,3,4,5,6,7,8
-0,"Population and literacy rate of 1981, 1991, 2001 & 2011 and number of voter 2011",,,,,,,,
+0,"Population and literacy rate of 1981, 1991, 2001  2011 and number of voter 2011",,,,,,,,
 1,,,,,,,,,
-2, Upazila,Population (000) - 1981,Population (000) - 1991,Population (000) - 2001,Population (000) - 2011,Literacy rate (%) - 1981,Literacy rate (%) - 1991,Literacy rate (%) - 2001,Literacy rate (%) - 2011
+2, Upazila,Population (000) - 1981,Population (000) - 1991,Population (000) - 2001,Population (000) - 2011,Literacy rate () - 1981,Literacy rate () - 1991,Literacy rate () - 2001,Literacy rate () - 2011
 3,Dhaka Metropolitan,2835,4174,6483,8906,61.2,63.9,69.2,74.6
 4,Dhamrai,275,313,350,413,20.8,29.5,43.9,50.8
 5,Dohar,149,176,191,226,27.6,32.9,49.3,57.5

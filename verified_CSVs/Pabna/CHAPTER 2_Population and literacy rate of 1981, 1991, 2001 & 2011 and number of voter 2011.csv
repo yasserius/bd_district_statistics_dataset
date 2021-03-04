@@ -1,7 +1,7 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
-0,"Population and literacy rate of 1981, 1991, 2001 & 2011 and number of voter 2011",,,,,,,,,,,
+0,"Population and literacy rate of 1981, 1991, 2001  2011 and number of voter 2011",,,,,,,,,,,
 1,,,,,,,,,,,,
-2,Upazila Upazila 1,Population (000) 1981 2,Population (000) 1991 3,Population (000) 2001 4,Population (000) 2011 5,Literacy rate (%) 1981 6,Literacy rate (%) 1991 7,Literacy rate (%) 2001 8,Literacy rate (%) 2011 9,Number of voter (000) Male 10,Number of voter (000) Female 11,Number of voter (000) Total 12
+2,Upazila Upazila 1,Population (000) 1981 2,Population (000) 1991 3,Population (000) 2001 4,Population (000) 2011 5,Literacy rate () 1981 6,Literacy rate () 1991 7,Literacy rate () 2001 8,Literacy rate () 2011 9,Number of voter (000) Male 10,Number of voter (000) Female 11,Number of voter (000) Total 12
 3,Atgharia,105,124,136,157,18.1,21.7,44.6,43.7,49,50,99
 4,Bera,163,209,231,256,20.3,24.1,33.5,41.2,78,78,157
 5,Bhangura,62,82,99,125,21.7,26.1,38.3,44.0,37,37,74

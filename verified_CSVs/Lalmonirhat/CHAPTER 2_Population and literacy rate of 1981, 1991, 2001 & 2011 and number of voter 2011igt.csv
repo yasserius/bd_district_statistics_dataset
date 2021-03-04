@@ -1,7 +1,7 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
-0,"Population and literacy rate of 1981, 1991, 2001 & 2011 and number of voter 2011",,,,,,,,,,,
+0,"Population and literacy rate of 1981, 1991, 2001  2011 and number of voter 2011",,,,,,,,,,,
 1,,,,,,,,,,,,
-2, Upazila,Population (000) - 1981,Population (000) - 1991,Population (000) - 2001,Population (000) - 2011,Literacy rate (%) - 1981,Literacy rate (%) - 1991,Literacy rate (%) - 2001,Literacy rate (%) - 2011,Number of voter (000) - Male,Number of voter (000) - Female,Number of voter (000) - Total
+2, Upazila,Population (000) - 1981,Population (000) - 1991,Population (000) - 2001,Population (000) - 2011,Literacy rate () - 1981,Literacy rate () - 1991,Literacy rate () - 2001,Literacy rate () - 2011,Number of voter (000) - Male,Number of voter (000) - Female,Number of voter (000) - Total
 3,Aditmari,135,177,204,225,15.5,18.6,39.6,45.1,72,74,146
 4,Hatibandha,141,172,206,234,18.4,21.4,39.3,45.3,70,71,141
 5,Kaligonj,157,187,217,246,20.0,24.0,41.1,46.0,78,79,156
