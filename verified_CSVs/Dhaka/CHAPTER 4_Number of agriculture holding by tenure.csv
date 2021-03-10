@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
-1,(According to Agriculture Census 2008),,,,
-2, Upazila,Total farm holding, Owner holding, Owner cum tenant, Tenant holding
-3,Dhaka Metropolitan,116472,824782,16808,882852
-4,Dhamrai,5151,55434,20936,7413
-5,Dohar,47333,32406,4629,5584
-6,Keraniganj,15066,87353,14481,50985
-7,Nawabganj,24316,46110,9677,4576
-8,Savar,33114,135586,12751,54116
-9,Total,241452,1181671,79282,1005526
+1,Dhaka,,,,
+2,(According to Agriculture Census 2008),,,,
+3, Upazila,Total farm holding, Owner holding, Owner cum tenant, Tenant holding
+4,Dhaka Metropolitan,116472,824782,16808,882852
+5,Dhamrai,5151,55434,20936,7413
+6,Dohar,47333,32406,4629,5584
+7,Keraniganj,15066,87353,14481,50985
+8,Nawabganj,24316,46110,9677,4576
+9,Savar,33114,135586,12751,54116
+10,Total,241452,1181671,79282,1005526

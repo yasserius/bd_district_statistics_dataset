@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,,,,,,
-2,Upazila,Police personnel,Ansar personnel,VDP personnel,Autonomous Bodies,Local govt. employee
-3,Bhola Sadar,315,580,8000,7,94
-4,Burhanuddin,40,420,5760,7,105
-5,Char Fasson,74,548,8640,6,192
-6,Daulatkhan,31,316,1226,2,20
-7,Lalmohan,34,420,5760,7,53
-8,Manpura,22,336,1728,2,2
-9,Tazumuddin,26,292,2880,18,5
-10,Total,542,2912,33994,49,398
+1,Bhola,,,,,
+2,,,,,,
+3,Upazila,Police personnel,Ansar personnel,VDP personnel,Autonomous Bodies,Local govt. employee
+4,Bhola Sadar,315,580,8000,7,94
+5,Burhanuddin,40,420,5760,7,105
+6,Char Fasson,74,548,8640,6,192
+7,Daulatkhan,31,316,1226,2,20
+8,Lalmohan,34,420,5760,7,53
+9,Manpura,22,336,1728,2,2
+10,Tazumuddin,26,292,2880,18,5
+11,Total,542,2912,33994,49,398

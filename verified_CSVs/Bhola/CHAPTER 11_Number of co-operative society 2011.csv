@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,(Figures in lac Tk.),,,
-2,Upazila,Number,Number of employee,Number of client
-3,Bhola Sadar,550,1050,110000
-4,Burhanuddin,430,135,20625
-5,Char Fasson,267,267,8010
-6,Daulatkhan,33,37,6530
-7,Lalmohan,418,23,12540
-8,Manpura,31,10,6430
-9,Tazumuddin,6,6,125
-10,Total,1735,1524,164260
+1,Bhola,,,
+2,(Figures in lac Tk.),,,
+3,Upazila,Number,Number of employee,Number of client
+4,Bhola Sadar,550,1050,110000
+5,Burhanuddin,430,135,20625
+6,Char Fasson,267,267,8010
+7,Daulatkhan,33,37,6530
+8,Lalmohan,418,23,12540
+9,Manpura,31,10,6430
+10,Tazumuddin,6,6,125
+11,Total,1735,1524,164260

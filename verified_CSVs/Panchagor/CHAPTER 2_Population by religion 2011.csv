@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Population by religion 2011,,,,,,
-1,,,,,,,
-2,Upazila,Muslim,Hindu,Buddhist,Christian,Others,Total
-3,Atwari,99681,32281,4,1476,208,133650
-4,Boda,177462,53989,2,399,272,232124
-5,Debiganj,166053,57944,1,269,442,224709
-6,Panchagarh Sadar,254612,16855,4,163,73,271707
-7,Tentulia,122821,2335,10,206,82,125454
-8,Total,820629,163404,21,2513,1077,987644
+1,Panchagor,,,,,,
+2,,,,,,,
+3,Upazila,Muslim,Hindu,Buddhist,Christian,Others,Total
+4,Atwari,99681,32281,4,1476,208,133650
+5,Boda,177462,53989,2,399,272,232124
+6,Debiganj,166053,57944,1,269,442,224709
+7,Panchagarh Sadar,254612,16855,4,163,73,271707
+8,Tentulia,122821,2335,10,206,82,125454
+9,Total,820629,163404,21,2513,1077,987644

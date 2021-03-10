@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
-1,(According to Agriculture Census 2008),,,,
-2,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
-3,Azmirigonj,10635,12883,4914,2041
-4,Bahubal,18579,23656,4719,3880
-5,Baniachang,29234,35165,11200,2879
-6,Chunarughat,35351,31184,10096,14398
-7,Habiganj Sadar,24368,39833,8272,3745
-8,Lakhai,15101,17887,5787,1797
-9,Madhabpur,37601,29969,17016,8781
-10,Nabiganj,26274,37147,9394,5535
-11,Total,197143,227724,71398,43056
+1,Habiganj,,,,
+2,(According to Agriculture Census 2008),,,,
+3,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
+4,Azmirigonj,10635,12883,4914,2041
+5,Bahubal,18579,23656,4719,3880
+6,Baniachang,29234,35165,11200,2879
+7,Chunarughat,35351,31184,10096,14398
+8,Habiganj Sadar,24368,39833,8272,3745
+9,Lakhai,15101,17887,5787,1797
+10,Madhabpur,37601,29969,17016,8781
+11,Nabiganj,26274,37147,9394,5535
+12,Total,197143,227724,71398,43056

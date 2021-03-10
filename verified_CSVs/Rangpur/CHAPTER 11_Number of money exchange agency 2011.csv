@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of money exchange agency 2011,,,,
-1,,,,,
-2, Upazila,Number of money exchange agency, Number of employee,Annual transactions per money exchange agency (in lac tk.),Annual profit per agency (in lac tk.)
-3,Badarganj,0,0,0,0
-4,Gangachara,0,0,0,0
-5,Kaunia,0,0,0,0
-6,Mithapukur,0,0,0,0
-7,Pirgachha,4,12,360,3
-8,Pirganj,0,0,0,0
-9,Rangpur sadar,2,4,282,2
-10,Taraganj,0,0,0,0
-11,Total,6,16,642,5
+1,Rangpur,,,,
+2,,,,,
+3, Upazila,Number of money exchange agency, Number of employee,Annual transactions per money exchange agency (in lac tk.),Annual profit per agency (in lac tk.)
+4,Badarganj,0,0,0,0
+5,Gangachara,0,0,0,0
+6,Kaunia,0,0,0,0
+7,Mithapukur,0,0,0,0
+8,Pirgachha,4,12,360,3
+9,Pirganj,0,0,0,0
+10,Rangpur Sadar,2,4,282,2
+11,Taraganj,0,0,0,0
+12,Total,6,16,642,5

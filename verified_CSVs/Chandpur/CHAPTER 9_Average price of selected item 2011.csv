@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7
 0,Average price of selected item 2011,,,,,,,
-1,,,,,,,,
-2,(Price Unit per KG/Taka) -  Upazila,(Price Unit per KG/Taka) - Fine Rice (Minicate),(Price Unit per KG/Taka) - Medium rice,(Price Unit per KG/Taka) - Coarse rice (Normal),(Price Unit per KG/Taka) -  Wheat,(Price Unit per KG/Taka) - Coarse flour (Aata),(Price Unit per KG/Taka) -  Potato,(Price Unit per KG/Taka) - Soyabean oil
-3,Chandpur Sadar,41,36,30,20,32,10,125
-4,Foridganj,44,36,30,18,30,11,130
-5,Haimchar,46,38,26,20,33,14,132
-6,Hajiganj,42,32,30,25,30,10,138
-7,Kachua,45,35,30,25,30,10,140
-8,Matlab Dakshin,44,32,28,25,28,10,120
-9,Matlab Uttar,40,32,28,25,28,10,120
-10,Shahrasti,42,34,26,20,28,12,140
-11,Avarage,43,34,29,22,30,11,131
+1,Chandpur,,,,,,,
+2,,,,,,,,
+3,(Price Unit per KG/Taka) -  Upazila,(Price Unit per KG/Taka) - Fine Rice (Minicate),(Price Unit per KG/Taka) - Medium rice,(Price Unit per KG/Taka) - Coarse rice (Normal),(Price Unit per KG/Taka) -  Wheat,(Price Unit per KG/Taka) - Coarse flour (Aata),(Price Unit per KG/Taka) -  Potato,(Price Unit per KG/Taka) - Soyabean oil
+4,Chandpur Sadar,41,36,30,20,32,10,125
+5,Foridganj,44,36,30,18,30,11,130
+6,Haimchar,46,38,26,20,33,14,132
+7,Hajiganj,42,32,30,25,30,10,138
+8,Kachua,45,35,30,25,30,10,140
+9,Matlab Dakshin,44,32,28,25,28,10,120
+10,Matlab Uttar,40,32,28,25,28,10,120
+11,Shahrasti,42,34,26,20,28,12,140
+12,Avarage,43,34,29,22,30,11,131

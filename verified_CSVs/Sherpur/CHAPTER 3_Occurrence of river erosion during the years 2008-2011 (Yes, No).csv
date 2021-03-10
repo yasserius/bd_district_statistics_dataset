@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,"Occurrence of river erosion during the years 2008-2011 (Yes, No)",,,,
-1,,,,,
-2, Upazila, 2008, 2009, 2010, 2011
-3,Jhenaigati,No,No,No,No
-4,Nakla,No,No,No,No
-5,Nalitabari,Yes,Yes,Yes,Yes
-6,Sherpur Sadar,No,No,No,No
-7,Sreebardi,No,No,No,No
+1,Sherpur,,,,
+2,,,,,
+3,Upazila, 2008, 2009, 2010, 2011
+4,Jhenaigati,No,No,No,No
+5,Nakla,No,No,No,No
+6,Nalitabari,Yes,Yes,Yes,Yes
+7,Sherpur Sadar,No,No,No,No
+8,Sreebardi,No,No,No,No

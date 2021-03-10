@@ -1,10 +1,11 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
-1,(Rate in taka),,,
-2,Upazila,Labour Male,Labour Female,Labour Child (under 15 years old)
-3,Atwari,220,150,70
-4,Boda,200,180,100
-5,Debiganj,200,150,100
-6,Panchagarh Sadar,200,180,100
-7,Tentulia,250,150,80
-8,Average,214,162,90
+1,Panchagor,,,
+2,(Rate in taka),,,
+3,Upazila,Labour Male,Labour Female,Labour Child (under 15 years old)
+4,Atwari,220,150,70
+5,Boda,200,180,100
+6,Debiganj,200,150,100
+7,Panchagarh Sadar,200,180,100
+8,Tentulia,250,150,80
+9,Average,214,162,90

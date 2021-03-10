@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2009-10,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
-3,Gopalganj Sadar,296,874,37,91,333,965
-4,Kashiani,3,20,11,20,14,40
-5,Kotalipara,267,2140,0,0,267,2140
-6,Muksudpur,342,2086,28,141,370,2227
-7,Tungipara,13,88,15,45,28,133
-8,Total,921,5208,91,297,1012,5505
+1,Gopalgonj,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
+4,Gopalganj Sadar,296,874,37,91,333,965
+5,Kashiani,3,20,11,20,14,40
+6,Kotalipara,267,2140,0,0,267,2140
+7,Muksudpur,342,2086,28,141,370,2227
+8,Tungipara,13,88,15,45,28,133
+9,Total,921,5208,91,297,1012,5505

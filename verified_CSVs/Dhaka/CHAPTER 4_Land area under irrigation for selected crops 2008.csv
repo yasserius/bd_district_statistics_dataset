@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Land area under irrigation for selected crops 2008,,,,,,
-1,,,,,,,
-2, Upazila,Paddy - Total area,Paddy - Irrigated area,Wheat - Total area,Wheat - Irrigated area,Potato - Total area,Potato - Irrigated area
-3,Dhaka Metropolitan,49786,71566,2506,851,2824,2824
-4,Dhamrai,42015,67440,266,103,373,373
-5,Dohar,9347,15753,256,250,72,72
-6,Keraniganj,16112,33013,325,125,2523,2523
-7,Nawabganj,23879,42381,415,124,867,867
-8,Savar,20496,33738,391,320,241,241
-9,Total,161635,263891,4158,1773,6900,6900
+1,Dhaka,,,,,,
+2,,,,,,,
+3, Upazila,Paddy - Total area,Paddy - Irrigated area,Wheat - Total area,Wheat - Irrigated area,Potato - Total area,Potato - Irrigated area
+4,Dhaka Metropolitan,49786,71566,2506,851,2824,2824
+5,Dhamrai,42015,67440,266,103,373,373
+6,Dohar,9347,15753,256,250,72,72
+7,Keraniganj,16112,33013,325,125,2523,2523
+8,Nawabganj,23879,42381,415,124,867,867
+9,Savar,20496,33738,391,320,241,241
+10,Total,161635,263891,4158,1773,6900,6900

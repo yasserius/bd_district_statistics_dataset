@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from nationalized bank 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2,  Upazila,Number of branch of all    nationalized banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
-3,Bagerhat Sadar,21,12760,1881,312,0,2821,252,15893,2133,51,3
-4,Kachua,4,2240,446,0,0,693,78,2933,524,4,0
-5,Rampal,5,1470,32,0,0,0,0,1470,32,14,1
-6,Sarankhola,2,961,32,0,0,52,111,1023,142,12,1
-7,Chitalmari,4,8243,202,0,0,2004,128,10247,330,33,1
-8,Morrelgonj,8,6221,1092,0,0,2785,222,9006,1314,29,4
-9,Mongla,8,427,0,3,0,875,0,1302,0,11,0
-10,Mollahat,3,3982,27,0,0,448,897,4430,924,16,3
-11,Fakirhat,8,2870,102,32,0,1063,706,3965,808,20,2
-12,Total,63,39174,3814,347,0,10741,2394,50269,6207,189,15
+1,Bagerhat,,,,,,,,,,,
+2,,,,,,,,,,,,
+3,  Upazila,Number of branch of all    nationalized banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
+4,Bagerhat Sadar,21,12760,1881,312,0,2821,252,15893,2133,51,3
+5,Kachua,4,2240,446,0,0,693,78,2933,524,4,0
+6,Rampal,5,1470,32,0,0,0,0,1470,32,14,1
+7,Sharonkhola,2,961,32,0,0,52,111,1023,142,12,1
+8,Chitolmari,4,8243,202,0,0,2004,128,10247,330,33,1
+9,Morrelgonj,8,6221,1092,0,0,2785,222,9006,1314,29,4
+10,Mongla,8,427,0,3,0,875,0,1302,0,11,0
+11,Mollahat,3,3982,27,0,0,448,897,4430,924,16,3
+12,Fakirhat,8,2870,102,32,0,1063,706,3965,808,20,2
+13,Total,63,39174,3814,347,0,10741,2394,50269,6207,189,15

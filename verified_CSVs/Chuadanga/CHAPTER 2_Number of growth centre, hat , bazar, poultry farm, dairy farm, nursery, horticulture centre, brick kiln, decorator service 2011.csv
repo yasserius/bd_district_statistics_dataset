@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of growth centre, hat , bazar, poultry farm, dairy farm, nursery, horticulture centre, brick kiln, decorator service 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila,Growth centre,Hat /bazar,Poultry farm,Dairy farm,Nursery,Horticulture centre,Brick kiln,Decorator service
-3,Alamdanga,11,29,142,21,12,0,11,52
-4,Chuadanga Sadar,3,17,168,2,20,1,7,22
-5,Damurhuda,6,20,153,123,40,1,25,34
-6,Jibonnagar,5,30,121,255,8,1,17,16
-7,Total,25,96,584,401,80,3,60,124
+1,Chuadanga,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Growth centre,Hat /bazar,Poultry farm,Dairy farm,Nursery,Horticulture centre,Brick kiln,Decorator service
+4,Alamdanga,11,29,142,21,12,0,11,52
+5,Chuadanga Sadar,3,17,168,2,20,1,7,22
+6,Damurhuda,6,20,153,123,40,1,25,34
+7,Jibonnagar,5,30,121,255,8,1,17,16
+8,Total,25,96,584,401,80,3,60,124

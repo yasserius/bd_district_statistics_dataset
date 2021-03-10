@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Bean Area,Bean Production
-3,Biral,56,56,75,195,26,20
-4,Birampur,241,670,170,510,20,30
-5,Birganj,126,185,305,984,31,46
-6,Bochaganj,177,319,205,410,70,78
-7,Chirirbandar,76,310,97,238,76,142
-8,Dinajpur Sadar,4200,18807,50,93,45,26
-9,Fulbari,40,64,22,66,29,26
-10,Ghoraghat,35,95,39,117,35,49
-11,Hakimpur,22,36,16,82,26,38
-12,Kaharole,70,163,120,368,35,43
-13,Khansama,49,122,120,402,39,71
-14,Nawabganj,110,223,50,155,43,64
-15,Parbatipur,35,150,66,297,30,26
-16,Total,5237,21200,1335,3917,505,659
+1,Dinajpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Bean Area,Bean Production
+4,Biral,56,56,75,195,26,20
+5,Birampur,241,670,170,510,20,30
+6,Birganj,126,185,305,984,31,46
+7,Bochaganj,177,319,205,410,70,78
+8,Chirirbandar,76,310,97,238,76,142
+9,Dinajpur Sadar,4200,18807,50,93,45,26
+10,Fulbari,40,64,22,66,29,26
+11,Ghoraghat,35,95,39,117,35,49
+12,Hakimpur,22,36,16,82,26,38
+13,Kaharole,70,163,120,368,35,43
+14,Khansama,49,122,120,402,39,71
+15,Nawabganj,110,223,50,155,43,64
+16,Parbatipur,35,150,66,297,30,26
+17,Total,5237,21200,1335,3917,505,659

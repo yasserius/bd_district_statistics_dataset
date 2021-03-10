@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Number of community clinic and person engaged 2011,,,,,,
-1,,,,,,,
-2,Upazila,Number of clinic,Number of health asst.,Number of FPI,Number of FWV,Number of FWA,Number of other staff
-3,Begumganj,45,45,11,15,77,45
-4,Chatkhil,19,32,7,5,39,0
-5,Companiganj,8,8,7,8,1,51
-6,Hatiya,31,57,7,6,47,19
-7,Kabirhat,19,18,5,5,35,0
-8,Noakhali Sadar,33,0,1,12,52,0
-9,Senbagh,25,43,0,0,0,25
-10,Sonaimuri,30,26,6,2,40,0
-11,Subarnachar,12,7,0,0,0,13
-12,Total,222,236,44,53,291,153
+1,Noakhali,,,,,,
+2,,,,,,,
+3,Upazila,Number of clinic,Number of health asst.,Number of FPI,Number of FWV,Number of FWA,Number of other staff
+4,Begumganj,45,45,11,15,77,45
+5,Chatkhil,19,32,7,5,39,0
+6,Companiganj,8,8,7,8,1,51
+7,Hatiya,31,57,7,6,47,19
+8,Kabirhat,19,18,5,5,35,0
+9,Noakhali Sadar,33,0,1,12,52,0
+10,Senbagh,25,43,0,0,0,25
+11,Sonaimuri,30,26,6,2,40,0
+12,Subarnachar,12,7,0,0,0,13
+13,Total,222,236,44,53,291,153

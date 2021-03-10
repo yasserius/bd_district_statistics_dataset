@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6,7
 0,Average price of selected item 2011,,,,,,,
-1,"(Price unit per kg, taka)",,,,,,,
-2,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
-3,Kalkini,45,35,30,24,30,20,130
-4,Madaripur Sadar,42,32,28,15,22,12,140
-5,Rajoir,44,38,32,20,34,10,140
-6,Shibchar,42,36,30,16,30,12,120
-7,Average,43,35,30,19,29,14,133
+1,Madaripur,,,,,,,
+2,"(Price unit per kg, taka)",,,,,,,
+3,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
+4,Kalkini,45,35,30,24,30,20,130
+5,Madaripur Sadar,42,32,28,15,22,12,140
+6,Rajoir,44,38,32,20,34,10,140
+7,Shibchar,42,36,30,16,30,12,120
+8,Average,43,35,30,19,29,14,133

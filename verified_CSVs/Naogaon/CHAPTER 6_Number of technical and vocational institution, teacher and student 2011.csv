@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of technical and vocational institution, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila, Institution,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Atrai,6,41,5,46,665,301,966,21
-4,Badalgachhi,5,42,7,49,120,40,160,3
-5,Dhamoirhat,0,0,0,0,0,0,0,0
-6,Manda,0,0,0,0,0,0,0,0
-7,Mahadebpur,1,13,3,16,95,65,160,10
-8,Naogaon sadar,7,88,23,111,1571,339,1910,17
-9,Niamatpur,2,20,1,21,226,102,328,16
-10,Patnitala,0,0,0,0,0,0,0,0
-11,Porsha,2,24,0,24,175,123,298,13
-12,Raninagar,2,7,1,8,192,69,261,33
-13,Sapahar,2,4,2,6,71,41,112,19
-14,Total,27,239,42,281,3115,1080,4195,15
+1,Naogaon,,,,,,,,
+2,,,,,,,,,
+3, Upazila, Institution,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Atrai,6,41,5,46,665,301,966,21
+5,Badalgachhi,5,42,7,49,120,40,160,3
+6,Dhamoirhat,0,0,0,0,0,0,0,0
+7,Manda,0,0,0,0,0,0,0,0
+8,Mahadebpur,1,13,3,16,95,65,160,10
+9,Naogaon sadar,7,88,23,111,1571,339,1910,17
+10,Niamatpur,2,20,1,21,226,102,328,16
+11,Patnitala,0,0,0,0,0,0,0,0
+12,Porsha,2,24,0,24,175,123,298,13
+13,Raninagar,2,7,1,8,192,69,261,33
+14,Sapahar,2,4,2,6,71,41,112,19
+15,Total,27,239,42,281,3115,1080,4195,15

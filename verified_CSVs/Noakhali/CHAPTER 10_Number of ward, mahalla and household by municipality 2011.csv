@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,"Number of ward, mahalla and household by municipality 2011",,,,,
-1,,,,,,
-2,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
-3,Begumganj,Choumuhani,9,23,11312,14568
-4,Chatkhil,Chatkhil,9,16,6079,6084
-5,Companiganj,Bosur Hat,9,11,0,5512
-6,Hatiya,Hatiya,9,23,8492,9026
-7,Kabirhat,Kabirhat,9,11,3355,3240
-8,Noakhali Sadar,Noakhali,9,36,13368,20222
-9,Senbagh,Senbagh,9,15,3544,3613
-10,Sonaimuri,Sonaimuri,9,18,5775,6162
-11,Subarnachar,-,0,0,0,0
-12,Total,-,72,153,51925,68427
+1,Noakhali,,,,,
+2,,,,,,
+3,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
+4,Begumganj,Choumuhani,9,23,11312,14568
+5,Chatkhil,Chatkhil,9,16,6079,6084
+6,Companiganj,Bosur Hat,9,11,0,5512
+7,Hatiya,Hatiya,9,23,8492,9026
+8,Kabirhat,Kabirhat,9,11,3355,3240
+9,Noakhali Sadar,Noakhali,9,36,13368,20222
+10,Senbagh,Senbagh,9,15,3544,3613
+11,Sonaimuri,Sonaimuri,9,18,5775,6162
+12,Subarnachar,-,0,0,0,0
+13,Total,-,72,153,51925,68427

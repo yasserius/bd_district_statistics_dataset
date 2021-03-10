@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of wheat, jute and sugarcane 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Wheat Area,Wheat Production,Jute Area,Jute Production,Sugarcane Area,Sugarcane Production
-3,Baliadangi,26639,32952,2708,1963,1640,25640
-4,Haripur,16503,21569,1838,1470,42,168
-5,Pirgonj,24554,32288,2596,1962,4690,70669
-6,Ranisankail,1600,20080,2875,1796,1250,32200
-7,Thakurgaon Sadar,41482,35260,13227,9378,5463,83037
-8,Total,110778,142149,23244,16569,13085,211714
+1,Thakurgaon,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Wheat Area,Wheat Production,Jute Area,Jute Production,Sugarcane Area,Sugarcane Production
+4,Baliadangi,26639,32952,2708,1963,1640,25640
+5,Haripur,16503,21569,1838,1470,42,168
+6,Pirgonj,24554,32288,2596,1962,4690,70669
+7,Ranisankail,1600,20080,2875,1796,1250,32200
+8,Thakurgaon Sadar,41482,35260,13227,9378,5463,83037
+9,Total,110778,142149,23244,16569,13085,211714

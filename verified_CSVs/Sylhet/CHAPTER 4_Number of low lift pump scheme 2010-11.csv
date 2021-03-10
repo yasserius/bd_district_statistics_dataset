@@ -1,18 +1,19 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,,,,,
-2,Upazila/City corporation,Number of pumps fielded Electric,Number of pumps fielded Diesel,Number of pumps fielded Total,Area irrigated (in acres)
-3,Balaganj,40,315,355,6380
-4,Beanibazar,44,102,146,1280
-5,Bishwanath,6,18,24,482
-6,Companiganj,2,217,219,4693
-7,Dakhin surma,57,12,69,2760
-8,Fenchuganj,6,4,10,261
-9,Golapganj,50,25,75,8591
-10,Gowainghat,97,560,657,6629
-11,Jaintiapur,0,122,112,3862
-12,Kanaighat,1,636,637,3427
-13,Sylhet city corporation,0,0,0,0
-14,Sylhet sadar,1,2,3,12.5
-15,Zakiganj,30,21,51,1208
-16,Total,334,2034,2358,39585.5
+1,Sylhet,,,,
+2,,,,,
+3,Upazila/City Corporation,Number of pumps fielded Electric,Number of pumps fielded Diesel,Number of pumps fielded Total,Area irrigated (in acres)
+4,Balaganj,40,315,355,6380
+5,Beanibazar,44,102,146,1280
+6,Bishwanath,6,18,24,482
+7,Companiganj,2,217,219,4693
+8,Dakhin Surma,57,12,69,2760
+9,Fenchuganj,6,4,10,261
+10,Golapganj,50,25,75,8591
+11,Gowainghat,97,560,657,6629
+12,Jaintiapur,0,122,112,3862
+13,Kanaighat,1,636,637,3427
+14,Sylhet City Corporation,0,0,0,0
+15,Sylhet Sadar,1,2,3,12.5
+16,Zakiganj,30,21,51,1208
+17,Total,334,2034,2358,39585.5

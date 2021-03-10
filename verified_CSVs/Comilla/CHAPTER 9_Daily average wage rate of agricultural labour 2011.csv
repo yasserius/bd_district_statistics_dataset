@@ -1,21 +1,22 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
-1,,,,
-2,(Rate in taka) - Upazila,(Rate in taka) - Labour - Male,(Rate in taka) - Labour - Female,(Rate in taka) - Labour - Child (under 15 years old)
-3,Adarsha Sadar,350,250,250
-4,Barura,250,200,150
-5,Brahmanpara,250,120,100
-6,Burichang,250,200,150
-7,Chandina,300,200,100
-8,Chauddagram,300,250,100
-9,Comilla Sadar Dakshin,270,200,180
-10,Daudkandi,300,200,150
-11,Debidwar,250,150,100
-12,Homna,200,150,100
-13,Laksam,280,0,130
-14,Monoharganj,250,200,150
-15,Meghna,200,150,80
-16,Muradnagar,250,150,100
-17,Nangalkot,250,180,150
-18,Titas,250,200,150
-19,Average,263,187,134
+1,Comilla,,,
+2,,,,
+3,(Rate in taka) - Upazila,(Rate in taka) - Labour - Male,(Rate in taka) - Labour - Female,(Rate in taka) - Labour - Child (under 15 years old)
+4,Adarsha Sadar,350,250,250
+5,Barura,250,200,150
+6,Brahmanpara,250,120,100
+7,Burichang,250,200,150
+8,Chandina,300,200,100
+9,Chauddagram,300,250,100
+10,Comilla Sadar Dakshin,270,200,180
+11,Daudkandi,300,200,150
+12,Debidwar,250,150,100
+13,Homna,200,150,100
+14,Laksam,280,0,130
+15,Monoharganj,250,200,150
+16,Meghna,200,150,80
+17,Muradnagar,250,150,100
+18,Nangalkot,250,180,150
+19,Titas,250,200,150
+20,Average,263,187,134

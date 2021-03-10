@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Population and literacy rate of 1981, 1991, 2001  2011 and number of voter 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2,Upazila,Population (000) - 1981,Population (000) - 1991,Population (000) - 2001,Population (000) - 2011,Literacy rate () - 1981,Literacy rate () - 1991,Literacy rate () - 2001,Literacy rate () - 2011,Number of voter (000) - Male,Number of voter (000) - Female,Number of voter (000) - Total
-3,Amtali,232,244,260,271,28,33.9,45.9,52.8,84,88,172
-4,Bamna,64,66,70,79,34,46.5,64.2,61.1,21,23,44
-5,Barguna Sadar,200,220,238,262,33,37.8,55.2,61.8,89,93,182
-6,Betagi,115,111,119,117,38,47.0,59.7,60.1,38,40,78
-7,Patharghata,122,135,162,164,43,46.4,63.2,60.5,47,50,97
-8,Total,733,776,849,893,35.2,42.3,55.3,57.6,270,286,556
+1,Barguna,,,,,,,,,,,
+2,,,,,,,,,,,,
+3,Upazila,Population (000) - 1981,Population (000) - 1991,Population (000) - 2001,Population (000) - 2011,Literacy rate () - 1981,Literacy rate () - 1991,Literacy rate () - 2001,Literacy rate () - 2011,Number of voter (000) - Male,Number of voter (000) - Female,Number of voter (000) - Total
+4,Amtali,232,244,260,271,28,33.9,45.9,52.8,84,88,172
+5,Bamna,64,66,70,79,34,46.5,64.2,61.1,21,23,44
+6,Barguna Sadar,200,220,238,262,33,37.8,55.2,61.8,89,93,182
+7,Betagi,115,111,119,117,38,47.0,59.7,60.1,38,40,78
+8,Patharghata,122,135,162,164,43,46.4,63.2,60.5,47,50,97
+9,Total,733,776,849,893,35.2,42.3,55.3,57.6,270,286,556

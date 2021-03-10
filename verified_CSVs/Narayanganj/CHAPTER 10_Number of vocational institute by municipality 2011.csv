@@ -1,9 +1,10 @@
 ,0,1,2,3
 0,Number of vocational institute by municipality 2011,,,
-1,,,,
-2,Upazila,Number of institution,Number of teacher,Number of student
-3,Bandar,1,29,13
-4,Narayanganj Sadar,5,148,90
-5,Rupganj,2,53,19
-6,Sonargaon,1,0,0
-7,Total,9,230,122
+1,Narayanganj,,,
+2,,,,
+3,Upazila,Number of institution,Number of teacher,Number of student
+4,Bandar,1,29,13
+5,Narayanganj Sadar,5,148,90
+6,Rupganj,2,53,19
+7,Sonargaon,1,0,0
+8,Total,9,230,122

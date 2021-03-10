@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Aditmari,10,15,108,123
-4,Hatibandha,10,20,40,60
-5,Kaligonj,15,30,32,62
-6,Lalmonirhat Sadar,6,9,58,67
-7,Patgram,4,11,22,33
-8,Total,45,85,260,345
+1,Lalmonirhat,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Aditmari,10,15,108,123
+5,Hatibandha,10,20,40,60
+6,Kaligonj,15,30,32,62
+7,Lalmonirhat Sadar,6,9,58,67
+8,Patgram,4,11,22,33
+9,Total,45,85,260,345

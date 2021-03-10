@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,,,,,,,,
-2,Upazila Upazila 1,Household Household 2,Population (000) Male 3,Population (000) Female 4,Population (000) Both sex 5,Sex ratio (M/F) Sex ratio (M/F) 6,Average size of household Average size of household 7,Density per sq. km. Density per sq. km. 8
-3,Atgharia,38435,78,79,157,99,4.09,845
-4,Bera,57436,128,128,256,100,4.47,1055
-5,Bhangura,28853,62,63,125,99,4.30,899
-6,Chatmohar,70260,145,146,291,99,4.14,939
-7,Faridpur,30845,65,65,130,100,4.22,947
-8,Ishwardi,73373,158,156,314,101,4.27,1251
-9,Pabna Sadar,138839,297,294,591,101,4.21,1345
-10,Santhia,89032,191,189,380,101,4.27,1147
-11,Sujanagar,63676,139,140,279,99,4.36,821
-12,Total,590749,1263,1260,2523,100,4.25,1062
+1,Pabna,,,,,,,
+2,,,,,,,,
+3,Upazila Upazila 1,Household Household 2,Population (000) Male 3,Population (000) Female 4,Population (000) Both sex 5,Sex ratio (M/F) Sex ratio (M/F) 6,Average size of household Average size of household 7,Density per sq. km. Density per sq. km. 8
+4,Atgharia,38435,78,79,157,99,4.09,845
+5,Bera,57436,128,128,256,100,4.47,1055
+6,Bhangura,28853,62,63,125,99,4.30,899
+7,Chatmohar,70260,145,146,291,99,4.14,939
+8,Faridpur,30845,65,65,130,100,4.22,947
+9,Ishwardi,73373,158,156,314,101,4.27,1251
+10,Pabna Sadar,138839,297,294,591,101,4.21,1345
+11,Santhia,89032,191,189,380,101,4.27,1147
+12,Sujanagar,63676,139,140,279,99,4.36,821
+13,Total,590749,1263,1260,2523,100,4.25,1062

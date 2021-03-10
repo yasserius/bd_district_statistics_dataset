@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,,,,,
-2,(Production in metric ton) -  Upazila,(Production in metric ton) - 2010-11 - Number,(Production in metric ton) - 2010-11 - Production,(Production in metric ton) - 2009-10. - Number,(Production in metric ton) - 2009-10. - Production
-3,Alamdanga,573,228300,570,228000
-4,Chuadanga Sadar,560,2701,560,3723
-5,Damurhuda,1100,873.2,1100,872.12
-6,Jibonnagar,514,1986,512,1961
-7,Total,2747,233860.2,2742,234556.12
+1,Chuadanga,,,,
+2,,,,,
+3,(Production in metric ton) -  Upazila,(Production in metric ton) - 2010-11 - Number,(Production in metric ton) - 2010-11 - Production,(Production in metric ton) - 2009-10. - Number,(Production in metric ton) - 2009-10. - Production
+4,Alamdanga,573,228300,570,228000
+5,Chuadanga Sadar,560,2701,560,3723
+6,Damurhuda,1100,873.2,1100,872.12
+7,Jibonnagar,514,1986,512,1961
+8,Total,2747,233860.2,2742,234556.12

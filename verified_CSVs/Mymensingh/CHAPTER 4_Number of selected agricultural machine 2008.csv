@@ -1,17 +1,18 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,,,,
-2, Upazila, Number of power tiller, Tractor,Number of threshing machine
-3,Bhaluka,150,0,210
-4,Dhobaura,234,34,376
-5,Fulbaria,174,124,335
-6,Gaffargaon,170,128,500
-7,Gauripur,1380,3,1518
-8,Haluaghat,365,0,478
-9,Ishwargonj,700,0,18700
-10,Muktagacha,272,82,342
-11,Mymensingh Sadar,333,205,476
-12,Nandail,1220,127,497
-13,Phulpur,929,5,126
-14,Trishal,139,88,747
-15,Total,6066,796,24305
+1,Mymensingh,,,
+2,,,,
+3, Upazila, Number of power tiller, Tractor,Number of threshing machine
+4,Bhaluka,150,0,210
+5,Dhobaura,234,34,376
+6,Fulbaria,174,124,335
+7,Gaffargaon,170,128,500
+8,Gauripur,1380,3,1518
+9,Haluaghat,365,0,478
+10,Ishwargonj,700,0,18700
+11,Muktagacha,272,82,342
+12,Mymensingh Sadar,333,205,476
+13,Nandail,1220,127,497
+14,Phulpur,929,5,126
+15,Trishal,139,88,747
+16,Total,6066,796,24305

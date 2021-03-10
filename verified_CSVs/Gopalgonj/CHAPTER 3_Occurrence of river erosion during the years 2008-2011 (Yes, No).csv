@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,"Occurrence of river erosion during the years 2008-2011 (Yes, No)",,,,
-1,,,,,
-2,Upazila,2008,2009,2010,2011
-3,Gopalganj Sadar,No,No,No,No
-4,Kashiani,No,No,No,No
-5,Kotalipara,No,No,No,No
-6,Muksudpur,Yes,Yes,Yes,Yes
-7,Tungipara,Yes,No,No,No
+1,Gopalgonj,,,,
+2,,,,,
+3,Upazila,2008,2009,2010,2011
+4,Gopalganj Sadar,No,No,No,No
+5,Kashiani,No,No,No,No
+6,Kotalipara,No,No,No,No
+7,Muksudpur,Yes,Yes,Yes,Yes
+8,Tungipara,Yes,No,No,No

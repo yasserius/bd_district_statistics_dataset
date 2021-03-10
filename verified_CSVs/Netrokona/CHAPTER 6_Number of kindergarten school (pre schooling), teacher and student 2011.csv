@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kindergarten school (pre schooling), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of kindergarten school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Atpara,3,15,8,23,281,210,491,21
-4,Barhatta,12,37,49,86,795,593,1388,16
-5,Durgapur,8,37,37,74,718,726,1444,20
-6,Kalmakanda,4,8,12,20,496,559,1055,52
-7,Kendua,40,266,178,444,3567,2600,6167,14
-8,Khaliajuri,5,23,14,37,473,316,789,21
-9,Madan,15,67,70,137,1480,1533,3013,22
-10,Mohanganj,12,28,20,48,270,230,500,10
-11,Netrokona Sadar,42,104,70,174,2612,2502,5114,30
-12,Purbadhala,18,36,58,94,778,975,1753,19
-13,Total,159,621,516,1137,11470,10244,21714,619
+1,Netrokona,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of kindergarten school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Atpara,3,15,8,23,281,210,491,21
+5,Barhatta,12,37,49,86,795,593,1388,16
+6,Durgapur,8,37,37,74,718,726,1444,20
+7,Kalmakanda,4,8,12,20,496,559,1055,52
+8,Kendua,40,266,178,444,3567,2600,6167,14
+9,Khaliajuri,5,23,14,37,473,316,789,21
+10,Madan,15,67,70,137,1480,1533,3013,22
+11,Mohanganj,12,28,20,48,270,230,500,10
+12,Netrokona Sadar,42,104,70,174,2612,2502,5114,30
+13,Purbadhala,18,36,58,94,778,975,1753,19
+14,Total,159,621,516,1137,11470,10244,21714,619

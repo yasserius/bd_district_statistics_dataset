@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,"Number of registered rickshaw, van, easy bike and auto-rickshaw 2011",,,,
-1,,,,,
-2,Upazila,Rickshaw,Van,Easy bike and auto-rickshaw,Tempo
-3,Aditmari,635,358,65,15
-4,Hatibandha,650,500,120,100
-5,Kaligonj,186,97,67,15
-6,Lalmonirhat Sadar,1500,700,537,21
-7,Patgram,148,55,78,8
-8,Total,3119,1710,867,159
+1,Lalmonirhat,,,,
+2,,,,,
+3,Upazila,Rickshaw,Van,Easy bike and auto-rickshaw,Tempo
+4,Aditmari,635,358,65,15
+5,Hatibandha,650,500,120,100
+6,Kaligonj,186,97,67,15
+7,Lalmonirhat Sadar,1500,700,537,21
+8,Patgram,148,55,78,8
+9,Total,3119,1710,867,159

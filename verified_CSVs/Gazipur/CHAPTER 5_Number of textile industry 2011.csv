@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Number of textile industry 2011,,,,,,
-1,,,,,,,
-2, Upazila, Number of mill,Installed capacity - Spindle,Installed capacity - Loom,Person engaged - Male,Person engaged - Female,Person engaged - Total
-3,Gazipur Sadar,73,0,0,48899,58509,107408
-4,Kaliakair,35,0,0,8050,11200,19250
-5,Kaliganj,0,0,0,0,0,0
-6,Kapashia,0,0,0,0,0,0
-7,Sreepur,19,6,13,8380,10940,19320
-8,Total,127,6,13,65329,80649,145978
+1,Gazipur,,,,,,
+2,,,,,,,
+3, Upazila, Number of mill,Installed capacity - Spindle,Installed capacity - Loom,Person engaged - Male,Person engaged - Female,Person engaged - Total
+4,Gazipur Sadar,73,0,0,48899,58509,107408
+5,Kaliakair,35,0,0,8050,11200,19250
+6,Kaliganj,0,0,0,0,0,0
+7,Kapashia,0,0,0,0,0,0
+8,Sreepur,19,6,13,8380,10940,19320
+9,Total,127,6,13,65329,80649,145978

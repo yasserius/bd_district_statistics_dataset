@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building material 2011,,,,,,
-1,(Price in taka),,,,,,
-2,Upazila,Brick-01 (per1000),Cement (per 50 kg bag),Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
-3,Bhedarganj,8000,430,59000,40,15,100
-4,Damudya,7200,450,60000,26,14,125
-5,Gosairhat,7000,460,70200,28,12,60
-6,Naria,8000,400,60000,15,12,0
-7,Shariatpur Sadar,6500,450,62000,16,22,0
-8,Zanjira,5500,450,57000,40,20,115
-9,Average,7033,440,61367,28,16,100
+1,Shariatpur,,,,,,
+2,(Price in taka),,,,,,
+3,Upazila,Brick-01 (per1000),Cement (per 50 kg bag),Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
+4,Bhedarganj,8000,430,59000,40,15,100
+5,Damudya,7200,450,60000,26,14,125
+6,Gosairhat,7000,460,70200,28,12,60
+7,Naria,8000,400,60000,15,12,0
+8,Shariatpur Sadar,6500,450,62000,16,22,0
+9,Zanjira,5500,450,57000,40,20,115
+10,Average,7033,440,61367,28,16,100

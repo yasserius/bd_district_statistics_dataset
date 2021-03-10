@@ -1,10 +1,11 @@
 ,0,1,2,3
 0,Number of vocational institute by municipality 2011,,,
-1,,,,
-2,Municipality,Number of institution,Number of teacher,Number of student
-3,Chhagalnaiya,0,0,0
-4,Daganbhuiyan,0,0,0
-5,Feni Sadar,1,14,617
-6,Parshuram,0,0,0
-7,Sonagazi,0,0,0
-8,Total,1,14,617
+1,Feni,,,
+2,,,,
+3,Municipality,Number of institution,Number of teacher,Number of student
+4,Chhagalnaiya,0,0,0
+5,Daganbhuiyan,0,0,0
+6,Feni Sadar,1,14,617
+7,Parshuram,0,0,0
+8,Sonagazi,0,0,0
+9,Total,1,14,617

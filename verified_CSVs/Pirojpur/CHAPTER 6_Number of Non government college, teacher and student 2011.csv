@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Non government college, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of  college,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Bhandaria,3,78,19,97,606,1219,1825,19
-4,Kawkhali,2,60,43,103,622,862,1484,14
-5,Mathbaria,6,85,35,120,1884,1256,3140,26
-6,Nazirpur,8,162,41,203,1721,2057,3778,19
-7,Nesarabad,9,154,45,199,1502,2763,4265,21
-8,Pirojpur Sadar,2,34,15,39,436,371,831,21
-9,Zianagar,2,40,9,49,409,485,894,18
-10,Total,32,613,207,810,7180,9013,16217,20
+1,Pirojpur,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of  college,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Bhandaria,3,78,19,97,606,1219,1825,19
+5,Kawkhali,2,60,43,103,622,862,1484,14
+6,Mathbaria,6,85,35,120,1884,1256,3140,26
+7,Nazirpur,8,162,41,203,1721,2057,3778,19
+8,Nesarabad,9,154,45,199,1502,2763,4265,21
+9,Pirojpur Sadar,2,34,15,39,436,371,831,21
+10,Zianagar,2,40,9,49,409,485,894,18
+11,Total,32,613,207,810,7180,9013,16217,20

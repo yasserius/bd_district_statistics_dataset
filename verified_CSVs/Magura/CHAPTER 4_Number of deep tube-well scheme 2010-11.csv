@@ -1,9 +1,10 @@
 ,0,1,2,3
 0,Number of deep tube-well scheme 2010-11,,,
-1,,,,
-2,Upazila,Number of deep tube-well Commissioned,Number of deep tube-well Operated,Area irrigated (In acre)
-3,Magura Sadar,0,5,379
-4,Mohammadpur,0,4,0
-5,Shalikha,9,7,810
-6,Sreepur,0,0,0
-7,Total,0,16,1189
+1,Magura,,,
+2,,,,
+3,Upazila,Number of deep tube-well Commissioned,Number of deep tube-well Operated,Area irrigated (In acre)
+4,Magura Sadar,0,5,379
+5,Mohammadpur,0,4,0
+6,Shalikha,9,7,810
+7,Sreepur,0,0,0
+8,Total,0,16,1189

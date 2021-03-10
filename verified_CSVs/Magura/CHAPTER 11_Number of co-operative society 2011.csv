@@ -1,9 +1,10 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,,,,
-2,Upazila,Number,Number of employee,Number of client
-3,Magura Sadar,99,75,10447
-4,Mohammadpur,286,29,14693
-5,Shalikha,375,40,12606
-6,Sreepur,212,16,10575
-7,Total,972,160,48321
+1,Magura,,,
+2,,,,
+3,Upazila,Number,Number of employee,Number of client
+4,Magura Sadar,99,75,10447
+5,Mohammadpur,286,29,14693
+6,Shalikha,375,40,12606
+7,Sreepur,212,16,10575
+8,Total,972,160,48321

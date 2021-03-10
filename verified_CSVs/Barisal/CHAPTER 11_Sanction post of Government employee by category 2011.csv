@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5
 0,Sanction post of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila/city corporation,Class-I,Class-II,Class-III,Class-IV,Number of total employee
-3,Agailjhara,12,13,633,78,774
-4,Babuganj,25,26,594,161,806
-5,Bakerganj,69,45,1278,163,1555
-6,Banaripara,41,21,288,165,515
-7,Barisal city corporation,502,354,12242,274,13372
-8,Barisal sadar,31,26,539,102,698
-9,Gaurnadi,17,19,117,53,206
-10,Hizla,44,23,318,93,478
-11,Mehendiganj,47,43,432,135,657
-12,Muladi,44,23,318,93,478
-13,Wazirpur,38,48,346,188,620
-14,Total,870,641,17105,1505,20159
+1,Barisal,,,,,
+2,,,,,,
+3,Upazila/city corporation,Class-I,Class-II,Class-III,Class-IV,Number of total employee
+4,Agailjhara,12,13,633,78,774
+5,Babuganj,25,26,594,161,806
+6,Bakerganj,69,45,1278,163,1555
+7,Banaripara,41,21,288,165,515
+8,Barisal city corporation,502,354,12242,274,13372
+9,Barisal Sadar,31,26,539,102,698
+10,Gaurnadi,17,19,117,53,206
+11,Hizla,44,23,318,93,478
+12,Mehendiganj,47,43,432,135,657
+13,Muladi,44,23,318,93,478
+14,Wazirpur,38,48,346,188,620
+15,Total,870,641,17105,1505,20159

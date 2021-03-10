@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5
 0,"Number of non-registered rickshaw, van, easy-bike and auto-rickshaw 2011",,,,,
-1,,,,,,
-2, Upazila, Rickshaw, Van,Easy -bike and auto- rickshaw, Tempo,Nochimon/ Korimon/ Bhotvoti
-3,Badarganj,300,322,6,0,52
-4,Gangachara,124,242,18,11,22
-5,Kaunia,60,115,0,0,2
-6,Mithapukur,130,1375,0,0,385
-7,Pirgachha,2500,4050,40,0,80
-8,Pirganj,400,3600,70,25,260
-9,Rangpur sadar,17000,500,0,105,300
-10,Taraganj,158,1390,23,2,62
-11,Total,20672,11594,157,143,1163
+1,Rangpur,,,,,
+2,,,,,,
+3, Upazila, Rickshaw, Van,Easy -bike and auto- rickshaw, Tempo,Nochimon/ Korimon/ Bhotvoti
+4,Badarganj,300,322,6,0,52
+5,Gangachara,124,242,18,11,22
+6,Kaunia,60,115,0,0,2
+7,Mithapukur,130,1375,0,0,385
+8,Pirgachha,2500,4050,40,0,80
+9,Pirganj,400,3600,70,25,260
+10,Rangpur Sadar,17000,500,0,105,300
+11,Taraganj,158,1390,23,2,62
+12,Total,20672,11594,157,143,1163

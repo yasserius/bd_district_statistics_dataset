@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of cold storage and capacity in following years,,,,
-1,,,,,
-2, Upazila,2010-11 - Number,2010-11 - Installed capacity,2009-10 - Number,2009-10 - Installed capacity
-3,Araihazar,0,0,0,0
-4,Bandar,0,0,0,0
-5,Narayanganj Sadar,6,24800,6,24800
-6,Rupganj,0,0,0,0
-7,Sonargaon,1,6500,1,6500
-8,Total,7,31300,7,31300
+1,Narayanganj,,,,
+2,,,,,
+3, Upazila,2010-11 - Number,2010-11 - Installed capacity,2009-10 - Number,2009-10 - Installed capacity
+4,Araihazar,0,0,0,0
+5,Bandar,0,0,0,0
+6,Narayanganj Sadar,6,24800,6,24800
+7,Rupganj,0,0,0,0
+8,Sonargaon,1,6500,1,6500
+9,Total,7,31300,7,31300

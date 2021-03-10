@@ -1,13 +1,14 @@
 ,0,1,2,3
 0,Length of railway and water way 2011,,,
-1,(Kilometer),,,
-2, Upazila,"Total railway (all broad gage, meter gage  duel gage)",Water way in monsoon (river + canal),Water way round the year (river + canal)
-3,Abhaynagar,13,53,25
-4,Bagherpara,0,29,12
-5,Chaugachha,0,0,0
-6,Jessore Sadar,55,0,0
-7,Jhikargachha,14,0,0
-8,Keshabpur,0,132,0
-9,Manirampur,0,0,0
-10,Sharsha,13,0,0
-11,Total,95,214,37
+1,Jessore,,,
+2,(Kilometer),,,
+3, Upazila,"Total railway (all broad gage, meter gage  duel gage)",Water way in monsoon (river + canal),Water way round the year (river + canal)
+4,Abhaynagar,13,53,25
+5,Bagherpara,0,29,12
+6,Chaugachha,0,0,0
+7,Jessore Sadar,55,0,0
+8,Jhikargachha,14,0,0
+9,Keshabpur,0,132,0
+10,Manirampur,0,0,0
+11,Sharsha,13,0,0
+12,Total,95,214,37

@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of different club and store 2011,,,,
-1,,,,,
-2,Upazila,Sports club,Cultural club,Science club,Other social club
-3,Bakshiganj,0,1,0,1
-4,Dewanganj,1,7,0,5
-5,Islampur,0,0,0,1
-6,Jamalpur Sadar,15,21,3,67
-7,Madarganj,0,1,0,79
-8,Melandaha,4,5,0,1
-9,Sarishabari,0,3,0,127
-10,Total,20,38,3,281
+1,Jamalpur,,,,
+2,,,,,
+3,Upazila,Sports club,Cultural club,Science club,Other social club
+4,Bakshiganj,0,1,0,1
+5,Dewanganj,1,7,0,5
+6,Islampur,0,0,0,1
+7,Jamalpur Sadar,15,21,3,67
+8,Madarganj,0,1,0,79
+9,Melandaha,4,5,0,1
+10,Sarishabari,0,3,0,127
+11,Total,20,38,3,281

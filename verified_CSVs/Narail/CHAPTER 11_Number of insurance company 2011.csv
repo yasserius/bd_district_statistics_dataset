@@ -1,8 +1,9 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,,,,
-2,Upazila,Number of insurance company,Number of employee,Number of client
-3,Kalia,4,10,2800
-4,Lohagara,2,27,378
-5,Narail Sadar,12,227,29724
-6,Total,18,264,32902
+1,Narail,,,
+2,,,,
+3,Upazila,Number of insurance company,Number of employee,Number of client
+4,Kalia,4,10,2800
+5,Lohagara,2,27,378
+6,Narail Sadar,12,227,29724
+7,Total,18,264,32902

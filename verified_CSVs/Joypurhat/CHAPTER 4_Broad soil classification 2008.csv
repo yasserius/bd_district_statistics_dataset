@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Broad soil classification 2008,,,,,,
-1,,,,,,,
-2, Upazila, Total,Soil classification - Doash,Soil classification - Bele,Soil classification - Etel,Soil classification - Kankar,Soil classification - Others
-3,Akkelpur,35134,8617,0,26075,0,3595
-4,Joypurhat sadar,61388,40388,650,15930,0,0
-5,Kalai,39771,35770,0,0,0,5322
-6,Khetlal,34666,32500,0,2741,0,0
-7,Panchbibi,67382,30970,1376,36476,0,29
-8,Total,238341,148245,2026,81222,0,8946
+1,Joypurhat,,,,,,
+2,,,,,,,
+3, Upazila, Total,Soil classification - Doash,Soil classification - Bele,Soil classification - Etel,Soil classification - Kankar,Soil classification - Others
+4,Akkelpur,35134,8617,0,26075,0,3595
+5,Joypurhat sadar,61388,40388,650,15930,0,0
+6,Kalai,39771,35770,0,0,0,5322
+7,Khetlal,34666,32500,0,2741,0,0
+8,Panchbibi,67382,30970,1376,36476,0,29
+9,Total,238341,148245,2026,81222,0,8946

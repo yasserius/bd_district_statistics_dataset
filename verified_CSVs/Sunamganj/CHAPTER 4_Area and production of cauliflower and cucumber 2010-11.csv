@@ -1,16 +1,17 @@
 ,0,1,2,3,4
 0,Area and production of cauliflower and cucumber 2010-11,,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
-3,Bishwamvarpur,175,700,8,12
-4,Chhatak,17,30,18,36
-5,Dakshin Sunamganj,10,40,0,0
-6,Derai,25,316,2,12
-7,Dharmapasha,0,0,0,0
-8,Doarabazar,29,44,19,10
-9,Jagannathpur,19,49,0,0
-10,Jamalganj,0,0,0,0
-11,Shalla,0,0,0,0
-12,Sunamganj Sadar,140,480,15,82
-13,Tahirpur,0,0,0,0
-14,Total,415,1659,62,152
+1,Sunamganj,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
+4,Bishwamvarpur,175,700,8,12
+5,Chhatak,17,30,18,36
+6,Dakshin Sunamganj,10,40,0,0
+7,Derai,25,316,2,12
+8,Dharmapasha,0,0,0,0
+9,Doarabazar,29,44,19,10
+10,Jagannathpur,19,49,0,0
+11,Jamalganj,0,0,0,0
+12,Shalla,0,0,0,0
+13,Sunamganj Sadar,140,480,15,82
+14,Tahirpur,0,0,0,0
+15,Total,415,1659,62,152

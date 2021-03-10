@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5
 0,Sanction post of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
-3,Badarganj,42,37,868,134,1081
-4,Gangachara,62,48,1087,170,1367
-5,Kaunia,38,41,650,158,887
-6,Mithapukur,59,48,1182,139,684
-7,Pirgachha,34,39,754,139,966
-8,Pirganj,56,42,402,110,620
-9,Rangpur sadar,862,171,4346,87,6250
-10,Taraganj,32,16,524,119,691
-11,Total,1185,442,9813,1056,12546
+1,Rangpur,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
+4,Badarganj,42,37,868,134,1081
+5,Gangachara,62,48,1087,170,1367
+6,Kaunia,38,41,650,158,887
+7,Mithapukur,59,48,1182,139,684
+8,Pirgachha,34,39,754,139,966
+9,Pirganj,56,42,402,110,620
+10,Rangpur Sadar,862,171,4346,87,6250
+11,Taraganj,32,16,524,119,691
+12,Total,1185,442,9813,1056,12546

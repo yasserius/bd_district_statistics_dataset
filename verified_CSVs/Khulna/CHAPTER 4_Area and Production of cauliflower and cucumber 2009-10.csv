@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,Area and Production of cauliflower and cucumber 2009-10,,,,
-1,(Area in acre  production in metric ton),,,,
-2,Upazila/city corporation,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
-3,Batiaghata,11,155,26,8
-4,Dacope,6,2,1,0
-5,Dighalia,27,121,12,55
-6,Dumuria,393,2427,43,40
-7,Khulna City Corporation,4,5,2,2
-8,Koyra,5,13,5,4
-9,Paikgachha,78,115,15,32
-10,Phultala,2,11,5,10
-11,Rupsa,57,208,34,31
-12,Terokhada,0,0,11,9
-13,Total,583,3056,153,193
+1,Khulna,,,,
+2,(Area in acre  production in metric ton),,,,
+3,Upazila/city corporation,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
+4,Batiaghata,11,155,26,8
+5,Dacope,6,2,1,0
+6,Dighalia,27,121,12,55
+7,Dumuria,393,2427,43,40
+8,Khulna City Corporation,4,5,2,2
+9,Koyra,5,13,5,4
+10,Paikgachha,78,115,15,32
+11,Phultala,2,11,5,10
+12,Rupsa,57,208,34,31
+13,Terokhada,0,0,11,9
+14,Total,583,3056,153,193

@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
-1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
-3,Alfadanga,95,19,271,385
-4,Bhanga,69,80,319,468
-5,Boalmari,120,25,360,505
-6,Charbhadrashon,20,26,106,152
-7,Faridpur Sadar,249,129,383,761
-8,Madhukhali,163,40,227,430
-9,Nagarkanda,63,77,290,430
-10,Sadarpur,100,77,296,473
-11,Saltha,78,54,227,359
-12,Total,957,527,2479,3963
+1,Faridpur,,,,
+2,(Kilometer),,,,
+3,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
+4,Alfadanga,95,19,271,385
+5,Bhanga,69,80,319,468
+6,Boalmari,120,25,360,505
+7,Charbhadrashon,20,26,106,152
+8,Faridpur Sadar,249,129,383,761
+9,Madhukhali,163,40,227,430
+10,Nagarkanda,63,77,290,430
+11,Sadarpur,100,77,296,473
+12,Saltha,78,54,227,359
+13,Total,957,527,2479,3963

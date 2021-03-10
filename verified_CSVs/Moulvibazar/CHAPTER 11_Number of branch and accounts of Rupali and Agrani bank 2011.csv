@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Rupali and Agrani bank 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Rupali bank - Number of branch,Rupali bank - Account - S.D,Rupali bank - Account - C.D,Rupali bank - Account - F.D,Rupali bank - Account - S.T.D,Agrani bank - Number of branch,Agrani bank - Account - S.D,Agrani bank - Account - C.D,Agrani bank - Account - F.D,Agrani bank - Account - S.T.D
-3,Barlekha,1,6720,800,23,7,0,0,0,0,0
-4,Juri,0,0,0,0,0,1,3450,32,13,3
-5,Kamalganj,1,0,0,4,6,1,3610,140,35,3
-6,Kulaura,1,76,52,1,0,5,35062,1593,447,30
-7,Moulvibazar Sadar,4,8454,1068,193,13,3,16771,1295,210,45
-8,Rajnagar,3,2506,137,58,11,1,500,75,55,5
-9,Sreemangal,2,2209,305,0,0,1,3365,165,0,0
-10,Total,12,19965,2362,279,37,12,62758,3300,760,86
+1,Moulvibazar,,,,,,,,,,
+2,,,,,,,,,,,
+3, Upazila,Rupali bank - Number of branch,Rupali bank - Account - S.D,Rupali bank - Account - C.D,Rupali bank - Account - F.D,Rupali bank - Account - S.T.D,Agrani bank - Number of branch,Agrani bank - Account - S.D,Agrani bank - Account - C.D,Agrani bank - Account - F.D,Agrani bank - Account - S.T.D
+4,Barlekha,1,6720,800,23,7,0,0,0,0,0
+5,Juri,0,0,0,0,0,1,3450,32,13,3
+6,Kamalganj,1,0,0,4,6,1,3610,140,35,3
+7,Kulaura,1,76,52,1,0,5,35062,1593,447,30
+8,Moulvibazar Sadar,4,8454,1068,193,13,3,16771,1295,210,45
+9,Rajnagar,3,2506,137,58,11,1,500,75,55,5
+10,Sreemangal,2,2209,305,0,0,1,3365,165,0,0
+11,Total,12,19965,2362,279,37,12,62758,3300,760,86

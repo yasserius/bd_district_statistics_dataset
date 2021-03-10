@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Existing position of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
-3,Baliadangi,17,27,209,69,322
-4,Haripur,10,13,343,52,418
-5,Pirgonj,40,14,210,81,345
-6,Ranisankail,24,23,179,76,302
-7,Thakurgaon Sadar,95,56,540,244,935
-8,Total,186,133,1481,522,2322
+1,Thakurgaon,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
+4,Baliadangi,17,27,209,69,322
+5,Haripur,10,13,343,52,418
+6,Pirgonj,40,14,210,81,345
+7,Ranisankail,24,23,179,76,302
+8,Thakurgaon Sadar,95,56,540,244,935
+9,Total,186,133,1481,522,2322

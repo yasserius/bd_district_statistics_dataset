@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Number of municipality, union, mauza, mahalla and village 2011",,,,,,
-1,,,,,,,
-2,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
-3,Atrai,0,0,0,8,155,200
-4,Badalgachhi,0,0,0,8,247,238
-5,Dhamoirhat,1,9,15,8,212,243
-6,Manda,0,0,0,14,299,293
-7,Mahadebpur,0,0,0,10,307,301
-8,Naogaon sadar,1,9,62,12,237,211
-9,Niamatpur,0,0,0,8,317,344
-10,Patnitala,1,9,15,11,297,297
-11,Porsha,0,0,0,6,155,246
-12,Raninagar,0,0,0,8,188,174
-13,Sapahar,0,0,0,6,151,232
-14,Total,3,27,92,99,2565,2779
+1,Naogaon,,,,,,
+2,,,,,,,
+3,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
+4,Atrai,0,0,0,8,155,200
+5,Badalgachhi,0,0,0,8,247,238
+6,Dhamoirhat,1,9,15,8,212,243
+7,Manda,0,0,0,14,299,293
+8,Mahadebpur,0,0,0,10,307,301
+9,Naogaon sadar,1,9,62,12,237,211
+10,Niamatpur,0,0,0,8,317,344
+11,Patnitala,1,9,15,11,297,297
+12,Porsha,0,0,0,6,155,246
+13,Raninagar,0,0,0,8,188,174
+14,Sapahar,0,0,0,6,151,232
+15,Total,3,27,92,99,2565,2779

@@ -1,17 +1,18 @@
 ,0,1,2,3,4
 0,Number of oil mills and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Units,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Basail,18,18,27,45
-4,Bhuapur,14,20,22,42
-5,Delduar,26,23,18,41
-6,Dhanbari,5,5,10,15
-7,Ghatail,5,10,35,45
-8,Gopalpur,8,16,8,24
-9,Kalihati,9,14,25,39
-10,Madhupur,2,2,6,8
-11,Mirzapur,30,30,30,60
-12,Nagarpur,37,45,17,62
-13,Sakhipur,5,4,14,18
-14,Tangail Sadar,21,22,42,64
-15,Total,180,209,254,463
+1,Tangail,,,,
+2,,,,,
+3,Upazila,Units,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Basail,18,18,27,45
+5,Bhuapur,14,20,22,42
+6,Delduar,26,23,18,41
+7,Dhanbari,5,5,10,15
+8,Ghatail,5,10,35,45
+9,Gopalpur,8,16,8,24
+10,Kalihati,9,14,25,39
+11,Madhupur,2,2,6,8
+12,Mirzapur,30,30,30,60
+13,Nagarpur,37,45,17,62
+14,Sakhipur,5,4,14,18
+15,Tangail Sadar,21,22,42,64
+16,Total,180,209,254,463

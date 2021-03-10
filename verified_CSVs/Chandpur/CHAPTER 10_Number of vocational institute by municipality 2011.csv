@@ -1,13 +1,14 @@
 ,0,1,2,3
 0,Number of vocational institute by municipality 2011,,,
-1,,,,
-2,Municipality,Number of institution,Number of teacher,Number of student
-3,Chandpur Sadar,1,17,643
-4,Foridganj,0,0,0
-5,Haimchar,0,0,0
-6,Hajiganj,4,22,614
-7,Kachua,1,36,1042
-8,Matlab Dakshin,0,0,0
-9,Matlab Uttar,0,0,0
-10,Shahrasti,1,4,111
-11,Total,7,79,2410
+1,Chandpur,,,
+2,,,,
+3,Municipality,Number of institution,Number of teacher,Number of student
+4,Chandpur Sadar,1,17,643
+5,Foridganj,0,0,0
+6,Haimchar,0,0,0
+7,Hajiganj,4,22,614
+8,Kachua,1,36,1042
+9,Matlab Dakshin,0,0,0
+10,Matlab Uttar,0,0,0
+11,Shahrasti,1,4,111
+12,Total,7,79,2410

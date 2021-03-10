@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Number of branch of Grameen bank 2011,,,,,,
-1,,,,,,,
-2,Upazila,Number of branch,Number of employee,Number of member,Number of account,Annual deposit (in lac tk.),Annual credit disbursed (in lac tk.)
-3,Atwari,7,44,17845,20534,700,950
-4,Boda,5,42,17666,17660,3.61,3.24
-5,Debiganj,5,35,16545,16545,3.41,3.12
-6,Panchagarh Sadar,3,23,840,872,218,7.05
-7,Tentulia,4,28,11365,148,2.92,210
-8,Total,24,172,64261,55759,1217.02,1866
+1,Panchagor,,,,,,
+2,,,,,,,
+3,Upazila,Number of branch,Number of employee,Number of member,Number of account,Annual deposit (in lac tk.),Annual credit disbursed (in lac tk.)
+4,Atwari,7,44,17845,20534,700,950
+5,Boda,5,42,17666,17660,3.61,3.24
+6,Debiganj,5,35,16545,16545,3.41,3.12
+7,Panchagarh Sadar,3,23,840,872,218,7.05
+8,Tentulia,4,28,11365,148,2.92,210
+9,Total,24,172,64261,55759,1217.02,1866

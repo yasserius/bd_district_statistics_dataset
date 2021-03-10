@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5
 0,"Number of ward, mahalla and household by municipality 2011",,,,,
-1,,,,,,
-2,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
-3,Atpara,0,0,0,0,0
-4,Barhatta,0,0,0,0,0
-5,Durgapur,Durgapur,9,28,3090,5687
-6,Kalmakanda,0,0,0,0,0
-7,Kendua,Kendua,9,32,4070,4888
-8,Khaliajuri,0,0,0,0,0
-9,Madan,Madan,9,11,3204,3639
-10,Mohanganj,Mohanganj,9,18,4000,5786
-11,Netrokona Sadar,Netrokona,9,51,11415,19627
-12,Purbadhala,0,0,0,0,0
-13,Total,-,45,140,25779,39627
+1,Netrokona,,,,,
+2,,,,,,
+3,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
+4,Atpara,0,0,0,0,0
+5,Barhatta,0,0,0,0,0
+6,Durgapur,Durgapur,9,28,3090,5687
+7,Kalmakanda,0,0,0,0,0
+8,Kendua,Kendua,9,32,4070,4888
+9,Khaliajuri,0,0,0,0,0
+10,Madan,Madan,9,11,3204,3639
+11,Mohanganj,Mohanganj,9,18,4000,5786
+12,Netrokona Sadar,Netrokona,9,51,11415,19627
+13,Purbadhala,0,0,0,0,0
+14,Total,-,45,140,25779,39627

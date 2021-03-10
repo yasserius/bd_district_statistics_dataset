@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from nationalized bank 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2,  Upazila,Number of branch of all nationalized banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
-3,Begumganj,24,4778,75,3,0,2090,1413,6871,20,206.9,13.72
-4,Chatkhil,11,3280,143,0,0,783,555,4067,698,18.62,0.5
-5,Companiganj,11,6260,1237,38,4,9893,540,16191,1781,112,14
-6,Hatiya,4,112,104,0,0,167,135,279,239,16,8
-7,Kabirhat,5,4423,350,2,0,295,0,4218,360,152.4,5.24
-8,Noakhali Sadar,15,9559,273,4,0,986,337,10549,610,4612,4.27
-9,Senbagh,8,5011,349,0,0,681,40,5982,326,28.15,3.16
-10,Sonaimuri,10,3362,87,0,0,551,416,3913,503,460,44
-11,Subarnachar,2,325,0,0,0,22,16,364,24,0.965,0.02
-12,Total,90,37110,2618,47,4,15468,3452,52434,4561,5607,92.91
+1,Noakhali,,,,,,,,,,,
+2,,,,,,,,,,,,
+3,  Upazila,Number of branch of all nationalized banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
+4,Begumganj,24,4778,75,3,0,2090,1413,6871,20,206.9,13.72
+5,Chatkhil,11,3280,143,0,0,783,555,4067,698,18.62,0.5
+6,Companiganj,11,6260,1237,38,4,9893,540,16191,1781,112,14
+7,Hatiya,4,112,104,0,0,167,135,279,239,16,8
+8,Kabirhat,5,4423,350,2,0,295,0,4218,360,152.4,5.24
+9,Noakhali Sadar,15,9559,273,4,0,986,337,10549,610,4612,4.27
+10,Senbagh,8,5011,349,0,0,681,40,5982,326,28.15,3.16
+11,Sonaimuri,10,3362,87,0,0,551,416,3913,503,460,44
+12,Subarnachar,2,325,0,0,0,22,16,364,24,0.965,0.02
+13,Total,90,37110,2618,47,4,15468,3452,52434,4561,5607,92.91

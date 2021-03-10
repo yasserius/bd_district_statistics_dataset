@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6
 0,Land area under irrigation for selected crops 2008,,,,,,
-1,,,,,,,
-2,Upazila,Paddy Total area,Paddy Irrigated area,Wheat Total area,Wheat Irrigated area,Potato Total area,Potato Irrigated area
-3,Magura Sadar,51420,56218,4998,4998,48,48
-4,Mohammadpur,43418,28826,6479,6479,11,11
-5,Shalikha,36060,35864,1614,1614,58,58
-6,Sreepur,38242,22779,7031,7031,22,22
-7,Total,169140,143688,20122,20122,139,139
+1,Magura,,,,,,
+2,,,,,,,
+3,Upazila,Paddy Total area,Paddy Irrigated area,Wheat Total area,Wheat Irrigated area,Potato Total area,Potato Irrigated area
+4,Magura Sadar,51420,56218,4998,4998,48,48
+5,Mohammadpur,43418,28826,6479,6479,11,11
+6,Shalikha,36060,35864,1614,1614,58,58
+7,Sreepur,38242,22779,7031,7031,22,22
+8,Total,169140,143688,20122,20122,139,139

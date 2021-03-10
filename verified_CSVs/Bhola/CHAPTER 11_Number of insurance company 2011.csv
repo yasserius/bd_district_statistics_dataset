@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,(Figures in lac Tk.),,,
-2, Upazila,Number of insurance company,Number of employee,Number of client
-3,Bhola Sadar,7,72,78370
-4,Burhanuddin,14,34,9342
-5,Char Fasson,5,15,932
-6,Daulatkhan,5,13,2167
-7,Lalmohan,16,38,11239
-8,Manpura,6,18,1250
-9,Tazumuddin,4,48,2795
-10,Total,57,238,106095
+1,Bhola,,,
+2,(Figures in lac Tk.),,,
+3, Upazila,Number of insurance company,Number of employee,Number of client
+4,Bhola Sadar,7,72,78370
+5,Burhanuddin,14,34,9342
+6,Char Fasson,5,15,932
+7,Daulatkhan,5,13,2167
+8,Lalmohan,16,38,11239
+9,Manpura,6,18,1250
+10,Tazumuddin,4,48,2795
+11,Total,57,238,106095

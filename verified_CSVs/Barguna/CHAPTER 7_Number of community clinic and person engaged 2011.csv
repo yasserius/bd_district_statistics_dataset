@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Number of community clinic and person engaged 2011,,,,,,
-1,,,,,,,
-2, Upazila,Number of clinic,Number of health assistant,Number of FPI,Number of FWV,Number of FWA,Number of other staff
-3,Amtali,37,55,0,0,0,37
-4,Bamna,11,26,2,2,19,2
-5,Barguna Sadar,3,3,3,3,3,3
-6,Betagi,14,0,0,0,13,0
-7,Patharghata,19,34,46,10,40,0
-8,Total,84,118,51,15,75,42
+1,Barguna,,,,,,
+2,,,,,,,
+3, Upazila,Number of clinic,Number of health assistant,Number of FPI,Number of FWV,Number of FWA,Number of other staff
+4,Amtali,37,55,0,0,0,37
+5,Bamna,11,26,2,2,19,2
+6,Barguna Sadar,3,3,3,3,3,3
+7,Betagi,14,0,0,0,13,0
+8,Patharghata,19,34,46,10,40,0
+9,Total,84,118,51,15,75,42

@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,Percentage distribution of population by type of disability 2011,,,,,,,,
-1,,,,,,,,,
-2,Upazila,Total population,All,Speech,Vision,Hearing,Physical,Mental,Autistic
-3,Daulotpur,167026,1.4,0.2,0.3,0.1,0.5,0.2,0.1
-4,Gheor,146292,1.5,0.2,0.3,0.1,0.6,0.2,0.1
-5,Harinompur,139318,1.5,0.2,0.3,0.1,0.5,0.2,0.1
-6,Manikganj Sadar,309413,1.5,0.2,0.3,0.2,0.6,0.2,0.1
-7,Saturia,171494,1.5,0.2,0.3,0.1,0.5,0.2,0.1
-8,Shibalaya,171873,1.5,0.2,0.3,0.1,0.7,0.2,0.1
-9,Singair,287451,1.5,0.2,0.3,0.2,0.5,0.2,0.1
-10,Total,1392867,1.5,0.2,0.3,0.1,0.6,0.2,0.1
+1,Manikganj,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Total population,All,Speech,Vision,Hearing,Physical,Mental,Autistic
+4,Daulotpur,167026,1.4,0.2,0.3,0.1,0.5,0.2,0.1
+5,Gheor,146292,1.5,0.2,0.3,0.1,0.6,0.2,0.1
+6,Harinompur,139318,1.5,0.2,0.3,0.1,0.5,0.2,0.1
+7,Manikganj Sadar,309413,1.5,0.2,0.3,0.2,0.6,0.2,0.1
+8,Saturia,171494,1.5,0.2,0.3,0.1,0.5,0.2,0.1
+9,Shibalaya,171873,1.5,0.2,0.3,0.1,0.7,0.2,0.1
+10,Singair,287451,1.5,0.2,0.3,0.2,0.5,0.2,0.1
+11,Total,1392867,1.5,0.2,0.3,0.1,0.6,0.2,0.1

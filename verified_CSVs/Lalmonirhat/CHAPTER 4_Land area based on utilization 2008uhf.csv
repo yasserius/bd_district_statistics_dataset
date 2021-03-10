@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization 2008,,,,,
-1,,,,,,
-2,Upazila,Total area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
-3,Aditmari,48193,905,32297,249,14742
-4,Hatibandha,71270,563,48531,593,21583
-5,Kaligonj,62575,991,40240,851,20493
-6,Lalmonirhat Sadar,65195,1822,39495,1993,21885
-7,Patgram,60999,1482,49793,348,4376
-8,Total,308232,5763,210356,4034,88079
+1,Lalmonirhat,,,,,
+2,,,,,,
+3,Upazila,Total area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
+4,Aditmari,48193,905,32297,249,14742
+5,Hatibandha,71270,563,48531,593,21583
+6,Kaligonj,62575,991,40240,851,20493
+7,Lalmonirhat Sadar,65195,1822,39495,1993,21885
+8,Patgram,60999,1482,49793,348,4376
+9,Total,308232,5763,210356,4034,88079

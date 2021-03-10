@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
-1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
-3,Kalkini,203,34,1002,1240
-4,Madaripur Sadar,174,0,645,819
-5,Rajoir,138,51,146,335
-6,Shibchar,145,125,501,7707
-7,Total,660,210,2294,3164
+1,Madaripur,,,,
+2,(Kilometer),,,,
+3,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
+4,Kalkini,203,34,1002,1240
+5,Madaripur Sadar,174,0,645,819
+6,Rajoir,138,51,146,335
+7,Shibchar,145,125,501,7707
+8,Total,660,210,2294,3164

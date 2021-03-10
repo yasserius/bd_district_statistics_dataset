@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kindergarten school (pre schooling), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of kindergarten school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Abhaynagar,12,25,32,57,674,682,1356,24
-4,Bagherpara,6,24,12,36,331,230,561,16
-5,Chaugachha,7,22,21,43,470,361,831,19
-6,Jessore Sadar,60,200,347,547,4589,4036,8625,16
-7,Jhikargachha,12,27,57,84,594,606,1200,14
-8,Keshabpur,15,30,18,48,477,466,943,20
-9,Manirampur,22,88,66,154,1821,1801,3622,24
-10,Sharsha,26,142,76,218,1935,1810,3745,17
-11,Total,160,558,629,1187,10891,9992,20883,18
+1,Jessore,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of kindergarten school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Abhaynagar,12,25,32,57,674,682,1356,24
+5,Bagherpara,6,24,12,36,331,230,561,16
+6,Chaugachha,7,22,21,43,470,361,831,19
+7,Jessore Sadar,60,200,347,547,4589,4036,8625,16
+8,Jhikargachha,12,27,57,84,594,606,1200,14
+9,Keshabpur,15,30,18,48,477,466,943,20
+10,Manirampur,22,88,66,154,1821,1801,3622,24
+11,Sharsha,26,142,76,218,1935,1810,3745,17
+12,Total,160,558,629,1187,10891,9992,20883,18

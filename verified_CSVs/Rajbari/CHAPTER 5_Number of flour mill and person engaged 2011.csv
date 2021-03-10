@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of flour mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Baliakandi,42,42,60,102
-4,Goalanda,15,15,7,22
-5,Kalukhali,18,18,35,53
-6,Pangsha,30,30,60,90
-7,Rajbari Sadar,18,25,55,80
-8,Total,123,130,217,347
+1,Rajbari,,,,
+2,,,,,
+3,Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Baliakandi,42,42,60,102
+5,Goalanda,15,15,7,22
+6,Kalukhali,18,18,35,53
+7,Pangsha,30,30,60,90
+8,Rajbari Sadar,18,25,55,80
+9,Total,123,130,217,347

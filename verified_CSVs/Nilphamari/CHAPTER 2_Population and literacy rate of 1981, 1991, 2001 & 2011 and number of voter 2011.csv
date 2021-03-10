@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Population and literacy rate of 1981, 1991, 2001  2011 and number of voter 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2, Upazila,Population (000) - 1981,Population (000) - 1991,Population (000) - 2001,Population (000) - 2011,Literacy rate () - 1981,Literacy rate () - 1991,Literacy rate () - 2001,Literacy rate () - 2011,Number of voter (000) - Male,Number of voter (000) - Female,Number of voter (000) - Total
-3,Dimla,165,188,224,283,15.8,19.4,36.2,42.2,81,82,163
-4,Domar,157,176,216,249,23.1,39.0,44.7,48.3,72,73,145
-5,Jaldhaka,205,234,275,341,13.4,18.4,33.0,37.9,98,99,197
-6,Kishorgonj,208,246,253,261,13.5,18.2,32.7,38.5,76,80,156
-7,Nilphamary Sadar,250,306,372,435,18.4,23.2,39.2,45.7,128,129,257
-8,Sayedpur,202,199,232,265,26.3,38.7,48.5,54.6,77,77,154
-9,Total,887,1349,1572,1834,18.4,25.3,38.8,44.4,532,540,1072
+1,Nilphamari,,,,,,,,,,,
+2,,,,,,,,,,,,
+3,Upazila,Population (000) - 1981,Population (000) - 1991,Population (000) - 2001,Population (000) - 2011,Literacy rate () - 1981,Literacy rate () - 1991,Literacy rate () - 2001,Literacy rate () - 2011,Number of voter (000) - Male,Number of voter (000) - Female,Number of voter (000) - Total
+4,Dimla,165,188,224,283,15.8,19.4,36.2,42.2,81,82,163
+5,Domar,157,176,216,249,23.1,39.0,44.7,48.3,72,73,145
+6,Joldhaka,205,234,275,341,13.4,18.4,33.0,37.9,98,99,197
+7,Kishorgonj,208,246,253,261,13.5,18.2,32.7,38.5,76,80,156
+8,Nilphamary Sadar,250,306,372,435,18.4,23.2,39.2,45.7,128,129,257
+9,Sayedpur,202,199,232,265,26.3,38.7,48.5,54.6,77,77,154
+10,Total,887,1349,1572,1834,18.4,25.3,38.8,44.4,532,540,1072

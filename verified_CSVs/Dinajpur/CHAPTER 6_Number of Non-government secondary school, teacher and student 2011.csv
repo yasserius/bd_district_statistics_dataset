@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Non-government secondary school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Biral,47,411,72,483,7411,7319,14730,30
-4,Birampur,42,425,112,537,6347,7245,13592,25
-5,Birganj,71,634,113,747,8710,9431,18141,24
-6,Bochaganj,50,442,100,542,5177,5899,11076,20
-7,Chirirbandar,59,572,125,697,7418,7967,15385,22
-8,Dinajpur Sadar,73,693,258,951,10067,12614,22681,24
-9,Fulbari,31,291,69,360,5863,6502,12365,34
-10,Ghoraghat,17,155,59,214,3929,3367,7296,34
-11,Hakimpur,19,169,40,209,2361,2334,4695,22
-12,Kaharole,45,436,95,531,5411,6427,11838,22
-13,Khansama,58,510,105,615,6224,5735,11959,19
-14,Nawabganj,68,508,128,636,6176,5052,11228,18
-15,Parbatipur,56,864,195,1059,11000,12050,23050,22
-16,Total,636,6110,1471,7581,86094,91942,178036,23
+1,Dinajpur,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Biral,47,411,72,483,7411,7319,14730,30
+5,Birampur,42,425,112,537,6347,7245,13592,25
+6,Birganj,71,634,113,747,8710,9431,18141,24
+7,Bochaganj,50,442,100,542,5177,5899,11076,20
+8,Chirirbandar,59,572,125,697,7418,7967,15385,22
+9,Dinajpur Sadar,73,693,258,951,10067,12614,22681,24
+10,Fulbari,31,291,69,360,5863,6502,12365,34
+11,Ghoraghat,17,155,59,214,3929,3367,7296,34
+12,Hakimpur,19,169,40,209,2361,2334,4695,22
+13,Kaharole,45,436,95,531,5411,6427,11838,22
+14,Khansama,58,510,105,615,6224,5735,11959,19
+15,Nawabganj,68,508,128,636,6176,5052,11228,18
+16,Parbatipur,56,864,195,1059,11000,12050,23050,22
+17,Total,636,6110,1471,7581,86094,91942,178036,23

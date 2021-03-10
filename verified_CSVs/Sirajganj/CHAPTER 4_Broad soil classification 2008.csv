@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Broad soil classification 2008,,,,,,
-1,,,,,,,
-2,Upazila,Total,Soil classification - Doash,Soil classification - Bele,Soil classification - Etel,Soil classification - Kankar,Soil classification - Others
-3,Belkuchi,34348,20222,6469,7657,0,0
-4,Chauhali,49960,2717,47181,62,0,0
-5,Kamarkhanda,16317,15752,225,310,0,30
-6,Kazipur,123994,34254,13469,14274,0,61997
-7,Royganj,48231,35244,2680,10307,0,0
-8,Shahjadpur,72202,47581,4617,15388,0,4616
-9,Sirajganj Sadar,82850,69265,13585,0,0,0
-10,Tarash,74330,44598,11149,14866,3717,0
-11,Ullahpara,81609,35198,28484,17927,0,0
-12,Total,583841,304831,127859,80791,3717,66643
+1,Sirajganj,,,,,,
+2,,,,,,,
+3,Upazila,Total,Soil classification - Doash,Soil classification - Bele,Soil classification - Etel,Soil classification - Kankar,Soil classification - Others
+4,Belkuchi,34348,20222,6469,7657,0,0
+5,Chauhali,49960,2717,47181,62,0,0
+6,Kamarkhanda,16317,15752,225,310,0,30
+7,Kazipur,123994,34254,13469,14274,0,61997
+8,Royganj,48231,35244,2680,10307,0,0
+9,Shahjadpur,72202,47581,4617,15388,0,4616
+10,Sirajganj Sadar,82850,69265,13585,0,0,0
+11,Tarash,74330,44598,11149,14866,3717,0
+12,Ullahpara,81609,35198,28484,17927,0,0
+13,Total,583841,304831,127859,80791,3717,66643

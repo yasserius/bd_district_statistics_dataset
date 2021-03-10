@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of rice mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Male,Person engaged - Female,Person engaged - Total
-3,Gazipur Sadar,9,50,63,225
-4,Kaliakair,36,180,360,540
-5,Kaliganj,8,16,72,88
-6,Kapashia,39,142,0,142
-7,Sreepur,3,22,28,50
-8,Total,95,410,523,1045
+1,Gazipur,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Male,Person engaged - Female,Person engaged - Total
+4,Gazipur Sadar,9,50,63,225
+5,Kaliakair,36,180,360,540
+6,Kaliganj,8,16,72,88
+7,Kapashia,39,142,0,142
+8,Sreepur,3,22,28,50
+9,Total,95,410,523,1045

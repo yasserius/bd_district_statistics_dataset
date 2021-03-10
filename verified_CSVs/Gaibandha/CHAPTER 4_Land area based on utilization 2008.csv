@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization 2008,,,,,
-1,,,,,,
-2,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
-3,Fulchhari,42023,465,29312,4905,42918
-4,Gaibandha Sadar,63714,603,49921,666,28886
-5,Gobindaganj,112471,769,95355,576,17074
-6,Palashbari,44834,629,36087,181,8877
-7,Sadullapur,54979,651,44611,36,11568
-8,Saghata,54740,379,43990,1641,11077
-9,Sundarganj,76788,437,59441,2680,28836
-10,Total,449549,3933,358717,10685,149236
+1,Gaibandha,,,,,
+2,,,,,,
+3,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
+4,Fulchhari,42023,465,29312,4905,42918
+5,Gaibandha Sadar,63714,603,49921,666,28886
+6,Gobindaganj,112471,769,95355,576,17074
+7,Palashbari,44834,629,36087,181,8877
+8,Sadullapur,54979,651,44611,36,11568
+9,Saghata,54740,379,43990,1641,11077
+10,Sundarganj,76788,437,59441,2680,28836
+11,Total,449549,3933,358717,10685,149236

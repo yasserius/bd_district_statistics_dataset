@@ -1,8 +1,9 @@
 ,0,1,2,3,4
 0,"Occurrence of storm during the year 2008-2011 (Yes, No)",,,,
-1,,,,,
-2,Upazila,2008,2009,2010,2011
-3,Magura Sadar,Yes,No,Yes,Yes
-4,Mohammadpur,Yes,No,Yes,No
-5,No Shalikha,Yes,Yes,No,Yes
-6,Sreepur,No,No,No,No
+1,Magura,,,,
+2,,,,,
+3,Upazila,2008,2009,2010,2011
+4,Magura Sadar,Yes,No,Yes,Yes
+5,Mohammadpur,Yes,No,Yes,No
+6,Shalikha,Yes,Yes,No,Yes
+7,Sreepur,No,No,No,No

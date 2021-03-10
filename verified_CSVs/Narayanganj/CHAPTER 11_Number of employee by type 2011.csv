@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,,,,,,
-2, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous bodies,Local Government employee
-3,Araihazar,88,492,18,20,131
-4,Bandar,36,3968,3968,21,25
-5,Narayanganj Sadar,1765,7736,8384,513,95
-6,Rupganj,101,3936,4292,31,75
-7,Sonargaon,70,484,4052,15,117
-8,Total,2060,16616,20714,600,443
+1,Narayanganj,,,,,
+2,,,,,,
+3, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous bodies,Local Government employee
+4,Araihazar,88,492,18,20,131
+5,Bandar,36,3968,3968,21,25
+6,Narayanganj Sadar,1765,7736,8384,513,95
+7,Rupganj,101,3936,4292,31,75
+8,Sonargaon,70,484,4052,15,117
+9,Total,2060,16616,20714,600,443

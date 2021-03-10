@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of technical and vocational institution, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila, Institution,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Bhaluka,0,0,0,0,0,0,0,0
-4,Dhubaura,0,0,0,0,0,0,0,0
-5,Fulbaria,0,0,0,0,0,0,0,0
-6,Gaffargaon,1,7,2,9,180,124,304,34
-7,Gauripur,3,34,5,39,730,580,1310,34
-8,Haluaghat,6,29,8,37,528,256,784,21
-9,Ishwargonj,0,0,0,0,0,0,0,0
-10,Muktagacha,0,0,0,0,0,0,0,0
-11,Mymensingh Sadar,8,125,39,164,5068,883,5951,36
-12,Nandail,0,0,0,0,0,0,0,0
-13,Phulpur,1,6,0,6,80,40,120,20
-14,Trishal,3,36,16,52,360,120,480,09
-15,Total,22,237,70,307,6946,2003,8949,29
+1,Mymensingh,,,,,,,,
+2,,,,,,,,,
+3, Upazila, Institution,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Bhaluka,0,0,0,0,0,0,0,0
+5,Dhubaura,0,0,0,0,0,0,0,0
+6,Fulbaria,0,0,0,0,0,0,0,0
+7,Gaffargaon,1,7,2,9,180,124,304,34
+8,Gauripur,3,34,5,39,730,580,1310,34
+9,Haluaghat,6,29,8,37,528,256,784,21
+10,Ishwargonj,0,0,0,0,0,0,0,0
+11,Muktagacha,0,0,0,0,0,0,0,0
+12,Mymensingh Sadar,8,125,39,164,5068,883,5951,36
+13,Nandail,0,0,0,0,0,0,0,0
+14,Phulpur,1,6,0,6,80,40,120,20
+15,Trishal,3,36,16,52,360,120,480,09
+16,Total,22,237,70,307,6946,2003,8949,29

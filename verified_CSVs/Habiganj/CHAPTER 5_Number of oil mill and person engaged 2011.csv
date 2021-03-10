@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of oil mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Azmirigonj,0,0,0,0
-4,Bahubal,0,0,0,0
-5,Baniachang,0,0,0,0
-6,Chunarughat,0,0,0,0
-7,Habiganj Sadar,1,0,3,3
-8,Lakhai,6,8,25,33
-9,Madhabpur,2,4,12,16
-10,Nabiganj,0,0,0,0
-11,Total,9,12,40,52
+1,Habiganj,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Azmirigonj,0,0,0,0
+5,Bahubal,0,0,0,0
+6,Baniachang,0,0,0,0
+7,Chunarughat,0,0,0,0
+8,Habiganj Sadar,1,0,3,3
+9,Lakhai,6,8,25,33
+10,Madhabpur,2,4,12,16
+11,Nabiganj,0,0,0,0
+12,Total,9,12,40,52

@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Other accommodation facility by municipality,,,,,,
-1,,,,,,,
-2, Municipality,Orphanages - Number,Orphanages - Capacity,Slum area - Area in acre,Slum area - Number H/H,Refugee camp - Area in acre,Refugee camp - Number H/H
-3,Chandpur Sadar,1,175,0,0,0,0
-4,Foridganj,2,63,0,0,5,80
-5,Haimchar,0,0,0,0,0,0
-6,Hajiganj,2,230,0,0,0,0
-7,Kachua,1,100,0,0,0,0
-8,Matlab Dakshin,10,180,0,0,0,0
-9,Matlab Uttar,0,0,0,0,0,0
-10,Shahrasti,1,40,0,0,0,0
-11,Total,17,788,0,0,5,80
+1,Chandpur,,,,,,
+2,,,,,,,
+3, Municipality,Orphanages - Number,Orphanages - Capacity,Slum area - Area in acre,Slum area - Number H/H,Refugee camp - Area in acre,Refugee camp - Number H/H
+4,Chandpur Sadar,1,175,0,0,0,0
+5,Foridganj,2,63,0,0,5,80
+6,Haimchar,0,0,0,0,0,0
+7,Hajiganj,2,230,0,0,0,0
+8,Kachua,1,100,0,0,0,0
+9,Matlab Dakshin,10,180,0,0,0,0
+10,Matlab Uttar,0,0,0,0,0,0
+11,Shahrasti,1,40,0,0,0,0
+12,Total,17,788,0,0,5,80

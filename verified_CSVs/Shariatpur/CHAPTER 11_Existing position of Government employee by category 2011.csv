@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,Existing position of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
-3,Bhedarganj,24,21,216,81,332
-4,Damudya,21,17,216,80,334
-5,Gosairhat,24,18,609,75,726
-6,Naria,41,32,796,116,985
-7,Shariatpur Sadar,25,22,560,102,709
-8,Zanjira,30,27,265,86,408
-9,Total,165,137,2662,540,3494
+1,Shariatpur,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
+4,Bhedarganj,24,21,216,81,332
+5,Damudya,21,17,216,80,334
+6,Gosairhat,24,18,609,75,726
+7,Naria,41,32,796,116,985
+8,Shariatpur Sadar,25,22,560,102,709
+9,Zanjira,30,27,265,86,408
+10,Total,165,137,2662,540,3494

@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Existing position of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
-3,Gazipur Sadar,353,156,2734,1320,4563
-4,Kaliakair,63,39,1008,211,1321
-5,Kaliganj,46,18,1002,83,1149
-6,Kapashia,51,36,1195,84,1366
-7,Sreepur,37,31,963,212,1236
-8,Total,550,280,6902,1910,9635
+1,Gazipur,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
+4,Gazipur Sadar,353,156,2734,1320,4563
+5,Kaliakair,63,39,1008,211,1321
+6,Kaliganj,46,18,1002,83,1149
+7,Kapashia,51,36,1195,84,1366
+8,Sreepur,37,31,963,212,1236
+9,Total,550,280,6902,1910,9635

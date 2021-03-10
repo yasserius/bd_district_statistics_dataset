@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6,7
 0,Average price of some selected items 2011,,,,,,,
-1,"(Price Unit per Kg, taka)",,,,,,,
-2,Upazila/city corporation,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (aata),Potato,Soyabean oil
-3,Bagha,43,34,29,24,28,10,120
-4,Baghmara,40,38,33,23,26,10,130
-5,Charghat,38,32,28,23,30,10,135
-6,Durgapur,45,32,25,22,26,10,127
-7,Godagari,43,32,26,20,25,12,125
-8,Mohanpur,44,34,25,25,28,10,120
-9,Paba,42,34,25,26,30,12,127
-10,Puthia,45,38,32,27,30,10,126
-11,Rajshahi city corporation,51,46,34,25,28,10,133
-12,Tanore,45,34,24,26,28,12,130
-13,District Average,44,35,28,24,28,11,127.3
+1,Rajshahi,,,,,,,
+2,"(Price Unit per Kg, taka)",,,,,,,
+3,Upazila/city corporation,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (aata),Potato,Soyabean oil
+4,Bagha,43,34,29,24,28,10,120
+5,Baghmara,40,38,33,23,26,10,130
+6,Charghat,38,32,28,23,30,10,135
+7,Durgapur,45,32,25,22,26,10,127
+8,Godagari,43,32,26,20,25,12,125
+9,Mohanpur,44,34,25,25,28,10,120
+10,Paba,42,34,25,26,30,12,127
+11,Puthia,45,38,32,27,30,10,126
+12,Rajshahi City Corporation,51,46,34,25,28,10,133
+13,Tanore,45,34,24,26,28,12,130
+14,District Average,44,35,28,24,28,11,127.3

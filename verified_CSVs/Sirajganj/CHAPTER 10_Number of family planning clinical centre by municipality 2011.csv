@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,Number of family planning clinical centre by municipality 2011,,,,,
-1,,,,,,
-2, Upazila,Sterilization centre, Mobile centre, Injection centre,Menstrual regularization centre,Family welfare centre
-3,Belkuchi,1,0,1,1,1
-4,Kazipur,1,3,8,8,8
-5,Royganj,1,0,1,1,1
-6,Shahjadpur,0,0,1,1,0
-7,Sirajganj Sadar,1,0,1,1,0
-8,Ullahpara,1,0,1,1,0
-9,Ttotal,5,3,13,13,10
+1,Sirajganj,,,,,
+2,,,,,,
+3,Upazila,Sterilization centre, Mobile centre, Injection centre,Menstrual regularization centre,Family welfare centre
+4,Belkuchi,1,0,1,1,1
+5,Kazipur,1,3,8,8,8
+6,Royganj,1,0,1,1,1
+7,Shahjadpur,0,0,1,1,0
+8,Sirajganj Sadar,1,0,1,1,0
+9,Ullahpara,1,0,1,1,0
+10,Total,5,3,13,13,10

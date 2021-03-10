@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in metric ton),,,,
-2,Upazila,2010-11 Number,2010-11 Production,2009-10 Number,2009-10 Production
-3,Magura Sadar,2895,3663,2930,3831
-4,Mohammadpur,1487,3438,1490,3046
-5,Shalikha,3870,403,3860,404
-6,Sreepur,3400,245,3200,220
-7,Total,11652,7749,11480,7501
+1,Magura,,,,
+2,(Production in metric ton),,,,
+3,Upazila,2010-11 Number,2010-11 Production,2009-10 Number,2009-10 Production
+4,Magura Sadar,2895,3663,2930,3831
+5,Mohammadpur,1487,3438,1490,3046
+6,Shalikha,3870,403,3860,404
+7,Sreepur,3400,245,3200,220
+8,Total,11652,7749,11480,7501

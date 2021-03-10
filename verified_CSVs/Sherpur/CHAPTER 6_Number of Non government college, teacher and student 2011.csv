@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Non government college, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila,Number of college,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Jhenaigati,3,69,9,78,294,320,614,8
-4,Nakla,3,62,19,81,1021,1061,2082,26
-5,Nalitabari,2,49,12,61,635,1119,1754,29
-6,Sherpur Sadar,7,84,30,114,1522,1428,2950,26
-7,Sreebardi,1,5,3,8,0,346,346,43
-8,Total,16,269,73,342,3472,4274,7746,23
+1,Sherpur,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of college,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Jhenaigati,3,69,9,78,294,320,614,8
+5,Nakla,3,62,19,81,1021,1061,2082,26
+6,Nalitabari,2,49,12,61,635,1119,1754,29
+7,Sherpur Sadar,7,84,30,114,1522,1428,2950,26
+8,Sreebardi,1,5,3,8,0,346,346,43
+9,Total,16,269,73,342,3472,4274,7746,23

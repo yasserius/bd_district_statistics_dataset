@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Number of branch of Grameen bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of member,Number of account
-3,Begumganj,7,63,19236,24500
-4,Chatkhil,10,88,26059,24752
-5,Companiganj,5,27,8347,8347
-6,Hatiya,4,32,6983,11700
-7,Kabirhat,6,40,8016,9118
-8,Noakhali Sadar,4,41,14531,14531
-9,Senbagh,4,27,11861,11861
-10,Sonaimuri,4,24,9330,9330
-11,Subarnachar,0,0,0,0
-12,Total,44,342,104363,114139
+1,Noakhali,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of member,Number of account
+4,Begumganj,7,63,19236,24500
+5,Chatkhil,10,88,26059,24752
+6,Companiganj,5,27,8347,8347
+7,Hatiya,4,32,6983,11700
+8,Kabirhat,6,40,8016,9118
+9,Noakhali Sadar,4,41,14531,14531
+10,Senbagh,4,27,11861,11861
+11,Sonaimuri,4,24,9330,9330
+12,Subarnachar,0,0,0,0
+13,Total,44,342,104363,114139

@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Tomato - Area,Tomato - Production,Radish - Area,Radish - Production,Bean - Area,Bean - Production
-3,Abhaynagar,95,361,67,281,82,247
-4,Bagherpara,94,395,147,604,182,764
-5,Chaugachha,223,646,453,1812,379,1469
-6,Jessore Sadar,139,583,646,1990,1135,2746
-7,Jhikargachha,318,1367,360,1656,300,990
-8,Keshabpur,119,396,133,404,99,346
-9,Manirampur,289,1228,397,1788,865,3104
-10,Sharsha,150,750,121,677,96,192
-11,Total,1427,5726,2324,9212,3138,9858
+1,Jessore,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Tomato - Area,Tomato - Production,Radish - Area,Radish - Production,Bean - Area,Bean - Production
+4,Abhaynagar,95,361,67,281,82,247
+5,Bagherpara,94,395,147,604,182,764
+6,Chaugachha,223,646,453,1812,379,1469
+7,Jessore Sadar,139,583,646,1990,1135,2746
+8,Jhikargachha,318,1367,360,1656,300,990
+9,Keshabpur,119,396,133,404,99,346
+10,Manirampur,289,1228,397,1788,865,3104
+11,Sharsha,150,750,121,677,96,192
+12,Total,1427,5726,2324,9212,3138,9858

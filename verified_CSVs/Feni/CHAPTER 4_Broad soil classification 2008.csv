@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Broad soil classification 2008,,,,,,
-1,,,,,,,
-2, Upazila, Total,Soil classification - Doash,Soil classification - Bele,Soil classification - Etel,Soil classification - Kankar,Soil classification - Others
-3,Chhagalnaiya,32900,26145,3225,3530,0,0
-4,Daganbhuiyan,35017,22761,5252,7004,0,0
-5,Feni Sadar,54631,39870,4230,10531,0,0
-6,Fulgazi,17389,15650,0,1739,0,0
-7,Parshuram,21253,14877,3188,2125,1063,0
-8,Sonagazi,58443,49280,2113,704,0,6336
-9,Total,219633,168583,18008,25633,1063,6336
+1,Feni,,,,,,
+2,,,,,,,
+3, Upazila, Total,Soil classification - Doash,Soil classification - Bele,Soil classification - Etel,Soil classification - Kankar,Soil classification - Others
+4,Chhagalnaiya,32900,26145,3225,3530,0,0
+5,Daganbhuiyan,35017,22761,5252,7004,0,0
+6,Feni Sadar,54631,39870,4230,10531,0,0
+7,Fulgazi,17389,15650,0,1739,0,0
+8,Parshuram,21253,14877,3188,2125,1063,0
+9,Sonagazi,58443,49280,2113,704,0,6336
+10,Total,219633,168583,18008,25633,1063,6336

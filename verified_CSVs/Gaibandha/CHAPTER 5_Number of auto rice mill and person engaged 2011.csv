@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of auto rice mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Male,Person engaged - Female,Person engaged - Total
-3,Fulchhari,0,0,0,0
-4,Gaibandha Sadar,0,0,0,0
-5,Gobindaganj,2,4,17,21
-6,Palashbari,0,0,0,0
-7,Sadullapur,0,0,0,0
-8,Saghata,1,2,7,9
-9,Sundarganj,0,0,0,0
-10,total,3,6,24,30
+1,Gaibandha,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Male,Person engaged - Female,Person engaged - Total
+4,Fulchhari,0,0,0,0
+5,Gaibandha Sadar,0,0,0,0
+6,Gobindaganj,2,4,17,21
+7,Palashbari,0,0,0,0
+8,Sadullapur,0,0,0,0
+9,Saghata,1,2,7,9
+10,Sundarganj,0,0,0,0
+11,Total,3,6,24,30

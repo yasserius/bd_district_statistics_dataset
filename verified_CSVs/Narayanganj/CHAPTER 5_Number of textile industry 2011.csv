@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Number of textile industry 2011,,,,,,
-1,,,,,,,
-2, Upazila,Number of mill,Installed capacity - Spindle,Installed capacity - Loom,Total persons engaged - Male,Total persons engaged - Female,Total persons engaged - Total
-3,Araihazar,1120,68600,79550,39820,2428,42248
-4,Bandar,12,123000,262,1441,1080,2521
-5,Narayanganj Sadar,27,21000,13000,6777,2127,8904
-6,Rupganj,159,374791,5699,4993,2931,7924
-7,Sonargaon,32,0,1577,4150,5265,9415
-8,Total,1350,587391,100078,57181,13831,71012
+1,Narayanganj,,,,,,
+2,,,,,,,
+3, Upazila,Number of mill,Installed capacity - Spindle,Installed capacity - Loom,Total persons engaged - Male,Total persons engaged - Female,Total persons engaged - Total
+4,Araihazar,1120,68600,79550,39820,2428,42248
+5,Bandar,12,123000,262,1441,1080,2521
+6,Narayanganj Sadar,27,21000,13000,6777,2127,8904
+7,Rupganj,159,374791,5699,4993,2931,7924
+8,Sonargaon,32,0,1577,4150,5265,9415
+9,Total,1350,587391,100078,57181,13831,71012

@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Baliadangi,11,22,42,64
-4,Haripur,0,0,0,0
-5,Pirgonj,6,6,30,36
-6,Ranisankail,7,20,70,90
-7,Thakurgaon Sadar,35,62,105,167
-8,Total,59,110,247,357
+1,Thakurgaon,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Baliadangi,11,22,42,64
+5,Haripur,0,0,0,0
+6,Pirgonj,6,6,30,36
+7,Ranisankail,7,20,70,90
+8,Thakurgaon Sadar,35,62,105,167
+9,Total,59,110,247,357

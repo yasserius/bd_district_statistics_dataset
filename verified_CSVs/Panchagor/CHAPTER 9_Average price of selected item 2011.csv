@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,Average price of selected item 2011,,,,,,,
-1,"(Price unit per kg, taka)",,,,,,,
-2,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
-3,Atwari,34,26,24,25,33,12,128
-4,Boda,36,30,24,22,29,10,130
-5,Debiganj,40,32,28,20,30,10,130
-6,Panchagarh Sadar,42,35,30,16,24,10,125
-7,Tentulia,42,36,25,18,36,12,120
-8,Average,38.8,31.8,26.2,20.2,30.4,10.8,126.6
+1,Panchagor,,,,,,,
+2,"(Price unit per kg, taka)",,,,,,,
+3,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
+4,Atwari,34,26,24,25,33,12,128
+5,Boda,36,30,24,22,29,10,130
+6,Debiganj,40,32,28,20,30,10,130
+7,Panchagarh Sadar,42,35,30,16,24,10,125
+8,Tentulia,42,36,25,18,36,12,120
+9,Average,38.8,31.8,26.2,20.2,30.4,10.8,126.6

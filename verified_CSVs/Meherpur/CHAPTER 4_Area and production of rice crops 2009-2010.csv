@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2009-2010,,,,,,
-1,(Area in acre  production in metric ton),,,,,,
-2,Upazila,Aus Area,Aus Production,Aman Area,Aman Production,Boro Area,Boro Production
-3,Gangni,3325,1903,30066,28126,24942,32189
-4,Mujibnagar,2459,6088.9,9765,10066.3,13010,21423
-5,Meherpur Sadar,10254,10470,22584,15443,25240,27473
-6,Total,16038,18461.9,62415,53635.3,63192,81085
+1,Meherpur,,,,,,
+2,(Area in acre  production in metric ton),,,,,,
+3,Upazila,Aus Area,Aus Production,Aman Area,Aman Production,Boro Area,Boro Production
+4,Gangni,3325,1903,30066,28126,24942,32189
+5,Mujibnagar,2459,6088.9,9765,10066.3,13010,21423
+6,Meherpur Sadar,10254,10470,22584,15443,25240,27473
+7,Total,16038,18461.9,62415,53635.3,63192,81085

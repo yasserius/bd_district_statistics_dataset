@@ -1,18 +1,19 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Biral,105,265,83,348
-4,Birampur,60,80,280,360
-5,Birganj,122,156,262,418
-6,Bochaganj,77,146,228,374
-7,Chirirbandar,50,75,200,275
-8,Dinajpur Sadar,155,160,775,935
-9,Fulbari,72,80,148,228
-10,Ghoraghat,47,51,141,192
-11,Hakimpur,30,30,78,108
-12,Kaharole,43,63,129,192
-13,Khansama,91,91,273,364
-14,Nawabganj,115,115,445,560
-15,Parbatipur,387,775,550,1325
-16,Total,1354,2087,3592,5679
+1,Dinajpur,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Biral,105,265,83,348
+5,Birampur,60,80,280,360
+6,Birganj,122,156,262,418
+7,Bochaganj,77,146,228,374
+8,Chirirbandar,50,75,200,275
+9,Dinajpur Sadar,155,160,775,935
+10,Fulbari,72,80,148,228
+11,Ghoraghat,47,51,141,192
+12,Hakimpur,30,30,78,108
+13,Kaharole,43,63,129,192
+14,Khansama,91,91,273,364
+15,Nawabganj,115,115,445,560
+16,Parbatipur,387,775,550,1325
+17,Total,1354,2087,3592,5679

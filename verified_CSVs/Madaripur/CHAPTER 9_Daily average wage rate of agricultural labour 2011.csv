@@ -1,9 +1,10 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
-1,(Rate in taka),,,
-2,Upazila,Labour - Male,Labour - Female,Labour - Child (under 15 years old)
-3,Madaripur Sadar,220,170,150
-4,Kalkini,200,175,150
-5,Rajoir,250,200,180
-6,Shibchar,400,350,300
-7,Average,268,224,195
+1,Madaripur,,,
+2,(Rate in taka),,,
+3,Upazila,Labour - Male,Labour - Female,Labour - Child (under 15 years old)
+4,Madaripur Sadar,220,170,150
+5,Kalkini,200,175,150
+6,Rajoir,250,200,180
+7,Shibchar,400,350,300
+8,Average,268,224,195

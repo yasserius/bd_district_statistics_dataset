@@ -1,16 +1,17 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,,,,,
-2,Upazila/city corporation,Number of pump fielded Electric,Number of pump fielded Diesel,Number of pump fielded Total,Area irrigated (acre)
-3,Agailjhara,9,30,39,850
-4,Babuganj,6,24,30,790
-5,Bakerganj,0,5,5,120
-6,Banaripara,0,4,4,129
-7,Barisal city corporation,0,0,0,0
-8,Barisal sadar,0,0,0,0
-9,Gaurnadi,7,12,19,225
-10,Hizla,7,78,85,645
-11,Mehendiganj,0,20,20,525
-12,Muladi,10,25,35,1200
-13,Wazirpur,4,12,16,560
-14,Total,43,210,253,5044
+1,Barisal,,,,
+2,,,,,
+3,Upazila/city corporation,Number of pump fielded Electric,Number of pump fielded Diesel,Number of pump fielded Total,Area irrigated (acre)
+4,Agailjhara,9,30,39,850
+5,Babuganj,6,24,30,790
+6,Bakerganj,0,5,5,120
+7,Banaripara,0,4,4,129
+8,Barisal city corporation,0,0,0,0
+9,Barisal Sadar,0,0,0,0
+10,Gaurnadi,7,12,19,225
+11,Hizla,7,78,85,645
+12,Mehendiganj,0,20,20,525
+13,Muladi,10,25,35,1200
+14,Wazirpur,4,12,16,560
+15,Total,43,210,253,5044

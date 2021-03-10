@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
-1,(Kilometer),,,,
-2,Upazila - nan,Metalled road - 150,Semi metalled road - 190,Unmetalled (kacha) road - 700,Total - 1040
-3,Debhata,79,63,279,421
-4,Assasuni,161.76,12.65,543.66,718.07
-5,Kaliganj,206.5,92,649.5,928
-6,Satkhira Sadar,372,62,420,854
-7,Shyamnagar,89,69,1249,1407
-8,Tala,150,75,595,820
-9,Total,1208.26,563.65,4436.16,6188.07
+1,Satkhira,,,,
+2,(Kilometer),,,,
+3,Upazila - nan,Metalled road - 150,Semi metalled road - 190,Unmetalled (kacha) road - 700,Total - 1040
+4,Debhata,79,63,279,421
+5,Assasuni,161.76,12.65,543.66,718.07
+6,Kaliganj,206.5,92,649.5,928
+7,Satkhira Sadar,372,62,420,854
+8,Shyamnagar,89,69,1249,1407
+9,Tala,150,75,595,820
+10,Total,1208.26,563.65,4436.16,6188.07

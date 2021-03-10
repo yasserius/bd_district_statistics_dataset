@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,6.14 Number of ebtedayee madrasah 2011,,,,,,,,
-1,,,,,,,,,
-2, Upazila, Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Kushtia Sadar,17,48,8,56,1526,1687,3213,57
-4,Bheramara,5,8,2,10,175,200,375,38
-5,Daulatpur,1,6,0,6,100,88,188,31
-6,Khoksa,1,4,0,4,68,107,175,44
-7,Kumarkhali,41,200,5,205,1050,1000,2050,10
-8,Mirpur,2,8,0,8,48,142,190,24
-9,Total,67,274,15,289,2967,3224,6191,21
+1,Kushtia,,,,,,,,
+2,,,,,,,,,
+3,Upazila, Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Kushtia Sadar,17,48,8,56,1526,1687,3213,57
+5,Bheramara,5,8,2,10,175,200,375,38
+6,Daulatpur,1,6,0,6,100,88,188,31
+7,Khoksa,1,4,0,4,68,107,175,44
+8,Kumarkhali,41,200,5,205,1050,1000,2050,10
+9,Mirpur,2,8,0,8,48,142,190,24
+10,Total,67,274,15,289,2967,3224,6191,21

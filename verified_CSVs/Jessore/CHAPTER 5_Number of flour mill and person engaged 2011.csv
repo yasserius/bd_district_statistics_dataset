@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of flour mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Abhaynagar,15,15,29,44
-4,Bagherpara,30,12,30,42
-5,Chaugachha,5,5,4,9
-6,Jessore Sadar,42,25,425,450
-7,Jhikargachha,27,15,44,59
-8,Keshabpur,10,6,10,16
-9,Manirampur,12,12,20,22
-10,Sharsha,30,30,60,90
-11,Total,171,120,622,732
+1,Jessore,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Abhaynagar,15,15,29,44
+5,Bagherpara,30,12,30,42
+6,Chaugachha,5,5,4,9
+7,Jessore Sadar,42,25,425,450
+8,Jhikargachha,27,15,44,59
+9,Keshabpur,10,6,10,16
+10,Manirampur,12,12,20,22
+11,Sharsha,30,30,60,90
+12,Total,171,120,622,732

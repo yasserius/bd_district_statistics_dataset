@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Daulotpur,3,3,6,3,3
-4,Gheor,2,4,0,4,10
-5,Horirampur,1,1,0,1,1
-6,Manikganj Sadar,8,10,8,24,48
-7,Saturia,3,12,6,6,15
-8,Shibalaya,3,4,7,8,25
-9,Singair,4,4,4,4,8
-10,Total,24,38,31,50,110
+1,Manikganj,,,,,
+2,,,,,,
+3,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Daulotpur,3,3,6,3,3
+5,Gheor,2,4,0,4,10
+6,Horirampur,1,1,0,1,1
+7,Manikganj Sadar,8,10,8,24,48
+8,Saturia,3,12,6,6,15
+9,Shibalaya,3,4,7,8,25
+10,Singair,4,4,4,4,8
+11,Total,24,38,31,50,110

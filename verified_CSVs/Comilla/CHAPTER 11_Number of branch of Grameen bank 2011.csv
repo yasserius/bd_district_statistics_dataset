@@ -1,21 +1,22 @@
 ,0,1,2,3,4
 0,Number of branch of Grameen bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of member,Number of account
-3,Adarsha Sadar,5,41,17087,17087
-4,Barura,9,49,18635,18635
-5,Brahmanpara,8,59,27312,27312
-6,Burichang,8,66,28530,29532
-7,Chandina,5,35,16823,16823
-8,Chauddagram,0,0,0,0
-9,Comilla Sadar Dakshin,3,20,4061,4061
-10,Daudkandi,5,27,246,13092
-11,Debidwar,5,41,20811,20811
-12,Homna,3,23,11645,12658
-13,Laksam,9,61,4397,12
-14,Monoharganj,4,32,10296,11651
-15,Meghna,2,18,2750,3082
-16,Muradnagar,8,77,38041,38041
-17,Nangalkot,7,51,13408,13408
-18,Titas,3,26,10108,33608
-19,Total,84,622,224190,259813
+1,Comilla,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of member,Number of account
+4,Adarsha Sadar,5,41,17087,17087
+5,Barura,9,49,18635,18635
+6,Brahmanpara,8,59,27312,27312
+7,Burichang,8,66,28530,29532
+8,Chandina,5,35,16823,16823
+9,Chauddagram,0,0,0,0
+10,Comilla Sadar Dakshin,3,20,4061,4061
+11,Daudkandi,5,27,246,13092
+12,Debidwar,5,41,20811,20811
+13,Homna,3,23,11645,12658
+14,Laksam,9,61,4397,12
+15,Monoharganj,4,32,10296,11651
+16,Meghna,2,18,2750,3082
+17,Muradnagar,8,77,38041,38041
+18,Nangalkot,7,51,13408,13408
+19,Titas,3,26,10108,33608
+20,Total,84,622,224190,259813

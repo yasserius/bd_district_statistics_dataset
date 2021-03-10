@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,"Occurrence of storm during the years 2008-2011 (Yes, No)",,,,
-1,,,,,
-2, Upazila, 2008, 2009, 2010, 2011
-3,Abhaynagar,No,No,No,No
-4,Bagherpara,No,No,No,No
-5,Chaugachha,No,No,No,No
-6,Jessore Sadar,No,No,No,No
-7,Jhikargachha,No,No,No,No
-8,Keshabpur,Yes,Yes,Yes,Yes
-9,Manirampur,Yes,Yes,Yes,Yes
-10,Sharsha,No,No,No,No
+1,Jessore,,,,
+2,,,,,
+3, Upazila, 2008, 2009, 2010, 2011
+4,Abhaynagar,No,No,No,No
+5,Bagherpara,No,No,No,No
+6,Chaugachha,No,No,No,No
+7,Jessore Sadar,No,No,No,No
+8,Jhikargachha,No,No,No,No
+9,Keshabpur,Yes,Yes,Yes,Yes
+10,Manirampur,Yes,Yes,Yes,Yes
+11,Sharsha,No,No,No,No

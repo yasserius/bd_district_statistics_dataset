@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,Average rate of vehicle per kilo meter 2011,,,,,
-1,(Rate in taka),,,,,
-2, Upazila,Vehicle - Rickshaw,Vehicle - Rickshaw van,Vehicle - Easy bike,Vehicle - Auto rickshaw,Vehicle - Tempo
-3,Bagatipara,0,2,2,2,0
-4,Baraigram,10,5,5,3,2
-5,Gurudaspur,10,5,5,5,5
-6,Lalpur,5,4,5,7,4
-7,Natore Sadar,10,8,10,10,10
-8,Singra,10,5,5,5,5
-9,Average,10,5,5,5,4
+1,Natore,,,,,
+2,(Rate in taka),,,,,
+3, Upazila,Vehicle - Rickshaw,Vehicle - Rickshaw van,Vehicle - Easy bike,Vehicle - Auto rickshaw,Vehicle - Tempo
+4,Bagatipara,0,2,2,2,0
+5,Baraigram,10,5,5,3,2
+6,Gurudaspur,10,5,5,5,5
+7,Lalpur,5,4,5,7,4
+8,Natore Sadar,10,8,10,10,10
+9,Singra,10,5,5,5,5
+10,Average,10,5,5,5,4

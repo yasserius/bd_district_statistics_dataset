@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization 2008,,,,,
-1,,,,,,
-2,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
-3,Abhaynagar,53810,7218,35374,465,13067
-4,Bagherpara,57749,7816,42696,130,15343
-5,Chaugachha,53912,5110,40863,361,19697
-6,Jessore Sadar,84095,10747,56779,522,24878
-7,Jhikargachha,61301,5511,44606,681,17843
-8,Keshabpur,52089,5050,33923,1455,18131
-9,Manirampur,89879,8718,60896,1408,20383
-10,Sharsha,69261,3428,55126,239,14008
-11,Total,522095,53598,370263,5261,143350
+1,Jessore,,,,,
+2,,,,,,
+3,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
+4,Abhaynagar,53810,7218,35374,465,13067
+5,Bagherpara,57749,7816,42696,130,15343
+6,Chaugachha,53912,5110,40863,361,19697
+7,Jessore Sadar,84095,10747,56779,522,24878
+8,Jhikargachha,61301,5511,44606,681,17843
+9,Keshabpur,52089,5050,33923,1455,18131
+10,Manirampur,89879,8718,60896,1408,20383
+11,Sharsha,69261,3428,55126,239,14008
+12,Total,522095,53598,370263,5261,143350

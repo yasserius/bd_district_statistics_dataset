@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Government college, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of college,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Araihazar,1,11,9,20,849,840,1689,84
-4,Bandar,0,0,0,0,0,0,0,0
-5,Narayanganj Sadar,3,87,61,148,11050,10826,21876,148
-6,Rupganj,0,0,0,0,0,0,0,0
-7,Sonargaon,0,0,0,0,0,0,0,0
-8,Total,4,98,70,168,11899,11666,23565,140
+1,Narayanganj,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of college,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Araihazar,1,11,9,20,849,840,1689,84
+5,Bandar,0,0,0,0,0,0,0,0
+6,Narayanganj Sadar,3,87,61,148,11050,10826,21876,148
+7,Rupganj,0,0,0,0,0,0,0,0
+8,Sonargaon,0,0,0,0,0,0,0,0
+9,Total,4,98,70,168,11899,11666,23565,140

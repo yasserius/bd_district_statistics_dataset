@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Average doctor s fee per patient 2011,,,,,
-1,(Fee in taka),,,,,
-2,Upazila,Doctor MBBS,Doctor FCPS,Doctor Dentist,Doctor Gynaecologist,Doctor Homeopathy
-3,Atwari,60,0,0,0,0
-4,Boda,200,0,0,0,50
-5,Debiganj,200,100,50,0,50
-6,Panchagarh Sadar,250,300,200,300,30
-7,Tentulia,200,0,50,100,0
-8,Average,182,80,60,80,26
+1,Panchagor,,,,,
+2,(Fee in taka),,,,,
+3,Upazila,Doctor MBBS,Doctor FCPS,Doctor Dentist,Doctor Gynaecologist,Doctor Homeopathy
+4,Atwari,60,0,0,0,0
+5,Boda,200,0,0,0,50
+6,Debiganj,200,100,50,0,50
+7,Panchagarh Sadar,250,300,200,300,30
+8,Tentulia,200,0,50,100,0
+9,Average,182,80,60,80,26

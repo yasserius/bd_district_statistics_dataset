@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,Distribution of chemical fertilizer 2010-11,,,,,,,,
-1,(In metric ton),,,,,,,,
-2,Upazila,UREA,TSP,MP,DAP,HP,NPK,SP,Others
-3,Gopalganj Sadar,4810,1080,1810,1960,0,0,0,690
-4,Kashiani,4505,1669,1404,914,0,0,0,3470
-5,Kotalipara,3915,2050,1650,960,0,0,0,250
-6,Muksudpur,5458,1186,1178,2075,0,25,0,0
-7,Tungipara,2090,278,239,274,0,0,0,91
-8,Total,20778,6263,6281,6183,0,25,0,4501
+1,Gopalgonj,,,,,,,,
+2,(In metric ton),,,,,,,,
+3,Upazila,UREA,TSP,MP,DAP,HP,NPK,SP,Others
+4,Gopalganj Sadar,4810,1080,1810,1960,0,0,0,690
+5,Kashiani,4505,1669,1404,914,0,0,0,3470
+6,Kotalipara,3915,2050,1650,960,0,0,0,250
+7,Muksudpur,5458,1186,1178,2075,0,25,0,0
+8,Tungipara,2090,278,239,274,0,0,0,91
+9,Total,20778,6263,6281,6183,0,25,0,4501

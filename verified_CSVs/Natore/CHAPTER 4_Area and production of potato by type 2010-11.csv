@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2010-11,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
-3,Bagatipara,140,860,11,57,151,917
-4,Baraigram,29,138,34,181,63,319
-5,Gurudaspur,186,905,20,48,206,953
-6,Lalpur,300,2760,35,143,335,2903
-7,Natore Sadar,665,14790,70,1050,735,15840
-8,Singra,1853,10400,50,440,1903,10840
-9,Total,3173,29853,220,1919,3393,31772
+1,Natore,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
+4,Bagatipara,140,860,11,57,151,917
+5,Baraigram,29,138,34,181,63,319
+6,Gurudaspur,186,905,20,48,206,953
+7,Lalpur,300,2760,35,143,335,2903
+8,Natore Sadar,665,14790,70,1050,735,15840
+9,Singra,1853,10400,50,440,1903,10840
+10,Total,3173,29853,220,1919,3393,31772

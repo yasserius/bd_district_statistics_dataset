@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Sonali and Janata bank 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Sonali Bank - Number of branch,Sonali Bank - Account - S.D,Sonali Bank - Account - C.D,Sonali Bank - Account - F.D,Sonali Bank - Account - S.T.D,Janata Bank - Number of branch,Janata Bank - Account - S.D,Janata Bank - Account - C.D,Janata Bank - Account - F.D,Janata Bank - Account - S.T.D
-3,Badarganj,2,23534,364,175,39,1,19223,869,85,8
-4,Gangachara,1,8214,484,65,66,2,26307,1504,84,101
-5,Kaunia,3,8480,237,119,58,2,15574,2961,964,37
-6,Mithapukur,2,18654,823,369,98,1,5063,1124,195,48
-7,Pirgachha,1,10972,1835,104,35,1,19087,488,59,12
-8,Pirganj,4,21321,2143,284,89,2,4962,701,41,7
-9,Rangpur sadar,7,50161,1235,519,325,5,81134,1535,589,65
-10,Taraganj,1,2405,230,13,24,0,0,0,0,0
-11,Total,21,143741,7351,1648,734,14,171350,9182,2017,278
+1,Rangpur,,,,,,,,,,
+2,,,,,,,,,,,
+3, Upazila,Sonali Bank - Number of branch,Sonali Bank - Account - S.D,Sonali Bank - Account - C.D,Sonali Bank - Account - F.D,Sonali Bank - Account - S.T.D,Janata Bank - Number of branch,Janata Bank - Account - S.D,Janata Bank - Account - C.D,Janata Bank - Account - F.D,Janata Bank - Account - S.T.D
+4,Badarganj,2,23534,364,175,39,1,19223,869,85,8
+5,Gangachara,1,8214,484,65,66,2,26307,1504,84,101
+6,Kaunia,3,8480,237,119,58,2,15574,2961,964,37
+7,Mithapukur,2,18654,823,369,98,1,5063,1124,195,48
+8,Pirgachha,1,10972,1835,104,35,1,19087,488,59,12
+9,Pirganj,4,21321,2143,284,89,2,4962,701,41,7
+10,Rangpur Sadar,7,50161,1235,519,325,5,81134,1535,589,65
+11,Taraganj,1,2405,230,13,24,0,0,0,0,0
+12,Total,21,143741,7351,1648,734,14,171350,9182,2017,278

@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Area and production of turmeric and ginger 2009-10,,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,Turmeric - Area,Turmeric - Production,Ginger - Area,Ginger - Production
-3,Alfadanga,69,70,0,0
-4,Bhanga,20,21,2,2
-5,Boalmari,107,374,24,14
-6,Charbhadrashon,13,13,0,0
-7,Faridpur Sadar,182,256,3,17
-8,Madhukhali,183,1280,16,30
-9,Nagarkanda,58,209,1.4,3
-10,Sadarpur,28,25,0,0
-11,Saltha,53,168,1.6,4
-12,Total,713,2416,48,70
+1,Faridpur,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,Turmeric - Area,Turmeric - Production,Ginger - Area,Ginger - Production
+4,Alfadanga,69,70,0,0
+5,Bhanga,20,21,2,2
+6,Boalmari,107,374,24,14
+7,Charbhadrashon,13,13,0,0
+8,Faridpur Sadar,182,256,3,17
+9,Madhukhali,183,1280,16,30
+10,Nagarkanda,58,209,1.4,3
+11,Sadarpur,28,25,0,0
+12,Saltha,53,168,1.6,4
+13,Total,713,2416,48,70

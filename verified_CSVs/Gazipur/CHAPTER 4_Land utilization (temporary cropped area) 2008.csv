@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,,,,,,,,
-2, Upazila, Current fallow,Temporary cropped area - Single,Temporary cropped area - Double,Temporary cropped area - Triple,Temporary cropped area - Net,Temporary cropped area - Gross,Productivity of crop
-3,Gazipur Sadar,1506,32686,4369,3344,40399,51456,127
-4,Kaliakair,466,24554,2885,2344,29783,37356,125
-5,Kaliganj,440,23186,2704,777,26667,30925,116
-6,Kapashia,937,26007,12564,1242,39813,54861,138
-7,Sreepur,1386,28937,9183,3080,41200,56543,137
-8,Total,4881,135370,31705,10787,177862,231141,130
+1,Gazipur,,,,,,,
+2,,,,,,,,
+3, Upazila, Current fallow,Temporary cropped area - Single,Temporary cropped area - Double,Temporary cropped area - Triple,Temporary cropped area - Net,Temporary cropped area - Gross,Productivity of crop
+4,Gazipur Sadar,1506,32686,4369,3344,40399,51456,127
+5,Kaliakair,466,24554,2885,2344,29783,37356,125
+6,Kaliganj,440,23186,2704,777,26667,30925,116
+7,Kapashia,937,26007,12564,1242,39813,54861,138
+8,Sreepur,1386,28937,9183,3080,41200,56543,137
+9,Total,4881,135370,31705,10787,177862,231141,130

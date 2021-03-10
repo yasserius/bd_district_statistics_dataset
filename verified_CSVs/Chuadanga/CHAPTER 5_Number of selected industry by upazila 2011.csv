@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Number of selected industry by upazila 2011,,,,
-1,,,,,
-2,Upazila,Rice mill,Aluminum,Sugar mill,Others
-3,Alamdanga,40,0,0,0
-4,Chuadanga Sadar,57,2,0,0
-5,Damurhuda,192,0,1,0
-6,Jibonnagar,14,0,0,1
-7,Total,303,2,1,1
+1,Chuadanga,,,,
+2,,,,,
+3,Upazila,Rice mill,Aluminum,Sugar mill,Others
+4,Alamdanga,40,0,0,0
+5,Chuadanga Sadar,57,2,0,0
+6,Damurhuda,192,0,1,0
+7,Jibonnagar,14,0,0,1
+8,Total,303,2,1,1

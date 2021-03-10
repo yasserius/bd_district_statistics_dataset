@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in Metric Ton),,,,
-2,Upazila,2010-11 Number,2010-11 Production,2009-10 Number,2009-10 Production
-3,Baliadangi,175,368.83,170,364.22
-4,Haripur,450,1878.14,415,1871.16
-5,Pirgonj,1860,2984,1828,3086
-6,Ranisankail,50,1.5,50,1.5
-7,Thakurgaon Sadar,246,6300,211,6018
-8,Total,2781,11532.47,2674,11340.88
+1,Thakurgaon,,,,
+2,(Production in Metric Ton),,,,
+3,Upazila,2010-11 Number,2010-11 Production,2009-10 Number,2009-10 Production
+4,Baliadangi,175,368.83,170,364.22
+5,Haripur,450,1878.14,415,1871.16
+6,Pirgonj,1860,2984,1828,3086
+7,Ranisankail,50,1.5,50,1.5
+8,Thakurgaon Sadar,246,6300,211,6018
+9,Total,2781,11532.47,2674,11340.88

@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
-1,(According to Agriculture Census 2008),,,,
-2,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
-3,Fulchhari,20946,19487,7980,6842
-4,Gaibandha Sadar,49189,74219,20208,7941
-5,Gobindaganj,77130,82137,35406,10796
-6,Palashbari,36191,42103,16404,4126
-7,Sadullapur,42376,49387,18071,6873
-8,Saghata,40346,38390,19372,9294
-9,Sundarganj,60592,81712,19898,10643
-10,Total,326770,387435,137339,56515
+1,Gaibandha,,,,
+2,(According to Agriculture Census 2008),,,,
+3,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
+4,Fulchhari,20946,19487,7980,6842
+5,Gaibandha Sadar,49189,74219,20208,7941
+6,Gobindaganj,77130,82137,35406,10796
+7,Palashbari,36191,42103,16404,4126
+8,Sadullapur,42376,49387,18071,6873
+9,Saghata,40346,38390,19372,9294
+10,Sundarganj,60592,81712,19898,10643
+11,Total,326770,387435,137339,56515

@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of growth centre, hat , bazar, poultry farm, dairy farm, nursery, horticulture centre, brick kiln, decorator service 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila,Growth centre,Hat /bazar,Poultry farm,Dairy farm,Nursery,Horticulture centre,Brick kiln,Decorator service
-3,Magura Sadar,5,45,150,128,34,1,38,58
-4,Mohammadpur,4,32,51,69,15,0,16,32
-5,Shalikha,4,29,55,25,16,0,5,21
-6,Sreepur,4,20,43,25,12,0,4,28
-7,Total,17,126,299,247,77,1,63,131
+1,Magura,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Growth centre,Hat /bazar,Poultry farm,Dairy farm,Nursery,Horticulture centre,Brick kiln,Decorator service
+4,Magura Sadar,5,45,150,128,34,1,38,58
+5,Mohammadpur,4,32,51,69,15,0,16,32
+6,Shalikha,4,29,55,25,16,0,5,21
+7,Sreepur,4,20,43,25,12,0,4,28
+8,Total,17,126,299,247,77,1,63,131

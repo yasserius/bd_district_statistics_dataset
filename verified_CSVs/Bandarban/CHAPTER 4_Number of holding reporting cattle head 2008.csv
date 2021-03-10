@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting cattle head 2008,,,,,,
-1,,,,,,,
-2, Upazila, Total holding,Number of holding based on cattle heads - 1-3 head,Number of holding based on cattle heads - 4-6 head,Number of holding based on cattle heads - 7 -9 head,Number of holding based on cattle heads - 10-15 head,Number of holding based on cattle heads - 15 head  above
-3,Alikadam,2862,1575,820,453,14,0
-4,Bandarban Sadar,9825,5895,3202,728,0,0
-5,Lama,8472,5380,2450,480,154,8
-6,Naikhongchhari,2092,1151,629,265,42,4
-7,Rowangchhari,2480,1089,658,733,0,0
-8,Ruma,2583,1320,835,280,122,26
-9,Thanchi,1730,878,504,348,0,0
-10,Total,29844,17288,9098,3287,332,38
+1,Bandarban,,,,,,
+2,,,,,,,
+3, Upazila, Total holding,Number of holding based on cattle heads - 1-3 head,Number of holding based on cattle heads - 4-6 head,Number of holding based on cattle heads - 7 -9 head,Number of holding based on cattle heads - 10-15 head,Number of holding based on cattle heads - 15 head  above
+4,Alikadam,2862,1575,820,453,14,0
+5,Bandarban Sadar,9825,5895,3202,728,0,0
+6,Lama,8472,5380,2450,480,154,8
+7,Naikhongchhari,2092,1151,629,265,42,4
+8,Rowangchhari,2480,1089,658,733,0,0
+9,Ruma,2583,1320,835,280,122,26
+10,Thanchi,1730,878,504,348,0,0
+11,Total,29844,17288,9098,3287,332,38

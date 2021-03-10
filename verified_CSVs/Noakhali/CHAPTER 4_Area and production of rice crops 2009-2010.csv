@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2009-2010,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
-3,Begumganj,125,73,1529,830,38930,59513
-4,Chatkhil,2803,920,753,540,20458,31901
-5,Companiganj,17300,9560,50960,41900,4179,5642
-6,Hatiya,35125,23832,82950,61250,10,12
-7,Kabirhat,11968,6905,33000,24930,11680,18483
-8,Noakhali Sadar,38650,20909,54125,42778,17555,28765
-9,Senbagh,4350,244,11646,10200,23950,34930
-10,Sonaimuri,228,162,339,175,26341,41601
-11,Subarnachar,23600,14030,46460,36100,1797,2186
-12,Total,134149,76635,281762,218703,144900,223033
+1,Noakhali,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
+4,Begumganj,125,73,1529,830,38930,59513
+5,Chatkhil,2803,920,753,540,20458,31901
+6,Companiganj,17300,9560,50960,41900,4179,5642
+7,Hatiya,35125,23832,82950,61250,10,12
+8,Kabirhat,11968,6905,33000,24930,11680,18483
+9,Noakhali Sadar,38650,20909,54125,42778,17555,28765
+10,Senbagh,4350,244,11646,10200,23950,34930
+11,Sonaimuri,228,162,339,175,26341,41601
+12,Subarnachar,23600,14030,46460,36100,1797,2186
+13,Total,134149,76635,281762,218703,144900,223033

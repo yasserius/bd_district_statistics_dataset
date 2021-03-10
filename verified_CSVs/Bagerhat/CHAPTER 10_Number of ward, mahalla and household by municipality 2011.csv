@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,"Number of ward, mahalla and household by municipality 2011",,,,,
-1,,,,,,
-2,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
-3,Bagerhat Sadar,Bagerhat,9,31,10941,11982
-4,Kachua,-,-,-,-,-
-5,Rampal,-,-,-,-,-
-6,Sarankhola,-,-,-,-,-
-7,Chitalmari,-,-,-,-,-
-8,Morrelgonj,Morrelgonj,9,12,4842,5070
-9,Mongla,Mongla,9,13,8738,8927
-10,Mollahat,-,-,-,-,
-11,Fakirhat,-,-,-,-,-
-12,Total,-,27,56,24521,25979
+1,Bagerhat,,,,,
+2,,,,,,
+3,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
+4,Bagerhat Sadar,Bagerhat,9,31,10941,11982
+5,Kachua,-,-,-,-,-
+6,Rampal,-,-,-,-,-
+7,Sharonkhola,-,-,-,-,-
+8,Chitolmari,-,-,-,-,-
+9,Morrelgonj,Morrelgonj,9,12,4842,5070
+10,Mongla,Mongla,9,13,8738,8927
+11,Mollahat,-,-,-,-,
+12,Fakirhat,-,-,-,-,-
+13,Total,-,27,56,24521,25979

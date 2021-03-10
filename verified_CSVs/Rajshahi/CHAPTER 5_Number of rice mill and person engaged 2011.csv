@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,Number of rice mill and person engaged 2011,,,,
-1,,,,,
-2,Upazila/city corporation,Number of unit,Person engaged Male,Person engaged Female,Person engaged Total
-3,Bagha,12,24,18,42
-4,Baghmara,33,360,400,760
-5,Charghat,35,52,45,97
-6,Durgapur,12,36,60,96
-7,Godagari,118,374,220,594
-8,Mohanpur,13,26,65,91
-9,Paba,120,345,210,555
-10,Puthia,82,341,298,639
-11,Rajshahi city corporation,18,36,54,90
-12,Tanore,22,90,135,225
-13,Total,465,1684,1505,3189
+1,Rajshahi,,,,
+2,,,,,
+3,Upazila/city corporation,Number of unit,Person engaged Male,Person engaged Female,Person engaged Total
+4,Bagha,12,24,18,42
+5,Baghmara,33,360,400,760
+6,Charghat,35,52,45,97
+7,Durgapur,12,36,60,96
+8,Godagari,118,374,220,594
+9,Mohanpur,13,26,65,91
+10,Paba,120,345,210,555
+11,Puthia,82,341,298,639
+12,Rajshahi City Corporation,18,36,54,90
+13,Tanore,22,90,135,225
+14,Total,465,1684,1505,3189

@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Area, population and density by municipality 2011",,,,,,
-1,,,,,,,
-2, Upazila,Name of municipality,Area (In sq. km.),Population census-2011 - Male,Population census-2011 - Female,Population census-2011 - Total,Density per sq.km.
-3,Baliakandi,-,0,0,0,0,0
-4,Goalanda,\Goalanda,20.176,9207,9456,18663,925
-5,Kalukhali,-,0,0,0,0,0
-6,Pangsha,Pangsha,12.56,14568,14530,29098,2317
-7,Rajbari Sadar,-,11.65,28271,30042,58313,5005
-8,Total,,29.06,52046,54028,106074,8247
+1,Rajbari,,,,,,
+2,,,,,,,
+3,Upazila,Name of municipality,Area (In sq. km.),Population census-2011 - Male,Population census-2011 - Female,Population census-2011 - Total,Density per sq.km.
+4,Baliakandi,-,0,0,0,0,0
+5,Goalanda,\Goalanda,20.176,9207,9456,18663,925
+6,Kalukhali,-,0,0,0,0,0
+7,Pangsha,Pangsha,12.56,14568,14530,29098,2317
+8,Rajbari Sadar,-,11.65,28271,30042,58313,5005
+9,Total,,29.06,52046,54028,106074,8247

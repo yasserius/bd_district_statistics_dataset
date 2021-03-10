@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Sonali and Janata bank 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Sonali bank - Number of branch,Sonali bank - Account - S.D,Sonali bank - Account - C.D,Sonali bank - Account - F.D,Sonali bank - Account - S.T.D,Janata bank - Number of branch,Janata bank - Account - S.D,Janata bank - Account - C.D,Janata bank - Account - F.D,Janata bank - Account - S.T.D
-3,Chhagalnaiya,2,0,401,527,102,2,5412,195,211,25
-4,Daganbhuiyan,2,15505,467,272,36,4,11181,623,272,13
-5,Feni Sadar,7,30967,2826,320,48,3,16809,1109,165,30
-6,Fulgazi,2,16486,300,212,21,2,12381,482,115,14
-7,Parshuram,2,2348,51,108,20,1,38,9,29,0
-8,Sonagazi,2,34,381,95,22,3,42,456,103,32
-9,Total,17,65340,4426,1534,249,15,45863,2874,895,114
+1,Feni,,,,,,,,,,
+2,,,,,,,,,,,
+3, Upazila,Sonali bank - Number of branch,Sonali bank - Account - S.D,Sonali bank - Account - C.D,Sonali bank - Account - F.D,Sonali bank - Account - S.T.D,Janata bank - Number of branch,Janata bank - Account - S.D,Janata bank - Account - C.D,Janata bank - Account - F.D,Janata bank - Account - S.T.D
+4,Chhagalnaiya,2,0,401,527,102,2,5412,195,211,25
+5,Daganbhuiyan,2,15505,467,272,36,4,11181,623,272,13
+6,Feni Sadar,7,30967,2826,320,48,3,16809,1109,165,30
+7,Fulgazi,2,16486,300,212,21,2,12381,482,115,14
+8,Parshuram,2,2348,51,108,20,1,38,9,29,0
+9,Sonagazi,2,34,381,95,22,3,42,456,103,32
+10,Total,17,65340,4426,1534,249,15,45863,2874,895,114

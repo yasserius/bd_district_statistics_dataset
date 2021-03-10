@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,,,,,,
-2,Upazila,Police personnel,Ansar personnel,VDP personnel,Autonomous bodies,Local Government employee
-3,Atwari,35,324,6656,35,12
-4,Boda,33,480,992,0,29
-5,Debiganj,40,452,6743,1,18
-6,Panchagarh Sadar,238,452,9876,1028,2520
-7,Tentulia,25,356,8092,525,19
-8,Total,371,2064,32359,1589,2598
+1,Panchagor,,,,,
+2,,,,,,
+3,Upazila,Police personnel,Ansar personnel,VDP personnel,Autonomous bodies,Local Government employee
+4,Atwari,35,324,6656,35,12
+5,Boda,33,480,992,0,29
+6,Debiganj,40,452,6743,1,18
+7,Panchagarh Sadar,238,452,9876,1028,2520
+8,Tentulia,25,356,8092,525,19
+9,Total,371,2064,32359,1589,2598

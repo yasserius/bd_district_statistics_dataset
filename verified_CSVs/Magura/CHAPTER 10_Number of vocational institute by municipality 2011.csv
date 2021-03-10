@@ -1,9 +1,10 @@
 ,0,1,2,3
 0,Number of vocational institute by municipality 2011,,,
-1,,,,
-2,Upazila,Number of institution,Number of teacher,Number of student
-3,Magura Sadar,1,19,307
-4,Mohammadpur,0,0,0
-5,Shalikha,0,0,0
-6,Sreepur,0,0,0
-7,Total,1,19,307
+1,Magura,,,
+2,,,,
+3,Upazila,Number of institution,Number of teacher,Number of student
+4,Magura Sadar,1,19,307
+5,Mohammadpur,0,0,0
+6,Shalikha,0,0,0
+7,Sreepur,0,0,0
+8,Total,1,19,307

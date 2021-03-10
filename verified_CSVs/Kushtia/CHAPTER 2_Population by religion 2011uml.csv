@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Population by religion 2011,,,,,,
-1,,,,,,,
-2,Upazila,Muslim,Hindu,Buddhist,Christian,Others,Total
-3,Kushtia Sadar,481700,19500,290,142,967,502599
-4,Bheramara,202960,5031,36,1,2,208030
-5,Daulatpur,453500,2800,2,4,7,456313
-6,Khoksa,122431,12200,0,11,5,134647
-7,Kumarkhali,32834,12250,15,142,9,45250
-8,Mirpur,322800,7240,4,7,16,330067
-9,Total,1616225,59021,347,307,1006,1676906
+1,Kushtia,,,,,,
+2,,,,,,,
+3,Upazila,Muslim,Hindu,Buddhist,Christian,Others,Total
+4,Kushtia Sadar,481700,19500,290,142,967,502599
+5,Bheramara,202960,5031,36,1,2,208030
+6,Daulatpur,453500,2800,2,4,7,456313
+7,Khoksa,122431,12200,0,11,5,134647
+8,Kumarkhali,32834,12250,15,142,9,45250
+9,Mirpur,322800,7240,4,7,16,330067
+10,Total,1616225,59021,347,307,1006,1676906

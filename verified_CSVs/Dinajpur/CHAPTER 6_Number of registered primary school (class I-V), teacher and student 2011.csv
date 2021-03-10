@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of registered primary school (class I-V), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of registered primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Biral,78,99,173,272,4484,4148,8632,32
-4,Birampur,42,94,57,151,2786,2677,5463,36
-5,Birganj,129,365,117,482,10300,10479,20779,43
-6,Bochaganj,76,177,98,275,1784,1934,3718,14
-7,Chirirbandar,98,264,117,381,7361,4908,12269,32
-8,Dinajpur Sadar,59,161,68,229,4870,4468,9338,41
-9,Fulbari,62,141,81,222,4457,4375,8832,40
-10,Ghoraghat,27,38,64,102,1894,1911,3805,37
-11,Hakimpur,16,46,18,64,1287,1135,2422,38
-12,Kaharole,70,173,107,280,3950,4125,8075,29
-13,Khansama,89,226,98,324,6939,6460,13399,41
-14,Nawabganj,72,184,68,252,5728,5721,11449,45
-15,Parbatipur,48,188,124,312,7799,8003,15802,51
-16,Total,866,2156,1190,3346,63639,60344,123983,37
+1,Dinajpur,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of registered primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Biral,78,99,173,272,4484,4148,8632,32
+5,Birampur,42,94,57,151,2786,2677,5463,36
+6,Birganj,129,365,117,482,10300,10479,20779,43
+7,Bochaganj,76,177,98,275,1784,1934,3718,14
+8,Chirirbandar,98,264,117,381,7361,4908,12269,32
+9,Dinajpur Sadar,59,161,68,229,4870,4468,9338,41
+10,Fulbari,62,141,81,222,4457,4375,8832,40
+11,Ghoraghat,27,38,64,102,1894,1911,3805,37
+12,Hakimpur,16,46,18,64,1287,1135,2422,38
+13,Kaharole,70,173,107,280,3950,4125,8075,29
+14,Khansama,89,226,98,324,6939,6460,13399,41
+15,Nawabganj,72,184,68,252,5728,5721,11449,45
+16,Parbatipur,48,188,124,312,7799,8003,15802,51
+17,Total,866,2156,1190,3346,63639,60344,123983,37

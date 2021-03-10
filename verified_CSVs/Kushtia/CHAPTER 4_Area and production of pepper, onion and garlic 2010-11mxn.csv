@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic 2010-11",,,,,,
-1,(Area in acre  production in metric ton),,,,,,
-2, Upazila,Pepper - Area,Pepper - Production,Onion - Area,Onion - Production,Garlic - Area,Garlic - Production
-3,Kushtia Sadar,352,406,2527,11281,195,531
-4,Bheramara,107,143,325,1057,101,154
-5,Daulatpur,608,432,3360,13789,1220,2325
-6,Khoksa,206,85,1990,5991,163,293
-7,Kumarkhali,117,140,11990,35970,260,494
-8,Mirpur,272,101,414,1665,271,543
-9,Total,1662,1307,20606,69753,2210,4340
+1,Kushtia,,,,,,
+2,(Area in acre  production in metric ton),,,,,,
+3,Upazila,Pepper - Area,Pepper - Production,Onion - Area,Onion - Production,Garlic - Area,Garlic - Production
+4,Kushtia Sadar,352,406,2527,11281,195,531
+5,Bheramara,107,143,325,1057,101,154
+6,Daulatpur,608,432,3360,13789,1220,2325
+7,Khoksa,206,85,1990,5991,163,293
+8,Kumarkhali,117,140,11990,35970,260,494
+9,Mirpur,272,101,414,1665,271,543
+10,Total,1662,1307,20606,69753,2210,4340

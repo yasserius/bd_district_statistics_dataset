@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,"Occurrence of storm during the year 2008-2011 (Yes, No)",,,,
-1,,,,,
-2, Upazila, 2008, 2009, 2010, 2011
-3,Bhedarganj,No,No,No,No
-4,Damudya,Yes,Yes,No,No
-5,Gosairhat,No,No,No,No
-6,Naria,No,No,No,No
-7,Shariatpur Sadar,No,No,No,No
-8,Zanjira,No,No,No,No
+1,Shariatpur,,,,
+2,,,,,
+3, Upazila, 2008, 2009, 2010, 2011
+4,Bhedarganj,No,No,No,No
+5,Damudya,Yes,Yes,No,No
+6,Gosairhat,No,No,No,No
+7,Naria,No,No,No,No
+8,Shariatpur Sadar,No,No,No,No
+9,Zanjira,No,No,No,No

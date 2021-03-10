@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in metric ton),,,,
-2, Upazila,2010-11 - Number,2010-11 - Production,2009-10 - Number,2009-10 - Production
-3,Kushtia Sadar,1850,2500,2120,2350
-4,Bheramara,200,519,200,510
-5,Daulatpur,316,152,316,142
-6,Khoksa,210,1055,200,1008
-7,Kumarkhali,8800,2230,8900,2392
-8,Mirpur,662,198,582,185
-9,Total,12038,6654,12318,6587
+1,Kushtia,,,,
+2,(Production in metric ton),,,,
+3,Upazila,2010-11 - Number,2010-11 - Production,2009-10 - Number,2009-10 - Production
+4,Kushtia Sadar,1850,2500,2120,2350
+5,Bheramara,200,519,200,510
+6,Daulatpur,316,152,316,142
+7,Khoksa,210,1055,200,1008
+8,Kumarkhali,8800,2230,8900,2392
+9,Mirpur,662,198,582,185
+10,Total,12038,6654,12318,6587

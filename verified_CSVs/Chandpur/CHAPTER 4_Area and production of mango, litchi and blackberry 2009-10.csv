@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of mango, litchi and blackberry 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Mango - Area,Mango - Production,Litchi - Area,Litchi - Production,Blackberry - Area,Blackberry - Production
-3,Chandpur Sadar,21,49,5,7,9,15
-4,Foridganj,330,500,1,2,31,23
-5,Haimchar,3,1051,0,0,2,91
-6,Hajiganj,450,1568,23,11,32,60
-7,Kachua,13,52,2,16,3,18
-8,Matlab Dakshin,197,126,9,9,17,23
-9,Matlab Uttar,483,464,10,4,27,18
-10,Shahrasti,300,1719,8,20,5,39
-11,Total,1797,5529,58,69,126,287
+1,Chandpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Mango - Area,Mango - Production,Litchi - Area,Litchi - Production,Blackberry - Area,Blackberry - Production
+4,Chandpur Sadar,21,49,5,7,9,15
+5,Foridganj,330,500,1,2,31,23
+6,Haimchar,3,1051,0,0,2,91
+7,Hajiganj,450,1568,23,11,32,60
+8,Kachua,13,52,2,16,3,18
+9,Matlab Dakshin,197,126,9,9,17,23
+10,Matlab Uttar,483,464,10,4,27,18
+11,Shahrasti,300,1719,8,20,5,39
+12,Total,1797,5529,58,69,126,287

@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of cooperative society and member 2011,,,,
-1,,,,,
-2, Upazila,Number of co-operative society,Number of member - Male,Number of member - Female, Total
-3,Akkelpur,201,5000,600,5600
-4,Joypurhat sadar,537,18394,2935,21329
-5,Kalai,314,10833,1100,11933
-6,Khetlal,230,10671,50,10721
-7,Panchbibi,184,2873,957,3830
-8,Total,1466,47771,5642,53413
+1,Joypurhat,,,,
+2,,,,,
+3, Upazila,Number of co-operative society,Number of member - Male,Number of member - Female, Total
+4,Akkelpur,201,5000,600,5600
+5,Joypurhat sadar,537,18394,2935,21329
+6,Kalai,314,10833,1100,11933
+7,Khetlal,230,10671,50,10721
+8,Panchbibi,184,2873,957,3830
+9,Total,1466,47771,5642,53413

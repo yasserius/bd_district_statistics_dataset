@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
-1,(According to Agriculture Census 2008),,,,
-2,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
-3,Baliakandi,28353,25605,14688,2006
-4,Goalanda,10637,12152,5020,5458
-5,Kalukhali,21045,9631,10994,420
-6,Pangsha,54116,50702,29372,4860
-7,Rajbari Sadar,36741,44459,16665,5592
-8,Total,150892,142549,76739,18336
+1,Rajbari,,,,
+2,(According to Agriculture Census 2008),,,,
+3,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
+4,Baliakandi,28353,25605,14688,2006
+5,Goalanda,10637,12152,5020,5458
+6,Kalukhali,21045,9631,10994,420
+7,Pangsha,54116,50702,29372,4860
+8,Rajbari Sadar,36741,44459,16665,5592
+9,Total,150892,142549,76739,18336

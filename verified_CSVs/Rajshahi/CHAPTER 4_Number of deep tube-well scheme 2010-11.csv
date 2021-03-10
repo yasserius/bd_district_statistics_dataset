@@ -1,15 +1,16 @@
 ,0,1,2,3
 0,Number of deep tube-well scheme 2010-11,,,
-1,,,,
-2,Upazila/city corporation,Number of deep tube-well Commissioned,Number of deep tube-well Operated,Area irrigated (in acre)
-3,Bagha,3,43,1704
-4,Baghmara,406,406,28106
-5,Charghat,60,0,4641
-6,Durgapur,322,14,18900
-7,Godagari,718,6,48500
-8,Mohanpur,331,23,13375
-9,Paba,0,282,16352
-10,Puthia,165,30,14778
-11,Rajshahi city corporation,0,70,96
-12,Tanore,567,567,43500
-13,Total,2572,1441,189952
+1,Rajshahi,,,
+2,,,,
+3,Upazila/city corporation,Number of deep tube-well Commissioned,Number of deep tube-well Operated,Area irrigated (in acre)
+4,Bagha,3,43,1704
+5,Baghmara,406,406,28106
+6,Charghat,60,0,4641
+7,Durgapur,322,14,18900
+8,Godagari,718,6,48500
+9,Mohanpur,331,23,13375
+10,Paba,0,282,16352
+11,Puthia,165,30,14778
+12,Rajshahi City Corporation,0,70,96
+13,Tanore,567,567,43500
+14,Total,2572,1441,189952

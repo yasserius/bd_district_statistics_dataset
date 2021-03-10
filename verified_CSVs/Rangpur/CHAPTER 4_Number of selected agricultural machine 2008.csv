@@ -1,23 +1,14 @@
-,0,1,2,3,4,5,6,7
-0,Number of selected agricultural machine 2008,,,,,,,
-1,,,,,,,,
-2,Upazila - Badarganj - Gangachara,Number of power tiller - 766 - 180,Tractor - 766 - 180,Number of threshing machine - 23 - 22,nan - 223 - 584,nan - 223 - 584,nan - 223 - 584,nan - nan - nan
-3,Kaunia,335,335,13,470,470,470,
-4,Mithapukur,811,811,35,1038,1038,1038,
-5,Pirgachha,690,690,48,2897,2897,2897,
-6,Pirganj,1472,1472,90,5769,5769,5769,
-7,Rangpur sadar,676,676,138,947,947,947,
-8,Taraganj,99,99,19,216,216,216,
-9,Total,5029,5029,388,12144,12144,12144,
-10, 4.15 Use of chemical fertilizer 2010-11, 4.15 Use of chemical fertilizer 2010-11, 4.15 Use of chemical fertilizer 2010-11, 4.15 Use of chemical fertilizer 2010-11, 4.15 Use of chemical fertilizer 2010-11, 4.15 Use of chemical fertilizer 2010-11, 4.15 Use of chemical fertilizer 2010-11,
-11,,,,,,(in metric ton),(in metric ton),(in metric ton)
-12,Upazila,UREA,TSP,MP,DAP,,,Other
-13,Badarganj,12175,7760,8380,1110,6504,6504,6504
-14,Gangachara,9350,3000,1600,835,2300,2300,2300
-15,Kaunia,5630,1190,980,490,310,310,310
-16,Mithapukur,22580,6580,520,6313,6550,6550,6550
-17,Pirgachha,10281,2641,18160,512,2400,2400,2400
-18,Pirganj,16990,10390,9130,1375,6710,6710,6710
-19,Rangpur sadar,15685,8675,8915,1240,8425,8425,8425
-20,Taraganj,7345,4615,4815,445,4710,4710,4710
-21,Total,100036,44851,52500,12320,37909,37909,37909
+,0,1,2,3
+0,Number of selected agricultural machine 2008,,,
+1,Rangpur,,,
+2,,,,
+3,Upazila,Number of power tiller,Tractor,Number of threshing machine
+4,Badarganj,766,23,223
+5,Gangachara,180,22,584
+6,Kaunia,335,13,470
+7,Mithapukur,811,35,1038
+8,Pirgachha,690,48,2897
+9,Pirganj,1472,90,5769
+10,Rangpur Sadar,676,138,947
+11,Taraganj,99,19,216
+12,Total,5029,388,12144

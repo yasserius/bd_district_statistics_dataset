@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Dhaka Metropolitan,298,15739,3953211,201742
-4,Dhamrai,3,28,6090,895
-5,Dohar,14,209,63390,6191
-6,Keraniganj,30,389,62108,20105
-7,Nawabganj,17,232,64892,3986
-8,Savar,12,270,105516,6690
-9,Total,374,16867,4255207,239609
+1,Dhaka,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Dhaka Metropolitan,298,15739,3953211,201742
+5,Dhamrai,3,28,6090,895
+6,Dohar,14,209,63390,6191
+7,Keraniganj,30,389,62108,20105
+8,Nawabganj,17,232,64892,3986
+9,Savar,12,270,105516,6690
+10,Total,374,16867,4255207,239609

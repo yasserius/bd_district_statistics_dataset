@@ -1,8 +1,9 @@
 ,0,1,2,3
 0,Number of deep tube-well scheme 2010-11,,,
-1,,,,
-2,Upazila,Number of deep tube-wells Commissioned,Number of deep tube-wells Operated,Area Irrigated (In acres)
-3,Gangni,0,37,2590
-4,Mujibnagar,10,10,800
-5,Meherpur Sadar,45,45,705
-6,Total,55,92,4095
+1,Meherpur,,,
+2,,,,
+3,Upazila,Number of deep tube-wells Commissioned,Number of deep tube-wells Operated,Area Irrigated (In acres)
+4,Gangni,0,37,2590
+5,Mujibnagar,10,10,800
+6,Meherpur Sadar,45,45,705
+7,Total,55,92,4095

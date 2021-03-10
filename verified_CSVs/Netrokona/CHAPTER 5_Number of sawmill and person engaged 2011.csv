@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,Number of sawmill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Atpara,14,14,72,86
-4,Barhatta,27,27,108,135
-5,Durgapur,25,25,75,100
-6,Kalmakanda,38,38,152,190
-7,Kendua,30,30,135,165
-8,Khaliajuri,1,2,4,6
-9,Madan,12,0,62,62
-10,Mohanganj,3,24,0,24
-11,Netrokona Sadar,30,60,120,180
-12,Purbadhala,54,54,162,216
-13,Total,234,274,890,1164
+1,Netrokona,,,,
+2,,,,,
+3,Upazila, Unit,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Atpara,14,14,72,86
+5,Barhatta,27,27,108,135
+6,Durgapur,25,25,75,100
+7,Kalmakanda,38,38,152,190
+8,Kendua,30,30,135,165
+9,Khaliajuri,1,2,4,6
+10,Madan,12,0,62,62
+11,Mohanganj,3,24,0,24
+12,Netrokona Sadar,30,60,120,180
+13,Purbadhala,54,54,162,216
+14,Total,234,274,890,1164

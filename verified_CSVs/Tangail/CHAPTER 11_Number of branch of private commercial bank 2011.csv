@@ -1,17 +1,18 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employees,Number of savings A/C,Number of current A/C
-3,Basail,1,8,0,3863
-4,Bhuapur,1,4,0,0
-5,Delduar,1,6,4087,590
-6,Dhanbari,1,6,641,789
-7,Ghatail,5,34,8271,2548
-8,Gopalpur,1,11,614,436
-9,Kalihati,14,114,31839,42183
-10,Madhupur,4,71,13187,2101
-11,Mirzapur,2,21,16245,846
-12,Nagarpur,0,0,0,0
-13,Sakhipur,4,14,1022,140
-14,Tangail Sadar,18,225,147381,12396
-15,Total,52,514,223287,65892
+1,Tangail,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employees,Number of savings A/C,Number of current A/C
+4,Basail,1,8,0,3863
+5,Bhuapur,1,4,0,0
+6,Delduar,1,6,4087,590
+7,Dhanbari,1,6,641,789
+8,Ghatail,5,34,8271,2548
+9,Gopalpur,1,11,614,436
+10,Kalihati,14,114,31839,42183
+11,Madhupur,4,71,13187,2101
+12,Mirzapur,2,21,16245,846
+13,Nagarpur,0,0,0,0
+14,Sakhipur,4,14,1022,140
+15,Tangail Sadar,18,225,147381,12396
+16,Total,52,514,223287,65892

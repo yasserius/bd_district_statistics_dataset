@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"4.36 Area and production of brinjal, lady s finger and arum 2010-11",,,,,,
-1,(Area in acre  production in metric ton),,,,,,
-2, Upazila,Brinjal - Area,Brinjal - Production,Ladys finger - Area,Ladys finger - Production,Arum - Area,Arum - Production
-3,Kushtia Sadar,572,2542,170,382,751,7215
-4,Bheramara,150,588,63,115,251,759
-5,Daulatpur,274,546,125,171,278,1809
-6,Khoksa,114,321,75,248,321,1400
-7,Kumarkhali,163,848,70,84,169,406
-8,Mirpur,366,1210,42,39,150,327
-9,Total,1639,6055,545,1039,1920,11916
+1,Kushtia,,,,,,
+2,(Area in acre  production in metric ton),,,,,,
+3,Upazila,Brinjal - Area,Brinjal - Production,Ladys finger - Area,Ladys finger - Production,Arum - Area,Arum - Production
+4,Kushtia Sadar,572,2542,170,382,751,7215
+5,Bheramara,150,588,63,115,251,759
+6,Daulatpur,274,546,125,171,278,1809
+7,Khoksa,114,321,75,248,321,1400
+8,Kumarkhali,163,848,70,84,169,406
+9,Mirpur,366,1210,42,39,150,327
+10,Total,1639,6055,545,1039,1920,11916

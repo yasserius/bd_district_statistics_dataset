@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Length of embankment road  canal 2011,,,
-1,(Kilometer),,,
-2,Upazila,Embankment road,Canal,Others road
-3,Assasuni,282,180,0
-4,Debhata,3,82,0
-5,Kalaroa,4,25,0
-6,Kaliganj,80,120,170
-7,Satkhira Sadar,126,33,0
-8,Shyamnagar,148,296,127
-9,Tala,8,24,16
-10,Total,651,760,313
+1,Satkhira,,,
+2,(Kilometer),,,
+3,Upazila,Embankment road,Canal,Others road
+4,Assasuni,282,180,0
+5,Debhata,3,82,0
+6,Kalaroa,4,25,0
+7,Kaliganj,80,120,170
+8,Satkhira Sadar,126,33,0
+9,Shyamnagar,148,296,127
+10,Tala,8,24,16
+11,Total,651,760,313

@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Bagatipara,7,54,30625,1168
-4,Baraigram,11,165,25600,3250
-5,Gurudaspur,5,70,24930,2820
-6,Lalpur,5,41,32414,2527
-7,Natore Sadar,18,264,50539,4569
-8,Singra,5,100,40467,2819
-9,Total,51,694,204575,17153
+1,Natore,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Bagatipara,7,54,30625,1168
+5,Baraigram,11,165,25600,3250
+6,Gurudaspur,5,70,24930,2820
+7,Lalpur,5,41,32414,2527
+8,Natore Sadar,18,264,50539,4569
+9,Singra,5,100,40467,2819
+10,Total,51,694,204575,17153

@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of jackfruit, banana and pineapple 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Jackfruit Area,Jackfruit Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
-3,Kalia,75,3831,117,1398,0,0
-4,Lohagara,340,1409,111,740,0,0
-5,Narail Sadar,31,1319,186,1284,16,42
-6,Total,446,6559,414,3422,16,42
+1,Narail,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Jackfruit Area,Jackfruit Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
+4,Kalia,75,3831,117,1398,0,0
+5,Lohagara,340,1409,111,740,0,0
+6,Narail Sadar,31,1319,186,1284,16,42
+7,Total,446,6559,414,3422,16,42

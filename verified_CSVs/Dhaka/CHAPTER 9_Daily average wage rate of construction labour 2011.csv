@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Daily average wage rate of construction labour 2011,,,,,,
-1,,,,,,,
-2,(Rate in taka) -  Upazila,(Rate in taka) - Labour - Mason,(Rate in taka) - Labour - Helper (Jogaly),(Rate in taka) - Labour - Carpenter,(Rate in taka) - Labour - Colour,(Rate in taka) - Labour - Electric,(Rate in taka) - Labour - Plumber
-3,Dhaka Metropolitan,500,300,500,500,500,600
-4,Dhamrai,350,250,350,350,470,380
-5,Dohar,500,300,500,500,400,500
-6,Keraniganj,450,300,450,400,600,500
-7,Nawabganj,350,250,350,350,400,400
-8,Savar,450,300,400,450,500,500
-9,Average,433,283,425,425,478,480
+1,Dhaka,,,,,,
+2,,,,,,,
+3,(Rate in taka) -  Upazila,(Rate in taka) - Labour - Mason,(Rate in taka) - Labour - Helper (Jogaly),(Rate in taka) - Labour - Carpenter,(Rate in taka) - Labour - Colour,(Rate in taka) - Labour - Electric,(Rate in taka) - Labour - Plumber
+4,Dhaka Metropolitan,500,300,500,500,500,600
+5,Dhamrai,350,250,350,350,470,380
+6,Dohar,500,300,500,500,400,500
+7,Keraniganj,450,300,450,400,600,500
+8,Nawabganj,350,250,350,350,400,400
+9,Savar,450,300,400,450,500,500
+10,Average,433,283,425,425,478,480

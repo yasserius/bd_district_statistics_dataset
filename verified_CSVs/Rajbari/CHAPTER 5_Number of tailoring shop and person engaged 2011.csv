@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of tailoring shop and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Baliakandi,150,150,300,450
-4,Goalanda,141,56,85,141
-5,Kalukhali,85,85,125,210
-6,Pangsha,280,280,560,840
-7,Rajbari Sadar,150,300,500,800
-8,Total,806,871,1570,2441
+1,Rajbari,,,,
+2,,,,,
+3,Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Baliakandi,150,150,300,450
+5,Goalanda,141,56,85,141
+6,Kalukhali,85,85,125,210
+7,Pangsha,280,280,560,840
+8,Rajbari Sadar,150,300,500,800
+9,Total,806,871,1570,2441

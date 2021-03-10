@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2010-11,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Aus Area,Aus Production,Aman Area,Aman Production,Boro Area,Boro Production
-3,Bishwamvarpur,1750,1740,21000,17609,27605,35042
-4,Chhatak,617,526,23082,16995,37664,59696
-5,Dakshin Sunamganj,0,0,4710,6807,45201,73314
-6,Derai,0,0,3200,10983,29420,10251
-7,Dharmapasha,225,135,5590,4958,64246,81710
-8,Doarabazar,4817,123,25565,665,25688,10121
-9,Jagannathpur,220,135,20547,31405,41135,70472
-10,Jamalganj,0,0,6350,5950,40500,59730
-11,Shalla,0,0,0,0,42800,13420
-12,Sunamganj Sadar,1850,1860,25185,30588,34197,55380
-13,Tahirpur,0,0,5780,6874,31394,46005
-14,Total,9479,4519,141009,132834,419850,515141
+1,Sunamganj,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Aus Area,Aus Production,Aman Area,Aman Production,Boro Area,Boro Production
+4,Bishwamvarpur,1750,1740,21000,17609,27605,35042
+5,Chhatak,617,526,23082,16995,37664,59696
+6,Dakshin Sunamganj,0,0,4710,6807,45201,73314
+7,Derai,0,0,3200,10983,29420,10251
+8,Dharmapasha,225,135,5590,4958,64246,81710
+9,Doarabazar,4817,123,25565,665,25688,10121
+10,Jagannathpur,220,135,20547,31405,41135,70472
+11,Jamalganj,0,0,6350,5950,40500,59730
+12,Shalla,0,0,0,0,42800,13420
+13,Sunamganj Sadar,1850,1860,25185,30588,34197,55380
+14,Tahirpur,0,0,5780,6874,31394,46005
+15,Total,9479,4519,141009,132834,419850,515141

@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,Percentage distribution of population by type of disability 2011,,,,,,,,
-1,,,,,,,,,
-2,Upazila,Total Population,Type of disability () - All,Type of disability () - Speech,Type of disability () - Vision,Type of disability () - Hearing,Type of disability () - Physical,Type of disability () - Mental,Type of disability () - Autism
-3,Kachua,382139,2.6,0.2,0.4,0.1,0.5,0.2,0.1
-4,Chandpur Sadar,465919,1.2,0.2,0.2,0.1,0.5,0.2,0.1
-5,Foridganj,396683,1.4,0.3,0.2,0.1,0.5,0.2,0.1
-6,Haimchar,109575,1.0,0.2,0.2,0.1,0.3,0.1,0.1
-7,Hajiganj,330477,2.8,0.3,0.8,0.2,1.2,0.2,0.1
-8,Matlab Dakshin,210050,1.7,0.2,0.4,0.1,0.7,0.2,0.1
-9,Matlab Uttar,292057,1.4,0.2,0.3,0.2,0.5,0.2,0.1
-10,Shahrasti,229118,3.3,0.3,0.6,0.2,1.9,0.2,0.1
-11,Total,2416018,15.4,1.9,3.1,1.1,6.1,1.5,0.8
+1,Chandpur,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Total Population,Type of disability () - All,Type of disability () - Speech,Type of disability () - Vision,Type of disability () - Hearing,Type of disability () - Physical,Type of disability () - Mental,Type of disability () - Autism
+4,Kachua,382139,2.6,0.2,0.4,0.1,0.5,0.2,0.1
+5,Chandpur Sadar,465919,1.2,0.2,0.2,0.1,0.5,0.2,0.1
+6,Foridganj,396683,1.4,0.3,0.2,0.1,0.5,0.2,0.1
+7,Haimchar,109575,1.0,0.2,0.2,0.1,0.3,0.1,0.1
+8,Hajiganj,330477,2.8,0.3,0.8,0.2,1.2,0.2,0.1
+9,Matlab Dakshin,210050,1.7,0.2,0.4,0.1,0.7,0.2,0.1
+10,Matlab Uttar,292057,1.4,0.2,0.3,0.2,0.5,0.2,0.1
+11,Shahrasti,229118,3.3,0.3,0.6,0.2,1.9,0.2,0.1
+12,Total,2416018,15.4,1.9,3.1,1.1,6.1,1.5,0.8

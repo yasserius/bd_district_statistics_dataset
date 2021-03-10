@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2010-11,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
-3,Bhedarganj,8450,2581,8639,3707,13301,23690
-4,Damudya,936,450,5200,4576,10882,19155
-5,Gosairhat,4035,1287,11380,5957,16064,28954
-6,Naria,1189,532,3925,1708,14355,23780
-7,Shariatpur Sadar,68,26,3520,1756,18009,31925
-8,Zanjira,4284,2064,2015,1107,6973,14185
-9,Total,18962,6940,34679,18811,79584,141689
+1,Shariatpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
+4,Bhedarganj,8450,2581,8639,3707,13301,23690
+5,Damudya,936,450,5200,4576,10882,19155
+6,Gosairhat,4035,1287,11380,5957,16064,28954
+7,Naria,1189,532,3925,1708,14355,23780
+8,Shariatpur Sadar,68,26,3520,1756,18009,31925
+9,Zanjira,4284,2064,2015,1107,6973,14185
+10,Total,18962,6940,34679,18811,79584,141689

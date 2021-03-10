@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current account
-3,Akkelpur,5,81,43834,4188
-4,Joypurhat sadar,7,92,50099,3297
-5,Kalai,5,73,17963,2777
-6,Khetlal,2,21,10345,1211
-7,Panchbibi,5,46,1620,244
-8,Total,24,313,123861,117170
+1,Joypurhat,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current account
+4,Akkelpur,5,81,43834,4188
+5,Joypurhat sadar,7,92,50099,3297
+6,Kalai,5,73,17963,2777
+7,Khetlal,2,21,10345,1211
+8,Panchbibi,5,46,1620,244
+9,Total,24,313,123861,117170

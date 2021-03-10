@@ -1,14 +1,15 @@
 ,0,1,2,3
 0,Length of railway and water way 2011,,,
-1,(Kilometer),,,
-2, Upazila,"Total railway (all broad gage, meter gage  duel gage)",Water way in monsoon (river + canal),Water way round the year (river + canal)
-3,Bagerhat Sadar,0,218,187
-4,Kachua,0,0,0
-5,Rampal,0,30,12
-6,Sarankhola,0,155,92
-7,Chitalmari,0,450,170
-8,Morrelgonj,0,29,18
-9,Mongla,0,150,70
-10,Mollahat,0,0,0
-11,Fakirhat,0,10,18
-12,Total,0,1042,567
+1,Bagerhat,,,
+2,(Kilometer),,,
+3, Upazila,"Total railway (all broad gage, meter gage  duel gage)",Water way in monsoon (river + canal),Water way round the year (river + canal)
+4,Bagerhat Sadar,0,218,187
+5,Kachua,0,0,0
+6,Rampal,0,30,12
+7,Sharonkhola,0,155,92
+8,Chitolmari,0,450,170
+9,Morrelgonj,0,29,18
+10,Mongla,0,150,70
+11,Mollahat,0,0,0
+12,Fakirhat,0,10,18
+13,Total,0,1042,567

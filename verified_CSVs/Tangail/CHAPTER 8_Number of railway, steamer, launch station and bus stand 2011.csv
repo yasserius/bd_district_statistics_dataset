@@ -1,17 +1,18 @@
 ,0,1,2,3
 0,"Number of railway, steamer, launch station and bus stand 2011",,,
-1,,,,
-2,Upazila,Railway station,Steamer/launch station,Bus stand
-3,Basail,0,0,1
-4,Bhuapur,1,0,1
-5,Delduar,0,0,1
-6,Dhanbari,0,0,1
-7,Ghatail,0,0,3
-8,Gopalpur,1,0,3
-9,Kalihati,1,0,2
-10,Madhupur,0,0,1
-11,Mirzapur,2,0,0
-12,Nagarpur,0,0,3
-13,Sakhipur,0,0,2
-14,Tangail Sadar,1,0,1
-15,Total,6,0,19
+1,Tangail,,,
+2,,,,
+3,Upazila,Railway station,Steamer/launch station,Bus stand
+4,Basail,0,0,1
+5,Bhuapur,1,0,1
+6,Delduar,0,0,1
+7,Dhanbari,0,0,1
+8,Ghatail,0,0,3
+9,Gopalpur,1,0,3
+10,Kalihati,1,0,2
+11,Madhupur,0,0,1
+12,Mirzapur,2,0,0
+13,Nagarpur,0,0,3
+14,Sakhipur,0,0,2
+15,Tangail Sadar,1,0,1
+16,Total,6,0,19

@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6,7
 0,Number of jute mill and number of worker 2011,,,,,,,
-1,,,,,,,,
-2,Upazila,Number of mill,Number of loom (installed),Number of loom Operative,Number of loom Non- operational,Number of worker permanent,Number of worker Temporary,Number of worker Total
-3,Magura Sadar,1,102,80,22,0,1100,1100
-4,Mohammadpur,0,0,0,0,0,0,0
-5,Shalikha,0,0,0,0,0,0,0
-6,Sreepur,0,0,0,0,0,0,0
-7,Total,1,102,80,22,0,1100,1100
+1,Magura,,,,,,,
+2,,,,,,,,
+3,Upazila,Number of mill,Number of loom (installed),Number of loom Operative,Number of loom Non- operational,Number of worker permanent,Number of worker Temporary,Number of worker Total
+4,Magura Sadar,1,102,80,22,0,1100,1100
+5,Mohammadpur,0,0,0,0,0,0,0
+6,Shalikha,0,0,0,0,0,0,0
+7,Sreepur,0,0,0,0,0,0,0
+8,Total,1,102,80,22,0,1100,1100

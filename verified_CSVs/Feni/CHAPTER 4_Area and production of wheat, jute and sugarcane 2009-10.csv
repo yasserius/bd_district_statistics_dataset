@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,"Area and production of wheat, jute and sugarcane 2009-10",,,,
-1,(Area in acre and production in metric ton),,,,
-2, Upazila,Wheat - Area,Wheat - Production,Jute - Area,Jute - Production
-3,Chhagalnaiya,36,19,60,90
-4,Daganbhuiyan,35,25,39,98
-5,Feni Sadar,0,0,92,112
-6,Fulgazi,56,42,56,1400
-7,Parshuram,49,47,121,2807
-8,Sonagazi,19,6,61,610
-9,Total,195,139,429,5117
+1,Feni,,,,
+2,(Area in acre and production in metric ton),,,,
+3, Upazila,Wheat - Area,Wheat - Production,Jute - Area,Jute - Production
+4,Chhagalnaiya,36,19,60,90
+5,Daganbhuiyan,35,25,39,98
+6,Feni Sadar,0,0,92,112
+7,Fulgazi,56,42,56,1400
+8,Parshuram,49,47,121,2807
+9,Sonagazi,19,6,61,610
+10,Total,195,139,429,5117

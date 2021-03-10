@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from nationalized bank 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2,  Upazila,Number of branch of all nationalized banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
-3,Assasuni,4,1355,2,0,0,880,310,2235,312,8,2
-4,Debhata,7,1227,53,12,0,1547,81,2786,134,67,36
-5,Kalaroa,7,4714,1349,18,0,448,411,5180,1760,12,3
-6,Kaliganj,7,6220,10,0,0,540,0,6760,10,34,1
-7,Satkhira Sadar,5,1728,130,22,0,4250,560,6000,690,14,4
-8,Shyamnagar,9,7240,38,0,0,1042,26,8282,64,33,2
-9,Tala,8,1620,88,0,0,2065,532,3685,620,26,5
-10,Total,47,24104,1670,52,0,10772,1920,34928,3590,194,52
+1,Satkhira,,,,,,,,,,,
+2,,,,,,,,,,,,
+3,  Upazila,Number of branch of all nationalized banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
+4,Assasuni,4,1355,2,0,0,880,310,2235,312,8,2
+5,Debhata,7,1227,53,12,0,1547,81,2786,134,67,36
+6,Kalaroa,7,4714,1349,18,0,448,411,5180,1760,12,3
+7,Kaliganj,7,6220,10,0,0,540,0,6760,10,34,1
+8,Satkhira Sadar,5,1728,130,22,0,4250,560,6000,690,14,4
+9,Shyamnagar,9,7240,38,0,0,1042,26,8282,64,33,2
+10,Tala,8,1620,88,0,0,2065,532,3685,620,26,5
+11,Total,47,24104,1670,52,0,10772,1920,34928,3590,194,52

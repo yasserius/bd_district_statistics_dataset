@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,,,,
-2, Upazila, Number, Number of employee, Number of client
-3,Alikadam,168,7,4422
-4,Bandarban Sadar,259,6,7770
-5,Lama,83,4,2000
-6,Naikhongchhari,67,2,1247
-7,Rowangchhari,198,5,3541
-8,Ruma,56,4,660
-9,Thanchi,21,2,200
-10,Total,852,30,26840
+1,Bandarban,,,
+2,,,,
+3, Upazila, Number, Number of employee, Number of client
+4,Alikadam,168,7,4422
+5,Bandarban Sadar,259,6,7770
+6,Lama,83,4,2000
+7,Naikhongchhari,67,2,1247
+8,Rowangchhari,198,5,3541
+9,Ruma,56,4,660
+10,Thanchi,21,2,200
+11,Total,852,30,26840

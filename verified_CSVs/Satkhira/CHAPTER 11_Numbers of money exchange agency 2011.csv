@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Numbers of money exchange agency 2011,,,
-1,,,,
-2,Upazila,Number of money exchange agency,Number of employee,Annual profit per agency (lac tk)
-3,Assasuni,0,0,0
-4,Debhata,0,0,0
-5,Kalaroa,0,0,0
-6,Kaliganj,0,0,0
-7,Satkhira Sadar,1,2,30
-8,Shyamnagar,0,0,0
-9,Tala,0,0,0
-10,Total,1,2,30
+1,Satkhira,,,
+2,,,,
+3,Upazila,Number of money exchange agency,Number of employee,Annual profit per agency (lac tk)
+4,Assasuni,0,0,0
+5,Debhata,0,0,0
+6,Kalaroa,0,0,0
+7,Kaliganj,0,0,0
+8,Satkhira Sadar,1,2,30
+9,Shyamnagar,0,0,0
+10,Tala,0,0,0
+11,Total,1,2,30

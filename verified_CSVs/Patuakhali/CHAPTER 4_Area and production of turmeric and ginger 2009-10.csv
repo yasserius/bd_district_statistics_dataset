@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Area and production of turmeric and ginger 2009-10,,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,Turmeric Area,Turmeric Production,Ginger Area,Ginger Production
-3,Bauphal,0,0,0,0
-4,Dashmina,0,0,0,0
-5,Dumki,0,0,0,0
-6,Galachipa,6,20,2,16
-7,Kalapara,2,2,0,0
-8,Mirzaganj,0,0,0,0
-9,Patuakhali Sadar,0,0,0,0
-10,Total,8,22,2,16
+1,Patuakhali,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,Turmeric Area,Turmeric Production,Ginger Area,Ginger Production
+4,Bauphal,0,0,0,0
+5,Dashmina,0,0,0,0
+6,Dumki,0,0,0,0
+7,Galachipa,6,20,2,16
+8,Kalapara,2,2,0,0
+9,Mirzaganj,0,0,0,0
+10,Patuakhali Sadar,0,0,0,0
+11,Total,8,22,2,16

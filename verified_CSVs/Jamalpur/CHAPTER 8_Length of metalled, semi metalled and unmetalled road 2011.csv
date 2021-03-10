@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
-1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
-3,Bakshiganj,66,3,356,425
-4,Dewanganj,92,1,337,430
-5,Islampur,116,4,478,599
-6,Jamalpur Sadar,250,103,743,1096
-7,Madarganj,145,0,339,484
-8,Melandaha,188,21,393,603
-9,Sarishabari,156,22,352,530
-10,Total,1013,154,2999,4167
+1,Jamalpur,,,,
+2,(Kilometer),,,,
+3,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
+4,Bakshiganj,66,3,356,425
+5,Dewanganj,92,1,337,430
+6,Islampur,116,4,478,599
+7,Jamalpur Sadar,250,103,743,1096
+8,Madarganj,145,0,339,484
+9,Melandaha,188,21,393,603
+10,Sarishabari,156,22,352,530
+11,Total,1013,154,2999,4167

@@ -1,11 +1,12 @@
-,0,1,2,3,Unnamed: 5
+,0,1,2,3,4
 0,Number of pottery and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Persons engaged - Family,Persons engaged - Hired,Persons engaged - Total
-3,Kushtia Sadar,30,65,40,105
-4,Bheramara,15,60,15,75
-5,Daulatpur,13,26,45,71
-6,Khoksa,23,69,0,69
-7,Kumarkhali,43,172,86,258
-8,Mirpur,32,40,14,54
-9,Total,156,432,200,632
+1,Kushtia,,,,
+2,,,,,
+3,Upazila,Unit,Persons engaged - Family,Persons engaged - Hired,Persons engaged - Total
+4,Kushtia Sadar,30,65,40,105
+5,Bheramara,15,60,15,75
+6,Daulatpur,13,26,45,71
+7,Khoksa,23,69,0,69
+8,Kumarkhali,43,172,86,258
+9,Mirpur,32,40,14,54
+10,Total,156,432,200,632

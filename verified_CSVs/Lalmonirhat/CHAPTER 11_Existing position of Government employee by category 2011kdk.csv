@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Existing position of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
-3,Aditmari,19,17,401,87,524
-4,Hatibandha,22,20,509,50,601
-5,Kaligonj,45,38,560,66,709
-6,Lalmonirhat,172,103,1051,779,2111
-7,Patgram,41,30,602,89,762
-8,Total,299,208,3123,1071,4701
+1,Lalmonirhat,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
+4,Aditmari,19,17,401,87,524
+5,Hatibandha,22,20,509,50,601
+6,Kaligonj,45,38,560,66,709
+7,Lalmonirhat,172,103,1051,779,2111
+8,Patgram,41,30,602,89,762
+9,Total,299,208,3123,1071,4701

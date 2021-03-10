@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of brinjal, lady s finger and arum 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Brinjal - Area,Brinjal - Production,Ladys finger - Area,Ladys finger - Production,Arum - Area,Arum - Production
-3,Aditmari,221,188,96,50,77,179
-4,Hatibandha,111,540,54,145,62,165
-5,Kaligonj,371,1050,0,0,7,18
-6,Lalmonirhat Sadar,555,5625,86,280,15,120
-7,Patgram,207,655,49,99,86,541
-8,Total,1465,8058,285,574,248,1023
+1,Lalmonirhat,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Brinjal - Area,Brinjal - Production,Ladys finger - Area,Ladys finger - Production,Arum - Area,Arum - Production
+4,Aditmari,221,188,96,50,77,179
+5,Hatibandha,111,540,54,145,62,165
+6,Kaligonj,371,1050,0,0,7,18
+7,Lalmonirhat Sadar,555,5625,86,280,15,120
+8,Patgram,207,655,49,99,86,541
+9,Total,1465,8058,285,574,248,1023

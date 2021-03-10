@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,"Area and production at water melon, melon (bangi) in following years",,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,2010-11 - Area,2010-11 - Production,2009-10 - Area,2009-10 - Production
-3,Baliakandi,7,120,12,225
-4,Rajbari Sadar,193,884,202,912
-5,Goalanda,95,466,106,522
-6,Pangsha,233,1410,233,1410
-7,Kalukhali,149,902,149,902
-8,Total,677,3782,702,3971
+1,Rajbari,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,2010-11 - Area,2010-11 - Production,2009-10 - Area,2009-10 - Production
+4,Baliakandi,7,120,12,225
+5,Rajbari Sadar,193,884,202,912
+6,Goalanda,95,466,106,522
+7,Pangsha,233,1410,233,1410
+8,Kalukhali,149,902,149,902
+9,Total,677,3782,702,3971

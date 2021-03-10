@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Existing position of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
-3,Akkelpur,18,14,262,36,330
-4,Joypurhat sadar,202,146,1714,436,2498
-5,Kalai,17,17,200,64,298
-6,Khetlal,18,27,154,60,259
-7,Panchbibi,21,11,175,73,280
-8,Total,276,215,2505,669,3665
+1,Joypurhat,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
+4,Akkelpur,18,14,262,36,330
+5,Joypurhat sadar,202,146,1714,436,2498
+6,Kalai,17,17,200,64,298
+7,Khetlal,18,27,154,60,259
+8,Panchbibi,21,11,175,73,280
+9,Total,276,215,2505,669,3665

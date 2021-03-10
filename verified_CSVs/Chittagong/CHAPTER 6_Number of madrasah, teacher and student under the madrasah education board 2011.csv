@@ -1,20 +1,21 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of madrasah, teacher and student under the madrasah education board 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila/City corporation,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Anowara,11,143,9,152,1295,1645,2944,19
-4,Banshkhali,20,247,7,254,3110,4794,7984,31
-5,Boalkhali,14,165,0,165,1117,1212,2329,14
-6,Chandanaish,16,286,19,287,1983,2774,44757,156
-7,Chittagong City Corp.,38,554,52,606,19265,5076,24341,40
-8,Fatikchhari,33,287,24,311,7095,9546,16641,54
-9,Hathazari,20,365,30,395,4235,1815,6050,15
-10,Lohagara,22,380,5,385,4000,3000,7000,18
-11,Mirsharai,16,195,30,225,5825,2465,8290,37
-12,Patiya,80,172,90,262,3720,2270,5990,23
-13,Rangunia,20,235,30,265,1850,1575,3425,13
-14,Raozan,21,353,20,373,4361,3292,7653,21
-15,Sandwip,8,132,0,132,2550,350,2900,22
-16,Satkania,62,410,71,481,10339,12131,22470,47
-17,Sitakunda,14,203,23,226,1548,1333,2881,13
-18,Total,395,4127,410,4519,72293,53278,165655,37
+1,Chittagong,,,,,,,,
+2,,,,,,,,,
+3,Upazila/City corporation,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Anowara,11,143,9,152,1295,1645,2944,19
+5,Banshkhali,20,247,7,254,3110,4794,7984,31
+6,Boalkhali,14,165,0,165,1117,1212,2329,14
+7,Chandanaish,16,286,19,287,1983,2774,44757,156
+8,Chittagong City Corporation,38,554,52,606,19265,5076,24341,40
+9,Fatikchhari,33,287,24,311,7095,9546,16641,54
+10,Hathazari,20,365,30,395,4235,1815,6050,15
+11,Lohagara,22,380,5,385,4000,3000,7000,18
+12,Mirsharai,16,195,30,225,5825,2465,8290,37
+13,Patiya,80,172,90,262,3720,2270,5990,23
+14,Rangunia,20,235,30,265,1850,1575,3425,13
+15,Raozan,21,353,20,373,4361,3292,7653,21
+16,Sandwip,8,132,0,132,2550,350,2900,22
+17,Satkania,62,410,71,481,10339,12131,22470,47
+18,Sitakunda,14,203,23,226,1548,1333,2881,13
+19,Total,395,4127,410,4519,72293,53278,165655,37

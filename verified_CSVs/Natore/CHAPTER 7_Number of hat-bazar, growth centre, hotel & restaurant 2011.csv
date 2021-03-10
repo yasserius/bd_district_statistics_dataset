@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,"Number of hat-bazar, growth centre, hotel  restaurant 2011",,,,,
-1,,,,,,
-2,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
-3,Bagatipara,0,19,3,16,0
-4,Baraigram,7,24,3,60,2
-5,Gurudaspur,18,18,6,22,2
-6,Lalpur,6,28,6,31,0
-7,Natore Sadar,48,22,4,87,6
-8,Singra,7,23,6,172,0
-9,Total,86,134,28,388,10
+1,Natore,,,,,
+2,,,,,,
+3,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
+4,Bagatipara,0,19,3,16,0
+5,Baraigram,7,24,3,60,2
+6,Gurudaspur,18,18,6,22,2
+7,Lalpur,6,28,6,31,0
+8,Natore Sadar,48,22,4,87,6
+9,Singra,7,23,6,172,0
+10,Total,86,134,28,388,10

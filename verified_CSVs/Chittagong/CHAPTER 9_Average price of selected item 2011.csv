@@ -1,20 +1,21 @@
 ,0,1,2,3,4,5,6,7
 0,Average price of selected item 2011,,,,,,,
-1,"(Price unit per kg, taka)",,,,,,,
-2,Upazila/City corporation,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
-3,Anowara,38,33,26,21,35,14,130
-4,Banshkhali,40,30,25,20,35,12,140
-5,Boalkhali,45,42,33,22,32,13,140
-6,Chandanaish,50,45,32,23,30,13,140
-7,Chittagong City Corp.,43,39,30,23,36,13,126
-8,Fatikchhari,50,35,30,25,35,15,130
-9,Hathazari,38,34,29,20,30,10,125
-10,Lohagara,33,28,24,24,35,12,120
-11,Mirsharai,43,30,26,22,32,12,130
-12,Patiya,36,32,28,28,30,12,125
-13,Rangunia,34,30,25,20,33,15,125
-14,Raozan,42,38,32,28,32,12,120
-15,Sandwip,52,42,32,32,32,18,125
-16,Satkania,35,32,28,24,34,12,125
-17,Sitakunda,37,34,32,26,30,12,100
-18,Average,40,35,30,25,33,13,125
+1,Chittagong,,,,,,,
+2,"(Price unit per kg, taka)",,,,,,,
+3,Upazila/City corporation,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
+4,Anowara,38,33,26,21,35,14,130
+5,Banshkhali,40,30,25,20,35,12,140
+6,Boalkhali,45,42,33,22,32,13,140
+7,Chandanaish,50,45,32,23,30,13,140
+8,Chittagong City Corporation,43,39,30,23,36,13,126
+9,Fatikchhari,50,35,30,25,35,15,130
+10,Hathazari,38,34,29,20,30,10,125
+11,Lohagara,33,28,24,24,35,12,120
+12,Mirsharai,43,30,26,22,32,12,130
+13,Patiya,36,32,28,28,30,12,125
+14,Rangunia,34,30,25,20,33,15,125
+15,Raozan,42,38,32,28,32,12,120
+16,Sandwip,52,42,32,32,32,18,125
+17,Satkania,35,32,28,24,34,12,125
+18,Sitakunda,37,34,32,26,30,12,100
+19,Average,40,35,30,25,33,13,125

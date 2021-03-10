@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6
 0,Broad soil classification 2008,,,,,,
-1,(Area in acre),,,,,,
-2,Upazila/City corporation,Total,Soil classification Doash,Soil classification Bele,Soil classification Etel,Soil classification Kankar,Soil classification Others
-3,Balaganj,85936,9389,0,76547,0,0
-4,Beanibazar,17500,4300,6000,2000,2000,2200
-5,Bishwanath,52320,10840,4710,35450,1320,0
-6,Companiganj,68690,23690,10500,21000,6000,7500
-7,Dakhin surma,46371.78,42000,3000,1372,0,0
-8,Fenchuganj,28276.56,24000,2900,1600,200,76.56
-9,Golapganj,60397,36473,3769,4674,1326,14155
-10,Gowainghat,118885,53498,39055,17832,8500,0
-11,Jaintiapur,60860,29028,7440,11650,12742,0
-12,Kanaighat,57365,34580,1880,4940,7986,0
-13,Sylhet city corporation,0,0,0,0,0,0
-14,Sylhet sadar,31515,5688,3466,14891,1123,6347
-15,Zakiganj,37000,30000,3000,2800,1000,200
-16,Total,665116.34,303486,85720,194756,42197,30478.56
+1,Sylhet,,,,,,
+2,(Area in acre),,,,,,
+3,Upazila/City Corporation,Total,Soil classification Doash,Soil classification Bele,Soil classification Etel,Soil classification Kankar,Soil classification Others
+4,Balaganj,85936,9389,0,76547,0,0
+5,Beanibazar,17500,4300,6000,2000,2000,2200
+6,Bishwanath,52320,10840,4710,35450,1320,0
+7,Companiganj,68690,23690,10500,21000,6000,7500
+8,Dakhin Surma,46371.78,42000,3000,1372,0,0
+9,Fenchuganj,28276.56,24000,2900,1600,200,76.56
+10,Golapganj,60397,36473,3769,4674,1326,14155
+11,Gowainghat,118885,53498,39055,17832,8500,0
+12,Jaintiapur,60860,29028,7440,11650,12742,0
+13,Kanaighat,57365,34580,1880,4940,7986,0
+14,Sylhet City Corporation,0,0,0,0,0,0
+15,Sylhet Sadar,31515,5688,3466,14891,1123,6347
+16,Zakiganj,37000,30000,3000,2800,1000,200
+17,Total,665116.34,303486,85720,194756,42197,30478.56

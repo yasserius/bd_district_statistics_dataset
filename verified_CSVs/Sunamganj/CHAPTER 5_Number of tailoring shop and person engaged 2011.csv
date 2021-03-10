@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5
 0,Number of tailoring shop and person engaged 2011,,,,,
-1,,,,,,
-2,Upazila,Number of unit,Investment ( in lac taka),Person engaged Family,Person engaged Hired,Person engaged Total
-3,Bishwamvarpur,76,8,76,180,256
-4,Chhatak,315,32,348,64,412
-5,Dakshin Sunamganj,20,2,20,60,80
-6,Derai,42,6,51,127,178
-7,Dharmapasha,260,30,450,220,675
-8,Doarabazar,80,8,55,185,240
-9,Jagannathpur,127,15,127,254,381
-10,Jamalganj,40,3,40,40,80
-11,Shalla,20,6,30,40,70
-12,Sunamganj Sadar,105,4,130,210,340
-13,Tahirpur,150,17,150,75,225
-14,Total,1235,130,1477,1555,3613
+1,Sunamganj,,,,,
+2,,,,,,
+3,Upazila,Number of unit,Investment ( in lac taka),Person engaged Family,Person engaged Hired,Person engaged Total
+4,Bishwamvarpur,76,8,76,180,256
+5,Chhatak,315,32,348,64,412
+6,Dakshin Sunamganj,20,2,20,60,80
+7,Derai,42,6,51,127,178
+8,Dharmapasha,260,30,450,220,675
+9,Doarabazar,80,8,55,185,240
+10,Jagannathpur,127,15,127,254,381
+11,Jamalganj,40,3,40,40,80
+12,Shalla,20,6,30,40,70
+13,Sunamganj Sadar,105,4,130,210,340
+14,Tahirpur,150,17,150,75,225
+15,Total,1235,130,1477,1555,3613

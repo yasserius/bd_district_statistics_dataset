@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,,,,,,,,
-2,Upazila/city corporation,Current fallow,Temporary cropped area Single,Temporary cropped area Double,Temporary cropped area Triple,Temporary cropped area Net,Temporary cropped area Gross,Productivity of crop
-3,Agailjhara,177,1765,19755,7856,29376,64843,168
-4,Babuganj,343,4825,17911,1174,23910,44512,186
-5,Bakerganj,159,24334,51968,7533,83835,58412,202
-6,Banaripara,102,6800,10050,3250,20100,36746,182.81
-7,Barisal city corporation,24,1049,3367,1389,5805,11992,2.06
-8,Barisal sadar,176,7981,22279,7785,38045,76111,2
-9,Gaurnadi,45,11023,2953,3002,16978,25935,153
-10,Hizla,1563,14652,19295,7150,41097,42660,96
-11,Mehendiganj,1510,13738,11473,6990,32201,57654,1.79
-12,Muladi,210,7100,22400,8300,37800,80463,2.12
-13,Wazirpur,228,18528,18750,6400,43678,75228,1.72
-14,Total,4537,111795,200201,60829,372825,574556,997.5
+1,Barisal,,,,,,,
+2,,,,,,,,
+3,Upazila/city corporation,Current fallow,Temporary cropped area Single,Temporary cropped area Double,Temporary cropped area Triple,Temporary cropped area Net,Temporary cropped area Gross,Productivity of crop
+4,Agailjhara,177,1765,19755,7856,29376,64843,168
+5,Babuganj,343,4825,17911,1174,23910,44512,186
+6,Bakerganj,159,24334,51968,7533,83835,58412,202
+7,Banaripara,102,6800,10050,3250,20100,36746,182.81
+8,Barisal city corporation,24,1049,3367,1389,5805,11992,2.06
+9,Barisal Sadar,176,7981,22279,7785,38045,76111,2
+10,Gaurnadi,45,11023,2953,3002,16978,25935,153
+11,Hizla,1563,14652,19295,7150,41097,42660,96
+12,Mehendiganj,1510,13738,11473,6990,32201,57654,1.79
+13,Muladi,210,7100,22400,8300,37800,80463,2.12
+14,Wazirpur,228,18528,18750,6400,43678,75228,1.72
+15,Total,4537,111795,200201,60829,372825,574556,997.5

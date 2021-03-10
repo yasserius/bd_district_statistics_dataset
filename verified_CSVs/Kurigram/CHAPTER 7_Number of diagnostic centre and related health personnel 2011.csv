@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Bhurungamari,2,4,4,3,4
-4,Char Rajibpur,2,2,2,3,5
-5,Chilmari,2,0,0,2,2
-6,Kurigram Sadar,11,11,20,11,28
-7,Nageshwari,2,4,6,3,8
-8,Phulbari,1,1,0,2,3
-9,Rajarhat,2,0,0,2,2
-10,Raumari,6,4,8,9,6
-11,Ulipur,4,0,0,4,4
-12,Total,32,26,40,39,62
+1,Kurigram,,,,,
+2,,,,,,
+3,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Bhurungamari,2,4,4,3,4
+5,Char Rajibpur,2,2,2,3,5
+6,Chilmari,2,0,0,2,2
+7,Kurigram Sadar,11,11,20,11,28
+8,Nageshwari,2,4,6,3,8
+9,Phulbari,1,1,0,2,3
+10,Rajarhat,2,0,0,2,2
+11,Raumari,6,4,8,9,6
+12,Ulipur,4,0,0,4,4
+13,Total,32,26,40,39,62

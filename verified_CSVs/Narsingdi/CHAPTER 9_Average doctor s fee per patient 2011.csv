@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,Average doctor s fee per patient 2011,,,,,
-1,(Fee in taka),,,,,
-2, Upazila,Doctor - MBBS,Doctor - FCPS,Doctor - Dentist,Doctor - Gynecologist,Doctor - Homeopathy
-3,Belabo,200,0,100,50,0
-4,Manohardi,200,100,100,400,50
-5,Narsingdi Sadar,300,500,400,400,50
-6,Palash,100,200,100,200,50
-7,Roypura,150,200,100,200,0
-8,Sibpur,200,200,100,200,50
-9,Average,191,240,150,242,50
+1,Narsingdi,,,,,
+2,(Fee in taka),,,,,
+3, Upazila,Doctor - MBBS,Doctor - FCPS,Doctor - Dentist,Doctor - Gynecologist,Doctor - Homeopathy
+4,Belabo,200,0,100,50,0
+5,Manohardi,200,100,100,400,50
+6,Narsingdi Sadar,300,500,400,400,50
+7,Palash,100,200,100,200,50
+8,Roypura,150,200,100,200,0
+9,Shibpur,200,200,100,200,50
+10,Average,191,240,150,242,50

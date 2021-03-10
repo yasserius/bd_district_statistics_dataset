@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building materials 2011,,,,,,
-1,(Price in Taka),,,,,,
-2,Upazila,Brick-01 (per1000),Cement (per 50 KG Bag),Iron Bar (per Ton),Sand-01 (Per C.Ft.),Sand -02 (Per C.Ft.),Stone (Per C.Ft.)
-3,Austagram,6500,465,60000,35,10,80
-4,Bajitpur,6000,440,65000,25,12,100
-5,Bhairab,6000,400,45000,20,18,60
-6,Hossainpur,6000,445,70000,15,10,15
-7,Itna,6500,450,63000,13,10,55
-8,Karimganj,6500,435,68000,20,14,45
-9,Katiadi,6000,450,6500,18,12,0
-10,Kishoreganj Sadar,6000,420,72500,7000,5500,8000
-11,Kuliar-char,6000,420,60,20,15,0
-12,Mithamain,7000,500,63000,35,10,100
-13,Nikli,6000,450,58000,25,10,90
-14,Pakundia,5500,450,58000,30,15,120
-15,Tarail,7000,490,35200,20,22,42
-16,Total,81000,5815,664260,7276,5658,8707
+1,Kishoreganj,,,,,,
+2,(Price in Taka),,,,,,
+3,Upazila,Brick-01 (per1000),Cement (per 50 KG Bag),Iron Bar (per Ton),Sand-01 (Per C.Ft.),Sand -02 (Per C.Ft.),Stone (Per C.Ft.)
+4,Austagram,6500,465,60000,35,10,80
+5,Bajitpur,6000,440,65000,25,12,100
+6,Bhairab,6000,400,45000,20,18,60
+7,Hossainpur,6000,445,70000,15,10,15
+8,Itna,6500,450,63000,13,10,55
+9,Karimganj,6500,435,68000,20,14,45
+10,Katiadi,6000,450,6500,18,12,0
+11,Kishoreganj Sadar,6000,420,72500,7000,5500,8000
+12,Kuliar-char,6000,420,60,20,15,0
+13,Mithamain,7000,500,63000,35,10,100
+14,Nikli,6000,450,58000,25,10,90
+15,Pakundia,5500,450,58000,30,15,120
+16,Tarail,7000,490,35200,20,22,42
+17,Total,81000,5815,664260,7276,5658,8707

@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of handloom establishment and loom 2011,,,,
-1,,,,,
-2, Upazila,Number of unit (factory),Number of loom - Operational,Number of loom - Non-operational,Number of loom - Total
-3,Bagatipara,0,0,0,0
-4,Baraigram,0,0,0,0
-5,Gurudaspur,0,0,0,0
-6,Lalpur,28,13,15,28
-7,Natore Sadar,26,10,2,12
-8,Singra,0,0,0,0
-9,Total,54,23,17,40
+1,Natore,,,,
+2,,,,,
+3, Upazila,Number of unit (factory),Number of loom - Operational,Number of loom - Non-operational,Number of loom - Total
+4,Bagatipara,0,0,0,0
+5,Baraigram,0,0,0,0
+6,Gurudaspur,0,0,0,0
+7,Lalpur,28,13,15,28
+8,Natore Sadar,26,10,2,12
+9,Singra,0,0,0,0
+10,Total,54,23,17,40

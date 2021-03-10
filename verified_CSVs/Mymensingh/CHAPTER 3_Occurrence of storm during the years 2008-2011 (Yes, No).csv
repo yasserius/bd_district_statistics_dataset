@@ -1,16 +1,17 @@
 ,0,1,2,3,4
 0,"Occurrence of storm during the years 2008-2011 (Yes, No)",,,,
-1,,,,,
-2,Upazila,2008,2009,2010,2011
-3,Bhaluka,No,Yes,No,No
-4,Yes Yes Dhobaura,Yes,Yes,Yes,Yes
-5,Fulbaria,No,No,No,Yes
-6,Gaffargaon,No,No,No,No
-7,Gauripur,No,Yes,No,No
-8,Yes Haluaghat,Yes,Yes,Yes,Yes
-9,Ishwargonj,No,No,No,Yes
-10,Muktagacha,No,No,Yes,Yes
-11,Mymensingh Sadar,No,No,No,Yes
-12,Nandail,No,No,No,No
-13,Phulpur,No,No,No,No
-14,Trishal,No,Yes,No,No
+1,Mymensingh,,,,
+2,,,,,
+3,Upazila,2008,2009,2010,2011
+4,Bhaluka,No,Yes,No,No
+5,Dhobaura,Yes,Yes,Yes,Yes
+6,Fulbaria,No,No,No,Yes
+7,Gaffargaon,No,No,No,No
+8,Gauripur,No,Yes,No,No
+9,Haluaghat,Yes,Yes,Yes,Yes
+10,Ishwargonj,No,No,No,Yes
+11,Muktagacha,No,No,Yes,Yes
+12,Mymensingh Sadar,No,No,No,Yes
+13,Nandail,No,No,No,No
+14,Phulpur,No,No,No,No
+15,Trishal,No,Yes,No,No

@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of wheat, jute and sugarcan crops 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Wheat Area,Wheat Production,Jute Area,Jute Production,Sugarcane Area,Sugarcane Production
-3,Bishwamvarpur,450,510,50,20,100,1850
-4,Chhatak,13,10,0,0,0,0
-5,Dakshin Sunamganj,4,2,0,0,0,0
-6,Derai,0,0,0,0,0,0
-7,Dharmapasha,43,33,50,34,0,0
-8,Doarabazar,408,10,0,0,0,0
-9,Jagannathpur,0,0,0,0,0,0
-10,Jamalganj,70,33,0,0,0,0
-11,Shalla,0,0,0,0,0,0
-12,Sunamganj Sadar,255,237,0,0,0,0
-13,Tahirpur,0,0,0,0,0,0
-14,Total,1243,835,100,54,100,1850
+1,Sunamganj,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Wheat Area,Wheat Production,Jute Area,Jute Production,Sugarcane Area,Sugarcane Production
+4,Bishwamvarpur,450,510,50,20,100,1850
+5,Chhatak,13,10,0,0,0,0
+6,Dakshin Sunamganj,4,2,0,0,0,0
+7,Derai,0,0,0,0,0,0
+8,Dharmapasha,43,33,50,34,0,0
+9,Doarabazar,408,10,0,0,0,0
+10,Jagannathpur,0,0,0,0,0,0
+11,Jamalganj,70,33,0,0,0,0
+12,Shalla,0,0,0,0,0,0
+13,Sunamganj Sadar,255,237,0,0,0,0
+14,Tahirpur,0,0,0,0,0,0
+15,Total,1243,835,100,54,100,1850

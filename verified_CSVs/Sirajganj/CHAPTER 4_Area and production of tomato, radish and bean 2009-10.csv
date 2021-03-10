@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Tomato - Area,Tomato - Production,Radish - Area,Radish - Production,Bean - Area,Bean - Production
-3,Belkuchi,2 3,32,91,530,58,45
-4,Chauhali,18,17,136,517,32,39
-5,Kamarkhanda,15,32,83,173,25,21
-6,Kazipur,49,680,124,1000,74,255
-7,Royganj,110,668,100,810,17,11
-8,Shahjadpur,25,38,376,1227,19,15
-9,Sirajganj Sadar,60,870,320,3870,9,11
-10,Tarash,38,112,81,239,38,58
-11,Ullahpara,92,19 3,314,862,61,55
-12,Total,407,2449,1625,9228,333,510
+1,Sirajganj,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Tomato - Area,Tomato - Production,Radish - Area,Radish - Production,Bean - Area,Bean - Production
+4,Belkuchi,2 3,32,91,530,58,45
+5,Chauhali,18,17,136,517,32,39
+6,Kamarkhanda,15,32,83,173,25,21
+7,Kazipur,49,680,124,1000,74,255
+8,Royganj,110,668,100,810,17,11
+9,Shahjadpur,25,38,376,1227,19,15
+10,Sirajganj Sadar,60,870,320,3870,9,11
+11,Tarash,38,112,81,239,38,58
+12,Ullahpara,92,19 3,314,862,61,55
+13,Total,407,2449,1625,9228,333,510

@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,Existing position of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
-3,Bhurungamari,20,9,585,46,660
-4,Char Rajibpur,17,16,257,63,353
-5,Chilmari,13,13,510,151,687
-6,Kurigram Sadar,99,12,483,69,663
-7,Nageshwari,25,24,725,112,886
-8,Phulbari,19,13,465,64,256
-9,Rajarhat,25,49,454,47,575
-10,Raumari,15,25,470,62,572
-11,Ulipur,27,36,1097,135,1295
-12,Total,260,197,5046,749,5947
+1,Kurigram,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
+4,Bhurungamari,20,9,585,46,660
+5,Char Rajibpur,17,16,257,63,353
+6,Chilmari,13,13,510,151,687
+7,Kurigram Sadar,99,12,483,69,663
+8,Nageshwari,25,24,725,112,886
+9,Phulbari,19,13,465,64,256
+10,Rajarhat,25,49,454,47,575
+11,Raumari,15,25,470,62,572
+12,Ulipur,27,36,1097,135,1295
+13,Total,260,197,5046,749,5947

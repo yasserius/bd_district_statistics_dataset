@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Existing position of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
-3,Barlekha,11,10,150,49,220
-4,Juri,11,14,318,53,396
-5,Kamalganj,13,17,76,43,149
-6,Kulaura,34,24,1325,82,1465
-7,Moulvibazar Sadar,102,65,658,304,1452
-8,Rajnagar,19,18,190,110,337
-9,Sreemangal,31,81,1413,795,2320
-10,Total,221,229,4130,1436,6339
+1,Moulvibazar,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
+4,Barlekha,11,10,150,49,220
+5,Juri,11,14,318,53,396
+6,Kamalganj,13,17,76,43,149
+7,Kulaura,34,24,1325,82,1465
+8,Moulvibazar Sadar,102,65,658,304,1452
+9,Rajnagar,19,18,190,110,337
+10,Sreemangal,31,81,1413,795,2320
+11,Total,221,229,4130,1436,6339

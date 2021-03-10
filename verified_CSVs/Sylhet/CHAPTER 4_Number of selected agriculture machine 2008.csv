@@ -1,18 +1,19 @@
 ,0,1,2,3
 0,Number of selected agriculture machine 2008,,,
-1,,,,
-2,Upazila/City corporation,Number of power tiller,Tractor,Number of threshing machine
-3,Balaganj,1080,5,985
-4,Beanibazar,130,11,50
-5,Bishwanath,606,2,454
-6,Companiganj,80,8,70
-7,Dakhin surma,205,2,75
-8,Fenchuganj,132,2,65
-9,Golapganj,192,2,53
-10,Gowainghat,85,35,35
-11,Jaintiapur,122,5,50
-12,Kanaighat,439,16,207
-13,Sylhet city corporation,0,0,0
-14,Sylhet sadar,160,5,40
-15,Zakiganj,42,66,168
-16,Total,3273,159,2252
+1,Sylhet,,,
+2,,,,
+3,Upazila/City Corporation,Number of power tiller,Tractor,Number of threshing machine
+4,Balaganj,1080,5,985
+5,Beanibazar,130,11,50
+6,Bishwanath,606,2,454
+7,Companiganj,80,8,70
+8,Dakhin Surma,205,2,75
+9,Fenchuganj,132,2,65
+10,Golapganj,192,2,53
+11,Gowainghat,85,35,35
+12,Jaintiapur,122,5,50
+13,Kanaighat,439,16,207
+14,Sylhet City Corporation,0,0,0
+15,Sylhet Sadar,160,5,40
+16,Zakiganj,42,66,168
+17,Total,3273,159,2252

@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2009-2010,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
-3,Alikadam,3723,1132,2750,3020,1517,5388
-4,Bandarban Sadar,1503,1090,4600,4851,1675,1883
-5,Lama,4050,1057,5576,7119,1864,3524
-6,Naikhongchhari,1400,634,5725,5796,2920,1643
-7,Rowangchhari,1829,676,1602,1725,1000,1650
-8,Ruma,3690,860,75,70,160,196
-9,Thanchi,0,0,0,0,0,0
-10,Total,16195,5453,20328,22581,9136,14285
+1,Bandarban,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
+4,Alikadam,3723,1132,2750,3020,1517,5388
+5,Bandarban Sadar,1503,1090,4600,4851,1675,1883
+6,Lama,4050,1057,5576,7119,1864,3524
+7,Naikhongchhari,1400,634,5725,5796,2920,1643
+8,Rowangchhari,1829,676,1602,1725,1000,1650
+9,Ruma,3690,860,75,70,160,196
+10,Thanchi,0,0,0,0,0,0
+11,Total,16195,5453,20328,22581,9136,14285

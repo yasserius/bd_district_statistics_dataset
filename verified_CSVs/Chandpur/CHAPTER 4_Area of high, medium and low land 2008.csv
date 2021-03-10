@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,"Area of high, medium and low land 2008",,,,
-1,,,,,
-2,Upazila,High land,Medium land,Low land,Total land
-3,Chandpur Sadar,2287,30130,10100,42517
-4,Foridganj,1895,28457,1586,31938
-5,Haimchar,275,12247,300,12822
-6,Hajiganj,1015,25315,4495,30825
-7,Kachua,11253,17000,30000,58253
-8,Matlab Dakshin,2912,19806,296,23014
-9,Matlab Uttar,4750,33961,5054,43765
-10,Shahrasti,1950,26325,800,29075
-11,Total,26337,193241,52631,272209
+1,Chandpur,,,,
+2,,,,,
+3,Upazila,High land,Medium land,Low land,Total land
+4,Chandpur Sadar,2287,30130,10100,42517
+5,Foridganj,1895,28457,1586,31938
+6,Haimchar,275,12247,300,12822
+7,Hajiganj,1015,25315,4495,30825
+8,Kachua,11253,17000,30000,58253
+9,Matlab Dakshin,2912,19806,296,23014
+10,Matlab Uttar,4750,33961,5054,43765
+11,Shahrasti,1950,26325,800,29075
+12,Total,26337,193241,52631,272209

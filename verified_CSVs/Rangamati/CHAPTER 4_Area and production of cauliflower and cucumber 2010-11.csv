@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,Area and production of cauliflower and cucumber 2010-11,,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
-3,Baghaichhari,40,17,102,206
-4,Barkal,8,21,11,28
-5,Belai Chhari,3,2,30,67
-6,Jurai Chhari,3,3,15,41
-7,Kaptai,16,32,18,34
-8,Kawkhali,14,56,57,112
-9,Langadu,21,169,21,34
-10,Naniarchar,63,77,108,195
-11,Rangamati Sadar,35,66,86,208
-12,Rajasthali,6,3,10,21
-13,Total,209,445,458,946
+1,Rangamati,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
+4,Baghaichhari,40,17,102,206
+5,Barkal,8,21,11,28
+6,Belai Chhari,3,2,30,67
+7,Jurai Chhari,3,3,15,41
+8,Kaptai,16,32,18,34
+9,Kawkhali,14,56,57,112
+10,Langadu,21,169,21,34
+11,Naniarchar,63,77,108,195
+12,Rangamati Sadar,35,66,86,208
+13,Rajasthali,6,3,10,21
+14,Total,209,445,458,946

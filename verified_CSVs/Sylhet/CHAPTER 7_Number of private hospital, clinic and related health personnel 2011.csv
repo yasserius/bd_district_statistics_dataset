@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,,,,,,,
-2,Upazila/City corporation,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technicians,Number of other staff
-3,Balaganj,1,50,7,4,11,34
-4,Beanibazar,3,30,6,9,6,15
-5,Bishwanath,0,0,0,0,0,0
-6,Companiganj,0,0,0,0,0,0
-7,Dakhin surma,0,0,0,0,0,0
-8,Fenchuganj,0,0,0,0,0,0
-9,Golapganj,10,0,25,10,30,22
-10,Gowainghat,0,0,0,0,0,0
-11,Jaintiapur,0,0,0,0,0,0
-12,Kanaighat,0,0,0,0,0,0
-13,Sylhet city corporation,44,2876,703,832,149,2286
-14,Sylhet sadar,0,0,0,0,0,0
-15,Zakiganj,0,0,0,0,0,0
-16,Total,58,2956,741,855,196,2357
+1,Sylhet,,,,,,
+2,,,,,,,
+3,Upazila/City Corporation,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technicians,Number of other staff
+4,Balaganj,1,50,7,4,11,34
+5,Beanibazar,3,30,6,9,6,15
+6,Bishwanath,0,0,0,0,0,0
+7,Companiganj,0,0,0,0,0,0
+8,Dakhin Surma,0,0,0,0,0,0
+9,Fenchuganj,0,0,0,0,0,0
+10,Golapganj,10,0,25,10,30,22
+11,Gowainghat,0,0,0,0,0,0
+12,Jaintiapur,0,0,0,0,0,0
+13,Kanaighat,0,0,0,0,0,0
+14,Sylhet City Corporation,44,2876,703,832,149,2286
+15,Sylhet Sadar,0,0,0,0,0,0
+16,Zakiganj,0,0,0,0,0,0
+17,Total,58,2956,741,855,196,2357

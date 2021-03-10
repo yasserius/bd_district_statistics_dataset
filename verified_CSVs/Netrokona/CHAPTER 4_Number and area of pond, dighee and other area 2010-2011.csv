@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Number and area of pond, dighee and other area 2010-2011",,,,,,
-1,(Area in acre),,,,,,
-2, Upazila,Pond Number,Pond Area,Dighee Number,Dighee Area, Other area, Total area
-3,Atpara,3417,728,40,27,481,1236
-4,Barhatta,5855,2267,0,0,1746,4013
-5,Durgapur,4788,1632,1,1,0,1633
-6,Kalmakanda,3516,1071,0,0,4879,5950
-7,Kendua,7103,1583,0,0,2067,3649
-8,Khaliajuri,345,154,0,0,57502,57656
-9,Madan,1850,857,0,0,7672,8529
-10,Mohanganj,2644,1252,25,12,41,1305
-11,Netrokona Sadar,12025,1892,104,120,414,2426
-12,Purbadhala,8330,778,0,0,477,1255
-13,Total,49873,12214,170,160,75279,87653
+1,Netrokona,,,,,,
+2,(Area in acre),,,,,,
+3,Upazila,Pond Number,Pond Area,Dighee Number,Dighee Area, Other area, Total area
+4,Atpara,3417,728,40,27,481,1236
+5,Barhatta,5855,2267,0,0,1746,4013
+6,Durgapur,4788,1632,1,1,0,1633
+7,Kalmakanda,3516,1071,0,0,4879,5950
+8,Kendua,7103,1583,0,0,2067,3649
+9,Khaliajuri,345,154,0,0,57502,57656
+10,Madan,1850,857,0,0,7672,8529
+11,Mohanganj,2644,1252,25,12,41,1305
+12,Netrokona Sadar,12025,1892,104,120,414,2426
+13,Purbadhala,8330,778,0,0,477,1255
+14,Total,49873,12214,170,160,75279,87653

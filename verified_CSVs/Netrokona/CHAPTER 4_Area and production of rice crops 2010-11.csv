@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2010-11,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Aus Area,Aus Production,Aman Area,Aman Production,Boro Area,Boro Production
-3,Atpara,495,375,24166,21128,28053,45907
-4,Barhatta,50,40,37505,36156,34025,53975
-5,Durgapur,51,33,40714,38626,45085,93904
-6,Kalmakanda,1111,999,40450,32559,47692,24881
-7,Kendua,926,580,47918,48803,20850,83995
-8,Khaliajuri,0,0,494,450,45695,64750
-9,Madan,0,0,23218,24050,41002,66144
-10,Mohanganj,0,0,15625,13871,33750,53973
-11,Netrokona Sadar,30,22,55822,57902,54217,87835
-12,Purbadhala,0,0,49952,39003,52500,84241
-13,Total,2663,2049,335864,312548,402869,659605
+1,Netrokona,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Aus Area,Aus Production,Aman Area,Aman Production,Boro Area,Boro Production
+4,Atpara,495,375,24166,21128,28053,45907
+5,Barhatta,50,40,37505,36156,34025,53975
+6,Durgapur,51,33,40714,38626,45085,93904
+7,Kalmakanda,1111,999,40450,32559,47692,24881
+8,Kendua,926,580,47918,48803,20850,83995
+9,Khaliajuri,0,0,494,450,45695,64750
+10,Madan,0,0,23218,24050,41002,66144
+11,Mohanganj,0,0,15625,13871,33750,53973
+12,Netrokona Sadar,30,22,55822,57902,54217,87835
+13,Purbadhala,0,0,49952,39003,52500,84241
+14,Total,2663,2049,335864,312548,402869,659605

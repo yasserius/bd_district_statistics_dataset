@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization 2008,,,,,
-1,,,,,,
-2,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
-3,Barlekha,45734,9492,28888,244,1426
-4,Juri,17776,2403,12665,106,2457
-5,Kamalganj,36352,3304,26576,66,5622
-6,Kulaura,53936,5584,37142,144,6238
-7,Moulvibazar Sadar,49646,2511,36655,394,8504
-8,Rajnagar,41641,2043,32197,218,7401
-9,Sreemangal,32243,3120,22791,74,1898
-10,Total,277328,28458,196914,1245,33546
+1,Moulvibazar,,,,,
+2,,,,,,
+3,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
+4,Barlekha,45734,9492,28888,244,1426
+5,Juri,17776,2403,12665,106,2457
+6,Kamalganj,36352,3304,26576,66,5622
+7,Kulaura,53936,5584,37142,144,6238
+8,Moulvibazar Sadar,49646,2511,36655,394,8504
+9,Rajnagar,41641,2043,32197,218,7401
+10,Sreemangal,32243,3120,22791,74,1898
+11,Total,277328,28458,196914,1245,33546

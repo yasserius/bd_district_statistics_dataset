@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pumpkin, parble (potol) and cabbage 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Pumpkin Area,Pumpkin Production,Parble (potol) Area,Parble (potol) Production,Cabbage Area,Cabbage Production
-3,Bishwamvarpur,200,1760,0,0,310,6250
-4,Chhatak,51,178,0,0,26,52
-5,Dakshin Sunamganj,72,460,0,0,5,32
-6,Derai,25,145,0,0,30,404
-7,Dharmapasha,43,95,0,0,0,0
-8,Doarabazar,49,135,0,0,27,57
-9,Jagannathpur,38,152,0,0,44,132
-10,Jamalganj,40,324,0,0,10,101
-11,Shalla,8,10,0,0,0,0
-12,Sunamganj Sadar,990,529,0,0,150,500
-13,Tahirpur,0,0,0,0,0,0
-14,Total,1491,3642,0,0,602,7528
+1,Sunamganj,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Pumpkin Area,Pumpkin Production,Parble (potol) Area,Parble (potol) Production,Cabbage Area,Cabbage Production
+4,Bishwamvarpur,200,1760,0,0,310,6250
+5,Chhatak,51,178,0,0,26,52
+6,Dakshin Sunamganj,72,460,0,0,5,32
+7,Derai,25,145,0,0,30,404
+8,Dharmapasha,43,95,0,0,0,0
+9,Doarabazar,49,135,0,0,27,57
+10,Jagannathpur,38,152,0,0,44,132
+11,Jamalganj,40,324,0,0,10,101
+12,Shalla,8,10,0,0,0,0
+13,Sunamganj Sadar,990,529,0,0,150,500
+14,Tahirpur,0,0,0,0,0,0
+15,Total,1491,3642,0,0,602,7528

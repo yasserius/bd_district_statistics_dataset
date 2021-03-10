@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Non-government secondary school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of  School,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Kushtia Sadar,54,483,184,667,11453,11900,23353,35
-4,Bheramara,29,259,123,382,7066,8032,15098,40
-5,Daulatpur,83,698,226,924,15665,13343,29004,31
-6,Khoksa,23,176,65,241,3568,3688,7256,30
-7,Kumarkhali,52,438,104,542,8947,10330,19277,36
-8,Mirpur,55,283,130,413,8633,9419,18052,44
-9,Total,296,2337,832,3169,55332,56712,112040,32
+1,Kushtia,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of  School,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Kushtia Sadar,54,483,184,667,11453,11900,23353,35
+5,Bheramara,29,259,123,382,7066,8032,15098,40
+6,Daulatpur,83,698,226,924,15665,13343,29004,31
+7,Khoksa,23,176,65,241,3568,3688,7256,30
+8,Kumarkhali,52,438,104,542,8947,10330,19277,36
+9,Mirpur,55,283,130,413,8633,9419,18052,44
+10,Total,296,2337,832,3169,55332,56712,112040,32

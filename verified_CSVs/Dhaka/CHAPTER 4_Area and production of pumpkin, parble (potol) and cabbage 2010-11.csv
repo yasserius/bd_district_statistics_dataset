@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pumpkin, parble (potol) and cabbage 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Pumpkin Area,Pumpkin Production,Parble (potol) Area,Parble (potol) Production,Cabbage Area,Cabbage Production
-3,Dhaka Metropolitan,24,54,0,0,74,352
-4,Dhamrai,369,1411,50,57,308,682
-5,Dohar,58,153,48,102,36,120
-6,Keraniganj,248,527,90,90,117,1954
-7,Nawabganj,204,766,142,497,187,1683
-8,Savar,183,447,36,19,102,326
-9,Total,1086,3358,366,765,824,5117
+1,Dhaka,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Pumpkin Area,Pumpkin Production,Parble (potol) Area,Parble (potol) Production,Cabbage Area,Cabbage Production
+4,Dhaka Metropolitan,24,54,0,0,74,352
+5,Dhamrai,369,1411,50,57,308,682
+6,Dohar,58,153,48,102,36,120
+7,Keraniganj,248,527,90,90,117,1954
+8,Nawabganj,204,766,142,497,187,1683
+9,Savar,183,447,36,19,102,326
+10,Total,1086,3358,366,765,824,5117

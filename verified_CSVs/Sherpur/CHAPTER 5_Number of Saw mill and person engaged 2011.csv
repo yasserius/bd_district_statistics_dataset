@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of Saw mill and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Jhenaigati,13,13,42,55
-4,Nakla,35,35,105,140
-5,Nalitabari,29,36,87,123
-6,Sherpur Sadar,97,97,366,463
-7,Sreebardi,26,25,60,85
-8,Total,200,206,660,866
+1,Sherpur,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Jhenaigati,13,13,42,55
+5,Nakla,35,35,105,140
+6,Nalitabari,29,36,87,123
+7,Sherpur Sadar,97,97,366,463
+8,Sreebardi,26,25,60,85
+9,Total,200,206,660,866

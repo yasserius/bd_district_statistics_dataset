@@ -1,7 +1,8 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,"Number of primary school (Class I-V), teacher and student by municipality 2011",,,,,,,,,,
-1,,,,,,,,,,,
-2, Municipality,Primary school - Govt.,Primary school - Non- govt.,Primary school - Total,Number of teacher - Govt.,Number of teacher - Non- govt.,Number of teacher - Total,Number of student - Govt.,Number of student - Non- govt.,Number of student - Total,Students per teacher
-3,Kalaroa,5,2,7,32,8,40,1485,389,1874,47
-4,Satkhira,34,0,34,180,0,180,6801,0,6801,38
-5,Total,39,2,41,212,8,220,8286,389,8675,39
+1,Satkhira,,,,,,,,,,
+2,,,,,,,,,,,
+3, Municipality,Primary school - Govt.,Primary school - Non- govt.,Primary school - Total,Number of teacher - Govt.,Number of teacher - Non- govt.,Number of teacher - Total,Number of student - Govt.,Number of student - Non- govt.,Number of student - Total,Students per teacher
+4,Kalaroa,5,2,7,32,8,40,1485,389,1874,47
+5,Satkhira,34,0,34,180,0,180,6801,0,6801,38
+6,Total,39,2,41,212,8,220,8286,389,8675,39

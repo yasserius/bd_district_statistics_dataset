@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of flour mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Belabo,0,0,0,0
-4,Manohardi,12,12,12,24
-5,Narsingdi Sadar,14,22,6,28
-6,Palash,28,28,22,50
-7,Roypura,15,15,10,25
-8,Sibpur,0,0,0,0
-9,Total,69,77,50,127
+1,Narsingdi,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Belabo,0,0,0,0
+5,Manohardi,12,12,12,24
+6,Narsingdi Sadar,14,22,6,28
+7,Palash,28,28,22,50
+8,Roypura,15,15,10,25
+9,Shibpur,0,0,0,0
+10,Total,69,77,50,127

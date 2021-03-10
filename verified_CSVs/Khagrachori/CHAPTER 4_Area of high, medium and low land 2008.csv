@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,"Area of high, medium and low land 2008",,,,
-1,(in Acre),,,,
-2,Upazila,High land,Medium land,Low land,Total land
-3,Dighinala,142960,26847,1710,171517
-4,Khagrachhari Sadar,41520,8214,23882,73616
-5,Laxshmichhari,27460,19048,7891,54399
-6,Mahalchhari,8030,16930,36479,61439
-7,Manikchhari,4131,3584,33884,41599
-8,Matiranga,72657,19865,29889,122411
-9,Panchhari,65446,14553,2560,82559
-10,Ramgarh,39375,6199,13945,59519
-11,Total,401579,115240,150240,667059
+1,Khagrachori,,,,
+2,(in Acre),,,,
+3,Upazila,High land,Medium land,Low land,Total land
+4,Dighinala,142960,26847,1710,171517
+5,Khagrachori,41520,8214,23882,73616
+6,Laxshmichhari,27460,19048,7891,54399
+7,Mahalchhari,8030,16930,36479,61439
+8,Manikchhari,4131,3584,33884,41599
+9,Matiranga,72657,19865,29889,122411
+10,Panchhari,65446,14553,2560,82559
+11,Ramgarh,39375,6199,13945,59519
+12,Total,401579,115240,150240,667059

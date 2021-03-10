@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of cold storage and capacity in following years,,,,
-1,,,,,
-2, Upazila,2010-11 - Number,2010-11 - Installed capacity,2009-10 - Number,2009-10 - Installed capacity
-3,Akkelpur,2,15560,2,15560
-4,Joypurhat sadar,0,0,0,0
-5,Kalai,8,18500,8,17000
-6,Khetlal,3,24000,2,12000
-7,Panchbibi,1,5000,1,5000
-8,Total,14,63060,13,49560
+1,Joypurhat,,,,
+2,,,,,
+3, Upazila,2010-11 - Number,2010-11 - Installed capacity,2009-10 - Number,2009-10 - Installed capacity
+4,Akkelpur,2,15560,2,15560
+5,Joypurhat sadar,0,0,0,0
+6,Kalai,8,18500,8,17000
+7,Khetlal,3,24000,2,12000
+8,Panchbibi,1,5000,1,5000
+9,Total,14,63060,13,49560

@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Land area under irrigation for selected crops 2008,,,,,,
-1,,,,,,,
-2, Upazila,Paddy - Total area,Paddy - Irrigated area,Wheat - Total area,Wheat - Irrigated area,Potato - Total area,Potato - Irrigated area
-3,Belabo,18887,13629,92,26,300,300
-4,Manohardi,45669,26097,250,150,575,575
-5,Narsingdi Sadar,27540,20894,417,235,644,644
-6,Palash,12667,8591,58,32,66,66
-7,Roypura,41136,33353,361,132,2001,2001
-8,Sibpur,33435,21412,108,54,540,540
-9,Total,179334,123976,1285,629,4126,4126
+1,Narsingdi,,,,,,
+2,,,,,,,
+3, Upazila,Paddy - Total area,Paddy - Irrigated area,Wheat - Total area,Wheat - Irrigated area,Potato - Total area,Potato - Irrigated area
+4,Belabo,18887,13629,92,26,300,300
+5,Manohardi,45669,26097,250,150,575,575
+6,Narsingdi Sadar,27540,20894,417,235,644,644
+7,Palash,12667,8591,58,32,66,66
+8,Roypura,41136,33353,361,132,2001,2001
+9,Shibpur,33435,21412,108,54,540,540
+10,Total,179334,123976,1285,629,4126,4126

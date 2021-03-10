@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,Sanction post of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
-3,Bhedarganj,42,28,330,122,518
-4,Damudya,34,23,270,84,411
-5,Gosairhat,41,24,743,137,945
-6,Naria,65,4 6,1032,141,1284
-7,Shariatpur Sadar,40,46,712,141,934
-8,Zanjira,44,38,375,123,580
-9,Total,266,159,3462,748,4672
+1,Shariatpur,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
+4,Bhedarganj,42,28,330,122,518
+5,Damudya,34,23,270,84,411
+6,Gosairhat,41,24,743,137,945
+7,Naria,65,4 6,1032,141,1284
+8,Shariatpur Sadar,40,46,712,141,934
+9,Zanjira,44,38,375,123,580
+10,Total,266,159,3462,748,4672

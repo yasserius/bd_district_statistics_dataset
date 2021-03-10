@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5
 0,Number of fire service unit and causality by municipality 2011,,,,,
-1,,,,,,
-2, Upazila,Fire service unit,Person employed, Fire case, Person dead, Person injured
-3,Bandar,1,26,42,0,0
-4,Narayanganj Sadar,4,151,17,0,133
-5,Rupganj,1,11,2,0,0
-6,Total,6,188,61,0,133
+1,Narayanganj,,,,,
+2,,,,,,
+3, Upazila,Fire service unit,Person employed, Fire case, Person dead, Person injured
+4,Bandar,1,26,42,0,0
+5,Narayanganj Sadar,4,151,17,0,133
+6,Rupganj,1,11,2,0,0
+7,Total,6,188,61,0,133

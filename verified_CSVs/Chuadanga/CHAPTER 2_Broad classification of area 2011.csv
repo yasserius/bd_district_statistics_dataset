@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Broad classification of area 2011,,,,
-1,(In sq. km.),,,,
-2,Upazila,Total area,Land area,Reserve forest,Riverine area
-3,Alamdanga,365,337,0,28
-4,Chuadanga Sadar,299,297.39,0.99,0.62
-5,Damurhuda,312,308.61,0,3.39
-6,Jibonnagar,208.03,203.02,0,5.01
-7,Total,1184.03,1146.02,0.99,37.02
+1,Chuadanga,,,,
+2,(In sq. km.),,,,
+3,Upazila,Total area,Land area,Reserve forest,Riverine area
+4,Alamdanga,365,337,0,28
+5,Chuadanga Sadar,299,297.39,0.99,0.62
+6,Damurhuda,312,308.61,0,3.39
+7,Jibonnagar,208.03,203.02,0,5.01
+8,Total,1184.03,1146.02,0.99,37.02

@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,,,,,,
-2, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous bodies,Local Government employee
-3,Fulchhari,45,356,1528,26,174
-4,Gaibandha Sadar,96,965,135,23,225
-5,Gobindaganj,43,676,20608,14,210
-6,Palashbari,46,288,5120,27,102
-7,Sadullapur,55,484,10752,12,21
-8,Saghata,43,452,8916,3,100
-9,Sudarganj,35,580,9728,39,184
-10,Total,363,3801,56787,144,1016
+1,Gaibandha,,,,,
+2,,,,,,
+3, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous bodies,Local Government employee
+4,Fulchhari,45,356,1528,26,174
+5,Gaibandha Sadar,96,965,135,23,225
+6,Gobindaganj,43,676,20608,14,210
+7,Palashbari,46,288,5120,27,102
+8,Sadullapur,55,484,10752,12,21
+9,Saghata,43,452,8916,3,100
+10,Sundarganj,35,580,9728,39,184
+11,Total,363,3801,56787,144,1016

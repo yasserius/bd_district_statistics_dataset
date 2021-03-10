@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of ebtedayee madrasah 2011,,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of madrasah,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Assasuni,13,47,5,52,452,491,1033,20
-4,Debhata,3,7,5,12,182,138,320,27
-5,Kalaroa,36,36,0,36,690,390,1080,30
-6,Kaliganj,25,85,15,100,2218,2600,4818,48
-7,Satkhira Sadar,9,24,11,35,815,312,1127,32
-8,Shyamnagar,6,22,8,30,388,392,780,26
-9,Tala,5,42,12,54,1867,643,2520,47
-10,Total,97,263,56,319,6612,4966,11678,37
+1,Satkhira,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of madrasah,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Assasuni,13,47,5,52,452,491,1033,20
+5,Debhata,3,7,5,12,182,138,320,27
+6,Kalaroa,36,36,0,36,690,390,1080,30
+7,Kaliganj,25,85,15,100,2218,2600,4818,48
+8,Satkhira Sadar,9,24,11,35,815,312,1127,32
+9,Shyamnagar,6,22,8,30,388,392,780,26
+10,Tala,5,42,12,54,1867,643,2520,47
+11,Total,97,263,56,319,6612,4966,11678,37

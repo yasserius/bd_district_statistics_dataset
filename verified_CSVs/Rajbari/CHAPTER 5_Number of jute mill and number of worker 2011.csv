@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,Number of jute mill and number of worker 2011,,,,,,,
-1,,,,,,,,
-2, Upazila,Number of mill,Number of loom (installed),Number of loom - Operative,Number of loom - Non- operational,Number of worker - Permanent,Number of worker - Temporary,Number of worker - Total
-3,Baliakandi,0,0,0,0,0,0,0
-4,Goalanda,0,0,0,0,0,0,0
-5,Kalukhali,0,0,0,0,0,0,0
-6,Pangsha,0,0,0,0,0,0,0
-7,Rajbari Sadar,2,40,40,0,1550,0,1550
-8,Total,2,40,40,0,1550,0,1550
+1,Rajbari,,,,,,,
+2,,,,,,,,
+3,Upazila,Number of mill,Number of loom (installed),Number of loom - Operative,Number of loom - Non- operational,Number of worker - Permanent,Number of worker - Temporary,Number of worker - Total
+4,Baliakandi,0,0,0,0,0,0,0
+5,Goalanda,0,0,0,0,0,0,0
+6,Kalukhali,0,0,0,0,0,0,0
+7,Pangsha,0,0,0,0,0,0,0
+8,Rajbari Sadar,2,40,40,0,1550,0,1550
+9,Total,2,40,40,0,1550,0,1550

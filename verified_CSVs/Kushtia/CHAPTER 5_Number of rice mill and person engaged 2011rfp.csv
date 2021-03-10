@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,5.14 Number of rice mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Units,Persons engaged - Male,Persons engaged - Female,Persons engaged - Total
-3,Kushtia Sadar,1510,4530,3020,7550
-4,Bheramara,8,16,40,56
-5,Daulatpur,7,28,35,63
-6,Khoksa,12,36,60,96
-7,Kumarkhali,5,35,50,85
-8,Mirpur,463,1390,1832,3222
-9,Total,2005,6035,5037,11072
+1,Kushtia,,,,
+2,,,,,
+3,Upazila, Units,Persons engaged - Male,Persons engaged - Female,Persons engaged - Total
+4,Kushtia Sadar,1510,4530,3020,7550
+5,Bheramara,8,16,40,56
+6,Daulatpur,7,28,35,63
+7,Khoksa,12,36,60,96
+8,Kumarkhali,5,35,50,85
+9,Mirpur,463,1390,1832,3222
+10,Total,2005,6035,5037,11072

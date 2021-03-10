@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7
 0,Average price of selected item 2011,,,,,,,
-1,"(Price unit per kg, taka)",,,,,,,
-2,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
-3,Fulchhari,39,31,28,20,32,10,126
-4,Gaibandha Sadar,38,32,28,22,32,14,128
-5,Gobindaganj,37,30,25,21,30,10,128
-6,Palashbari,38,31,26,20,32,10,128
-7,Sadullapur,38,30,25,23,30,10,128
-8,Saghata,38,30,25,22,31,10,126
-9,Sundarganj,38,30,27,23,30,10,128
-10,Average,38,30,26,22,31,10,128
+1,Gaibandha,,,,,,,
+2,"(Price unit per kg, taka)",,,,,,,
+3,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
+4,Fulchhari,39,31,28,20,32,10,126
+5,Gaibandha Sadar,38,32,28,22,32,14,128
+6,Gobindaganj,37,30,25,21,30,10,128
+7,Palashbari,38,31,26,20,32,10,128
+8,Sadullapur,38,30,25,23,30,10,128
+9,Saghata,38,30,25,22,31,10,126
+10,Sundarganj,38,30,27,23,30,10,128
+11,Average,38,30,26,22,31,10,128

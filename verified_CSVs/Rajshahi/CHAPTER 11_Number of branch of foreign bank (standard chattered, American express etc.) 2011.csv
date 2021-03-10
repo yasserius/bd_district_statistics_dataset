@@ -1,15 +1,16 @@
 ,0,1,2,3
 0,"Number of branch of foreign bank (standard chattered, American express etc.) 2011",,,
-1,,,,
-2,Upazila/city corporation,Number of employees,Number of savings A/C,Number of current A/C
-3,Bagha,0,0,0
-4,Baghmara,0,0,0
-5,Charghat,0,0,0
-6,Durgapur,0,0,0
-7,Godagari,0,0,0
-8,Mohanpur,0,0,0
-9,Paba,0,0,0
-10,Puthia,0,0,0
-11,Rajshahi city corporation,5,305,61
-12,Tanore,0,0,0
-13,Total,5,305,61
+1,Rajshahi,,,
+2,,,,
+3,Upazila/city corporation,Number of employees,Number of savings A/C,Number of current A/C
+4,Bagha,0,0,0
+5,Baghmara,0,0,0
+6,Charghat,0,0,0
+7,Durgapur,0,0,0
+8,Godagari,0,0,0
+9,Mohanpur,0,0,0
+10,Paba,0,0,0
+11,Puthia,0,0,0
+12,Rajshahi City Corporation,5,305,61
+13,Tanore,0,0,0
+14,Total,5,305,61

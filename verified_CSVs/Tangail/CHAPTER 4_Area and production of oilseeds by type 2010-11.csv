@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6
 0,Area and production of oilseeds by type 2010-11,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Rape  mustard Area,Rape  mustard Production,Ground nut Area,Ground nut Production,Til Area,Til Production
-3,Basail,7988,2945,0,0,9,3
-4,Bhuapur,2753,740.49,2967,1520.74,2667,965.53
-5,Delduar,4850,1698,0,0,52,17
-6,Dhanbari,578,141.96,0,0,14.50,3.58
-7,Ghatail,4498,1684,0,0,16,4.50
-8,Gopalpur,5020,2159.11,0,0,0.80,1.86
-9,Kalihati,3625,1390.30,12.50,5.10,375,138
-10,Madhupur,568,181,0,0,26,6.29
-11,Mirzapur,17290,6587,45,20,45,15
-12,Nagarpur,6733,3011,46,29,984,392
-13,Sakhipur,4631,1768,19,12,57,16
-14,Tangail Sadar,9875,3355,900,540,2325,746
-15,Total,68409,25660.86,3989.50,2126.84,6571.30,2308.76
+1,Tangail,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Rape  mustard Area,Rape  mustard Production,Ground nut Area,Ground nut Production,Til Area,Til Production
+4,Basail,7988,2945,0,0,9,3
+5,Bhuapur,2753,740.49,2967,1520.74,2667,965.53
+6,Delduar,4850,1698,0,0,52,17
+7,Dhanbari,578,141.96,0,0,14.50,3.58
+8,Ghatail,4498,1684,0,0,16,4.50
+9,Gopalpur,5020,2159.11,0,0,0.80,1.86
+10,Kalihati,3625,1390.30,12.50,5.10,375,138
+11,Madhupur,568,181,0,0,26,6.29
+12,Mirzapur,17290,6587,45,20,45,15
+13,Nagarpur,6733,3011,46,29,984,392
+14,Sakhipur,4631,1768,19,12,57,16
+15,Tangail Sadar,9875,3355,900,540,2325,746
+16,Total,68409,25660.86,3989.50,2126.84,6571.30,2308.76

@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting selected livestock species 2008,,,,,,
-1,,,,,,,
-2, Upazila,Cows  Buffaloes - Holding /Farm number,Cows  Buffaloes - Animal number,Goats - Holding/ Farm number,Goats - Goats number,Sheep - Holding/ Farm number,Sheep - Sheep number
-3,Chandpur Sadar,14259,30450,6292,13595,190,805
-4,Foridganj,19966,87446,12570,17312,10,39
-5,Haimchar,8076,21036,3437,8631,50,272
-6,Hajiganj,14499,27615,6544,13687,149,523
-7,Kachua,9846,39390,1823,8310,0,0
-8,Matlab Dakshin,11275,21264,7176,14432,0,0
-9,Matlab Uttar,22988,50600,4236,11528,0,0
-10,Shahrasti,14706,29370,5913,13071,138,309
-11,Total,115615,307171,47991,100566,537,1948
+1,Chandpur,,,,,,
+2,,,,,,,
+3, Upazila,Cows  Buffaloes - Holding /Farm number,Cows  Buffaloes - Animal number,Goats - Holding/ Farm number,Goats - Goats number,Sheep - Holding/ Farm number,Sheep - Sheep number
+4,Chandpur Sadar,14259,30450,6292,13595,190,805
+5,Foridganj,19966,87446,12570,17312,10,39
+6,Haimchar,8076,21036,3437,8631,50,272
+7,Hajiganj,14499,27615,6544,13687,149,523
+8,Kachua,9846,39390,1823,8310,0,0
+9,Matlab Dakshin,11275,21264,7176,14432,0,0
+10,Matlab Uttar,22988,50600,4236,11528,0,0
+11,Shahrasti,14706,29370,5913,13071,138,309
+12,Total,115615,307171,47991,100566,537,1948

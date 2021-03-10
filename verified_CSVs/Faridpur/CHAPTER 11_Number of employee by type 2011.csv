@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,,,,,,
-2, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous bodies,Local Government employee
-3,Alfadanga,32,324,4800,0,64
-4,Bhanga,76,484,5120,5,131
-5,Boalmari,42,1000,16320,84,149
-6,Charbhadrashon,11,128,6214,0,64
-7,Faridpur Sadar,54,484,14144,249,126
-8,Madhukhali,47,488,12288,1,92
-9,Nagarkanda,39,420,11904,0,24
-10,Sadarpur,34,444,7180,0,99
-11,Saltha,26,256,8896,0,88
-12,Total,361,4028,86866,339,837
+1,Faridpur,,,,,
+2,,,,,,
+3, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous bodies,Local Government employee
+4,Alfadanga,32,324,4800,0,64
+5,Bhanga,76,484,5120,5,131
+6,Boalmari,42,1000,16320,84,149
+7,Charbhadrashon,11,128,6214,0,64
+8,Faridpur Sadar,54,484,14144,249,126
+9,Madhukhali,47,488,12288,1,92
+10,Nagarkanda,39,420,11904,0,24
+11,Sadarpur,34,444,7180,0,99
+12,Saltha,26,256,8896,0,88
+13,Total,361,4028,86866,339,837

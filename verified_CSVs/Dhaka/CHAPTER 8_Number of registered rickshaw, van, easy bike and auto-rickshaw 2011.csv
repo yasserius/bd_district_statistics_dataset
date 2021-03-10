@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,"Number of registered rickshaw, van, easy bike and auto-rickshaw 2011",,,,
-1,,,,,
-2, Upazila, Rickshaw, Van,Easy bike and auto-rickshaw, Tempo
-3,Dhaka Metropolitan,90302,954,1269,11026
-4,Dhamrai,402,571,150,400
-5,Dohar,1297,69,377,37
-6,Keraniganj,15920,8530,115,750
-7,Nawabganj,311,47,450,250
-8,Savar,13470,1884,185,180
-9,Total,121702,12055,2546,12643
+1,Dhaka,,,,
+2,,,,,
+3, Upazila, Rickshaw, Van,Easy bike and auto-rickshaw, Tempo
+4,Dhaka Metropolitan,90302,954,1269,11026
+5,Dhamrai,402,571,150,400
+6,Dohar,1297,69,377,37
+7,Keraniganj,15920,8530,115,750
+8,Nawabganj,311,47,450,250
+9,Savar,13470,1884,185,180
+10,Total,121702,12055,2546,12643

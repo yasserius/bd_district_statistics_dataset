@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2009-2010,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
-3,Kalkini,3277,976,19800,10303,34668,53955
-4,Madaripur Sadar,1075,802,28855,12856,31865,63663
-5,Rajoir,451,133,21879,12156,26329,41991
-6,Shibchar,2285,1088,8526,5148,18970,29416
-7,Total,7088,2999,79060,40463,111832,189025
+1,Madaripur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
+4,Kalkini,3277,976,19800,10303,34668,53955
+5,Madaripur Sadar,1075,802,28855,12856,31865,63663
+6,Rajoir,451,133,21879,12156,26329,41991
+7,Shibchar,2285,1088,8526,5148,18970,29416
+8,Total,7088,2999,79060,40463,111832,189025

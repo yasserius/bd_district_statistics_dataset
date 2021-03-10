@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5
 0,Use of fertilizer 2010-11,,,,,
-1,,,,,,
-2,Upazila/city corporation,UREA,TSP,MP,DAP,Other
-3,Agailjhara,2760,795,650,400,160
-4,Babuganj,1396,763,884,697,86
-5,Bakerganj,2620,705,530,525,350
-6,Banaripara,943,228,142,145,0
-7,Barisal city corporation,262,165,141,83,48
-8,Barisal sadar,2988,1655,1409,836,482
-9,Gaurnadi,3350,880,930,880,25
-10,Hizla,917,130,90,96,0
-11,Mehendiganj,3050,590,470,355,245
-12,Muladi,2575,585,460,105,60
-13,Wazirpur,3275,1195,750,650,52
-14,Total,24136,7691,6456,4772,1508
+1,Barisal,,,,,
+2,,,,,,
+3,Upazila/city corporation,UREA,TSP,MP,DAP,Other
+4,Agailjhara,2760,795,650,400,160
+5,Babuganj,1396,763,884,697,86
+6,Bakerganj,2620,705,530,525,350
+7,Banaripara,943,228,142,145,0
+8,Barisal city corporation,262,165,141,83,48
+9,Barisal Sadar,2988,1655,1409,836,482
+10,Gaurnadi,3350,880,930,880,25
+11,Hizla,917,130,90,96,0
+12,Mehendiganj,3050,590,470,355,245
+13,Muladi,2575,585,460,105,60
+14,Wazirpur,3275,1195,750,650,52
+15,Total,24136,7691,6456,4772,1508

@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization 2008,,,,,
-1,,,,,,
-2,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
-3,Dimla,64639,810,52429,792,11400
-4,Domar,55943,761,46600,124,8582
-5,Jaldhaka,61308,348,49100,343,11860
-6,Kishorgonj,43778,359,36058,141,7361
-7,Nilphamary Sadar,84967,492,69744,81,14731
-8,Sayedpur,26176,137,21006,70,5033
-9,Total,336811,2907,274937,1551,58967
+1,Nilphamari,,,,,
+2,,,,,,
+3,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
+4,Dimla,64639,810,52429,792,11400
+5,Domar,55943,761,46600,124,8582
+6,Joldhaka,61308,348,49100,343,11860
+7,Kishorgonj,43778,359,36058,141,7361
+8,Nilphamary Sadar,84967,492,69744,81,14731
+9,Sayedpur,26176,137,21006,70,5033
+10,Total,336811,2907,274937,1551,58967

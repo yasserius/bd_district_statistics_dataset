@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,"Area of high, medium and low land 2008",,,,
-1,,,,,
-2,Upazila,High land,Medium land,Low land,Total land
-3,Bhola Sadar,4115,36225,24466,64806
-4,Burhanuddin,4424,36498,3036,43958
-5,Char Fasson,53425,108223,8647,170296
-6,Daulatkhan,3010,16460,6645,26115
-7,Lalmohan,9829,41539,2584,53952
-8,Manpura,504,17343,22309,27745
-9,Tazumuddin,5036,17343,4972,27351
-10,Total,80343,245320,72659,414223
+1,Bhola,,,,
+2,,,,,
+3,Upazila,High land,Medium land,Low land,Total land
+4,Bhola Sadar,4115,36225,24466,64806
+5,Burhanuddin,4424,36498,3036,43958
+6,Char Fasson,53425,108223,8647,170296
+7,Daulatkhan,3010,16460,6645,26115
+8,Lalmohan,9829,41539,2584,53952
+9,Manpura,504,17343,22309,27745
+10,Tazumuddin,5036,17343,4972,27351
+11,Total,80343,245320,72659,414223

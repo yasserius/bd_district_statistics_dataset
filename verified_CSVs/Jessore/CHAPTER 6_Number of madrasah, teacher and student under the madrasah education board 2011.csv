@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of madrasah, teacher and student under the madrasah education board 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Abhaynagar,20,250,35,285,4124,3647,7771,27
-4,Bagherpara,34,408,54,462,2077,2812,4889,11
-5,Chaugachha,21,307,26,333,3510,3615,7125,21
-6,Jessore Sadar,48,609,68,677,4557,5204,9761,14
-7,Jhikargachha,32,498,63,561,5295,5372,10667,19
-8,Keshabpur,53,716,106,822,2850,5053,7903,10
-9,Manirampur,70,971,145,1116,8400,13128,21528,19
-10,Sharsha,32,328,26,354,3224,2976,6200,18
-11,Total,310,4087,523,4610,34037,41807,75844,16
+1,Jessore,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Abhaynagar,20,250,35,285,4124,3647,7771,27
+5,Bagherpara,34,408,54,462,2077,2812,4889,11
+6,Chaugachha,21,307,26,333,3510,3615,7125,21
+7,Jessore Sadar,48,609,68,677,4557,5204,9761,14
+8,Jhikargachha,32,498,63,561,5295,5372,10667,19
+9,Keshabpur,53,716,106,822,2850,5053,7903,10
+10,Manirampur,70,971,145,1116,8400,13128,21528,19
+11,Sharsha,32,328,26,354,3224,2976,6200,18
+12,Total,310,4087,523,4610,34037,41807,75844,16

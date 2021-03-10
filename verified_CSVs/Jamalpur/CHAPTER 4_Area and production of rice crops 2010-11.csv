@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2010-11,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
-3,Bakshiganj,94,65,35111,38129,33345,48490
-4,Dewanganj,55,138,25090,24228,26182,45147
-5,Islampur,1250,1054,40975,34829,50862,87412
-6,Jamalpur Sadar,345,125,73568,61264,74997,120889
-7,Madarganj,1800,750,29612,21527,41120,66570
-8,Melandaha,319,131,34044,31080,48310,77341
-9,Sarishabari,10,5,34066,30152,48345,83048
-10,Total,3873,2268,272466,241209,323161,528897
+1,Jamalpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
+4,Bakshiganj,94,65,35111,38129,33345,48490
+5,Dewanganj,55,138,25090,24228,26182,45147
+6,Islampur,1250,1054,40975,34829,50862,87412
+7,Jamalpur Sadar,345,125,73568,61264,74997,120889
+8,Madarganj,1800,750,29612,21527,41120,66570
+9,Melandaha,319,131,34044,31080,48310,77341
+10,Sarishabari,10,5,34066,30152,48345,83048
+11,Total,3873,2268,272466,241209,323161,528897

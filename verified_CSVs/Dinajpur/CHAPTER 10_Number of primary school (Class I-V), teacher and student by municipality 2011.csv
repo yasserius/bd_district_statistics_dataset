@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,"Number of primary school (Class I-V), teacher and student by municipality 2011",,,,,,,,,,
-1,,,,,,,,,,,
-2, Municipality,Primary school - Govt,Primary school - Non- govt,Primary school - Total,Number of teacher - Govt,Number of teacher - Non- govt,Number of teacher - Total,Number of student - Govt,Number of student - Non- govt,Number of student - Total,Students per teacher
-3,Birampur,9,7,16,60,23,83,2283,788,3071,37
-4,Birganj,2,2,4,19,7,26,766,623,1389,53
-5,Setabganj,4,3,7,35,12,47,1234,391,1625,35
-6,Dinajpur,23,6,29,160,24,184,4983,1734,6717,37
-7,Fulbari,6,3,9,53,12,65,1905,448,2353,36
-8,Ghoraghat,3,3,6,25,12,37,1356,526,1882,51
-9,Hakimpur,6,3,9,43,12,55,2114,552,2666,48
-10,Parbatipur,6,2,8,45,8,53,1535,307,1842,35
-11,Total,59,29,88,440,110,550,16176,5369,21545,39
+1,Dinajpur,,,,,,,,,,
+2,,,,,,,,,,,
+3, Municipality,Primary school - Govt,Primary school - Non- govt,Primary school - Total,Number of teacher - Govt,Number of teacher - Non- govt,Number of teacher - Total,Number of student - Govt,Number of student - Non- govt,Number of student - Total,Students per teacher
+4,Birampur,9,7,16,60,23,83,2283,788,3071,37
+5,Birganj,2,2,4,19,7,26,766,623,1389,53
+6,Setabganj,4,3,7,35,12,47,1234,391,1625,35
+7,Dinajpur,23,6,29,160,24,184,4983,1734,6717,37
+8,Fulbari,6,3,9,53,12,65,1905,448,2353,36
+9,Ghoraghat,3,3,6,25,12,37,1356,526,1882,51
+10,Hakimpur,6,3,9,43,12,55,2114,552,2666,48
+11,Parbatipur,6,2,8,45,8,53,1535,307,1842,35
+12,Total,59,29,88,440,110,550,16176,5369,21545,39

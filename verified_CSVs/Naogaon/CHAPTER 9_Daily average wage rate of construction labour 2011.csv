@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6
 0,Daily average wage rate of construction labour 2011,,,,,,
-1,,,,,,,
-2,(Rate in taka) -  Upazila,(Rate in taka) - Labour - Mason,(Rate in taka) - Labour - Helper (Jogaly),(Rate in taka) - Labour - Carpenter,(Rate in taka) - Labour - Colour,(Rate in taka) - Labour - Electric,(Rate in taka) - Labour - Plumber
-3,Atrai,400,250,500,250,400,300
-4,Badalgachhi,250,200,250,300,340,250
-5,Dhamoirhat,380,170,300,300,300,300
-6,Manda,280,170,250,300,275,300
-7,Mahadebpur,220,150,200,180,300,220
-8,Naogaon sadar,300,180,280,280,250,270
-9,Niamatpur,300,200,300,300,350,350
-10,Patnitala,350,200,350,400,500,500
-11,Porsha,250,200,250,250,300,300
-12,Raninagar,300,200,250,350,400,300
-13,Sapahar,260,150,200,250,300,230
-14,Average,299,188,285,287,338,302
+1,Naogaon,,,,,,
+2,,,,,,,
+3,(Rate in taka) -  Upazila,(Rate in taka) - Labour - Mason,(Rate in taka) - Labour - Helper (Jogaly),(Rate in taka) - Labour - Carpenter,(Rate in taka) - Labour - Colour,(Rate in taka) - Labour - Electric,(Rate in taka) - Labour - Plumber
+4,Atrai,400,250,500,250,400,300
+5,Badalgachhi,250,200,250,300,340,250
+6,Dhamoirhat,380,170,300,300,300,300
+7,Manda,280,170,250,300,275,300
+8,Mahadebpur,220,150,200,180,300,220
+9,Naogaon sadar,300,180,280,280,250,270
+10,Niamatpur,300,200,300,300,350,350
+11,Patnitala,350,200,350,400,500,500
+12,Porsha,250,200,250,250,300,300
+13,Raninagar,300,200,250,350,400,300
+14,Sapahar,260,150,200,250,300,230
+15,Average,299,188,285,287,338,302

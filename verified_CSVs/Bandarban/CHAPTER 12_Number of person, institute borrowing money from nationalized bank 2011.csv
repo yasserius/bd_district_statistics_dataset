@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from nationalized bank 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2,  Upazila,Number of branch of all nationalized banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
-3,Alikadam,1,332,0,0,0,92,0,424,0,1.92,0.00
-4,Bandarban Sadar,5,13500,5200,0,0,702,150,14202,5300,1.70,0.85
-5,Lama,3,1250,200,0,0,455,70,1705,270,1.00,0.34
-6,Naikhongchhari,2,950,11,0,0,397,104,1347,115,5.12,7.73
-7,Rowangchhari,2,2811,50,0,0,269,134,2000,109,0.00,0.00
-8,Ruma,2,228,27,0,0,66,4,294,31,0.94,0.23
-9,Thanchi,2,10,5,0,0,0,0,0,0,0.00,0.00
-10,Total,17,19081,5493,0,0,1981,462,19972,5825,10.68,9.15
+1,Bandarban,,,,,,,,,,,
+2,,,,,,,,,,,,
+3,  Upazila,Number of branch of all nationalized banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
+4,Alikadam,1,332,0,0,0,92,0,424,0,1.92,0.00
+5,Bandarban Sadar,5,13500,5200,0,0,702,150,14202,5300,1.70,0.85
+6,Lama,3,1250,200,0,0,455,70,1705,270,1.00,0.34
+7,Naikhongchhari,2,950,11,0,0,397,104,1347,115,5.12,7.73
+8,Rowangchhari,2,2811,50,0,0,269,134,2000,109,0.00,0.00
+9,Ruma,2,228,27,0,0,66,4,294,31,0.94,0.23
+10,Thanchi,2,10,5,0,0,0,0,0,0,0.00,0.00
+11,Total,17,19081,5493,0,0,1981,462,19972,5825,10.68,9.15

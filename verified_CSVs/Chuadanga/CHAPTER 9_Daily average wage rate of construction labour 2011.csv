@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6
 0,Daily average wage rate of construction labour 2011,,,,,,
-1,,,,,,,
-2,(Rate in taka) -  Upazila,(Rate in taka) - Labour - Mason,(Rate in taka) - Labour - Helper (Jogaly),(Rate in taka) - Labour - Carpenter,(Rate in taka) - Labour - Colour,(Rate in taka) - Labour - Electric,(Rate in taka) - Labour - Plumber
-3,Alamdanga,350,250,300,300,400,400
-4,Chuadanga Sadar,350,250,300,300,450,450
-5,Damurhuda,300,225,300,300,350,350
-6,Jibonnagar,300,225,300,300,350,350
-7,Averag,325,237,300,300,387,387
+1,Chuadanga,,,,,,
+2,,,,,,,
+3,(Rate in taka) -  Upazila,(Rate in taka) - Labour - Mason,(Rate in taka) - Labour - Helper (Jogaly),(Rate in taka) - Labour - Carpenter,(Rate in taka) - Labour - Colour,(Rate in taka) - Labour - Electric,(Rate in taka) - Labour - Plumber
+4,Alamdanga,350,250,300,300,400,400
+5,Chuadanga Sadar,350,250,300,300,450,450
+6,Damurhuda,300,225,300,300,350,350
+7,Jibonnagar,300,225,300,300,350,350
+8,Average,325,237,300,300,387,387

@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of flour mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Dimla,0,0,0,0
-4,Domar,20,20,20,40
-5,Jaldhaka,46,50,14,64
-6,Kishorgonj,0,0,0,0
-7,Nilphamary Sadar,28,35,60,95
-8,Sayedpur,15,10,120,130
-9,Total,109,115,214,329
+1,Nilphamari,,,,
+2,,,,,
+3,Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Dimla,0,0,0,0
+5,Domar,20,20,20,40
+6,Joldhaka,46,50,14,64
+7,Kishorgonj,0,0,0,0
+8,Nilphamary Sadar,28,35,60,95
+9,Sayedpur,15,10,120,130
+10,Total,109,115,214,329

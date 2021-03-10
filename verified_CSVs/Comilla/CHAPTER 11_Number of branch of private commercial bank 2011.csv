@@ -1,21 +1,22 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Adarsha Sadar,26,368,86056,8198
-4,Barura,1,4,11,0
-5,Brahmanpara,0,0,0,0
-6,Burichang,12,120,18548,2245
-7,Chandina,3,34,14986,907
-8,Chauddagram,4,64,34818,2580
-9,Comilla Sadar Dakshin,0,0,0,0
-10,Daudkandi,8,108,49151,5799
-11,Debidwar,2,14,18000,1605
-12,Homna,1,5,200,100
-13,Laksam,13,181,81412,6374
-14,Monoharganj,0,0,0,0
-15,Meghna,0,0,0,0
-16,Muradnagar,5,78,36874,2857
-17,Nangalkot,10,72,19201,12
-18,Titas,0,0,0,0
-19,Total,85,1048,359257,30677
+1,Comilla,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Adarsha Sadar,26,368,86056,8198
+5,Barura,1,4,11,0
+6,Brahmanpara,0,0,0,0
+7,Burichang,12,120,18548,2245
+8,Chandina,3,34,14986,907
+9,Chauddagram,4,64,34818,2580
+10,Comilla Sadar Dakshin,0,0,0,0
+11,Daudkandi,8,108,49151,5799
+12,Debidwar,2,14,18000,1605
+13,Homna,1,5,200,100
+14,Laksam,13,181,81412,6374
+15,Monoharganj,0,0,0,0
+16,Meghna,0,0,0,0
+17,Muradnagar,5,78,36874,2857
+18,Nangalkot,10,72,19201,12
+19,Titas,0,0,0,0
+20,Total,85,1048,359257,30677

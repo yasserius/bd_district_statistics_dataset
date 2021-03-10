@@ -1,8 +1,9 @@
 ,0,1,2,3,4
 0,"Area of high, medium and low land 2008",,,,
-1,,,,,
-2,Upazila,High land,Medium land,Low land,Total land
-3,Gangni,26150,23244,8717,58111
-4,Mujibnagar,4860,16293,1018,22171
-5,Meherpur Sadar,12737,37556,5835,55984
-6,Total,43747,77093,15570,136266
+1,Meherpur,,,,
+2,,,,,
+3,Upazila,High land,Medium land,Low land,Total land
+4,Gangni,26150,23244,8717,58111
+5,Mujibnagar,4860,16293,1018,22171
+6,Meherpur Sadar,12737,37556,5835,55984
+7,Total,43747,77093,15570,136266

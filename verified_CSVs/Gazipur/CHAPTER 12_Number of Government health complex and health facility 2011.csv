@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Government health complex and health facility 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of    technician, Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
-3,Gazipur Sadar,2,150,47,78,7,156,8098,12666,99643,122855
-4,Kaliakair,1,31,18,12,4,78,2388,2588,52771,61949
-5,Kaliganj,1,50,29,15,22,67,2316,3474,23124,34654
-6,Kapashia,1,50,31,16,5,129,1672,2512,44549,50766
-7,Sreepur,1,31,18,9,5,183,1550,1950,24000,42000
-8,Total,6,312,143,130,43,613,16024,23190,244087,312224
+1,Gazipur,,,,,,,,,,
+2,,,,,,,,,,,
+3,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of    technician, Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
+4,Gazipur Sadar,2,150,47,78,7,156,8098,12666,99643,122855
+5,Kaliakair,1,31,18,12,4,78,2388,2588,52771,61949
+6,Kaliganj,1,50,29,15,22,67,2316,3474,23124,34654
+7,Kapashia,1,50,31,16,5,129,1672,2512,44549,50766
+8,Sreepur,1,31,18,9,5,183,1550,1950,24000,42000
+9,Total,6,312,143,130,43,613,16024,23190,244087,312224

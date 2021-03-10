@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,Number of community clinic and person engaged 2011,,,,,,
-1,,,,,,,
-2, Upazila,Number of clinic,Number of health assistant,Number of FPI,Number of FWV,Number of FWA,Number of other staff
-3,Atpara,16,24,5,7,32,4
-4,Barhatta,12,23,5,6,30,6
-5,Durgapur,25,40,7,6,37,13
-6,Kalmakanda,31,46,3,5,40,4
-7,Kendua,33,13,11,10,71,18
-8,Khaliajuri,3,17,2,2,18,38
-9,Madan,9,26,7,5,26,0
-10,Mohanganj,12,12,7,0,10,13
-11,Netrokona Sadar,26,45,11,22,62,28
-12,Purbadhala,33,57,9,11,53,0
-13,Total,200,303,67,74,379,124
+1,Netrokona,,,,,,
+2,,,,,,,
+3,Upazila,Number of clinic,Number of health assistant,Number of FPI,Number of FWV,Number of FWA,Number of other staff
+4,Atpara,16,24,5,7,32,4
+5,Barhatta,12,23,5,6,30,6
+6,Durgapur,25,40,7,6,37,13
+7,Kalmakanda,31,46,3,5,40,4
+8,Kendua,33,13,11,10,71,18
+9,Khaliajuri,3,17,2,2,18,38
+10,Madan,9,26,7,5,26,0
+11,Mohanganj,12,12,7,0,10,13
+12,Netrokona Sadar,26,45,11,22,62,28
+13,Purbadhala,33,57,9,11,53,0
+14,Total,200,303,67,74,379,124

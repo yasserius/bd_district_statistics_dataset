@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Abhaynagar,9,9,82,91
-4,Bagherpara,8,9,74,83
-5,Chaugachha,7,10,19,29
-6,Jessore Sadar,21,15,430,430
-7,Jhikargachha,4,4,25,29
-8,Keshabpur,7,6,50,56
-9,Manirampur,18,18,126,144
-10,Sharsha,16,16,80,96
-11,Total,90,87,886,960
+1,Jessore,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Abhaynagar,9,9,82,91
+5,Bagherpara,8,9,74,83
+6,Chaugachha,7,10,19,29
+7,Jessore Sadar,21,15,430,430
+8,Jhikargachha,4,4,25,29
+9,Keshabpur,7,6,50,56
+10,Manirampur,18,18,126,144
+11,Sharsha,16,16,80,96
+12,Total,90,87,886,960

@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting selected livestock species 2008,,,,,,
-1,,,,,,,
-2, Upazila,Cow  buffalo - Holding number,Cow  buffalo - Number of animal,Goat - Holding number,Goat - Number of goat,Sheep - Holding number,Sheep - Number of sheep
-3,Dimla,31778,89457,19902,47048,1044,3386
-4,Domar,20913,68350,20891,18550,20891,7450
-5,Jaldhaka,36500,74256,23662,54785,661,2168
-6,Kishorgonj,37017,62687,17758,40956,789,2809
-7,Nilphamary Sadar,44279,118964,31486,74516,670,2364
-8,Sayedpur,14989,36263,9567,22081,142,644
-9,Total,185476,449977,123266,257936,24197,18821
+1,Nilphamari,,,,,,
+2,,,,,,,
+3,Upazila,Cow  buffalo - Holding number,Cow  buffalo - Number of animal,Goat - Holding number,Goat - Number of goat,Sheep - Holding number,Sheep - Number of sheep
+4,Dimla,31778,89457,19902,47048,1044,3386
+5,Domar,20913,68350,20891,18550,20891,7450
+6,Joldhaka,36500,74256,23662,54785,661,2168
+7,Kishorgonj,37017,62687,17758,40956,789,2809
+8,Nilphamary Sadar,44279,118964,31486,74516,670,2364
+9,Sayedpur,14989,36263,9567,22081,142,644
+10,Total,185476,449977,123266,257936,24197,18821

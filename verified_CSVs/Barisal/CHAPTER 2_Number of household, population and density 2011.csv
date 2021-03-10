@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6,7
-0.0,"Number of household, population and density 2011",,,,,,,
-1.0,,,,,,,,
-2.0, Upazila/city corporation, Household,Population(000) - Male,Population(000) - Female,Population(000) - Both sex,Sex ratio (M/F),Average size of household,Density Per sq. km.
-3.0,Agailjhara,32839,72421,77035,149456,94,4.53,961
-4.0,Babuganj,31663,67586,72775,140361,93,4.4,851
-5.0,Bakerganj,71537,148925,164920,313845,90,4.4,851
-6.0,Banaripara,34186,73073,75115,148188,97,4.3,1103
-7.0,Barisal city corporation,72709,169475,158803,328278,107,4.4,5396
-8.0,Barisal sadar,42065,97732,101007,198739,97,4.49,1625
-9.0,Gaurnadi,41561,92209,96377,188586,96,4.52,1253
-10.0,Hizla,30529,72789,73288,146077,99,4.78,283
-11.0,Mehendiganj,65231,146926,154120,301046,95,4.61,719
-12.0,Muladi,38394,82545,92230,174775,89,4.53,670
-13.0,Wazirpur,52959,113529,121430,234959,93,4.42,946
-14.0,Total,513673,1131705,1181575,2324310,95.78,4.52,840
-,,,,,,,,
+0,"Number of household, population and density 2011",,,,,,,
+1,Barisal,,,,,,,
+2,,,,,,,,
+3, Upazila/city corporation, Household,Population(000) - Male,Population(000) - Female,Population(000) - Both sex,Sex ratio (M/F),Average size of household,Density Per sq. km.
+4,Agailjhara,32839,72421,77035,149456,94,4.53,961
+5,Babuganj,31663,67586,72775,140361,93,4.4,851
+6,Bakerganj,71537,148925,164920,313845,90,4.4,851
+7,Banaripara,34186,73073,75115,148188,97,4.3,1103
+8,Barisal city corporation,72709,169475,158803,328278,107,4.4,5396
+9,Barisal Sadar,42065,97732,101007,198739,97,4.49,1625
+10,Gaurnadi,41561,92209,96377,188586,96,4.52,1253
+11,Hizla,30529,72789,73288,146077,99,4.78,283
+12,Mehendiganj,65231,146926,154120,301046,95,4.61,719
+13,Muladi,38394,82545,92230,174775,89,4.53,670
+14,Wazirpur,52959,113529,121430,234959,93,4.42,946
+15,Total,513673,1131705,1181575,2324310,95.78,4.52,840
+16,,,,,,,,

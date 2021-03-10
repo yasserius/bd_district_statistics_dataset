@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6
 0,"Number of Fire Service Unit and Causality by Municipality,  City Corporation 2011",,,,,,
-1,,,,,,,
-2,Municipality/City Corporation,Fire service unite,Persons employed,Fire cases,Monetary loss (in Lac Taka),Persons Dead,Persons injured
-3,Dacope,0,0,0,0,0,0
-4,Khulna City corporation,5,335,543,1283637,13,36
-5,Paikgachha,0,0,0,0,0,0
-6,Total,5,335,543,1283637,13,36
+1,Khulna,,,,,,
+2,,,,,,,
+3,Municipality/City Corporation,Fire service unite,Persons employed,Fire cases,Monetary loss (in Lac Taka),Persons Dead,Persons injured
+4,Dacope,0,0,0,0,0,0
+5,Khulna City Corporation,5,335,543,1283637,13,36
+6,Paikgachha,0,0,0,0,0,0
+7,Total,5,335,543,1283637,13,36

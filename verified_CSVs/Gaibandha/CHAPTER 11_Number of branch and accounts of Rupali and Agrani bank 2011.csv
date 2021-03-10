@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Rupali and Agrani bank 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Rupali bank - Number of branch,Rupali bank - Account - S.D,Rupali bank - Account - C.D,Rupali bank - Account - F.D,Rupali bank - Account - S.T.D,Agrani bank - Number of branch,Agrani bank - Account - S.D,Agrani bank - Account - C.D,Agrani bank - Account - F.D,Agrani bank - Account - S.T.D
-3,Fulchhari,0,0,0,0,0,1,2000,150,99,135
-4,Gaibandha Sadar,1,16140,1213,95,60,1,17198,1322,105,66
-5,Gobindaganj,0,0,0,0,0,0,0,0,0,0
-6,Palashbari,0,0,0,0,0,0,0,0,0,0
-7,Sadullapur,1,3600,208,0,14,5,53560,4222,83,85
-8,Saghata,0,0,0,0,0,2,3205,222,82,13
-9,Sundarganj,0,0,0,0,0,1,12273,1048,71,19
-10,Total,2,19740,1421,95,74,10,88236,6964,440,318
+1,Gaibandha,,,,,,,,,,
+2,,,,,,,,,,,
+3, Upazila,Rupali bank - Number of branch,Rupali bank - Account - S.D,Rupali bank - Account - C.D,Rupali bank - Account - F.D,Rupali bank - Account - S.T.D,Agrani bank - Number of branch,Agrani bank - Account - S.D,Agrani bank - Account - C.D,Agrani bank - Account - F.D,Agrani bank - Account - S.T.D
+4,Fulchhari,0,0,0,0,0,1,2000,150,99,135
+5,Gaibandha Sadar,1,16140,1213,95,60,1,17198,1322,105,66
+6,Gobindaganj,0,0,0,0,0,0,0,0,0,0
+7,Palashbari,0,0,0,0,0,0,0,0,0,0
+8,Sadullapur,1,3600,208,0,14,5,53560,4222,83,85
+9,Saghata,0,0,0,0,0,2,3205,222,82,13
+10,Sundarganj,0,0,0,0,0,1,12273,1048,71,19
+11,Total,2,19740,1421,95,74,10,88236,6964,440,318

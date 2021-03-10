@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,"Number of registered rickshaw, van, easy bike and auto-rickshaw 2011",,,,
-1,,,,,
-2,Upazila,Rickshaw,Van,Easy bike and auto-rickshaw,Tempo
-3,Gazipur Sadar,16893,3032,0,32
-4,Kaliakair,800,500,22,450
-5,Kaliganj,172,102,29,26
-6,Kapashia,232,102,0,142
-7,Sreepur,852,1082,285,121
-8,Total,18949,4818,336,771
+1,Gazipur,,,,
+2,,,,,
+3,Upazila,Rickshaw,Van,Easy bike and auto-rickshaw,Tempo
+4,Gazipur Sadar,16893,3032,0,32
+5,Kaliakair,800,500,22,450
+6,Kaliganj,172,102,29,26
+7,Kapashia,232,102,0,142
+8,Sreepur,852,1082,285,121
+9,Total,18949,4818,336,771

@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5
 0,Cinema hall with audience capacity by municipality 2011,,,,,
-1,,,,,,
-2,Municipality,Police personnel,Criminal offence Number of offence,Criminal offence Number of case filled,Traffic accident (Reported) Number of accident,Traffic accident (Reported) Persons injured
-3,Khagrachhari Sadar,52,66,66,0,0
-4,Matiranga,60,2566,88,1,2
-5,Ramgarh,74,23,23,0,0
-6,Total,186,2655,177,1,2
+1,Khagrachori,,,,,
+2,,,,,,
+3,Municipality,Police personnel,Criminal offence Number of offence,Criminal offence Number of case filled,Traffic accident (Reported) Number of accident,Traffic accident (Reported) Persons injured
+4,Khagrachori,52,66,66,0,0
+5,Matiranga,60,2566,88,1,2
+6,Ramgarh,74,23,23,0,0
+7,Total,186,2655,177,1,2

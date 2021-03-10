@@ -1,7 +1,8 @@
 ,0,1,2,3
 0,Number of vocational institute by municipality 2011,,,
-1,,,,
-2,Municipality,Number of institution,Number of teacher,Number of student
-3,Lalmonirhat,1,15,549
-4,Patgram,0,0,0
-5,Total,1,15,549
+1,Lalmonirhat,,,
+2,,,,
+3,Municipality,Number of institution,Number of teacher,Number of student
+4,Lalmonirhat,1,15,549
+5,Patgram,0,0,0
+6,Total,1,15,549

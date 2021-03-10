@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex  health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Bhola Sadar,100,12,35,2,32
-4,Burhanuddin,50,5,11,4,16
-5,Char Fasson,50,7,11,4,115
-6,Daulatkhan,50,3,9,4,43
-7,Lalmohan,50,6,6,3,112
-8,Manpura,31,2,6,1,29
-9,Tazumuddin,31,2,2,0,47
-10,Total,362,37,80,18,394
+1,Bhola,,,,,
+2,,,,,,
+3,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Bhola Sadar,100,12,35,2,32
+5,Burhanuddin,50,5,11,4,16
+6,Char Fasson,50,7,11,4,115
+7,Daulatkhan,50,3,9,4,43
+8,Lalmohan,50,6,6,3,112
+9,Manpura,31,2,6,1,29
+10,Tazumuddin,31,2,2,0,47
+11,Total,362,37,80,18,394

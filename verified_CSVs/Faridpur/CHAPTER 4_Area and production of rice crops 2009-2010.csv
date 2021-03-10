@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2009-2010,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
-3,Alfadanga,1554,560,10686,7223,8306,1611
-4,Bhanga,69,32,12015,9291,14351,24731
-5,Boalmari,434,198,31630,28095,15744,25964
-6,Charbhadrashon,4988,2304,6988,5403,3741,6446
-7,Faridpur Sadar,12972,6295,34712,1601,17877,29811
-8,Madhukhali,1716,660,20995,2650,7789,12250
-9,Nagarkanda,188,70,12238,10260,8941,16136
-10,Sadarpur,8220,3124,15260,8392,9350,15630
-11,Saltha,297,104,14268,11962,8579,15483
-12,Total,30438,13347,158792,84877,94678,148062
+1,Faridpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
+4,Alfadanga,1554,560,10686,7223,8306,1611
+5,Bhanga,69,32,12015,9291,14351,24731
+6,Boalmari,434,198,31630,28095,15744,25964
+7,Charbhadrashon,4988,2304,6988,5403,3741,6446
+8,Faridpur Sadar,12972,6295,34712,1601,17877,29811
+9,Madhukhali,1716,660,20995,2650,7789,12250
+10,Nagarkanda,188,70,12238,10260,8941,16136
+11,Sadarpur,8220,3124,15260,8392,9350,15630
+12,Saltha,297,104,14268,11962,8579,15483
+13,Total,30438,13347,158792,84877,94678,148062

@@ -1,20 +1,21 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of health centre, providing health and family planning service 2011",,,,,,,
-1,,,,,,,,
-2, Upazila/City corporation,Number of union health centre, Health service, Sterilization, M.R., Injection/ copper-T, Oral pill/ condom,Number of immunization centre
-3,Anowara,9,9120,852,297,1052,19498,81
-4,Banshkhali,3,2013,537,48,34730,26327,27
-5,Boalkhali,6,6028,256,366,6349,48993,54
-6,Chandanaish,9,20182,754,11,11852,11854,81
-7,Chittagong City Corp.,41,52153,2357,451,42644,65587,369
-8,Fatikchhari,30,9211,389,390,39433,18886,270
-9,Hathazari,16,2515,896,1060,16918,43240,144
-10,Lohagara,9,8529,3952,9857,19251,98521,81
-11,Mirsharai,7,4384,982,852,7852,75210,63
-12,Patiya,20,5220,613,785,21857,75214,180
-13,Rangunia,10,8517,425,851,13850,13524,90
-14,Raozan,7,8511,240,325,10202,16874,63
-15,Sandwip,14,9750,112,871,20142,50214,126
-16,Satkania,17,1852,852,952,17851,17541,153
-17,Sitakunda,7,4111,337,120,37251,702543,63
-18,Total,205,152096,13554,17236,301234,1284026,1845
+1,Chittagong,,,,,,,
+2,,,,,,,,
+3, Upazila/City corporation,Number of union health centre, Health service, Sterilization, M.R., Injection/ copper-T, Oral pill/ condom,Number of immunization centre
+4,Anowara,9,9120,852,297,1052,19498,81
+5,Banshkhali,3,2013,537,48,34730,26327,27
+6,Boalkhali,6,6028,256,366,6349,48993,54
+7,Chandanaish,9,20182,754,11,11852,11854,81
+8,Chittagong City Corporation,41,52153,2357,451,42644,65587,369
+9,Fatikchhari,30,9211,389,390,39433,18886,270
+10,Hathazari,16,2515,896,1060,16918,43240,144
+11,Lohagara,9,8529,3952,9857,19251,98521,81
+12,Mirsharai,7,4384,982,852,7852,75210,63
+13,Patiya,20,5220,613,785,21857,75214,180
+14,Rangunia,10,8517,425,851,13850,13524,90
+15,Raozan,7,8511,240,325,10202,16874,63
+16,Sandwip,14,9750,112,871,20142,50214,126
+17,Satkania,17,1852,852,952,17851,17541,153
+18,Sitakunda,7,4111,337,120,37251,702543,63
+19,Total,205,152096,13554,17236,301234,1284026,1845

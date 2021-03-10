@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Alikadam,1,12,4173,324
-4,Bandarban Sadar,4,66,24958,2947
-5,Lama,3,25,16779,1137
-6,Naikhongchhari,2,15,7221,477
-7,Rowangchhari,1,8,3373,469
-8,Ruma,1,7,3891,726
-9,Thanchi,1,4,1850,640
-10,Total,14,137,62245,6720
+1,Bandarban,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Alikadam,1,12,4173,324
+5,Bandarban Sadar,4,66,24958,2947
+6,Lama,3,25,16779,1137
+7,Naikhongchhari,2,15,7221,477
+8,Rowangchhari,1,8,3373,469
+9,Ruma,1,7,3891,726
+10,Thanchi,1,4,1850,640
+11,Total,14,137,62245,6720

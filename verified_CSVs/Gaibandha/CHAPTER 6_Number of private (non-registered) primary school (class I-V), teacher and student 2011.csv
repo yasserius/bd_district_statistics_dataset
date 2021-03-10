@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of private (non-registered) primary school (class I-V), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of Non-govt. primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Fulchhari,2,6,2,8,140,175,315,39
-4,Gaibandha Sadar,5,6,14,20,328,260,588,29
-5,Gobindaganj,4,10,6,16,208,214,422,26
-6,Palashbari,5,6,14,20,285,275,560,28
-7,Sadullapur,2,6,2,8,175,75,250,31
-8,Saghata,5,13,7,20,450,340,790,39
-9,Sundarganj,21,35,50,85,5553,6015,11568,136
-10,Total,44,82,95,177,7139,7354,14493,82
+1,Gaibandha,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of Non-govt. primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Fulchhari,2,6,2,8,140,175,315,39
+5,Gaibandha Sadar,5,6,14,20,328,260,588,29
+6,Gobindaganj,4,10,6,16,208,214,422,26
+7,Palashbari,5,6,14,20,285,275,560,28
+8,Sadullapur,2,6,2,8,175,75,250,31
+9,Saghata,5,13,7,20,450,340,790,39
+10,Sundarganj,21,35,50,85,5553,6015,11568,136
+11,Total,44,82,95,177,7139,7354,14493,82

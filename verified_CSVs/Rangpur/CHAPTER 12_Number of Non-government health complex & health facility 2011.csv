@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Non-government health complex  health facility 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of technician, Number of other staff,Number of patient under health facility 2011 - Indoor - Male,Number of patient under health facility 2011 - Indoor - Female,Number of patient under health facility 2011 - Outdoor - Male,Number of patient under health facility 2011 - Outdoor - Female
-3,Badarganj,0,0,0,0,0,0,0,0,0,0
-4,Gangachara,0,0,0,0,0,0,0,0,0,0
-5,Kaunia,0,0,0,0,0,0,0,0,0,0
-6,Mithapukur,0,0,0,0,0,0,0,0,0,0
-7,Pirgachha,0,0,0,0,0,0,0,0,0,0
-8,Pirganj,1,0,1,1,0,2,18,52,22,46
-9,Rangpur sadar,55,1220,75,18,85,524,36536,31381,104646,90146
-10,Taraganj,0,0,0,0,0,0,0,0,0,0
-11,Total,56,1220,76,19,85,526,36554,31433,104668,90192
+1,Rangpur,,,,,,,,,,
+2,,,,,,,,,,,
+3, Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of technician, Number of other staff,Number of patient under health facility 2011 - Indoor - Male,Number of patient under health facility 2011 - Indoor - Female,Number of patient under health facility 2011 - Outdoor - Male,Number of patient under health facility 2011 - Outdoor - Female
+4,Badarganj,0,0,0,0,0,0,0,0,0,0
+5,Gangachara,0,0,0,0,0,0,0,0,0,0
+6,Kaunia,0,0,0,0,0,0,0,0,0,0
+7,Mithapukur,0,0,0,0,0,0,0,0,0,0
+8,Pirgachha,0,0,0,0,0,0,0,0,0,0
+9,Pirganj,1,0,1,1,0,2,18,52,22,46
+10,Rangpur Sadar,55,1220,75,18,85,524,36536,31381,104646,90146
+11,Taraganj,0,0,0,0,0,0,0,0,0,0
+12,Total,56,1220,76,19,85,526,36554,31433,104668,90192

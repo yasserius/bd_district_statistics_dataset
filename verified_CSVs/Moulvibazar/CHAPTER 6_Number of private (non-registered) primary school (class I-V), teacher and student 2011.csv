@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of private (non-registered) primary school (class I-V), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of Non-govt. primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Barlekha,4,6,10,16,376,564,940,59
-4,Juri,15,19,36,55,1185,970,2155,39
-5,Kamalganj,34,35,45,80,2300,2700,5000,63
-6,Kulaura,14,9,5,14,525,573,1098,78
-7,Moulvibazar Sadar,0,0,0,0,0,0,0,0
-8,Rajnagar,33,63,55,118,1990,2470,4460,38
-9,Sreemangal,6,6,18,24,408,393,801,33
-10,Total,106,138,169,307,6784,7670,14454,47
+1,Moulvibazar,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of Non-govt. primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Barlekha,4,6,10,16,376,564,940,59
+5,Juri,15,19,36,55,1185,970,2155,39
+6,Kamalganj,34,35,45,80,2300,2700,5000,63
+7,Kulaura,14,9,5,14,525,573,1098,78
+8,Moulvibazar Sadar,0,0,0,0,0,0,0,0
+9,Rajnagar,33,63,55,118,1990,2470,4460,38
+10,Sreemangal,6,6,18,24,408,393,801,33
+11,Total,106,138,169,307,6784,7670,14454,47

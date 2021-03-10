@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of auto rice mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Male,Person engaged - Female,Person engaged - Total
-3,Abhaynagar,3,6,577,583
-4,Bagherpara,0,0,0,0
-5,Chaugachha,0,0,0,0
-6,Jessore Sadar,1,4,6,10
-7,Jhikargachha,0,0,0,0
-8,Keshabpur,1,4,1,5
-9,Manirampur,0,0,0,0
-10,Sharsha,2,2,110,112
-11,Total,7,16,694,710
+1,Jessore,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Male,Person engaged - Female,Person engaged - Total
+4,Abhaynagar,3,6,577,583
+5,Bagherpara,0,0,0,0
+6,Chaugachha,0,0,0,0
+7,Jessore Sadar,1,4,6,10
+8,Jhikargachha,0,0,0,0
+9,Keshabpur,1,4,1,5
+10,Manirampur,0,0,0,0
+11,Sharsha,2,2,110,112
+12,Total,7,16,694,710

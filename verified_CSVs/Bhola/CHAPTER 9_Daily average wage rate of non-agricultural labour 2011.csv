@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Daily average wage rate of non-agricultural labour 2011,,,,,
-1,(Wage in Taka),,,,,
-2,Upazila,Porter (coolee),Garden male labour,Garden female labour,Other Labour (Adult),Other labour (Child)
-3,Bhola Sadar,300,300,0,0,150
-4,Burhanuddin,300,300,0,200,150
-5,Char Fasson,500,250,150,275,120
-6,Daulatkhan,275,220,200,250,100
-7,Lalmohan,400,0,0,250,150
-8,Manpura,300,200,150,250,100
-9,Tazumuddin,350,250,200,200,150
-10,District Average,209,217,100,204,131
+1,Bhola,,,,,
+2,(Wage in Taka),,,,,
+3,Upazila,Porter (coolee),Garden male labour,Garden female labour,Other Labour (Adult),Other labour (Child)
+4,Bhola Sadar,300,300,0,0,150
+5,Burhanuddin,300,300,0,200,150
+6,Char Fasson,500,250,150,275,120
+7,Daulatkhan,275,220,200,250,100
+8,Lalmohan,400,0,0,250,150
+9,Manpura,300,200,150,250,100
+10,Tazumuddin,350,250,200,200,150
+11,District Average,209,217,100,204,131

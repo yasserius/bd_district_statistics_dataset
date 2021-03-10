@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
-3,Alamdanga,345,266,564,2826,461,1637
-4,Chuadanga Sadar,377,186.8,545,1635,235,564
-5,Damurhuda,1803,1031,733,2968,180,333
-6,Jibonnagar,1235,11115,346,3322,304,2402
-7,Total,3760,12598.8,2188,10751,1180,4936
+1,Chuadanga,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
+4,Alamdanga,345,266,564,2826,461,1637
+5,Chuadanga Sadar,377,186.8,545,1635,235,564
+6,Damurhuda,1803,1031,733,2968,180,333
+7,Jibonnagar,1235,11115,346,3322,304,2402
+8,Total,3760,12598.8,2188,10751,1180,4936

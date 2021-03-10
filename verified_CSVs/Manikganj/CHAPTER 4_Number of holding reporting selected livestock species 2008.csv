@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting selected livestock species 2008,,,,,,
-1,,,,,,,
-2, Upazila,Cow  Buffalo - Holding number,Cow  Buffalo - Number of animal,Goat - Holding number,Goat - Number of goat,Sheep - Holding number,Sheep - Number of sheep
-3,Daulotpur,45944,45944,10800,28642,3452,9042
-4,Gheor,33813,46349,6983,19234,1877,5282
-5,Horirampur,33572,33572,3055,22758,0,1361
-6,Manikganj Sadar,48664,3352,30,1537,15,67
-7,Saturia,39106,42567,7161,30220,1032,5210
-8,Singair,37564,480,4,36,0,0
-9,Shibalaya,46329,37234,11403,28442,1194,3501
-10,Total,284992,209498,39436,130869,7570,24463
+1,Manikganj,,,,,,
+2,,,,,,,
+3, Upazila,Cow  Buffalo - Holding number,Cow  Buffalo - Number of animal,Goat - Holding number,Goat - Number of goat,Sheep - Holding number,Sheep - Number of sheep
+4,Daulotpur,45944,45944,10800,28642,3452,9042
+5,Gheor,33813,46349,6983,19234,1877,5282
+6,Horirampur,33572,33572,3055,22758,0,1361
+7,Manikganj Sadar,48664,3352,30,1537,15,67
+8,Saturia,39106,42567,7161,30220,1032,5210
+9,Singair,37564,480,4,36,0,0
+10,Shibalaya,46329,37234,11403,28442,1194,3501
+11,Total,284992,209498,39436,130869,7570,24463

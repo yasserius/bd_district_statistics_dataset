@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,,,,,,
-2, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous body,Local Government employee
-3,Azmirigonj,38,307,6656,8,249
-4,Bahubal,40,376,4420,3,77
-5,Baniachang,50,1060,22720,0,106
-6,Chunarughat,35,50,150,13,110
-7,Habiganj Sadar,217,110,3480,11,214
-8,Lakhai,45,343,4032,19,60
-9,Madhabpur,35,352,8128,36,125
-10,Nabiganj,61,516,12800,0,154
-11,Total,521,3114,62386,90,1095
+1,Habiganj,,,,,
+2,,,,,,
+3, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous body,Local Government employee
+4,Azmirigonj,38,307,6656,8,249
+5,Bahubal,40,376,4420,3,77
+6,Baniachang,50,1060,22720,0,106
+7,Chunarughat,35,50,150,13,110
+8,Habiganj Sadar,217,110,3480,11,214
+9,Lakhai,45,343,4032,19,60
+10,Madhabpur,35,352,8128,36,125
+11,Nabiganj,61,516,12800,0,154
+12,Total,521,3114,62386,90,1095

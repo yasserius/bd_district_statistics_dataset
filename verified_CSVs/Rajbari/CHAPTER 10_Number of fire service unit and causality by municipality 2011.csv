@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Number of fire service unit and causality by municipality 2011,,,,,
-1,,,,,,
-2, Upazila, Fire service unit, Person employed, Fire case, Person dead, Person injured
-3,Baliakandi,0,0,0,0,0
-4,Goalanda,0,0,0,0,0
-5,Kalukhali,0,0,0,0,0
-6,Pangsha,1,14,87,0,10
-7,Rajbari Sadar,1,28,148,3,15
-8,Total,2,42,235,3,25
+1,Rajbari,,,,,
+2,,,,,,
+3,Upazila, Fire service unit, Person employed, Fire case, Person dead, Person injured
+4,Baliakandi,0,0,0,0,0
+5,Goalanda,0,0,0,0,0
+6,Kalukhali,0,0,0,0,0
+7,Pangsha,1,14,87,0,10
+8,Rajbari Sadar,1,28,148,3,15
+9,Total,2,42,235,3,25

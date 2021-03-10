@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5
 0,"Number of ward, mahalla and household by municipality 2011",,,,,
-1,,,,,,
-2,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
-3,Biral,-,0,0,0,0
-4,Birampur,Birampur,9,26,7230,10802
-5,Birganj,Birganj,9,11,3851,4535
-6,Bochaganj,Setabganj,9,33,6582,7128
-7,Chirirbandar,-,0,0,0,0
-8,Dinajpur Sadar,Dinajpur,12,80,25144,40929
-9,Fulbari,Fulbari,9,14,6328,8170
-10,Ghoraghat,-,9,29,4180,5570
-11,Hakimpur,Hakimpur,9,17,4849,6679
-12,Kaharole,-,0,0,0,0
-13,Khansama,-,0,0,0,0
-14,Nawabganj,-,0,0,0,0
-15,Parbatipur,Parbatipur,9,36,7010,7299
-16,Total,-,75,246,65174,91112
+1,Dinajpur,,,,,
+2,,,,,,
+3,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
+4,Biral,-,0,0,0,0
+5,Birampur,Birampur,9,26,7230,10802
+6,Birganj,Birganj,9,11,3851,4535
+7,Bochaganj,Setabganj,9,33,6582,7128
+8,Chirirbandar,-,0,0,0,0
+9,Dinajpur Sadar,Dinajpur,12,80,25144,40929
+10,Fulbari,Fulbari,9,14,6328,8170
+11,Ghoraghat,-,9,29,4180,5570
+12,Hakimpur,Hakimpur,9,17,4849,6679
+13,Kaharole,-,0,0,0,0
+14,Khansama,-,0,0,0,0
+15,Nawabganj,-,0,0,0,0
+16,Parbatipur,Parbatipur,9,36,7010,7299
+17,Total,-,75,246,65174,91112

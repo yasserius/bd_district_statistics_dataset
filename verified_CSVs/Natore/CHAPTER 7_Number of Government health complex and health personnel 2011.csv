@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Bagatipara,31,3,9,3,68
-4,Baraigram,31,12,8,6,80
-5,Gurudaspur,50,10,10,5,84
-6,Lalpur,50,5,14,8,78
-7,Natore Sadar,100,24,60,4,61
-8,Singra,31,10,9,5,140
-9,Total,293,64,110,31,511
+1,Natore,,,,,
+2,,,,,,
+3,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Bagatipara,31,3,9,3,68
+5,Baraigram,31,12,8,6,80
+6,Gurudaspur,50,10,10,5,84
+7,Lalpur,50,5,14,8,78
+8,Natore Sadar,100,24,60,4,61
+9,Singra,31,10,9,5,140
+10,Total,293,64,110,31,511

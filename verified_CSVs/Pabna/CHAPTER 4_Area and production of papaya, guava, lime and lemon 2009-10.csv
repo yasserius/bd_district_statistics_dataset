@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of papaya, guava, lime and lemon 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila Upazila 1,Papaya Area 2,Papaya Production 3,Guava Area 4,Guava Production 5,Lime and lemon Area 6,Lime and lemon Production 7
-3,Atgharia,16,304,56,360,14,72
-4,Bera,9,432,19,75,7,58
-5,Bhangura,5,56,10,45,5,40
-6,Chatmohar,94,1129,170,560,42,202
-7,Faridpur,18,192,330,2100,10,55
-8,Ishwardi,280,2112,150,700,332,1328
-9,Pabna Sadar,16,184,88,580,26,230
-10,Santhia,114,1390,25,170,14,15
-11,Sujanagar,75,450,52,70,77,97
-12,Total,629,9752,904,4665,1599,2097
+1,Pabna,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila Upazila 1,Papaya Area 2,Papaya Production 3,Guava Area 4,Guava Production 5,Lime and lemon Area 6,Lime and lemon Production 7
+4,Atgharia,16,304,56,360,14,72
+5,Bera,9,432,19,75,7,58
+6,Bhangura,5,56,10,45,5,40
+7,Chatmohar,94,1129,170,560,42,202
+8,Faridpur,18,192,330,2100,10,55
+9,Ishwardi,280,2112,150,700,332,1328
+10,Pabna Sadar,16,184,88,580,26,230
+11,Santhia,114,1390,25,170,14,15
+12,Sujanagar,75,450,52,70,77,97
+13,Total,629,9752,904,4665,1599,2097

@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Bakshiganj,2,32,5102,511
-4,Dewanganj,0,0,0,0
-5,Islampur,0,0,0,0
-6,Jamalpur Sadar,27,347,31792,7554
-7,Madarganj,0,0,0,0
-8,Melandaha,0,0,0,0
-9,Sarishabari,3,64,22474,5639
-10,Total,32,443,59368,13704
+1,Jamalpur,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Bakshiganj,2,32,5102,511
+5,Dewanganj,0,0,0,0
+6,Islampur,0,0,0,0
+7,Jamalpur Sadar,27,347,31792,7554
+8,Madarganj,0,0,0,0
+9,Melandaha,0,0,0,0
+10,Sarishabari,3,64,22474,5639
+11,Total,32,443,59368,13704

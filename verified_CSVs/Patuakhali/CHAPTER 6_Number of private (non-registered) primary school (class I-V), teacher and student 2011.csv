@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of private (non-registered) primary school (class I-V), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of Non- govt. primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Bauphal,16,20,16,38,503,524,1027,27
-4,Dashmina,7,16,12,28,1011,695,1706,61
-5,Dumki,0,0,0,0,0,0,0,0
-6,Galachipa,16,20,28,48,2496,2297,4793,100
-7,Kalapara,3,4,8,12,183,167,350,29
-8,Mirzaganj,7,8,20,28,410,490,900,32
-9,Patuakhali Sadar,0,0,0,0,0,0,0,0
-10,Total,49,68,84,154,4603,4173,8776,57
+1,Patuakhali,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of Non- govt. primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Bauphal,16,20,16,38,503,524,1027,27
+5,Dashmina,7,16,12,28,1011,695,1706,61
+6,Dumki,0,0,0,0,0,0,0,0
+7,Galachipa,16,20,28,48,2496,2297,4793,100
+8,Kalapara,3,4,8,12,183,167,350,29
+9,Mirzaganj,7,8,20,28,410,490,900,32
+10,Patuakhali Sadar,0,0,0,0,0,0,0,0
+11,Total,49,68,84,154,4603,4173,8776,57

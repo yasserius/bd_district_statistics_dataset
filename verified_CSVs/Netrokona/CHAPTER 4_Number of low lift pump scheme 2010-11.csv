@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,,,,,
-2, Upazila,Number of pump fielded Electric,Number of pump fielded Diesel,Number of pump fielded Total,Area irrigated (in acre)
-3,Atpara,139,1478,1617,13610
-4,Barhatta,379,692,1071,26280
-5,Durgapur,1119,1150,2269,32148
-6,Kalmakanda,419,4195,4614,296
-7,Kendua,650,5684,6334,50506
-8,Khaliajuri,3,320,323,7810
-9,Madan,95,2017,2112,23057
-10,Mohanganj,89,1400,1489,16925
-11,Netrokona Sadar,1746,4721,6467,18315
-12,Purbadhala,1760,5282,7042,54550
-13,Total,6399,26939,33338,243497
+1,Netrokona,,,,
+2,,,,,
+3,Upazila,Number of pump fielded Electric,Number of pump fielded Diesel,Number of pump fielded Total,Area irrigated (in acre)
+4,Atpara,139,1478,1617,13610
+5,Barhatta,379,692,1071,26280
+6,Durgapur,1119,1150,2269,32148
+7,Kalmakanda,419,4195,4614,296
+8,Kendua,650,5684,6334,50506
+9,Khaliajuri,3,320,323,7810
+10,Madan,95,2017,2112,23057
+11,Mohanganj,89,1400,1489,16925
+12,Netrokona Sadar,1746,4721,6467,18315
+13,Purbadhala,1760,5282,7042,54550
+14,Total,6399,26939,33338,243497

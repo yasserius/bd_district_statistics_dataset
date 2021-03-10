@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of madrasah, teacher and student under the madrasah education board 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Araihazar,8,81,15,96,1160,948,2108,22
-4,Bandar,7,128,19,147,940,758,1698,12
-5,Narayanganj Sadar,20,315,26,341,1933,1883,3816,11
-6,Rupganj,19,222,40,262,1573,2358,3931,15
-7,Sonargaon,10,153,26,179,2779,2445,5224,29
-8,Total,64,899,126,1025,8385,8392,16777,16
+1,Narayanganj,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Araihazar,8,81,15,96,1160,948,2108,22
+5,Bandar,7,128,19,147,940,758,1698,12
+6,Narayanganj Sadar,20,315,26,341,1933,1883,3816,11
+7,Rupganj,19,222,40,262,1573,2358,3931,15
+8,Sonargaon,10,153,26,179,2779,2445,5224,29
+9,Total,64,899,126,1025,8385,8392,16777,16

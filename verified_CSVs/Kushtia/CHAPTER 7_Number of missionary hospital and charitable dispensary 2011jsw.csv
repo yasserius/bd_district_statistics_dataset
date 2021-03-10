@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,7.04 Number of missionary hospital and charitable dispensary 2011,,,,,,
-1,,,,,,,
-2, Upazila,Number of centres,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Kushtia Sadar,1,30,3,6,3,9
-4,Bheramara,1,2,1,1,1,1
-5,Daulatpur,0,0,0,0,0,0
-6,Khoksa,0,0,0,0,0,0
-7,Kumarkhali,0,0,0,0,0,0
-8,Mirpur,0,0,0,0,0,0
-9,Total,2,32,4,7,4,10
+1,Kushtia,,,,,,
+2,,,,,,,
+3,Upazila,Number of centres,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Kushtia Sadar,1,30,3,6,3,9
+5,Bheramara,1,2,1,1,1,1
+6,Daulatpur,0,0,0,0,0,0
+7,Khoksa,0,0,0,0,0,0
+8,Kumarkhali,0,0,0,0,0,0
+9,Mirpur,0,0,0,0,0,0
+10,Total,2,32,4,7,4,10

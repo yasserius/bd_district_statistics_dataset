@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6,7,8
 0,Area and Production of Pulses by Type 2010-11,,,,,,,,
-1,(Area in acre  production in metric ton),,,,,,,,
-2,Upazila/city corporation,Gram Area,Gram Production,Motor Area,Motor Production,Khesari Area,Khesari Production,Mash-Kalai Area,Mash-Kalai Production
-3,Batiaghata,0,0,0,0,4.25,0.6,3.15,2.04
-4,Dacope,0,0,0,0,0,0,0,0
-5,Dighalia,2,0.4,0,0,14,2.5,0,0
-6,Dumuria,0,0,9,3.2,105,50.3,85,40
-7,Khulna City Corporation,0,0,0,0,0,0,0,0
-8,Koyra,0,0,0,0,1.25,0.5,0,0
-9,Paikgachha,8,2.72,8.5,3.25,60,26.58,21.7,7.6
-10,Phultala,1.5,0.6,2.5,1.21,10,5.19,5,1.36
-11,Rupsa,5,2.13,13,4.86,11,5.08,6,3.14
-12,Terokhada,0,0,11,2.76,130,91,0,0
-13,Total,16.5,5.85,44,15.28,335.5,181.75,120.85,54.143
+1,Khulna,,,,,,,,
+2,(Area in acre  production in metric ton),,,,,,,,
+3,Upazila/city corporation,Gram Area,Gram Production,Motor Area,Motor Production,Khesari Area,Khesari Production,Mash-Kalai Area,Mash-Kalai Production
+4,Batiaghata,0,0,0,0,4.25,0.6,3.15,2.04
+5,Dacope,0,0,0,0,0,0,0,0
+6,Dighalia,2,0.4,0,0,14,2.5,0,0
+7,Dumuria,0,0,9,3.2,105,50.3,85,40
+8,Khulna City Corporation,0,0,0,0,0,0,0,0
+9,Koyra,0,0,0,0,1.25,0.5,0,0
+10,Paikgachha,8,2.72,8.5,3.25,60,26.58,21.7,7.6
+11,Phultala,1.5,0.6,2.5,1.21,10,5.19,5,1.36
+12,Rupsa,5,2.13,13,4.86,11,5.08,6,3.14
+13,Terokhada,0,0,11,2.76,130,91,0,0
+14,Total,16.5,5.85,44,15.28,335.5,181.75,120.85,54.143

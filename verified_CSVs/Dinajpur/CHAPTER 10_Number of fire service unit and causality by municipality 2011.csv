@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5
 0,Number of fire service unit and causality by municipality 2011,,,,,
-1,,,,,,
-2, Municipality,Fire service unit,Person employed, Fire case, Person dead, Person injured
-3,Birampur,0,0,0,0,0
-4,Birganj,0,0,0,0,0
-5,Setabganj,1,13,72,0,0
-6,Dinajpur,1,48,129,3,26
-7,Fulbari,1,23,94,6,5
-8,Ghoraghat,0,0,0,0,0
-9,Hakimpur,1,11,0,0,0
-10,Parbatipur,1,24,119,0,5
-11,Total,5,119,414,9,36
+1,Dinajpur,,,,,
+2,,,,,,
+3, Municipality,Fire service unit,Person employed, Fire case, Person dead, Person injured
+4,Birampur,0,0,0,0,0
+5,Birganj,0,0,0,0,0
+6,Setabganj,1,13,72,0,0
+7,Dinajpur,1,48,129,3,26
+8,Fulbari,1,23,94,6,5
+9,Ghoraghat,0,0,0,0,0
+10,Hakimpur,1,11,0,0,0
+11,Parbatipur,1,24,119,0,5
+12,Total,5,119,414,9,36

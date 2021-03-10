@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
-1,(According to Agriculture Census 2008),,,,
-2,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
-3,Abhaynagar,36546,33328,15931,6599
-4,Bagherpara,35605,29111,14091,2094
-5,Chaugachha,38329,30924,18045,3294
-6,Jessore Sadar,64282,91996,25778,28706
-7,Jhikargachha,43341,44464,17750,3633
-8,Keshabpur,39419,40333,14607,1869
-9,Manirampur,68184,62149,28263,3622
-10,Sharsha,48917,43587,24189,6667
-11,Total,374623,375892,158654,56484
+1,Jessore,,,,
+2,(According to Agriculture Census 2008),,,,
+3,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
+4,Abhaynagar,36546,33328,15931,6599
+5,Bagherpara,35605,29111,14091,2094
+6,Chaugachha,38329,30924,18045,3294
+7,Jessore Sadar,64282,91996,25778,28706
+8,Jhikargachha,43341,44464,17750,3633
+9,Keshabpur,39419,40333,14607,1869
+10,Manirampur,68184,62149,28263,3622
+11,Sharsha,48917,43587,24189,6667
+12,Total,374623,375892,158654,56484

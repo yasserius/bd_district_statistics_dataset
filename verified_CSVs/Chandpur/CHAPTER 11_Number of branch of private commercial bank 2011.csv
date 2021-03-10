@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Chandpur Sadar,16,187,88460,8577
-4,Foridganj,3,65,5200,3779
-5,Haimchar,0,0,0,0
-6,Hajiganj,8,118,58343,11709
-7,Kachua,5,31,4016,1122
-8,Matlab Dakshin,1,24,1900,65
-9,Matlab Uttar,0,0,0,0
-10,Shahrasti,1,8,738,102
-11,Total,34,433,158657,25354
+1,Chandpur,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Chandpur Sadar,16,187,88460,8577
+5,Foridganj,3,65,5200,3779
+6,Haimchar,0,0,0,0
+7,Hajiganj,8,118,58343,11709
+8,Kachua,5,31,4016,1122
+9,Matlab Dakshin,1,24,1900,65
+10,Matlab Uttar,0,0,0,0
+11,Shahrasti,1,8,738,102
+12,Total,34,433,158657,25354

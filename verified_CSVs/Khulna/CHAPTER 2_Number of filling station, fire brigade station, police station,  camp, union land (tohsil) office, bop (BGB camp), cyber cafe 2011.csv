@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of filling station, fire brigade station, police station,  camp, union land (tohsil) office, bop (BGB camp), cyber cafe 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila/city corporation,Filling Station,Fire brigade Station,Police Station/ Camp,Union Land (Tohsil) Office,Sub- Registry Office,BOP (BGB camp),ISP provider,Cyber cafe
-3,Batiaghata,3,0,4,3,1,0,0,0
-4,Dacope,0,0,4,5,1,0,0,0
-5,Dighalia,0,1,5,3,0,0,0,0
-6,Dumuria,1,1,8,6,1,0,0,0
-7,Khulna City Corporation,10,4,21,4,2,1,2,106
-8,Koyra,0,0,7,4,1,0,0,0
-9,Paikgachha,1,0,6,6,1,0,57,6
-10,Phultala,2,0,1,2,1,0,0,0
-11,Rupsa,2,1,10,2,1,0,0,0
-12,Terokhada,0,0,4,2,1,0,0,0
-13,Total,19,7,70,37,10,1,59,112
+1,Khulna,,,,,,,,
+2,,,,,,,,,
+3,Upazila/city corporation,Filling Station,Fire brigade Station,Police Station/ Camp,Union Land (Tohsil) Office,Sub- Registry Office,BOP (BGB camp),ISP provider,Cyber cafe
+4,Batiaghata,3,0,4,3,1,0,0,0
+5,Dacope,0,0,4,5,1,0,0,0
+6,Dighalia,0,1,5,3,0,0,0,0
+7,Dumuria,1,1,8,6,1,0,0,0
+8,Khulna City Corporation,10,4,21,4,2,1,2,106
+9,Koyra,0,0,7,4,1,0,0,0
+10,Paikgachha,1,0,6,6,1,0,57,6
+11,Phultala,2,0,1,2,1,0,0,0
+12,Rupsa,2,1,10,2,1,0,0,0
+13,Terokhada,0,0,4,2,1,0,0,0
+14,Total,19,7,70,37,10,1,59,112

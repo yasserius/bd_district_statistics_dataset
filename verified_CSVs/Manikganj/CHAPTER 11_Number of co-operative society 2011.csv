@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,,,,
-2,Upazila,Number,Number of employee,Number of client
-3,Daulotpur,92,4,2341
-4,Gheor,411,5,3035
-5,Horirampur,240,32,11791
-6,Manikganj Sadar,587,42,13285
-7,Saturia,91,11,6771
-8,Singair,668,25,14007
-9,Shibalaya,165,18,8940
-10,Total,2254,137,60170
+1,Manikganj,,,
+2,,,,
+3,Upazila,Number,Number of employee,Number of client
+4,Daulotpur,92,4,2341
+5,Gheor,411,5,3035
+6,Horirampur,240,32,11791
+7,Manikganj Sadar,587,42,13285
+8,Saturia,91,11,6771
+9,Singair,668,25,14007
+10,Shibalaya,165,18,8940
+11,Total,2254,137,60170

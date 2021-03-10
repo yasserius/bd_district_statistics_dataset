@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6
 0,Area and production of oilseeds by type 2010-11,,,,,,
-1,(Area in acre  production in metric ton),,,,,,
-2,Upazila,Rape  mustard Area,Rape  mustard Production,Ground nut Area,Ground nut Production,Til Area,Til Production
-3,Gangni,5582,3835,32,14,54,17
-4,Mujibnagar,2160,1045,0,0,36,12.97
-5,Meherpur Sadar,6523,3178,0,0,197,8228
-6,Total,14265,8058,32,14,287,8257.97
+1,Meherpur,,,,,,
+2,(Area in acre  production in metric ton),,,,,,
+3,Upazila,Rape  mustard Area,Rape  mustard Production,Ground nut Area,Ground nut Production,Til Area,Til Production
+4,Gangni,5582,3835,32,14,54,17
+5,Mujibnagar,2160,1045,0,0,36,12.97
+6,Meherpur Sadar,6523,3178,0,0,197,8228
+7,Total,14265,8058,32,14,287,8257.97

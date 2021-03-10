@@ -1,18 +1,19 @@
 ,0,1,2,3
 0,"Number of railway station, steamer, launch station and bus stand 2011",,,
-1,,,,
-2,Upazila,Railway station,Steamer/launch station,Bus stand
-3,Austagram,0,12,0
-4,Bajitpur,3,2,4
-5,Bhairab,2,2,3
-6,Hossainpur,0,0,1
-7,Itna,0,6,0
-8,Karimganj,0,1,22
-9,Katiadi,2,0,6
-10,Kishoreganj Sadar,3,0,5
-11,Kuliar-char,2,1,2
-12,Mithamain,0,7,0
-13,Nikli,0,0,1
-14,Pakundia,0,0,8
-15,Tarail,0,0,1
-16,Total,12,31,53
+1,Kishoreganj,,,
+2,,,,
+3,Upazila,Railway station,Steamer/launch station,Bus stand
+4,Austagram,0,12,0
+5,Bajitpur,3,2,4
+6,Bhairab,2,2,3
+7,Hossainpur,0,0,1
+8,Itna,0,6,0
+9,Karimganj,0,1,22
+10,Katiadi,2,0,6
+11,Kishoreganj Sadar,3,0,5
+12,Kuliar-char,2,1,2
+13,Mithamain,0,7,0
+14,Nikli,0,0,1
+15,Pakundia,0,0,8
+16,Tarail,0,0,1
+17,Total,12,31,53

@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
-3,Belkuchi,33,18,8,11,15,18
-4,Chauhali,42,66,104,87,75,92
-5,Kamarkhanda,18,6,58,100,10,20
-6,Kazipur,6299,5355,803,2438,74,210
-7,Royganj,1086,1143,198,641,130,175
-8,Shahjadpur,27,94,246,355,17,24
-9,Sirajganj Sadar,1457,915,457,1653,59,63
-10,Tarash,0,0,166,347,261,399
-11,Ullahpara,812,345,205,512,143,187
-12,Total,9774,7942,2245,6144,784,1188
+1,Sirajganj,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
+4,Belkuchi,33,18,8,11,15,18
+5,Chauhali,42,66,104,87,75,92
+6,Kamarkhanda,18,6,58,100,10,20
+7,Kazipur,6299,5355,803,2438,74,210
+8,Royganj,1086,1143,198,641,130,175
+9,Shahjadpur,27,94,246,355,17,24
+10,Sirajganj Sadar,1457,915,457,1653,59,63
+11,Tarash,0,0,166,347,261,399
+12,Ullahpara,812,345,205,512,143,187
+13,Total,9774,7942,2245,6144,784,1188

@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of NGO school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of NGO school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Bakshiganj,138,5,133,138,1972,2672,4644,34
-4,Dewanganj,8,0,8,8,176,208,384,48
-5,Islampur,44,0,44,44,528,792,1320,30
-6,Jamalpur Sadar,53,19,46,65,631,694,1325,20
-7,Madarganj,226,16,250,266,3695,4309,8004,30
-8,Melandaha,132,52,80,132,1570,1750,3320,25
-9,Sarishabari,28,0,84,84,1260,1260,2520,30
-10,Total,629,92,645,737,9832,11685,21517,29
+1,Jamalpur,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of NGO school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Bakshiganj,138,5,133,138,1972,2672,4644,34
+5,Dewanganj,8,0,8,8,176,208,384,48
+6,Islampur,44,0,44,44,528,792,1320,30
+7,Jamalpur Sadar,53,19,46,65,631,694,1325,20
+8,Madarganj,226,16,250,266,3695,4309,8004,30
+9,Melandaha,132,52,80,132,1570,1750,3320,25
+10,Sarishabari,28,0,84,84,1260,1260,2520,30
+11,Total,629,92,645,737,9832,11685,21517,29

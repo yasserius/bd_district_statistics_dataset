@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of NGO school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila/city corporation,Number of NGO school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Student per teacher
-3,Agailjhara,19,36,52,88,252,470,722,9
-4,Babuganj,1,0,6,6,106,103,209,35
-5,Bakerganj,9,0,18,18,277,292,569,32
-6,Banaripara,0,0,0,0,0,0,0,0
-7,Barisal city corporation,14,20,41,61,503,462,965,15.81
-8,Barisal sadar,9,6,11,17,303,198,501,29.47
-9,Gaurnadi,4,0,4,4,25,105,130,33
-10,Hizla,1,1,3,4,350,450,800,200
-11,Mehendiganj,62,0,62,62,801,906,1707,27.53
-12,Muladi,29,20,38,58,280,340,620,11
-13,Wazirpur,74,68,129,197,1740,1845,3585,18.19
-14,Total,222,151,364,515,4637,5171,9808,19
+1,Barisal,,,,,,,,
+2,,,,,,,,,
+3,Upazila/city corporation,Number of NGO school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Student per teacher
+4,Agailjhara,19,36,52,88,252,470,722,9
+5,Babuganj,1,0,6,6,106,103,209,35
+6,Bakerganj,9,0,18,18,277,292,569,32
+7,Banaripara,0,0,0,0,0,0,0,0
+8,Barisal city corporation,14,20,41,61,503,462,965,15.81
+9,Barisal Sadar,9,6,11,17,303,198,501,29.47
+10,Gaurnadi,4,0,4,4,25,105,130,33
+11,Hizla,1,1,3,4,350,450,800,200
+12,Mehendiganj,62,0,62,62,801,906,1707,27.53
+13,Muladi,29,20,38,58,280,340,620,11
+14,Wazirpur,74,68,129,197,1740,1845,3585,18.19
+15,Total,222,151,364,515,4637,5171,9808,19

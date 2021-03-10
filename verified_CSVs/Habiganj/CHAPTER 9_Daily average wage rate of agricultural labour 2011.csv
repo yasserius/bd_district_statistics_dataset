@@ -1,13 +1,14 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
-1,(Rate in taka),,,
-2, Upazila,Labour - Male,Labour - Female,Labour - Child (under 15 years old)
-3,Azmirigonj,200,160,140
-4,Bahubal,200,130,100
-5,Baniachang,250,100,130
-6,Chunarughat,200,200,120
-7,Habiganj Sadar,200,120,200
-8,Lakhai,200,100,100
-9,Madhabpur,200,150,100
-10,Nabiganj,200,150,150
-11,Average,206,139,130
+1,Habiganj,,,
+2,(Rate in taka),,,
+3, Upazila,Labour - Male,Labour - Female,Labour - Child (under 15 years old)
+4,Azmirigonj,200,160,140
+5,Bahubal,200,130,100
+6,Baniachang,250,100,130
+7,Chunarughat,200,200,120
+8,Habiganj Sadar,200,120,200
+9,Lakhai,200,100,100
+10,Madhabpur,200,150,100
+11,Nabiganj,200,150,150
+12,Average,206,139,130

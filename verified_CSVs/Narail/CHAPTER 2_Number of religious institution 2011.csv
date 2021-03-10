@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6
 0,Number of religious institution 2011,,,,,,
-1,,,,,,,
-2,Upazila,Mosque,Eid-Gah,Temple (Mandir),Church (Girza),Pagoda,Others
-3,Kalia,425,80,110,1,0,0
-4,Lohagara,428,57,18,0,0,0
-5,Narail Sadar,719,77,325,1,1,0
-6,Total,1572,214,453,2,1,0
+1,Narail,,,,,,
+2,,,,,,,
+3,Upazila,Mosque,Eid-Gah,Temple (Mandir),Church (Girza),Pagoda,Others
+4,Kalia,425,80,110,1,0,0
+5,Lohagara,428,57,18,0,0,0
+6,Narail Sadar,719,77,325,1,1,0
+7,Total,1572,214,453,2,1,0

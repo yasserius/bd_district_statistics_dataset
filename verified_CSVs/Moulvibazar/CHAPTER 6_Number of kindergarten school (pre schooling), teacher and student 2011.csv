@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kindergarten school (pre schooling), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of kindergarten school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Barlekha,64,112,208,320,2332,3805,6137,19
-4,Juri,10,15,25,40,941,1092,2033,51
-5,Kamalganj,22,20,40,60,950,1150,2100,35
-6,Kulaura,48,49,95,144,2116,2242,4358,30
-7,Moulvibazar Sadar,61,85,168,253,4178,3705,7883,31
-8,Rajnagar,8,13,18,31,1265,1470,2735,88
-9,Sreemangal,24,50,46,96,997,954,1951,20
-10,Total,237,344,600,944,12779,14418,27197,29
+1,Moulvibazar,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of kindergarten school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Barlekha,64,112,208,320,2332,3805,6137,19
+5,Juri,10,15,25,40,941,1092,2033,51
+6,Kamalganj,22,20,40,60,950,1150,2100,35
+7,Kulaura,48,49,95,144,2116,2242,4358,30
+8,Moulvibazar Sadar,61,85,168,253,4178,3705,7883,31
+9,Rajnagar,8,13,18,31,1265,1470,2735,88
+10,Sreemangal,24,50,46,96,997,954,1951,20
+11,Total,237,344,600,944,12779,14418,27197,29

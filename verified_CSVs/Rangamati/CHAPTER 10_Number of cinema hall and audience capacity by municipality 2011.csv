@@ -1,7 +1,8 @@
 ,0,1,2,3,4
 0,Number of cinema hall and audience capacity by municipality 2011,,,,
-1,,,,,
-2,Municipality,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
-3,Baghaichhari,0,0,0,0
-4,Rangamati,1,450,2,150
-5,Total,1,450,2,150
+1,Rangamati,,,,
+2,,,,,
+3,Municipality,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
+4,Baghaichhari,0,0,0,0
+5,Rangamati,1,450,2,150
+6,Total,1,450,2,150

@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of printing press and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Jhenaigati,0,0,0,0
-4,Nakla,0,0,0,0
-5,Nalitabari,2,4,4,8
-6,Sherpur Sadar,10,14,17,31
-7,Sreebardi,1,1,1,2
-8,Total,13,19,22,41
+1,Sherpur,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Jhenaigati,0,0,0,0
+5,Nakla,0,0,0,0
+6,Nalitabari,2,4,4,8
+7,Sherpur Sadar,10,14,17,31
+8,Sreebardi,1,1,1,2
+9,Total,13,19,22,41

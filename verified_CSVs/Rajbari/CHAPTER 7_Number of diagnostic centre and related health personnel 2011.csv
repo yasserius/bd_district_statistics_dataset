@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Baliakandi,1,2,1,1,3
-4,Goalanda,2,1,0,2,3
-5,Kalukhali,2,0,0,4,0
-6,Pangsha,7,8,8,8,25
-7,Rajbari Sadar,11,0,0,11,33
-8,Total,23,11,9,26,64
+1,Rajbari,,,,,
+2,,,,,,
+3,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Baliakandi,1,2,1,1,3
+5,Goalanda,2,1,0,2,3
+6,Kalukhali,2,0,0,4,0
+7,Pangsha,7,8,8,8,25
+8,Rajbari Sadar,11,0,0,11,33
+9,Total,23,11,9,26,64

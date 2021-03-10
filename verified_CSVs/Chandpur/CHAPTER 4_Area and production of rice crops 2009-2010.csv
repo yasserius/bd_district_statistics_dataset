@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2009-2010,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
-3,Chandpur Sadar,1773,1017,13460,8833,17228,26603
-4,Foridganj,2025,341,20570,20182,25441,42537
-5,Haimchar,3235,3109,8015,7296,3693,5249
-6,Hajiganj,0,0,11771,4237,25546,58683
-7,Kachua,10130,9526,32100,16560,27660,39786
-8,Matlab Dakshin,29,37,4628,1830,17079,29026
-9,Matlab Uttar,10362,9711,22724,22467,16291,27116
-10,Shahrasti,2800,2916,19588,7323,24388,35208
-11,Total,30354,26657,132856,88728,157326,264208
+1,Chandpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
+4,Chandpur Sadar,1773,1017,13460,8833,17228,26603
+5,Foridganj,2025,341,20570,20182,25441,42537
+6,Haimchar,3235,3109,8015,7296,3693,5249
+7,Hajiganj,0,0,11771,4237,25546,58683
+8,Kachua,10130,9526,32100,16560,27660,39786
+9,Matlab Dakshin,29,37,4628,1830,17079,29026
+10,Matlab Uttar,10362,9711,22724,22467,16291,27116
+11,Shahrasti,2800,2916,19588,7323,24388,35208
+12,Total,30354,26657,132856,88728,157326,264208

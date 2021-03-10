@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,Area and production of cauliflower and cucumber 2009-10,,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
-3,Atpara,30,55,23,50
-4,Barhatta,48,124,13,48
-5,Durgapur,68,95,67,67
-6,Kalmakanda,61,87,78,95
-7,Kendua,46,158,8,34
-8,Khaliajuri,0,0,0,0
-9,Madan,30,160,0,3
-10,Mohanganj,13,100,5,18
-11,Netrokona Sadar,45,179,19,30
-12,Purbadhala,38,173,27,16
-13,Total,378,1131,240,362
+1,Netrokona,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
+4,Atpara,30,55,23,50
+5,Barhatta,48,124,13,48
+6,Durgapur,68,95,67,67
+7,Kalmakanda,61,87,78,95
+8,Kendua,46,158,8,34
+9,Khaliajuri,0,0,0,0
+10,Madan,30,160,0,3
+11,Mohanganj,13,100,5,18
+12,Netrokona Sadar,45,179,19,30
+13,Purbadhala,38,173,27,16
+14,Total,378,1131,240,362

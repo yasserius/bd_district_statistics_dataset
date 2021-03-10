@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Araihazar,33,38,198,236
-4,Bandar,10,15,143,158
-5,Narayanganj Sadar,78,121,580,701
-6,Rupganj,25,27,176,203
-7,Sonargaon,21,35,366,401
-8,Total,167,236,1463,1699
+1,Narayanganj,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Araihazar,33,38,198,236
+5,Bandar,10,15,143,158
+6,Narayanganj Sadar,78,121,580,701
+7,Rupganj,25,27,176,203
+8,Sonargaon,21,35,366,401
+9,Total,167,236,1463,1699

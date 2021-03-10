@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of jackfruit, banana and pineapple 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Jackfruit - Area,Jackfruit - Production,Banana - Area,Banana - Production,Pineapple - Area,Pineapple - Production
-3,Bhurungamari,8487,306,55,14,12,307
-4,Char Rajibpur,5,10,3,5,0,0
-5,Chilmari,527,185,70,580,0,0
-6,Kurigram Sadar,43,3,40,200,2,2
-7,Nageshwari,2600,286,26744,22396,6,1092
-8,Phulbari,31,749,38,396,0,10
-9,Rajarhat,26,423,56,736,2,2
-10,Raumari,12,62,0,0,0,0
-11,Ulipur,152,1260,160,1657,22,66
-12,Total,11883,3284,27166,25983,44,1479
+1,Kurigram,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Jackfruit - Area,Jackfruit - Production,Banana - Area,Banana - Production,Pineapple - Area,Pineapple - Production
+4,Bhurungamari,8487,306,55,14,12,307
+5,Char Rajibpur,5,10,3,5,0,0
+6,Chilmari,527,185,70,580,0,0
+7,Kurigram Sadar,43,3,40,200,2,2
+8,Nageshwari,2600,286,26744,22396,6,1092
+9,Phulbari,31,749,38,396,0,10
+10,Rajarhat,26,423,56,736,2,2
+11,Raumari,12,62,0,0,0,0
+12,Ulipur,152,1260,160,1657,22,66
+13,Total,11883,3284,27166,25983,44,1479

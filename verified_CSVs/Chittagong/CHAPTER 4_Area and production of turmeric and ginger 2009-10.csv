@@ -1,20 +1,21 @@
 ,0,1,2,3,4
 0,Area and production of turmeric and ginger 2009-10,,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila/City corporation,Turmeric - Area,Turmeric - Production,Ginger - Area,Ginger - Production
-3,Anowara,22,26,17,47
-4,Banshkhali,94,82,96,349
-5,Boalkhali,175,202,18,46
-6,Chandanaish,235,425,296,2400
-7,Chittagong City Corp.,12,39,0,0
-8,Fatikchhari,155,415,150,342
-9,Hathazari,89,340,123,442
-10,Lohagara,84,168,32,57
-11,Mirsharai,52,62,28,56
-12,Patiya,63,195,59,150
-13,Rangunia,121,515,810,4726
-14,Raozan,52,390,68,502
-15,Sandwip,0,0,0,0
-16,Satkania,85,256,45,140
-17,Sitakunda,45,177,0,0
-18,Total,1283,3293,1742,9256
+1,Chittagong,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila/City corporation,Turmeric - Area,Turmeric - Production,Ginger - Area,Ginger - Production
+4,Anowara,22,26,17,47
+5,Banshkhali,94,82,96,349
+6,Boalkhali,175,202,18,46
+7,Chandanaish,235,425,296,2400
+8,Chittagong City Corporation,12,39,0,0
+9,Fatikchhari,155,415,150,342
+10,Hathazari,89,340,123,442
+11,Lohagara,84,168,32,57
+12,Mirsharai,52,62,28,56
+13,Patiya,63,195,59,150
+14,Rangunia,121,515,810,4726
+15,Raozan,52,390,68,502
+16,Sandwip,0,0,0,0
+17,Satkania,85,256,45,140
+18,Sitakunda,45,177,0,0
+19,Total,1283,3293,1742,9256

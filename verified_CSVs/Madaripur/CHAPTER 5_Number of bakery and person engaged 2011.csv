@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Kalkini,13,15,27,42
-4,Madaripur Sadar,13,26,135,161
-5,Rajoir,3,3,21,24
-6,Shibchar,15,15,60,75
-7,Total,44,59,243,302
+1,Madaripur,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Kalkini,13,15,27,42
+5,Madaripur Sadar,13,26,135,161
+6,Rajoir,3,3,21,24
+7,Shibchar,15,15,60,75
+8,Total,44,59,243,302

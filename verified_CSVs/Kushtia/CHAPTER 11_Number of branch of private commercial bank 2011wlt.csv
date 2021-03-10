@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,11.06 Number of branch of private commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Kushtia Sadar,21,418,65467,12038
-4,Bheramara,0,0,0,0
-5,Daulatpur,0,0,0,0
-6,Khoksa,1,7,304,233
-7,Kumarkhali,1,34,1094,123
-8,Mirpur,9,87,19172,16012
-9,Total,32,546,86037,28406
+1,Kushtia,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Kushtia Sadar,21,418,65467,12038
+5,Bheramara,0,0,0,0
+6,Daulatpur,0,0,0,0
+7,Khoksa,1,7,304,233
+8,Kumarkhali,1,34,1094,123
+9,Mirpur,9,87,19172,16012
+10,Total,32,546,86037,28406

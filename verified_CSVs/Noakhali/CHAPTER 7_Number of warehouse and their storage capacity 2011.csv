@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of warehouse and their storage capacity 2011,,,,,,,,
-1,(Capacity in metric ton),,,,,,,,
-2,Upazila,Food godown - Number,Food godown - Capacity,Fertilizer godown - Number,Fertilizer godown - Capacity,Jute godown - Number,Jute godown - Capacity,Other godown - Number,Other godown - Capacity
-3,Begumganj,2,5000,0,0,0,0,0,0
-4,Chatkhil,1,500,0,0,0,0,0,0
-5,Companiganj,3,1500,0,0,0,0,0,0
-6,Hatiya,3,4500,0,0,0,0,0,0
-7,Kabirhat,0,0,0,0,0,0,0,0
-8,Noakhali Sadar,5,5000,0,0,0,0,0,0
-9,Senbagh,3,1500,0,0,0,0,0,0
-10,Sonaimuri,3,3000,0,0,0,0,0,0
-11,Subarnachar,1,1000,0,0,0,0,0,0
-12,Total,21,22000,0,0,0,0,0,0
+1,Noakhali,,,,,,,,
+2,(Capacity in metric ton),,,,,,,,
+3,Upazila,Food godown - Number,Food godown - Capacity,Fertilizer godown - Number,Fertilizer godown - Capacity,Jute godown - Number,Jute godown - Capacity,Other godown - Number,Other godown - Capacity
+4,Begumganj,2,5000,0,0,0,0,0,0
+5,Chatkhil,1,500,0,0,0,0,0,0
+6,Companiganj,3,1500,0,0,0,0,0,0
+7,Hatiya,3,4500,0,0,0,0,0,0
+8,Kabirhat,0,0,0,0,0,0,0,0
+9,Noakhali Sadar,5,5000,0,0,0,0,0,0
+10,Senbagh,3,1500,0,0,0,0,0,0
+11,Sonaimuri,3,3000,0,0,0,0,0,0
+12,Subarnachar,1,1000,0,0,0,0,0,0
+13,Total,21,22000,0,0,0,0,0,0

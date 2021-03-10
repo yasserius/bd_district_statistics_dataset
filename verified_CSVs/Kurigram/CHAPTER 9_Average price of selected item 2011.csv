@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7
 0,Average price of selected item 2011,,,,,,,
-1,"(Price unit per kg, taka)",,,,,,,
-2,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
-3,Bhurungamari,56,30,28,25,30,10,125
-4,Char Rajibpur,45,32,30,20,28,15,110
-5,Chilmari,40,30,28,25,32,12,130
-6,Kurigram Sadar,42,32,28,22,24,10,126
-7,Nageshwari,52,30,25,17,22,10,120
-8,Phulbari,45,28,26,20,30,10,135
-9,Rajarhat,45,32,25,20,32,10,120
-10,Raumari,38,33,28,20,26,12,120
-11,Ulipur,42,32,28,20,32,10,120
-12,Average,45,32,28,20,28,12,125
+1,Kurigram,,,,,,,
+2,"(Price unit per kg, taka)",,,,,,,
+3,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
+4,Bhurungamari,56,30,28,25,30,10,125
+5,Char Rajibpur,45,32,30,20,28,15,110
+6,Chilmari,40,30,28,25,32,12,130
+7,Kurigram Sadar,42,32,28,22,24,10,126
+8,Nageshwari,52,30,25,17,22,10,120
+9,Phulbari,45,28,26,20,30,10,135
+10,Rajarhat,45,32,25,20,32,10,120
+11,Raumari,38,33,28,20,26,12,120
+12,Ulipur,42,32,28,20,32,10,120
+13,Average,45,32,28,20,28,12,125

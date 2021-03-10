@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kindergarten school (pre schooling), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of kindergarten school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Alfadanga,14,30,28,58,649,430,1079,19
-4,Bhanga,44,18,158,176,1110,1145,2255,13
-5,Boalmari,20,77,123,200,1065,1466,2531,13
-6,Charbhadrashon,5,13,8,21,406,562,968,46
-7,Faridpur Sadar,118,243,420,663,5459,5816,11275,17
-8,Madhukhali,18,31,41,72,644,682,1326,18
-9,Nagarkanda,9,24,30,54,371,441,812,15
-10,Sadarpur,15,25,35,60,395,510,905,15
-11,Saltha,11,25,38,63,634,476,1110,18
-12,Total,254,486,881,1367,10733,11528,22261,16
+1,Faridpur,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of kindergarten school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Alfadanga,14,30,28,58,649,430,1079,19
+5,Bhanga,44,18,158,176,1110,1145,2255,13
+6,Boalmari,20,77,123,200,1065,1466,2531,13
+7,Charbhadrashon,5,13,8,21,406,562,968,46
+8,Faridpur Sadar,118,243,420,663,5459,5816,11275,17
+9,Madhukhali,18,31,41,72,644,682,1326,18
+10,Nagarkanda,9,24,30,54,371,441,812,15
+11,Sadarpur,15,25,35,60,395,510,905,15
+12,Saltha,11,25,38,63,634,476,1110,18
+13,Total,254,486,881,1367,10733,11528,22261,16

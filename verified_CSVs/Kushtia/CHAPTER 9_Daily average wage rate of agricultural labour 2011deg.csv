@@ -1,11 +1,12 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
-1,(Rate in Taka),,,
-2, Upazila, Male, Female,Child (Child means under 15 years old)
-3,Kushtia Sadar,200,150,150
-4,Bheramara,200,170,120
-5,Daulatpur,250,200,200
-6,Khoksa,250,200,150
-7,Kumarkhali,250,240,180
-8,Mirpur,200,150,130
-9,Average,225,185,155
+1,Kushtia,,,
+2,(Rate in Taka),,,
+3,Upazila, Male, Female,Child (Child means under 15 years old)
+4,Kushtia Sadar,200,150,150
+5,Bheramara,200,170,120
+6,Daulatpur,250,200,200
+7,Khoksa,250,200,150
+8,Kumarkhali,250,240,180
+9,Mirpur,200,150,130
+10,Average,225,185,155

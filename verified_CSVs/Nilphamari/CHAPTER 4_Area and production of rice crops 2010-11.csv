@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2010-11,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
-3,Dimla,0,0,48170,51661,33210,54876
-4,Domar,0,0,370,185,31196,47219
-5,Jaldhaka,0,0,54884,61113,34045,89756
-6,Kishorgonj,0,0,38029,44016,24800,40093
-7,Nilphamary Sadar,0,0,63800,65152,51200,80536
-8,Sayedpur,0,0,20240,22018,16285,27020
-9,Total,0,0,225493,244145,190736,339500
+1,Nilphamari,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
+4,Dimla,0,0,48170,51661,33210,54876
+5,Domar,0,0,370,185,31196,47219
+6,Joldhaka,0,0,54884,61113,34045,89756
+7,Kishorgonj,0,0,38029,44016,24800,40093
+8,Nilphamary Sadar,0,0,63800,65152,51200,80536
+9,Sayedpur,0,0,20240,22018,16285,27020
+10,Total,0,0,225493,244145,190736,339500

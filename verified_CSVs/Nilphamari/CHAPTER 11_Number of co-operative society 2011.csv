@@ -1,11 +1,12 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,,,,
-2,Upazila,Number,Number of employee,Number of client
-3,Dimla,253,35,11556
-4,Domar,266,10,14538
-5,Jaldhaka,117,50,11700
-6,Kishorgonj,80,0,1600
-7,Nilphamary Sadar,377,0,16660
-8,Sayedpur,198,0,9459
-9,Total,1291,95,65513
+1,Nilphamari,,,
+2,,,,
+3,Upazila,Number,Number of employee,Number of client
+4,Dimla,253,35,11556
+5,Domar,266,10,14538
+6,Joldhaka,117,50,11700
+7,Kishorgonj,80,0,1600
+8,Nilphamary Sadar,377,0,16660
+9,Sayedpur,198,0,9459
+10,Total,1291,95,65513

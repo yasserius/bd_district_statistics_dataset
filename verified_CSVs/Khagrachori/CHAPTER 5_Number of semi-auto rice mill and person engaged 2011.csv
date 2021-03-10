@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of semi-auto rice mill and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged Male,Person engaged Female,Person engaged Total
-3,Dighinala,8,8,0,8
-4,Khagrachhari Sadar,12,12,0,12
-5,Laxshmichhari,0,0,0,0
-6,Mahalchhari,90,110,80,190
-7,Manikchhari,20,20,5,25
-8,Matiranga,0,0,0,0
-9,Panchhari,9,20,0,20
-10,Ramgarh,0,0,0,0
-11,Total,139,170,85,255
+1,Khagrachori,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged Male,Person engaged Female,Person engaged Total
+4,Dighinala,8,8,0,8
+5,Khagrachori,12,12,0,12
+6,Laxshmichhari,0,0,0,0
+7,Mahalchhari,90,110,80,190
+8,Manikchhari,20,20,5,25
+9,Matiranga,0,0,0,0
+10,Panchhari,9,20,0,20
+11,Ramgarh,0,0,0,0
+12,Total,139,170,85,255

@@ -1,7 +1,8 @@
 ,0,1,2,3,4,5,6
 0,Medical institution and personnel by municipality 2011,,,,,,
-1,,,,,,,
-2, Municipality,Government institution,Private institution,Medical personal - Bed,Medical personal - Doctor,Medical personal - Nurse,Medical personal - Technician
-3,Baghaichhari,1,1,31,2,6,5
-4,Rangamati,1,1,115,19,61,8
-5,Total,2,2,146,21,67,13
+1,Rangamati,,,,,,
+2,,,,,,,
+3, Municipality,Government institution,Private institution,Medical personal - Bed,Medical personal - Doctor,Medical personal - Nurse,Medical personal - Technician
+4,Baghaichhari,1,1,31,2,6,5
+5,Rangamati,1,1,115,19,61,8
+6,Total,2,2,146,21,67,13

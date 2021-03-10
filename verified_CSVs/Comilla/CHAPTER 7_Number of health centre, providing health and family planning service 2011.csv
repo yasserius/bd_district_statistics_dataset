@@ -1,21 +1,22 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of health centre, providing health and family planning service 2011",,,,,,,
-1,,,,,,,,
-2, Upazila,Number of union health centre,Health service, Sterilization, M.R.,Injection/ copper-T,Oral pill/ condom,Number of immunization centre
-3,Adarsha Sadar,4,4201,441,48,414,4852,44
-4,Barura,15,5852,510,57,585,15892,163
-5,Brahmanpara,6,6692,642,65,674,6641,66
-6,Burichang,7,7521,814,1164,8343,7892,865
-7,Chandina,10,10854,1085,1014,1095,10142,110
-8,Chauddagram,14,14145,1492,1412,1474,14852,144
-9,Comilla Sadar Dakshin,8,8852,841,854,874,8412,82
-10,Daudkandi,12,12124,1252,1285,12142,1223,145
-11,Debidwar,11,11852,1142,1114,11852,11141,124
-12,Homna,7,7475,774,775,774,721,82
-13,Laksam,7,7451,874,732,745,752,173
-14,Monoharganj,3,3325,352,323,312,321,45
-15,Meghna,5,5851,541,521,574,589,57
-16,Muradnagar,15,15145,1585,1585,1561,1502,189
-17,Nangalkot,9,9892,921,921,985,914,95
-18,Titas,7,7451,784,722,721,730,89
-19,Total,140,138683,14050,12592,43125,86576,2473
+1,Comilla,,,,,,,
+2,,,,,,,,
+3, Upazila,Number of union health centre,Health service, Sterilization, M.R.,Injection/ copper-T,Oral pill/ condom,Number of immunization centre
+4,Adarsha Sadar,4,4201,441,48,414,4852,44
+5,Barura,15,5852,510,57,585,15892,163
+6,Brahmanpara,6,6692,642,65,674,6641,66
+7,Burichang,7,7521,814,1164,8343,7892,865
+8,Chandina,10,10854,1085,1014,1095,10142,110
+9,Chauddagram,14,14145,1492,1412,1474,14852,144
+10,Comilla Sadar Dakshin,8,8852,841,854,874,8412,82
+11,Daudkandi,12,12124,1252,1285,12142,1223,145
+12,Debidwar,11,11852,1142,1114,11852,11141,124
+13,Homna,7,7475,774,775,774,721,82
+14,Laksam,7,7451,874,732,745,752,173
+15,Monoharganj,3,3325,352,323,312,321,45
+16,Meghna,5,5851,541,521,574,589,57
+17,Muradnagar,15,15145,1585,1585,1561,1502,189
+18,Nangalkot,9,9892,921,921,985,914,95
+19,Titas,7,7451,784,722,721,730,89
+20,Total,140,138683,14050,12592,43125,86576,2473

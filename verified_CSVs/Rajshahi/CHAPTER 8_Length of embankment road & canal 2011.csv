@@ -1,15 +1,16 @@
 ,0,1,2,3
 0,Length of embankment road  canal 2011,,,
-1,(Kilometer),,,
-2,Upazila/city corporation,Embankment road,Canal,Others road
-3,Bagha,15,0,0
-4,Baghmara,19,0,0
-5,Charghat,19,9.8,0
-6,Durgapur,0,0,0
-7,Godagari,3,5,0
-8,Mohanpur,7,13,0
-9,Paba,10,8,0
-10,Puthia,8,16,0
-11,Rajshahi city corporation,13,0,0
-12,Tanore,4,87,0
-13,Total,98,138.8,0
+1,Rajshahi,,,
+2,(Kilometer),,,
+3,Upazila/city corporation,Embankment road,Canal,Others road
+4,Bagha,15,0,0
+5,Baghmara,19,0,0
+6,Charghat,19,9.8,0
+7,Durgapur,0,0,0
+8,Godagari,3,5,0
+9,Mohanpur,7,13,0
+10,Paba,10,8,0
+11,Puthia,8,16,0
+12,Rajshahi City Corporation,13,0,0
+13,Tanore,4,87,0
+14,Total,98,138.8,0

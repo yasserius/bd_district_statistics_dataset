@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of wheat, jute and sugarcane 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Wheat - Area,Wheat - Production,Jute - Area,Jute - Production,Sugarcane - Area,Sugarcane - Production
-3,Daulotpur,104,84,2360,1035,350,3160
-4,Gheor,100,123,1631,1083,72,1123
-5,Horirampur,660,280,110,62,38,108
-6,Manikganj Sadar,215,172,3401,2613,402,15
-7,Saturia,300,174,2230,1751,77,323
-8,Singair,1840,956,4811,3309,4065,24390
-9,Shibalaya,240,218,1210,7840,85,7225
-10,Total,3459,2007,15753,17693,5089,36344
+1,Manikganj,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Wheat - Area,Wheat - Production,Jute - Area,Jute - Production,Sugarcane - Area,Sugarcane - Production
+4,Daulotpur,104,84,2360,1035,350,3160
+5,Gheor,100,123,1631,1083,72,1123
+6,Horirampur,660,280,110,62,38,108
+7,Manikganj Sadar,215,172,3401,2613,402,15
+8,Saturia,300,174,2230,1751,77,323
+9,Singair,1840,956,4811,3309,4065,24390
+10,Shibalaya,240,218,1210,7840,85,7225
+11,Total,3459,2007,15753,17693,5089,36344

@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from nationalized bank 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2,  Upazila,Number of branch of all private commercial banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
-3,Aditmari,4,4687,1498,0,0,1094,225,2633,2201,60,3
-4,Hatibandha,6,23361,408,0,0,2575,242,25936,650,80.62,2.77
-5,Kaligonj,3,30000,10000,0,0,0,0,3000,100003,3,1
-6,Lalmonirhat,5,1307,2,9,1,712,15,2046,18,36,2
-7,Patgram,6,9498,840,22,3,2270,687,11790,1530,17.96,0.98
-8,Total,24,68853,12748,31,4,6651,1169,45405,104402,197.58,9.75
+1,Lalmonirhat,,,,,,,,,,,
+2,,,,,,,,,,,,
+3,  Upazila,Number of branch of all private commercial banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
+4,Aditmari,4,4687,1498,0,0,1094,225,2633,2201,60,3
+5,Hatibandha,6,23361,408,0,0,2575,242,25936,650,80.62,2.77
+6,Kaligonj,3,30000,10000,0,0,0,0,3000,100003,3,1
+7,Lalmonirhat,5,1307,2,9,1,712,15,2046,18,36,2
+8,Patgram,6,9498,840,22,3,2270,687,11790,1530,17.96,0.98
+9,Total,24,68853,12748,31,4,6651,1169,45405,104402,197.58,9.75

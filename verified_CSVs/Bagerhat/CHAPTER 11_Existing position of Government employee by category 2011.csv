@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,Existing position of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
-3,Bagerhat Sadar,152,77,1206,643,2078
-4,Kachua,31,33,433,68,565
-5,Rampal,34,38,586,78,736
-6,Sarankhola,18,12,310,68,408
-7,Chitalmari,19,23,194,102,338
-8,Morrelgonj,22,23,1035,108,1188
-9,Mongla,21,30,167,62,280
-10,Mollahat,22,22,676,133,853
-11,Fakirhat,24,15,247,115,401
-12,Total,343,273,4854,1377,6847
+1,Bagerhat,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
+4,Bagerhat Sadar,152,77,1206,643,2078
+5,Kachua,31,33,433,68,565
+6,Rampal,34,38,586,78,736
+7,Sharonkhola,18,12,310,68,408
+8,Chitolmari,19,23,194,102,338
+9,Morrelgonj,22,23,1035,108,1188
+10,Mongla,21,30,167,62,280
+11,Mollahat,22,22,676,133,853
+12,Fakirhat,24,15,247,115,401
+13,Total,343,273,4854,1377,6847

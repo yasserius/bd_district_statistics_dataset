@@ -1,18 +1,19 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,,,,
-2,Upazila,Number of insurance company,Number of employee,Number of client
-3,Biral,12,680,14700
-4,Birampur,4,73,7222
-5,Birganj,13,195,31812
-6,Bochaganj,8,1875,20600
-7,Chirirbandar,9,118,30960
-8,Dinajpur Sadar,22,319,15900
-9,Fulbari,11,19,3719
-10,Ghoraghat,5,71,5690
-11,Hakimpur,0,0,0
-12,Kaharole,7,28,2810
-13,Khansama,8,13,1919
-14,Nawabganj,3,16,450
-15,Parbatipur,7,715,15436
-16,Total,109,4122,151218
+1,Dinajpur,,,
+2,,,,
+3,Upazila,Number of insurance company,Number of employee,Number of client
+4,Biral,12,680,14700
+5,Birampur,4,73,7222
+6,Birganj,13,195,31812
+7,Bochaganj,8,1875,20600
+8,Chirirbandar,9,118,30960
+9,Dinajpur Sadar,22,319,15900
+10,Fulbari,11,19,3719
+11,Ghoraghat,5,71,5690
+12,Hakimpur,0,0,0
+13,Kaharole,7,28,2810
+14,Khansama,8,13,1919
+15,Nawabganj,3,16,450
+16,Parbatipur,7,715,15436
+17,Total,109,4122,151218

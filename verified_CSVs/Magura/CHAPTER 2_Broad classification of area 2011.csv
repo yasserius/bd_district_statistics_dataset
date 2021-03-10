@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Broad classification of area 2011,,,,
-1,(In sq. km.),,,,
-2,Upazila,Total area,Land area,Reserve forest,Riverine area
-3,Magura Sadar,401.58,395.74,0,5.77
-4,Mohammadpur,233.70,228.39,0,5.31
-5,Shalikha,228.65,127.08,0,1.67
-6,Sreepur,175.15,170.89,0,4.26
-7,Total,1039.08,1022.04,0,17.01
+1,Magura,,,,
+2,(In sq. km.),,,,
+3,Upazila,Total area,Land area,Reserve forest,Riverine area
+4,Magura Sadar,401.58,395.74,0,5.77
+5,Mohammadpur,233.70,228.39,0,5.31
+6,Shalikha,228.65,127.08,0,1.67
+7,Sreepur,175.15,170.89,0,4.26
+8,Total,1039.08,1022.04,0,17.01

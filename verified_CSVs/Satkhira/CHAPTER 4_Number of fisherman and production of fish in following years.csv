@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in metric ton),,,,
-2, Upazila,2010-11 Number,2010-11 Production,2009-10 Number,2009-10 Production
-3,Assasuni,2450,4145,2390,3421
-4,Debhata,1253,8978,965,9219
-5,Kalaroa,448,6968,448,3822
-6,Kaliganj,241,4800,241,5000
-7,Satkhira Sadar,445,6270,435,6195
-8,Shyamnagar,2930,6814,2920,6504
-9,Tala,1042,6058,1042,5937
-10,Total,8809,44033,8441,40098
+1,Satkhira,,,,
+2,(Production in metric ton),,,,
+3,Upazila,2010-11 Number,2010-11 Production,2009-10 Number,2009-10 Production
+4,Assasuni,2450,4145,2390,3421
+5,Debhata,1253,8978,965,9219
+6,Kalaroa,448,6968,448,3822
+7,Kaliganj,241,4800,241,5000
+8,Satkhira Sadar,445,6270,435,6195
+9,Shyamnagar,2930,6814,2920,6504
+10,Tala,1042,6058,1042,5937
+11,Total,8809,44033,8441,40098

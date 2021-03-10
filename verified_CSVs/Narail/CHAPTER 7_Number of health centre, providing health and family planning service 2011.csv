@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of health centre, providing health and family planning service 2011",,,,,,,
-1,,,,,,,,
-2, Upazila,Number of union health centre,Health service, Sterilization, M.R.,Injection/ copper-T,Oral pill/ condom,Number of immunization centre
-3,Kalia,13,13521,85,0,125,15,127
-4,Lohagara,12,12857,72,0,25,14,128
-5,Narail Sadar,13,14852,118,3,207,13,147
-6,Total,38,41230,275,0,357,42,402
+1,Narail,,,,,,,
+2,,,,,,,,
+3, Upazila,Number of union health centre,Health service, Sterilization, M.R.,Injection/ copper-T,Oral pill/ condom,Number of immunization centre
+4,Kalia,13,13521,85,0,125,15,127
+5,Lohagara,12,12857,72,0,25,14,128
+6,Narail Sadar,13,14852,118,3,207,13,147
+7,Total,38,41230,275,0,357,42,402

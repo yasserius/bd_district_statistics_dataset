@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of oil mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Bhedarganj,22,22,44,66
-4,Damudya,0,0,0,0
-5,Gosairhat,30,30,0,30
-6,Naria,4,24,15,39
-7,Shariatpur Sadar,10,20,30,50
-8,Zanjira,7,7,14,21
-9,Total,73,103,103,206
+1,Shariatpur,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Bhedarganj,22,22,44,66
+5,Damudya,0,0,0,0
+6,Gosairhat,30,30,0,30
+7,Naria,4,24,15,39
+8,Shariatpur Sadar,10,20,30,50
+9,Zanjira,7,7,14,21
+10,Total,73,103,103,206

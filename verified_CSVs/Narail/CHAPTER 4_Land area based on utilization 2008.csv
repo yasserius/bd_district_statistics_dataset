@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization 2008,,,,,
-1,,,,,,
-2,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
-3,Kalia,52177,3719,41813,70,6645
-4,Lohagara,52499,4222,40171,112,8106
-5,Narail Sadar,72344,6404,55213,223,10727
-6,Total,177020,14345,137197,405,25478
+1,Narail,,,,,
+2,,,,,,
+3,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
+4,Kalia,52177,3719,41813,70,6645
+5,Lohagara,52499,4222,40171,112,8106
+6,Narail Sadar,72344,6404,55213,223,10727
+7,Total,177020,14345,137197,405,25478

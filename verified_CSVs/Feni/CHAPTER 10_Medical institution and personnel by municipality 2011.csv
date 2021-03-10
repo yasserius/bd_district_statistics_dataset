@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Medical institution and personnel by municipality 2011,,,,,,
-1,,,,,,,
-2, Municipality,Government institution,Private institution,Medical personal - Bed,Medical personal - Doctor,Medical personal - Nurse,Medical personal - Technician
-3,Chhagalnaiya,1,3,30,4,17,8
-4,Daganbhuiyan,0,0,0,0,0,0
-5,Feni Sadar,1,29,358,61,100,35
-6,Parshuram,3,1,50,14,11,5
-7,Sonagazi,1,1,31,7,5,1
-8,Total,6,34,469,86,133,49
+1,Feni,,,,,,
+2,,,,,,,
+3, Municipality,Government institution,Private institution,Medical personal - Bed,Medical personal - Doctor,Medical personal - Nurse,Medical personal - Technician
+4,Chhagalnaiya,1,3,30,4,17,8
+5,Daganbhuiyan,0,0,0,0,0,0
+6,Feni Sadar,1,29,358,61,100,35
+7,Parshuram,3,1,50,14,11,5
+8,Sonagazi,1,1,31,7,5,1
+9,Total,6,34,469,86,133,49

@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building material 2011,,,,,,
-1,(Price in taka),,,,,,
-2,Upazila,Brick-01 (per1000),Cement (per 50 kg bag),Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
-3,Baliadangi,6000,470,62000,50,60,90
-4,Haripur,5200,380,50000,19,5,71
-5,Pirgonj,7000,350,63000,4,3,0
-6,Ranisankail,6000,450,64000,5,5,75
-7,Thakurgaon Sadar,5500,390,51562,7,6,65
-8,Average,5940,408,58112,17,16,75
+1,Thakurgaon,,,,,,
+2,(Price in taka),,,,,,
+3,Upazila,Brick-01 (per1000),Cement (per 50 kg bag),Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
+4,Baliadangi,6000,470,62000,50,60,90
+5,Haripur,5200,380,50000,19,5,71
+6,Pirgonj,7000,350,63000,4,3,0
+7,Ranisankail,6000,450,64000,5,5,75
+8,Thakurgaon Sadar,5500,390,51562,7,6,65
+9,Average,5940,408,58112,17,16,75

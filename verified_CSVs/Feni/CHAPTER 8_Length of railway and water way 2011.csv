@@ -1,11 +1,12 @@
 ,0,1,2,3
 0,Length of railway and water way 2011,,,
-1,(Kilometer),,,
-2, Upazila,"Total railway (all broad gage, meter gage  duel gage)",Water way in monsoon (river + canal),Water way in round the year (river + canal)
-3,Chhagalnaiya,6,0,0
-4,Daganbhuiyan,0,0,0
-5,Feni Sadar,26,80,52
-6,Fulgazi,14,75,50
-7,Parshuram,0,0,0
-8,Sonagazi,0,0,0
-9,Total,46,155,102
+1,Feni,,,
+2,(Kilometer),,,
+3, Upazila,"Total railway (all broad gage, meter gage  duel gage)",Water way in monsoon (river + canal),Water way in round the year (river + canal)
+4,Chhagalnaiya,6,0,0
+5,Daganbhuiyan,0,0,0
+6,Feni Sadar,26,80,52
+7,Fulgazi,14,75,50
+8,Parshuram,0,0,0
+9,Sonagazi,0,0,0
+10,Total,46,155,102

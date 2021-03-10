@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of ebtedayee madrasha 2011,,,,,,,,
-1,,,,,,,,,
-2,Thana/Upazila Name,Number of madrashas,Number of teachers - Male,Number of teachers - Female,Number of teachers - Total,Number of students - Male,Number of students - Female,Number of students - Total,Students per teacher
-3,Badarganj,6,20,4,24,500,400,900,38
-4,Gangachara,4,10,6,16,220,260,480,30
-5,Kaunia,14,14,0,14,342,238,580,41
-6,Mitha pukur,56,220,55,275,2823,1882,4705,17
-7,Pirgachha,56,280,0,280,4911,3489,8400,30
-8,Pirganj,45,150,20,170,940,510,1450,9
-9,Rangpur sadar,41,123,0,123,1640,1230,2870,23
-10,Taraganj,1,4,0,4,90,80,170,42
-11,Total,223,821,85,906,11466,8089,19555,22
+1,Rangpur,,,,,,,,
+2,,,,,,,,,
+3,Thana/Upazila Name,Number of madrashas,Number of teachers - Male,Number of teachers - Female,Number of teachers - Total,Number of students - Male,Number of students - Female,Number of students - Total,Students per teacher
+4,Badarganj,6,20,4,24,500,400,900,38
+5,Gangachara,4,10,6,16,220,260,480,30
+6,Kaunia,14,14,0,14,342,238,580,41
+7,Mithapukur,56,220,55,275,2823,1882,4705,17
+8,Pirgachha,56,280,0,280,4911,3489,8400,30
+9,Pirganj,45,150,20,170,940,510,1450,9
+10,Rangpur Sadar,41,123,0,123,1640,1230,2870,23
+11,Taraganj,1,4,0,4,90,80,170,42
+12,Total,223,821,85,906,11466,8089,19555,22

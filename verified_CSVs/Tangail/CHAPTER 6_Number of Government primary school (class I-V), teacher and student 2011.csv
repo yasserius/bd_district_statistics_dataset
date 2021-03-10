@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Government primary school (class I-V), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila,Number of Government primary school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Basail,49,23,92,295,8833,8960,17793,60
-4,Bhuapur,62,97,252,349,7722,7769,15491,44
-5,Delduar,57,150,193,343,7975,8136,16111,47
-6,Dhanbari,45,80,156,236,5440,5542,10982,46
-7,Ghatail,103,258,372,630,1491,16210,30601,47
-8,Gopalpur,74,176,230,406,8025,7993,16018,39
-9,Kalihati,105,241,380,621,14601,14986,29587,48
-10,Madhupur,54,122,198,320,7529,7972,15501,48
-11,Mirzapur,113,384,331,715,15975,16208,32184,45
-12,Nagarpur,90,188,305,493,11552,14020,25472,52
-13,Sakhipur,69,155,223,378,8824,8602,17426,46
-14,Tangail Sadar,116,176,502,678,23662,23888,47550,70
-15,Total,937,2050,3234,5464,121629,140286,274716,50
+1,Tangail,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of Government primary school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Basail,49,23,92,295,8833,8960,17793,60
+5,Bhuapur,62,97,252,349,7722,7769,15491,44
+6,Delduar,57,150,193,343,7975,8136,16111,47
+7,Dhanbari,45,80,156,236,5440,5542,10982,46
+8,Ghatail,103,258,372,630,1491,16210,30601,47
+9,Gopalpur,74,176,230,406,8025,7993,16018,39
+10,Kalihati,105,241,380,621,14601,14986,29587,48
+11,Madhupur,54,122,198,320,7529,7972,15501,48
+12,Mirzapur,113,384,331,715,15975,16208,32184,45
+13,Nagarpur,90,188,305,493,11552,14020,25472,52
+14,Sakhipur,69,155,223,378,8824,8602,17426,46
+15,Tangail Sadar,116,176,502,678,23662,23888,47550,70
+16,Total,937,2050,3234,5464,121629,140286,274716,50

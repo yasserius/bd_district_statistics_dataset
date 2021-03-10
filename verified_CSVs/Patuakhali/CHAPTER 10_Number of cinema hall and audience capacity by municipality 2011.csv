@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Number of cinema hall and audience capacity by municipality 2011,,,,
-1,,,,,
-2,Upazila,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
-3,Bauphal,2,350,2,200
-4,Galachipa,1,68,2,100
-5,Kalapara,2,373,3,183
-6,Patuakhali Sadar,3,1170,3,960
-7,Total,8,1961,10,1443
+1,Patuakhali,,,,
+2,,,,,
+3,Upazila,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
+4,Bauphal,2,350,2,200
+5,Galachipa,1,68,2,100
+6,Kalapara,2,373,3,183
+7,Patuakhali Sadar,3,1170,3,960
+8,Total,8,1961,10,1443

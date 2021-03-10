@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Number of handloom establishment and loom 2011,,,,
-1,,,,,
-2, Upazila,Number of units (factory),Number of loom - Operational,Number of loom - Non-operational,Number of loom - Total
-3,Alamdanga,1500,1200,300,1500
-4,Chuadanga Sadar,4,0,4,4
-5,Damurhuda,0,0,0,0
-6,Jibonnagar,0,0,0,0
-7,Total,1504,1200,304,1504
+1,Chuadanga,,,,
+2,,,,,
+3,Upazila,Number of units (factory),Number of loom - Operational,Number of loom - Non-operational,Number of loom - Total
+4,Alamdanga,1500,1200,300,1500
+5,Chuadanga Sadar,4,0,4,4
+6,Damurhuda,0,0,0,0
+7,Jibonnagar,0,0,0,0
+8,Total,1504,1200,304,1504

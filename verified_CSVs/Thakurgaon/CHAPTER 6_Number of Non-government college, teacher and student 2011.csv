@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Non-government college, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila,Number of college,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Baliadangi,3,93,22,115,1909,1040,2949,26
-4,Haripur,7,142,16,158,421,358,775,5
-5,Pirgonj,9,219,43,262,1144,1058,2202,8
-6,Ranisankail,8,175,18,193,992,951,1943,10
-7,Thakurgaon Sadar,12,242,63,305,2512,1863,4375,14
-8,Total,39,871,162,1033,6978,5270,12244,12
+1,Thakurgaon,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of college,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Baliadangi,3,93,22,115,1909,1040,2949,26
+5,Haripur,7,142,16,158,421,358,775,5
+6,Pirgonj,9,219,43,262,1144,1058,2202,8
+7,Ranisankail,8,175,18,193,992,951,1943,10
+8,Thakurgaon Sadar,12,242,63,305,2512,1863,4375,14
+9,Total,39,871,162,1033,6978,5270,12244,12

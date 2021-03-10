@@ -1,17 +1,18 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,,,,
-2,Upazila,Number,Number of employee,Number of client
-3,Basail,320,34,16434
-4,Bhuapur,272,164,13307
-5,Delduar,210,10,9080
-6,Dhanbari,89,29,13248
-7,Ghatail,457,26,26509
-8,Gopalpur,54,7,9717
-9,Kalihati,168,70,13311
-10,Madhupur,180,12,6340
-11,Mirzapur,514,132,37252
-12,Nagarpur,104,7,3148
-13,Sakhipur,129,60,1210
-14,Tangail Sadar,206,100,11157
-15,Total,2703,651,160713
+1,Tangail,,,
+2,,,,
+3,Upazila,Number,Number of employee,Number of client
+4,Basail,320,34,16434
+5,Bhuapur,272,164,13307
+6,Delduar,210,10,9080
+7,Dhanbari,89,29,13248
+8,Ghatail,457,26,26509
+9,Gopalpur,54,7,9717
+10,Kalihati,168,70,13311
+11,Madhupur,180,12,6340
+12,Mirzapur,514,132,37252
+13,Nagarpur,104,7,3148
+14,Sakhipur,129,60,1210
+15,Tangail Sadar,206,100,11157
+16,Total,2703,651,160713

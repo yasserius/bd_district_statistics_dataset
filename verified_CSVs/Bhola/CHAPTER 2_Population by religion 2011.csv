@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Population by religion 2011,,,,,,
-1,,,,,,,
-2,Upazila,Muslim,Hindu,Buddhist,Christian,Others,Total
-3,Bhola Sadar,416514,13967,4,33,2,430520
-4,Burhanuddin,222895,10947,0,18,0,233860
-5,Char Fasson,447298,9125,0,7,7,456437
-6,Daulatkhan,164735,3803,10,0,19,168567
-7,Lalmohan,273136,10726,20,6,1,283889
-8,Manpura,71985,4594,0,3,0,76582
-9,Tazumuddin,118934,8333,1,4,1,126940
-10,Total,1715497,61162,35,71,30,1776795
+1,Bhola,,,,,,
+2,,,,,,,
+3,Upazila,Muslim,Hindu,Buddhist,Christian,Others,Total
+4,Bhola Sadar,416514,13967,4,33,2,430520
+5,Burhanuddin,222895,10947,0,18,0,233860
+6,Char Fasson,447298,9125,0,7,7,456437
+7,Daulatkhan,164735,3803,10,0,19,168567
+8,Lalmohan,273136,10726,20,6,1,283889
+9,Manpura,71985,4594,0,3,0,76582
+10,Tazumuddin,118934,8333,1,4,1,126940
+11,Total,1715497,61162,35,71,30,1776795

@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Number of flour mill and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Alfadanga,20,20,40,60
-4,Bhanga,70,70,140,210
-5,Boalmari,34,34,34,68
-6,Charbhadrashon,5,10,10,20
-7,Faridpur Sadar,118,137,81,218
-8,Madhukhali,22,30,34,64
-9,Nagarkanda,20,20,60,80
-10,Sadarpur,65,65,20,85
-11,Saltha,10,10,20,30
-12,Total,364,396,439,835
+1,Faridpur,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Alfadanga,20,20,40,60
+5,Bhanga,70,70,140,210
+6,Boalmari,34,34,34,68
+7,Charbhadrashon,5,10,10,20
+8,Faridpur Sadar,118,137,81,218
+9,Madhukhali,22,30,34,64
+10,Nagarkanda,20,20,60,80
+11,Sadarpur,65,65,20,85
+12,Saltha,10,10,20,30
+13,Total,364,396,439,835

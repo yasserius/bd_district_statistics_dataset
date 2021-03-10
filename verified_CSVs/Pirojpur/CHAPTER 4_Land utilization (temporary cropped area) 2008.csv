@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,,,,,,,,
-2,Upazila,Current fallow,Temporary Cropped area - Single,Temporary Cropped area - Double,Temporary Cropped area - Triple,Temporary Cropped area - Net,Temporary Cropped area - Gross,Productivity of crop
-3,Bhandaria,209,7627,7985,687,16299,25658,157
-4,Kawkhali,13,4702,2261,458,7421,10598,143
-5,Mathbaria,275,23050,16022,1656,40728,60062,147
-6,Nazirpur,126,21515,9849,1370,32734,45323,138
-7,Nesarabad,107,12805,946,422,14173,15963,113
-8,Pirojpur Sadar,38,9294,5654,1395,16343,24787,152
-9,Zianagar,56,5710,2315,921,8946,13103,146
-10,Total,825,84703,45032,6909,136644,195494,143
+1,Pirojpur,,,,,,,
+2,,,,,,,,
+3,Upazila,Current fallow,Temporary Cropped area - Single,Temporary Cropped area - Double,Temporary Cropped area - Triple,Temporary Cropped area - Net,Temporary Cropped area - Gross,Productivity of crop
+4,Bhandaria,209,7627,7985,687,16299,25658,157
+5,Kawkhali,13,4702,2261,458,7421,10598,143
+6,Mathbaria,275,23050,16022,1656,40728,60062,147
+7,Nazirpur,126,21515,9849,1370,32734,45323,138
+8,Nesarabad,107,12805,946,422,14173,15963,113
+9,Pirojpur Sadar,38,9294,5654,1395,16343,24787,152
+10,Zianagar,56,5710,2315,921,8946,13103,146
+11,Total,825,84703,45032,6909,136644,195494,143

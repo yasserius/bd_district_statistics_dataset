@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,Number of rice mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged Male,Person engaged Female,Person engaged Total
-3,Atpara,49,49,0,49
-4,Barhatta,64,64,128,192
-5,Durgapur,150,150,150,300
-6,Kalmakanda,0,0,0,0
-7,Kendua,20,60,20,80
-8,Khaliajuri,0,0,0,0
-9,Madan,7,20,26,46
-10,Mohanganj,5,10,5,15
-11,Netrokona Sadar,35,160,90,250
-12,Purbadhala,20,76,76,152
-13,Total,350,589,495,1084
+1,Netrokona,,,,
+2,,,,,
+3,Upazila, Unit,Person engaged Male,Person engaged Female,Person engaged Total
+4,Atpara,49,49,0,49
+5,Barhatta,64,64,128,192
+6,Durgapur,150,150,150,300
+7,Kalmakanda,0,0,0,0
+8,Kendua,20,60,20,80
+9,Khaliajuri,0,0,0,0
+10,Madan,7,20,26,46
+11,Mohanganj,5,10,5,15
+12,Netrokona Sadar,35,160,90,250
+13,Purbadhala,20,76,76,152
+14,Total,350,589,495,1084

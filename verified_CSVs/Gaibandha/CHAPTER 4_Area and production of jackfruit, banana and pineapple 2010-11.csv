@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of jackfruit, banana and pineapple 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Jackfruits Area,Jackfruits Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
-3,Fulchhari,12,357,28,196,0,0
-4,Gaibandha sadar,36,346,270,1728,2,2
-5,Gobindaganj,0,0,1635,24852,0,0
-6,Palashbari,400,318,1055,32178,0,0
-7,Sadullapur,32,103,44,308,0,0
-8,Saghata,9,187,26,3008,0,0
-9,Sundarganj,0,6930,65,624,0,0
-10,Total,490,8241,3123,62894,2,2
+1,Gaibandha,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Jackfruits Area,Jackfruits Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
+4,Fulchhari,12,357,28,196,0,0
+5,Gaibandha Sadar,36,346,270,1728,2,2
+6,Gobindaganj,0,0,1635,24852,0,0
+7,Palashbari,400,318,1055,32178,0,0
+8,Sadullapur,32,103,44,308,0,0
+9,Saghata,9,187,26,3008,0,0
+10,Sundarganj,0,6930,65,624,0,0
+11,Total,490,8241,3123,62894,2,2

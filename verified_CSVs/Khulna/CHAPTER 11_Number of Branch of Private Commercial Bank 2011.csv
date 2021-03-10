@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,Number of Branch of Private Commercial Bank 2011,,,,
-1,,,,,
-2,Upazila/city corporation,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Batiaghata,0,0,0,0
-4,Dacope,0,0,0,0
-5,Dighalia,2,17,5860,0
-6,Dumuria,2,20,2121,614
-7,Khulna City Corporation,23,446,135266,17670
-8,Koyra,0,0,0,0
-9,Paikgachha,8,92,28080,2100
-10,Phultala,3,37,2605,378
-11,Rupsa,0,0,0,0
-12,Terokhada,0,0,0,0
-13,Total,38,612,173932,20762
+1,Khulna,,,,
+2,,,,,
+3,Upazila/city corporation,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Batiaghata,0,0,0,0
+5,Dacope,0,0,0,0
+6,Dighalia,2,17,5860,0
+7,Dumuria,2,20,2121,614
+8,Khulna City Corporation,23,446,135266,17670
+9,Koyra,0,0,0,0
+10,Paikgachha,8,92,28080,2100
+11,Phultala,3,37,2605,378
+12,Rupsa,0,0,0,0
+13,Terokhada,0,0,0,0
+14,Total,38,612,173932,20762

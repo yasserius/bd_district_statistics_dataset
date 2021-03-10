@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Jhenaigati,31,6,11,3,111
-4,Nakla,50,14,10,7,109
-5,Nalitabari,31,13,6,6,105
-6,Sherpur Sadar,100,21,33,7,112
-7,Sreebardi,31,12,8,2,109
-8,Total,243,66,68,25,546
+1,Sherpur,,,,,
+2,,,,,,
+3,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Jhenaigati,31,6,11,3,111
+5,Nakla,50,14,10,7,109
+6,Nalitabari,31,13,6,6,105
+7,Sherpur Sadar,100,21,33,7,112
+8,Sreebardi,31,12,8,2,109
+9,Total,243,66,68,25,546

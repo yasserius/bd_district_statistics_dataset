@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting selected livestock species 2008,,,,,,
-1,,,,,,,
-2,Upazila,Cow  Buffalo Holding number,Cow  Buffalo Number of animal,Goat Holding number,Goat Number of goat,Sheep Holding number,Sheep Number of sheep
-3,Baliadangi,21211,63633,1214,4860,207,627
-4,Haripur,799,79312,1505,75638,19,227
-5,Pirgonj,13430,92416,24589,80096,4,40
-6,Ranisankail,32300,194000,39100,245000,130,1707
-7,Thakurgaon Sadar,45181,130503,28312,67912,3015,7916
-8,Total,112921,559864,94720,473506,3375,10517
+1,Thakurgaon,,,,,,
+2,,,,,,,
+3,Upazila,Cow  Buffalo Holding number,Cow  Buffalo Number of animal,Goat Holding number,Goat Number of goat,Sheep Holding number,Sheep Number of sheep
+4,Baliadangi,21211,63633,1214,4860,207,627
+5,Haripur,799,79312,1505,75638,19,227
+6,Pirgonj,13430,92416,24589,80096,4,40
+7,Ranisankail,32300,194000,39100,245000,130,1707
+8,Thakurgaon Sadar,45181,130503,28312,67912,3015,7916
+9,Total,112921,559864,94720,473506,3375,10517

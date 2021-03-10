@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current account
-3,Atwari,4,39,18816,1767
-4,Boda,2,21,6601,777
-5,Debiganj,3,33,40241,2140
-6,Panchagarh Sadar,9,87,50346,2287
-7,Tentulia,3,26,14197,1791
-8,Total,21,206,130201,8762
+1,Panchagor,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current account
+4,Atwari,4,39,18816,1767
+5,Boda,2,21,6601,777
+6,Debiganj,3,33,40241,2140
+7,Panchagarh Sadar,9,87,50346,2287
+8,Tentulia,3,26,14197,1791
+9,Total,21,206,130201,8762

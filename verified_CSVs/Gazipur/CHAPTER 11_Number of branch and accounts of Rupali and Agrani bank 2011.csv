@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Rupali and Agrani bank 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Rupali bank - Number of branch,Rupali bank - Account - S.D,Rupali bank - Account - C.D,Rupali bank - Account - F.D,Rupali bank - Account - S.T.D,Agrani bank - Number of branch,Agrani bank - Account - S.D,Agrani bank - Account - C.D,Agrani bank - Account - F.D,Agrani bank - Account - S.T.D
-3,Gazipur Sadar,2,12752,1006,200,50,4,50666,3826,435,71
-4,Kaliakair,0,0,0,0,0,0,0,0,0,0
-5,Kaliganj,0,0,0,0,0,2,9260,150,130,20
-6,Kapashia,0,0,0,0,0,3,30000,1500,514,25
-7,Sreepur,0,0,0,0,0,6,4272,208,125,12
-8,Total,2,12752,1006,200,50,15,94198,5684,1204,128
+1,Gazipur,,,,,,,,,,
+2,,,,,,,,,,,
+3, Upazila,Rupali bank - Number of branch,Rupali bank - Account - S.D,Rupali bank - Account - C.D,Rupali bank - Account - F.D,Rupali bank - Account - S.T.D,Agrani bank - Number of branch,Agrani bank - Account - S.D,Agrani bank - Account - C.D,Agrani bank - Account - F.D,Agrani bank - Account - S.T.D
+4,Gazipur Sadar,2,12752,1006,200,50,4,50666,3826,435,71
+5,Kaliakair,0,0,0,0,0,0,0,0,0,0
+6,Kaliganj,0,0,0,0,0,2,9260,150,130,20
+7,Kapashia,0,0,0,0,0,3,30000,1500,514,25
+8,Sreepur,0,0,0,0,0,6,4272,208,125,12
+9,Total,2,12752,1006,200,50,15,94198,5684,1204,128

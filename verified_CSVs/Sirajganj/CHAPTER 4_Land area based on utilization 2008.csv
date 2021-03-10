@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization 2008,,,,,
-1,,,,,,
-2,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
-3,Belkuchi,35168,870,25159,825,573
-4,Chauhali,38672,488,22512,7046,11498
-5,Kamarkhanda,20158,686,16209,65,18
-6,Kazipur,63171,390,51091,1950,2029
-7,Royganj,62301,1072,53159,68,253
-8,Shahjadpur,73377,259,57474,3587,22068
-9,Sirajganj Sadar,60679,1720,43668,2853,3300
-10,Tarash,68098,303,60927,11,9743
-11,Ullahpara,99704,1347,85369,485,25322
-12,Total,521327,7134,415569,16890,74804
+1,Sirajganj,,,,,
+2,,,,,,
+3,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
+4,Belkuchi,35168,870,25159,825,573
+5,Chauhali,38672,488,22512,7046,11498
+6,Kamarkhanda,20158,686,16209,65,18
+7,Kazipur,63171,390,51091,1950,2029
+8,Royganj,62301,1072,53159,68,253
+9,Shahjadpur,73377,259,57474,3587,22068
+10,Sirajganj Sadar,60679,1720,43668,2853,3300
+11,Tarash,68098,303,60927,11,9743
+12,Ullahpara,99704,1347,85369,485,25322
+13,Total,521327,7134,415569,16890,74804

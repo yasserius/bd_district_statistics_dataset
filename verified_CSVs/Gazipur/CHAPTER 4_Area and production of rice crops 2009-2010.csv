@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2009-2010,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
-3,Gazipur Sadar,5285,5366,26070,28101,32767,52466
-4,Kaliakair,140,77,13522,10683,26735,42216
-5,Kaliganj,35,32,8015,7829,26552,43193
-6,Kapashia,125,187,26087,36521,29298,54826
-7,Sreepur,302,301,33378,37858,30160,61901
-8,Total,5887,5963,107072,120992,145512,254602
+1,Gazipur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
+4,Gazipur Sadar,5285,5366,26070,28101,32767,52466
+5,Kaliakair,140,77,13522,10683,26735,42216
+6,Kaliganj,35,32,8015,7829,26552,43193
+7,Kapashia,125,187,26087,36521,29298,54826
+8,Sreepur,302,301,33378,37858,30160,61901
+9,Total,5887,5963,107072,120992,145512,254602

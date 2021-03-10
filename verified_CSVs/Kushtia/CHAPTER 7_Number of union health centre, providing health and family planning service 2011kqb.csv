@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7
 0,"7.06 Number of union health centre, providing health and family planning service 2011",,,,,,,
-1,,,,,,,,
-2, Upazila,Number of union health centre, Health services, Sterilization, M.R., Injection/ copper-T, Oral pill/ condoms,Number of Immunization centre
-3,Kushtia Sadar,9,336,1,1,39,39,0
-4,Bheramara,6,9,2,8,8,27,0
-5,Daulatpur,12,2,20806,120,16178,30250,0
-6,Khoksa,3,73,1,4,4,22,0
-7,Kumarkhali,9,11,2866,113,12711,20154,0
-8,Mirpur,10,10,1,1,37,37,0
-9,Total,49,441,23677,247,28977,50529,0
+1,Kushtia,,,,,,,
+2,,,,,,,,
+3,Upazila,Number of union health centre, Health services, Sterilization, M.R., Injection/ copper-T, Oral pill/ condoms,Number of Immunization centre
+4,Kushtia Sadar,9,336,1,1,39,39,0
+5,Bheramara,6,9,2,8,8,27,0
+6,Daulatpur,12,2,20806,120,16178,30250,0
+7,Khoksa,3,73,1,4,4,22,0
+8,Kumarkhali,9,11,2866,113,12711,20154,0
+9,Mirpur,10,10,1,1,37,37,0
+10,Total,49,441,23677,247,28977,50529,0

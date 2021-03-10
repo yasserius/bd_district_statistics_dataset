@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic by type 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Pepper - Area,Pepper - Production,Onion - Area,Onion - Production,Garlic - Area,Garlic - Production
-3,Badarganj,212,80,272,666,289,652
-4,Gangachara,128,96,635,953,90,117
-5,Kaunia,100,46,234,304,143,181
-6,Mithapukur,86,34,550,2200,195,351
-7,Pirgachha,78,40,245,613,126,252
-8,Pirganj,1280,2570,1700,5200,410,1050
-9,Rangpur sadar,558,271,456,1774,150,210
-10,Taraganj,65,29,140,203,125,120
-11,Total,2507,3166,4232,11913,1528,2933
+1,Rangpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Pepper - Area,Pepper - Production,Onion - Area,Onion - Production,Garlic - Area,Garlic - Production
+4,Badarganj,212,80,272,666,289,652
+5,Gangachara,128,96,635,953,90,117
+6,Kaunia,100,46,234,304,143,181
+7,Mithapukur,86,34,550,2200,195,351
+8,Pirgachha,78,40,245,613,126,252
+9,Pirganj,1280,2570,1700,5200,410,1050
+10,Rangpur Sadar,558,271,456,1774,150,210
+11,Taraganj,65,29,140,203,125,120
+12,Total,2507,3166,4232,11913,1528,2933

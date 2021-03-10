@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of oil mill and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Atwari,2,4,4,8
-4,Boda,3,6,6,12
-5,Debiganj,0,0,0,0
-6,Panchagarh Sadar,2,2,6,8
-7,Tentulia,0,0,0,0
-8,Total,7,12,16,28
+1,Panchagor,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Atwari,2,4,4,8
+5,Boda,3,6,6,12
+6,Debiganj,0,0,0,0
+7,Panchagarh Sadar,2,2,6,8
+8,Tentulia,0,0,0,0
+9,Total,7,12,16,28

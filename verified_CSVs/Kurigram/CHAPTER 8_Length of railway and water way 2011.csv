@@ -1,14 +1,15 @@
 ,0,1,2,3
 0,Length of railway and water way 2011,,,
-1,(Kilometer),,,
-2, Upazila,"Total railway (all broad gage, meter gage  duel gage)",Water way in monsoon (river + canal),Water way round the year (river + canal)
-3,Bhurungamari,0,35,15
-4,Char Rajibpur,0,42,35
-5,Chilmari,3.5,15,17
-6,Kurigram Sadar,12,50,35
-7,Nageshwari,0,50,25
-8,Phulbari,0,3,2
-9,Rajarhat,11,5,0
-10,Raumari,0,35,15
-11,Ulipur,16,42,52
-12,Total,42.5,277,196
+1,Kurigram,,,
+2,(Kilometer),,,
+3, Upazila,"Total railway (all broad gage, meter gage  duel gage)",Water way in monsoon (river + canal),Water way round the year (river + canal)
+4,Bhurungamari,0,35,15
+5,Char Rajibpur,0,42,35
+6,Chilmari,3.5,15,17
+7,Kurigram Sadar,12,50,35
+8,Nageshwari,0,50,25
+9,Phulbari,0,3,2
+10,Rajarhat,11,5,0
+11,Raumari,0,35,15
+12,Ulipur,16,42,52
+13,Total,42.5,277,196

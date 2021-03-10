@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5
 0,Number of wooden furniture and person engaged 2011,,,,,
-1,,,,,,
-2,Upazila,Number of unit,Investment ( in lac taka),Person engaged Family,Person engaged Hired,Person engaged Total
-3,Bishwamvarpur,50,50,50,220,270
-4,Chhatak,35,60,35,80,115
-5,Dakshin Sunamganj,10,20,14,50,64
-6,Derai,63,30,70,50,120
-7,Dharmapasha,62,45,88,184,272
-8,Doarabazar,14,14,17,27,44
-9,Jagannathpur,15,17,15,30,45
-10,Jamalganj,15,20,15,60,75
-11,Shalla,10,10,20,10,30
-12,Sunamganj Sadar,90,95,250,70,320
-13,Tahirpur,50,70,80,225,305
-14,Total,652,392,654,1339,1993
+1,Sunamganj,,,,,
+2,,,,,,
+3,Upazila,Number of unit,Investment ( in lac taka),Person engaged Family,Person engaged Hired,Person engaged Total
+4,Bishwamvarpur,50,50,50,220,270
+5,Chhatak,35,60,35,80,115
+6,Dakshin Sunamganj,10,20,14,50,64
+7,Derai,63,30,70,50,120
+8,Dharmapasha,62,45,88,184,272
+9,Doarabazar,14,14,17,27,44
+10,Jagannathpur,15,17,15,30,45
+11,Jamalganj,15,20,15,60,75
+12,Shalla,10,10,20,10,30
+13,Sunamganj Sadar,90,95,250,70,320
+14,Tahirpur,50,70,80,225,305
+15,Total,652,392,654,1339,1993

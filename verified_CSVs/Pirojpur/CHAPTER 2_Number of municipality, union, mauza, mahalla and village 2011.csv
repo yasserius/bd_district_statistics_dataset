@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Number of municipality, union, mauza, mahalla and village 2011",,,,,,
-1,,,,,,,
-2,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
-3,Bhandaria,0,0,0,7,37,45
-4,Kawkhali,0,0,0,5,45,59
-5,Mathbaria,1,9,16,11,67,93
-6,Nazirpur,0,0,0,8,68,171
-7,Nesarabad,1,9,9,10,80,134
-8,Pirojpur Sadar,1,9,30,7,64,98
-9,Zianagar,0,0,0,3,29,48
-10,Total,3,27,55,51,390,648
+1,Pirojpur,,,,,,
+2,,,,,,,
+3,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
+4,Bhandaria,0,0,0,7,37,45
+5,Kawkhali,0,0,0,5,45,59
+6,Mathbaria,1,9,16,11,67,93
+7,Nazirpur,0,0,0,8,68,171
+8,Nesarabad,1,9,9,10,80,134
+9,Pirojpur Sadar,1,9,30,7,64,98
+10,Zianagar,0,0,0,3,29,48
+11,Total,3,27,55,51,390,648

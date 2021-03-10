@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,,,,,,
-2,Upazila,Police personnel,Ansar personnel,VDP personnel,Autonomous bodies,Local Government employee
-3,Baliadangi,26,388,6400,18,8
-4,Haripur,32,439,4672,32,66
-5,Pirgonj,31,700,10944,142,132
-6,Ranisankail,31,403,15872,13,8
-7,Thakurgaon Sadar,119,620,11530,3157,320
-8,Total,239,2550,49418,3362,534
+1,Thakurgaon,,,,,
+2,,,,,,
+3,Upazila,Police personnel,Ansar personnel,VDP personnel,Autonomous bodies,Local Government employee
+4,Baliadangi,26,388,6400,18,8
+5,Haripur,32,439,4672,32,66
+6,Pirgonj,31,700,10944,142,132
+7,Ranisankail,31,403,15872,13,8
+8,Thakurgaon Sadar,119,620,11530,3157,320
+9,Total,239,2550,49418,3362,534

@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6
 0,Number of missionary hospital and charitable dispensary 2011,,,,,,
-1,,,,,,,
-2,Upazila/city corporation,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other stuff
-3,Agailjhara,0,0,0,0,0,0
-4,Babuganj,0,0,0,0,0,0
-5,Bakerganj,0,0,0,0,0,0
-6,Banaripara,1,3,0,1,0,0
-7,Barisal city corporation,4,20,8,12,4,13
-8,Barisal sadar,0,0,0,0,0,0
-9,Gaurnadi,0,0,0,0,0,0
-10,Hizla,0,0,0,0,0,0
-11,Mehendiganj,4,0,4,0,8,4
-12,Muladi,0,0,0,0,0,0
-13,Wazirpur,0,0,0,0,0,0
-14,Total,9,23,12,13,12,17
+1,Barisal,,,,,,
+2,,,,,,,
+3,Upazila/city corporation,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other stuff
+4,Agailjhara,0,0,0,0,0,0
+5,Babuganj,0,0,0,0,0,0
+6,Bakerganj,0,0,0,0,0,0
+7,Banaripara,1,3,0,1,0,0
+8,Barisal city corporation,4,20,8,12,4,13
+9,Barisal Sadar,0,0,0,0,0,0
+10,Gaurnadi,0,0,0,0,0,0
+11,Hizla,0,0,0,0,0,0
+12,Mehendiganj,4,0,4,0,8,4
+13,Muladi,0,0,0,0,0,0
+14,Wazirpur,0,0,0,0,0,0
+15,Total,9,23,12,13,12,17

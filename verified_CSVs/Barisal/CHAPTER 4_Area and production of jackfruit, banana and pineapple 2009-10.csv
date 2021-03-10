@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of jackfruit, banana and pineapple 2009-10",,,,,,
-1,(Area in acre  production in metric ton),,,,,,
-2,Upazila/city corporation,Jackfruits Area,Jackfruits Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
-3,Agailjhara,6,71,100,950,0,0
-4,Babuganj,9.4,1464,31,6.69,2.3,1.4
-5,Bakerganj,38,495,67,291,0,0
-6,Banaripara,250,638.03,232,468,1.55,2
-7,Barisal city corporation,4,88,8,22,1,2
-8,Barisal sadar,36,911,111,308,12,25
-9,Gaurnadi,18,50,151,106,0,0
-10,Hizla,0,0,220,70,0,0
-11,Mehendiganj,10.65,112.45,55,5042,7,8.86
-12,Muladi,98,400,28,532,0,0
-13,Wazirpur,19.85,263.85,674,1403.3,1,1.2
-14,Total,489.9,4493.33,1677,9198.99,24.85,40.46
+1,Barisal,,,,,,
+2,(Area in acre  production in metric ton),,,,,,
+3,Upazila/city corporation,Jackfruits Area,Jackfruits Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
+4,Agailjhara,6,71,100,950,0,0
+5,Babuganj,9.4,1464,31,6.69,2.3,1.4
+6,Bakerganj,38,495,67,291,0,0
+7,Banaripara,250,638.03,232,468,1.55,2
+8,Barisal city corporation,4,88,8,22,1,2
+9,Barisal Sadar,36,911,111,308,12,25
+10,Gaurnadi,18,50,151,106,0,0
+11,Hizla,0,0,220,70,0,0
+12,Mehendiganj,10.65,112.45,55,5042,7,8.86
+13,Muladi,98,400,28,532,0,0
+14,Wazirpur,19.85,263.85,674,1403.3,1,1.2
+15,Total,489.9,4493.33,1677,9198.99,24.85,40.46

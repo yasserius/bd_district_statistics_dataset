@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,,,,
-2, Upazila, Number of power tiller, Tractor,Number of threshing machine
-3,Bhandaria,54,0,57
-4,Kawkhali,07,10,16
-5,Mathbaria,98,8,107
-6,Nazirpur,191,32,610
-7,Nesarabad,13,0,91
-8,Pirojpur Sadar,22,13,9
-9,Zianagar,19,8,12
-10,Total,404,82,902
+1,Pirojpur,,,
+2,,,,
+3,Upazila, Number of power tiller, Tractor,Number of threshing machine
+4,Bhandaria,54,0,57
+5,Kawkhali,07,10,16
+6,Mathbaria,98,8,107
+7,Nazirpur,191,32,610
+8,Nesarabad,13,0,91
+9,Pirojpur Sadar,22,13,9
+10,Zianagar,19,8,12
+11,Total,404,82,902

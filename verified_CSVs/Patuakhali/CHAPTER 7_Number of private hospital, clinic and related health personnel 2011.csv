@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,,,,,,,
-2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Bauphal,1,12,2,4,3,8
-4,Dashmina,0,0,0,0,0,0
-5,Dumki,0,0,0,0,0,0
-6,Galachipa,0,0,0,0,0,0
-7,Kalapara,0,0,0,0,0,0
-8,Mirzaganj,0,0,0,0,0,0
-9,Patuakhali Sadar,18,210,20,44,41,86
-10,Total,19,222,22,48,44,94
+1,Patuakhali,,,,,,
+2,,,,,,,
+3,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Bauphal,1,12,2,4,3,8
+5,Dashmina,0,0,0,0,0,0
+6,Dumki,0,0,0,0,0,0
+7,Galachipa,0,0,0,0,0,0
+8,Kalapara,0,0,0,0,0,0
+9,Mirzaganj,0,0,0,0,0,0
+10,Patuakhali Sadar,18,210,20,44,41,86
+11,Total,19,222,22,48,44,94

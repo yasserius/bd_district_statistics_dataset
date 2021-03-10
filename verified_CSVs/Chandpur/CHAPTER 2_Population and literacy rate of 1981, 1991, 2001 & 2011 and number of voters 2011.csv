@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Population and literacy rate of 1981, 1991, 2001  2011 and number of voters 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2, Upazila,Population (000) - 1981,Population (000) - 1991,Population (000) - 2001,Population (000) - 2011,Literacy rate () - 1981,Literacy rate () - 1991,Literacy rate () - 2001,Literacy rate () - 2011,Number of voters (000) - Male,Number of voters (000) - Female,Number of voters (000) - Total
-3,Chandpur Sadar,347,396,436,456,33.1,40.1,57.12,56.1,133,134,267
-4,Foridganj,322,348,375,396,32.3,41.2,53.81,58.1,113,124,237
-5,Haimchar,97,113,125,104,22.8,25.4,40.29,48.1,30,31,61
-6,Hajiganj,229,254,292,330,33.6,38.5,49.12,60.6,88,96,184
-7,Kachua,248,293,331,382,26,34.1,44.8,53.8,99,109,208
-8,Matlab Dakshin,450,445,207,210,26.4,36.1,42.4,56.7,61,66,127
-9,Matlab Uttar,0,0,300,292,0,0,47.94,54.4,87,94,181
-10,Shahrasti,161,181,204,229,37.1,43,57.3,62.7,60,70,130
-11,Total,1854,2030,2170,2413,19,27,49,84,671,724,1395
+1,Chandpur,,,,,,,,,,,
+2,,,,,,,,,,,,
+3, Upazila,Population (000) - 1981,Population (000) - 1991,Population (000) - 2001,Population (000) - 2011,Literacy rate () - 1981,Literacy rate () - 1991,Literacy rate () - 2001,Literacy rate () - 2011,Number of voters (000) - Male,Number of voters (000) - Female,Number of voters (000) - Total
+4,Chandpur Sadar,347,396,436,456,33.1,40.1,57.12,56.1,133,134,267
+5,Foridganj,322,348,375,396,32.3,41.2,53.81,58.1,113,124,237
+6,Haimchar,97,113,125,104,22.8,25.4,40.29,48.1,30,31,61
+7,Hajiganj,229,254,292,330,33.6,38.5,49.12,60.6,88,96,184
+8,Kachua,248,293,331,382,26,34.1,44.8,53.8,99,109,208
+9,Matlab Dakshin,450,445,207,210,26.4,36.1,42.4,56.7,61,66,127
+10,Matlab Uttar,0,0,300,292,0,0,47.94,54.4,87,94,181
+11,Shahrasti,161,181,204,229,37.1,43,57.3,62.7,60,70,130
+12,Total,1854,2030,2170,2413,19,27,49,84,671,724,1395

@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5
-0.0,Cropped Area Sprayed with Plant Protection Measures 2008,,,,,
-1.0,,,,,,
-2.0, Upazila/city corporation,Total farm holding - Number,Total farm holding - Cropped area,Spraying farm holding - Number,Spraying farm holding - Cropped area, Reporting area sprayed
-3.0,Batiaghata,20178,31764,6925,6302,3458
-4.0,Dacope,20112,39822,20000,57700,48165
-5.0,Dighalia,11505,11140,13824,15027,9780
-6.0,Dumuria,45289,66347,52096,63244,93244
-7.0,Khulna City Corporation,6229,5040,2718,6209,1084
-8.0,Koyra,24040,24705,17785,22872,19292
-9.0,Paikgachha,28401,38508,42232,34513,64513
-10.0,Phultala,9237,8257,6218,8782,7750
-11.0,Rupsa,15919,16868,16352,15440,9293
-12.0,Terokhada,17420,28886,10000,19760,12102
-13.0,Total,198330,271337,188150,249849,249673
-,,,,,,
+0,Cropped Area Sprayed with Plant Protection Measures 2008,,,,,
+1,Khulna,,,,,
+2,,,,,,
+3, Upazila/city corporation,Total farm holding - Number,Total farm holding - Cropped area,Spraying farm holding - Number,Spraying farm holding - Cropped area, Reporting area sprayed
+4,Batiaghata,20178,31764,6925,6302,3458
+5,Dacope,20112,39822,20000,57700,48165
+6,Dighalia,11505,11140,13824,15027,9780
+7,Dumuria,45289,66347,52096,63244,93244
+8,Khulna City Corporation,6229,5040,2718,6209,1084
+9,Koyra,24040,24705,17785,22872,19292
+10,Paikgachha,28401,38508,42232,34513,64513
+11,Phultala,9237,8257,6218,8782,7750
+12,Rupsa,15919,16868,16352,15440,9293
+13,Terokhada,17420,28886,10000,19760,12102
+14,Total,198330,271337,188150,249849,249673
+15,,,,,,

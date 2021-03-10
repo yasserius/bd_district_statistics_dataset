@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,,,,,,
-2, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous body,Local Government employee
-3,Belabo,31,388,7502,0,40
-4,Manohardi,31,537,304,0,122
-5,Narsingdi Sadar,976,178,24,111,33
-6,Palash,30,485,6656,1596,14
-7,Roypura,41,900,13056,22,252
-8,Sibpur,47,288,12288,0,106
-9,Total,1156,2776,39830,1729,567
+1,Narsingdi,,,,,
+2,,,,,,
+3, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous body,Local Government employee
+4,Belabo,31,388,7502,0,40
+5,Manohardi,31,537,304,0,122
+6,Narsingdi Sadar,976,178,24,111,33
+7,Palash,30,485,6656,1596,14
+8,Roypura,41,900,13056,22,252
+9,Shibpur,47,288,12288,0,106
+10,Total,1156,2776,39830,1729,567

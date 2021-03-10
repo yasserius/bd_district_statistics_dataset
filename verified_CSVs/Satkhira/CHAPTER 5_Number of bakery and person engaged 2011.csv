@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Assasuni,5,8,25,33
-4,Debhata,3,6,6,12
-5,Kalaroa,6,12,138,150
-6,Kaliganj,11,11,30,41
-7,Satkhira Sadar,25,30,1500,1530
-8,Shyamnagar,3,7,21,28
-9,Tala,8,8,120,128
-10,Total,61,82,1840,1922
+1,Satkhira,,,,
+2,,,,,
+3,Upazila, Unit,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Assasuni,5,8,25,33
+5,Debhata,3,6,6,12
+6,Kalaroa,6,12,138,150
+7,Kaliganj,11,11,30,41
+8,Satkhira Sadar,25,30,1500,1530
+9,Shyamnagar,3,7,21,28
+10,Tala,8,8,120,128
+11,Total,61,82,1840,1922

@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6
 0,"Area, population and density by municipality 2011",,,,,,
-1,,,,,,,
-2,Upazila/City corporation,Name of municipality,Area (In sq. k.m.),Population census 2011 Male,Population census 2011 Female,Population census 2011 Both sex,Density per sq.k.m.
-3,Balaganj,0,0,0,0,0,0
-4,Beanibazar,Beanibazar,18.17,21032,20998,42030,2313
-5,Bishwanath,0,0,0,0,0,0
-6,Companiganj,0,0,0,0,0,0
-7,Dakhin surma,0,0,0,0,0,0
-8,Fenchuganj,0,0,0,0,0,0
-9,Golapganj,Golapganj,17.28,16405,16039,32444,1877
-10,Gowainghat,0,0,0,0,0,0
-11,Jaintiapur,0,0,0,0,0,0
-12,Kanaighat,Kanaighat,18.92,13552,13525,27077,1431
-13,Sylhet city corporation,0,0,0,0,0,0
-14,Sylhet sadar,0,0,0,0,0,0
-15,Zakiganj,Zakiganj,12,8194,8204,16398,1366
-16,Total,,66.37,59183,58766,117949,6987
+1,Sylhet,,,,,,
+2,,,,,,,
+3,Upazila/City Corporation,Name of municipality,Area (In sq. k.m.),Population census 2011 Male,Population census 2011 Female,Population census 2011 Both sex,Density per sq.k.m.
+4,Balaganj,0,0,0,0,0,0
+5,Beanibazar,Beanibazar,18.17,21032,20998,42030,2313
+6,Bishwanath,0,0,0,0,0,0
+7,Companiganj,0,0,0,0,0,0
+8,Dakhin Surma,0,0,0,0,0,0
+9,Fenchuganj,0,0,0,0,0,0
+10,Golapganj,Golapganj,17.28,16405,16039,32444,1877
+11,Gowainghat,0,0,0,0,0,0
+12,Jaintiapur,0,0,0,0,0,0
+13,Kanaighat,Kanaighat,18.92,13552,13525,27077,1431
+14,Sylhet City Corporation,0,0,0,0,0,0
+15,Sylhet Sadar,0,0,0,0,0,0
+16,Zakiganj,Zakiganj,12,8194,8204,16398,1366
+17,Total,,66.37,59183,58766,117949,6987

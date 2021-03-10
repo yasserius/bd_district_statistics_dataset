@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of holding reporting selected livestock species 2008,,,,,,,,
-1,,,,,,,,,
-2,Upazila,Cows  Buffaloes Holding /farm number,Cows  Buffaloes Animal number,Goats Holding/ farm number,Goats Goats number,Sheep Holding/ farm number,Sheep Sheep number,Swine Holding/ farm,Swine Swine
-3,Dighinala,6774,20195,5169,20658,60,414,3269,6338
-4,Khagrachhari Sadar,16067,18899,14512,16983,386,628,3117,9351
-5,Laxshmichhari,2883,8124,1996,7298,26,234,2012,3871
-6,Mahalchhari,1245,4394,1280,3144,27,110,815,1440
-7,Manikchhari,5622,16774,3397,3797,519,703,0,0
-8,Matiranga,6344,72246,4251,17166,2,30,1057,3171
-9,Panchhari,281,867,116,457,5,15,0,0
-10,Ramgarh,1,5,1,22,0,0,157,328
-11,Total,39217,141504,30722,69525,1025,2134,10427,24492
+1,Khagrachori,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Cows  Buffaloes Holding /farm number,Cows  Buffaloes Animal number,Goats Holding/ farm number,Goats Goats number,Sheep Holding/ farm number,Sheep Sheep number,Swine Holding/ farm,Swine Swine
+4,Dighinala,6774,20195,5169,20658,60,414,3269,6338
+5,Khagrachori,16067,18899,14512,16983,386,628,3117,9351
+6,Laxshmichhari,2883,8124,1996,7298,26,234,2012,3871
+7,Mahalchhari,1245,4394,1280,3144,27,110,815,1440
+8,Manikchhari,5622,16774,3397,3797,519,703,0,0
+9,Matiranga,6344,72246,4251,17166,2,30,1057,3171
+10,Panchhari,281,867,116,457,5,15,0,0
+11,Ramgarh,1,5,1,22,0,0,157,328
+12,Total,39217,141504,30722,69525,1025,2134,10427,24492

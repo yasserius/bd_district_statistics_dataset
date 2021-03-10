@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
-1,(Kilometer),,,,
-2,Upazila 1,Metalled road 2,Semi metalled road 3,Unmetalled (kacha) road 4,Total 5
-3,Atgharia,118,7,379,504
-4,Bera,131,15,156,296
-5,Bhangura,51,3,231,285
-6,Chatmohar,98,29,514,641
-7,Faridpur,43,15,170,228
-8,Ishwardi,139,44,402,586
-9,Pabna Sadar,341,43,1211,1594
-10,Santhia,184,40,648,872
-11,Sujanagar,260,10,308,578
-12,Total,1365,206,2780,5584
+1,Pabna,,,,
+2,(Kilometer),,,,
+3,Upazila 1,Metalled road 2,Semi metalled road 3,Unmetalled (kacha) road 4,Total 5
+4,Atgharia,118,7,379,504
+5,Bera,131,15,156,296
+6,Bhangura,51,3,231,285
+7,Chatmohar,98,29,514,641
+8,Faridpur,43,15,170,228
+9,Ishwardi,139,44,402,586
+10,Pabna Sadar,341,43,1211,1594
+11,Santhia,184,40,648,872
+12,Sujanagar,260,10,308,578
+13,Total,1365,206,2780,5584

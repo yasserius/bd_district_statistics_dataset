@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Non-government college, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila Upazila 1,Number of college Number of college 2,Number of teacher Male 3,Number of teacher Female 4,Number of teacher Total 5,Number of student Male 6,Number of student Female 7,Number of student Total 8,Student per teacher Student per teacher 9
-3,Atgharia,8,293,78,371,1117,1294,2411,6
-4,Bera,5,108,32,140,1688,1709,3397,24
-5,Bhangura,2,71,19,90,1303,989,2292,25
-6,Chatmohar,7,194,37,231,2135,2103,4238,18
-7,Faridpur,9,103,25,128,570,465,1035,8
-8,Ishwardi,8,192,64,256,3495,3999,7494,29
-9,Pabna Sadar,12,181,46,227,4070,2603,6673,29
-10,Santhia,6,169,40,209,2170,2637,4807,23
-11,Sujanagar,5,85,10,95,876,687,1563,16
-12,Total,62,1396,351,1747,17424,16486,33910,19
+1,Pabna,,,,,,,,
+2,,,,,,,,,
+3,Upazila Upazila 1,Number of college Number of college 2,Number of teacher Male 3,Number of teacher Female 4,Number of teacher Total 5,Number of student Male 6,Number of student Female 7,Number of student Total 8,Student per teacher Student per teacher 9
+4,Atgharia,8,293,78,371,1117,1294,2411,6
+5,Bera,5,108,32,140,1688,1709,3397,24
+6,Bhangura,2,71,19,90,1303,989,2292,25
+7,Chatmohar,7,194,37,231,2135,2103,4238,18
+8,Faridpur,9,103,25,128,570,465,1035,8
+9,Ishwardi,8,192,64,256,3495,3999,7494,29
+10,Pabna Sadar,12,181,46,227,4070,2603,6673,29
+11,Santhia,6,169,40,209,2170,2637,4807,23
+12,Sujanagar,5,85,10,95,876,687,1563,16
+13,Total,62,1396,351,1747,17424,16486,33910,19

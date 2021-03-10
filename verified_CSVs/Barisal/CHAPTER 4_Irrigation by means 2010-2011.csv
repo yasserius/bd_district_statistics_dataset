@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6,7
 0,Irrigation by means 2010-2011,,,,,,,
-1,(Area in acre),,,,,,,
-2,Upazila/city corporation,Irrigation management Power pump,Irrigation management Tube well,Irrigation management Doon,Irrigation management Swing basket,Irrigation management Canal,Irrigation management Others,Total
-3,Agailjhara,705,0,0,0,0,0,735
-4,Babuganj,0,0,0,0,0,7970,7970
-5,Bakerganj,670,0,0,0,0,0,670
-6,Banaripara,9500,0,0,0,5420,0,16970
-7,Barisal city corporation,1324,0,10,23,13,164,1534
-8,Barisal sadar,11656,0,10,23,13,164,1534
-9,Gaurnadi,15400,0,0,0,0,0,0
-10,Hizla,6584,0,0,0,0,0,6584
-11,Mehendiganj,15423,0,0,0,0,0,15423
-12,Muladi,345,0,10,0,0,0,385
-13,Wazirpur,1187,0,0,0,0,0,1187
-14,Total,62794,0,30,46,5446,8298,52992
+1,Barisal,,,,,,,
+2,(Area in acre),,,,,,,
+3,Upazila/city corporation,Irrigation management Power pump,Irrigation management Tube well,Irrigation management Doon,Irrigation management Swing basket,Irrigation management Canal,Irrigation management Others,Total
+4,Agailjhara,705,0,0,0,0,0,735
+5,Babuganj,0,0,0,0,0,7970,7970
+6,Bakerganj,670,0,0,0,0,0,670
+7,Banaripara,9500,0,0,0,5420,0,16970
+8,Barisal city corporation,1324,0,10,23,13,164,1534
+9,Barisal Sadar,11656,0,10,23,13,164,1534
+10,Gaurnadi,15400,0,0,0,0,0,0
+11,Hizla,6584,0,0,0,0,0,6584
+12,Mehendiganj,15423,0,0,0,0,0,15423
+13,Muladi,345,0,10,0,0,0,385
+14,Wazirpur,1187,0,0,0,0,0,1187
+15,Total,62794,0,30,46,5446,8298,52992

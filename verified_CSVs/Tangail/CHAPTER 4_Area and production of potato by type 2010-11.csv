@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2010-11,,,,,,
-1,(Area in acres  production in metric tons),,,,,,
-2,Upazila,Potato Area,Potato Production,Sweet potato Area,Sweet potato Production,Total potato Area,Total potato Production
-3,Basail,149,759,34,204,183,963
-4,Bhuapur,432,1133,1127,6685.06,1559,7818
-5,Delduar,2435,15491,112,737,2547,16228
-6,Dhanbari,929,18402.96,8.50,43.35,937.50,18446.31
-7,Ghatail,298,1159,29,124,327,1188
-8,Gopalpur,541,2765.69,50,283.03,591,3048.72
-9,Kalihati,577.50,3007,188,1314,765.50,4321
-10,Madhupur,241,1519.40,9,45.90,250,1564.94
-11,Mirzapur,353,1598,331,1350,684,2948
-12,Nagarpur,620,3255,145,602,765,3857
-13,Sakhipur,220,1460,34,252,254,1712
-14,Tangail Sadar,1875,10710,850,6120,2725,16830
-15,Total,8670.50,61260.05,2917.50,17760.34,11588,78924.97
+1,Tangail,,,,,,
+2,(Area in acres  production in metric tons),,,,,,
+3,Upazila,Potato Area,Potato Production,Sweet potato Area,Sweet potato Production,Total potato Area,Total potato Production
+4,Basail,149,759,34,204,183,963
+5,Bhuapur,432,1133,1127,6685.06,1559,7818
+6,Delduar,2435,15491,112,737,2547,16228
+7,Dhanbari,929,18402.96,8.50,43.35,937.50,18446.31
+8,Ghatail,298,1159,29,124,327,1188
+9,Gopalpur,541,2765.69,50,283.03,591,3048.72
+10,Kalihati,577.50,3007,188,1314,765.50,4321
+11,Madhupur,241,1519.40,9,45.90,250,1564.94
+12,Mirzapur,353,1598,331,1350,684,2948
+13,Nagarpur,620,3255,145,602,765,3857
+14,Sakhipur,220,1460,34,252,254,1712
+15,Tangail Sadar,1875,10710,850,6120,2725,16830
+16,Total,8670.50,61260.05,2917.50,17760.34,11588,78924.97

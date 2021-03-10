@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5
 0,"Number of family planning personnel working by municipality, city corporation 2011",,,,,
-1,,,,,,
-2,Municipality /city corporation,Doctor,Family planning inspector,Family planning assistant,Family planning visitor,Midwives/ birth attendant (Dais)
-3,Badarganj,1,6,42,5,4
-4,Haragach,0,1,5,1,1
-5,Rangpur,15,2,8,16,1
-6,Total,16,9,55,22,6
+1,Rangpur,,,,,
+2,,,,,,
+3,Municipality /city corporation,Doctor,Family planning inspector,Family planning assistant,Family planning visitor,Midwives/ birth attendant (Dais)
+4,Badarganj,1,6,42,5,4
+5,Haragach,0,1,5,1,1
+6,Rangpur,15,2,8,16,1
+7,Total,16,9,55,22,6

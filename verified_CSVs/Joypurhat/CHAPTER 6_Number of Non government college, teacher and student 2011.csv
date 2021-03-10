@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Non government college, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of college,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Akkelpur,10,164,37,201,902,801,1703,8
-4,Joypurhat sadar,10,177,26,203,1787,1098,2885,14
-5,Kalai,8,118,12,130,492,1147,1639,13
-6,Khetlal,6,42,7,49,563,317,880,18
-7,Panchbibi,5,83,13,96,570,602,1172,12
-8,Total,39,584,95,679,4314,3965,8279,12
+1,Joypurhat,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of college,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Akkelpur,10,164,37,201,902,801,1703,8
+5,Joypurhat sadar,10,177,26,203,1787,1098,2885,14
+6,Kalai,8,118,12,130,492,1147,1639,13
+7,Khetlal,6,42,7,49,563,317,880,18
+8,Panchbibi,5,83,13,96,570,602,1172,12
+9,Total,39,584,95,679,4314,3965,8279,12

@@ -1,7 +1,8 @@
 ,0,1,2,3,4,5,6
 0,Institutional accommodation facility by municipality 2011,,,,,,
-1,,,,,,,
-2, Municipality,Residential hostel - Number,Residential hostel - Capacity,Hall/hostel - Number,Hall/hostel - Capacity,Mess/barracks - Number,Mess/barracks - Capacity
-3,Lalmonirhat,7,175,2,120,26,270
-4,Patgram,5,98,0,0,9,85
-5,Total,12,273,2,120,35,355
+1,Lalmonirhat,,,,,,
+2,,,,,,,
+3, Municipality,Residential hostel - Number,Residential hostel - Capacity,Hall/hostel - Number,Hall/hostel - Capacity,Mess/barracks - Number,Mess/barracks - Capacity
+4,Lalmonirhat,7,175,2,120,26,270
+5,Patgram,5,98,0,0,9,85
+6,Total,12,273,2,120,35,355

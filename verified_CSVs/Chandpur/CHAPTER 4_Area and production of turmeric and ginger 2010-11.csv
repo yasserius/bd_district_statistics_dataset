@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Area and production of turmeric and ginger 2010-11,,,,
-1,(Area in acre and production in metric ton),,,,
-2, Upazila,Turmeric - Area,Turmeric - Production,Ginger - Area,Ginger - Production
-3,Chandpur Sadar,8,40,3,18
-4,Foridganj,25,23,1,5
-5,Haimchar,8,58,0,0
-6,Hajiganj,2.4,5,0,0
-7,Kachua,8,26,5,17
-8,Matlab Dakshin,0,0,0,0
-9,Matlab Uttar,0,0,0,0
-10,Shahrasti,0,0,0,0
-11,Total,51.4,152,9,40
+1,Chandpur,,,,
+2,(Area in acre and production in metric ton),,,,
+3, Upazila,Turmeric - Area,Turmeric - Production,Ginger - Area,Ginger - Production
+4,Chandpur Sadar,8,40,3,18
+5,Foridganj,25,23,1,5
+6,Haimchar,8,58,0,0
+7,Hajiganj,2.4,5,0,0
+8,Kachua,8,26,5,17
+9,Matlab Dakshin,0,0,0,0
+10,Matlab Uttar,0,0,0,0
+11,Shahrasti,0,0,0,0
+12,Total,51.4,152,9,40

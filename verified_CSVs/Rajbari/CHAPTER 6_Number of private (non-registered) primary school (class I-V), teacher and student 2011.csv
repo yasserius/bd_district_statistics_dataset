@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of private (non-registered) primary school (class I-V), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of Non-govt. primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Baliakandi,3,4,8,12,250,227,477,40
-4,Goalanda,5,10,12,22,476,409,881,40
-5,Kalukhali,2,2,6,8,220,227,447,56
-6,Pangsha,6,10,14,24,540,536,1076,44
-7,Rajbari Sadar,5,8,12,20,250,300,550,28
-8,Total,21,34,52,86,1736,1699,3431,42
+1,Rajbari,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of Non-govt. primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Baliakandi,3,4,8,12,250,227,477,40
+5,Goalanda,5,10,12,22,476,409,881,40
+6,Kalukhali,2,2,6,8,220,227,447,56
+7,Pangsha,6,10,14,24,540,536,1076,44
+8,Rajbari Sadar,5,8,12,20,250,300,550,28
+9,Total,21,34,52,86,1736,1699,3431,42

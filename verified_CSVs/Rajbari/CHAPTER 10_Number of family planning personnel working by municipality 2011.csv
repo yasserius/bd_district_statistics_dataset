@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Number of family planning personnel working by municipality 2011,,,,,
-1,,,,,,
-2, Upazila, Doctor,Family planning inspector,Family planning assistant,Family planning visitor,Midwife/ birth attendant (Dais)
-3,Baliakandi,0,0,0,0,0
-4,Goalanda,1,0,3,1,2
-5,Kalukhali,0,0,0,0,0
-6,Pangsha,1,1,6,1,3
-7,Rajbari Sadar,2,0,2,6,0
-8,Total,4,1,11,8,5
+1,Rajbari,,,,,
+2,,,,,,
+3,Upazila, Doctor,Family planning inspector,Family planning assistant,Family planning visitor,Midwife/ birth attendant (Dais)
+4,Baliakandi,0,0,0,0,0
+5,Goalanda,1,0,3,1,2
+6,Kalukhali,0,0,0,0,0
+7,Pangsha,1,1,6,1,3
+8,Rajbari Sadar,2,0,2,6,0
+9,Total,4,1,11,8,5

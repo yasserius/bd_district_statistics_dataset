@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Medical institution and personnel by municipality 2011,,,,,,
-1,,,,,,,
-2,Upazila,Government institution,Private institution,Medical personal Bed,Medical personal Doctor,Medical personal Nurse,Medical personal Technician
-3,Baliadangi,0,0,0,0,0,0
-4,Haripur,0,0,0,0,0,0
-5,Pirgonj,1,2,76,7,17,7
-6,Ranisankail,1,3,80,8,12,10
-7,Thakurgaon Sadar,1,11,125,22,36,8
-8,Total,3,16,281,37,65,25
+1,Thakurgaon,,,,,,
+2,,,,,,,
+3,Upazila,Government institution,Private institution,Medical personal Bed,Medical personal Doctor,Medical personal Nurse,Medical personal Technician
+4,Baliadangi,0,0,0,0,0,0
+5,Haripur,0,0,0,0,0,0
+6,Pirgonj,1,2,76,7,17,7
+7,Ranisankail,1,3,80,8,12,10
+8,Thakurgaon Sadar,1,11,125,22,36,8
+9,Total,3,16,281,37,65,25

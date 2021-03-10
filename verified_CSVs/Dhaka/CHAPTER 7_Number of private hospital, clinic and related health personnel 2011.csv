@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,,,,,,,
-2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Dhaka Metropolitan,620,16944,6091,3213,1163,10613
-4,Dhamrai,2,35,6,8,5,12
-5,Dohar,9,59,11,39,18,140
-6,Keraniganj,16,231,191,129,49,348
-7,Nawabganj,13,67,31,69,20,138
-8,Savar,33,1156,138,444,92,1416
-9,Total,693,18492,6468,3902,1347,12667
+1,Dhaka,,,,,,
+2,,,,,,,
+3,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Dhaka Metropolitan,620,16944,6091,3213,1163,10613
+5,Dhamrai,2,35,6,8,5,12
+6,Dohar,9,59,11,39,18,140
+7,Keraniganj,16,231,191,129,49,348
+8,Nawabganj,13,67,31,69,20,138
+9,Savar,33,1156,138,444,92,1416
+10,Total,693,18492,6468,3902,1347,12667

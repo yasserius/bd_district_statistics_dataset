@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,"Number of branch of specialized (Krishi, Co-operative etc) bank 2011",,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Araihazar,3,22,15952,309
-4,Bandar,2,19,9965,309
-5,Narayanganj Sadar,3,63,15396,2006
-6,Rupganj,4,46,19042,1109
-7,Sonargaon,2,14,7997,1411
-8,Total,14,164,68352,5144
+1,Narayanganj,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Araihazar,3,22,15952,309
+5,Bandar,2,19,9965,309
+6,Narayanganj Sadar,3,63,15396,2006
+7,Rupganj,4,46,19042,1109
+8,Sonargaon,2,14,7997,1411
+9,Total,14,164,68352,5144

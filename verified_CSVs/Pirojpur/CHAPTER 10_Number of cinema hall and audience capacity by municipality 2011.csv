@@ -1,8 +1,9 @@
 ,0,1,2,3,4
 0,Number of cinema hall and audience capacity by municipality 2011,,,,
-1,,,,,
-2,Municipality,Number of cinema hall,Audience capacity,Show per Day,Attendance (daily average)
-3,Mathbaria,1,450,3,35
-4,Pirojpur Sadar,2,236,3,150
-5,Swarupkati,0,0,0,0
-6,Total,3,686,6,185
+1,Pirojpur,,,,
+2,,,,,
+3,Municipality,Number of cinema hall,Audience capacity,Show per Day,Attendance (daily average)
+4,Mathbaria,1,450,3,35
+5,Pirojpur Sadar,2,236,3,150
+6,Swarupkati,0,0,0,0
+7,Total,3,686,6,185

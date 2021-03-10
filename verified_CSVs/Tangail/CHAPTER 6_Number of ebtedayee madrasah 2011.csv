@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of ebtedayee madrasah 2011,,,,,,,,
-1,,,,,,,,,
-2,Upazila,Number of madrasah,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Basail,3,8,1,9,1251,1164,2415,268
-4,Bhuapur,5,16,4,20,470,280,750,38
-5,Delduar,1,2,1,3,35,45,80,27
-6,Dhanbari,3,10,2,12,80,120,200,17
-7,Ghatail,12,38,6,44,4837,3770,8607,19
-8,Gopalpur,28,105,5,110,2451,2295,4746,431
-9,Kalihati,8,32,0,32,300,915,1215,37
-10,Madhupur,11,44,5,49,898,875,1773,36
-11,Mirzapur,0,0,0,0,0,0,0,0
-12,Nagarpur,4,14,5,19,324,284,608,32
-13,Sakhipur,3,12,0,12,170,130,300,25
-14,Tangail Sadar,9,28,5,33,837,935,1772,54
-15,Total,87,309,34,343,11653,10813,22466,191
+1,Tangail,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of madrasah,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Basail,3,8,1,9,1251,1164,2415,268
+5,Bhuapur,5,16,4,20,470,280,750,38
+6,Delduar,1,2,1,3,35,45,80,27
+7,Dhanbari,3,10,2,12,80,120,200,17
+8,Ghatail,12,38,6,44,4837,3770,8607,19
+9,Gopalpur,28,105,5,110,2451,2295,4746,431
+10,Kalihati,8,32,0,32,300,915,1215,37
+11,Madhupur,11,44,5,49,898,875,1773,36
+12,Mirzapur,0,0,0,0,0,0,0,0
+13,Nagarpur,4,14,5,19,324,284,608,32
+14,Sakhipur,3,12,0,12,170,130,300,25
+15,Tangail Sadar,9,28,5,33,837,935,1772,54
+16,Total,87,309,34,343,11653,10813,22466,191

@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Daily average wage rate of construction labour 2011,,,,,,
-1,(Rate in taka) ,,,,,,
-2,Upazila,Labour - Mason,Labour - Helper (Jogaly),Labour - Carpenter,Labour - Colour,Labour - Electric,Labour - Plumber
-3,Bhurungamari,300,170,300,250,350,300
-4,Char Rajibpur,300,200,300,350,350,300
-5,Chilmari,270,170,250,250,300,300
-6,Kurigram Sadar,250,200,250,300,500,350
-7,Nageshwari,300,150,200,225,250,250
-8,Phulbari,300,160,250,300,300,300
-9,Rajarhat,260,160,200,230,400,250
-10,Raumari,300,200,250,300,250,250
-11,Ulipur,250,180,240,250,300,250
-12,Average,280,180,250,250,350,300
+1,Kurigram,,,,,,
+2,(Rate in taka) ,,,,,,
+3,Upazila,Labour - Mason,Labour - Helper (Jogaly),Labour - Carpenter,Labour - Colour,Labour - Electric,Labour - Plumber
+4,Bhurungamari,300,170,300,250,350,300
+5,Char Rajibpur,300,200,300,350,350,300
+6,Chilmari,270,170,250,250,300,300
+7,Kurigram Sadar,250,200,250,300,500,350
+8,Nageshwari,300,150,200,225,250,250
+9,Phulbari,300,160,250,300,300,300
+10,Rajarhat,260,160,200,230,400,250
+11,Raumari,300,200,250,300,250,250
+12,Ulipur,250,180,240,250,300,250
+13,Average,280,180,250,250,350,300

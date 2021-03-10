@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,Number of fire service unit and casuality by municipality 2011,,,,,
-1,,,,,,
-2,Municipality 1,Fire service unit 2,Persons employed 3,Fire incidence 4,Persons died 6,Persons injured 7
-3,Atgharia,0,0,0,0,0
-4,Bera,1,23,4,1,1
-5,Bhangura,0,0,0,0,0
-6,Chatmohar,1,0,0,0,0
-7,Faridpur,0,0,0,0,0
-8,Ishwardi,1,25,11,3,25
-9,Pabna,1,28,12,5,32
-10,Santhia,0,0,0,0,0
-11,Sujanagar,1,14,6,0,0
-12,Total,5,90,33,9,55
+1,Pabna,,,,,
+2,,,,,,
+3,Municipality 1,Fire service unit 2,Persons employed 3,Fire incidence 4,Persons died 6,Persons injured 7
+4,Atgharia,0,0,0,0,0
+5,Bera,1,23,4,1,1
+6,Bhangura,0,0,0,0,0
+7,Chatmohar,1,0,0,0,0
+8,Faridpur,0,0,0,0,0
+9,Ishwardi,1,25,11,3,25
+10,Pabna,1,28,12,5,32
+11,Santhia,0,0,0,0,0
+12,Sujanagar,1,14,6,0,0
+13,Total,5,90,33,9,55

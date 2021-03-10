@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,"Area of high, medium and low land 2008",,,,
-1,(area in acre),,,,
-2,Upazila,High land,Medium land,Low land,Total land
-3,Badarganj,35341,32077,183,67601
-4,Gangachara,8285,31906,1512,41703
-5,Kaunia,8520,18290,760,27570
-6,Mithapukur,20139,55320,14520,89979
-7,Pirgachha,13200,31666,8000,52866
-8,Pirganj,5548,59612,7490,72650
-9,Rangpur sadar,11707,45750,370,57827
-10,Taraganj,6850,14461,450,21761
-11,Total,109590,289082,33285,431957
+1,Rangpur,,,,
+2,(area in acre),,,,
+3,Upazila,High land,Medium land,Low land,Total land
+4,Badarganj,35341,32077,183,67601
+5,Gangachara,8285,31906,1512,41703
+6,Kaunia,8520,18290,760,27570
+7,Mithapukur,20139,55320,14520,89979
+8,Pirgachha,13200,31666,8000,52866
+9,Pirganj,5548,59612,7490,72650
+10,Rangpur Sadar,11707,45750,370,57827
+11,Taraganj,6850,14461,450,21761
+12,Total,109590,289082,33285,431957

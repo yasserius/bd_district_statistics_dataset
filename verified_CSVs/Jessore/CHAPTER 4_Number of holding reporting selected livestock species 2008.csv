@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting selected livestock species 2008,,,,,,
-1,,,,,,,
-2, Upazila,Cow  buffalo - Holding number,Cow  buffalo - Number of animal,Goat - Holding number,Goat - Number of goat,Sheep - Holding number,Sheep - Number of sheep
-3,Abhaynagar,25094,58997,13275,33735,91,562
-4,Bagherpara,28843,80954,19033,50552,176,1029
-5,Chaugachha,31163,79351,31195,92386,112,636
-6,Jessore Sadar,49423,127510,40862,108700,235,1178
-7,Jhikargachha,36827,89994,38098,112080,240,962
-8,Keshabpur,34321,69786,39766,78062,99,400
-9,Manirampur,55925,126559,49368,138931,268,1737
-10,Sharsha,35392,86259,33391,92324,858,2577
-11,Total,296988,719410,264988,706770,2079,9081
+1,Jessore,,,,,,
+2,,,,,,,
+3, Upazila,Cow  buffalo - Holding number,Cow  buffalo - Number of animal,Goat - Holding number,Goat - Number of goat,Sheep - Holding number,Sheep - Number of sheep
+4,Abhaynagar,25094,58997,13275,33735,91,562
+5,Bagherpara,28843,80954,19033,50552,176,1029
+6,Chaugachha,31163,79351,31195,92386,112,636
+7,Jessore Sadar,49423,127510,40862,108700,235,1178
+8,Jhikargachha,36827,89994,38098,112080,240,962
+9,Keshabpur,34321,69786,39766,78062,99,400
+10,Manirampur,55925,126559,49368,138931,268,1737
+11,Sharsha,35392,86259,33391,92324,858,2577
+12,Total,296988,719410,264988,706770,2079,9081

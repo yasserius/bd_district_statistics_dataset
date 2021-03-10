@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of cinema hall and audience capacity by municipality 2011,,,,
-1,,,,,
-2,Municipality,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
-3,Noapara,2,640,3,460
-4,Bagherpara,0,0,0,0
-5,Chaugachha,1,450,0,0
-6,Jessore,2,1348,3,1010
-7,Jhikargachha,0,0,0,0
-8,Keshabpur,0,0,0,0
-9,Manirampur,3,655,2,600
-10,Benapole,0,0,0,0
-11,Total,8,3093,8,2070
+1,Jessore,,,,
+2,,,,,
+3,Municipality,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
+4,Noapara,2,640,3,460
+5,Bagherpara,0,0,0,0
+6,Chaugachha,1,450,0,0
+7,Jessore,2,1348,3,1010
+8,Jhikargachha,0,0,0,0
+9,Keshabpur,0,0,0,0
+10,Manirampur,3,655,2,600
+11,Benapole,0,0,0,0
+12,Total,8,3093,8,2070

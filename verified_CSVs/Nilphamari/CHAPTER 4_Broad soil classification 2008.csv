@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Broad soil classification 2008,,,,,,
-1,,,,,,,
-2, Upazila, Total,Soil classification - Doash,Soil classification - Bele,Soil classification - Etel,Soil classification - Kankar,Soil classification - Others
-3,Dimla,64639,10433,40123,0,1517,350
-4,Domar,55943,58506,692,0,0,0
-5,Jaldhaka,61308,5800,40733,11657,0,0
-6,Kishorgonj,43778,15155,20207,5053,0,10103
-7,Nilphamary Sadar,84967,32400,15000,22000,0,2600
-8,Sayedpur,26176,18003,9002,3000,0,0
-9,Total,336811,140297,125757,41710,1517,13053
+1,Nilphamari,,,,,,
+2,,,,,,,
+3,Upazila, Total,Soil classification - Doash,Soil classification - Bele,Soil classification - Etel,Soil classification - Kankar,Soil classification - Others
+4,Dimla,64639,10433,40123,0,1517,350
+5,Domar,55943,58506,692,0,0,0
+6,Joldhaka,61308,5800,40733,11657,0,0
+7,Kishorgonj,43778,15155,20207,5053,0,10103
+8,Nilphamary Sadar,84967,32400,15000,22000,0,2600
+9,Sayedpur,26176,18003,9002,3000,0,0
+10,Total,336811,140297,125757,41710,1517,13053

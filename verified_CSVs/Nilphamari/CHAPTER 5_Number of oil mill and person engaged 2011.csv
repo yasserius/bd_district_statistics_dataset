@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of oil mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Dimla,2,4,6,10
-4,Domar,4,0,8,12
-5,Jaldhaka,12,24,0,24
-6,Kishorgonj,0,0,0,0
-7,Nilphamary Sadar,5,5,15,20
-8,Sayedpur,7,7,18,25
-9,Total,30,40,47,91
+1,Nilphamari,,,,
+2,,,,,
+3,Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Dimla,2,4,6,10
+5,Domar,4,0,8,12
+6,Joldhaka,12,24,0,24
+7,Kishorgonj,0,0,0,0
+8,Nilphamary Sadar,5,5,15,20
+9,Sayedpur,7,7,18,25
+10,Total,30,40,47,91

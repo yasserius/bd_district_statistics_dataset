@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building material 2011,,,,,,
-1,(Price in taka),,,,,,
-2,Upazila,Brick-01 (per1000),Cement (per 50 kg bag),Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
-3,Bagatipara,5000,400,50000,40,20,40
-4,Baraigram,5500,450,62000,15,6,100
-5,Gurudaspur,6300,390,50000,30,25,0
-6,Lalpur,5000,460,60000,16,6,46
-7,Natore Sadar,5800,445,63000,15,9.25,110
-8,Singra,6000,475,72000,25,15,100
-9,Average,5600,437,59500,24,14,79
+1,Natore,,,,,,
+2,(Price in taka),,,,,,
+3,Upazila,Brick-01 (per1000),Cement (per 50 kg bag),Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
+4,Bagatipara,5000,400,50000,40,20,40
+5,Baraigram,5500,450,62000,15,6,100
+6,Gurudaspur,6300,390,50000,30,25,0
+7,Lalpur,5000,460,60000,16,6,46
+8,Natore Sadar,5800,445,63000,15,9.25,110
+9,Singra,6000,475,72000,25,15,100
+10,Average,5600,437,59500,24,14,79

@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,"Number of primary school (Class I-V), teacher and student by municipality 2011",,,,,,,,,,
-1,,,,,,,,,,,
-2, Municipality,Primary school - Govt.,Primary school - Non- govt.,Primary school - Total,Number of teacher - Govt.,Number of teacher - Non- govt.,Number of teacher - Total,Number of student - Govt.,Number of student - Non- govt.,Number of student - Total,Students per teacher
-3,Barlekha,4,2,6,34,8,42,1614,475,2089,50
-4,Kamalganj,6,4,10,35,12,47,1498,641,2139,46
-5,Kulaura,7,2,9,50,7,57,2383,350,2733,48
-6,Moulvibazar,12,1,13,84,4,88,4957,238,5195,59
-7,Sreemangal,4,1,5,40,7,47,2524,398,2922,62
-8,Total,33,10,43,243,38,281,12976,2102,15078,54
+1,Moulvibazar,,,,,,,,,,
+2,,,,,,,,,,,
+3, Municipality,Primary school - Govt.,Primary school - Non- govt.,Primary school - Total,Number of teacher - Govt.,Number of teacher - Non- govt.,Number of teacher - Total,Number of student - Govt.,Number of student - Non- govt.,Number of student - Total,Students per teacher
+4,Barlekha,4,2,6,34,8,42,1614,475,2089,50
+5,Kamalganj,6,4,10,35,12,47,1498,641,2139,46
+6,Kulaura,7,2,9,50,7,57,2383,350,2733,48
+7,Moulvibazar,12,1,13,84,4,88,4957,238,5195,59
+8,Sreemangal,4,1,5,40,7,47,2524,398,2922,62
+9,Total,33,10,43,243,38,281,12976,2102,15078,54

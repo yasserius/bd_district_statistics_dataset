@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,"Number of registered rickshaw, van, easy bike and auto-rickshaw 2011",,,,
-1,,,,,
-2,Upazila,Rickshaw,Van,Easy bike and auto-rickshaw,Tempo
-3,Chandpur Sadar,6197,669,400,23
-4,Foridganj,2570,215,10,71
-5,Haimchar,0,0,0,0
-6,Hajiganj,210,0,175,15
-7,Kachua,221,15,100,0
-8,Matlab Dakshin,815,3,0,0
-9,Matlab Uttar,212,25,0,0
-10,Shahrasti,2500,65,80,5
-11,Total,12725,992,765,114
+1,Chandpur,,,,
+2,,,,,
+3,Upazila,Rickshaw,Van,Easy bike and auto-rickshaw,Tempo
+4,Chandpur Sadar,6197,669,400,23
+5,Foridganj,2570,215,10,71
+6,Haimchar,0,0,0,0
+7,Hajiganj,210,0,175,15
+8,Kachua,221,15,100,0
+9,Matlab Dakshin,815,3,0,0
+10,Matlab Uttar,212,25,0,0
+11,Shahrasti,2500,65,80,5
+12,Total,12725,992,765,114

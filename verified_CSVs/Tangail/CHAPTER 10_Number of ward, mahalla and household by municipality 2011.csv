@@ -1,16 +1,17 @@
 ,0,1,2,3,4
 0,"Number of ward, mahalla and household by municipality 2011",,,,
-1,,,,,
-2,Upazila,Name of municipality,Total ward,Total mahalla,Total household
-3,Basail,-,0,0,0
-4,Bhuapur,Bhuapur,9,22,6854
-5,Delduar,-,0,0,0
-6,Dhanbari,Dhanbari,9,25,9134
-7,Ghatail,Ghatail,9,17,7868
-8,Gopalpur,Gopalpur,9,35,12539
-9,Kalihati,Kalihati,9,18,8731
-10,Madhupur,Madhupur,9,23,13763
-11,Mirzapur,Mirzapur,9,17,6129
-12,Nagarpur,-,0,0,0
-13,Sakhipur,Sakhipur,9,18,7473
-14,Tangail Sadar,Tangail,18,64,37607
+1,Tangail,,,,
+2,,,,,
+3,Upazila,Name of municipality,Total ward,Total mahalla,Total household
+4,Basail,-,0,0,0
+5,Bhuapur,Bhuapur,9,22,6854
+6,Delduar,-,0,0,0
+7,Dhanbari,Dhanbari,9,25,9134
+8,Ghatail,Ghatail,9,17,7868
+9,Gopalpur,Gopalpur,9,35,12539
+10,Kalihati,Kalihati,9,18,8731
+11,Madhupur,Madhupur,9,23,13763
+12,Mirzapur,Mirzapur,9,17,6129
+13,Nagarpur,-,0,0,0
+14,Sakhipur,Sakhipur,9,18,7473
+15,Tangail Sadar,Tangail,18,64,37607

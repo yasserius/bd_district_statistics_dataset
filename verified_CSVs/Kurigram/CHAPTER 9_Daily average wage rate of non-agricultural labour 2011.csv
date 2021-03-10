@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,Daily average wage rate of non-agricultural labour 2011,,,,,
-1,(Wage in taka),,,,,
-2,Upazila,Porter (coolee),Garden labour male,Garden female labour,Other labour (Adult),Other labour (Child)
-3,Bhurungamari,220,150,135,165,100
-4,Char Rajibpur,250,0,0,200,0
-5,Chilmari,250,200,100,200,100
-6,Kurigram Sadar,200,200,180,200,150
-7,Nageshwari,200,0,0,400,100
-8,Phulbari,250,0,0,200,100
-9,Rajarhat,280,230,130,200,60
-10,Raumari,200,250,180,200,100
-11,Ulipur,225,0,0,200,0
-12,Average,250,200,150,200,100
+1,Kurigram,,,,,
+2,(Wage in taka),,,,,
+3,Upazila,Porter (coolee),Garden labour male,Garden female labour,Other labour (Adult),Other labour (Child)
+4,Bhurungamari,220,150,135,165,100
+5,Char Rajibpur,250,0,0,200,0
+6,Chilmari,250,200,100,200,100
+7,Kurigram Sadar,200,200,180,200,150
+8,Nageshwari,200,0,0,400,100
+9,Phulbari,250,0,0,200,100
+10,Rajarhat,280,230,130,200,60
+11,Raumari,200,250,180,200,100
+12,Ulipur,225,0,0,200,0
+13,Average,250,200,150,200,100

@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital,  clinic and related health personnel 2011",,,,,,
-1,,,,,,,
-2, Upazila,Number of centres,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Austagram,1,10,2,2,1,5
-4,Bajitpur,1,390,152,215,61,403
-5,Bhairab,8,169,78,28,21,284
-6,Hossainpur,0,0,0,0,0,0
-7,Itna,0,0,0,0,0,0
-8,Karimganj,7,0,0,14,7,45
-9,Katiadi,0,0,0,0,0,0
-10,Kishoreganj Sadar,11,300,23,34,22,32
-11,Kuliar-char,0,0,0,0,0,0
-12,Mithamain,0,0,0,0,0,0
-13,Nikli,0,0,0,0,0,0
-14,Pakundia,1,20,3,3,2,5
-15,Tarail,0,0,0,0,0,0
-16,Total,29,889,258,296,114,774
+1,Kishoreganj,,,,,,
+2,,,,,,,
+3, Upazila,Number of centres,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Austagram,1,10,2,2,1,5
+5,Bajitpur,1,390,152,215,61,403
+6,Bhairab,8,169,78,28,21,284
+7,Hossainpur,0,0,0,0,0,0
+8,Itna,0,0,0,0,0,0
+9,Karimganj,7,0,0,14,7,45
+10,Katiadi,0,0,0,0,0,0
+11,Kishoreganj Sadar,11,300,23,34,22,32
+12,Kuliar-char,0,0,0,0,0,0
+13,Mithamain,0,0,0,0,0,0
+14,Nikli,0,0,0,0,0,0
+15,Pakundia,1,20,3,3,2,5
+16,Tarail,0,0,0,0,0,0
+17,Total,29,889,258,296,114,774

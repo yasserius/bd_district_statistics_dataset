@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2009-2010,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
-3,Bagerhat Sadar,299,221,27405,20462,23260,24595
-4,Kachua,5359,5567,18720,16660,10642,14894
-5,Rampal,0,0,39700,4400,7662,9359
-6,Sarankhola,2420,2824,2896,20888,592,797
-7,Chitalmari,3807,2647,18111,17951,28462,52012
-8,Morrelgonj,6410,5107,74425,53171,5231,6019
-9,Mongla,0,0,3695,1901,5,7
-10,Mollahat,6224,2724,8778,7419,18871,30269
-11,Fakirhat,718,509,15644,14476,14907,23317
-12,Total,25237,19599,209374,157327,109632,161268
+1,Bagerhat,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
+4,Bagerhat Sadar,299,221,27405,20462,23260,24595
+5,Kachua,5359,5567,18720,16660,10642,14894
+6,Rampal,0,0,39700,4400,7662,9359
+7,Sharonkhola,2420,2824,2896,20888,592,797
+8,Chitolmari,3807,2647,18111,17951,28462,52012
+9,Morrelgonj,6410,5107,74425,53171,5231,6019
+10,Mongla,0,0,3695,1901,5,7
+11,Mollahat,6224,2724,8778,7419,18871,30269
+12,Fakirhat,718,509,15644,14476,14907,23317
+13,Total,25237,19599,209374,157327,109632,161268

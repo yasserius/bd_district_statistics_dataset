@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Population and literacy rate of 1981, 1991, 2001  2011 and number of voter 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2, Upazila,Population (000) - 1981,Population (000) - 1991,Population (000) - 2001,Population (000) - 2011,Literacy rate () - 1981,Literacy rate () - 1991,Literacy rate () - 2001,Literacy rate () - 2011,Number of voter (000) - Male,Number of voter (000) - Female,Number of voter (000) - Total
-3,Alikadam,19,25,35,49,12.9,20.7,27.2,31.3,13,12,25
-4,Bandarban Sadar,31,50,69,88,25.5,34.5,43.2,49.3,15,14,29
-5,Lama,51,65,78,109,13.1,21.1,30.4,34.0,30,28,59
-6,Naikhongchhari,28,38,49,62,11.5,20.2,32.3,31.3,16,15,32
-7,Rowangchhari,16,17,23,27,10.5,16.2,23.8,31.0,9,8,17
-8,Ruma,19,19,27,29,21.7,27.8,26.7,28.9,9,8,17
-9,Thanchi,16,16,17,24,6.1,17.4,15.1,26.9,8,6,14
-10,Total,180,231,298,388,14.5,22.6,35.9,31.7,122,107,231
+1,Bandarban,,,,,,,,,,,
+2,,,,,,,,,,,,
+3, Upazila,Population (000) - 1981,Population (000) - 1991,Population (000) - 2001,Population (000) - 2011,Literacy rate () - 1981,Literacy rate () - 1991,Literacy rate () - 2001,Literacy rate () - 2011,Number of voter (000) - Male,Number of voter (000) - Female,Number of voter (000) - Total
+4,Alikadam,19,25,35,49,12.9,20.7,27.2,31.3,13,12,25
+5,Bandarban Sadar,31,50,69,88,25.5,34.5,43.2,49.3,15,14,29
+6,Lama,51,65,78,109,13.1,21.1,30.4,34.0,30,28,59
+7,Naikhongchhari,28,38,49,62,11.5,20.2,32.3,31.3,16,15,32
+8,Rowangchhari,16,17,23,27,10.5,16.2,23.8,31.0,9,8,17
+9,Ruma,19,19,27,29,21.7,27.8,26.7,28.9,9,8,17
+10,Thanchi,16,16,17,24,6.1,17.4,15.1,26.9,8,6,14
+11,Total,180,231,298,388,14.5,22.6,35.9,31.7,122,107,231

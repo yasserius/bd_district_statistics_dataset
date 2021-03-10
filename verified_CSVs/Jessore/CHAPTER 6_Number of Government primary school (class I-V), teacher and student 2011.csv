@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Government primary school (class I-V), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of Government primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Abhaynagar,63,140,233,373,7407,7368,14775,40
-4,Bagherpara,63,140,246,386,6125,8500,14624,38
-5,Chaugachha,61,147,169,316,12203,13067,25270,80
-6,Jessore Sadar,140,236,581,817,18784,19539,38333,47
-7,Jhikargachha,72,173,254,427,9765,9890,19655,46
-8,Keshabpur,70,150,252,402,6864,6226,13090,33
-9,Manirampur,120,364,201,565,10455,9517,19972,35
-10,Sharsha,73,152,154,306,12264,11461,23725,78
-11,Total,662,1502,2090,3592,83867,85568,169444,47
+1,Jessore,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of Government primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Abhaynagar,63,140,233,373,7407,7368,14775,40
+5,Bagherpara,63,140,246,386,6125,8500,14624,38
+6,Chaugachha,61,147,169,316,12203,13067,25270,80
+7,Jessore Sadar,140,236,581,817,18784,19539,38333,47
+8,Jhikargachha,72,173,254,427,9765,9890,19655,46
+9,Keshabpur,70,150,252,402,6864,6226,13090,33
+10,Manirampur,120,364,201,565,10455,9517,19972,35
+11,Sharsha,73,152,154,306,12264,11461,23725,78
+12,Total,662,1502,2090,3592,83867,85568,169444,47

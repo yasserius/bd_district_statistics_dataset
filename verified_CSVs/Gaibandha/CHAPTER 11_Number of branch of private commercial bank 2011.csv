@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Fulchhari,0,0,0,0
-4,Gaibandha Sadar,17,155,19010,2790
-5,Gobindaganj,5,101,18904,3195
-6,Palashbari,0,0,0,0
-7,Sadullapur,1,6,3600,208
-8,Saghata,7,42,18795,63
-9,Sundarganj,1,24,6221,538
-10,Total,31,328,66530,6794
+1,Gaibandha,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Fulchhari,0,0,0,0
+5,Gaibandha Sadar,17,155,19010,2790
+6,Gobindaganj,5,101,18904,3195
+7,Palashbari,0,0,0,0
+8,Sadullapur,1,6,3600,208
+9,Saghata,7,42,18795,63
+10,Sundarganj,1,24,6221,538
+11,Total,31,328,66530,6794

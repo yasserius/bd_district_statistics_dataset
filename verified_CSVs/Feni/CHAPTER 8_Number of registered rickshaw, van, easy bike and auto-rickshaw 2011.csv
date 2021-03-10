@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,"Number of registered rickshaw, van, easy bike and auto-rickshaw 2011",,,,
-1,,,,,
-2,Upazila,Rickshaw,Van,Easy bike and auto-rickshaw,Tempo
-3,Chhagalnaiya,922,35,19,15
-4,Daganbhuiyan,1650,35,229,15
-5,Feni Sadar,1268,650,145,58
-6,Fulgazi,730,121,95,95
-7,Parshuram,3890,500,205,21
-8,Sonagazi,736,119,133,0
-9,Total,9196,1460,826,204
+1,Feni,,,,
+2,,,,,
+3,Upazila,Rickshaw,Van,Easy bike and auto-rickshaw,Tempo
+4,Chhagalnaiya,922,35,19,15
+5,Daganbhuiyan,1650,35,229,15
+6,Feni Sadar,1268,650,145,58
+7,Fulgazi,730,121,95,95
+8,Parshuram,3890,500,205,21
+9,Sonagazi,736,119,133,0
+10,Total,9196,1460,826,204

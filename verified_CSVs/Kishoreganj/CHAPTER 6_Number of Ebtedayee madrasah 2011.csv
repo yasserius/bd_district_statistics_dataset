@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of Ebtedayee madrasah 2011,,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of Madrasah,Number of Teacher - Male,Number of Teacher - Female,Number of Teacher - Total,Number of Students - Male,Number of Students - Female,Number of Students - Total,Students per teacher
-3,Austagram,4,12,2,14,512,262,774,55
-4,Bajitpur,3,15,2,17,932,378,1116,66
-5,Hossainpur,38,0,0,0,0,0,0,0
-6,Itna,6,9,0,9,220,240,460,51
-7,Karimganj,10,43,5,48,1215,630,1845,38
-8,Katiadi,20,73,7,80,740,678,1418,18
-9,Kishoreganj Sadar,8,24,7,31,1409,1324,2733,88
-10,Kuliar-char,3,8,4,12,480,220,600,50
-11,Mithamain,24,48,0,48,640,560,1200,25
-12,Nikli,6,21,3,24,553,572,1125,47
-13,Pakundia,41,128,25,153,3300,1850,5150,34
-14,Tarail,4,12,0,12,274,212,486,41
-15,Bhairab,1,4,0,4,80,70,150,38
-16,Total,168,397,55,452,10355,6996,17057,38
+1,Kishoreganj,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of Madrasah,Number of Teacher - Male,Number of Teacher - Female,Number of Teacher - Total,Number of Students - Male,Number of Students - Female,Number of Students - Total,Students per teacher
+4,Austagram,4,12,2,14,512,262,774,55
+5,Bajitpur,3,15,2,17,932,378,1116,66
+6,Hossainpur,38,0,0,0,0,0,0,0
+7,Itna,6,9,0,9,220,240,460,51
+8,Karimganj,10,43,5,48,1215,630,1845,38
+9,Katiadi,20,73,7,80,740,678,1418,18
+10,Kishoreganj Sadar,8,24,7,31,1409,1324,2733,88
+11,Kuliar-char,3,8,4,12,480,220,600,50
+12,Mithamain,24,48,0,48,640,560,1200,25
+13,Nikli,6,21,3,24,553,572,1125,47
+14,Pakundia,41,128,25,153,3300,1850,5150,34
+15,Tarail,4,12,0,12,274,212,486,41
+16,Bhairab,1,4,0,4,80,70,150,38
+17,Total,168,397,55,452,10355,6996,17057,38

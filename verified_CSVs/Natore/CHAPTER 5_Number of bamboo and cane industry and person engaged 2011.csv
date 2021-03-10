@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of bamboo and cane industry and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Bagatipara,2610,2610,0,2610
-4,Baraigram,12,16,0,16
-5,Gurudaspur,1450,3235,190,3425
-6,Lalpur,45,100,0,100
-7,Natore Sadar,21,84,75,159
-8,Singra,7,14,0,14
-9,Total,4145,6059,265,6324
+1,Natore,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Bagatipara,2610,2610,0,2610
+5,Baraigram,12,16,0,16
+6,Gurudaspur,1450,3235,190,3425
+7,Lalpur,45,100,0,100
+8,Natore Sadar,21,84,75,159
+9,Singra,7,14,0,14
+10,Total,4145,6059,265,6324

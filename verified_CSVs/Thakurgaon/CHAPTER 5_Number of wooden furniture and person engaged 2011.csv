@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Baliadangi,85,88,170,258
-4,Haripur,40,30,130,160
-5,Pirgonj,90,90,270,360
-6,Ranisankail,110,220,330,550
-7,Thakurgaon Sadar,162,168,324,492
-8,Total,487,596,1224,1820
+1,Thakurgaon,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Baliadangi,85,88,170,258
+5,Haripur,40,30,130,160
+6,Pirgonj,90,90,270,360
+7,Ranisankail,110,220,330,550
+8,Thakurgaon Sadar,162,168,324,492
+9,Total,487,596,1224,1820

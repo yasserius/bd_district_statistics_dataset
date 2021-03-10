@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,Average rate of vehicle per kilo meter 2011,,,,,
-1,(Rate in taka),,,,,
-2,Upazila,Vehicle Rickshaw,Vehicle Rickshaw van,Vehicle Easy bike,Vehicle Auto rickshaw,Vehicle Tempo
-3,Magura Sadar,10,10,15,20,20
-4,Mohammadpur,10,4,2,10,2
-5,Shalikha,10,3,5,10,2
-6,Sreepur,10,5,5,5,5
-7,Average,10,6,7,11,7
+1,Magura,,,,,
+2,(Rate in taka),,,,,
+3,Upazila,Vehicle Rickshaw,Vehicle Rickshaw van,Vehicle Easy bike,Vehicle Auto rickshaw,Vehicle Tempo
+4,Magura Sadar,10,10,15,20,20
+5,Mohammadpur,10,4,2,10,2
+6,Shalikha,10,3,5,10,2
+7,Sreepur,10,5,5,5,5
+8,Average,10,6,7,11,7

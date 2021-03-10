@@ -1,17 +1,18 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Basail,58,58,126,184
-4,Bhuapur,113,147,263,410
-5,Delduar,162,324,103,427
-6,Dhanbari,170,170,350,520
-7,Ghatail,290,290,870,1160
-8,Gopalpur,95,120,320,440
-9,Kalihati,297,393,1115,1508
-10,Madhupur,123,94,352,446
-11,Mirzapur,338,300,1200,1500
-12,Nagarpur,87,130,174,304
-13,Sakhipur,356,372,958,1330
-14,Tangail Sadar,672,772,2093,2865
-15,Total,2761,3170,7924,11094
+1,Tangail,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Basail,58,58,126,184
+5,Bhuapur,113,147,263,410
+6,Delduar,162,324,103,427
+7,Dhanbari,170,170,350,520
+8,Ghatail,290,290,870,1160
+9,Gopalpur,95,120,320,440
+10,Kalihati,297,393,1115,1508
+11,Madhupur,123,94,352,446
+12,Mirzapur,338,300,1200,1500
+13,Nagarpur,87,130,174,304
+14,Sakhipur,356,372,958,1330
+15,Tangail Sadar,672,772,2093,2865
+16,Total,2761,3170,7924,11094

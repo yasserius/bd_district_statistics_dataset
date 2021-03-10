@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5
 0,"Number of hat-bazar, growth centre, hotel  restaurant 2011",,,,,
-1,,,,,,
-2,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
-3,Abhaynagar,11,15,5,179,5
-4,Bagherpara,4,19,8,109,0
-5,Chaugachha,3,49,5,104,0
-6,Jessore Sadar,26,48,6,196,41
-7,Jhikargachha,8,33,5,179,0
-8,Keshabpur,7,42,4,24,0
-9,Manirampur,12,56,3,310,0
-10,Sharsha,4,35,5,92,5
-11,Total,75,297,41,1193,51
+1,Jessore,,,,,
+2,,,,,,
+3,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
+4,Abhaynagar,11,15,5,179,5
+5,Bagherpara,4,19,8,109,0
+6,Chaugachha,3,49,5,104,0
+7,Jessore Sadar,26,48,6,196,41
+8,Jhikargachha,8,33,5,179,0
+9,Keshabpur,7,42,4,24,0
+10,Manirampur,12,56,3,310,0
+11,Sharsha,4,35,5,92,5
+12,Total,75,297,41,1193,51

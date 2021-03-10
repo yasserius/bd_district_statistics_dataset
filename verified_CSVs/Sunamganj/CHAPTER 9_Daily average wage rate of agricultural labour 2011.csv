@@ -1,16 +1,17 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
-1,(Rate in taka),,,
-2,Upazila,Male,Female,Child (under 15)
-3,Bishwamvarpur,220,180,120
-4,Chhatak,250,180,100
-5,Dakshin Sunamganj,250,200,120
-6,Derai,200,180,100
-7,Dharmapasha,180,150,80
-8,Doarabazar,250,200,100
-9,Jagannathpur,200,150,80
-10,Jamalganj,250,200,100
-11,Shalla,250,170,100
-12,Sunamganj Sadar,300,250,150
-13,Tahirpur,200,150,100
-14,Average,250,200,110
+1,Sunamganj,,,
+2,(Rate in taka),,,
+3,Upazila,Male,Female,Child (under 15)
+4,Bishwamvarpur,220,180,120
+5,Chhatak,250,180,100
+6,Dakshin Sunamganj,250,200,120
+7,Derai,200,180,100
+8,Dharmapasha,180,150,80
+9,Doarabazar,250,200,100
+10,Jagannathpur,200,150,80
+11,Jamalganj,250,200,100
+12,Shalla,250,170,100
+13,Sunamganj Sadar,300,250,150
+14,Tahirpur,200,150,100
+15,Average,250,200,110

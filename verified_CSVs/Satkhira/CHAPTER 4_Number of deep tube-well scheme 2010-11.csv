@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Number of deep tube-well scheme 2010-11,,,
-1,,,,
-2, Upazila,Number of deep tube-well Commissioned,Number of deep tube-well Operated,Area irrigated (In acre)
-3,Assasuni,0,0,0
-4,Debhata,0,3,87
-5,Kalaroa,0,470,19513
-6,Kaliganj,0,0,0
-7,Satkhira Sadar,0,807,65810
-8,Shyamnagar,0,0,0
-9,Tala,0,20,1700
-10,Total,0,1300,87110
+1,Satkhira,,,
+2,,,,
+3,Upazila,Number of deep tube-well Commissioned,Number of deep tube-well Operated,Area irrigated (In acre)
+4,Assasuni,0,0,0
+5,Debhata,0,3,87
+6,Kalaroa,0,470,19513
+7,Kaliganj,0,0,0
+8,Satkhira Sadar,0,807,65810
+9,Shyamnagar,0,0,0
+10,Tala,0,20,1700
+11,Total,0,1300,87110

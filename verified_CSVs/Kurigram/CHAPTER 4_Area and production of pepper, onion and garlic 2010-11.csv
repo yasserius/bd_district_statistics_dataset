@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Pepper - Area,Pepper - Production,Onion - Area,Onion - Production,Garlic - Area,Garlic - Production
-3,Bhurungamari,480,240,120,225,50,52
-4,Char Rajibpur,865,648,593,1560,135,385
-5,Chilmari,201,160,100,130,60,42
-6,Kurigram Sadar,114,57,155,317,61,59
-7,Nageshwari,65,26,124,182,30,24
-8,Phulbari,385,192,54,81,26,38
-9,Rajarhat,40,40,66,144,73,94
-10,Raumari,28,44,62,44,19,9
-11,Ulipur,204,167,305,610,135,216
-12,Total,2382,1574,1579,3293,589,919
+1,Kurigram,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Pepper - Area,Pepper - Production,Onion - Area,Onion - Production,Garlic - Area,Garlic - Production
+4,Bhurungamari,480,240,120,225,50,52
+5,Char Rajibpur,865,648,593,1560,135,385
+6,Chilmari,201,160,100,130,60,42
+7,Kurigram Sadar,114,57,155,317,61,59
+8,Nageshwari,65,26,124,182,30,24
+9,Phulbari,385,192,54,81,26,38
+10,Rajarhat,40,40,66,144,73,94
+11,Raumari,28,44,62,44,19,9
+12,Ulipur,204,167,305,610,135,216
+13,Total,2382,1574,1579,3293,589,919

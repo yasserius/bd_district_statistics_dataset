@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of brinjal, lady s finger and arum 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Brinjal - Area,Brinjal - Production,Ladys finger - Area,Ladys finger - Production,Arum - Area,Arum - Production
-3,Chandpur Sadar,50,440,370,1200,0,0
-4,Foridganj,70,101,80,77,151,173
-5,Haimchar,99,460,87,420,37,375
-6,Hajiganj,60,88,14,6,29,39
-7,Kachua,80,720,16,48,12,48
-8,Matlab Dakshin,23,18,8,13,21,628
-9,Matlab Uttar,42,126,9,14,28,36
-10,Shahrasti,139,278,26,10,2,2
-11,Total,563,2231,610,1788,280,1301
+1,Chandpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Brinjal - Area,Brinjal - Production,Ladys finger - Area,Ladys finger - Production,Arum - Area,Arum - Production
+4,Chandpur Sadar,50,440,370,1200,0,0
+5,Foridganj,70,101,80,77,151,173
+6,Haimchar,99,460,87,420,37,375
+7,Hajiganj,60,88,14,6,29,39
+8,Kachua,80,720,16,48,12,48
+9,Matlab Dakshin,23,18,8,13,21,628
+10,Matlab Uttar,42,126,9,14,28,36
+11,Shahrasti,139,278,26,10,2,2
+12,Total,563,2231,610,1788,280,1301

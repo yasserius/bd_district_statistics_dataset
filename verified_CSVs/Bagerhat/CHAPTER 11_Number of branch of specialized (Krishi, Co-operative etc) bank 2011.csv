@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,"Number of branch of specialized (Krishi, Co-operative etc) bank 2011",,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Bagerhat Sadar,6,56,13779,97
-4,Kachua,3,24,15126,98
-5,Rampal,2,17,8735,128
-6,Sarankhola,1,9,9051,102
-7,Chitalmari,2,16,15453,48
-8,Morrelgonj,4,31,15218,118
-9,Mongla,3,14,18396,46
-10,Mollahat,1,10,12317,26
-11,Fakirhat,3,23,11406,207
-12,Total,25,200,119481,870
+1,Bagerhat,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Bagerhat Sadar,6,56,13779,97
+5,Kachua,3,24,15126,98
+6,Rampal,2,17,8735,128
+7,Sharonkhola,1,9,9051,102
+8,Chitolmari,2,16,15453,48
+9,Morrelgonj,4,31,15218,118
+10,Mongla,3,14,18396,46
+11,Mollahat,1,10,12317,26
+12,Fakirhat,3,23,11406,207
+13,Total,25,200,119481,870

@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2010-11,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
-3,Chhagalnaiya,45,170,350,1628,395,1798
-4,Daganbhuiyan,10,27,132,365,142,392
-5,Feni Sadar,30,280,200,500,230,780
-6,Fulgazi,166,1328,212,848,378,2176
-7,Parshuram,111,698,320,1520,431,2218
-8,Sonagazi,560,904,725,2175,1285,3079
-9,Total,922,3407,1939,7036,2861,10443
+1,Feni,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
+4,Chhagalnaiya,45,170,350,1628,395,1798
+5,Daganbhuiyan,10,27,132,365,142,392
+6,Feni Sadar,30,280,200,500,230,780
+7,Fulgazi,166,1328,212,848,378,2176
+8,Parshuram,111,698,320,1520,431,2218
+9,Sonagazi,560,904,725,2175,1285,3079
+10,Total,922,3407,1939,7036,2861,10443

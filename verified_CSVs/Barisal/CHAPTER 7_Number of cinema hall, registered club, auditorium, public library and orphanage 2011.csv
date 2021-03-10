@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,,,,,,
-2,Upazila/city corporation,Cinema hall,Registered club,Library,Orphanage,Auditorium
-3,Agailjhara,0,45,0,21,1
-4,Babuganj,0,27,1,1,1
-5,Bakerganj,3,72,0,17,0
-6,Banaripara,1,88,9,17,0
-7,Barisal city corporation,2,354,2,7,9
-8,Barisal sadar,0,320,0,25,0
-9,Gaurnadi,1,85,4,6,1
-10,Hizla,0,0,0,13,0
-11,Mehendiganj,4,87,87,4,1
-12,Muladi,1,60,1,19,1
-13,Wazirpur,1,92,4,9,1
-14,Total,13,1230,108,139,15
+1,Barisal,,,,,
+2,,,,,,
+3,Upazila/city corporation,Cinema hall,Registered club,Library,Orphanage,Auditorium
+4,Agailjhara,0,45,0,21,1
+5,Babuganj,0,27,1,1,1
+6,Bakerganj,3,72,0,17,0
+7,Banaripara,1,88,9,17,0
+8,Barisal city corporation,2,354,2,7,9
+9,Barisal Sadar,0,320,0,25,0
+10,Gaurnadi,1,85,4,6,1
+11,Hizla,0,0,0,13,0
+12,Mehendiganj,4,87,87,4,1
+13,Muladi,1,60,1,19,1
+14,Wazirpur,1,92,4,9,1
+15,Total,13,1230,108,139,15

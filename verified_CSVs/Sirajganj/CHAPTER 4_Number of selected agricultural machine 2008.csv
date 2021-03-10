@@ -1,14 +1,15 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,,,,
-2,Upazila,Number of power tiller,Tractor,Number of threshing machine
-3,Belkuchi,762,0,3
-4,Chauhali,135,0,76
-5,Kamarkhanda,324,0,404
-6,Kazipur,290,0,250
-7,Royganj,1500,3,0
-8,Shahjadpur,450,0,5610
-9,Sirajganj Sadar,5603,42,79
-10,Tarash,5920,9,72
-11,Ullahpara,1995,2,5645
-12,Total,16979,56,12139
+1,Sirajganj,,,
+2,,,,
+3,Upazila,Number of power tiller,Tractor,Number of threshing machine
+4,Belkuchi,762,0,3
+5,Chauhali,135,0,76
+6,Kamarkhanda,324,0,404
+7,Kazipur,290,0,250
+8,Royganj,1500,3,0
+9,Shahjadpur,450,0,5610
+10,Sirajganj Sadar,5603,42,79
+11,Tarash,5920,9,72
+12,Ullahpara,1995,2,5645
+13,Total,16979,56,12139

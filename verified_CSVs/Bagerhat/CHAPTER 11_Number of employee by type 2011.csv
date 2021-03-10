@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,,,,,,
-2, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous bodies,Local Government employee
-3,Bagerhat Sadar,323,452,11968,132,239
-4,Kachua,45,324,6720,2,166
-5,Rampal,62,422,8128,12,27
-6,Sarankhola,34,228,4032,0,18
-7,Chitalmari,55,356,7936,53,25
-8,Morrelgonj,85,676,12352,154,156
-9,Mongla,84,324,5982,5,69
-10,Mollahat,55,356,6528,42,81
-11,Fakirhat,44,356,4732,8,80
-12,Total,787,3494,68378,408,861
+1,Bagerhat,,,,,
+2,,,,,,
+3, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous bodies,Local Government employee
+4,Bagerhat Sadar,323,452,11968,132,239
+5,Kachua,45,324,6720,2,166
+6,Rampal,62,422,8128,12,27
+7,Sharonkhola,34,228,4032,0,18
+8,Chitolmari,55,356,7936,53,25
+9,Morrelgonj,85,676,12352,154,156
+10,Mongla,84,324,5982,5,69
+11,Mollahat,55,356,6528,42,81
+12,Fakirhat,44,356,4732,8,80
+13,Total,787,3494,68378,408,861

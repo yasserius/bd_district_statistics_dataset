@@ -1,20 +1,21 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2009-10,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila/City corporation,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
-3,Anowara,46,198,22,102,68,301
-4,Banshkhali,2210,12867,292,1313,2502,14180
-5,Boalkhali,38,109,49,145,87,254
-6,Chandanaish,1336,5575,776,6310,2112,11885
-7,Chittagong City Corp.,0,0,0,0,15,60
-8,Fatikchhari,865,4110,371,2400,1235,6510
-9,Hathazari,321,2275,50,500,371,2775
-10,Lohagara,264,1504,49,217,313,1720
-11,Mirsharai,236,1418,223,1665,459,3083
-12,Patiya,39,194,55,207,93,401
-13,Rangunia,647,2748,196,1427,843,4176
-14,Raozan,525,2460,110,622,635,3082
-15,Sandwip,0,0,2446,4457,2446,4457
-16,Satkania,2840,14847,45,397,2885,15244
-17,Sitakunda,1,2,313,890,314,892
-18,Total,9366,48307,4997,20653,14378,69020
+1,Chittagong,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila/City corporation,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
+4,Anowara,46,198,22,102,68,301
+5,Banshkhali,2210,12867,292,1313,2502,14180
+6,Boalkhali,38,109,49,145,87,254
+7,Chandanaish,1336,5575,776,6310,2112,11885
+8,Chittagong City Corporation,0,0,0,0,15,60
+9,Fatikchhari,865,4110,371,2400,1235,6510
+10,Hathazari,321,2275,50,500,371,2775
+11,Lohagara,264,1504,49,217,313,1720
+12,Mirsharai,236,1418,223,1665,459,3083
+13,Patiya,39,194,55,207,93,401
+14,Rangunia,647,2748,196,1427,843,4176
+15,Raozan,525,2460,110,622,635,3082
+16,Sandwip,0,0,2446,4457,2446,4457
+17,Satkania,2840,14847,45,397,2885,15244
+18,Sitakunda,1,2,313,890,314,892
+19,Total,9366,48307,4997,20653,14378,69020

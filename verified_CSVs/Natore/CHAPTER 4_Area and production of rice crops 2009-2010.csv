@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2009-2010,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
-3,Bagatipara,24,19,5310,3987,3610,6143
-4,Baraigram,9444,6556,41756,34608,21234,36988
-5,Gurudaspur,2810,2059,32435,24618,17853,32300
-6,Lalpur,4130,2156,11936,10295,5762,10359
-7,Natore Sadar,605,430,33750,28287,34930,26179
-8,Singra,11856,5660,75335,45045,94601,175453
-9,Total,28869,16880,200522,146840,177990,287422
+1,Natore,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
+4,Bagatipara,24,19,5310,3987,3610,6143
+5,Baraigram,9444,6556,41756,34608,21234,36988
+6,Gurudaspur,2810,2059,32435,24618,17853,32300
+7,Lalpur,4130,2156,11936,10295,5762,10359
+8,Natore Sadar,605,430,33750,28287,34930,26179
+9,Singra,11856,5660,75335,45045,94601,175453
+10,Total,28869,16880,200522,146840,177990,287422

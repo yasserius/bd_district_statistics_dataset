@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of printing press and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Baliakandi,0,0,0,0
-4,Goalanda,0,0,0,0
-5,Kalukhali,0,0,0,0
-6,Pangsha,3,3,6,9
-7,Rajbari Sadar,6,10,30,40
-8,Total,9,13,36,49
+1,Rajbari,,,,
+2,,,,,
+3,Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Baliakandi,0,0,0,0
+5,Goalanda,0,0,0,0
+6,Kalukhali,0,0,0,0
+7,Pangsha,3,3,6,9
+8,Rajbari Sadar,6,10,30,40
+9,Total,9,13,36,49

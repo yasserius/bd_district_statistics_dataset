@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Area and production of turmeric and ginger 2010-11,,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,Turmeric Area,Turmeric Production,Ginger Area,Ginger Production
-3,Bhedarganj,45,242,0,0
-4,Damudya,30,480,0,0
-5,Gosairhat,0,0,0,0
-6,Naria,3,5,1,1
-7,Shariatpur Sadar,21,42,0,0
-8,Zanjira,0,0,0,0
-9,Total,99,769,1,1
+1,Shariatpur,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,Turmeric Area,Turmeric Production,Ginger Area,Ginger Production
+4,Bhedarganj,45,242,0,0
+5,Damudya,30,480,0,0
+6,Gosairhat,0,0,0,0
+7,Naria,3,5,1,1
+8,Shariatpur Sadar,21,42,0,0
+9,Zanjira,0,0,0,0
+10,Total,99,769,1,1

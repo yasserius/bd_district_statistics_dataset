@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,"Number of railway station, steamer, launch station and bus stand 2011",,,
-1,,,,
-2,Upazila,Railway station,Steamer/launch station,Bus stand
-3,Barlekha,0,0,3
-4,Juri,1,1,1
-5,Kamalganj,2,0,5
-6,Kulaura,7,0,2
-7,Moulvibazar Sadar,0,0,5
-8,Rajnagar,0,0,0
-9,Sreemangal,2,0,3
-10,Total,12,1,19
+1,Moulvibazar,,,
+2,,,,
+3,Upazila,Railway station,Steamer/launch station,Bus stand
+4,Barlekha,0,0,3
+5,Juri,1,1,1
+6,Kamalganj,2,0,5
+7,Kulaura,7,0,2
+8,Moulvibazar Sadar,0,0,5
+9,Rajnagar,0,0,0
+10,Sreemangal,2,0,3
+11,Total,12,1,19

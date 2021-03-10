@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,,,,,,
-2, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous body,Local Government employee
-3,Bakshiganj,22,324,1832,0,75
-4,Dewanganj,45,388,8384,25,22
-5,Islampur,37,164,7232,84,156
-6,Jamalpur Sadar,723,580,13568,371,233
-7,Madarganj,41,356,7040,0,97
-8,Melandaha,37,64,256,35,104
-9,Sarishabari,45,356,14720,0,232
-10,Total,950,2232,53032,515,919
+1,Jamalpur,,,,,
+2,,,,,,
+3, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous body,Local Government employee
+4,Bakshiganj,22,324,1832,0,75
+5,Dewanganj,45,388,8384,25,22
+6,Islampur,37,164,7232,84,156
+7,Jamalpur Sadar,723,580,13568,371,233
+8,Madarganj,41,356,7040,0,97
+9,Melandaha,37,64,256,35,104
+10,Sarishabari,45,356,14720,0,232
+11,Total,950,2232,53032,515,919

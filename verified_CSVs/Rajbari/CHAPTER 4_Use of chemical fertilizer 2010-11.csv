@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Use of chemical fertilizer 2010-11,,,,,
-1,,,,,,
-2,Upazila,UREA,TSP,MP,DAP,Others
-3,Baliakandi,5500,4350,4500,400,200
-4,Goalanda,3039,2480,1271,300,250
-5,Kalukhali,5784,3516,2831,819,3365
-6,Pangsha,5700,1650,1670,500,755
-7,Rajbari Sadar,6600,1600,1200,210,0
-8,Total,26623,13596,11472,2229,4570
+1,Rajbari,,,,,
+2,,,,,,
+3,Upazila,UREA,TSP,MP,DAP,Others
+4,Baliakandi,5500,4350,4500,400,200
+5,Goalanda,3039,2480,1271,300,250
+6,Kalukhali,5784,3516,2831,819,3365
+7,Pangsha,5700,1650,1670,500,755
+8,Rajbari Sadar,6600,1600,1200,210,0
+9,Total,26623,13596,11472,2229,4570

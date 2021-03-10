@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of cinema hall and audience capacity by municipality 2011,,,,
-1,,,,,
-2,Upazila,Number of cinema hall,Seating capacity,Show per day,Attendance (daily average)
-3,Baliadangi,0,0,0,0
-4,Haripur,0,0,0,0
-5,Pirgonj,2,300,2,200
-6,Ranisankail,3,380,3,900
-7,Thakurgaon Sadar,3,750,2,360
-8,Total,8,1430,7,1460
+1,Thakurgaon,,,,
+2,,,,,
+3,Upazila,Number of cinema hall,Seating capacity,Show per day,Attendance (daily average)
+4,Baliadangi,0,0,0,0
+5,Haripur,0,0,0,0
+6,Pirgonj,2,300,2,200
+7,Ranisankail,3,380,3,900
+8,Thakurgaon Sadar,3,750,2,360
+9,Total,8,1430,7,1460

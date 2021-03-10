@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,,,,
-2, Upazila, Number of power tiller, Tractor,Number of threshing machine
-3,Assasuni,92,25,491
-4,Debhata,71,12,344
-5,Kalaroa,366,40,1062
-6,Kaliganj,247,108,847
-7,Satkhira Sadar,538,84,2741
-8,Shyamnagar,290,83,580
-9,Tala,270,21,1688
-10,Total,1874,373,7733
+1,Satkhira,,,
+2,,,,
+3,Upazila, Number of power tiller, Tractor,Number of threshing machine
+4,Assasuni,92,25,491
+5,Debhata,71,12,344
+6,Kalaroa,366,40,1062
+7,Kaliganj,247,108,847
+8,Satkhira Sadar,538,84,2741
+9,Shyamnagar,290,83,580
+10,Tala,270,21,1688
+11,Total,1874,373,7733

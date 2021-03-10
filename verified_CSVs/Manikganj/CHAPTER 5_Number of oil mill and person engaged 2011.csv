@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of oil mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Daulotpur,0,0,0,0
-4,Gheor,21,21,25,46
-5,Horirampur,16,20,52,72
-6,Manikganj Sadar,21,25,21,46
-7,Saturia,51,100,210,310
-8,Shibalaya,8,10,13,23
-9,Singair,29,29,29,58
-10,Total,146,205,350,555
+1,Manikganj,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Daulotpur,0,0,0,0
+5,Gheor,21,21,25,46
+6,Horirampur,16,20,52,72
+7,Manikganj Sadar,21,25,21,46
+8,Saturia,51,100,210,310
+9,Shibalaya,8,10,13,23
+10,Singair,29,29,29,58
+11,Total,146,205,350,555

@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,"Number of branch of specialized (Krishi, Co-operative etc.) bank 2011",,,,
-1,,,,,
-2,Upazila 1,Number of branch 2,Number of employee 3,Number of saving A/C 4,Number of current A/C 5
-3,Atgharia,1,9,2837,330
-4,Bera,2,21,16671,562
-5,Bhangura,2,23,8970,210
-6,Chatmohar,3,28,9058,959
-7,Faridpur,2,16,14117,748
-8,Ishwardi,2,31,12029,1092
-9,Pabna Sadar,5,64,32090,2523
-10,Santhia,2,23,14241,1365
-11,Sujanagar,2,37,13777,1136
-12,Total,21,245,86790,2325
+1,Pabna,,,,
+2,,,,,
+3,Upazila 1,Number of branch 2,Number of employee 3,Number of saving A/C 4,Number of current A/C 5
+4,Atgharia,1,9,2837,330
+5,Bera,2,21,16671,562
+6,Bhangura,2,23,8970,210
+7,Chatmohar,3,28,9058,959
+8,Faridpur,2,16,14117,748
+9,Ishwardi,2,31,12029,1092
+10,Pabna Sadar,5,64,32090,2523
+11,Santhia,2,23,14241,1365
+12,Sujanagar,2,37,13777,1136
+13,Total,21,245,86790,2325

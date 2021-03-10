@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6
 0,Police personnel and criminal offences by municipality 2011,,,,,,
-1,,,,,,,
-2, Municipality,Police personnel,Criminal offence - Number of offence,Criminal offence - Number of case filled,Traffic accident (Reported) - Number of accident,Traffic accident (Reported) - Person killed,Traffic accident (Reported) - Person injured
-3,Gopalganj,733,0,401,4,9,17
-4,Kotalipara,41,8,8,1,1,0
-5,Muksudpur,51,14,14,0,0,1
-6,Tungipara,35,79,79,0,0,0
-7,Total,860,101,502,5,10,18
+1,Gopalgonj,,,,,,
+2,,,,,,,
+3, Municipality,Police personnel,Criminal offence - Number of offence,Criminal offence - Number of case filled,Traffic accident (Reported) - Number of accident,Traffic accident (Reported) - Person killed,Traffic accident (Reported) - Person injured
+4,Gopalganj,733,0,401,4,9,17
+5,Kotalipara,41,8,8,1,1,0
+6,Muksudpur,51,14,14,0,0,1
+7,Tungipara,35,79,79,0,0,0
+8,Total,860,101,502,5,10,18

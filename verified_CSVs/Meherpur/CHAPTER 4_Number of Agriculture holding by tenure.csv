@@ -1,8 +1,9 @@
 ,0,1,2,3,4
 0,Number of Agriculture holding by tenure,,,,
-1,(According to Agriculture Census 2008),,,,
-2,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
-3,Gangni,52565,41847,21220,2645
-4,Mujibnagar,17949,12759,9242,620
-5,Meherpur Sadar,42158,31079,22878,4254
-6,Total,112672,85685,53340,7519
+1,Meherpur,,,,
+2,(According to Agriculture Census 2008),,,,
+3,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
+4,Gangni,52565,41847,21220,2645
+5,Mujibnagar,17949,12759,9242,620
+6,Meherpur Sadar,42158,31079,22878,4254
+7,Total,112672,85685,53340,7519

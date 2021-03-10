@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
-1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
-3,Alamdanga,305,47,484,836
-4,Chuadanga Sadar,197.37,42.49,254.43,494.29
-5,Damurhuda,207,53,416,677
-6,Jibonnagar,168.62,0,195,168.62
-7,Total,877.99,142.49,1349.43,2175.91
+1,Chuadanga,,,,
+2,(Kilometer),,,,
+3,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
+4,Alamdanga,305,47,484,836
+5,Chuadanga Sadar,197.37,42.49,254.43,494.29
+6,Damurhuda,207,53,416,677
+7,Jibonnagar,168.62,0,195,168.62
+8,Total,877.99,142.49,1349.43,2175.91

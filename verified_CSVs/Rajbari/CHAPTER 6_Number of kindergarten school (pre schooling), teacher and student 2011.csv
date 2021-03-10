@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kindergarten school (pre schooling), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of kindergarten school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Baliakandi,15,25,35,60,790,1201,1991,33
-4,Goalanda,13,20,42,62,866,736,1602,26
-5,Kalukhali,7,21,11,32,458,475,933,29
-6,Pangsha,10,25,35,60,890,906,1796,29
-7,Rajbari Sadar,50,100,150,250,1128,1165,2293,9
-8,Total,95,191,273,464,4132,4483,8615,25
+1,Rajbari,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of kindergarten school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Baliakandi,15,25,35,60,790,1201,1991,33
+5,Goalanda,13,20,42,62,866,736,1602,26
+6,Kalukhali,7,21,11,32,458,475,933,29
+7,Pangsha,10,25,35,60,890,906,1796,29
+8,Rajbari Sadar,50,100,150,250,1128,1165,2293,9
+9,Total,95,191,273,464,4132,4483,8615,25

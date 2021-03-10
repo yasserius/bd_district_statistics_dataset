@@ -1,17 +1,18 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,,,,
-2,Upazila,Number of insurance company,Number of employee,Number of client
-3,Bhaluka,9,322,11485
-4,Dhobaura,0,0,0
-5,Fulbaria,0,0,0
-6,Gafargaon,7,63,1580
-7,Gauripur,1,3,220
-8,Haluaghat,5,299,6402
-9,Ishwargonj,9,36,14723
-10,Muktagacha,12,48,12320
-11,Mymensingh Sadar,30,325,16736
-12,Nandail,4,26,670
-13,Phulpur,10,20,14605
-14,Trishal,4,24,480
-15,Total,91,1166,79221
+1,Mymensingh,,,
+2,,,,
+3,Upazila,Number of insurance company,Number of employee,Number of client
+4,Bhaluka,9,322,11485
+5,Dhobaura,0,0,0
+6,Fulbaria,0,0,0
+7,Gaffargaon,7,63,1580
+8,Gauripur,1,3,220
+9,Haluaghat,5,299,6402
+10,Ishwargonj,9,36,14723
+11,Muktagacha,12,48,12320
+12,Mymensingh Sadar,30,325,16736
+13,Nandail,4,26,670
+14,Phulpur,10,20,14605
+15,Trishal,4,24,480
+16,Total,91,1166,79221

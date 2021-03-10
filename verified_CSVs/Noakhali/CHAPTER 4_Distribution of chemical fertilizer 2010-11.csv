@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8
 0,Distribution of chemical fertilizer 2010-11,,,,,,,,
-1,(In metric ton),,,,,,,,
-2,Upazila,UREA,TSP,MP,DAP,HP,NPK,SP,Others
-3,Begumganj,3500,350,530,280,0,75,0,0
-4,Chatkhil,15,7,750,0,0,0,0,0
-5,Companiganj,1900,200,120,30,0,120,0,25
-6,Hatiya,4915,1410,535,365,10,20,0,0
-7,Kabirhat,3000,1148,500,300,0,0,0,0
-8,Noakhali Sadar,2600,650,550,130,0,150,0,80
-9,Senbagh,2600,500,550,55,0,0,0,100
-10,Sonaimuri,2600,800,520,800,0,200,0,70
-11,Subarnachar,70,40,45,2,0,1,0,0
-12,Total,21200,5105,4100,1962,10,566,0,275
+1,Noakhali,,,,,,,,
+2,(In metric ton),,,,,,,,
+3,Upazila,UREA,TSP,MP,DAP,HP,NPK,SP,Others
+4,Begumganj,3500,350,530,280,0,75,0,0
+5,Chatkhil,15,7,750,0,0,0,0,0
+6,Companiganj,1900,200,120,30,0,120,0,25
+7,Hatiya,4915,1410,535,365,10,20,0,0
+8,Kabirhat,3000,1148,500,300,0,0,0,0
+9,Noakhali Sadar,2600,650,550,130,0,150,0,80
+10,Senbagh,2600,500,550,55,0,0,0,100
+11,Sonaimuri,2600,800,520,800,0,200,0,70
+12,Subarnachar,70,40,45,2,0,1,0,0
+13,Total,21200,5105,4100,1962,10,566,0,275

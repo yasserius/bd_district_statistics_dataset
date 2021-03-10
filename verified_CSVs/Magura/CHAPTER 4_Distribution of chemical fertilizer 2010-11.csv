@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6,7,8
 0,Distribution of chemical fertilizer 2010-11,,,,,,,,
-1,(In metric ton),,,,,,,,
-2,Upazila,UREA,TSP,MP,DAP,HP,NPK,SP,Others
-3,Magura Sadar,15247,3000,34000,32000,0,0,0,510
-4,Mohammadpur,6500,1500,1800,2000,0,0,0,400
-5,Shalikha,11000,285,1163,340,0,0,0,250
-6,Sreepur,7060,1476,1590,1820,210,168,420,260
-7,Total,39807,6261,38553,36160,210,168,420,1420
+1,Magura,,,,,,,,
+2,(In metric ton),,,,,,,,
+3,Upazila,UREA,TSP,MP,DAP,HP,NPK,SP,Others
+4,Magura Sadar,15247,3000,34000,32000,0,0,0,510
+5,Mohammadpur,6500,1500,1800,2000,0,0,0,400
+6,Shalikha,11000,285,1163,340,0,0,0,250
+7,Sreepur,7060,1476,1590,1820,210,168,420,260
+8,Total,39807,6261,38553,36160,210,168,420,1420

@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Number of rice mill and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged Male,Person engaged Female,Person engaged Total
-3,Magura Sadar,21,43,62,105
-4,Mohammadpur,82,106,39,145
-5,Shalikha,56,182,168,350
-6,Sreepur,10,8,24,32
-7,Total,169,339,293,632
+1,Magura,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged Male,Person engaged Female,Person engaged Total
+4,Magura Sadar,21,43,62,105
+5,Mohammadpur,82,106,39,145
+6,Shalikha,56,182,168,350
+7,Sreepur,10,8,24,32
+8,Total,169,339,293,632

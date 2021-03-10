@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,"Length of railway, water way 2011",,,
-1,(Kilometer),,,
-2, Upazila,"Total Railway Line (All-B.G., M.G.  Duel Gage)",Water way in Monsoon (River + Canal),Water way in round the Year (River + Canal)
-3,Bhola Sadar,0,26,24
-4,Burhanuddin,0,281.45,48.5
-5,Char Fasson,0,67,46
-6,Daulatkhan,0,170,130
-7,Lalmohan,0,271.45,58
-8,Manpura,0,170,120
-9,Tazumuddin,0,47,41
-10,Total,0,1032.9,467.5
+1,Bhola,,,
+2,(Kilometer),,,
+3, Upazila,"Total Railway Line (All-B.G., M.G.  Duel Gage)",Water way in Monsoon (River + Canal),Water way in round the Year (River + Canal)
+4,Bhola Sadar,0,26,24
+5,Burhanuddin,0,281.45,48.5
+6,Char Fasson,0,67,46
+7,Daulatkhan,0,170,130
+8,Lalmohan,0,271.45,58
+9,Manpura,0,170,120
+10,Tazumuddin,0,47,41
+11,Total,0,1032.9,467.5

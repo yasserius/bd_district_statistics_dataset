@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,"Number of non-registered rickshaw, van, easy bike and auto-rickshaw 2011",,,,,
-1,,,,,,
-2,Upazila,Rickshaw,Van,Easy bike and auto-rickshaw,Tempo,Nochimon/korimon/ bhotvoti
-3,Baliakandi,0,450,30,0,80
-4,Goalanda,215,342,152,60,98
-5,Kalukhali,10,750,30,0,85
-6,Pangsha,10,3000,280,0,2000
-7,Rajbari Sadar,350,180,0,0,130
-8,Total,585,4722,492,60,2393
+1,Rajbari,,,,,
+2,,,,,,
+3,Upazila,Rickshaw,Van,Easy bike and auto-rickshaw,Tempo,Nochimon/korimon/ bhotvoti
+4,Baliakandi,0,450,30,0,80
+5,Goalanda,215,342,152,60,98
+6,Kalukhali,10,750,30,0,85
+7,Pangsha,10,3000,280,0,2000
+8,Rajbari Sadar,350,180,0,0,130
+9,Total,585,4722,492,60,2393

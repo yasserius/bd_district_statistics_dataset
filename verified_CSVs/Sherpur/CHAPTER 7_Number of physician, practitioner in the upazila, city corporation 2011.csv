@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,"Number of physician, practitioner in the upazila, city corporation 2011",,,,,
-1,,,,,,
-2,Upazila,Physician,"MBBS, FCPS/over",L.M.F,Unani / ayurbedic,Homeopathy
-3,Jhenaigati,22,6,3,1,12
-4,Nakla,38,14,2,7,15
-5,Nalitabari,29,13,2,2,12
-6,Sherpur Sadar,125,25,15,15,55
-7,Sreebardi,48,12,6,5,25
-8,Total,262,70,28,30,119
+1,Sherpur,,,,,
+2,,,,,,
+3,Upazila,Physician,"MBBS, FCPS/over",L.M.F,Unani / ayurbedic,Homeopathy
+4,Jhenaigati,22,6,3,1,12
+5,Nakla,38,14,2,7,15
+6,Nalitabari,29,13,2,2,12
+7,Sherpur Sadar,125,25,15,15,55
+8,Sreebardi,48,12,6,5,25
+9,Total,262,70,28,30,119

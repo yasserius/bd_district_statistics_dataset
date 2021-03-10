@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of wheat, jute and sugarcane crops 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila Upazila 1,Wheat Area 2,Wheat Production 3,Jute Area 4,Jute Production 5,Sugarcane Area 6,Sugarcane Production 7
-3,Atgharia,5340,4625,8300,7683,293,8959
-4,Bera,5680,4611,1832,1321,485,7760
-5,Bhangura,2231,2207,182,341,35,292
-6,Chatmohar,10252,9141,6275,4385,194,2647
-7,Faridpur,2273,2037,898,713,29,977
-8,Ishwardi,9875,10862,2580,7224,7550,166100
-9,Pabna Sadar,21983,22396,10880,8842,745,22900
-10,Santhia,10888,8158,6778,8317,207,1141
-11,Sujanagar,10180,10182,20950,20782,185,3568
-12,Total,78702,74219,58675,59608,9723,214344
+1,Pabna,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila Upazila 1,Wheat Area 2,Wheat Production 3,Jute Area 4,Jute Production 5,Sugarcane Area 6,Sugarcane Production 7
+4,Atgharia,5340,4625,8300,7683,293,8959
+5,Bera,5680,4611,1832,1321,485,7760
+6,Bhangura,2231,2207,182,341,35,292
+7,Chatmohar,10252,9141,6275,4385,194,2647
+8,Faridpur,2273,2037,898,713,29,977
+9,Ishwardi,9875,10862,2580,7224,7550,166100
+10,Pabna Sadar,21983,22396,10880,8842,745,22900
+11,Santhia,10888,8158,6778,8317,207,1141
+12,Sujanagar,10180,10182,20950,20782,185,3568
+13,Total,78702,74219,58675,59608,9723,214344

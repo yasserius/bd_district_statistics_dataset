@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,"Area and production at water melon, melon (bangi) in following years",,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,2010-11 - Area,2010-11 - Production,2009-10 - Area,2009-10 - Production
-3,Alfadanga,36,197,36,191
-4,Bhanga,21,22,31,34
-5,Boalmari,184,1293,187,1969
-6,Charbhadrashon,9,26,7,25
-7,Faridpur Sadar,97,985,87,840
-8,Madhukhali,25,100,23,87
-9,Nagarkanda,199,1114,193,1080
-10,Sadarpur,225,900,195,683
-11,Saltha,53,296,50,280
-12,Total,849,4933,809,5189
+1,Faridpur,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,2010-11 - Area,2010-11 - Production,2009-10 - Area,2009-10 - Production
+4,Alfadanga,36,197,36,191
+5,Bhanga,21,22,31,34
+6,Boalmari,184,1293,187,1969
+7,Charbhadrashon,9,26,7,25
+8,Faridpur Sadar,97,985,87,840
+9,Madhukhali,25,100,23,87
+10,Nagarkanda,199,1114,193,1080
+11,Sadarpur,225,900,195,683
+12,Saltha,53,296,50,280
+13,Total,849,4933,809,5189

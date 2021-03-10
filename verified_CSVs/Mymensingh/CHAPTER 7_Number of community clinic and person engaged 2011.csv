@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6
 0,Number of community clinic and person engaged 2011,,,,,,
-1,,,,,,,
-2, Upazila,Number of clinic,Number of health assistant,Number of FPI,Number of FWV,Number of FWA,Number of other staff
-3,Bhaluka,26,48,10,13,56,35
-4,Dhubaura,13,31,3,5,29,0
-5,Fulbaria,40,72,11,14,66,118
-6,Gaffargaon,58,52,12,16,76,71
-7,Gauripur,35,14,5,11,78,110
-8,Haluaghat,20,42,0,0,0,0
-9,Ishwargonj,41,74,9,5,60,12
-10,Muktagacha,38,51,8,14,67,0
-11,Mymensingh Sadar,54,85,0,0,0,0
-12,Nandail,12,12,10,8,68,3
-13,Phulpur,54,66,14,18,97,61
-14,Trishal,41,36,5,14,61,162
-15,Total,432,583,87,118,658,572
+1,Mymensingh,,,,,,
+2,,,,,,,
+3, Upazila,Number of clinic,Number of health assistant,Number of FPI,Number of FWV,Number of FWA,Number of other staff
+4,Bhaluka,26,48,10,13,56,35
+5,Dhubaura,13,31,3,5,29,0
+6,Fulbaria,40,72,11,14,66,118
+7,Gaffargaon,58,52,12,16,76,71
+8,Gauripur,35,14,5,11,78,110
+9,Haluaghat,20,42,0,0,0,0
+10,Ishwargonj,41,74,9,5,60,12
+11,Muktagacha,38,51,8,14,67,0
+12,Mymensingh Sadar,54,85,0,0,0,0
+13,Nandail,12,12,10,8,68,3
+14,Phulpur,54,66,14,18,97,61
+15,Trishal,41,36,5,14,61,162
+16,Total,432,583,87,118,658,572

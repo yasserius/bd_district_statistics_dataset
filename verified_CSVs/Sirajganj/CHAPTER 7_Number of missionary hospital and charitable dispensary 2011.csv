@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Number of missionary hospital and charitable dispensary 2011,,,,,,
-1,,,,,,,
-2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Belkuchi,0,0,0,0,0,0
-4,Chauhali,0,0,0,0,0,0
-5,Kamarkhanda,1,0,1,0,0,1
-6,Kazipur,0,0,0,0,0,0
-7,Royganj,0,0,0,0,0,0
-8,Shahjadpur,0,0,0,0,0,0
-9,Sirajganj Sadar,0,0,0,0,0,0
-10,Tarash,1,0,1,0,0,2
-11,Ullahpara,13,0,12,0,0,23
-12,Total,15,0,14,0,0,26
+1,Sirajganj,,,,,,
+2,,,,,,,
+3,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Belkuchi,0,0,0,0,0,0
+5,Chauhali,0,0,0,0,0,0
+6,Kamarkhanda,1,0,1,0,0,1
+7,Kazipur,0,0,0,0,0,0
+8,Royganj,0,0,0,0,0,0
+9,Shahjadpur,0,0,0,0,0,0
+10,Sirajganj Sadar,0,0,0,0,0,0
+11,Tarash,1,0,1,0,0,2
+12,Ullahpara,13,0,12,0,0,23
+13,Total,15,0,14,0,0,26

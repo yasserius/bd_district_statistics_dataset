@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of warehouse and their storage capacity 2011,,,,,,,,
-1,(Capacity in metric ton),,,,,,,,
-2,Upazila,Food godown Number,Food godown Capacity,Fertilizer godown Number,Fertilizer godown Capacity,Jute godown Number,Jute godown Capacity,Other godown Number,Other godown Capacity
-3,Biral,9,8450,0,0,0,0,0,0
-4,Birampur,4,4500,1,140,0,0,0,0
-5,Birganj,6,4500,1,1500,0,0,230,85000
-6,Bochaganj,7,4500,0,0,0,0,0,0
-7,Chirirbandar,3,6000,0,0,0,0,0,0
-8,Dinajpur Sadar,7,4500000,3,13800,0,0,0,0
-9,Fulbari,6,5500,0,0,0,0,93,12000
-10,Ghoraghat,4,5500,0,0,0,0,105,15500
-11,Hakimpur,7,5000,0,0,0,0,135,54000
-12,Kaharole,3,2500,0,0,0,0,0,0
-13,Khansama,5,3500,0,0,0,0,10,3000
-14,Nawabganj,2,4500,0,0,0,0,3,1500
-15,Parbatipur,12,8500,18,50200,0,0,0,0
-16,Total,75,4562950,23,65640,0,0,576,171000
+1,Dinajpur,,,,,,,,
+2,(Capacity in metric ton),,,,,,,,
+3,Upazila,Food godown Number,Food godown Capacity,Fertilizer godown Number,Fertilizer godown Capacity,Jute godown Number,Jute godown Capacity,Other godown Number,Other godown Capacity
+4,Biral,9,8450,0,0,0,0,0,0
+5,Birampur,4,4500,1,140,0,0,0,0
+6,Birganj,6,4500,1,1500,0,0,230,85000
+7,Bochaganj,7,4500,0,0,0,0,0,0
+8,Chirirbandar,3,6000,0,0,0,0,0,0
+9,Dinajpur Sadar,7,4500000,3,13800,0,0,0,0
+10,Fulbari,6,5500,0,0,0,0,93,12000
+11,Ghoraghat,4,5500,0,0,0,0,105,15500
+12,Hakimpur,7,5000,0,0,0,0,135,54000
+13,Kaharole,3,2500,0,0,0,0,0,0
+14,Khansama,5,3500,0,0,0,0,10,3000
+15,Nawabganj,2,4500,0,0,0,0,3,1500
+16,Parbatipur,12,8500,18,50200,0,0,0,0
+17,Total,75,4562950,23,65640,0,0,576,171000

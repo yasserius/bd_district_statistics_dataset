@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Population by religion 2011,,,,,,
-1,,,,,,,
-2,Upazila,Muslim,Hindu,Buddhist,Christian,Others,Total
-3,Araihazar,363733,12796,1,13,7,376550
-4,Bandar,298859,13857,25,88,12,312841
-5,Narayanganj Sadar,1248013,74789,245,463,90,1323600
-6,Rupganj,506423,28179,40,164,62,534868
-7,Sonargaon,385539,14484,67,235,33,400358
-8,Total,2802567,144105,378,963,204,2948217
+1,Narayanganj,,,,,,
+2,,,,,,,
+3,Upazila,Muslim,Hindu,Buddhist,Christian,Others,Total
+4,Araihazar,363733,12796,1,13,7,376550
+5,Bandar,298859,13857,25,88,12,312841
+6,Narayanganj Sadar,1248013,74789,245,463,90,1323600
+7,Rupganj,506423,28179,40,164,62,534868
+8,Sonargaon,385539,14484,67,235,33,400358
+9,Total,2802567,144105,378,963,204,2948217

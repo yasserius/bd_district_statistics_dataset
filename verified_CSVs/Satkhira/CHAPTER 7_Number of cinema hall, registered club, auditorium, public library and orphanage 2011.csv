@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,,,,,,
-2,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
-3,Assasuni,1,119,0,10,1
-4,Debhata,2,76,0,5,1
-5,Kalaroa,1,16,1,1,1
-6,Kaliganj,1,32,1,11,1
-7,Satkhira Sadar,3,182,1,16,1
-8,Shyamnagar,2,230,1,25,1
-9,Tala,1,48,3,3,1
-10,Total,11,703,7,71,7
+1,Satkhira,,,,,
+2,,,,,,
+3,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
+4,Assasuni,1,119,0,10,1
+5,Debhata,2,76,0,5,1
+6,Kalaroa,1,16,1,1,1
+7,Kaliganj,1,32,1,11,1
+8,Satkhira Sadar,3,182,1,16,1
+9,Shyamnagar,2,230,1,25,1
+10,Tala,1,48,3,3,1
+11,Total,11,703,7,71,7

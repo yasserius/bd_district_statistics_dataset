@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,"Area of high, medium and low land 2008",,,,
-1,,,,,
-2,Upazila,High land,Medium land,Low land,Total land
-3,Kushtia Sadar,30642,22255,2643,55540
-4,Bheramara,6000,11509,2019,19528
-5,Daulatpur,11000,49200,12500,72700
-6,Khoksa,5386,9646,3372,18404
-7,Kumarkhali,4509,33364,3607,41480
-8,Mirpur,11716,50002,11506,51160
-9,Total,69253,175976,35647,258812
+1,Kushtia,,,,
+2,,,,,
+3,Upazila,High land,Medium land,Low land,Total land
+4,Kushtia Sadar,30642,22255,2643,55540
+5,Bheramara,6000,11509,2019,19528
+6,Daulatpur,11000,49200,12500,72700
+7,Khoksa,5386,9646,3372,18404
+8,Kumarkhali,4509,33364,3607,41480
+9,Mirpur,11716,50002,11506,51160
+10,Total,69253,175976,35647,258812

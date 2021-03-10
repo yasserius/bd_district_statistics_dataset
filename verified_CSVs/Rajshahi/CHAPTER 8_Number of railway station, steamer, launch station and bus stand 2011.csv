@@ -1,15 +1,16 @@
 ,0,1,2,3
 0,"Number of railway station, steamer, launch station and bus stand 2011",,,
-1,,,,
-2,Upazila/city corporation,Railway station,Steamer/launch station,Bus stand
-3,Bagha,1,0,1
-4,Baghmara,1,0,2
-5,Charghat,2,0,2
-6,Durgapur,0,0,1
-7,Godagari,3,0,2
-8,Mohanpur,0,0,0
-9,Paba,1,0,0
-10,Puthia,0,0,0
-11,Rajshahi city corporation,3,0,2
-12,Tanore,0,0,0
-13,Total,11,0,10
+1,Rajshahi,,,
+2,,,,
+3,Upazila/city corporation,Railway station,Steamer/launch station,Bus stand
+4,Bagha,1,0,1
+5,Baghmara,1,0,2
+6,Charghat,2,0,2
+7,Durgapur,0,0,1
+8,Godagari,3,0,2
+9,Mohanpur,0,0,0
+10,Paba,1,0,0
+11,Puthia,0,0,0
+12,Rajshahi City Corporation,3,0,2
+13,Tanore,0,0,0
+14,Total,11,0,10

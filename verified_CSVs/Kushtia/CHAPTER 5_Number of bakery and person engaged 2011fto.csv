@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,5.16 Number of bakery and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Units,Persons engaged - Family,Persons engaged - Hired,Persons engaged - Total
-3,Kushtia Sadar,53,60,75,135
-4,Bheramara,17,17,51,68
-5,Daulatpur,12,7,43,50
-6,Khoksa,5,5,42,47
-7,Kumarkhali,10,20,50,70
-8,Mirpur,21,56,158,214
-9,Total,118,165,419,584
+1,Kushtia,,,,
+2,,,,,
+3,Upazila, Units,Persons engaged - Family,Persons engaged - Hired,Persons engaged - Total
+4,Kushtia Sadar,53,60,75,135
+5,Bheramara,17,17,51,68
+6,Daulatpur,12,7,43,50
+7,Khoksa,5,5,42,47
+8,Kumarkhali,10,20,50,70
+9,Mirpur,21,56,158,214
+10,Total,118,165,419,584

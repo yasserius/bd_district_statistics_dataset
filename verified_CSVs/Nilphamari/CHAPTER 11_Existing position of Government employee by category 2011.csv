@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,Existing position of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
-3,Dimla,22,40,643,84,789
-4,Domar,40,5,593,97,735
-5,Jaldhaka,22,25,306,140,494
-6,Kishorgonj,16,11,755,106,888
-7,Nilphamary Sadar,135,301,2234,320,2990
-8,Sayedpur,48,14,1302,137,1501
-9,Total,283,396,5833,884,7397
+1,Nilphamari,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
+4,Dimla,22,40,643,84,789
+5,Domar,40,5,593,97,735
+6,Joldhaka,22,25,306,140,494
+7,Kishorgonj,16,11,755,106,888
+8,Nilphamary Sadar,135,301,2234,320,2990
+9,Sayedpur,48,14,1302,137,1501
+10,Total,283,396,5833,884,7397

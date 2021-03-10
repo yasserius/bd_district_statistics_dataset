@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,,,,,,,
-2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Bagerhat Sadar,14,225,20,52,18,43
-4,Kachua,2,26,3,4,2,9
-5,Rampal,0,0,0,0,0,0
-6,Sarankhola,2,22,2,5,3,14
-7,Chitalmari,5,50,10,16,11,13
-8,Morrelgonj,5,40,5,18,10,42
-9,Mongla,2,24,3,12,3,16
-10,Mollahat,2,32,7,6,3,6
-11,Fakirhat,4,22,4,11,3,8
-12,Total,36,441,54,124,53,151
+1,Bagerhat,,,,,,
+2,,,,,,,
+3,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Bagerhat Sadar,14,225,20,52,18,43
+5,Kachua,2,26,3,4,2,9
+6,Rampal,0,0,0,0,0,0
+7,Sharonkhola,2,22,2,5,3,14
+8,Chitolmari,5,50,10,16,11,13
+9,Morrelgonj,5,40,5,18,10,42
+10,Mongla,2,24,3,12,3,16
+11,Mollahat,2,32,7,6,3,6
+12,Fakirhat,4,22,4,11,3,8
+13,Total,36,441,54,124,53,151

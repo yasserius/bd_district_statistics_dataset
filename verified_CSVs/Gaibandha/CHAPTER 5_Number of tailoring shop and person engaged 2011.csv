@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of tailoring shop and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Fulchhari,220,220,200,420
-4,Gaibandha Sadar,346,346,692,1038
-5,Gobindaganj,115,113,406,519
-6,Palashbari,426,430,1284,1714
-7,Sadullapur,136,17,310,327
-8,Saghata,320,320,640,960
-9,Sundarganj,480,600,1000,1600
-10,Total,2043,2046,4532,6578
+1,Gaibandha,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Fulchhari,220,220,200,420
+5,Gaibandha Sadar,346,346,692,1038
+6,Gobindaganj,115,113,406,519
+7,Palashbari,426,430,1284,1714
+8,Sadullapur,136,17,310,327
+9,Saghata,320,320,640,960
+10,Sundarganj,480,600,1000,1600
+11,Total,2043,2046,4532,6578

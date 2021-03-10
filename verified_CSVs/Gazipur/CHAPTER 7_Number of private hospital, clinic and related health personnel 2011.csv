@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,,,,,,,
-2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Gazipur Sadar,62,620,186,372,62,806
-4,Kaliakair,20,112,20,80,40,84
-5,Kaliganj,7,41,18,35,19,53
-6,Kapashia,14,160,32,62,30,182
-7,Sreepur,15,120,75,80,90,155
-8,Total,118,1053,331,629,241,1280
+1,Gazipur,,,,,,
+2,,,,,,,
+3,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Gazipur Sadar,62,620,186,372,62,806
+5,Kaliakair,20,112,20,80,40,84
+6,Kaliganj,7,41,18,35,19,53
+7,Kapashia,14,160,32,62,30,182
+8,Sreepur,15,120,75,80,90,155
+9,Total,118,1053,331,629,241,1280

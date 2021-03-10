@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Number of bridge, culvert, shako and pool 2011",,,,,,
-1,,,,,,,
-2,Upazila,Bridge,Bailey bridge,Culvert,Pool,Shako,others
-3,Bishwamvarpur,40,4,216,0,20,0
-4,Chhatak,169,5,217,0,15,0
-5,Dakshin Sunamganj,60,24,0,0,0,0
-6,Derai,10,0,217,0,97,0
-7,Dharmapasha,5,1,30,3,20,0
-8,Doarabazar,40,1,500,30,50,0
-9,Jagannathpur,10,3,99,0,140,5
-10,Jamalganj,7,0,143,2,50,0
-11,Shalla,56,0,72,0,4,0
-12,Sunamganj Sadar,14,1,7,5,5,0
-13,Tahirpur,8,0,80,0,12,0
-14,Total,421,39,1601,42,428,5
+1,Sunamganj,,,,,,
+2,,,,,,,
+3,Upazila,Bridge,Bailey bridge,Culvert,Pool,Shako,others
+4,Bishwamvarpur,40,4,216,0,20,0
+5,Chhatak,169,5,217,0,15,0
+6,Dakshin Sunamganj,60,24,0,0,0,0
+7,Derai,10,0,217,0,97,0
+8,Dharmapasha,5,1,30,3,20,0
+9,Doarabazar,40,1,500,30,50,0
+10,Jagannathpur,10,3,99,0,140,5
+11,Jamalganj,7,0,143,2,50,0
+12,Shalla,56,0,72,0,4,0
+13,Sunamganj Sadar,14,1,7,5,5,0
+14,Tahirpur,8,0,80,0,12,0
+15,Total,421,39,1601,42,428,5

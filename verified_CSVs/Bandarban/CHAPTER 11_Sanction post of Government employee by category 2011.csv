@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Sanction post of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
-3,Alikadam,31,18,247,99,395
-4,Bandarban Sadar,33,21,187,69,310
-5,Lama,34,39,354,161,588
-6,Naikhongchhari,31,26,165,75,297
-7,Rowangchhari,30,18,157,77,282
-8,Ruma,31,26,165,75,297
-9,Thanchi,23,22,202,45,292
-10,Total,213,170,1477,601,2461
+1,Bandarban,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
+4,Alikadam,31,18,247,99,395
+5,Bandarban Sadar,33,21,187,69,310
+6,Lama,34,39,354,161,588
+7,Naikhongchhari,31,26,165,75,297
+8,Rowangchhari,30,18,157,77,282
+9,Ruma,31,26,165,75,297
+10,Thanchi,23,22,202,45,292
+11,Total,213,170,1477,601,2461

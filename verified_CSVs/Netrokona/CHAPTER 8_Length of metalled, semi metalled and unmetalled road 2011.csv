@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
-1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
-3,Atpara,55.5,8.39,232.71,296.6
-4,Barhatta,40,10,446,496
-5,Durgapur,62.95,22.11,381.35,466.41
-6,Kalmakanda,53.29,5.5,610.34,672.13
-7,Kendua,82,1,536,619
-8,Khaliajuri,24.59,119.02,187.07,330.68
-9,Madan,75,10,237,322
-10,Mohanganj,78,4,205,291.29
-11,Netrokona Sadar,86.44,5.44,613.92,705.59
-12,Purbadhala,60,3,663,726
-13,Total,617.77,188.46,4112.39,4925.7
+1,Netrokona,,,,
+2,(Kilometer),,,,
+3,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
+4,Atpara,55.5,8.39,232.71,296.6
+5,Barhatta,40,10,446,496
+6,Durgapur,62.95,22.11,381.35,466.41
+7,Kalmakanda,53.29,5.5,610.34,672.13
+8,Kendua,82,1,536,619
+9,Khaliajuri,24.59,119.02,187.07,330.68
+10,Madan,75,10,237,322
+11,Mohanganj,78,4,205,291.29
+12,Netrokona Sadar,86.44,5.44,613.92,705.59
+13,Purbadhala,60,3,663,726
+14,Total,617.77,188.46,4112.39,4925.7

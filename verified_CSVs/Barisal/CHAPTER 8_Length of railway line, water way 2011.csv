@@ -1,16 +1,17 @@
 ,0,1,2,3
 0,"Length of railway line, water way 2011",,,
-1,(Kilometer),,,
-2,Upazila/city corporation,"Total railway line (b.g., m.g.  duel gage)",Water way in monsoon (river + canal),Water way in round the year (river + canal)
-3,Agailjhara,0,82,182
-4,Babuganj,0,269,172
-5,Bakerganj,0,167,120
-6,Banaripara,0,690,410
-7,Barisal city corporation,0,18,6
-8,Barisal sadar,0,276,148
-9,Gaurnadi,0,545,215
-10,Hizla,0,270,180
-11,Mehendiganj,0,500,400
-12,Muladi,0,30,20
-13,Wazirpur,0,250,240
-14,Total,0,3097,2093
+1,Barisal,,,
+2,(Kilometer),,,
+3,Upazila/city corporation,"Total railway line (b.g., m.g.  duel gage)",Water way in monsoon (river + canal),Water way in round the year (river + canal)
+4,Agailjhara,0,82,182
+5,Babuganj,0,269,172
+6,Bakerganj,0,167,120
+7,Banaripara,0,690,410
+8,Barisal city corporation,0,18,6
+9,Barisal Sadar,0,276,148
+10,Gaurnadi,0,545,215
+11,Hizla,0,270,180
+12,Mehendiganj,0,500,400
+13,Muladi,0,30,20
+14,Wazirpur,0,250,240
+15,Total,0,3097,2093

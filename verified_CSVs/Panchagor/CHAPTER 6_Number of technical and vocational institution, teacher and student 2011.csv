@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of technical and vocational institution, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila,Institution,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Panchagarh Sadar,1,28,3,31,219,96,315,10
-4,Atwari,2,16,2,18,267,65,332,18
-5,Boda,6,28,4,32,285,80,365,11
-6,Debiganj,3,15,5,20,140,100,240,12
-7,Tentulia,1,3,0,3,70,10,80,27
-8,Total,13,90,14,104,981,351,1332,13
+1,Panchagor,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Institution,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Panchagarh Sadar,1,28,3,31,219,96,315,10
+5,Atwari,2,16,2,18,267,65,332,18
+6,Boda,6,28,4,32,285,80,365,11
+7,Debiganj,3,15,5,20,140,100,240,12
+8,Tentulia,1,3,0,3,70,10,80,27
+9,Total,13,90,14,104,981,351,1332,13

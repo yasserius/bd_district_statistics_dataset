@@ -1,7 +1,8 @@
 ,0,1,2,3,4
 0,Number of cinema hall and audience capacity by municipality 2011,,,,
-1,,,,,
-2,Municipality,Number of cinema hall,Seating capacity,Show per day,Attendance (daily average)
-3,Kalaroa,2,1950,2,250
-4,Satkhira,3,1700,3,550
-5,Total,5,3650,3,400
+1,Satkhira,,,,
+2,,,,,
+3,Municipality,Number of cinema hall,Seating capacity,Show per day,Attendance (daily average)
+4,Kalaroa,2,1950,2,250
+5,Satkhira,3,1700,3,550
+6,Total,5,3650,3,400

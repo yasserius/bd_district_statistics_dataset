@@ -1,16 +1,17 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,,,,,
-2,Upazila,Number of pumps fielded Electric,Number of pumps fielded Diesel,Number of pumps fielded Total,Area irrigated (in acre)
-3,Bishwamvarpur,6,700,706,8645
-4,Chhatak,0,147,147,319
-5,Dakshin Sunamganj,0,2,2,50
-6,Derai,5,2250,2255,24410
-7,Dharmapasha,3,1923,1926,36803
-8,Doarabazar,23,458,481,14490
-9,Jagannathpur,2,825,827,18270
-10,Jamalganj,6,6,12,290
-11,Shalla,7,1520,1527,48000
-12,Sunamganj Sadar,23,1072,1095,26720
-13,Tahirpur,33,120,153,1550
-14,Total,108,9023,9131,179547
+1,Sunamganj,,,,
+2,,,,,
+3,Upazila,Number of pumps fielded Electric,Number of pumps fielded Diesel,Number of pumps fielded Total,Area irrigated (in acre)
+4,Bishwamvarpur,6,700,706,8645
+5,Chhatak,0,147,147,319
+6,Dakshin Sunamganj,0,2,2,50
+7,Derai,5,2250,2255,24410
+8,Dharmapasha,3,1923,1926,36803
+9,Doarabazar,23,458,481,14490
+10,Jagannathpur,2,825,827,18270
+11,Jamalganj,6,6,12,290
+12,Shalla,7,1520,1527,48000
+13,Sunamganj Sadar,23,1072,1095,26720
+14,Tahirpur,33,120,153,1550
+15,Total,108,9023,9131,179547

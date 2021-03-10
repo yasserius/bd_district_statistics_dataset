@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Non-government college, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of  college,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Kushtia Sadar,16,343,123,466,5698,6424,12122,26
-4,Bheramara,4,109,28,137,2163,1770,3933,29
-5,Daulatpur,15,490,145,635,3700,2900,6600,45.51
-6,Khoksa,4,117,25,142,1256,1200,2456,17
-7,Kumarkhali,9,290,43,333,2952,1923,4875,15
-8,Mirpur,11,218,42,260,1754,1915,3669,14
-9,Total,59,1567,406,1973,17523,16132,33655,17
+1,Kushtia,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of  college,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Kushtia Sadar,16,343,123,466,5698,6424,12122,26
+5,Bheramara,4,109,28,137,2163,1770,3933,29
+6,Daulatpur,15,490,145,635,3700,2900,6600,45.51
+7,Khoksa,4,117,25,142,1256,1200,2456,17
+8,Kumarkhali,9,290,43,333,2952,1923,4875,15
+9,Mirpur,11,218,42,260,1754,1915,3669,14
+10,Total,59,1567,406,1973,17523,16132,33655,17

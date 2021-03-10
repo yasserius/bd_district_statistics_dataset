@@ -1,17 +1,18 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
-1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
-3,Bhaluka,124,19,729,872
-4,Dhobaura,35,15,340,390
-5,Fulbaria,125,0,651,776
-6,Gaffargaon,129,0,1079,1208
-7,Gauripur,74,0,681,755
-8,Haluaghat,84,29,819,927
-9,Ishwargonj,181,0,303,484
-10,Muktagacha,219,2,910,1131
-11,Mymensingh Sadar,166,4,968,1138
-12,Nandail,97,77,553,727
-13,Phulpur,105,3,1007,1115
-14,Trishal,160,5,759,924
-15,Total,1498,154,8800,10447
+1,Mymensingh,,,,
+2,(Kilometer),,,,
+3,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
+4,Bhaluka,124,19,729,872
+5,Dhobaura,35,15,340,390
+6,Fulbaria,125,0,651,776
+7,Gaffargaon,129,0,1079,1208
+8,Gauripur,74,0,681,755
+9,Haluaghat,84,29,819,927
+10,Ishwargonj,181,0,303,484
+11,Muktagacha,219,2,910,1131
+12,Mymensingh Sadar,166,4,968,1138
+13,Nandail,97,77,553,727
+14,Phulpur,105,3,1007,1115
+15,Trishal,160,5,759,924
+16,Total,1498,154,8800,10447

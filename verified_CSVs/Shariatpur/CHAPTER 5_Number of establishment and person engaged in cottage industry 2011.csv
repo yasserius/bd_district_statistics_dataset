@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of establishment and person engaged in cottage industry 2011,,,,
-1,,,,,
-2, Upazila, Number of unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Bhedarganj,226,435,482,917
-4,Damudya,30,65,0,65
-5,Gosairhat,330,495,660,1155
-6,Naria,0,0,0,0
-7,Shariatpur Sadar,360,1098,411,1509
-8,Zanjira,414,859,255,1114
-9,Total,1360,2952,1808,4760
+1,Shariatpur,,,,
+2,,,,,
+3, Upazila, Number of unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Bhedarganj,226,435,482,917
+5,Damudya,30,65,0,65
+6,Gosairhat,330,495,660,1155
+7,Naria,0,0,0,0
+8,Shariatpur Sadar,360,1098,411,1509
+9,Zanjira,414,859,255,1114
+10,Total,1360,2952,1808,4760

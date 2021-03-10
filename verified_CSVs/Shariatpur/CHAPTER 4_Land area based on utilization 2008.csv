@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization 2008,,,,,
-1,,,,,,
-2, Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area, Others
-3,Bhedarganj,51170,1968,35548,3963,13654
-4,Damudya,17239,1532,11801,21,3826
-5,Gosairhat,26762,2148,18993,158,16845
-6,Naria,35069,2466,21702,2953,19236
-7,Shariatpur Sadar,32377,1511,22441,54,20730
-8,Zanjira,33397,899,23301,2201,22402
-9,Total,196013,10524,133866,9350,96693
+1,Shariatpur,,,,,
+2,,,,,,
+3, Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area, Others
+4,Bhedarganj,51170,1968,35548,3963,13654
+5,Damudya,17239,1532,11801,21,3826
+6,Gosairhat,26762,2148,18993,158,16845
+7,Naria,35069,2466,21702,2953,19236
+8,Shariatpur Sadar,32377,1511,22441,54,20730
+9,Zanjira,33397,899,23301,2201,22402
+10,Total,196013,10524,133866,9350,96693

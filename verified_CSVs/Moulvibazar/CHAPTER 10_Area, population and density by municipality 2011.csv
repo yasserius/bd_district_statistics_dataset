@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Area, population and density by municipality 2011",,,,,,
-1,,,,,,,
-2, Upazila,Name of municipality,Area (In sq. km.),Population census-2011 - Male,Population census-2011 - Female,Population census-2011 - Total,Density per sq.km.
-3,Barlekha,Barlekha,10.5,11145,11102,22247,2119
-4,Juri,-,0,0,0,0,0
-5,Kamalganj,Kamalganj,9.83,8460,8418,16878,1717
-6,Kulaura,Kulaura,11.25,13055,13095,26150,2324
-7,Moulvibazar Sadar,Moulvibazar,10.36,29615,26922,56537,5457
-8,Rajnagar,-,0,0,0,0,0
-9,Sreemangal,Sreemangal,12.3,11814,11277,23031,1872
-10,Total,-,54.24,74089,70814,144843,2670
+1,Moulvibazar,,,,,,
+2,,,,,,,
+3, Upazila,Name of municipality,Area (In sq. km.),Population census-2011 - Male,Population census-2011 - Female,Population census-2011 - Total,Density per sq.km.
+4,Barlekha,Barlekha,10.5,11145,11102,22247,2119
+5,Juri,-,0,0,0,0,0
+6,Kamalganj,Kamalganj,9.83,8460,8418,16878,1717
+7,Kulaura,Kulaura,11.25,13055,13095,26150,2324
+8,Moulvibazar Sadar,Moulvibazar,10.36,29615,26922,56537,5457
+9,Rajnagar,-,0,0,0,0,0
+10,Sreemangal,Sreemangal,12.3,11814,11277,23031,1872
+11,Total,-,54.24,74089,70814,144843,2670

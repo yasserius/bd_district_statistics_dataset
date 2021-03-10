@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7
 0,Irrigation by means 2010-2011,,,,,,,
-1,(In acre),,,,,,,
-2, Upazila,Irrigation management - Power pump,Irrigation management - Tube well,Irrigation management - Doon,Irrigation management - Swing basket,Irrigation management - Canal,Irrigation management - Others, Total
-3,Begumganj,5010,413,0,0,0,0,40000
-4,Chatkhil,2357,0,0,0,0,0,16100
-5,Companiganj,1056,115,210,85,0,100,7067
-6,Hatiya,1091,0,0,200,0,0,205
-7,Kabirhat,732,0,0,0,0,0,10621
-8,Noakhali Sadar,1605,30,40,32,0,160,35972
-9,Senbagh,9599,0,0,0,0,0,14841
-10,Sonaimuri,1885,0,0,0,0,0,22586
-11,Subarnachar,461,0,0,0,0,0,1450
-12,Total,23796,558,250,317,0,260,148842
+1,Noakhali,,,,,,,
+2,(In acre),,,,,,,
+3,Upazila,Irrigation management - Power pump,Irrigation management - Tube well,Irrigation management - Doon,Irrigation management - Swing basket,Irrigation management - Canal,Irrigation management - Others, Total
+4,Begumganj,5010,413,0,0,0,0,40000
+5,Chatkhil,2357,0,0,0,0,0,16100
+6,Companiganj,1056,115,210,85,0,100,7067
+7,Hatiya,1091,0,0,200,0,0,205
+8,Kabirhat,732,0,0,0,0,0,10621
+9,Noakhali Sadar,1605,30,40,32,0,160,35972
+10,Senbagh,9599,0,0,0,0,0,14841
+11,Sonaimuri,1885,0,0,0,0,0,22586
+12,Subarnachar,461,0,0,0,0,0,1450
+13,Total,23796,558,250,317,0,260,148842

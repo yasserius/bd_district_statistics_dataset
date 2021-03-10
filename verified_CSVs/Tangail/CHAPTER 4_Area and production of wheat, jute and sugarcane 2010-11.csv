@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of wheat, jute and sugarcane 2010-11",,,,,,
-1,(Area in acres  production in metric tons),,,,,,
-2,Upazila,Wheat Area,Wheat Production,Jute Area,Jute Production,Sugarcane Area,Sugarcane Production
-3,Basail,93,74,1717,1614,34,513
-4,Bhuapur,1600,1048,10458,11348,390,6109
-5,Delduar,900,754,3657,3980,371,6992
-6,Dhanbari,258,237,1185,934,17,340
-7,Ghatail,393,289,4969,4155,2,1639
-8,Gopalpur,125,116,5187,3133,10,135
-9,Kalihati,875,674,63,4609,135,6075
-10,Madhupur,369,340,986,680,746,14925
-11,Mirzapur,1325,533,4313,2958,1380,20830
-12,Nagarpur,6330,7696,7726,6434,658,9944
-13,Sakhipur,403,372,689,422,135,3190
-14,Tangail Sadar,3125,3153,9612,38105,750,14700
-15,Total,15796,15286,50562,78373,4628,85392
+1,Tangail,,,,,,
+2,(Area in acres  production in metric tons),,,,,,
+3,Upazila,Wheat Area,Wheat Production,Jute Area,Jute Production,Sugarcane Area,Sugarcane Production
+4,Basail,93,74,1717,1614,34,513
+5,Bhuapur,1600,1048,10458,11348,390,6109
+6,Delduar,900,754,3657,3980,371,6992
+7,Dhanbari,258,237,1185,934,17,340
+8,Ghatail,393,289,4969,4155,2,1639
+9,Gopalpur,125,116,5187,3133,10,135
+10,Kalihati,875,674,63,4609,135,6075
+11,Madhupur,369,340,986,680,746,14925
+12,Mirzapur,1325,533,4313,2958,1380,20830
+13,Nagarpur,6330,7696,7726,6434,658,9944
+14,Sakhipur,403,372,689,422,135,3190
+15,Tangail Sadar,3125,3153,9612,38105,750,14700
+16,Total,15796,15286,50562,78373,4628,85392

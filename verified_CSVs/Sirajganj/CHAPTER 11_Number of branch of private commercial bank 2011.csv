@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Belkuchi,7,101,9138,4485
-4,Chauhali,1,17,1981,397
-5,Kamarkhanda,0,0,0,0
-6,Kazipur,2,18,2954,26
-7,Royganj,1,9,2794,932
-8,Shahjadpur,8,161,32017,4516
-9,Sirajganj Sadar,12,200,68560,19921
-10,Tarash,1,9,3563,453
-11,Ullahpara,1,22,3609,357
-12,Total,33,537,124616,31087
+1,Sirajganj,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Belkuchi,7,101,9138,4485
+5,Chauhali,1,17,1981,397
+6,Kamarkhanda,0,0,0,0
+7,Kazipur,2,18,2954,26
+8,Royganj,1,9,2794,932
+9,Shahjadpur,8,161,32017,4516
+10,Sirajganj Sadar,12,200,68560,19921
+11,Tarash,1,9,3563,453
+12,Ullahpara,1,22,3609,357
+13,Total,33,537,124616,31087

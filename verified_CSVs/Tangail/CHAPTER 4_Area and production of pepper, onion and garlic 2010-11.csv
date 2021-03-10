@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic 2010-11",,,,,,
-1,(Area in acres  production in metric tons),,,,,,
-2,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
-3,Basail,27,11,19,34,23,37
-4,Bhuapur,1183,376.66,878,1630.84,951,1388.81
-5,Delduar,30,10,43,49,35,30
-6,Dhanbari,201,59.73,173,415.20,45,59.85
-7,Ghatail,185,59,67.50,111.33,45,58.50
-8,Gopalpur,415,207.60,104,214.50,50,83.25
-9,Kalihati,100,40,1325,397.50,75,186
-10,Madhupur,222.10,86.20,62,148.10,40,53.27
-11,Mirzapur,300,85,85,159,40,54
-12,Nagarpur,275,104,350,700,70,102
-13,Sakhipur,428,145,71,123,15,27
-14,Tangail Sadar,292,96,425,95,223,329
-15,Total,3658.10,1280.19,3602.50,4077.47,1612,2408.68
+1,Tangail,,,,,,
+2,(Area in acres  production in metric tons),,,,,,
+3,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
+4,Basail,27,11,19,34,23,37
+5,Bhuapur,1183,376.66,878,1630.84,951,1388.81
+6,Delduar,30,10,43,49,35,30
+7,Dhanbari,201,59.73,173,415.20,45,59.85
+8,Ghatail,185,59,67.50,111.33,45,58.50
+9,Gopalpur,415,207.60,104,214.50,50,83.25
+10,Kalihati,100,40,1325,397.50,75,186
+11,Madhupur,222.10,86.20,62,148.10,40,53.27
+12,Mirzapur,300,85,85,159,40,54
+13,Nagarpur,275,104,350,700,70,102
+14,Sakhipur,428,145,71,123,15,27
+15,Tangail Sadar,292,96,425,95,223,329
+16,Total,3658.10,1280.19,3602.50,4077.47,1612,2408.68

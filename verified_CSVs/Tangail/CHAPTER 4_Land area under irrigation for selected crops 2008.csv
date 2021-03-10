@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6
 0,Land area under irrigation for selected crops 2008,,,,,,
-1,(In acres),,,,,,
-2,Upazila,All Paddy Total area,All Paddy Irrigated area,Wheat Total area,Wheat Irrigated area,Potato Total area,Potato Irrigated area
-3,Basail,27300,27205,93,10,149,130
-4,Bhuapur,40981,20020,1600,865,285,110
-5,Delduar,24043,24043,289,203,2344,1252
-6,Dhanbari,43644,33560,317,280,1232,560
-7,Ghatail,55309,55309,885,885,388,130
-8,Gopalpur,59844,34622,387,295,776,110
-9,Kalihati,45339,45250,740,220,532,320
-10,Madhupur,61488,57560,1621,1600,447,325
-11,Mirzapur,76792,53810,1496,200,834,250
-12,Nagarpur,31750,30864,556,340,782,369
-13,Sakhipur,86190,27635,1380,1380,198,175
-14,Tangail Sadar,42436,27890,1023,310,550,87
-15,Total,595116,437768,10387,6588,8517,3818
+1,Tangail,,,,,,
+2,(In acres),,,,,,
+3,Upazila,All Paddy Total area,All Paddy Irrigated area,Wheat Total area,Wheat Irrigated area,Potato Total area,Potato Irrigated area
+4,Basail,27300,27205,93,10,149,130
+5,Bhuapur,40981,20020,1600,865,285,110
+6,Delduar,24043,24043,289,203,2344,1252
+7,Dhanbari,43644,33560,317,280,1232,560
+8,Ghatail,55309,55309,885,885,388,130
+9,Gopalpur,59844,34622,387,295,776,110
+10,Kalihati,45339,45250,740,220,532,320
+11,Madhupur,61488,57560,1621,1600,447,325
+12,Mirzapur,76792,53810,1496,200,834,250
+13,Nagarpur,31750,30864,556,340,782,369
+14,Sakhipur,86190,27635,1380,1380,198,175
+15,Tangail Sadar,42436,27890,1023,310,550,87
+16,Total,595116,437768,10387,6588,8517,3818

@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila/City corporation,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
-3,Balaganj,0,0,0,0,0,0
-4,Beanibazar,57,85,0,0,0,0
-5,Bishwanath,17,17,0,0,0,0
-6,Companiganj,35,34,0,0,0,0
-7,Dakhin surma,89,26,0,0,0,0
-8,Fenchuganj,73,18,11,22,3,3
-9,Golapganj,45,30,0,0,0,0
-10,Gowainghat,276,74,67,60,25,26
-11,Jaintiapur,32,1,19,8,0,0
-12,Kanaighat,355,90,50,35,0,0
-13,Sylhet city corporation,0,0,0,0,0,0
-14,Sylhet sadar,148,111,17,33,3,4
-15,Zakiganj,74,55,0,0,0,0
-16,Total,1201,541,164,158,31,33
+1,Sylhet,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila/City Corporation,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
+4,Balaganj,0,0,0,0,0,0
+5,Beanibazar,57,85,0,0,0,0
+6,Bishwanath,17,17,0,0,0,0
+7,Companiganj,35,34,0,0,0,0
+8,Dakhin Surma,89,26,0,0,0,0
+9,Fenchuganj,73,18,11,22,3,3
+10,Golapganj,45,30,0,0,0,0
+11,Gowainghat,276,74,67,60,25,26
+12,Jaintiapur,32,1,19,8,0,0
+13,Kanaighat,355,90,50,35,0,0
+14,Sylhet City Corporation,0,0,0,0,0,0
+15,Sylhet Sadar,148,111,17,33,3,4
+16,Zakiganj,74,55,0,0,0,0
+17,Total,1201,541,164,158,31,33

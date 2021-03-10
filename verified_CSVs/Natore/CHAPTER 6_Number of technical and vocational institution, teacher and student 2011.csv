@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of technical and vocational institution, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila, Institution,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Bagatipara,0,0,0,0,0,0,0,0
-4,Baraigram,2,35,6,41,959,179,1138,28
-5,Gurudaspur,8,50,9,59,784,177,961,16
-6,Lalpur,1,7,3,10,95,10,105,11
-7,Natore Sadar,4,20,3,23,260,130,390,17
-8,Singra,2,20,5,25,1875,602,2477,99
-9,Total,17,132,26,158,3973,1098,5071,32
+1,Natore,,,,,,,,
+2,,,,,,,,,
+3, Upazila, Institution,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Bagatipara,0,0,0,0,0,0,0,0
+5,Baraigram,2,35,6,41,959,179,1138,28
+6,Gurudaspur,8,50,9,59,784,177,961,16
+7,Lalpur,1,7,3,10,95,10,105,11
+8,Natore Sadar,4,20,3,23,260,130,390,17
+9,Singra,2,20,5,25,1875,602,2477,99
+10,Total,17,132,26,158,3973,1098,5071,32

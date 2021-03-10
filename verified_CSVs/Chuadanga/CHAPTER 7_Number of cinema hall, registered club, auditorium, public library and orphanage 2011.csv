@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,,,,,,
-2,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
-3,Alamdanga,5,40,1,9,1
-4,Chuadanga Sadar,3,7,2,1,1
-5,Damurhuda,1,20,2,1,1
-6,Jibonnagar,1,3,1,1,1
-7,Total,10,70,6,12,4
+1,Chuadanga,,,,,
+2,,,,,,
+3,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
+4,Alamdanga,5,40,1,9,1
+5,Chuadanga Sadar,3,7,2,1,1
+6,Damurhuda,1,20,2,1,1
+7,Jibonnagar,1,3,1,1,1
+8,Total,10,70,6,12,4

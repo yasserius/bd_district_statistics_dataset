@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Government health complex  health facility 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2,  Upazila,Number of hospital/ Clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of technician, Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
-3,Austagram,1,31,7,4,4,40,1968,1762,42242,61818
-4,Bajitpur,1,31,15,10,4,92,2285,2236,23304,90546
-5,Bhairab,1,50,28,19,10,48,5054,8966,28428,52139
-6,Hossainpur,1,50,15,10,4,93,3407,3539,32216,30843
-7,Itna,1,31,6,2,0,72,1720,2125,3000,5032
-8,Karimganj,1,50,16,20,4,95,1807,2003,14360,11340
-9,Katiadi,1,50,9,12,5,48,45310,858440,5010,6200
-10,Kishoreganj Sadar,1,250,59,49,8,67,9472,9728,46384,47216
-11,Kuliar-char,1,31,15,10,5,84,1426,1305,45499,51651
-12,Mithamain,14,31,15,9,5,66,1047,879,37394,67721
-13,Nikli,1,31,8,4,57,122,57000,53000,42000,38000
-14,Pakundia,1,50,17,11,0,101,5400,7397,8500,10002
-15,Tarail,1,50,10,7,13,71,2905,2271,33063,33263
-16,Total,26,736,220,167,119,999,138801,953651,361400,505771
+1,Kishoreganj,,,,,,,,,,
+2,,,,,,,,,,,
+3,  Upazila,Number of hospital/ Clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of technician, Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
+4,Austagram,1,31,7,4,4,40,1968,1762,42242,61818
+5,Bajitpur,1,31,15,10,4,92,2285,2236,23304,90546
+6,Bhairab,1,50,28,19,10,48,5054,8966,28428,52139
+7,Hossainpur,1,50,15,10,4,93,3407,3539,32216,30843
+8,Itna,1,31,6,2,0,72,1720,2125,3000,5032
+9,Karimganj,1,50,16,20,4,95,1807,2003,14360,11340
+10,Katiadi,1,50,9,12,5,48,45310,858440,5010,6200
+11,Kishoreganj Sadar,1,250,59,49,8,67,9472,9728,46384,47216
+12,Kuliar-char,1,31,15,10,5,84,1426,1305,45499,51651
+13,Mithamain,14,31,15,9,5,66,1047,879,37394,67721
+14,Nikli,1,31,8,4,57,122,57000,53000,42000,38000
+15,Pakundia,1,50,17,11,0,101,5400,7397,8500,10002
+16,Tarail,1,50,10,7,13,71,2905,2271,33063,33263
+17,Total,26,736,220,167,119,999,138801,953651,361400,505771

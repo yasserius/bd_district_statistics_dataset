@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Population by religion 2011,,,,,,
-1,,,,,,,
-2,Upazila,Muslim,Hindu,Buddhist,Christian,Others,Total
-3,Belabo,184969,5094,0,1,22,190086
-4,Manohardi,262302,12732,17,6,55,275112
-5,Narsingdi Sadar,655494,91928,31,61,11,707525
-6,Palash,188847,23678,8,66,13,212612
-7,Roypura,515579,20199,2,10,6,535796
-8,Sibpur,291638,12138,7,7,23,303813
-9,Total,2098829,165769,65,151,130,2224944
+1,Narsingdi,,,,,,
+2,,,,,,,
+3,Upazila,Muslim,Hindu,Buddhist,Christian,Others,Total
+4,Belabo,184969,5094,0,1,22,190086
+5,Manohardi,262302,12732,17,6,55,275112
+6,Narsingdi Sadar,655494,91928,31,61,11,707525
+7,Palash,188847,23678,8,66,13,212612
+8,Roypura,515579,20199,2,10,6,535796
+9,Shibpur,291638,12138,7,7,23,303813
+10,Total,2098829,165769,65,151,130,2224944

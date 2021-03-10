@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting selected livestock species 2008,,,,,,
-1,,,,,,,
-2, Upazila,Cow  buffalo - Holding number,Cow  buffalo - Number of animal,Goat - Holding number,Goat - Number of goat,Sheep - Holding number,Sheep - Number of sheep
-3,Barlekha,15744,46760,6175,16052,411,1601
-4,Juri,7775,24285,4417,11753,91,493
-5,Kamalganj,18159,49539,12155,30769,0,1915
-6,Kulaura,19375,56324,11431,28671,259,1599
-7,Moulvibazar Sadar,17105,56908,8164,21184,2680,3170
-8,Rajnagar,15952,47033,6966,17368,147,736
-9,Sreemangal,17968,49497,11675,28850,0,1386
-10,Total,112078,330346,60983,154647,3588,10900
+1,Moulvibazar,,,,,,
+2,,,,,,,
+3, Upazila,Cow  buffalo - Holding number,Cow  buffalo - Number of animal,Goat - Holding number,Goat - Number of goat,Sheep - Holding number,Sheep - Number of sheep
+4,Barlekha,15744,46760,6175,16052,411,1601
+5,Juri,7775,24285,4417,11753,91,493
+6,Kamalganj,18159,49539,12155,30769,0,1915
+7,Kulaura,19375,56324,11431,28671,259,1599
+8,Moulvibazar Sadar,17105,56908,8164,21184,2680,3170
+9,Rajnagar,15952,47033,6966,17368,147,736
+10,Sreemangal,17968,49497,11675,28850,0,1386
+11,Total,112078,330346,60983,154647,3588,10900

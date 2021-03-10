@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
-1,(According to Agriculture Census 2008),,,,
-2,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
-3,Gopalganj Sadar,38707,39631,18423,5783
-4,Kashiani,30586,28415,15169,1834
-5,Kotalipara,36690,29295,15338,645
-6,Muksudpur,37728,40588,14571,1875
-7,Tungipara,12751,13069,5018,840
-8,Total,156462,150998,68519,10977
+1,Gopalgonj,,,,
+2,(According to Agriculture Census 2008),,,,
+3,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
+4,Gopalganj Sadar,38707,39631,18423,5783
+5,Kashiani,30586,28415,15169,1834
+6,Kotalipara,36690,29295,15338,645
+7,Muksudpur,37728,40588,14571,1875
+8,Tungipara,12751,13069,5018,840
+9,Total,156462,150998,68519,10977

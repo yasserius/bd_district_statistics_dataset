@@ -1,10 +1,11 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,,,,
-2, Upazila, Number of power tiller, Tractor,Number of threshing machine
-3,Gopalganj Sadar,880,6,1650
-4,Kashiani,190,0,415
-5,Kotalipara,240,0,520
-6,Muksudpur,680,18,1286
-7,Tungipara,160,2,100
-8,Total,2150,26,3971
+1,Gopalgonj,,,
+2,,,,
+3, Upazila, Number of power tiller, Tractor,Number of threshing machine
+4,Gopalganj Sadar,880,6,1650
+5,Kashiani,190,0,415
+6,Kotalipara,240,0,520
+7,Muksudpur,680,18,1286
+8,Tungipara,160,2,100
+9,Total,2150,26,3971

@@ -1,20 +1,21 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
-1,(According to Agriculture Census 2008),,,,
-2,Upazila/City corporation,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
-3,Anowara,21103,29599,9971,1916
-4,Banshkhali,33818,59204,14604,5391
-5,Boalkhali,11903,30550,3794,779
-6,Chandanaish,16172,27964,7120,4533
-7,Chittagong City Corp,28452,292394,25454,143198
-8,Fatikchhari,40327,60627,14394,7003
-9,Hathazari,16089,55311,7105,4251
-10,Lohagara,22975,39090,8590,1857
-11,Mirsharai,35814,57525,15470,4420
-12,Patiya,26671,53629,11436,3468
-13,Rangunia,27710,40550,12407,6091
-14,Raozan,18297,47414,8170,1756
-15,Sandwip,22960,39241,5782,4204
-16,Satkania,29076,55426,12630,2373
-17,Sitakunda,16147,42495,8408,11240
-18,Total,367514,931019,165335,202480
+1,Chittagong,,,,
+2,(According to Agriculture Census 2008),,,,
+3,Upazila/City corporation,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
+4,Anowara,21103,29599,9971,1916
+5,Banshkhali,33818,59204,14604,5391
+6,Boalkhali,11903,30550,3794,779
+7,Chandanaish,16172,27964,7120,4533
+8,Chittagong City Corporation,28452,292394,25454,143198
+9,Fatikchhari,40327,60627,14394,7003
+10,Hathazari,16089,55311,7105,4251
+11,Lohagara,22975,39090,8590,1857
+12,Mirsharai,35814,57525,15470,4420
+13,Patiya,26671,53629,11436,3468
+14,Rangunia,27710,40550,12407,6091
+15,Raozan,18297,47414,8170,1756
+16,Sandwip,22960,39241,5782,4204
+17,Satkania,29076,55426,12630,2373
+18,Sitakunda,16147,42495,8408,11240
+19,Total,367514,931019,165335,202480

@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5
 0,Number of family planning clinical centre by municipality 2011,,,,,
-1,,,,,,
-2, Upazila,Sterilization centre, Mobile centre, Injection centre,Menstrual regularization centre,Family welfare centre
-3,Bandar,0,0,4,4,0
-4,Narayanganj Sadar,5,0,12,9,3
-5,Rupganj,2,0,546,2,3
-6,Total,7,0,562,15,6
+1,Narayanganj,,,,,
+2,,,,,,
+3, Upazila,Sterilization centre, Mobile centre, Injection centre,Menstrual regularization centre,Family welfare centre
+4,Bandar,0,0,4,4,0
+5,Narayanganj Sadar,5,0,12,9,3
+6,Rupganj,2,0,546,2,3
+7,Total,7,0,562,15,6

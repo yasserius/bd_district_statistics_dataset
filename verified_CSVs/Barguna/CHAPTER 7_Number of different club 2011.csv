@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of different club 2011,,,,
-1,,,,,
-2,Upazila,Sports club,Cultural club,Science club,Other social club
-3,Amtali,0,0,0,1
-4,Bamna,4,1,0,1
-5,Barguna Sadar,1,0,0,2
-6,Betagi,31,43,0,1
-7,Patharghata,0,0,0,46
-8,Total,36,44,0,51
+1,Barguna,,,,
+2,,,,,
+3,Upazila,Sports club,Cultural club,Science club,Other social club
+4,Amtali,0,0,0,1
+5,Bamna,4,1,0,1
+6,Barguna Sadar,1,0,0,2
+7,Betagi,31,43,0,1
+8,Patharghata,0,0,0,46
+9,Total,36,44,0,51

@@ -1,20 +1,21 @@
 ,0,1,2,3,4,5
 0,Existing position of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila/City corporation,Class-I,Class-II,Class-III,Class-IV,Number of employee
-3,Anowara,43,16,308,87,454
-4,Banshkhali,36,30,361,76,503
-5,Boalkhali,75,15,965,55,1110
-6,Chandanaish,82,16,659,113,870
-7,Chittagong City Corp.,794,1087,4509,3398,9784
-8,Fatikchhari,17,43,996,157,1213
-9,Hathazari,78,7,976,40,1101
-10,Lohagara,35,5,154,62,256
-11,Mirsharai,65,48,1337,546,1996
-12,Patiya,65,125,240,112,542
-13,Rangunia,46,15,306,80,447
-14,Raozan,17,22,226,81,346
-15,Sandwip,12,18,125,60,215
-16,Satkania,72,9,807,76,964
-17,Sitakunda,66,23,373,218,680
-18,Total,1503,1479,12342,5161,20481
+1,Chittagong,,,,,
+2,,,,,,
+3,Upazila/City corporation,Class-I,Class-II,Class-III,Class-IV,Number of employee
+4,Anowara,43,16,308,87,454
+5,Banshkhali,36,30,361,76,503
+6,Boalkhali,75,15,965,55,1110
+7,Chandanaish,82,16,659,113,870
+8,Chittagong City Corporation,794,1087,4509,3398,9784
+9,Fatikchhari,17,43,996,157,1213
+10,Hathazari,78,7,976,40,1101
+11,Lohagara,35,5,154,62,256
+12,Mirsharai,65,48,1337,546,1996
+13,Patiya,65,125,240,112,542
+14,Rangunia,46,15,306,80,447
+15,Raozan,17,22,226,81,346
+16,Sandwip,12,18,125,60,215
+17,Satkania,72,9,807,76,964
+18,Sitakunda,66,23,373,218,680
+19,Total,1503,1479,12342,5161,20481

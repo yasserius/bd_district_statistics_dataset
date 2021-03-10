@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Bhandaria,31,7,10,5,74
-4,Kawkhali,31,6,10,7,11
-5,Mathbaria,1,50,15,14,124
-6,Nazirpur,31,5,10,7,74
-7,Nesarabad,50,9,14,21,94
-8,Pirojpur Sadar,100,21,40,6,28
-9,Zianagar,31,5,3,1,61
-10,Total,275,103,102,61,466
+1,Pirojpur,,,,,
+2,,,,,,
+3,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Bhandaria,31,7,10,5,74
+5,Kawkhali,31,6,10,7,11
+6,Mathbaria,1,50,15,14,124
+7,Nazirpur,31,5,10,7,74
+8,Nesarabad,50,9,14,21,94
+9,Pirojpur Sadar,100,21,40,6,28
+10,Zianagar,31,5,3,1,61
+11,Total,275,103,102,61,466

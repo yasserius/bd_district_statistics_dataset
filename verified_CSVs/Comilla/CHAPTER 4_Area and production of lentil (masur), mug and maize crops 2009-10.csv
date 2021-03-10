@@ -1,21 +1,22 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of lentil (masur), mug and maize crops 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Lentil (Masur) - Area,Lentil (Masur) - Production,Mug - Area,Mug - Production,Maize - Area,Maize - Production
-3,Adarsha Sadar,0,0,0,0,47,79
-4,Barura,21,5,8,1.6,8,10
-5,Brahmanpara,10,3,0,0,0,0
-6,Burichang,0,0,0,0,0,0
-7,Chandina,49,17,15,5.4,988,1840
-8,Chauddagram,25,11,0,0,0,0
-9,Comilla Sadar Dakshin,0,0,42,35,0,0
-10,Daudkandi,53,27,21,8,10890,19258
-11,Debidwar,0,0,0,0,116,53
-12,Homna,1432,638,0,0,12,30
-13,Laksam,2,1,0,0,0,0
-14,Monoharganj,29,5,0,0,0,0
-15,Meghna,350,161,0,0,247,285
-16,Muradnagar,973,316,0,0,25,22
-17,Nangalkot,3,2,0,0,0,0
-18,Titas,12,6,0,0,339,693
-19,Total,2959,1192,86,50,12672,22270
+1,Comilla,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Lentil (Masur) - Area,Lentil (Masur) - Production,Mug - Area,Mug - Production,Maize - Area,Maize - Production
+4,Adarsha Sadar,0,0,0,0,47,79
+5,Barura,21,5,8,1.6,8,10
+6,Brahmanpara,10,3,0,0,0,0
+7,Burichang,0,0,0,0,0,0
+8,Chandina,49,17,15,5.4,988,1840
+9,Chauddagram,25,11,0,0,0,0
+10,Comilla Sadar Dakshin,0,0,42,35,0,0
+11,Daudkandi,53,27,21,8,10890,19258
+12,Debidwar,0,0,0,0,116,53
+13,Homna,1432,638,0,0,12,30
+14,Laksam,2,1,0,0,0,0
+15,Monoharganj,29,5,0,0,0,0
+16,Meghna,350,161,0,0,247,285
+17,Muradnagar,973,316,0,0,25,22
+18,Nangalkot,3,2,0,0,0,0
+19,Titas,12,6,0,0,339,693
+20,Total,2959,1192,86,50,12672,22270

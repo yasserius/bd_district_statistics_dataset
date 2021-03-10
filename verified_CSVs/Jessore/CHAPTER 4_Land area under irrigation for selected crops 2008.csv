@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Land area under irrigation for selected crops 2008,,,,,,
-1,,,,,,,
-2,Upazila,Paddy - Total area,Paddy - Irrigated area,Wheat - Total area,Wheat - Irrigated area,Potato - Total area,Potato - Irrigated area
-3,Abhaynagar,48248,31685,299,299,84,84
-4,Bagherpara,66663,39250,792,792,133,133
-5,Chaugachha,53304,38749,636,636,555,555
-6,Jessore Sadar,86234,52382,1212,1212,822,822
-7,Jhikargachha,64025,42490,1450,1450,1189,1189
-8,Keshabpur,41354,29133,848,848,501,501
-9,Manirampur,89225,55448,1152,1152,546,546
-10,Sharsha,85316,51242,866,866,415,415
-11,Total,534368,340379,7255,7255,4247,4247
+1,Jessore,,,,,,
+2,,,,,,,
+3,Upazila,Paddy - Total area,Paddy - Irrigated area,Wheat - Total area,Wheat - Irrigated area,Potato - Total area,Potato - Irrigated area
+4,Abhaynagar,48248,31685,299,299,84,84
+5,Bagherpara,66663,39250,792,792,133,133
+6,Chaugachha,53304,38749,636,636,555,555
+7,Jessore Sadar,86234,52382,1212,1212,822,822
+8,Jhikargachha,64025,42490,1450,1450,1189,1189
+9,Keshabpur,41354,29133,848,848,501,501
+10,Manirampur,89225,55448,1152,1152,546,546
+11,Sharsha,85316,51242,866,866,415,415
+12,Total,534368,340379,7255,7255,4247,4247

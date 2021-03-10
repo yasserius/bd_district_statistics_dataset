@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,"Number of primary school (Class I-V), teacher and student by municipality 2011",,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Primary school - Govt.,Primary school - Non- govt.,Primary school - Total,Number of teacher - Govt.,Number of teacher - Non- govt.,Number of teacher - Total,Number of student - Govt.,Number of student - Non- govt.,Number of student - Total,Students per teacher
-3,Bauphal,3,1,4,30,4,34,1595,315,1910,56
-4,Galachipa,5,1,6,48,4,52,2700,250,2950,57
-5,Kalapara,2,2,4,13,16,29,303,283,586,20
-6,Patuakhali Sadar,14,5,19,100,20,120,3156,666,3822,32
-7,Total,24,9,33,191,44,235,7754,1514,9268,39
+1,Patuakhali,,,,,,,,,,
+2,,,,,,,,,,,
+3,Upazila,Primary school - Govt.,Primary school - Non- govt.,Primary school - Total,Number of teacher - Govt.,Number of teacher - Non- govt.,Number of teacher - Total,Number of student - Govt.,Number of student - Non- govt.,Number of student - Total,Students per teacher
+4,Bauphal,3,1,4,30,4,34,1595,315,1910,56
+5,Galachipa,5,1,6,48,4,52,2700,250,2950,57
+6,Kalapara,2,2,4,13,16,29,303,283,586,20
+7,Patuakhali Sadar,14,5,19,100,20,120,3156,666,3822,32
+8,Total,24,9,33,191,44,235,7754,1514,9268,39

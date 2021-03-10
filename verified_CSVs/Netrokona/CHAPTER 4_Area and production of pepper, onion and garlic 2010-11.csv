@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
-3,Atpara,39,15,46,73,37,45
-4,Barhatta,69,83,109,126,84,156
-5,Durgapur,201,85,182,218,90,97
-6,Kalmakanda,36,20,95,182,57,93
-7,Kendua,600,480,180,560,188,494
-8,Khaliajuri,290,150,20,50,4,2
-9,Madan,395,224,74,270,62,150
-10,Mohanganj,125,65,25,75,20,54
-11,Netrokona Sadar,101,25,96,101,65,52
-12,Purbadhala,79,20,42,42,40,28
-13,Total,1935,1166,869,1696,647,1171
+1,Netrokona,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
+4,Atpara,39,15,46,73,37,45
+5,Barhatta,69,83,109,126,84,156
+6,Durgapur,201,85,182,218,90,97
+7,Kalmakanda,36,20,95,182,57,93
+8,Kendua,600,480,180,560,188,494
+9,Khaliajuri,290,150,20,50,4,2
+10,Madan,395,224,74,270,62,150
+11,Mohanganj,125,65,25,75,20,54
+12,Netrokona Sadar,101,25,96,101,65,52
+13,Purbadhala,79,20,42,42,40,28
+14,Total,1935,1166,869,1696,647,1171

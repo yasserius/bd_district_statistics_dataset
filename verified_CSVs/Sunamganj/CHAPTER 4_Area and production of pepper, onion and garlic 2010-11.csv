@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
-3,Bishwamvarpur,262,315,25,60,25,45
-4,Chhatak,25,8,0,0,0,0
-5,Dakshin Sunamganj,172,98,30,48,12,17
-6,Derai,5,15,3,21,0,0
-7,Dharmapasha,55,45,11,35,32,48
-8,Doarabazar,31,19,54,81,30,45
-9,Jagannathpur,21,25,0,0,0,0
-10,Jamalganj,120,48,15,42,9,28
-11,Shalla,20,17,0,0,0,0
-12,Sunamganj Sadar,380,190,101,188,55,80
-13,Tahirpur,0,0,0,0,0,0
-14,Total,1091,780,239,475,163,263
+1,Sunamganj,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
+4,Bishwamvarpur,262,315,25,60,25,45
+5,Chhatak,25,8,0,0,0,0
+6,Dakshin Sunamganj,172,98,30,48,12,17
+7,Derai,5,15,3,21,0,0
+8,Dharmapasha,55,45,11,35,32,48
+9,Doarabazar,31,19,54,81,30,45
+10,Jagannathpur,21,25,0,0,0,0
+11,Jamalganj,120,48,15,42,9,28
+12,Shalla,20,17,0,0,0,0
+13,Sunamganj Sadar,380,190,101,188,55,80
+14,Tahirpur,0,0,0,0,0,0
+15,Total,1091,780,239,475,163,263

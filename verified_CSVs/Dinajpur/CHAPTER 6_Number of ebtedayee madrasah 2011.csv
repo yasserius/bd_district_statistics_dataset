@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of ebtedayee madrasah 2011,,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Biral,4,18,3,21,230,190,420,20
-4,Birampur,4,12,4,16,71,80,151,9
-5,Birganj,4,10,4,14,406,402,808,58
-6,Bochaganj,0,0,0,0,0,0,0,0
-7,Chirirbandar,5,20,5,25,3060,2036,5096,204
-8,Dinajpur Sadar,5,25,7,32,554,98,652,20
-9,Fulbari,7,7,0,7,150,160,310,44
-10,Ghoraghat,0,0,0,0,0,0,0,0
-11,Hakimpur,2,7,2,9,159,91,250,28
-12,Kaharole,0,0,0,0,0,0,0,0
-13,Khansama,3,10,2,12,315,251,566,47
-14,Nawabganj,0,0,0,0,0,0,0,0
-15,Parbatipur,32,68,60,128,2407,2310,4807,38
-16,Total,66,177,87,264,7352,5618,13060,49
+1,Dinajpur,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Biral,4,18,3,21,230,190,420,20
+5,Birampur,4,12,4,16,71,80,151,9
+6,Birganj,4,10,4,14,406,402,808,58
+7,Bochaganj,0,0,0,0,0,0,0,0
+8,Chirirbandar,5,20,5,25,3060,2036,5096,204
+9,Dinajpur Sadar,5,25,7,32,554,98,652,20
+10,Fulbari,7,7,0,7,150,160,310,44
+11,Ghoraghat,0,0,0,0,0,0,0,0
+12,Hakimpur,2,7,2,9,159,91,250,28
+13,Kaharole,0,0,0,0,0,0,0,0
+14,Khansama,3,10,2,12,315,251,566,47
+15,Nawabganj,0,0,0,0,0,0,0,0
+16,Parbatipur,32,68,60,128,2407,2310,4807,38
+17,Total,66,177,87,264,7352,5618,13060,49

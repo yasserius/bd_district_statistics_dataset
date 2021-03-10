@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Number of pottery and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Magura Sadar,220,465,245,710
-4,Mohammadpur,21,88,0,88
-5,Shalikha,136,281,0,281
-6,Sreepur,162,486,62,548
-7,Total,539,1320,307,1627
+1,Magura,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Magura Sadar,220,465,245,710
+5,Mohammadpur,21,88,0,88
+6,Shalikha,136,281,0,281
+7,Sreepur,162,486,62,548
+8,Total,539,1320,307,1627

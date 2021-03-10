@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of college, teacher and student by municipality, city corporation 2011",,,,,,,,
-1,,,,,,,,,
-2, Municipality,Number of  college,Number of teacher - Male,Number of teacher - Female,Number of teacher,Number of student - Male,Number of student - Female,Number of student - Total,Student per teacher
-3,Bakerganj,2,25,12,37,590,518,1108,30
-4,Banaripara,1,25,12,37,537,478,835,22
-5,Barisal city corporation,14,377,195,572,19535,15937,35471,54
-6,Gaurnadi,1,40,14,54,972,890,1862,34
-7,Mehendiganj,2,35,9,44,692,940,1632,37
-8,Muladi,1,29,5,34,770,628,1398,41
-9,Total,21,531,247,778,22916,19391,42307,54
+1,Barisal,,,,,,,,
+2,,,,,,,,,
+3, Municipality,Number of  college,Number of teacher - Male,Number of teacher - Female,Number of teacher,Number of student - Male,Number of student - Female,Number of student - Total,Student per teacher
+4,Bakerganj,2,25,12,37,590,518,1108,30
+5,Banaripara,1,25,12,37,537,478,835,22
+6,Barisal city corporation,14,377,195,572,19535,15937,35471,54
+7,Gaurnadi,1,40,14,54,972,890,1862,34
+8,Mehendiganj,2,35,9,44,692,940,1632,37
+9,Muladi,1,29,5,34,770,628,1398,41
+10,Total,21,531,247,778,22916,19391,42307,54

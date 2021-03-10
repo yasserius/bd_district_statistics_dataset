@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Number of municipality, union, mauza, mahalla and village 2011",,,,,,
-1,,,,,,,
-2,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
-3,Atwari,-,-,-,6,62,64
-4,Boda,1,9,32,10,174,219
-5,Debiganj,-,-,-,10,108,101
-6,Panchagarh Sadar,1,9,32,10,83,195
-7,Tentulia,-,-,-,7,36,246
-8,Total,2,18,64,43,463,825
+1,Panchagor,,,,,,
+2,,,,,,,
+3,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
+4,Atwari,-,-,-,6,62,64
+5,Boda,1,9,32,10,174,219
+6,Debiganj,-,-,-,10,108,101
+7,Panchagarh Sadar,1,9,32,10,83,195
+8,Tentulia,-,-,-,7,36,246
+9,Total,2,18,64,43,463,825

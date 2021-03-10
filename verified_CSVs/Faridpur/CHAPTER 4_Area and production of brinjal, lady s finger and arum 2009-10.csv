@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of brinjal, lady s finger and arum 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Brinjal - Area,Brinjal - Production,Ladys finger - Area,Ladys finger - Production,Arum - Area,Arum - Production
-3,Alfadanga,110,330,32,39,54,162
-4,Bhanga,54,217,11,31,59,204
-5,Boalmari,109,208,52,72,72,156
-6,Charbhadrashon,30,60,16,4,34,129
-7,Faridpur Sadar,425,3598,210,1470,225,2475
-8,Madhukhali,98,680,44,88,21,63
-9,Nagarkanda,37,185,105,158,89,312
-10,Sadarpur,262,524,40,80,64,160
-11,Saltha,32,160,90,135,82,287
-12,Total,1157,5962,600,2077,700,3948
+1,Faridpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Brinjal - Area,Brinjal - Production,Ladys finger - Area,Ladys finger - Production,Arum - Area,Arum - Production
+4,Alfadanga,110,330,32,39,54,162
+5,Bhanga,54,217,11,31,59,204
+6,Boalmari,109,208,52,72,72,156
+7,Charbhadrashon,30,60,16,4,34,129
+8,Faridpur Sadar,425,3598,210,1470,225,2475
+9,Madhukhali,98,680,44,88,21,63
+10,Nagarkanda,37,185,105,158,89,312
+11,Sadarpur,262,524,40,80,64,160
+12,Saltha,32,160,90,135,82,287
+13,Total,1157,5962,600,2077,700,3948

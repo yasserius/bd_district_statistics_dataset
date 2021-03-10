@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Area and production of cauliflower and cucumber 2010-11,,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
-3,Baliadangi,49,280,42,240
-4,Haripur,67,370,9,6.48
-5,Pirgonj,178,356,106,164
-6,Ranisankail,180,504,80,212
-7,Thakurgaon Sadar,111,333,64,217
-8,Total,585,1843,301,839.48
+1,Thakurgaon,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
+4,Baliadangi,49,280,42,240
+5,Haripur,67,370,9,6.48
+6,Pirgonj,178,356,106,164
+7,Ranisankail,180,504,80,212
+8,Thakurgaon Sadar,111,333,64,217
+9,Total,585,1843,301,839.48

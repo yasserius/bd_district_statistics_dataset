@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of growth centre, hat , bazar, poultry farm, dairy farm, nursery, horticulture centre, brick kiln, decorator service 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila,Growth centre,Hat /bazar,Poultry farm,Dairy farm,Nursery,Horticult ure centre,Brick kiln,Decorator service
-3,Gazipur Sadar,3,16,483,117,39,2,305,165
-4,Kaliakair,5,26,2315,2083,11,2,25,45
-5,Kapashia,3,65,2170,23,7,1,32,41
-6,Kaliganj,6,36,635,275,22,0,28,56
-7,Sreepur,6,68,1703,15,18,1,16,105
-8,Total,23,211,7306,2513,97,6,406,412
+1,Gazipur,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Growth centre,Hat /bazar,Poultry farm,Dairy farm,Nursery,Horticult ure centre,Brick kiln,Decorator service
+4,Gazipur Sadar,3,16,483,117,39,2,305,165
+5,Kaliakair,5,26,2315,2083,11,2,25,45
+6,Kapashia,3,65,2170,23,7,1,32,41
+7,Kaliganj,6,36,635,275,22,0,28,56
+8,Sreepur,6,68,1703,15,18,1,16,105
+9,Total,23,211,7306,2513,97,6,406,412

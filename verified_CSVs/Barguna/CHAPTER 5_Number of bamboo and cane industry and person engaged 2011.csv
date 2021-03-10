@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of bamboo and cane industry and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Amtali,560,620,0,620
-4,Bamna,73,140,58,198
-5,Barguna Sadar,90,180,0,180
-6,Betagi,2026,4360,10,4370
-7,Patharghata,78,160,0,160
-8,Total,2827,5460,68,5528
+1,Barguna,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Amtali,560,620,0,620
+5,Bamna,73,140,58,198
+6,Barguna Sadar,90,180,0,180
+7,Betagi,2026,4360,10,4370
+8,Patharghata,78,160,0,160
+9,Total,2827,5460,68,5528

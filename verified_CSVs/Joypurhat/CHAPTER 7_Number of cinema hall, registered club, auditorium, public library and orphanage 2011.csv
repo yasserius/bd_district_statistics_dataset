@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,,,,,,
-2,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
-3,Akkelpur,2,52,5,5,1
-4,Joypurhat sadar,4,35,2,6,2
-5,Kalai,0,44,0,0,1
-6,Khetlal,0,41,0,1,0
-7,Panchbibi,1,93,0,5,1
-8,Total,7,265,7,17,5
+1,Joypurhat,,,,,
+2,,,,,,
+3,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
+4,Akkelpur,2,52,5,5,1
+5,Joypurhat sadar,4,35,2,6,2
+6,Kalai,0,44,0,0,1
+7,Khetlal,0,41,0,1,0
+8,Panchbibi,1,93,0,5,1
+9,Total,7,265,7,17,5

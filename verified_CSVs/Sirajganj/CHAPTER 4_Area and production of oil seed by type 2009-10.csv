@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Area and production of oil seed by type 2009-10,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Rape  mustard Area,Rape  mustard Production,Ground nut Area,Ground nut Production,Til Area,Til Production
-3,Belkuchi,6040,1685,89,35,534,220
-4,Chauhali,2185,668,235,138,280,73
-5,Kamarkhanda,2350,763,0,0,105,34
-6,Kazipur,1976,560,1729,1050,790,224
-7,Royganj,3229,2099,0,0,12,5
-8,Shahjadpur,6653,3447,712,291,82,34
-9,Sirajganj Sadar,880,297,2100,552,1322,375
-10,Tarash,18768,5771,0,0,0,0
-11,Ullahpara,27900,13950,12,7,30,7
-12,Total,69981,29240,4877,2073,3155,972
+1,Sirajganj,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Rape  mustard Area,Rape  mustard Production,Ground nut Area,Ground nut Production,Til Area,Til Production
+4,Belkuchi,6040,1685,89,35,534,220
+5,Chauhali,2185,668,235,138,280,73
+6,Kamarkhanda,2350,763,0,0,105,34
+7,Kazipur,1976,560,1729,1050,790,224
+8,Royganj,3229,2099,0,0,12,5
+9,Shahjadpur,6653,3447,712,291,82,34
+10,Sirajganj Sadar,880,297,2100,552,1322,375
+11,Tarash,18768,5771,0,0,0,0
+12,Ullahpara,27900,13950,12,7,30,7
+13,Total,69981,29240,4877,2073,3155,972

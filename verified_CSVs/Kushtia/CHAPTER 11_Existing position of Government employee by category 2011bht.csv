@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,Existing position of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
-3,Kushtia Sadar,28,23,339,97,487
-4,Bheramara,26,20,302,128,476
-5,Daulatpur,23,11,195,96,325
-6,Khoksa,21,18,187,69,295
-7,Kumarkhali,40,21,314,128,503
-8,Mirpur,39,38,669,146,892
-9,Total,177,131,2006,664,2978
+1,Kushtia,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
+4,Kushtia Sadar,28,23,339,97,487
+5,Bheramara,26,20,302,128,476
+6,Daulatpur,23,11,195,96,325
+7,Khoksa,21,18,187,69,295
+8,Kumarkhali,40,21,314,128,503
+9,Mirpur,39,38,669,146,892
+10,Total,177,131,2006,664,2978

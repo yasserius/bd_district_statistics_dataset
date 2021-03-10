@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Average rate of vehicle per kilo meter 2011,,,,,
-1,(Rate in taka),,,,,
-2,Upazila,Vehicle - Rickshaw,Vehicle - Rickshaw van,Vehicle - Easy bike,Vehicle - Auto rickshaw,Vehicle - Tempo
-3,Bakshiganj,10,6,5,3,2
-4,Dewanganj,5,3,5,5,3
-5,Islampur,6,5,5,5,5
-6,Jamalpur Sadar,7,4,3,5,3
-7,Madarganj,10,4,5,5,0
-8,Melandaha,7,5,4,5,4
-9,Sarishabari,10,10,5,5,5
-10,Average,7,5,4,4,3
+1,Jamalpur,,,,,
+2,(Rate in taka),,,,,
+3,Upazila,Vehicle - Rickshaw,Vehicle - Rickshaw van,Vehicle - Easy bike,Vehicle - Auto rickshaw,Vehicle - Tempo
+4,Bakshiganj,10,6,5,3,2
+5,Dewanganj,5,3,5,5,3
+6,Islampur,6,5,5,5,5
+7,Jamalpur Sadar,7,4,3,5,3
+8,Madarganj,10,4,5,5,0
+9,Melandaha,7,5,4,5,4
+10,Sarishabari,10,10,5,5,5
+11,Average,7,5,4,4,3

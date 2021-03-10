@@ -1,17 +1,18 @@
 ,0,1,2,3
 0,Length of embankment road  canal 2011,,,
-1,(Kilometer),,,
-2,Upazila,Embankment road,Canals,Others road
-3,Basail,7,10,0
-4,Bhuapur,20,5,0
-5,Delduar,0,20,0
-6,Dhanbari,6,13,0
-7,Ghatail,0,33,0
-8,Gopalpur,0,22,0
-9,Kalihati,0,13,0
-10,Madhupur,0,0.18,0
-11,Mirzapur,34,22,0
-12,Nagarpur,0,74,0
-13,Sakhipur,0,0,0
-14,Tangail Sadar,10,48,322
-15,Total,77,260.18,322
+1,Tangail,,,
+2,(Kilometer),,,
+3,Upazila,Embankment road,Canals,Others road
+4,Basail,7,10,0
+5,Bhuapur,20,5,0
+6,Delduar,0,20,0
+7,Dhanbari,6,13,0
+8,Ghatail,0,33,0
+9,Gopalpur,0,22,0
+10,Kalihati,0,13,0
+11,Madhupur,0,0.18,0
+12,Mirzapur,34,22,0
+13,Nagarpur,0,74,0
+14,Sakhipur,0,0,0
+15,Tangail Sadar,10,48,322
+16,Total,77,260.18,322

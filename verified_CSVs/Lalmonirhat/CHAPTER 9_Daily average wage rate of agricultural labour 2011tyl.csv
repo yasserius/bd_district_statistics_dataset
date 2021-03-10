@@ -1,10 +1,11 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
-1,(Rate in taka),,,
-2, Upazila,Labour - Male,Labour - Female,Labour - Child (under 15 years old)
-3,Aditmari,200,140,80
-4,Hatibandha,200,160,100
-5,Kaligonj,200,140,80
-6,Lalmonirhat Sadar,220,160,120
-7,Patgram,240,150,150
-8,Average,212,150,106
+1,Lalmonirhat,,,
+2,(Rate in taka),,,
+3, Upazila,Labour - Male,Labour - Female,Labour - Child (under 15 years old)
+4,Aditmari,200,140,80
+5,Hatibandha,200,160,100
+6,Kaligonj,200,140,80
+7,Lalmonirhat Sadar,220,160,120
+8,Patgram,240,150,150
+9,Average,212,150,106

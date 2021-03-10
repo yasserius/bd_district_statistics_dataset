@@ -1,19 +1,20 @@
 ,0,1,2,3,4,5,6,7
 0,Number of Establishments and Person engaged,,,,,,,
-1,,,,,,,,
-2,Code,Activity,Establishments Total,Establishments Urban,Establishments Rural,Person engaged Total,Person engaged Male,Person engaged Female
-3,1,2,3,4,5,6,7,8
-4,C,Mining and quarrying,587,0,587,1553,1536,17
-5,D,Manufacturing,3827,611,3216,15547,13530,2017
-6,E,"Electricity, gas and water supply",11,4,7,78,64,14
-7,F,Construction,17,3,14,39,39,-
-8,G,Wholesale  retail trade,21530,5595,15935,46460,45621,839
-9,H,Hotels and restaurants,2778,677,2101,8476,8217,259
-10,I,"Transport, storage and communication",629,144,485,1501,1483,18
-11,J,"Bank, insurance and financial institution",134,73,61,1001,881,120
-12,K,Real estate and renting,203,113,90,567,561,6
-13,L,Public administration and defence,318,228,90,3431,3272,159
-14,M,Education,2079,313,1766,9580,8105,1475
-15,N,Health and social work,559,171,388,1518,1321,197
-16,O,"Community, social and personal services",4867,927,3940,9909,9666,243
-17,Total,Total,37539,8859,28680,99660,94296,5364
+1,Sunamganj,,,,,,,
+2,,,,,,,,
+3,Code,Activity,Establishments Total,Establishments Urban,Establishments Rural,Person engaged Total,Person engaged Male,Person engaged Female
+4,1,2,3,4,5,6,7,8
+5,C,Mining and quarrying,587,0,587,1553,1536,17
+6,D,Manufacturing,3827,611,3216,15547,13530,2017
+7,E,"Electricity, gas and water supply",11,4,7,78,64,14
+8,F,Construction,17,3,14,39,39,-
+9,G,Wholesale  retail trade,21530,5595,15935,46460,45621,839
+10,H,Hotels and restaurants,2778,677,2101,8476,8217,259
+11,I,"Transport, storage and communication",629,144,485,1501,1483,18
+12,J,"Bank, insurance and financial institution",134,73,61,1001,881,120
+13,K,Real estate and renting,203,113,90,567,561,6
+14,L,Public administration and defence,318,228,90,3431,3272,159
+15,M,Education,2079,313,1766,9580,8105,1475
+16,N,Health and social work,559,171,388,1518,1321,197
+17,O,"Community, social and personal services",4867,927,3940,9909,9666,243
+18,Total,Total,37539,8859,28680,99660,94296,5364

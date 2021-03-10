@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization 2008,,,,,
-1,,,,,,
-2, Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area, Others
-3,Bagatipara,29882,1941,23502,25,6905
-4,Baraigram,66468,3955,52713,54,652
-5,Gurudaspur,51522,1070,42544,22,61
-6,Lalpur,60731,2747,49963,296,9841
-7,Natore Sadar,91166,2812,74100,144,785
-8,Singra,121114,972,107271,128,27481
-9,Total,420884,13496,350093,668,45725
+1,Natore,,,,,
+2,,,,,,
+3, Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area, Others
+4,Bagatipara,29882,1941,23502,25,6905
+5,Baraigram,66468,3955,52713,54,652
+6,Gurudaspur,51522,1070,42544,22,61
+7,Lalpur,60731,2747,49963,296,9841
+8,Natore Sadar,91166,2812,74100,144,785
+9,Singra,121114,972,107271,128,27481
+10,Total,420884,13496,350093,668,45725

@@ -1,21 +1,22 @@
 ,0,1,2,3,4,5
 0,Average doctor s fee per patient 2011,,,,,
-1,,,,,,
-2,(Fee in taka) - Upazila,(Fee in taka) - Doctor - MBBS,(Fee in taka) - Doctor - FCPS,(Fee in taka) - Doctor - Dentist,(Fee in taka) - Doctor - Gynaecologist,(Fee in taka) - Doctor - Homeopathy
-3,Adarsha Sadar,500,500,400,600,150
-4,Barura,200,300,200,300,100
-5,Brahmanpara,200,400,200,0,50
-6,Burichang,300,500,250,400,50
-7,Chandina,200,400,100,300,50
-8,Chauddagram,400,600,300,500,200
-9,Comilla Sadar Dakshin,400,500,400,400,200
-10,Daudkandi,200,400,200,400,50
-11,Debidwar,200,200,200,400,50
-12,Homna,100,200,100,200,0
-13,Laksam,300,400,100,300,0
-14,Monoharganj,200,300,200,300,100
-15,Meghna,200,300,0,0,0
-16,Muradnagar,100,300,100,400,50
-17,Nangalkot,300,500,400,300,100
-18,Titas,300,0,300,350,0
-19,Average,256,387,230,368,96
+1,Comilla,,,,,
+2,,,,,,
+3,(Fee in taka) - Upazila,(Fee in taka) - Doctor - MBBS,(Fee in taka) - Doctor - FCPS,(Fee in taka) - Doctor - Dentist,(Fee in taka) - Doctor - Gynaecologist,(Fee in taka) - Doctor - Homeopathy
+4,Adarsha Sadar,500,500,400,600,150
+5,Barura,200,300,200,300,100
+6,Brahmanpara,200,400,200,0,50
+7,Burichang,300,500,250,400,50
+8,Chandina,200,400,100,300,50
+9,Chauddagram,400,600,300,500,200
+10,Comilla Sadar Dakshin,400,500,400,400,200
+11,Daudkandi,200,400,200,400,50
+12,Debidwar,200,200,200,400,50
+13,Homna,100,200,100,200,0
+14,Laksam,300,400,100,300,0
+15,Monoharganj,200,300,200,300,100
+16,Meghna,200,300,0,0,0
+17,Muradnagar,100,300,100,400,50
+18,Nangalkot,300,500,400,300,100
+19,Titas,300,0,300,350,0
+20,Average,256,387,230,368,96

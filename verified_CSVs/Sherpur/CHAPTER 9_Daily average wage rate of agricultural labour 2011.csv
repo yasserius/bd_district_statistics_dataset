@@ -1,10 +1,11 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
-1,(Rate in taka),,,
-2, Upazila,Labour - Male,Labour - Female,Labour - Child (under 15 years old)
-3,Jhenaigati,300,280,150
-4,Nakla,280,210,130
-5,Nalitabari,280,200,150
-6,Sherpur Sadar,250,200,150
-7,Sreebardi,220,200,150
-8,Average,266,218,146
+1,Sherpur,,,
+2,(Rate in taka),,,
+3,Upazila,Labour - Male,Labour - Female,Labour - Child (under 15 years old)
+4,Jhenaigati,300,280,150
+5,Nakla,280,210,130
+6,Nalitabari,280,200,150
+7,Sherpur Sadar,250,200,150
+8,Sreebardi,220,200,150
+9,Average,266,218,146

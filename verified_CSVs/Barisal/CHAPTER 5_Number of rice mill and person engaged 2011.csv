@@ -1,16 +1,17 @@
 ,0,1,2,3,4
 0,Number of rice mill and person engaged 2011,,,,
-1,,,,,
-2,Upazila/city corporation,Number of unit,Person engaged Male,Person engaged Female,Person engaged Total
-3,Agailjhara,31,31,31,62
-4,Babuganj,34,13,33,46
-5,Bakerganj,7,22,28,50
-6,Banaripara,23,160,1050,1210
-7,Barisal city corporation,39,41,8,49
-8,Barisal sadar,68,119,47,166
-9,Gaurnadi,49,102,192,294
-10,Hizla,129,152,3,155
-11,Mehendiganj,27,54,27,81
-12,Muladi,100,200,0,200
-13,Wazirpur,197,372,18,390
-14,Total,704,1266,1437,2703
+1,Barisal,,,,
+2,,,,,
+3,Upazila/city corporation,Number of unit,Person engaged Male,Person engaged Female,Person engaged Total
+4,Agailjhara,31,31,31,62
+5,Babuganj,34,13,33,46
+6,Bakerganj,7,22,28,50
+7,Banaripara,23,160,1050,1210
+8,Barisal city corporation,39,41,8,49
+9,Barisal Sadar,68,119,47,166
+10,Gaurnadi,49,102,192,294
+11,Hizla,129,152,3,155
+12,Mehendiganj,27,54,27,81
+13,Muladi,100,200,0,200
+14,Wazirpur,197,372,18,390
+15,Total,704,1266,1437,2703

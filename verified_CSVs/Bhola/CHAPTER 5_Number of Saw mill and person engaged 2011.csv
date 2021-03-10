@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of Saw mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Units,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Bhola Sadar,76,98,294,392
-4,Burhanuddin,31,35,124,159
-5,Char Fasson,93,95,651,746
-6,Daulatkhan,39,41,109,195
-7,Lalmohan,46,48,194,242
-8,Manpura,8,12,40,52
-9,Tazumuddin,14,14,142,156
-10,Total,307,343,1554,1942
+1,Bhola,,,,
+2,,,,,
+3, Upazila, Units,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Bhola Sadar,76,98,294,392
+5,Burhanuddin,31,35,124,159
+6,Char Fasson,93,95,651,746
+7,Daulatkhan,39,41,109,195
+8,Lalmohan,46,48,194,242
+9,Manpura,8,12,40,52
+10,Tazumuddin,14,14,142,156
+11,Total,307,343,1554,1942

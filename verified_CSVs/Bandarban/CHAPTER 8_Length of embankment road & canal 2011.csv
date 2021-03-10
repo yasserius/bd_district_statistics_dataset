@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Length of embankment road  canal 2011,,,
-1,(Kilometer),,,
-2,Upazila,Embankment road,Canal,Others road
-3,Alikadam,0.5,2,0
-4,Bandarban Sadar,0,30,30
-5,Lama,0,0,0
-6,Naikhongchhari,0,1.38,250
-7,Rowangchhari,0,0,0
-8,Ruma,0,0,0
-9,Thanchi,0,0,0
-10,Total,0.5,33.38,280
+1,Bandarban,,,
+2,(Kilometer),,,
+3,Upazila,Embankment road,Canal,Others road
+4,Alikadam,0.5,2,0
+5,Bandarban Sadar,0,30,30
+6,Lama,0,0,0
+7,Naikhongchhari,0,1.38,250
+8,Rowangchhari,0,0,0
+9,Ruma,0,0,0
+10,Thanchi,0,0,0
+11,Total,0.5,33.38,280

@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of private (non-registered) primary school (class I-V), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of Non- govt. primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Biral,3,7,5,12,116,109,225,19
-4,Birampur,4,8,9,17,110,115,225,13
-5,Birganj,0,0,0,0,0,0,0,0
-6,Bochaganj,0,0,0,0,0,0,0,0
-7,Chirirbandar,1,2,2,4,65,90,155,39
-8,Dinajpur Sadar,3,1,11,12,275,200,475,40
-9,Fulbari,0,0,0,0,0,0,0,0
-10,Ghoraghat,1,0,4,4,90,60,150,38
-11,Hakimpur,0,0,0,0,0,0,0,0
-12,Kaharole,2,2,6,8,150,175,325,41
-13,Khansama,3,5,7,12,260,290,550,46
-14,Nawabganj,3,8,4,12,212,228,440,37
-15,Parbatipur,5,19,21,20,430,323,753,38
-16,Total,25,52,69,101,1708,1590,3298,33
+1,Dinajpur,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of Non- govt. primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Biral,3,7,5,12,116,109,225,19
+5,Birampur,4,8,9,17,110,115,225,13
+6,Birganj,0,0,0,0,0,0,0,0
+7,Bochaganj,0,0,0,0,0,0,0,0
+8,Chirirbandar,1,2,2,4,65,90,155,39
+9,Dinajpur Sadar,3,1,11,12,275,200,475,40
+10,Fulbari,0,0,0,0,0,0,0,0
+11,Ghoraghat,1,0,4,4,90,60,150,38
+12,Hakimpur,0,0,0,0,0,0,0,0
+13,Kaharole,2,2,6,8,150,175,325,41
+14,Khansama,3,5,7,12,260,290,550,46
+15,Nawabganj,3,8,4,12,212,228,440,37
+16,Parbatipur,5,19,21,20,430,323,753,38
+17,Total,25,52,69,101,1708,1590,3298,33

@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"6.06 Number of NGO school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of NGO School,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Kushtia Sadar,82,0,82,82,796,1802,2598,32
-4,Bheramara,30,0,30,30,364,665,1029,34
-5,Daulatpur,61,40,70,110,1300,1200,2500,23
-6,Khoksa,19,0,19,19,214,374,588,1.31
-7,Kumarkhali,116,32,200,232,1700,1780,3480,15
-8,Mirpur,35,0,35,35,430,400,830,24
-9,Total,343,72,436,508,4804,6221,11025,22
+1,Kushtia,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of NGO School,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Kushtia Sadar,82,0,82,82,796,1802,2598,32
+5,Bheramara,30,0,30,30,364,665,1029,34
+6,Daulatpur,61,40,70,110,1300,1200,2500,23
+7,Khoksa,19,0,19,19,214,374,588,1.31
+8,Kumarkhali,116,32,200,232,1700,1780,3480,15
+9,Mirpur,35,0,35,35,430,400,830,24
+10,Total,343,72,436,508,4804,6221,11025,22

@@ -1,21 +1,22 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Non-Government health complex and health facility 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse, Number of    technician, Number of other staff,Number of patient under health facilitiy - Indoor - Male,Number of patient under health facilitiy - Indoor - Female,Number of patient under health facilitiy - Outdoor - Male,Number of patient under health facilitiy - Outdoor - Female
-3,Adarsha Sadar,44,717,330,399,191,1521,33887,35893,117904,148443
-4,Barura,4,75,7,25,10,25,1491,3092,21081,25074
-5,Brahmanpara,1,10,1,1,1,15,301,528,124,250
-6,Burichang,2,20,2,7,6,20,425,600,1300,1415
-7,Chandina,4,40,19,24,12,59,1631,3569,6132,7820
-8,Chauddagram,9,25,18,18,9,18,3500,6500,35600,30750
-9,Comilla Sadar Dakshin,3,190,78,22,15,142,112,105,216,227
-10,Daudkandi,8,54,12,15,14,27,1503,1925,0,0
-11,Debidwar,6,90,20,30,12,40,6035,4102,10105,11020
-12,Homna,1,10,9,6,2,12,280,130,330,450
-13,Laksam,15,158,45,89,30,336,6865,7216,40882,62007
-14,Monoharganj,0,0,0,0,0,0,0,0,0,0
-15,Meghna,0,0,0,0,0,0,0,0,0,0
-16,Muradnagar,5,40,6,11,17,50,525,992,12570,15720
-17,Nangalkot,2,72,6,51,3,16,820,580,7102,6906
-18,Titas,4,52,7,15,10,58,645,10355,7540,11300
-19,Total,108,1553,560,713,332,2339,58020,75587,26906,293707
+1,Comilla,,,,,,,,,,
+2,,,,,,,,,,,
+3,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse, Number of    technician, Number of other staff,Number of patient under health facilitiy - Indoor - Male,Number of patient under health facilitiy - Indoor - Female,Number of patient under health facilitiy - Outdoor - Male,Number of patient under health facilitiy - Outdoor - Female
+4,Adarsha Sadar,44,717,330,399,191,1521,33887,35893,117904,148443
+5,Barura,4,75,7,25,10,25,1491,3092,21081,25074
+6,Brahmanpara,1,10,1,1,1,15,301,528,124,250
+7,Burichang,2,20,2,7,6,20,425,600,1300,1415
+8,Chandina,4,40,19,24,12,59,1631,3569,6132,7820
+9,Chauddagram,9,25,18,18,9,18,3500,6500,35600,30750
+10,Comilla Sadar Dakshin,3,190,78,22,15,142,112,105,216,227
+11,Daudkandi,8,54,12,15,14,27,1503,1925,0,0
+12,Debidwar,6,90,20,30,12,40,6035,4102,10105,11020
+13,Homna,1,10,9,6,2,12,280,130,330,450
+14,Laksam,15,158,45,89,30,336,6865,7216,40882,62007
+15,Monoharganj,0,0,0,0,0,0,0,0,0,0
+16,Meghna,0,0,0,0,0,0,0,0,0,0
+17,Muradnagar,5,40,6,11,17,50,525,992,12570,15720
+18,Nangalkot,2,72,6,51,3,16,820,580,7102,6906
+19,Titas,4,52,7,15,10,58,645,10355,7540,11300
+20,Total,108,1553,560,713,332,2339,58020,75587,26906,293707

@@ -1,8 +1,9 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
-1,(According to Agriculture Census 2008),,,,
-2,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
-3,Kalia,33724,26467,16219,2475
-4,Lohagara,32891,31473,15281,1975
-5,Narail Sadar,42917,34181,19711,3270
-6,Total,109532,92121,51211,7720
+1,Narail,,,,
+2,(According to Agriculture Census 2008),,,,
+3,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
+4,Kalia,33724,26467,16219,2475
+5,Lohagara,32891,31473,15281,1975
+6,Narail Sadar,42917,34181,19711,3270
+7,Total,109532,92121,51211,7720

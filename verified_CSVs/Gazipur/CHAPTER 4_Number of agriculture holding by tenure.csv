@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
-1,(According to Agriculture Census 2008),,,,
-2,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
-3,Gazipur Sadar,50704,144793,14802,91839
-4,Kaliakair,37545,41529,13283,19008
-5,Kaliganj,33541,38938,11210,2056
-6,Kapashia,52971,54141,15917,3702
-7,Sreepur,51905,58035,16185,13159
-8,Total,230203,337436,71397,129764
+1,Gazipur,,,,
+2,(According to Agriculture Census 2008),,,,
+3,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
+4,Gazipur Sadar,50704,144793,14802,91839
+5,Kaliakair,37545,41529,13283,19008
+6,Kaliganj,33541,38938,11210,2056
+7,Kapashia,52971,54141,15917,3702
+8,Sreepur,51905,58035,16185,13159
+9,Total,230203,337436,71397,129764

@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Number of oil mill and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Magura Sadar,13,25,42,67
-4,Mohammadpur,17,3,17,20
-5,Shalikha,10,12,25,37
-6,Sreepur,6,6,7,13
-7,Total,46,46,91,137
+1,Magura,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Magura Sadar,13,25,42,67
+5,Mohammadpur,17,3,17,20
+6,Shalikha,10,12,25,37
+7,Sreepur,6,6,7,13
+8,Total,46,46,91,137

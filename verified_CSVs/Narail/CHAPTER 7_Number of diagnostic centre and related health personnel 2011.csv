@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Kalia,3,0,0,3,3
-4,Lohagara,1,2,2,2,7
-5,Narail Sadar,7,7,0,29,24
-6,Total,11,9,2,34,34
+1,Narail,,,,,
+2,,,,,,
+3,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Kalia,3,0,0,3,3
+5,Lohagara,1,2,2,2,7
+6,Narail Sadar,7,7,0,29,24
+7,Total,11,9,2,34,34

@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Sonali and Janata bank 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Sonali bank - Number of branch,Sonali bank - Account - S.D,Sonali bank - Account - C.D,Sonali bank - Account - F.D,Sonali bank - Account - S.T.D,Janata bank - Number of branch,Janata bank - Account - S.D,Janata bank - Account - C.D,Janata bank - Account - F.D,Janata bank - Account - S.T.D
-3,Austagram,2,8201,1346,54,36,1,6308,612,27,37
-4,Bajitpur,1,11684,953,151,43,2,20181,990,108,24
-5,Bhairab,1,7809,748,68,25,1,3629,511,76,22
-6,Hossainpur,1,0,0,101,37,0,0,0,0,0
-7,Itna,1,0,55,40,21,1,0,137,16,6
-8,Karimganj,2,6943,1090,121,16,1,2307,642,52,5
-9,Katiadi,1,12318,1507,287,40,2,32223,1242,205,25
-10,Kishoreganj Sadar,1,0,36,160,89,1,8597,712,101,67
-11,Kuliar-char,3,7235,780,165,25,1,50,829,37,910
-12,Mithamain,1,3.9,3,0.073,9,1,217,24,10,0
-13,Nikli,1,7559,438,37,33,0,0,0,0,0
-14,Pakundia,2,4521,181,135,43,0,0,0,0,0
-15,Tarail,1,0,1,44,29,0,0,0,0,0
-16,Total,18,66274,7138,1363.1,446,11,73512,5699,632,1096
+1,Kishoreganj,,,,,,,,,,
+2,,,,,,,,,,,
+3, Upazila,Sonali bank - Number of branch,Sonali bank - Account - S.D,Sonali bank - Account - C.D,Sonali bank - Account - F.D,Sonali bank - Account - S.T.D,Janata bank - Number of branch,Janata bank - Account - S.D,Janata bank - Account - C.D,Janata bank - Account - F.D,Janata bank - Account - S.T.D
+4,Austagram,2,8201,1346,54,36,1,6308,612,27,37
+5,Bajitpur,1,11684,953,151,43,2,20181,990,108,24
+6,Bhairab,1,7809,748,68,25,1,3629,511,76,22
+7,Hossainpur,1,0,0,101,37,0,0,0,0,0
+8,Itna,1,0,55,40,21,1,0,137,16,6
+9,Karimganj,2,6943,1090,121,16,1,2307,642,52,5
+10,Katiadi,1,12318,1507,287,40,2,32223,1242,205,25
+11,Kishoreganj Sadar,1,0,36,160,89,1,8597,712,101,67
+12,Kuliar-char,3,7235,780,165,25,1,50,829,37,910
+13,Mithamain,1,3.9,3,0.073,9,1,217,24,10,0
+14,Nikli,1,7559,438,37,33,0,0,0,0,0
+15,Pakundia,2,4521,181,135,43,0,0,0,0,0
+16,Tarail,1,0,1,44,29,0,0,0,0,0
+17,Total,18,66274,7138,1363.1,446,11,73512,5699,632,1096

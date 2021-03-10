@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,"Occurrence of river erosion during the years 2008-2011 (Yes, No)",,,,
-1,,,,,
-2,Upazila,2008,2009,2010,2011
-3,Fulchhari,Yes,Yes,Yes,Yes
-4,Gaibandha Sadar,Yes,Yes,Yes,Yes
-5,Gobindaganj,Yes,Yes,Yes,Yes
-6,Palashbari,Yes,Yes,Yes,Yes
-7,Sadullapur,No,No,No,No
-8,Saghata,Yes,Yes,Yes,Yes
-9,Sundarganj,Yes,Yes,Yes,Yes
+1,Gaibandha,,,,
+2,,,,,
+3,Upazila,2008,2009,2010,2011
+4,Fulchhari,Yes,Yes,Yes,Yes
+5,Gaibandha Sadar,Yes,Yes,Yes,Yes
+6,Gobindaganj,Yes,Yes,Yes,Yes
+7,Palashbari,Yes,Yes,Yes,Yes
+8,Sadullapur,No,No,No,No
+9,Saghata,Yes,Yes,Yes,Yes
+10,Sundarganj,Yes,Yes,Yes,Yes

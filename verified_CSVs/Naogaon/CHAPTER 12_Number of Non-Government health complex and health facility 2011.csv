@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Non-Government health complex and health facility 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse, Number of    technician, Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
-3,Atrai,2,22,12,4,6,6,410,305,2520,2630
-4,Badalgachhi,0,0,0,0,0,0,0,0,0,0
-5,Dhamoirhat,3,15,3,12,3,16,182,271,884,1173
-6,Manda,6,13,32,27,5,31,155,308,54,63
-7,Mahadebpur,4,41,0,17,2,9,0,0,0,0
-8,Naogaon sadar,23,294,59,101,34,229,3902,5405,3880,4953
-9,Niamatpur,3,30,16,12,8,14,1204,1070,8060,7950
-10,Patnitala,9,219,7,36,14,49,6385,9968,5475,10418
-11,Porsha,2,20,2,2,0,4,0,0,0,0
-12,Raninagar,1,10,3,6,2,11,3,19,0,0
-13,Sapahar,1,5,1,3,1,4,8,127,300,180
-14,Total,54,669,135,220,75,373,12249,17473,21173,27367
+1,Naogaon,,,,,,,,,,
+2,,,,,,,,,,,
+3,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse, Number of    technician, Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
+4,Atrai,2,22,12,4,6,6,410,305,2520,2630
+5,Badalgachhi,0,0,0,0,0,0,0,0,0,0
+6,Dhamoirhat,3,15,3,12,3,16,182,271,884,1173
+7,Manda,6,13,32,27,5,31,155,308,54,63
+8,Mahadebpur,4,41,0,17,2,9,0,0,0,0
+9,Naogaon sadar,23,294,59,101,34,229,3902,5405,3880,4953
+10,Niamatpur,3,30,16,12,8,14,1204,1070,8060,7950
+11,Patnitala,9,219,7,36,14,49,6385,9968,5475,10418
+12,Porsha,2,20,2,2,0,4,0,0,0,0
+13,Raninagar,1,10,3,6,2,11,3,19,0,0
+14,Sapahar,1,5,1,3,1,4,8,127,300,180
+15,Total,54,669,135,220,75,373,12249,17473,21173,27367

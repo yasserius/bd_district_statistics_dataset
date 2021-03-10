@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Number of community clinic and person engaged 2011,,,,,,
-1,,,,,,,
-2,Upazila,Number of clinic,Number of health asst.,Number of FPI,Number of FWV,Number of FWA,Number of other staff
-3,Bhurungamari,26,23,7,9,36,0
-4,Char Rajibpur,7,3,3,1,13,7
-5,Chilmari,10,23,0,0,10,0
-6,Kurigram Sadar,7,9,7,11,39,5
-7,Nageshwari,42,56,13,8,62,13
-8,Phulbari,20,20,1,5,27,17
-9,Rajarhat,24,63,5,8,32,9
-10,Raumari,22,24,4,2,27,0
-11,Ulipur,48,74,13,11,67,2
-12,Total,206,295,53,55,313,53
+1,Kurigram,,,,,,
+2,,,,,,,
+3,Upazila,Number of clinic,Number of health asst.,Number of FPI,Number of FWV,Number of FWA,Number of other staff
+4,Bhurungamari,26,23,7,9,36,0
+5,Char Rajibpur,7,3,3,1,13,7
+6,Chilmari,10,23,0,0,10,0
+7,Kurigram Sadar,7,9,7,11,39,5
+8,Nageshwari,42,56,13,8,62,13
+9,Phulbari,20,20,1,5,27,17
+10,Rajarhat,24,63,5,8,32,9
+11,Raumari,22,24,4,2,27,0
+12,Ulipur,48,74,13,11,67,2
+13,Total,206,295,53,55,313,53

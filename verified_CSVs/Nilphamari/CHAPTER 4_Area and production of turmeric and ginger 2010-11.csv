@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Area and production of turmeric and ginger 2010-11,,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,Turmeric Area,Turmeric Production,Ginger Area,Ginger Production
-3,Dimla,390,1062,380,1065
-4,Domar,281,199,90,256
-5,Jaldhaka,162,452,156,435
-6,Kishorgonj,418,1325,611,2536
-7,Nilphamary Sadar,115,461,1200,4803
-8,Sayedpur,63,63,87,522
-9,Total,1429,3562,2524,9617
+1,Nilphamari,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,Turmeric Area,Turmeric Production,Ginger Area,Ginger Production
+4,Dimla,390,1062,380,1065
+5,Domar,281,199,90,256
+6,Joldhaka,162,452,156,435
+7,Kishorgonj,418,1325,611,2536
+8,Nilphamary Sadar,115,461,1200,4803
+9,Sayedpur,63,63,87,522
+10,Total,1429,3562,2524,9617

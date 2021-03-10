@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Number of bridge, baily bridge, culvert, pool, shako and others 2011",,,,,,
-1,,,,,,,
-2,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
-3,Begumganj,50,4,300,120,250,0
-4,Chatkhil,18,3,178,100,110,0
-5,Companiganj,8,0,792,81,83,0
-6,Hatiya,15,20,243,130,114,0
-7,Kabirhat,14,0,155,96,52,0
-8,Noakhali Sadar,40,2,250,130,150,0
-9,Senbagh,19,0,346,115,82,0
-10,Sonaimuri,26,2,251,112,77,0
-11,Subarnachar,0,0,114,120,72,0
-12,Total,190,31,2679,1004,990,0
+1,Noakhali,,,,,,
+2,,,,,,,
+3,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
+4,Begumganj,50,4,300,120,250,0
+5,Chatkhil,18,3,178,100,110,0
+6,Companiganj,8,0,792,81,83,0
+7,Hatiya,15,20,243,130,114,0
+8,Kabirhat,14,0,155,96,52,0
+9,Noakhali Sadar,40,2,250,130,150,0
+10,Senbagh,19,0,346,115,82,0
+11,Sonaimuri,26,2,251,112,77,0
+12,Subarnachar,0,0,114,120,72,0
+13,Total,190,31,2679,1004,990,0

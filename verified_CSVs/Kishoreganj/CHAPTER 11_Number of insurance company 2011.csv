@@ -1,18 +1,19 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,,,,
-2, Upazila,Number of Insurance Company,Number of Employees,Number of Client
-3,Austagram,4,31,1052
-4,Bajitpur,0,0,0
-5,Bhairab,12,24,4200
-6,Hossainpur,2,65,2580
-7,Itna,0,0,0
-8,Karimganj,2,10,1880
-9,Katiadi,5,8,15000
-10,Kishoreganj Sadar,6,57,4377
-11,Kuliar-char,24,150,73343
-12,Mithamain,0,0,0
-13,Nikli,3,15,6500
-14,Pakundia,4,16,6010
-15,Tarail,4,14,0
-16,Total,66,390,114942
+1,Kishoreganj,,,
+2,,,,
+3, Upazila,Number of Insurance Company,Number of Employees,Number of Client
+4,Austagram,4,31,1052
+5,Bajitpur,0,0,0
+6,Bhairab,12,24,4200
+7,Hossainpur,2,65,2580
+8,Itna,0,0,0
+9,Karimganj,2,10,1880
+10,Katiadi,5,8,15000
+11,Kishoreganj Sadar,6,57,4377
+12,Kuliar-char,24,150,73343
+13,Mithamain,0,0,0
+14,Nikli,3,15,6500
+15,Pakundia,4,16,6010
+16,Tarail,4,14,0
+17,Total,66,390,114942

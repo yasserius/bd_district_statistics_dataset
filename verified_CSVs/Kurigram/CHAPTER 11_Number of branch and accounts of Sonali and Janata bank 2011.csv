@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Sonali and Janata bank 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Sonali bank - Number of branch,Sonali bank - Account - S.D,Sonali bank - Account - C.D,Sonali bank - Account - F.D,Sonali bank - Account - S.T.D,Janata bank - Number of branch,Janata bank - Account - S.D,Janata bank - Account - C.D,Janata bank - Account - F.D,Janata bank - Account - S.T.D
-3,Bhurungamari,1,8130,558,65,30,1,250,804,38,20
-4,Char Rajibpur,1,25,75,15,5,0,0,0,0,0
-5,Chilmari,1,24767,420,183,65,0,0,0,0,0
-6,Kurigram Sadar,1,18250,2291,250,8940,2,7795,896,205,516
-7,Nageshwari,1,10988,1080,276,34,2,2998,311,32,2
-8,Phulbari,1,21000,460,60,65,0,0,0,0,0
-9,Rajarhat,1,12782,528,23,17,0,0,0,0,0
-10,Raumari,1,146,375,155,74,0,0,0,0,0
-11,Ulipur,1,1400,22,400,80,1,17123,975,96,20
-12,Total,9,97488,5809,3427,9310,6,28166,2986,371,558
+1,Kurigram,,,,,,,,,,
+2,,,,,,,,,,,
+3, Upazila,Sonali bank - Number of branch,Sonali bank - Account - S.D,Sonali bank - Account - C.D,Sonali bank - Account - F.D,Sonali bank - Account - S.T.D,Janata bank - Number of branch,Janata bank - Account - S.D,Janata bank - Account - C.D,Janata bank - Account - F.D,Janata bank - Account - S.T.D
+4,Bhurungamari,1,8130,558,65,30,1,250,804,38,20
+5,Char Rajibpur,1,25,75,15,5,0,0,0,0,0
+6,Chilmari,1,24767,420,183,65,0,0,0,0,0
+7,Kurigram Sadar,1,18250,2291,250,8940,2,7795,896,205,516
+8,Nageshwari,1,10988,1080,276,34,2,2998,311,32,2
+9,Phulbari,1,21000,460,60,65,0,0,0,0,0
+10,Rajarhat,1,12782,528,23,17,0,0,0,0,0
+11,Raumari,1,146,375,155,74,0,0,0,0,0
+12,Ulipur,1,1400,22,400,80,1,17123,975,96,20
+13,Total,9,97488,5809,3427,9310,6,28166,2986,371,558

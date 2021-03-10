@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Number of branch of private commercial bank 2011,,,,,,
-1,,,,,,,
-2, Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C,Average annual deposit (in lac tk.).,Annual credit disbursed (in lac tk.)
-3,Badarganj,1,8,1050,56,108,956
-4,Gangachara,2,19,7492,0,3,4
-5,Kaunia,0,0,0,0,0,0
-6,Mitha pukur,1,8,1297,664,333,190
-7,Pirgachha,0,0,0,0,0,0
-8,Pirganj,1,5,38,0,600,1410
-9,Rangpur sadar,37,455,92441,54995,9042,4513
-10,Taraganj,0,0,0,0,0,0
-11,Total,42,495,102318,55715,1386,7073
+1,Rangpur,,,,,,
+2,,,,,,,
+3, Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C,Average annual deposit (in lac tk.).,Annual credit disbursed (in lac tk.)
+4,Badarganj,1,8,1050,56,108,956
+5,Gangachara,2,19,7492,0,3,4
+6,Kaunia,0,0,0,0,0,0
+7,Mithapukur,1,8,1297,664,333,190
+8,Pirgachha,0,0,0,0,0,0
+9,Pirganj,1,5,38,0,600,1410
+10,Rangpur Sadar,37,455,92441,54995,9042,4513
+11,Taraganj,0,0,0,0,0,0
+12,Total,42,495,102318,55715,1386,7073

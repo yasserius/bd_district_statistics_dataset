@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,,,,,,
-2,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
-3,Baliakandi,3,25,0,3,1
-4,Goalanda,0,5,1,0,1
-5,Kalukhali,1,32,0,1,0
-6,Pangsha,0,50,1,3,1
-7,Rajbari Sadar,3,135,1,6,0
-8,Total,7,247,3,13,3
+1,Rajbari,,,,,
+2,,,,,,
+3,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
+4,Baliakandi,3,25,0,3,1
+5,Goalanda,0,5,1,0,1
+6,Kalukhali,1,32,0,1,0
+7,Pangsha,0,50,1,3,1
+8,Rajbari Sadar,3,135,1,6,0
+9,Total,7,247,3,13,3

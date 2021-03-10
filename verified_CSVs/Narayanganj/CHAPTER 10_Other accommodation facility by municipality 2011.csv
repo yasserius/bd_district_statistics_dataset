@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6
 0,Other accommodation facility by municipality 2011,,,,,,
-1,,,,,,,
-2, Upazila,Orphanage - Number,Orphanage - Capacity,Slum area - Area in acre,Slum area - Number H/H,Refugee camp - Area in acre,Refugee camp - Number H/H
-3,Bandar,2,130,1,170,0,0
-4,Narayanganj Sadar,11,3478,14,4573,0,0
-5,Rupganj,13,1104,1,167,0,0
-6,Total,26,4712,16,4910,0,0
+1,Narayanganj,,,,,,
+2,,,,,,,
+3, Upazila,Orphanage - Number,Orphanage - Capacity,Slum area - Area in acre,Slum area - Number H/H,Refugee camp - Area in acre,Refugee camp - Number H/H
+4,Bandar,2,130,1,170,0,0
+5,Narayanganj Sadar,11,3478,14,4573,0,0
+6,Rupganj,13,1104,1,167,0,0
+7,Total,26,4712,16,4910,0,0

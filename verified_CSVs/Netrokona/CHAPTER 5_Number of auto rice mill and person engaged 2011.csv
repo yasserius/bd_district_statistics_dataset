@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,Number of auto rice mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged Male,Person engaged Female,Person engaged Total
-3,Atpara,5,5,63,68
-4,Barhatta,2,2,27,29
-5,Durgapur,1,1,17,18
-6,Kalmakanda,4,4,45,49
-7,Kendua,3,3,116,119
-8,Khaliajuri,0,0,0,0
-9,Madan,0,0,0,0
-10,Mohanganj,4,231,4,235
-11,Netrokona Sadar,4,60,240,300
-12,Purbadhala,0,0,0,0
-13,Total,23,306,512,818
+1,Netrokona,,,,
+2,,,,,
+3,Upazila, Unit,Person engaged Male,Person engaged Female,Person engaged Total
+4,Atpara,5,5,63,68
+5,Barhatta,2,2,27,29
+6,Durgapur,1,1,17,18
+7,Kalmakanda,4,4,45,49
+8,Kendua,3,3,116,119
+9,Khaliajuri,0,0,0,0
+10,Madan,0,0,0,0
+11,Mohanganj,4,231,4,235
+12,Netrokona Sadar,4,60,240,300
+13,Purbadhala,0,0,0,0
+14,Total,23,306,512,818

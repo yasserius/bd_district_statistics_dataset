@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of jackfruit, banana and pineapple 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Jackfruit Area,Jackfruit Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
-3,Atpara,135,614,63,261,0,0
-4,Barhatta,147,668,67,293,0,0
-5,Durgapur,37,213,44,200,30,189
-6,Kalmakanda,358,800,154,990,24,69
-7,Kendua,869,10422,58,572,3,8
-8,Khaliajuri,0,0,5,2,0,0
-9,Madan,41,300,110,715,0,0
-10,Mohanganj,155,310,48,132,0,0
-11,Netrokona Sadar,24,994,182,964,0,0
-12,Purbadhala,43,646,124,622,0,0
-13,Total,1809,14966,855,4751,57,265
+1,Netrokona,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Jackfruit Area,Jackfruit Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
+4,Atpara,135,614,63,261,0,0
+5,Barhatta,147,668,67,293,0,0
+6,Durgapur,37,213,44,200,30,189
+7,Kalmakanda,358,800,154,990,24,69
+8,Kendua,869,10422,58,572,3,8
+9,Khaliajuri,0,0,5,2,0,0
+10,Madan,41,300,110,715,0,0
+11,Mohanganj,155,310,48,132,0,0
+12,Netrokona Sadar,24,994,182,964,0,0
+13,Purbadhala,43,646,124,622,0,0
+14,Total,1809,14966,855,4751,57,265

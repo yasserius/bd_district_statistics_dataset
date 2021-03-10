@@ -1,10 +1,11 @@
 ,0,1,2,3
 0,Length of railway and water way 2011,,,
-1,(Kilometer),,,
-2, Upazila,"Total railway (all broad gage, meter gage  duel gage)",Water way in monsoon (river + canal),Water way round the year (river + canal)
-3,Akkelpur,21,264.43,367.7
-4,Joypurhat sadar,11,67,0
-5,Kalai,0,0,0
-6,Khetlal,0,28,0
-7,Panchbibi,14,56,0
-8,Total,46,415.43,367.7
+1,Joypurhat,,,
+2,(Kilometer),,,
+3, Upazila,"Total railway (all broad gage, meter gage  duel gage)",Water way in monsoon (river + canal),Water way round the year (river + canal)
+4,Akkelpur,21,264.43,367.7
+5,Joypurhat sadar,11,67,0
+6,Kalai,0,0,0
+7,Khetlal,0,28,0
+8,Panchbibi,14,56,0
+9,Total,46,415.43,367.7

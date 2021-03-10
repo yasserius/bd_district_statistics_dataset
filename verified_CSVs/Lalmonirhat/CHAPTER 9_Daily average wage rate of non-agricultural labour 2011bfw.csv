@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Daily average wage rate of non-agricultural labour 2011,,,,,
-1,(Wage in taka),,,,,
-2,Upazila,Porter (coolee),Garden labour male,Garden female labour,Other labour (Adult),Other labour (Child)
-3,Aditmari,200,-,-,250,100
-4,Hatibandha,200,200,150,200,100
-5,Kaligonj,150,-,-,200,80
-6,Lalmonirhat Sadar,250,200,150,150,120
-7,Patgram,200,200,150,200,100
-8,Average,200,200,150,200,100
+1,Lalmonirhat,,,,,
+2,(Wage in taka),,,,,
+3,Upazila,Porter (coolee),Garden labour male,Garden female labour,Other labour (Adult),Other labour (Child)
+4,Aditmari,200,-,-,250,100
+5,Hatibandha,200,200,150,200,100
+6,Kaligonj,150,-,-,200,80
+7,Lalmonirhat Sadar,250,200,150,150,120
+8,Patgram,200,200,150,200,100
+9,Average,200,200,150,200,100

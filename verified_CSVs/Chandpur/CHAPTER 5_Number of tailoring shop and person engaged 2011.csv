@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of tailoring shop and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Units,Persons engaged - Family,Persons engaged - Hired,Persons engaged - Total
-3,Chandpur Sadar,342,356,670,1026
-4,Foridganj,179,197,210,407
-5,Haimchar,93,93,25,118
-6,Hajiganj,208,212,115,327
-7,Kachua,735,790,1262,2052
-8,Matlab Dakshin,228,228,228,456
-9,Matlab Uttar,270,270,135,405
-10,Shahrasti,400,420,850,1270
-11,Total,2455,2566,3495,6061
+1,Chandpur,,,,
+2,,,,,
+3, Upazila, Units,Persons engaged - Family,Persons engaged - Hired,Persons engaged - Total
+4,Chandpur Sadar,342,356,670,1026
+5,Foridganj,179,197,210,407
+6,Haimchar,93,93,25,118
+7,Hajiganj,208,212,115,327
+8,Kachua,735,790,1262,2052
+9,Matlab Dakshin,228,228,228,456
+10,Matlab Uttar,270,270,135,405
+11,Shahrasti,400,420,850,1270
+12,Total,2455,2566,3495,6061

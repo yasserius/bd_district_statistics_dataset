@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6
 0,Medical institution and personnel by municipality 2011,,,,,,
-1,,,,,,,
-2, Municipality,Government institution,Private institution,Medical personal - Bed,Medical personal - Doctor,Medical personal - Nurse,Medical personal - Technician
-3,Madaripur,2,6,210,67,81,26
-4,Kalkini,1,1,56,19,10,15
-5,Shibchar,1,5,80,27,22,14
-6,Total,4,12,346,113,113,55
+1,Madaripur,,,,,,
+2,,,,,,,
+3, Municipality,Government institution,Private institution,Medical personal - Bed,Medical personal - Doctor,Medical personal - Nurse,Medical personal - Technician
+4,Madaripur,2,6,210,67,81,26
+5,Kalkini,1,1,56,19,10,15
+6,Shibchar,1,5,80,27,22,14
+7,Total,4,12,346,113,113,55

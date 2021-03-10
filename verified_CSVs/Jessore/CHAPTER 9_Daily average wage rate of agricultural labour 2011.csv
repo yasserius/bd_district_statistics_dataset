@@ -1,13 +1,14 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
-1,(Rate in taka),,,
-2, Upazila,Labour - Male,Labour - Female,Labour - Child (under 15 years old)
-3,Abhaynagar,225,150,60
-4,Bagherpara,165,140,100
-5,Chaugachha,200,150,80
-6,Jessore Sadar,200,150,150
-7,Jhikargachha,150,100,100
-8,Keshabpur,200,120,60
-9,Manirampur,250,200,100
-10,Sharsha,180,150,120
-11,Average,196,145,96
+1,Jessore,,,
+2,(Rate in taka),,,
+3, Upazila,Labour - Male,Labour - Female,Labour - Child (under 15 years old)
+4,Abhaynagar,225,150,60
+5,Bagherpara,165,140,100
+6,Chaugachha,200,150,80
+7,Jessore Sadar,200,150,150
+8,Jhikargachha,150,100,100
+9,Keshabpur,200,120,60
+10,Manirampur,250,200,100
+11,Sharsha,180,150,120
+12,Average,196,145,96

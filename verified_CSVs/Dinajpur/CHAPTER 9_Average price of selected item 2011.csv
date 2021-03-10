@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6,7
 0,Average price of selected item 2011,,,,,,,
-1,"(Price unit per kg, taka)",,,,,,,
-2,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
-3,Biral,35,30,25,20,32,6,120
-4,Birampur,42,31,28,22,29,10,128
-5,Birganj,42,30,25,21,32,10,120
-6,Bochaganj,40,32,29,23,33,17,120
-7,Chirirbandar,40,32,27,24,28,8,126
-8,Dinajpur Sadar,45,32,26,22,32,12,105
-9,Fulbari,35,32,28,25,35,10,115
-10,Ghoraghat,42,30,28,22,30,10,128
-11,Hakimpur,42,31,28,22,29,10,128
-12,Kaharole,40,30,25,20,30,10,130
-13,Khansama,45,28,24,25,30,14,120
-14,Nawabganj,42,31,28,22,30,10,128
-15,Parbatipur,44,34,26,24,29,12,132
-16,Average,41,31,27,22,31,11,123
+1,Dinajpur,,,,,,,
+2,"(Price unit per kg, taka)",,,,,,,
+3,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
+4,Biral,35,30,25,20,32,6,120
+5,Birampur,42,31,28,22,29,10,128
+6,Birganj,42,30,25,21,32,10,120
+7,Bochaganj,40,32,29,23,33,17,120
+8,Chirirbandar,40,32,27,24,28,8,126
+9,Dinajpur Sadar,45,32,26,22,32,12,105
+10,Fulbari,35,32,28,25,35,10,115
+11,Ghoraghat,42,30,28,22,30,10,128
+12,Hakimpur,42,31,28,22,29,10,128
+13,Kaharole,40,30,25,20,30,10,130
+14,Khansama,45,28,24,25,30,14,120
+15,Nawabganj,42,31,28,22,30,10,128
+16,Parbatipur,44,34,26,24,29,12,132
+17,Average,41,31,27,22,31,11,123

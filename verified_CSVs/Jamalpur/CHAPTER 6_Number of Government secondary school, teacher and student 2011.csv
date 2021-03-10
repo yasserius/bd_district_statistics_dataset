@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Government secondary school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Bakshiganj,1,5,1,6,0,393,393,66
-4,Dewanganj,1,7,2,9,351,0,351,39
-5,Islampur,0,0,0,0,0,0,0,0
-6,Jamalpur Sadar,3,75,41,116,2145,2000,4145,36
-7,Madarganj,1,2,3,5,0,502,502,100
-8,Melandaha,1,5,1,6,0,362,362,60
-9,Sarishabari,0,0,0,0,0,0,0,0
-10,Total,7,94,48,142,2496,3257,5753,41
+1,Jamalpur,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Bakshiganj,1,5,1,6,0,393,393,66
+5,Dewanganj,1,7,2,9,351,0,351,39
+6,Islampur,0,0,0,0,0,0,0,0
+7,Jamalpur Sadar,3,75,41,116,2145,2000,4145,36
+8,Madarganj,1,2,3,5,0,502,502,100
+9,Melandaha,1,5,1,6,0,362,362,60
+10,Sarishabari,0,0,0,0,0,0,0,0
+11,Total,7,94,48,142,2496,3257,5753,41

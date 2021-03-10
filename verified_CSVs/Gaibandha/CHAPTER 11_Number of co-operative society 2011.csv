@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,,,,
-2,Upazila,Number,Number of employee,Number of client
-3,Fulchhari,51,4,3171
-4,Gaibandha Sadar,273,273,2733
-5,Gobindaganj,746,0,34429
-6,Palashbari,386,0,9289
-7,Sadullapur,149,75,12460
-8,Saghata,143,4,10374
-9,Sundarganj,127,254,13761
-10,Total,1875,610,86217
+1,Gaibandha,,,
+2,,,,
+3,Upazila,Number,Number of employee,Number of client
+4,Fulchhari,51,4,3171
+5,Gaibandha Sadar,273,273,2733
+6,Gobindaganj,746,0,34429
+7,Palashbari,386,0,9289
+8,Sadullapur,149,75,12460
+9,Saghata,143,4,10374
+10,Sundarganj,127,254,13761
+11,Total,1875,610,86217

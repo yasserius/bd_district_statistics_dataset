@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Bean Area,Bean Production
-3,Bauphal,75,43,99,428,108,123
-4,Dashmina,40,352,125,2,35,140
-5,Dumki,7,14,36,54,15,57
-6,Galachipa,145,734,175,1050,85,180
-7,Kalapara,16,16,25,64,23,14
-8,Mirzaganj,14,11,13,20,11,7
-9,Patuakhali Sadar,24,28,52,109,18,11
-10,Total,321,1198,525,1726,295,532
+1,Patuakhali,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Bean Area,Bean Production
+4,Bauphal,75,43,99,428,108,123
+5,Dashmina,40,352,125,2,35,140
+6,Dumki,7,14,36,54,15,57
+7,Galachipa,145,734,175,1050,85,180
+8,Kalapara,16,16,25,64,23,14
+9,Mirzaganj,14,11,13,20,11,7
+10,Patuakhali Sadar,24,28,52,109,18,11
+11,Total,321,1198,525,1726,295,532

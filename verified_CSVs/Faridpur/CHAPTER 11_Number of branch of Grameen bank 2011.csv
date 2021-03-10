@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Number of branch of Grameen bank 2011,,,,,,
-1,,,,,,,
-2,Upazila,Number of branch,Number of employee,Number of member,Number of account,Annual deposit tk.,Annual credit disbursed tk.
-3,Alfadanga,3,17,7434,8070,834,762
-4,Bhanga,6,40,11617,13417,145,3597
-5,Boalmari,6,40,16695,16695,193,3077
-6,Charbhadrashon,1,7,3700,9304,113,525
-7,Faridpur Sadar,10,65,27287,81800,2209,7301
-8,Madhukhali,4,27,10799,10799,108,2000
-9,Nagarkanda,3,18,5743,6212,733,1361
-10,Sadarpur,2,16,6622,11445,1085,10793
-11,Saltha,2,12,5394,5828,797,836
-12,Total,37,242,95291,163570,6217,30252
+1,Faridpur,,,,,,
+2,,,,,,,
+3,Upazila,Number of branch,Number of employee,Number of member,Number of account,Annual deposit tk.,Annual credit disbursed tk.
+4,Alfadanga,3,17,7434,8070,834,762
+5,Bhanga,6,40,11617,13417,145,3597
+6,Boalmari,6,40,16695,16695,193,3077
+7,Charbhadrashon,1,7,3700,9304,113,525
+8,Faridpur Sadar,10,65,27287,81800,2209,7301
+9,Madhukhali,4,27,10799,10799,108,2000
+10,Nagarkanda,3,18,5743,6212,733,1361
+11,Sadarpur,2,16,6622,11445,1085,10793
+12,Saltha,2,12,5394,5828,797,836
+13,Total,37,242,95291,163570,6217,30252

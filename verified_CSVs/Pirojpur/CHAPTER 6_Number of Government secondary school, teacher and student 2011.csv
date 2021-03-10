@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Government secondary school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Bhandaria,1,5,3,8,0,319,319,40
-4,Kawkhali,2,12,2,14,505,511,1016,73
-5,Mathbaria,0,0,0,0,0,0,0,0
-6,Nazirpur,1,1,1,6,257,0,257,43
-7,Nesarabad,0,0,0,0,0,0,0,0
-8,Pirojpur Sadar,2,30,7,37,1158,1480,2578,70
-9,Zianagar,0,0,0,0,0,0,0,0
-10,Total,6,48,13,65,1920,2310,4170,64
+1,Pirojpur,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Bhandaria,1,5,3,8,0,319,319,40
+5,Kawkhali,2,12,2,14,505,511,1016,73
+6,Mathbaria,0,0,0,0,0,0,0,0
+7,Nazirpur,1,1,1,6,257,0,257,43
+8,Nesarabad,0,0,0,0,0,0,0,0
+9,Pirojpur Sadar,2,30,7,37,1158,1480,2578,70
+10,Zianagar,0,0,0,0,0,0,0,0
+11,Total,6,48,13,65,1920,2310,4170,64

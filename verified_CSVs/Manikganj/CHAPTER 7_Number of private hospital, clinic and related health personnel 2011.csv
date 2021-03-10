@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,,,,,,,
-2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Daulotpur,0,0,0,0,0,0
-4,Gheor,1,300,24,17,12,85
-5,Horirampur,4,3,4,5,3,6
-6,Manikganj Sadar,23,223,31,172,91,193
-7,Saturia,2,20,8,2,2,12
-8,Shibalaya,1,20,2,3,1,4
-9,Singair,8,86,28,35,21,65
-10,Total,39,652,97,234,130,365
+1,Manikganj,,,,,,
+2,,,,,,,
+3,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Daulotpur,0,0,0,0,0,0
+5,Gheor,1,300,24,17,12,85
+6,Horirampur,4,3,4,5,3,6
+7,Manikganj Sadar,23,223,31,172,91,193
+8,Saturia,2,20,8,2,2,12
+9,Shibalaya,1,20,2,3,1,4
+10,Singair,8,86,28,35,21,65
+11,Total,39,652,97,234,130,365

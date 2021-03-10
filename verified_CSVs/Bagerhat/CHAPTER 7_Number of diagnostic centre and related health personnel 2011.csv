@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Bagerhat Sadar,13,10,8,18,37
-4,Kachua,2,2,0,2,2
-5,Rampal,0,0,0,0,0
-6,Sarankhola,2,0,1,2,0
-7,Chitalmari,5,3,2,5,5
-8,Morrelgonj,0,0,0,0,0
-9,Mongla,2,1,0,2,2
-10,Mollahat,0,0,0,0,0
-11,Fakirhat,4,4,5,4,5
-12,Total,28,20,16,33,51
+1,Bagerhat,,,,,
+2,,,,,,
+3,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Bagerhat Sadar,13,10,8,18,37
+5,Kachua,2,2,0,2,2
+6,Rampal,0,0,0,0,0
+7,Sharonkhola,2,0,1,2,0
+8,Chitolmari,5,3,2,5,5
+9,Morrelgonj,0,0,0,0,0
+10,Mongla,2,1,0,2,2
+11,Mollahat,0,0,0,0,0
+12,Fakirhat,4,4,5,4,5
+13,Total,28,20,16,33,51

@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization 2008,,,,,
-1,,,,,,
-2,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
-3,Biral,79642,711,70188,80,16925
-4,Birampur,48684,1031,42002,86,70
-5,Birganj,94055,1001,82174,55,0
-6,Bochaganj,51039,510,44599,29,5053
-7,Chirirbandar,78727,718,67528,94,12899
-8,Dinajpur Sadar,84824,856,70566,57,0
-9,Fulbari,54348,627,46962,128,158
-10,Ghoraghat,35317,201,30413,26,3219
-11,Hakimpur,23806,457,20771,15,1415
-12,Kaharole,46181,373,39998,49,2875
-13,Khansama,42032,1892,35538,234,8270
-14,Nawabganj,70566,1441,60786,103,700
-15,Parbatipur,96222,743,82846,101,22307
-16,Total,805444,10561,694371,1058,73891
+1,Dinajpur,,,,,
+2,,,,,,
+3,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
+4,Biral,79642,711,70188,80,16925
+5,Birampur,48684,1031,42002,86,70
+6,Birganj,94055,1001,82174,55,0
+7,Bochaganj,51039,510,44599,29,5053
+8,Chirirbandar,78727,718,67528,94,12899
+9,Dinajpur Sadar,84824,856,70566,57,0
+10,Fulbari,54348,627,46962,128,158
+11,Ghoraghat,35317,201,30413,26,3219
+12,Hakimpur,23806,457,20771,15,1415
+13,Kaharole,46181,373,39998,49,2875
+14,Khansama,42032,1892,35538,234,8270
+15,Nawabganj,70566,1441,60786,103,700
+16,Parbatipur,96222,743,82846,101,22307
+17,Total,805444,10561,694371,1058,73891

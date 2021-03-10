@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of ebtedayee madrasah 2011,,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Gazipur Sadar,10,220,65,285,607,595,1202,4
-4,Kaliakair,13,50,10,60,195,130,325,01
-5,Kaliganj,12,18,12,30,150,200,350,12
-6,Kapashia,24,64,32,96,1527,1713,3246,34
-7,Sreepur,12,46,0,46,1050,952,2002,44
-8,Total,71,398,119,517,3529,3590,7125,14
+1,Gazipur,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Gazipur Sadar,10,220,65,285,607,595,1202,4
+5,Kaliakair,13,50,10,60,195,130,325,01
+6,Kaliganj,12,18,12,30,150,200,350,12
+7,Kapashia,24,64,32,96,1527,1713,3246,34
+8,Sreepur,12,46,0,46,1050,952,2002,44
+9,Total,71,398,119,517,3529,3590,7125,14

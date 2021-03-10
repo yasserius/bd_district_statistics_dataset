@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Government health complex and health facility 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of    technician,Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
-3,Kalia,1,50,7,14,3,109,325,275,6500,5500
-4,Lohagara,1,50,8,7,2,9,297,321,17600,28025
-5,Narail Sadar,15,113,32,46,9,63,4795,6801,24287,40787
-6,Total,17,213,47,67,14,181,5417,7397,48387,74312
+1,Narail,,,,,,,,,,
+2,,,,,,,,,,,
+3,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of    technician,Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
+4,Kalia,1,50,7,14,3,109,325,275,6500,5500
+5,Lohagara,1,50,8,7,2,9,297,321,17600,28025
+6,Narail Sadar,15,113,32,46,9,63,4795,6801,24287,40787
+7,Total,17,213,47,67,14,181,5417,7397,48387,74312

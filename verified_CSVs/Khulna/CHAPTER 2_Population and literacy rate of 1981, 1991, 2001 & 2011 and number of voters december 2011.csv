@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Population and literacy rate of 1981, 1991, 2001  2011 and number of voters december 2011",,,,,,,,,,,
-1,(Population and voters in thousand),,,,,,,,,,,
-2,Thana/ Upazila Name,Population 1981,Population 1991,Population 2001,Population 2011,Literacy Rate () 1981,Literacy Rate () 1991,Literacy Rate () 2001,Literacy Rate () 2011,Number of Voters Male,Number of Voters Female,Number of Voters Total
-3,Batiaghata,114,128,141,172,29.8,37.7,53.0,54.9,55,56,111
-4,Dacope,111,143,157,152,30.8,37.7,49.3,56.0,52,52,105
-5,Dighalia,107,108,121,116,32.9,39.4,55.2,54.3,46,46,91
-6,Dumuria,226,256,280,306,25.2,36.1,48.7,52.6,102,104,207
-7,Khulna City, 515, 615, 884, 751, 49.8, 59.6, 59.9, 72.7, 217, 207, 424
-8,Corporation,,,,,,,,,,,
-9,Koyra,125,166,193,194,27.1,32.4,44.5,50.4,65,66,131
-10,Paikgachha,176,225,248,248,24.3,32.6,45.8,52.8,88,89,177
-11,Phultala,90,679,77,84,41.1,41.1,58.0,59.0,43,43,87
-12,Rupsa,124,150,168,180,32.0,40.4,54.7,58.2,57,58,116
-13,Terokhada,100,103,111,117,23.5,31.6,45.1,48.5,35,36,71
-14,Total,1688,2573,2380,2320,26.3,43.9,57.8,60.1,760,757,1520
+1,Khulna,,,,,,,,,,,
+2,(Population and voters in thousand),,,,,,,,,,,
+3,Thana/ Upazila Name,Population 1981,Population 1991,Population 2001,Population 2011,Literacy Rate () 1981,Literacy Rate () 1991,Literacy Rate () 2001,Literacy Rate () 2011,Number of Voters Male,Number of Voters Female,Number of Voters Total
+4,Batiaghata,114,128,141,172,29.8,37.7,53.0,54.9,55,56,111
+5,Dacope,111,143,157,152,30.8,37.7,49.3,56.0,52,52,105
+6,Dighalia,107,108,121,116,32.9,39.4,55.2,54.3,46,46,91
+7,Dumuria,226,256,280,306,25.2,36.1,48.7,52.6,102,104,207
+8,Khulna City, 515, 615, 884, 751, 49.8, 59.6, 59.9, 72.7, 217, 207, 424
+9,Corporation,,,,,,,,,,,
+10,Koyra,125,166,193,194,27.1,32.4,44.5,50.4,65,66,131
+11,Paikgachha,176,225,248,248,24.3,32.6,45.8,52.8,88,89,177
+12,Phultala,90,679,77,84,41.1,41.1,58.0,59.0,43,43,87
+13,Rupsa,124,150,168,180,32.0,40.4,54.7,58.2,57,58,116
+14,Terokhada,100,103,111,117,23.5,31.6,45.1,48.5,35,36,71
+15,Total,1688,2573,2380,2320,26.3,43.9,57.8,60.1,760,757,1520

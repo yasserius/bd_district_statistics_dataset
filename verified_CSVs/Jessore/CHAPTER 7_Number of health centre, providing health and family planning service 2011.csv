@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of health centre, providing health and family planning service 2011",,,,,,,
-1,,,,,,,,
-2, Upazila,Number of union health centre,Health service, Sterilization, M.R.,Injection/ copper-T,Oral pill/ condom,Number of immunization centre
-3,Abhaynagar,8,8071,12,12,152,8851,72
-4,Bagherpara,8,8795,145,14,874,8741,72
-5,Chaugachha,12,12851,145,18,1212,12561,108
-6,Jessore Sadar,15,7378,187,17,101,18854,135
-7,Jhikargachha,10,11012,2125,15,1114,111279,90
-8,Keshabpur,8,8971,112,15,185,8852,72
-9,Manirampur,16,16581,185,14,124,16125,144
-10,Sharsha,11,11541,112,41,451,11851,99
-11,Total,88,85200,3023,146,4213,197114,792
+1,Jessore,,,,,,,
+2,,,,,,,,
+3, Upazila,Number of union health centre,Health service, Sterilization, M.R.,Injection/ copper-T,Oral pill/ condom,Number of immunization centre
+4,Abhaynagar,8,8071,12,12,152,8851,72
+5,Bagherpara,8,8795,145,14,874,8741,72
+6,Chaugachha,12,12851,145,18,1212,12561,108
+7,Jessore Sadar,15,7378,187,17,101,18854,135
+8,Jhikargachha,10,11012,2125,15,1114,111279,90
+9,Keshabpur,8,8971,112,15,185,8852,72
+10,Manirampur,16,16581,185,14,124,16125,144
+11,Sharsha,11,11541,112,41,451,11851,99
+12,Total,88,85200,3023,146,4213,197114,792

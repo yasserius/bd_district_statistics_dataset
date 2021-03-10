@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,,,,,,,,
-2, Upazila, Current fallow,Temporary Cropped area - Single,Temporary Cropped area - Double,Temporary Cropped area - Triple,Temporary Cropped area - Net,Temporary Cropped area - Gross,Productivity of crop
-3,Baliakandi,146,3271,23850,5234,35117,66677,190
-4,Goalanda,49,2700,17475,3882,36050,70449,195
-5,Kalukhali,85,2800,19000,7600,13119,22265,170
-6,Pangsha,48,4300,29000,11400,64823,120146,185
-7,Rajbari Sadar,250,3180,28900,17850,26300,63600,216
-8,Total,578,16251,118225,45966,175409,343137,196
+1,Rajbari,,,,,,,
+2,,,,,,,,
+3,Upazila, Current fallow,Temporary Cropped area - Single,Temporary Cropped area - Double,Temporary Cropped area - Triple,Temporary Cropped area - Net,Temporary Cropped area - Gross,Productivity of crop
+4,Baliakandi,146,3271,23850,5234,35117,66677,190
+5,Goalanda,49,2700,17475,3882,36050,70449,195
+6,Kalukhali,85,2800,19000,7600,13119,22265,170
+7,Pangsha,48,4300,29000,11400,64823,120146,185
+8,Rajbari Sadar,250,3180,28900,17850,26300,63600,216
+9,Total,578,16251,118225,45966,175409,343137,196

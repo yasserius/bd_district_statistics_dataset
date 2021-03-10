@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Police personnel and criminal offences by municipality, city corporation 2011",,,,,,
-1,,,,,,,
-2,Municipality/city corporation,Police personnel,Criminal offence Number of offence,Criminal offence Number of case filled,Traffic accident (reported) Number of accident,Traffic accident (reported) Person killed,Traffic accident (reported) Person injured
-3,Bagha,37,0,325,0,2,90
-4,Baghmara,16,59,59,0,0,0
-5,Charghat,30,279,279,5,1,4
-6,Durgapur,36,20,20,0,0,0
-7,Godagari,77,0,0,0,0,0
-8,Mohanpur,0,0,0,0,0,0
-9,Paba,64,1,1,1,1,0
-10,Puthia,42,60,47,8,6,3
-11,Rajshahi city corporation,0,0,0,0,0,0
-12,Tanore,56,289,289,6,2,4
-13,Total,358,708,1020,20,12,101
+1,Rajshahi,,,,,,
+2,,,,,,,
+3,Municipality/city corporation,Police personnel,Criminal offence Number of offence,Criminal offence Number of case filled,Traffic accident (reported) Number of accident,Traffic accident (reported) Person killed,Traffic accident (reported) Person injured
+4,Bagha,37,0,325,0,2,90
+5,Baghmara,16,59,59,0,0,0
+6,Charghat,30,279,279,5,1,4
+7,Durgapur,36,20,20,0,0,0
+8,Godagari,77,0,0,0,0,0
+9,Mohanpur,0,0,0,0,0,0
+10,Paba,64,1,1,1,1,0
+11,Puthia,42,60,47,8,6,3
+12,Rajshahi City Corporation,0,0,0,0,0,0
+13,Tanore,56,289,289,6,2,4
+14,Total,358,708,1020,20,12,101

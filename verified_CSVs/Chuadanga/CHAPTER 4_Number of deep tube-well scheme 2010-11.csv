@@ -1,9 +1,10 @@
 ,0,1,2,3
 0,Number of deep tube-well scheme 2010-11,,,
-1,,,,
-2, Upazila,Number of deep tube-well - Commissioned,Number of deep tube-well - Operated,Area irrigated (In acre)
-3,Alamdanga,0,11,1100
-4,Chuadanga Sadar,0,33,1749
-5,Damurhuda,63,63,5436
-6,Jibonnagar,0,10,398
-7,Total,63,117,8683
+1,Chuadanga,,,
+2,,,,
+3,Upazila,Number of deep tube-well - Commissioned,Number of deep tube-well - Operated,Area irrigated (In acre)
+4,Alamdanga,0,11,1100
+5,Chuadanga Sadar,0,33,1749
+6,Damurhuda,63,63,5436
+7,Jibonnagar,0,10,398
+8,Total,63,117,8683

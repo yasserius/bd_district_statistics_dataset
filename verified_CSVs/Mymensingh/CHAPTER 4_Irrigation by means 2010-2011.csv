@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6,7
 0,Irrigation by means 2010-2011,,,,,,,
-1,(In acre),,,,,,,
-2, Upazila,Irrigation management - Power pump,Irrigation management - Tube well,Irrigation management - Doon,Irrigation management - Swing basket,Irrigation management - Canal,Irrigation management - Others, Total
-3,Bhaluka,7100,0,360,110,670,31320,40160
-4,Dhobaura,6842,0,800,0,50,47,7739
-5,Fulbaria,2722,0,100,89,0,0,2911
-6,Gaffargaon,21200,32473,800,720,500,450,56143
-7,Gauripur,208,0,30,65,0,30,333
-8,Haluaghat,39710,0,600,0,9940,500,50750
-9,Ishwargonj,1914,0,12,37,123,50,2136
-10,Muktagacha,930,20,40,0,0,5,995
-11,Mymensingh Sadar,52155,0,0,0,100,5,52266
-12,Nandail,180,0,60,22,0,35,297
-13,Phulpur,597,0,986,0,0,0,8955
-14,Trishal,980,54877,400,300,0,500,57057
-15,Total,134538,87370,4188,1343,11383,32942,279742
+1,Mymensingh,,,,,,,
+2,(In acre),,,,,,,
+3, Upazila,Irrigation management - Power pump,Irrigation management - Tube well,Irrigation management - Doon,Irrigation management - Swing basket,Irrigation management - Canal,Irrigation management - Others, Total
+4,Bhaluka,7100,0,360,110,670,31320,40160
+5,Dhobaura,6842,0,800,0,50,47,7739
+6,Fulbaria,2722,0,100,89,0,0,2911
+7,Gaffargaon,21200,32473,800,720,500,450,56143
+8,Gauripur,208,0,30,65,0,30,333
+9,Haluaghat,39710,0,600,0,9940,500,50750
+10,Ishwargonj,1914,0,12,37,123,50,2136
+11,Muktagacha,930,20,40,0,0,5,995
+12,Mymensingh Sadar,52155,0,0,0,100,5,52266
+13,Nandail,180,0,60,22,0,35,297
+14,Phulpur,597,0,986,0,0,0,8955
+15,Trishal,980,54877,400,300,0,500,57057
+16,Total,134538,87370,4188,1343,11383,32942,279742

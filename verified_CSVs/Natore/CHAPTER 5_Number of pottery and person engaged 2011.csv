@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of pottery and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Bagatipara,16,42,0,42
-4,Baraigram,43,92,0,92
-5,Gurudaspur,72,173,70,243
-6,Lalpur,43,135,0,135
-7,Natore Sadar,42,168,172,340
-8,Singra,21,63,42,105
-9,Total,237,673,284,957
+1,Natore,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Bagatipara,16,42,0,42
+5,Baraigram,43,92,0,92
+6,Gurudaspur,72,173,70,243
+7,Lalpur,43,135,0,135
+8,Natore Sadar,42,168,172,340
+9,Singra,21,63,42,105
+10,Total,237,673,284,957

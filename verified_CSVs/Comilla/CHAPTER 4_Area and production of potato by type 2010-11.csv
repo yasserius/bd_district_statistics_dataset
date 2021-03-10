@@ -1,21 +1,22 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2010-11,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
-3,Adarsha Sadar,1012,8007,53,261,1065,8060
-4,Barura,2960,28707,121,581,3081,29288
-5,Brahmanpara,237,1510,280,1064,518,26
-6,Burichang,2664,3000,148,1200,3112,4200
-7,Chandina,7854,67942,128,1039,7983,68981
-8,Chauddagram,197,1480,189,575,386,2055
-9,Comilla Sadar Dakshin,265,6625,85,2425,350,9050
-10,Daudkandi,15500,145811,52,390,15552,14620
-11,Debidwar,2495,7385,50,55,2545,7441
-12,Homna,303,1654,304,1136,607,2690
-13,Laksam,12,80,86,215,98,295
-14,Monoharganj,80,320,57,300,137,620
-15,Meghna,1310,11733,395,895,1705,21633
-16,Muradnagar,847,6858,1040,8080,1887,14938
-17,Nangalkot,235,802,198,1080,433,1882
-18,Titas,975,8092,423,1162,1398,9254
-19,Total,36946,300006,3609,20458,40856,195033
+1,Comilla,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
+4,Adarsha Sadar,1012,8007,53,261,1065,8060
+5,Barura,2960,28707,121,581,3081,29288
+6,Brahmanpara,237,1510,280,1064,518,26
+7,Burichang,2664,3000,148,1200,3112,4200
+8,Chandina,7854,67942,128,1039,7983,68981
+9,Chauddagram,197,1480,189,575,386,2055
+10,Comilla Sadar Dakshin,265,6625,85,2425,350,9050
+11,Daudkandi,15500,145811,52,390,15552,14620
+12,Debidwar,2495,7385,50,55,2545,7441
+13,Homna,303,1654,304,1136,607,2690
+14,Laksam,12,80,86,215,98,295
+15,Monoharganj,80,320,57,300,137,620
+16,Meghna,1310,11733,395,895,1705,21633
+17,Muradnagar,847,6858,1040,8080,1887,14938
+18,Nangalkot,235,802,198,1080,433,1882
+19,Titas,975,8092,423,1162,1398,9254
+20,Total,36946,300006,3609,20458,40856,195033

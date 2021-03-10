@@ -1,17 +1,18 @@
 ,0,1,2,3,4
 0,Number of tailoring shop and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Units,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Basail,428,450,48,498
-4,Bhuapur,15,16,133,149
-5,Delduar,191,338,52,390
-6,Dhanbari,220,220,450,670
-7,Ghatail,213,213,639,852
-8,Gopalpur,29,29,86,115
-9,Kalihati,193,193,67,260
-10,Madhupur,115,125,60,185
-11,Mirzapur,250,250,70,320
-12,Nagarpur,317,317,634,951
-13,Sakhipur,142,163,273,436
-14,Tangail Sadar,383,397,718,1115
-15,Total,2496,2711,3230,5941
+1,Tangail,,,,
+2,,,,,
+3,Upazila,Units,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Basail,428,450,48,498
+5,Bhuapur,15,16,133,149
+6,Delduar,191,338,52,390
+7,Dhanbari,220,220,450,670
+8,Ghatail,213,213,639,852
+9,Gopalpur,29,29,86,115
+10,Kalihati,193,193,67,260
+11,Madhupur,115,125,60,185
+12,Mirzapur,250,250,70,320
+13,Nagarpur,317,317,634,951
+14,Sakhipur,142,163,273,436
+15,Tangail Sadar,383,397,718,1115
+16,Total,2496,2711,3230,5941

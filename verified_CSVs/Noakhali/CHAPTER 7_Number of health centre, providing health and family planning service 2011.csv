@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of health centre, providing health and family planning service 2011",,,,,,,
-1,,,,,,,,
-2, Upazila,Number of union health centre,Health service, Sterilization, M.R.,Injection/ copper-T,Oral pill/ condom,Number of immunization centre
-3,Begumganj,12,12393,0,1080,3001,250,149
-4,Chatkhil,8,8118,321,262,3411,584,128
-5,Companiganj,8,8887,340,226,3395,294,173
-6,Hatiya,8,8223,0,36,2292,333,110
-7,Kabirhat,4,4190,2572,30,6972,202,120
-8,Noakhali Sadar,7,7227,979,20,4728,200,100
-9,Senbagh,6,6200,1,27,2672,275,116
-10,Sonaimuri,14,14211,1,31,1822,180,141
-11,Subarnachar,1,1192,0,20,1901,280,130
-12,Total,68,70641,4214,1732,30194,2598,1167
+1,Noakhali,,,,,,,
+2,,,,,,,,
+3,Upazila,Number of union health centre,Health service, Sterilization, M.R.,Injection/ copper-T,Oral pill/ condom,Number of immunization centre
+4,Begumganj,12,12393,0,1080,3001,250,149
+5,Chatkhil,8,8118,321,262,3411,584,128
+6,Companiganj,8,8887,340,226,3395,294,173
+7,Hatiya,8,8223,0,36,2292,333,110
+8,Kabirhat,4,4190,2572,30,6972,202,120
+9,Noakhali Sadar,7,7227,979,20,4728,200,100
+10,Senbagh,6,6200,1,27,2672,275,116
+11,Sonaimuri,14,14211,1,31,1822,180,141
+12,Subarnachar,1,1192,0,20,1901,280,130
+13,Total,68,70641,4214,1732,30194,2598,1167

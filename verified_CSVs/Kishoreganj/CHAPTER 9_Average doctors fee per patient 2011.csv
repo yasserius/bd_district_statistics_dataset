@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5
 0,Average doctor€™s fee per patient 2011,,,,,
-1,(Fee in Taka),,,,,
-2,Thana/Upazila,Doctor - MBBS,Doctor - FCPS,Doctor - Dentist,Doctor - Gynaecologist,Doctor - Homeopathy
-3,Austagram,100,100,50,0,0
-4,Bajitpur,150,300,150,150,0
-5,Bhairab,200,400,200,400,50
-6,Hossainpur,200,0,200,200,50
-7,Itna,150,0,0,0,30
-8,Karimganj,200,0,100,0,80
-9,Katiadi,300,300,250,200,150
-10,Kishoreganj Sadar,150,350,300,300,100
-11,Kuliar-char,300,150,200,250,50
-12,Mithamain,200,3000,100,0,50
-13,Nikli,150,0,0,0,0
-14,Pakundia,200,100,100,200,100
-15,Tarail,200,0,200,200,50
-16,Total,2500,4700,1850,1900,710
+1,Kishoreganj,,,,,
+2,(Fee in Taka),,,,,
+3,Thana/Upazila,Doctor - MBBS,Doctor - FCPS,Doctor - Dentist,Doctor - Gynaecologist,Doctor - Homeopathy
+4,Austagram,100,100,50,0,0
+5,Bajitpur,150,300,150,150,0
+6,Bhairab,200,400,200,400,50
+7,Hossainpur,200,0,200,200,50
+8,Itna,150,0,0,0,30
+9,Karimganj,200,0,100,0,80
+10,Katiadi,300,300,250,200,150
+11,Kishoreganj Sadar,150,350,300,300,100
+12,Kuliar-char,300,150,200,250,50
+13,Mithamain,200,3000,100,0,50
+14,Nikli,150,0,0,0,0
+15,Pakundia,200,100,100,200,100
+16,Tarail,200,0,200,200,50
+17,Total,2500,4700,1850,1900,710

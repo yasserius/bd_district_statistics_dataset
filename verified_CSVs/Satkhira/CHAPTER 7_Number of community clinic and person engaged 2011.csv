@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Number of community clinic and person engaged 2011,,,,,,
-1,,,,,,,
-2, Upazila,Number of clinic,Number of health assistant,Number of FPI,Number of FWV,Number of FWA,Number of other staff
-3,Assasuni,34,52,0,6,50,21
-4,Debhata,14,19,2,0,14,5
-5,Kalaroa,21,29,10,9,40,80
-6,Kaliganj,8,16,5,9,58,7
-7,Satkhira Sadar,38,42,13,19,62,6
-8,Shyamnagar,35,55,0,6,55,22
-9,Tala,24,38,7,13,58,0
-10,Total,174,251,37,62,337,141
+1,Satkhira,,,,,,
+2,,,,,,,
+3,Upazila,Number of clinic,Number of health assistant,Number of FPI,Number of FWV,Number of FWA,Number of other staff
+4,Assasuni,34,52,0,6,50,21
+5,Debhata,14,19,2,0,14,5
+6,Kalaroa,21,29,10,9,40,80
+7,Kaliganj,8,16,5,9,58,7
+8,Satkhira Sadar,38,42,13,19,62,6
+9,Shyamnagar,35,55,0,6,55,22
+10,Tala,24,38,7,13,58,0
+11,Total,174,251,37,62,337,141

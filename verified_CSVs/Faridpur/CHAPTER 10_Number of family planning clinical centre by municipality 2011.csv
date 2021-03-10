@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,Number of family planning clinical centre by municipality 2011,,,,,
-1,,,,,,
-2,Municipality,Sterilization centre,Mobile centre,Injection centre,Menstrual regularization centre,Family welfare centre
-3,Bhanga,1,0,1,1,1
-4,Boalmari,2,0,3,11,11
-5,Faridpur Sadar,2,3,3,4,1
-6,Nagarkanda,1,2,3,1,1
-7,Total,6,5,10,17,14
+1,Faridpur,,,,,
+2,,,,,,
+3,Municipality,Sterilization centre,Mobile centre,Injection centre,Menstrual regularization centre,Family welfare centre
+4,Bhanga,1,0,1,1,1
+5,Boalmari,2,0,3,11,11
+6,Faridpur Sadar,2,3,3,4,1
+7,Nagarkanda,1,2,3,1,1
+8,Total,6,5,10,17,14

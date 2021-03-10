@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of madrasah, teacher and student under the madrasah education board 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Gopalganj Sadar,6,72,16,88,1075,1847,2922,13
-4,Kashiani,11,161,10,171,1338,1218,2556,15
-5,Kotalipara,5,77,10,87,8647,9402,18049,207
-6,Muksudpur,81,342,33,375,5126,3588,8714,23
-7,Tungipara,2,34,8,42,269,564,833,20
-8,Total,105,686,77,763,16455,16619,33074,43
+1,Gopalgonj,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Gopalganj Sadar,6,72,16,88,1075,1847,2922,13
+5,Kashiani,11,161,10,171,1338,1218,2556,15
+6,Kotalipara,5,77,10,87,8647,9402,18049,207
+7,Muksudpur,81,342,33,375,5126,3588,8714,23
+8,Tungipara,2,34,8,42,269,564,833,20
+9,Total,105,686,77,763,16455,16619,33074,43

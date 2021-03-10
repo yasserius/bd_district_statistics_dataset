@@ -1,20 +1,21 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of brinjal, lady s finger and arum 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila/City corporation,Brinjal - Area,Brinjal - Production,Ladys finger - Area,Ladys finger - Production,Arum - Area,Arum - Production
-3,Anowara,39,156,0,1,21,54
-4,Banshkhali,276,965,370,793,980,66826
-5,Boalkhali,21,58,17,4,37,212
-6,Chandanaish,50,194,15,37,148,1200
-7,Chittagong City Corp.,17,75,8,24,16,57
-8,Fatikchhari,318,1213,45,143,35,302
-9,Hathazari,180,360,53,108,123,590
-10,Lohagara,112,303,56,48,47,123
-11,Mirsharai,295,938,89,109,590,2373
-12,Patiya,86,377,42,122,79,285
-13,Rangunia,404,879,56,144,297,1109
-14,Raozan,108,525,50,212,110,1060
-15,Sandwip,470,854,330,250,456,676
-16,Satkania,84,898,195,400,55,417
-17,Sitakunda,210,796,76,151,92,362
-18,Total,2669,8591,1402,2546,3086,75646
+1,Chittagong,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila/City corporation,Brinjal - Area,Brinjal - Production,Ladys finger - Area,Ladys finger - Production,Arum - Area,Arum - Production
+4,Anowara,39,156,0,1,21,54
+5,Banshkhali,276,965,370,793,980,66826
+6,Boalkhali,21,58,17,4,37,212
+7,Chandanaish,50,194,15,37,148,1200
+8,Chittagong City Corporation,17,75,8,24,16,57
+9,Fatikchhari,318,1213,45,143,35,302
+10,Hathazari,180,360,53,108,123,590
+11,Lohagara,112,303,56,48,47,123
+12,Mirsharai,295,938,89,109,590,2373
+13,Patiya,86,377,42,122,79,285
+14,Rangunia,404,879,56,144,297,1109
+15,Raozan,108,525,50,212,110,1060
+16,Sandwip,470,854,330,250,456,676
+17,Satkania,84,898,195,400,55,417
+18,Sitakunda,210,796,76,151,92,362
+19,Total,2669,8591,1402,2546,3086,75646

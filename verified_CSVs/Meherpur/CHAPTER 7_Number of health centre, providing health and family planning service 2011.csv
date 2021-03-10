@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of health centre, providing health and family planning service 2011",,,,,,,
-1,,,,,,,,
-2,Upazila,Number of Union Health centre,Health services,Sterilization,M.R.,Injection/ copper-T,Oral pill/ condoms,Number of Immunization centre
-3,Gangni,9,35,3,3,3,35,0
-4,Mujibnagar,4,12,1,1,1,5,0
-5,Meherpur Sadar,6,6,655,280,619,12542,0
-6,Total,19,53,659,284,623,12582,0
+1,Meherpur,,,,,,,
+2,,,,,,,,
+3,Upazila,Number of Union Health centre,Health services,Sterilization,M.R.,Injection/ copper-T,Oral pill/ condoms,Number of Immunization centre
+4,Gangni,9,35,3,3,3,35,0
+5,Mujibnagar,4,12,1,1,1,5,0
+6,Meherpur Sadar,6,6,655,280,619,12542,0
+7,Total,19,53,659,284,623,12582,0

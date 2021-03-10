@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of brinjal, lady s finger and arum 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Brinjal Area,Brinjal Production,Ladys finger Area,Ladys finger Production,Arum Area,Arum Production
-3,Bakshiganj,601,3948,49,112,83,168
-4,Dewanganj,988,7200,570,2760,98,800
-5,Islampur,3150,22680,675,2890,120,1500
-6,Jamalpur Sadar,246,487,62,121,196,1668
-7,Madarganj,800,2000,122,335,70,217
-8,Melandaha,354,1067,27,28,46,126
-9,Sarishabari,44,163,38,46,112,282
-10,Total,6183,37545,1543,6292,725,4761
+1,Jamalpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Brinjal Area,Brinjal Production,Ladys finger Area,Ladys finger Production,Arum Area,Arum Production
+4,Bakshiganj,601,3948,49,112,83,168
+5,Dewanganj,988,7200,570,2760,98,800
+6,Islampur,3150,22680,675,2890,120,1500
+7,Jamalpur Sadar,246,487,62,121,196,1668
+8,Madarganj,800,2000,122,335,70,217
+9,Melandaha,354,1067,27,28,46,126
+10,Sarishabari,44,163,38,46,112,282
+11,Total,6183,37545,1543,6292,725,4761

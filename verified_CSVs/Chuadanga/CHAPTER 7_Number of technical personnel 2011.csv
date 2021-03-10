@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6,7
 0,Number of technical personnel 2011,,,,,,,
-1,,,,,,,,
-2, Upazila,Agricultural personnel,Live-stock personnel,Plant protection,Fishery personnel,Sanitary personnel,Family planning personnel,Trained midwife
-3,Alamdanga,50,10,42,4,3,106,2
-4,Chuadanga Sadar,12596,44,250,8,18,64,52
-5,Damurhuda,30120,15,210,300,0,17,1
-6,Jibonnagar,81646,11,38733,512,27,42,13
-7,Total,124412,80,39235,824,48,229,68
+1,Chuadanga,,,,,,,
+2,,,,,,,,
+3,Upazila,Agricultural personnel,Live-stock personnel,Plant protection,Fishery personnel,Sanitary personnel,Family planning personnel,Trained midwife
+4,Alamdanga,50,10,42,4,3,106,2
+5,Chuadanga Sadar,12596,44,250,8,18,64,52
+6,Damurhuda,30120,15,210,300,0,17,1
+7,Jibonnagar,81646,11,38733,512,27,42,13
+8,Total,124412,80,39235,824,48,229,68

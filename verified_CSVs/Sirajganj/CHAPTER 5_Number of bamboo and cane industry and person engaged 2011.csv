@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Number of bamboo and cane industry and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Belkuchi,178,375,0,375
-4,Chauhali,73,98,0,98
-5,Kamarkhanda,523,1219,350,1569
-6,Kazipur,32,96,0,96
-7,Royganj,38,76,45,121
-8,Shahjadpur,42,45,30,75
-9,Sirajganj Sadar,42,284,140,424
-10,Tarash,32,64,0,64
-11,Ullahpara,317,648,25,673
-12,Total,1277,2905,590,3495
+1,Sirajganj,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Belkuchi,178,375,0,375
+5,Chauhali,73,98,0,98
+6,Kamarkhanda,523,1219,350,1569
+7,Kazipur,32,96,0,96
+8,Royganj,38,76,45,121
+9,Shahjadpur,42,45,30,75
+10,Sirajganj Sadar,42,284,140,424
+11,Tarash,32,64,0,64
+12,Ullahpara,317,648,25,673
+13,Total,1277,2905,590,3495

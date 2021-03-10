@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,,,,,,
-2, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous body,Local Government employee
-3,Gazipur Sadar,367,2294,16672,4922,430
-4,Kaliakair,28,321,11812,39,99
-5,Kaliganj,42,368,9216,23,77
-6,Kapashia,38,493,14804,4,0
-7,Sreepur,48,420,11300,88,149
-8,Total,523,3896,63804,5076,755
+1,Gazipur,,,,,
+2,,,,,,
+3, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous body,Local Government employee
+4,Gazipur Sadar,367,2294,16672,4922,430
+5,Kaliakair,28,321,11812,39,99
+6,Kaliganj,42,368,9216,23,77
+7,Kapashia,38,493,14804,4,0
+8,Sreepur,48,420,11300,88,149
+9,Total,523,3896,63804,5076,755

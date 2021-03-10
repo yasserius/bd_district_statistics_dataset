@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of flour mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Dhaka Metropolitan,4,7,363,370
-4,Dhamrai,22,22,22,44
-5,Dohar,15,15,30,45
-6,Keraniganj,120,120,240,360
-7,Nawabganj,193,193,193,386
-8,Savar,128,142,370,512
-9,Total,482,499,1218,1717
+1,Dhaka,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Dhaka Metropolitan,4,7,363,370
+5,Dhamrai,22,22,22,44
+6,Dohar,15,15,30,45
+7,Keraniganj,120,120,240,360
+8,Nawabganj,193,193,193,386
+9,Savar,128,142,370,512
+10,Total,482,499,1218,1717

@@ -1,11 +1,12 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,,,,
-2, Upazila, Number of power tiller, Tractor,Number of threshing machine
-3,Bhedarganj,59,55,386
-4,Damudya,43,0,35
-5,Gosairhat,45,0,53
-6,Naria,160,0,122
-7,Shariatpur Sadar,110,0,58
-8,Zanjira,457,3,71
-9,Total,874,58,725
+1,Shariatpur,,,
+2,,,,
+3, Upazila, Number of power tiller, Tractor,Number of threshing machine
+4,Bhedarganj,59,55,386
+5,Damudya,43,0,35
+6,Gosairhat,45,0,53
+7,Naria,160,0,122
+8,Shariatpur Sadar,110,0,58
+9,Zanjira,457,3,71
+10,Total,874,58,725

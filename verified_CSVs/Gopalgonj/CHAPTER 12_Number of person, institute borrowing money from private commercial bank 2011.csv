@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2,  Upazila,Number of branch of all private commercial banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
-3,Gopalganj Sadar,18,474,1822,1,1,2700,2883,3175,3065,58,173
-4,Kashiani,2,110,30,230,20,163,60,476,110,1,1
-5,Kotalipara,4,0,0,0,0,0,701,0,0,0,11
-6,Muksudpur,1,315,4,0,0,22,28,337,32,3,1
-7,Tungipara,3,0,0,0,0,0,560,0,560,0,8
-8,Total,28,899,1856,231,21,2885,4232,3988,3767,62,194
+1,Gopalgonj,,,,,,,,,,,
+2,,,,,,,,,,,,
+3,  Upazila,Number of branch of all private commercial banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
+4,Gopalganj Sadar,18,474,1822,1,1,2700,2883,3175,3065,58,173
+5,Kashiani,2,110,30,230,20,163,60,476,110,1,1
+6,Kotalipara,4,0,0,0,0,0,701,0,0,0,11
+7,Muksudpur,1,315,4,0,0,22,28,337,32,3,1
+8,Tungipara,3,0,0,0,0,0,560,0,560,0,8
+9,Total,28,899,1856,231,21,2885,4232,3988,3767,62,194

@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2010-11,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
-3,Bagerhat Sadar,14,47,32,185,46,232
-4,Kachua,135,609,83,414,281,1023
-5,Rampal,24,118,12,51,36,169
-6,Sarankhola,190,2089,113,417,303,2506
-7,Chitalmari,20,90,195,725,214,906
-8,Morrelgonj,57,235,311,901,368,1136
-9,Mongla,37,105,0,0,37,105
-10,Mollahat,3,17,28,91,31,125
-11,Fakirhat,157,756,16,34,173,790
-12,Total,637,4066,790,2818,1489,6992
+1,Bagerhat,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
+4,Bagerhat Sadar,14,47,32,185,46,232
+5,Kachua,135,609,83,414,281,1023
+6,Rampal,24,118,12,51,36,169
+7,Sharonkhola,190,2089,113,417,303,2506
+8,Chitolmari,20,90,195,725,214,906
+9,Morrelgonj,57,235,311,901,368,1136
+10,Mongla,37,105,0,0,37,105
+11,Mollahat,3,17,28,91,31,125
+12,Fakirhat,157,756,16,34,173,790
+13,Total,637,4066,790,2818,1489,6992

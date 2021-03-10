@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of NGO school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of NGO school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Akkelpur,87,0,87,87,1092,1609,2701,31
-4,Joypurhat sadar,93,0,93,93,1107,1522,2629,28
-5,Kalai,49,0,49,49,665,997,1662,34
-6,Khetlal,39,0,42,42,530,793,1323,32
-7,Panchbibi,32,70,58,128,947,1228,2175,17
-8,Total,300,70,329,399,4341,6149,10490,26
+1,Joypurhat,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of NGO school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Akkelpur,87,0,87,87,1092,1609,2701,31
+5,Joypurhat sadar,93,0,93,93,1107,1522,2629,28
+6,Kalai,49,0,49,49,665,997,1662,34
+7,Khetlal,39,0,42,42,530,793,1323,32
+8,Panchbibi,32,70,58,128,947,1228,2175,17
+9,Total,300,70,329,399,4341,6149,10490,26

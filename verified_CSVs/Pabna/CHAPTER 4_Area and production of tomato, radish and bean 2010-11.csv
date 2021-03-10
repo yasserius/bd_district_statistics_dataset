@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila Upazila 1,Tomato Area 2,Tomato Production 3,Radish Area 4,Radish Production 5,Bean Area 6,Bean Production 7
-3,Atgharia,22,27,18,69,135,66
-4,Bera,67,115,78,234,26,24
-5,Bhangura,36,63,42,110,23,15
-6,Chatmohar,26,35,98,185,35,73
-7,Faridpur,27,85,47,193,27,11
-8,Ishwardi,780,4056,1075,4730,2680,10720
-9,Pabna Sadar,126,282,270,787,114,103
-10,Santhia,185,1800,345,5600,311,1512
-11,Sujanagar,80,281,55,216,22,18
-12,Total,6745,6744,2028,12125,3373,12543
+1,Pabna,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila Upazila 1,Tomato Area 2,Tomato Production 3,Radish Area 4,Radish Production 5,Bean Area 6,Bean Production 7
+4,Atgharia,22,27,18,69,135,66
+5,Bera,67,115,78,234,26,24
+6,Bhangura,36,63,42,110,23,15
+7,Chatmohar,26,35,98,185,35,73
+8,Faridpur,27,85,47,193,27,11
+9,Ishwardi,780,4056,1075,4730,2680,10720
+10,Pabna Sadar,126,282,270,787,114,103
+11,Santhia,185,1800,345,5600,311,1512
+12,Sujanagar,80,281,55,216,22,18
+13,Total,6745,6744,2028,12125,3373,12543

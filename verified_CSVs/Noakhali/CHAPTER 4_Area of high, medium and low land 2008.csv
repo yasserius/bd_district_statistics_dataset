@@ -1,14 +1,15 @@
 ,0,1,2,3
 0,"Area of high, medium and low land 2008",,,
-1,,,,
-2,Upazila,High land,Medium land,Low land
-3,Begumganj,3689,5886,2734
-4,Chatkhil,5000,2960,1600
-5,Companiganj,2196,2910,1426
-6,Hatiya,2470,6338,1992
-7,Kabirhat,8600,3581,5150
-8,Noakhali Sadar,3843,4848,500
-9,Senbagh,2365,3429,1643
-10,Sonaimuri,2857,3840,1992
-11,Subarnachar,1412,6338,1064
-12,Total,32432,40130,18101
+1,Noakhali,,,
+2,,,,
+3,Upazila,High land,Medium land,Low land
+4,Begumganj,3689,5886,2734
+5,Chatkhil,5000,2960,1600
+6,Companiganj,2196,2910,1426
+7,Hatiya,2470,6338,1992
+8,Kabirhat,8600,3581,5150
+9,Noakhali Sadar,3843,4848,500
+10,Senbagh,2365,3429,1643
+11,Sonaimuri,2857,3840,1992
+12,Subarnachar,1412,6338,1064
+13,Total,32432,40130,18101

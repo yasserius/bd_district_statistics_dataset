@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Begumganj,22,344,66685,8660
-4,Chatkhil,3,50,29252,1122
-5,Companiganj,6,118,42370,4800
-6,Hatiya,0,0,0,0
-7,Kabirhat,2,31,4300,525
-8,Noakhali Sadar,11,218,48631,7677
-9,Senbagh,3,38,22945,1305
-10,Sonaimuri,10,66,25024,1019
-11,Subarnachar,0,0,0,0
-12,Total,57,865,239207,25108
+1,Noakhali,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Begumganj,22,344,66685,8660
+5,Chatkhil,3,50,29252,1122
+6,Companiganj,6,118,42370,4800
+7,Hatiya,0,0,0,0
+8,Kabirhat,2,31,4300,525
+9,Noakhali Sadar,11,218,48631,7677
+10,Senbagh,3,38,22945,1305
+11,Sonaimuri,10,66,25024,1019
+12,Subarnachar,0,0,0,0
+13,Total,57,865,239207,25108

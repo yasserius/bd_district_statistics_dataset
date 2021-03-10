@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kawmi madrasah, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Dhaka Metropolitan,171,1090,7,1100,17522,798,14320,13
-4,Dhamrai,0,0,0,0,0,0,0,0
-5,Dohar,18,18,0,18,540,270,810,45
-6,Keraniganj,60,512,80,592,4460,972,5432,9
-7,Nawabganj,32,176,0,176,2307,0,2307,13
-8,Savar,25,250,30,270,6709,2236,8945,33
-9,Total,306,2046,117,2156,31538,4276,31814,15
+1,Dhaka,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Dhaka Metropolitan,171,1090,7,1100,17522,798,14320,13
+5,Dhamrai,0,0,0,0,0,0,0,0
+6,Dohar,18,18,0,18,540,270,810,45
+7,Keraniganj,60,512,80,592,4460,972,5432,9
+8,Nawabganj,32,176,0,176,2307,0,2307,13
+9,Savar,25,250,30,270,6709,2236,8945,33
+10,Total,306,2046,117,2156,31538,4276,31814,15

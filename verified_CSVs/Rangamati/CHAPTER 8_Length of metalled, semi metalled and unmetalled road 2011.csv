@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
-1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
-3,Baghaichhari,30,30,200,260
-4,Barkal,0,5,436,441
-5,Belai Chhari,0,0,0,0
-6,Jurai Chhari,12,22,295,329
-7,Kaptai,80,31,151,262
-8,Kawkhali,99,47,147,293
-9,Langadu,25,52,196,273
-10,Naniarchar,55,2,178,235
-11,Rangamati Sadar,91.25,60,210,361.25
-12,Rajasthali,16,15,208,239
-13,Total,408.25,264,2021,2693.25
+1,Rangamati,,,,
+2,(Kilometer),,,,
+3,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
+4,Baghaichhari,30,30,200,260
+5,Barkal,0,5,436,441
+6,Belai Chhari,0,0,0,0
+7,Jurai Chhari,12,22,295,329
+8,Kaptai,80,31,151,262
+9,Kawkhali,99,47,147,293
+10,Langadu,25,52,196,273
+11,Naniarchar,55,2,178,235
+12,Rangamati Sadar,91.25,60,210,361.25
+13,Rajasthali,16,15,208,239
+14,Total,408.25,264,2021,2693.25

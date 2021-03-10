@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Non-government secondary school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Alfadanga,19,146,42,188,3489,4060,7549,40
-4,Bhanga,27,260,59,319,6256,7463,13719,43
-5,Boalmari,27,239,56,295,5424,6065,11489,39
-6,Charbhadrashon,14,131,15,146,1519,2473,3992,27
-7,Faridpur Sadar,74,459,171,630,11689,14437,26126,41
-8,Madhukhali,36,344,99,443,6522,7386,13908,31
-9,Nagarkanda,19,152,40,192,5081,5487,10568,55
-10,Sadarpur,24,177,39,216,3426,6044,9470,44
-11,Saltha,14,126,19,145,3242,3441,6683,46
-12,Total,254,2034,540,2574,46648,56856,103504,40
+1,Faridpur,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Alfadanga,19,146,42,188,3489,4060,7549,40
+5,Bhanga,27,260,59,319,6256,7463,13719,43
+6,Boalmari,27,239,56,295,5424,6065,11489,39
+7,Charbhadrashon,14,131,15,146,1519,2473,3992,27
+8,Faridpur Sadar,74,459,171,630,11689,14437,26126,41
+9,Madhukhali,36,344,99,443,6522,7386,13908,31
+10,Nagarkanda,19,152,40,192,5081,5487,10568,55
+11,Sadarpur,24,177,39,216,3426,6044,9470,44
+12,Saltha,14,126,19,145,3242,3441,6683,46
+13,Total,254,2034,540,2574,46648,56856,103504,40

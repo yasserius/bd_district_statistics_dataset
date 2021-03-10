@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of different club and store 2011,,,,
-1,,,,,
-2,Upazila,Sports club,Cultural club,Science club,Other social club
-3,Belabo,4,1,0,6
-4,Manohardi,61,17,0,1
-5,Narsingdi Sadar,29,12,0,1
-6,Palash,9,6,0,6
-7,Roypura,29,58,0,1
-8,Sibpur,83,0,0,2
-9,Total,215,94,0,17
+1,Narsingdi,,,,
+2,,,,,
+3,Upazila,Sports club,Cultural club,Science club,Other social club
+4,Belabo,4,1,0,6
+5,Manohardi,61,17,0,1
+6,Narsingdi Sadar,29,12,0,1
+7,Palash,9,6,0,6
+8,Roypura,29,58,0,1
+9,Shibpur,83,0,0,2
+10,Total,215,94,0,17

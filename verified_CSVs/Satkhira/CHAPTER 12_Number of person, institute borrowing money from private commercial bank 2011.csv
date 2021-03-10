@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2,  Upazila,Number of branch of all private commercial banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
-3,Assasuni,4,260,0,0,0,515,850,775,850,12,15
-4,Debhata,2,0,4859,0,0,0,0,0,4856,0,5
-5,Kalaroa,2,3200,13420,0,0,1342,2570,4542,15990,40,24
-6,Kaliganj,3,105,0,0,0,0,0,105,0,25,0
-7,Satkhira Sadar,14,8500,1200,4010,0,10020,1300,22530,2500,59,1
-8,Shyamnagar,1,87,0,0,0,38,4,125,4,0,0
-9,Tala,3,250,4982,0,0,550,130,800,5112,19,2
-10,Total,29,12402,24461,4010,0,12465,4854,28877,29312,155,47
+1,Satkhira,,,,,,,,,,,
+2,,,,,,,,,,,,
+3,  Upazila,Number of branch of all private commercial banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
+4,Assasuni,4,260,0,0,0,515,850,775,850,12,15
+5,Debhata,2,0,4859,0,0,0,0,0,4856,0,5
+6,Kalaroa,2,3200,13420,0,0,1342,2570,4542,15990,40,24
+7,Kaliganj,3,105,0,0,0,0,0,105,0,25,0
+8,Satkhira Sadar,14,8500,1200,4010,0,10020,1300,22530,2500,59,1
+9,Shyamnagar,1,87,0,0,0,38,4,125,4,0,0
+10,Tala,3,250,4982,0,0,550,130,800,5112,19,2
+11,Total,29,12402,24461,4010,0,12465,4854,28877,29312,155,47

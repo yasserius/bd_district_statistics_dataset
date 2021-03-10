@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,"Number of branch of specialized (Krishi, Co-operative etc) bank 2011",,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Atwari,3,16,4412,60
-4,Boda,4,22,27041,181
-5,Debiganj,4,22,7963,188
-6,Panchagarh Sadar,3,23,7878,226
-7,Tentulia,3,19,5363,215
-8,Total,17,102,52657,870
+1,Panchagor,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Atwari,3,16,4412,60
+5,Boda,4,22,27041,181
+6,Debiganj,4,22,7963,188
+7,Panchagarh Sadar,3,23,7878,226
+8,Tentulia,3,19,5363,215
+9,Total,17,102,52657,870

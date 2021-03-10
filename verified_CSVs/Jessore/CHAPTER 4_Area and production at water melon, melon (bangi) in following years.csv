@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,"Area and production at water melon, melon (bangi) in following years",,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,2010-11 - Area,2010-11 - Production,2009-10 - Area,2009-10 - Production
-3,Abhaynagar,163,1101,186,456
-4,Bagherpara,18,60,16,5
-5,Chaugachha,39,205,38,196
-6,Jessore Sadar,131,402,123,388
-7,Jhikargachha,10,26,14,43
-8,Keshabpur,34,128,32,120
-9,Manirampur,18,79,23,101
-10,Sharsha,1,2,1,1
-11,Total,414,2003,433,1310
+1,Jessore,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,2010-11 - Area,2010-11 - Production,2009-10 - Area,2009-10 - Production
+4,Abhaynagar,163,1101,186,456
+5,Bagherpara,18,60,16,5
+6,Chaugachha,39,205,38,196
+7,Jessore Sadar,131,402,123,388
+8,Jhikargachha,10,26,14,43
+9,Keshabpur,34,128,32,120
+10,Manirampur,18,79,23,101
+11,Sharsha,1,2,1,1
+12,Total,414,2003,433,1310

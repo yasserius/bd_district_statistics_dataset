@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2009-2010,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
-3,Daulotpur,65,17,13707,5630,22350,37152
-4,Gheor,0,0,5223,1284,19135,36613
-5,Horirampur,336,56,9474,1894,14850,26365
-6,Manikganj Sadar,338,80,15280,6487,26372,45723
-7,Saturia,78,69,12755,7354,16813,45949
-8,Shibalaya,25,6,12127,4982,19437,32626
-9,Singair,275,188,17268,5450,28301,47738
-10,Total,1117,416,85834,33081,147258,272166
+1,Manikganj,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
+4,Daulotpur,65,17,13707,5630,22350,37152
+5,Gheor,0,0,5223,1284,19135,36613
+6,Horirampur,336,56,9474,1894,14850,26365
+7,Manikganj Sadar,338,80,15280,6487,26372,45723
+8,Saturia,78,69,12755,7354,16813,45949
+9,Shibalaya,25,6,12127,4982,19437,32626
+10,Singair,275,188,17268,5450,28301,47738
+11,Total,1117,416,85834,33081,147258,272166

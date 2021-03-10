@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Land area under irrigation for selected crops 2008,,,,,,
-1,,,,,,,
-2, Upazila,Paddy - Total area,Paddy - Irrigated area,Wheat - Total area,Wheat - Irrigated area,Potato - Total area,Potato - Irrigated area
-3,Baliakandi,22882,8413,9253,9253,120,120
-4,Goalanda,8529,7452,1497,4500,22,1
-5,Kalukhali,21100,20000,8283,8283,58,30
-6,Pangsha,42307,31400,13480,13017,186,40
-7,Rajbari Sadar,35131,23980,7639,1335,32,6
-8,Total,129949,91245,40152,36388,418,197
+1,Rajbari,,,,,,
+2,,,,,,,
+3,Upazila,Paddy - Total area,Paddy - Irrigated area,Wheat - Total area,Wheat - Irrigated area,Potato - Total area,Potato - Irrigated area
+4,Baliakandi,22882,8413,9253,9253,120,120
+5,Goalanda,8529,7452,1497,4500,22,1
+6,Kalukhali,21100,20000,8283,8283,58,30
+7,Pangsha,42307,31400,13480,13017,186,40
+8,Rajbari Sadar,35131,23980,7639,1335,32,6
+9,Total,129949,91245,40152,36388,418,197

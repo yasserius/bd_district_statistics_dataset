@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,,,,,,
-2,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
-3,Atwari,1,30,0,10,0
-4,Boda,1,63,0,3,1
-5,Debiganj,3,48,1,8,1
-6,Panchagarh Sadar,2,17,1,4,1
-7,Tentulia,1,7,1,2,1
-8,Total,8,165,3,27,4
+1,Panchagor,,,,,
+2,,,,,,
+3,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
+4,Atwari,1,30,0,10,0
+5,Boda,1,63,0,3,1
+6,Debiganj,3,48,1,8,1
+7,Panchagarh Sadar,2,17,1,4,1
+8,Tentulia,1,7,1,2,1
+9,Total,8,165,3,27,4

@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of papaya, guava, lime and lemon 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Papaya Area,Papaya Production,Guava Area,Guava Production,Lime and lemon Area,Lime and lemon Production
-3,Atwari,1.38,357,2.36,190.1,0.18,8750
-4,Boda,40,40,15,7.09,4,84
-5,Debiganj,15,85,20,205,12,6
-6,Panchagarh Sadar,19,669,46,447,30,212
-7,Tentulia,5,76,3,37,4,120
-8,Total,80.38,1227,86.36,886.19,50.18,9172
+1,Panchagor,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Papaya Area,Papaya Production,Guava Area,Guava Production,Lime and lemon Area,Lime and lemon Production
+4,Atwari,1.38,357,2.36,190.1,0.18,8750
+5,Boda,40,40,15,7.09,4,84
+6,Debiganj,15,85,20,205,12,6
+7,Panchagarh Sadar,19,669,46,447,30,212
+8,Tentulia,5,76,3,37,4,120
+9,Total,80.38,1227,86.36,886.19,50.18,9172

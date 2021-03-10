@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of printing press and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Araihazar,0,0,0,0
-4,Bandar,0,0,0,0
-5,Narayanganj Sadar,22,22,120,242
-6,Rupganj,0,0,0,0
-7,Sonargaon,13,0,1000,1000
-8,Total,35,22,1120,1242
+1,Narayanganj,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Araihazar,0,0,0,0
+5,Bandar,0,0,0,0
+6,Narayanganj Sadar,22,22,120,242
+7,Rupganj,0,0,0,0
+8,Sonargaon,13,0,1000,1000
+9,Total,35,22,1120,1242

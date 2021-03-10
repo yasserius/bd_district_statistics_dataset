@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of private (non-registered) primary school (class I-V), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of Non-govt. primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Dhaka Metropolitan,86,195,86,281,7621,5890,13511,48
-4,Dhamrai,0,0,0,0,0,0,0,0
-5,Dohar,1,4,3,7,133,99,232,33
-6,Keraniganj,5,4,16,20,411,489,900,45
-7,Nawabganj,3,1,5,6,272,301,573,96
-8,Savar,4,11,9,20,737,827,1564,78
-9,Total,99,215,119,334,9174,7606,16780,50
+1,Dhaka,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of Non-govt. primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Dhaka Metropolitan,86,195,86,281,7621,5890,13511,48
+5,Dhamrai,0,0,0,0,0,0,0,0
+6,Dohar,1,4,3,7,133,99,232,33
+7,Keraniganj,5,4,16,20,411,489,900,45
+8,Nawabganj,3,1,5,6,272,301,573,96
+9,Savar,4,11,9,20,737,827,1564,78
+10,Total,99,215,119,334,9174,7606,16780,50

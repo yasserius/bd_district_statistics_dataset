@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of flour mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Units,Persons engaged - Family,Persons engaged - Hired,Persons engaged - Total
-3,Chandpur Sadar,88,91,90,181
-4,Foridganj,45,60,20,80
-5,Haimchar,15,15,15,30
-6,Hajiganj,15,15,13,28
-7,Kachua,52,56,52,108
-8,Matlab Dakshin,36,36,36,72
-9,Matlab Uttar,30,30,30,60
-10,Shahrasti,55,60,100,160
-11,Total,336,363,356,719
+1,Chandpur,,,,
+2,,,,,
+3, Upazila, Units,Persons engaged - Family,Persons engaged - Hired,Persons engaged - Total
+4,Chandpur Sadar,88,91,90,181
+5,Foridganj,45,60,20,80
+6,Haimchar,15,15,15,30
+7,Hajiganj,15,15,13,28
+8,Kachua,52,56,52,108
+9,Matlab Dakshin,36,36,36,72
+10,Matlab Uttar,30,30,30,60
+11,Shahrasti,55,60,100,160
+12,Total,336,363,356,719

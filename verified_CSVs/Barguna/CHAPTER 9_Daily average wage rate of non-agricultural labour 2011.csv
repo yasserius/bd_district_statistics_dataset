@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Daily average wage rate of non-agricultural labour 2011,,,,,
-1,,,,,,
-2,(Wage in taka) - Upazila,(Wage in taka) - Porter (coolee),(Wage in taka) - Garden labour male,(Wage in taka) - Garden female labour,(Wage in taka) - Other labour (Adult),(Wage in taka) - Other labour (Child)
-3,Amtali,250,250,0,250,125
-4,Bamna,200,250,150,250,100
-5,Barguna Sadar,250,250,0,250,100
-6,Betagi,250,250,0,240,0
-7,Patharghata,240,300,200,250,125
-8,Average,238,260,175,248,113
+1,Barguna,,,,,
+2,,,,,,
+3,(Wage in taka) - Upazila,(Wage in taka) - Porter (coolee),(Wage in taka) - Garden labour male,(Wage in taka) - Garden female labour,(Wage in taka) - Other labour (Adult),(Wage in taka) - Other labour (Child)
+4,Amtali,250,250,0,250,125
+5,Bamna,200,250,150,250,100
+6,Barguna Sadar,250,250,0,250,100
+7,Betagi,250,250,0,240,0
+8,Patharghata,240,300,200,250,125
+9,Average,238,260,175,248,113

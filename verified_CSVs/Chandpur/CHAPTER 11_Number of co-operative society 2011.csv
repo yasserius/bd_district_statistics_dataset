@@ -1,13 +1,14 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,,,,
-2,Upazila,Number,Number of employee,Number of client
-3,Chandpur Sadar,603,161,34681
-4,Foridganj,470,1895,45149
-5,Haimchar,36,4,720
-6,Hajiganj,160,2550,4501
-7,Kachua,283,302,13112
-8,Matlab Dakshin,356,356,10414
-9,Matlab Uttar,245,3,5000
-10,Shahrasti,228,228,10100
-11,Total,2381,5499,123677
+1,Chandpur,,,
+2,,,,
+3,Upazila,Number,Number of employee,Number of client
+4,Chandpur Sadar,603,161,34681
+5,Foridganj,470,1895,45149
+6,Haimchar,36,4,720
+7,Hajiganj,160,2550,4501
+8,Kachua,283,302,13112
+9,Matlab Dakshin,356,356,10414
+10,Matlab Uttar,245,3,5000
+11,Shahrasti,228,228,10100
+12,Total,2381,5499,123677

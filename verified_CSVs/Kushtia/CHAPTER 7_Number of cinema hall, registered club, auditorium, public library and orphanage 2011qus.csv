@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,,,,,,
-2,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
-3,Kushtia Sadar,2,175,7,7,4
-4,Bheramara,3,54,0,2,1
-5,Daulatpur,1,70,26,1,1
-6,Khoksa,2,44,1,4,1
-7,Kumarkhali,1,52,1,2,6
-8,Mirpur,0,10,1,8,1
-9,Total,9,405,36,24,14
+1,Kushtia,,,,,
+2,,,,,,
+3,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
+4,Kushtia Sadar,2,175,7,7,4
+5,Bheramara,3,54,0,2,1
+6,Daulatpur,1,70,26,1,1
+7,Khoksa,2,44,1,4,1
+8,Kumarkhali,1,52,1,2,6
+9,Mirpur,0,10,1,8,1
+10,Total,9,405,36,24,14

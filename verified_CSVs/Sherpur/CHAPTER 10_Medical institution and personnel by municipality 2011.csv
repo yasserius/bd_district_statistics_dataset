@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Medical institution and personnel by municipality 2011,,,,,,
-1,,,,,,,
-2, Municipality,Government institution,Private institution,Medical personal - Bed,Medical personal - Doctor,Medical personal - Nurse,Medical personal - Technician
-3,Jhenaigati,0,0,0,0,0,0
-4,Nakla,1,1,52,14,11,8
-5,Nalitabari,1,0,31,13,6,6
-6,Sherpur,2,3,30,9,18,6
-7,Sreebardi,1,0,31,12,8,2
-8,Total,5,4,144,48,43,22
+1,Sherpur,,,,,,
+2,,,,,,,
+3, Municipality,Government institution,Private institution,Medical personal - Bed,Medical personal - Doctor,Medical personal - Nurse,Medical personal - Technician
+4,Jhenaigati,0,0,0,0,0,0
+5,Nakla,1,1,52,14,11,8
+6,Nalitabari,1,0,31,13,6,6
+7,Sherpur,2,3,30,9,18,6
+8,Sreebardi,1,0,31,12,8,2
+9,Total,5,4,144,48,43,22

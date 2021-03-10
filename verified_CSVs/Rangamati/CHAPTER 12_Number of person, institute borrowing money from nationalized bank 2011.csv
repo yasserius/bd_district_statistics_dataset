@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from nationalized bank 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2,  Upazila,Number of branch of all    nationalized banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
-3,Baghaichhari,2,1442,3,2,0,601,47,2045,50,4.32,0.69
-4,Barkal,2,2700,36,0,0,170,80,2870,116,272.4,4.64
-5,Belai Chhari,2,762,0,0,0,179,0,941,0,2.53,0
-6,Jurai Chhari,2,4535,114,0,0,306,17,4841,131,7.71,1.1
-7,Kaptai,8,651,48,0,0,592,335,1243,383,168,153
-8,Kawkhali,3,1390,32,0,0,129,41,1519,73,3.84,0.72
-9,Langadu,2,1028,114,0,0,63,10,1091,124,2.68,0.31
-10,Naniarchar,2,5575,293,1,0,647,47,6223,340,1.76,0.59
-11,Rangamati Sadar,11,906,82,2,0,2308,547,3216,629,630.35,228.62
-12,Rajasthali,2,1350,329,0,0,82,41,1433,370,3.08,0.77
-13,Total,36,20339,1051,5,0,5077,1165,25422,2216,1096.67,390.44
+1,Rangamati,,,,,,,,,,,
+2,,,,,,,,,,,,
+3,  Upazila,Number of branch of all    nationalized banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
+4,Baghaichhari,2,1442,3,2,0,601,47,2045,50,4.32,0.69
+5,Barkal,2,2700,36,0,0,170,80,2870,116,272.4,4.64
+6,Belai Chhari,2,762,0,0,0,179,0,941,0,2.53,0
+7,Jurai Chhari,2,4535,114,0,0,306,17,4841,131,7.71,1.1
+8,Kaptai,8,651,48,0,0,592,335,1243,383,168,153
+9,Kawkhali,3,1390,32,0,0,129,41,1519,73,3.84,0.72
+10,Langadu,2,1028,114,0,0,63,10,1091,124,2.68,0.31
+11,Naniarchar,2,5575,293,1,0,647,47,6223,340,1.76,0.59
+12,Rangamati Sadar,11,906,82,2,0,2308,547,3216,629,630.35,228.62
+13,Rajasthali,2,1350,329,0,0,82,41,1433,370,3.08,0.77
+14,Total,36,20339,1051,5,0,5077,1165,25422,2216,1096.67,390.44

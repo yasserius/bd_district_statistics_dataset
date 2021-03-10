@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7
 0,Average price of selected item 2011,,,,,,,
-1,"(Price unit per kg, taka)",,,,,,,
-2,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
-3,Bagatipara,44,34,25,20,24,9,118
-4,Baraigram,45,35,26,21,25,10,130
-5,Gurudaspur,42,34,28,24,30,10,125
-6,Lalpur,42,32,25,20,28,10,132
-7,Natore Sadar,42,32,26,16,27,10,124
-8,Singra,40,36,32,24,30,10,130
-9,Average,43,34,27,21,27,10,127
+1,Natore,,,,,,,
+2,"(Price unit per kg, taka)",,,,,,,
+3,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
+4,Bagatipara,44,34,25,20,24,9,118
+5,Baraigram,45,35,26,21,25,10,130
+6,Gurudaspur,42,34,28,24,30,10,125
+7,Lalpur,42,32,25,20,28,10,132
+8,Natore Sadar,42,32,26,16,27,10,124
+9,Singra,40,36,32,24,30,10,130
+10,Average,43,34,27,21,27,10,127

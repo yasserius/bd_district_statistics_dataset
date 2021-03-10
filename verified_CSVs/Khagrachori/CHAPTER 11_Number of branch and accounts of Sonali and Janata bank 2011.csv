@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Sonali and Janata bank 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2,Upazila,Sonali bank Number of branch Number of branch,Sonali bank Account S.D,Sonali bank Account C.D,Sonali bank Account F.D,Sonali bank Account S.T.D,Janata bank Number of branch Number of branch,Janata bank Account S.D,Janata bank Account C.D,Janata bank Account F.D,Janata bank Account S.T.D
-3,Dighinala,1,6736,1107,82,31,0,0,0,0,0
-4,Khagrachhari Sadar,1,928,0,85,63,1,0,0,26,28
-5,Laxshmichhari,1,103,0,13,7,0,0,0,0,0
-6,Mahalchhari,1,4432,228,18,19,0,0,0,0,0
-7,Manikchhari,1,3180,711,23,20,0,0,0,0,0
-8,Matiranga,1,6220,0,85,34,0,0,0,0,0
-9,Panchhari,1,0,0,40,15,0,0,0,0,0
-10,Ramgarh,1,6603,277,36,27,0,0,0,0,0
-11,Total,8,28202,2323,382,216,1,0,0,26,28
+1,Khagrachori,,,,,,,,,,
+2,,,,,,,,,,,
+3,Upazila,Sonali bank Number of branch Number of branch,Sonali bank Account S.D,Sonali bank Account C.D,Sonali bank Account F.D,Sonali bank Account S.T.D,Janata bank Number of branch Number of branch,Janata bank Account S.D,Janata bank Account C.D,Janata bank Account F.D,Janata bank Account S.T.D
+4,Dighinala,1,6736,1107,82,31,0,0,0,0,0
+5,Khagrachori,1,928,0,85,63,1,0,0,26,28
+6,Laxshmichhari,1,103,0,13,7,0,0,0,0,0
+7,Mahalchhari,1,4432,228,18,19,0,0,0,0,0
+8,Manikchhari,1,3180,711,23,20,0,0,0,0,0
+9,Matiranga,1,6220,0,85,34,0,0,0,0,0
+10,Panchhari,1,0,0,40,15,0,0,0,0,0
+11,Ramgarh,1,6603,277,36,27,0,0,0,0,0
+12,Total,8,28202,2323,382,216,1,0,0,26,28

@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of wheat, jute and sugarcane 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Wheat - Area,Wheat - Production,Jute - Area,Jute - Production,Sugarcane - Area,Sugarcane - Production
-3,Azmirigonj,12,18,0,0,0,0
-4,Bahubal,12,10,0,0,0,0
-5,Baniachang,0,0,0,0,0,0
-6,Chunarughat,123,102,0,0,3005,6611
-7,Habiganj Sadar,48,53,0,0,70,1470
-8,Lakhai,61,43,220,146,0,0
-9,Madhabpur,722,443,289,157,38,25
-10,Nabiganj,37,30,35,90,0,0
-11,Total,1015,698,544,394,3113,8106
+1,Habiganj,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Wheat - Area,Wheat - Production,Jute - Area,Jute - Production,Sugarcane - Area,Sugarcane - Production
+4,Azmirigonj,12,18,0,0,0,0
+5,Bahubal,12,10,0,0,0,0
+6,Baniachang,0,0,0,0,0,0
+7,Chunarughat,123,102,0,0,3005,6611
+8,Habiganj Sadar,48,53,0,0,70,1470
+9,Lakhai,61,43,220,146,0,0
+10,Madhabpur,722,443,289,157,38,25
+11,Nabiganj,37,30,35,90,0,0
+12,Total,1015,698,544,394,3113,8106

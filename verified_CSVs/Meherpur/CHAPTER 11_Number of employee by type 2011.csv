@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,,,,,,
-2,Upazila,Police personnel,Ansar personnel,VDP personnel,Autonomous Bodies,Local govt. Employees
-3,Gangni,182,420,8448,91,52
-4,Mujibnagar,44,228,2244,1,46
-5,Meherpur Sadar,136,359,2890,101,130
-6,Total,362,1007,13582,193,228
+1,Meherpur,,,,,
+2,,,,,,
+3,Upazila,Police personnel,Ansar personnel,VDP personnel,Autonomous Bodies,Local govt. Employees
+4,Gangni,182,420,8448,91,52
+5,Mujibnagar,44,228,2244,1,46
+6,Meherpur Sadar,136,359,2890,101,130
+7,Total,362,1007,13582,193,228

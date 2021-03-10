@@ -1,16 +1,17 @@
 ,0,1,2,3
 0,Length of railway and water way 2011,,,
-1,(Kilometer),,,
-2, Upazila,"Total railway (all broad gage, meter gage  duel gage)",Water way in monsoon (river + canal),Water way round the year (river + canal)
-3,Atrai,12,30,10
-4,Badalgachhi,0,0,0
-5,Dhamoirhat,0,0,0
-6,Manda,0,35,0
-7,Mahadebpur,0,17,37
-8,Naogaon sadar,0,60,40
-9,Niamatpur,0,34.5,0
-10,Patnitala,0,6,0
-11,Porsha,0,9,0
-12,Raninagar,5,35,0
-13,Sapahar,0,0,0
-14,Total,17,226.5,87
+1,Naogaon,,,
+2,(Kilometer),,,
+3, Upazila,"Total railway (all broad gage, meter gage  duel gage)",Water way in monsoon (river + canal),Water way round the year (river + canal)
+4,Atrai,12,30,10
+5,Badalgachhi,0,0,0
+6,Dhamoirhat,0,0,0
+7,Manda,0,35,0
+8,Mahadebpur,0,17,37
+9,Naogaon sadar,0,60,40
+10,Niamatpur,0,34.5,0
+11,Patnitala,0,6,0
+12,Porsha,0,9,0
+13,Raninagar,5,35,0
+14,Sapahar,0,0,0
+15,Total,17,226.5,87

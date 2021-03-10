@@ -1,15 +1,16 @@
 ,0,1,2,3
 0,Number of leasing company 2011,,,
-1,,,,
-2,Upazila/city corporation,Number,Number of employee,Number of client (case)
-3,Bagha,0,0,0
-4,Baghmara,1,5,1230
-5,Charghat,0,0,0
-6,Durgapur,0,0,0
-7,Godagari,1,12,200
-8,Mohanpur,0,0,0
-9,Paba,1,15,1300
-10,Puthia,0,0,0
-11,Rajshahi city corporation,2,17,747
-12,Tanore,0,0,0
-13,Total,5,49,3477
+1,Rajshahi,,,
+2,,,,
+3,Upazila/city corporation,Number,Number of employee,Number of client (case)
+4,Bagha,0,0,0
+5,Baghmara,1,5,1230
+6,Charghat,0,0,0
+7,Durgapur,0,0,0
+8,Godagari,1,12,200
+9,Mohanpur,0,0,0
+10,Paba,1,15,1300
+11,Puthia,0,0,0
+12,Rajshahi City Corporation,2,17,747
+13,Tanore,0,0,0
+14,Total,5,49,3477

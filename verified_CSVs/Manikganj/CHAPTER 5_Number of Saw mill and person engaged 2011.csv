@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of Saw mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Daulotpur,14,0,50,50
-4,Gheor,25,27,73,100
-5,Horirampur,23,23,115,138
-6,Manikganj Sadar,55,55,220,275
-7,Saturia,14,14,70,84
-8,Shibalaya,22,25,60,85
-9,Singair,26,26,130,156
-10,Total,179,170,718,888
+1,Manikganj,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Daulotpur,14,0,50,50
+5,Gheor,25,27,73,100
+6,Horirampur,23,23,115,138
+7,Manikganj Sadar,55,55,220,275
+8,Saturia,14,14,70,84
+9,Shibalaya,22,25,60,85
+10,Singair,26,26,130,156
+11,Total,179,170,718,888

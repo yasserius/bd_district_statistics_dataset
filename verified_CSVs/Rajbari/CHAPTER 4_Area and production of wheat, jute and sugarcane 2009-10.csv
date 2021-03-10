@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of wheat, jute and sugarcane 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Wheat - Area,Wheat - Production,Jute - Area,Jute - Production,Sugarcane - Area,Sugarcane - Production
-3,Baliakandi,10250,9380,21675,20266,1620,38709
-4,Goalanda,3800,3268,6480,6739,159,2733
-5,Kalukhali,6243,4955,16660,13328,2722,46274
-6,Pangsha,9812,7849,26180,20944,4278,72726
-7,Rajbari Sadar,10620,12744,17350,15875,1360,25800
-8,Total,40725,38196,88345,77152,10139,186242
+1,Rajbari,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Wheat - Area,Wheat - Production,Jute - Area,Jute - Production,Sugarcane - Area,Sugarcane - Production
+4,Baliakandi,10250,9380,21675,20266,1620,38709
+5,Goalanda,3800,3268,6480,6739,159,2733
+6,Kalukhali,6243,4955,16660,13328,2722,46274
+7,Pangsha,9812,7849,26180,20944,4278,72726
+8,Rajbari Sadar,10620,12744,17350,15875,1360,25800
+9,Total,40725,38196,88345,77152,10139,186242

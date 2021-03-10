@@ -1,20 +1,21 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,,,,,
-2,Upazila/City corporation,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Anowara,1,8,558,38
-4,Banshkhali,0,0,0,0
-5,Boalkhali,3,44,9493,1087
-6,Chandanaish,1,19,10000,500
-7,Chittagong City Corp.,144,4462,114463,69505
-8,Fatikchhari,17,139,102827,7768
-9,Hathazari,15,165,52376,10372
-10,Lohagara,8,56,40000,1500
-11,Mirsharai,11,137,35748,3273
-12,Patiya,12,120,36972,2362
-13,Rangunia,1,7,2792,200
-14,Raozan,7,72,16972,1362
-15,Sandwip,5,57,3030,8216
-16,Satkania,8,93,25474,2878
-17,Sitakunda,15,163,10507,6524
-18,Total,248,5542,461212,115585
+1,Chittagong,,,,
+2,,,,,
+3,Upazila/City corporation,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Anowara,1,8,558,38
+5,Banshkhali,0,0,0,0
+6,Boalkhali,3,44,9493,1087
+7,Chandanaish,1,19,10000,500
+8,Chittagong City Corporation,144,4462,114463,69505
+9,Fatikchhari,17,139,102827,7768
+10,Hathazari,15,165,52376,10372
+11,Lohagara,8,56,40000,1500
+12,Mirsharai,11,137,35748,3273
+13,Patiya,12,120,36972,2362
+14,Rangunia,1,7,2792,200
+15,Raozan,7,72,16972,1362
+16,Sandwip,5,57,3030,8216
+17,Satkania,8,93,25474,2878
+18,Sitakunda,15,163,10507,6524
+19,Total,248,5542,461212,115585

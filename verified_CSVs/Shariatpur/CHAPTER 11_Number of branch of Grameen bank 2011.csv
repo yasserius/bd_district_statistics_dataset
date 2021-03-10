@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of branch of Grameen bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of member,Number of account
-3,Bhedarganj,1,8,4387,4890
-4,Damudya,2,13,109,7412
-5,Gosairhat,3,21,11085,11085
-6,Naria,3,17,7532,9723
-7,Shariatpur Sadar,1,5,2396,2396
-8,Zanjira,2,13,3197,4004
-9,Total,12,77,28706,39510
+1,Shariatpur,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of member,Number of account
+4,Bhedarganj,1,8,4387,4890
+5,Damudya,2,13,109,7412
+6,Gosairhat,3,21,11085,11085
+7,Naria,3,17,7532,9723
+8,Shariatpur Sadar,1,5,2396,2396
+9,Zanjira,2,13,3197,4004
+10,Total,12,77,28706,39510

@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Population and literacy rate of 1981, 1991, 2001  2011 and number of voter 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2, Upazila,Population (000) - 1981,Population (000) - 1991,Population (000) - 2001,Population (000) - 2011,Literacy rate () - 1981,Literacy rate () - 1991,Literacy rate () - 2001,Literacy rate () - 2011,Number of voter (000) - Male,Number of voter (000) - Female,Number of voter (000) - Total
-3,Kalkini,234,251,272,273,44.5,35.9,45.2,49.0,79,61,160
-4,Madaripur Sadar,267,308,332,346,38.2,38.2,45.9,51.1,107,107,214
-5,Rajoir,182,204,218,229,16.5,28.5,44.3,48.2,65,75,140
-6,Shibchar,277,306,324,318,16.6,26.9,34.2,43.5,98,97,195
-7,Total,960,1069,1146,1166,28.9,32.4,42.4,48.0,349,360,709
+1,Madaripur,,,,,,,,,,,
+2,,,,,,,,,,,,
+3, Upazila,Population (000) - 1981,Population (000) - 1991,Population (000) - 2001,Population (000) - 2011,Literacy rate () - 1981,Literacy rate () - 1991,Literacy rate () - 2001,Literacy rate () - 2011,Number of voter (000) - Male,Number of voter (000) - Female,Number of voter (000) - Total
+4,Kalkini,234,251,272,273,44.5,35.9,45.2,49.0,79,61,160
+5,Madaripur Sadar,267,308,332,346,38.2,38.2,45.9,51.1,107,107,214
+6,Rajoir,182,204,218,229,16.5,28.5,44.3,48.2,65,75,140
+7,Shibchar,277,306,324,318,16.6,26.9,34.2,43.5,98,97,195
+8,Total,960,1069,1146,1166,28.9,32.4,42.4,48.0,349,360,709

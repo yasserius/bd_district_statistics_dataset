@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of garments factory (for local use) and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged Male,Person engaged Female,Person engaged Total
-3,Atwari,0,0,0,0
-4,Boda,0,0,0,0
-5,Debiganj,0,0,0,0
-6,Panchagarh Sadar,1,18,7,25
-7,Tentulia,5,250,150,400
-8,Total,6,268,157,425
+1,Panchagor,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged Male,Person engaged Female,Person engaged Total
+4,Atwari,0,0,0,0
+5,Boda,0,0,0,0
+6,Debiganj,0,0,0,0
+7,Panchagarh Sadar,1,18,7,25
+8,Tentulia,5,250,150,400
+9,Total,6,268,157,425

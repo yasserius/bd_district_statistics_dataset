@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6
 0,Number of community clinic and person engaged 2011,,,,,,
-1,,,,,,,
-2,Upazila,Number of clinic,Number of health asstt.,Number of FPI,Number of FWV,Number of FWA,Number of other staff
-3,Alamdanga,9,9,13,14,74,14
-4,Chuadanga Sadar,8,21,6,0,37,0
-5,Damurhuda,23,36,6,9,42,0
-6,Jibonnagar,20,20,2,4,12,17
-7,Total,60,86,27,27,165,31
+1,Chuadanga,,,,,,
+2,,,,,,,
+3,Upazila,Number of clinic,Number of health asstt.,Number of FPI,Number of FWV,Number of FWA,Number of other staff
+4,Alamdanga,9,9,13,14,74,14
+5,Chuadanga Sadar,8,21,6,0,37,0
+6,Damurhuda,23,36,6,9,42,0
+7,Jibonnagar,20,20,2,4,12,17
+8,Total,60,86,27,27,165,31

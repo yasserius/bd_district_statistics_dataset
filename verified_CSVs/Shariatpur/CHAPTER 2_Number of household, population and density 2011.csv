@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,,,,,,,,
-2, Upazila, Household,Population (000) - Male,Population (000) - Female,Population (000) - Total,Sex ratio (M/F),Average size of household,Density per sq. km.
-3,Bhedarganj,53305,121,132,253,92,4.76,967
-4,Damudya,24193,51,58,109,89,4.50,1204
-5,Gosairhat,33169,76,82,158,93,4.73,801
-6,Naria,49615,110,122,232,90,4.65,1138
-7,Shariatpur Sadar,45883,104,106,210,98,4.57,1201
-8,Zanjira,41715,96,98,194,98,4.65,788
-9,Total,247880,559,597,1156,94,4.66,984
+1,Shariatpur,,,,,,,
+2,,,,,,,,
+3, Upazila, Household,Population (000) - Male,Population (000) - Female,Population (000) - Total,Sex ratio (M/F),Average size of household,Density per sq. km.
+4,Bhedarganj,53305,121,132,253,92,4.76,967
+5,Damudya,24193,51,58,109,89,4.50,1204
+6,Gosairhat,33169,76,82,158,93,4.73,801
+7,Naria,49615,110,122,232,90,4.65,1138
+8,Shariatpur Sadar,45883,104,106,210,98,4.57,1201
+9,Zanjira,41715,96,98,194,98,4.65,788
+10,Total,247880,559,597,1156,94,4.66,984

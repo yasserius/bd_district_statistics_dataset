@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of warehouse and their storage capacity 2011,,,,,,,,
-1,(Capacity in metric ton),,,,,,,,
-2,Upazila,Food godown Number,Food godown Capacity,Fertilizer godown Number,Fertilizer godown Capacity,Jute godown Number,Jute godown Capacity,Other godown Number,Other godown Capacity
-3,Barlekha,1,650,0,0,0,0,0,0
-4,Juri,2,1000,0,0,0,0,0,0
-5,Kamalganj,5,2500,0,0,0,0,0,0
-6,Kulaura,3,4500,0,0,0,0,0,0
-7,Moulvibazar Sadar,6,3000,0,0,0,0,1,130
-8,Rajnagar,1,500,0,0,0,0,0,0
-9,Sreemangal,4,2000,0,0,0,0,0,0
-10,Total,22,14150,0,0,0,0,1,130
+1,Moulvibazar,,,,,,,,
+2,(Capacity in metric ton),,,,,,,,
+3,Upazila,Food godown Number,Food godown Capacity,Fertilizer godown Number,Fertilizer godown Capacity,Jute godown Number,Jute godown Capacity,Other godown Number,Other godown Capacity
+4,Barlekha,1,650,0,0,0,0,0,0
+5,Juri,2,1000,0,0,0,0,0,0
+6,Kamalganj,5,2500,0,0,0,0,0,0
+7,Kulaura,3,4500,0,0,0,0,0,0
+8,Moulvibazar Sadar,6,3000,0,0,0,0,1,130
+9,Rajnagar,1,500,0,0,0,0,0,0
+10,Sreemangal,4,2000,0,0,0,0,0,0
+11,Total,22,14150,0,0,0,0,1,130

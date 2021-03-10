@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,"Occurrence of river erosion during the year 2008-2011 (Yes, No)",,,,
-1,,,,,
-2,Upazila,2008,2009,2010,2011
-3,Dimla,Yes,Yes,Yes,Yes
-4,Domar,No,No,No,No
-5,Jaldhaka,Yes,Yes,Yes,Yes
-6,Kishorgonj,No,No,No,No
-7,Nilphamary Sadar,No,No,No,No
-8,Sayedpur,No,No,No,No
+1,Nilphamari,,,,
+2,,,,,
+3,Upazila,2008,2009,2010,2011
+4,Dimla,Yes,Yes,Yes,Yes
+5,Domar,No,No,No,No
+6,Joldhaka,Yes,Yes,Yes,Yes
+7,Kishorgonj,No,No,No,No
+8,Nilphamary Sadar,No,No,No,No
+9,Sayedpur,No,No,No,No

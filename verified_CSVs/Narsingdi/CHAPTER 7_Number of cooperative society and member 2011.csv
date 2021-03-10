@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of cooperative society and member 2011,,,,
-1,,,,,
-2, Upazila,Number of co-operative society,Number of member - Male,Number of member - Female, Total
-3,Belabo,202,3184,2217,5401
-4,Manohardi,215,4036,2172,6208
-5,Narsingdi Sadar,369,34214,3791,38005
-6,Palash,82,9870,6540,16410
-7,Roypura,628,19839,27397,47236
-8,Sibpur,329,21172,1841,23013
-9,Total,1825,92315,43958,136273
+1,Narsingdi,,,,
+2,,,,,
+3, Upazila,Number of co-operative society,Number of member - Male,Number of member - Female, Total
+4,Belabo,202,3184,2217,5401
+5,Manohardi,215,4036,2172,6208
+6,Narsingdi Sadar,369,34214,3791,38005
+7,Palash,82,9870,6540,16410
+8,Roypura,628,19839,27397,47236
+9,Shibpur,329,21172,1841,23013
+10,Total,1825,92315,43958,136273

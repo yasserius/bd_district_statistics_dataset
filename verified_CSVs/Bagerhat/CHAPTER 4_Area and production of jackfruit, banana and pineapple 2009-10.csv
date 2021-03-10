@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of jackfruit, banana and pineapple 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Jackfruit - Area,Jackfruit - Production,Banana - Area,Banana - Production,Pineapple - Area,Pineapple - Production
-3,Bagerhat Sadar,40,575,264,1669,38,44
-4,Kachua,10,154,280,497,0,0
-5,Rampal,15,9,181,926,0,0
-6,Sarankhola,22,12,322,234,0,0
-7,Chitalmari,7,187,56,1118,4,4
-8,Morrelgonj,137,143,212,246,0,0
-9,Mongla,1,20,24,89,0,0
-10,Mollahat,18,276,171,80,0,0
-11,Fakirhat,33,207,94,58,19,20
-12,Total,283,1583,1604,4916,61,68
+1,Bagerhat,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Jackfruit - Area,Jackfruit - Production,Banana - Area,Banana - Production,Pineapple - Area,Pineapple - Production
+4,Bagerhat Sadar,40,575,264,1669,38,44
+5,Kachua,10,154,280,497,0,0
+6,Rampal,15,9,181,926,0,0
+7,Sharonkhola,22,12,322,234,0,0
+8,Chitolmari,7,187,56,1118,4,4
+9,Morrelgonj,137,143,212,246,0,0
+10,Mongla,1,20,24,89,0,0
+11,Mollahat,18,276,171,80,0,0
+12,Fakirhat,33,207,94,58,19,20
+13,Total,283,1583,1604,4916,61,68

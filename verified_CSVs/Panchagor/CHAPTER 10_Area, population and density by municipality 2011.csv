@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Area, population and density by municipality 2011",,,,,,
-1,,,,,,,
-2,Upazila,Name of municipality,Area (In sq. km.),Population Census-2011 Male,Population Census-2011 Female,Population Census-2011 Total,Density per sq.km.
-3,Atwari,-,0,0,0,0,0
-4,Boda,Boda,14.32,7428,7359,14787,1032
-5,Debiganj,-,0,0,0,0,0
-6,Panchagarh Sadar,Panchagarh,20.72,23241,22348,45589,2200
-7,Tentulia,-,0,0,0,0,0
-8,Total,,35.04,30669,29707,60376,3232
+1,Panchagor,,,,,,
+2,,,,,,,
+3,Upazila,Name of municipality,Area (In sq. km.),Population Census-2011 Male,Population Census-2011 Female,Population Census-2011 Total,Density per sq.km.
+4,Atwari,-,0,0,0,0,0
+5,Boda,Boda,14.32,7428,7359,14787,1032
+6,Debiganj,-,0,0,0,0,0
+7,Panchagarh Sadar,Panchagor,20.72,23241,22348,45589,2200
+8,Tentulia,-,0,0,0,0,0
+9,Total,,35.04,30669,29707,60376,3232

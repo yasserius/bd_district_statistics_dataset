@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Bhaluka,50,34,20,6,131
-4,Dhubaura,31,14,8,6,70
-5,Fulbaria,50,22,10,4,154
-6,Gaffargaon,50,35,16,22,210
-7,Gauripur,31,16,6,8,23
-8,Haluaghat,50,21,15,24,100
-9,Ishwargonj,50,32,9,5,123
-10,Muktagacha,50,19,12,35,104
-11,Mymensingh Sadar,800,209,321,23,424
-12,Nandail,50,24,7,8,148
-13,Phulpur,50,41,14,11,148
-14,Trishal,50,33,15,8,162
-15,Total,1312,500,453,160,1797
+1,Mymensingh,,,,,
+2,,,,,,
+3,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Bhaluka,50,34,20,6,131
+5,Dhubaura,31,14,8,6,70
+6,Fulbaria,50,22,10,4,154
+7,Gaffargaon,50,35,16,22,210
+8,Gauripur,31,16,6,8,23
+9,Haluaghat,50,21,15,24,100
+10,Ishwargonj,50,32,9,5,123
+11,Muktagacha,50,19,12,35,104
+12,Mymensingh Sadar,800,209,321,23,424
+13,Nandail,50,24,7,8,148
+14,Phulpur,50,41,14,11,148
+15,Trishal,50,33,15,8,162
+16,Total,1312,500,453,160,1797

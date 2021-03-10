@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Government health complex and health facility 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse, Number of    technician, Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
-3,Bhedarganj,1,31,14,7,7,105,432,553,22089,26122
-4,Damudya,1,31,17,10,18,70,458,545,21017,23044
-5,Gosairhat,1,31,7,9,1,41,5000,5500,18000,17300
-6,Naria,1,50,13,7,3,91,10018,90010,8813,19896
-7,Shariatpur Sadar,24,100,22,31,4,51,2599,2384,29504,23394
-8,Zanjira,1,31,7,7,4,30,120,240,26033,52066
-9,Total,29,274,80,71,37,388,18627,99232,125456,161822
+1,Shariatpur,,,,,,,,,,
+2,,,,,,,,,,,
+3,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse, Number of    technician, Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
+4,Bhedarganj,1,31,14,7,7,105,432,553,22089,26122
+5,Damudya,1,31,17,10,18,70,458,545,21017,23044
+6,Gosairhat,1,31,7,9,1,41,5000,5500,18000,17300
+7,Naria,1,50,13,7,3,91,10018,90010,8813,19896
+8,Shariatpur Sadar,24,100,22,31,4,51,2599,2384,29504,23394
+9,Zanjira,1,31,7,7,4,30,120,240,26033,52066
+10,Total,29,274,80,71,37,388,18627,99232,125456,161822

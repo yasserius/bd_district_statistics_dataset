@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,,,,,,,,
-2, Upazila, Current fallow,Temporary cropped area - Single,Temporary cropped area - Double,Temporary cropped area - Triple,Temporary cropped area - Net,Temporary cropped area - Gross, Productivity of crop
-3,Bagatipara,39,12761,5351,5390,23502,39633,169
-4,Baraigram,53,16353,27095,9265,52713,98338,187
-5,Gurudaspur,10,18731,20999,2814,42544,69171,163
-6,Lalpur,105,23988,23474,2501,49963,78439,157
-7,Natore Sadar,168,50418,20881,2801,74100,100583,136
-8,Singra,98,45816,55857,5598,107271,174324,163
-9,Total,473,168067,153657,28369,350093,560488,160
+1,Natore,,,,,,,
+2,,,,,,,,
+3, Upazila, Current fallow,Temporary cropped area - Single,Temporary cropped area - Double,Temporary cropped area - Triple,Temporary cropped area - Net,Temporary cropped area - Gross, Productivity of crop
+4,Bagatipara,39,12761,5351,5390,23502,39633,169
+5,Baraigram,53,16353,27095,9265,52713,98338,187
+6,Gurudaspur,10,18731,20999,2814,42544,69171,163
+7,Lalpur,105,23988,23474,2501,49963,78439,157
+8,Natore Sadar,168,50418,20881,2801,74100,100583,136
+9,Singra,98,45816,55857,5598,107271,174324,163
+10,Total,473,168067,153657,28369,350093,560488,160

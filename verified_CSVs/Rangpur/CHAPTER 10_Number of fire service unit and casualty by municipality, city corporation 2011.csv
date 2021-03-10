@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6
 0,"Number of fire service unit and casualty by municipality, city corporation 2011",,,,,,
-1,,,,,,,
-2,Municipality /city corporation,Fire service unit,Persons employed,Fire cases,Monetary loss (in thousand taka),Persons dead,Persons injured
-3,Badarganj,1,23,81,2119400,0,0
-4,Haragach,1,24,5,3470000,0,9
-5,Rangpur,1,58,274,7348500,2,2
-6,Total,3,105,360,12937900,2,11
+1,Rangpur,,,,,,
+2,,,,,,,
+3,Municipality /city corporation,Fire service unit,Persons employed,Fire cases,Monetary loss (in thousand taka),Persons dead,Persons injured
+4,Badarganj,1,23,81,2119400,0,0
+5,Haragach,1,24,5,3470000,0,9
+6,Rangpur,1,58,274,7348500,2,2
+7,Total,3,105,360,12937900,2,11

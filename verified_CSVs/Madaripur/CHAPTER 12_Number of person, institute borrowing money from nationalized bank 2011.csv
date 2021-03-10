@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from nationalized bank 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2, Upazila,Number of branch of all nationalized bank,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
-3,Kalkini,3,8362,15,0,0,2664,153,11046,168,23,0
-4,Madaripur Sadar,15,6871,1021,5,0,901,18,8686,190,2482,2
-5,Rajoir,3,218,0,0,0,0,0,218,0,29,0
-6,Shibchar,5,12939,694,2,0,822,186,137763,880,50,7
-7,Total,26,28390,1730,7,0,4387,357,157713,1238,2584,10
+1,Madaripur,,,,,,,,,,,
+2,,,,,,,,,,,,
+3, Upazila,Number of branch of all nationalized bank,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
+4,Kalkini,3,8362,15,0,0,2664,153,11046,168,23,0
+5,Madaripur Sadar,15,6871,1021,5,0,901,18,8686,190,2482,2
+6,Rajoir,3,218,0,0,0,0,0,218,0,29,0
+7,Shibchar,5,12939,694,2,0,822,186,137763,880,50,7
+8,Total,26,28390,1730,7,0,4387,357,157713,1238,2584,10

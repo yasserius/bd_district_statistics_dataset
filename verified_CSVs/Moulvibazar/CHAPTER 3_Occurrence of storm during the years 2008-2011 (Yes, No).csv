@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,"Occurrence of storm during the years 2008-2011 (Yes, No)",,,,
-1,,,,,
-2,Upazila,2008,2009,2010,2011
-3,Barlekha,No,No,No,No
-4,Juri,No,No,No,No
-5,Kamalganj,No,No,No,No
-6,Kulaura,No,No,No,No
-7,Moulvibazar Sadar,No,No,No,No
-8,Rajnagar,No,No,No,No
-9,Sreemangal,No,No,No,No
+1,Moulvibazar,,,,
+2,,,,,
+3,Upazila,2008,2009,2010,2011
+4,Barlekha,No,No,No,No
+5,Juri,No,No,No,No
+6,Kamalganj,No,No,No,No
+7,Kulaura,No,No,No,No
+8,Moulvibazar Sadar,No,No,No,No
+9,Rajnagar,No,No,No,No
+10,Sreemangal,No,No,No,No

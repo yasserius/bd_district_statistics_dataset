@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Non-Government health complex and health facility 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse, Number of    technician, Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
-3,Bhaluka,7,39,11,12,10,15,4300,5400,17500,20200
-4,Dhubaura,2,0,2,1,12,32,0,0,538,438
-5,Fulbaria,0,0,0,0,0,0,0,0,0,0
-6,Gaffargaon,0,1,1,1,3,0,0,1380,1720,0
-7,Gauripur,2,67,9,6,7,10,1000,1400,12000,18000
-8,Haluaghat,2,50,18,27,18,32,8494,13530,26330,40346
-9,Ishwargonj,0,0,0,0,0,0,0,0,0,0
-10,Muktagacha,3,15,13,11,11,36,360,90,7300,10000
-11,Mymensingh Sadar,93,1541,367,1063,13,169,6990,7800,84742,80940
-12,Nandail,3,0,3,3,3,6,2510,3852,0,0
-13,Phulpur,2,20,4,8,1,8,1500,1800,3000,3900
-14,Trishal,1,0,1,1,1,3,0,0,1206,921
-15,Total,115,1733,429,1133,79,311,25154,35252,154336,174745
+1,Mymensingh,,,,,,,,,,
+2,,,,,,,,,,,
+3,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse, Number of    technician, Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
+4,Bhaluka,7,39,11,12,10,15,4300,5400,17500,20200
+5,Dhubaura,2,0,2,1,12,32,0,0,538,438
+6,Fulbaria,0,0,0,0,0,0,0,0,0,0
+7,Gaffargaon,0,1,1,1,3,0,0,1380,1720,0
+8,Gauripur,2,67,9,6,7,10,1000,1400,12000,18000
+9,Haluaghat,2,50,18,27,18,32,8494,13530,26330,40346
+10,Ishwargonj,0,0,0,0,0,0,0,0,0,0
+11,Muktagacha,3,15,13,11,11,36,360,90,7300,10000
+12,Mymensingh Sadar,93,1541,367,1063,13,169,6990,7800,84742,80940
+13,Nandail,3,0,3,3,3,6,2510,3852,0,0
+14,Phulpur,2,20,4,8,1,8,1500,1800,3000,3900
+15,Trishal,1,0,1,1,1,3,0,0,1206,921
+16,Total,115,1733,429,1133,79,311,25154,35252,154336,174745

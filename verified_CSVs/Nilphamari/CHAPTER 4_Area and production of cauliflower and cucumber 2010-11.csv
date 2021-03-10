@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Area and production of cauliflower and cucumber 2010-11,,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
-3,Dimla,113,451,65,89
-4,Domar,95,401,43,95
-5,Jaldhaka,228,701,50,125
-6,Kishorgonj,45,292,11,18
-7,Nilphamary Sadar,357,1645,11,37
-8,Sayedpur,65,527,30,150
-9,Total,903,4017,210,514
+1,Nilphamari,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
+4,Dimla,113,451,65,89
+5,Domar,95,401,43,95
+6,Joldhaka,228,701,50,125
+7,Kishorgonj,45,292,11,18
+8,Nilphamary Sadar,357,1645,11,37
+9,Sayedpur,65,527,30,150
+10,Total,903,4017,210,514

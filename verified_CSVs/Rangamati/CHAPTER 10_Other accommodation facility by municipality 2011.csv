@@ -1,7 +1,8 @@
 ,0,1,2,3,4,5,6
 0,Other accommodation facility by municipality 2011,,,,,,
-1,,,,,,,
-2, Municipality,Orphanage - Number,Orphanage - Capacity,Slum area - Area in acre,Slum area - Number H/H,Refugee camp - Area in acre,Refugee camp - Number H/H
-3,Baghaichhari,3,120,0,0,0,0
-4,Rangamati,5,550,0,8325,0,0
-5,Total,8,670,0,8325,0,0
+1,Rangamati,,,,,,
+2,,,,,,,
+3, Municipality,Orphanage - Number,Orphanage - Capacity,Slum area - Area in acre,Slum area - Number H/H,Refugee camp - Area in acre,Refugee camp - Number H/H
+4,Baghaichhari,3,120,0,0,0,0
+5,Rangamati,5,550,0,8325,0,0
+6,Total,8,670,0,8325,0,0

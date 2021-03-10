@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of jackfruit, banana and pineapple 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Jackfruit Area,Jackfruit Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
-3,Baghaichhari,387,1068,308,1842,339,2858
-4,Barkal,154,32,3850,17895,14,92
-5,Belai Chhari,69,483,365,436,4,3
-6,Jurai Chhari,349,3084,417,2570,32,126
-7,Kaptai,186,1444,2725,12451,94,147
-8,Kawkhali,449,1819,561,19959,76,870
-9,Langadu,76,503,260,1489,31,152
-10,Naniarchar,1696,4781,418,3072,2124,15629
-11,Rangamati Sadar,465,20214,376,1280,415,2254
-12,Rajasthali,50,236,291,3634,5,44
-13,Total,3881,33663,9571,64627,3134,22175
+1,Rangamati,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Jackfruit Area,Jackfruit Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
+4,Baghaichhari,387,1068,308,1842,339,2858
+5,Barkal,154,32,3850,17895,14,92
+6,Belai Chhari,69,483,365,436,4,3
+7,Jurai Chhari,349,3084,417,2570,32,126
+8,Kaptai,186,1444,2725,12451,94,147
+9,Kawkhali,449,1819,561,19959,76,870
+10,Langadu,76,503,260,1489,31,152
+11,Naniarchar,1696,4781,418,3072,2124,15629
+12,Rangamati Sadar,465,20214,376,1280,415,2254
+13,Rajasthali,50,236,291,3634,5,44
+14,Total,3881,33663,9571,64627,3134,22175

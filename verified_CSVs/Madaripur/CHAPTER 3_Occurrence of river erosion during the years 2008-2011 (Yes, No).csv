@@ -1,8 +1,9 @@
 ,0,1,2,3,4
 0,"Occurrence of river erosion during the years 2008-2011 (Yes, No)",,,,
-1,,,,,
-2, Upazila, 2008, 2009, 2010, 2011
-3,Kalkini,Yes,Yes,Yes,Yes
-4,Madaripur Sadar,No,No,No,No
-5,Rajoir,Yes,No,No,No
-6,Shibchar,Yes,Yes,Yes,Yes
+1,Madaripur,,,,
+2,,,,,
+3, Upazila, 2008, 2009, 2010, 2011
+4,Kalkini,Yes,Yes,Yes,Yes
+5,Madaripur Sadar,No,No,No,No
+6,Rajoir,Yes,No,No,No
+7,Shibchar,Yes,Yes,Yes,Yes

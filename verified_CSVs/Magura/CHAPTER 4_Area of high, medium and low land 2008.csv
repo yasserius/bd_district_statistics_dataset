@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,"Area of high, medium and low land 2008",,,,
-1,,,,,
-2,Upazila,High land,Medium land,Low land,Total land
-3,Magura Sadar,45630,327835,20463,81834
-4,Mohammadpur,28746,211637,12075,50026
-5,Shalikha,23518,177287,16437,75033
-6,Sreepur,33380,250800,12050,20225
-7,Total,131274,967559,61025,227118
+1,Magura,,,,
+2,,,,,
+3,Upazila,High land,Medium land,Low land,Total land
+4,Magura Sadar,45630,327835,20463,81834
+5,Mohammadpur,28746,211637,12075,50026
+6,Shalikha,23518,177287,16437,75033
+7,Sreepur,33380,250800,12050,20225
+8,Total,131274,967559,61025,227118

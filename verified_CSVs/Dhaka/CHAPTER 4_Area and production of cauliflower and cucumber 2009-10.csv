@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Area and production of cauliflower and cucumber 2009-10,,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
-3,Dhaka Metropolitan,76,295,12,40
-4,Dhamrai,372,1596,177,250
-5,Dohar,26,67,29,52
-6,Keraniganj,111,610,106,106
-7,Nawabganj,227,1816,156,546
-8,Savar,146,323,54,51
-9,Total,958,4707,534,1045
+1,Dhaka,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
+4,Dhaka Metropolitan,76,295,12,40
+5,Dhamrai,372,1596,177,250
+6,Dohar,26,67,29,52
+7,Keraniganj,111,610,106,106
+8,Nawabganj,227,1816,156,546
+9,Savar,146,323,54,51
+10,Total,958,4707,534,1045

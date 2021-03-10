@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Number and area of pond, dighee and other area 2010-2011",,,,,,
-1,(Area in acre),,,,,,
-2,Upazila,Pond - Number,Pond - Area,Dighee - Number,Dighee - Area,Other area,Total area
-3,Daulotpur,474,410,0,0,0,0
-4,Gheor,2121,775,0,0,72,847
-5,Horirampur,1047,358,0,0,67,425
-6,Manikganj Sadar,1504,570,0,0,6845,7415
-7,Saturia,1420,808,11,13,30,150
-8,Shibalaya,1528,6997,0,0,4662,11659
-9,Singair,1217,353,7,709,0,1062
-10,Total,9311,10271,18,722,11676,21558
+1,Manikganj,,,,,,
+2,(Area in acre),,,,,,
+3,Upazila,Pond - Number,Pond - Area,Dighee - Number,Dighee - Area,Other area,Total area
+4,Daulotpur,474,410,0,0,0,0
+5,Gheor,2121,775,0,0,72,847
+6,Horirampur,1047,358,0,0,67,425
+7,Manikganj Sadar,1504,570,0,0,6845,7415
+8,Saturia,1420,808,11,13,30,150
+9,Shibalaya,1528,6997,0,0,4662,11659
+10,Singair,1217,353,7,709,0,1062
+11,Total,9311,10271,18,722,11676,21558

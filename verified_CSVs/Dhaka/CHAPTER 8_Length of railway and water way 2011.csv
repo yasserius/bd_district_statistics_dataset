@@ -1,11 +1,12 @@
 ,0,1,2,3
 0,Length of railway and water way 2011,,,
-1,(Kilometer),,,
-2, Upazila,"Total railway (all broad gage, meter gage  duel gage)",Water way in monsoon (river + canal),Water way round the year (river + canal)
-3,Dhaka Metropolitan,356,18,12
-4,Dhamrai,0,40,20
-5,Dohar,0,20,20
-6,Keraniganj,0,120,120
-7,Nawabganj,0,41,31
-8,Savar,0,105,44
-9,Total,356,344,247
+1,Dhaka,,,
+2,(Kilometer),,,
+3, Upazila,"Total railway (all broad gage, meter gage  duel gage)",Water way in monsoon (river + canal),Water way round the year (river + canal)
+4,Dhaka Metropolitan,356,18,12
+5,Dhamrai,0,40,20
+6,Dohar,0,20,20
+7,Keraniganj,0,120,120
+8,Nawabganj,0,41,31
+9,Savar,0,105,44
+10,Total,356,344,247

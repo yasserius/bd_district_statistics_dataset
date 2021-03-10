@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5
 0,Existing position of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
-3,Badarganj,35,28,715,94,872
-4,Gangachara,57,41,998,139,1235
-5,Kaunia,31,33,553,138,755
-6,Mithapukur,41,40,1035,101,497
-7,Pirgachha,25,31,665,104,825
-8,Pirganj,34,37,335,79,485
-9,Rangpur sadar,819,165,3798,851,5633
-10,Taraganj,25,14,478,88,605
-11,Total,1067,389,8577,1594,10907
+1,Rangpur,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
+4,Badarganj,35,28,715,94,872
+5,Gangachara,57,41,998,139,1235
+6,Kaunia,31,33,553,138,755
+7,Mithapukur,41,40,1035,101,497
+8,Pirgachha,25,31,665,104,825
+9,Pirganj,34,37,335,79,485
+10,Rangpur Sadar,819,165,3798,851,5633
+11,Taraganj,25,14,478,88,605
+12,Total,1067,389,8577,1594,10907

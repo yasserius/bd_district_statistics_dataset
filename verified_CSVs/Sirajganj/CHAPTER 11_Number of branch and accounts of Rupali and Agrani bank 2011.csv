@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Rupali and Agrani bank 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Rupali bank - Number of branch,Rupali bank - Account - S.D,Rupali bank - Account - C.D,Rupali bank - Account - F.D,Rupali bank - Account - S.T.D,Agrani bank - Number of branch,Agrani bank - Account - S.D,Agrani bank - Account - C.D,Agrani bank - Account - F.D,Agrani bank - Account - S.T.D
-3,Belkuchi,1,2,260,0,0,2,3035,430,43,11
-4,Chauhali,0,0,0,0,0,1,0,17,87,2
-5,Kamarkhanda,0,0,0,0,0,0,0,0,0,0
-6,Kazipur,0,0,0,0,0,0,0,0,0,0
-7,Royganj,0,0,0,0,0,7,34201,1397,615,272
-8,Shahjadpur,1,1861,156,62,15,4,15393,864,323,37
-9,Sirajganj Sadar,3,7426,304,265,29,5,13275,1503,480,195
-10,Tarash,0,0,0,0,0,0,0,0,0,0
-11,Ullahpara,0,0,0,0,0,1,3897,557,65,20
-12,Total,5,9289,720,327,44,20,69801,4768,1613,537
+1,Sirajganj,,,,,,,,,,
+2,,,,,,,,,,,
+3,Upazila,Rupali bank - Number of branch,Rupali bank - Account - S.D,Rupali bank - Account - C.D,Rupali bank - Account - F.D,Rupali bank - Account - S.T.D,Agrani bank - Number of branch,Agrani bank - Account - S.D,Agrani bank - Account - C.D,Agrani bank - Account - F.D,Agrani bank - Account - S.T.D
+4,Belkuchi,1,2,260,0,0,2,3035,430,43,11
+5,Chauhali,0,0,0,0,0,1,0,17,87,2
+6,Kamarkhanda,0,0,0,0,0,0,0,0,0,0
+7,Kazipur,0,0,0,0,0,0,0,0,0,0
+8,Royganj,0,0,0,0,0,7,34201,1397,615,272
+9,Shahjadpur,1,1861,156,62,15,4,15393,864,323,37
+10,Sirajganj Sadar,3,7426,304,265,29,5,13275,1503,480,195
+11,Tarash,0,0,0,0,0,0,0,0,0,0
+12,Ullahpara,0,0,0,0,0,1,3897,557,65,20
+13,Total,5,9289,720,327,44,20,69801,4768,1613,537

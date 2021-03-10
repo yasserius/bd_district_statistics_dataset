@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,"Number of ward, mahalla and household by municipality, city corporation 2011",,,,
-1,,,,,
-2,Upazila/city corporation,Name of municipality,Total ward,Total mahalla,Total household
-3,Bakerganj,Bakerganj,9,21,3395
-4,Banaripara,Banaripara,9,16,2373
-5,Gaurnadi,Gaurnadi,9,20,9417
-6,Mehendiganj,Mehendiganj,9,11,6329
-7,Muladi,Muladi,9,14,4528
-8,Total,,45,82,26042
+1,Barisal,,,,
+2,,,,,
+3,Upazila/city corporation,Name of municipality,Total ward,Total mahalla,Total household
+4,Bakerganj,Bakerganj,9,21,3395
+5,Banaripara,Banaripara,9,16,2373
+6,Gaurnadi,Gaurnadi,9,20,9417
+7,Mehendiganj,Mehendiganj,9,11,6329
+8,Muladi,Muladi,9,14,4528
+9,Total,,45,82,26042

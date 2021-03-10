@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Aditmari,113,70,339,409
-4,Hatibandha,156,560,110,670
-5,Kaligonj,35,30,45,75
-6,Lalmonirhat Sadar,139,221,135,356
-7,Patgram,108,110,265,375
-8,Total,551,991,894,1885
+1,Lalmonirhat,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Aditmari,113,70,339,409
+5,Hatibandha,156,560,110,670
+6,Kaligonj,35,30,45,75
+7,Lalmonirhat Sadar,139,221,135,356
+8,Patgram,108,110,265,375
+9,Total,551,991,894,1885

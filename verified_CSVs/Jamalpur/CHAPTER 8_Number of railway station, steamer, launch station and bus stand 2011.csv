@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,"Number of railway station, steamer, launch station and bus stand 2011",,,
-1,,,,
-2,Upazila,Railway station,Steamer/launch station,Bus stand
-3,Bakshiganj,0,0,1
-4,Dewanganj,1,1,1
-5,Islampur,2,0,1
-6,Jamalpur Sadar,6,0,7
-7,Madarganj,0,0,1
-8,Melandaha,2,0,2
-9,Sarishabari,7,0,4
-10,Total,18,1,17
+1,Jamalpur,,,
+2,,,,
+3,Upazila,Railway station,Steamer/launch station,Bus stand
+4,Bakshiganj,0,0,1
+5,Dewanganj,1,1,1
+6,Islampur,2,0,1
+7,Jamalpur Sadar,6,0,7
+8,Madarganj,0,0,1
+9,Melandaha,2,0,2
+10,Sarishabari,7,0,4
+11,Total,18,1,17

@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kindergarten school (pre schooling), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila,Number of kindergarten school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Baliadangi,11,42,23,65,715,550,1265,19
-4,Haripur,5,20,8,28,251,105,356,13
-5,Pirgonj,8,25,15,40,750,530,1280,32
-6,Ranisankail,21,85,45,130,1530,1470,3000,23
-7,Thakurgaon Sadar,14,58,40,98,1960,2059,4119,42
-8,Total,59,230,131,361,5206,4714,10020,28
+1,Thakurgaon,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of kindergarten school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Baliadangi,11,42,23,65,715,550,1265,19
+5,Haripur,5,20,8,28,251,105,356,13
+6,Pirgonj,8,25,15,40,750,530,1280,32
+7,Ranisankail,21,85,45,130,1530,1470,3000,23
+8,Thakurgaon Sadar,14,58,40,98,1960,2059,4119,42
+9,Total,59,230,131,361,5206,4714,10020,28

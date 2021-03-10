@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,Daily average wage rate of non-agricultural labour 2011,,,,,
-1,,,,,,
-2,(Wage in taka) - Upazila,(Wage in taka) - Porter (coolee),(Wage in taka) - Garden labour male,(Wage in taka) - Garden female labour,(Wage in taka) - Other labour (Adult),(Wage in taka) - Other labour (Child)
-3,Alamdanga,200,200,100,200,100
-4,Chuadanga Sadar,350,200,120,200,90
-5,Damurhuda,160,150,100,120,60
-6,Jibonnagar,300,150,120,120,50
-7,Average,252.5,175,110,160,75
+1,Chuadanga,,,,,
+2,,,,,,
+3,(Wage in taka) - Upazila,(Wage in taka) - Porter (coolee),(Wage in taka) - Garden labour male,(Wage in taka) - Garden female labour,(Wage in taka) - Other labour (Adult),(Wage in taka) - Other labour (Child)
+4,Alamdanga,200,200,100,200,100
+5,Chuadanga Sadar,350,200,120,200,90
+6,Damurhuda,160,150,100,120,60
+7,Jibonnagar,300,150,120,120,50
+8,Average,252.5,175,110,160,75

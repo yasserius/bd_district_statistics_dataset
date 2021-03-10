@@ -1,21 +1,22 @@
 ,0,1,2,3,4,5,6
 0,Daily average wage rate of construction labour 2011,,,,,,
-1,,,,,,,
-2,(Rate in taka) - Upazila,(Rate in taka) - Labour - Mason,(Rate in taka) - Labour - Helper (Jogaly),(Rate in taka) - Labour - Carpenter,(Rate in taka) - Labour - Colour,(Rate in taka) - Labour - Electric,(Rate in taka) - Labour - Plumber
-3,Adarsha Sadar,600,300,450,350,400,400
-4,Barura,300,200,300,400,300,400
-5,Brahmanpara,300,220,350,400,400,350
-6,Burichang,400,250,350,400,500,450
-7,Chandina,400,300,400,400,500,500
-8,Chauddagram,350,250,300,350,450,400
-9,Comilla Sadar Dakshin,450,300,400,350,400,400
-10,Daudkandi,500,350,450,300,500,500
-11,Debidwar,350,250,300,400,450,500
-12,Homna,400,200,350,350,500,500
-13,Laksam,500,250,400,350,400,500
-14,Monoharganj,400,300,350,400,500,450
-15,Meghna,400,250,500,500,450,400
-16,Muradnagar,350,250,350,350,400,450
-17,Nangalkot,350,250,300,500,600,650
-18,Titas,300,250,300,350,400,450
-19,Average,397,261,366,384,447,460
+1,Comilla,,,,,,
+2,,,,,,,
+3,(Rate in taka) - Upazila,(Rate in taka) - Labour - Mason,(Rate in taka) - Labour - Helper (Jogaly),(Rate in taka) - Labour - Carpenter,(Rate in taka) - Labour - Colour,(Rate in taka) - Labour - Electric,(Rate in taka) - Labour - Plumber
+4,Adarsha Sadar,600,300,450,350,400,400
+5,Barura,300,200,300,400,300,400
+6,Brahmanpara,300,220,350,400,400,350
+7,Burichang,400,250,350,400,500,450
+8,Chandina,400,300,400,400,500,500
+9,Chauddagram,350,250,300,350,450,400
+10,Comilla Sadar Dakshin,450,300,400,350,400,400
+11,Daudkandi,500,350,450,300,500,500
+12,Debidwar,350,250,300,400,450,500
+13,Homna,400,200,350,350,500,500
+14,Laksam,500,250,400,350,400,500
+15,Monoharganj,400,300,350,400,500,450
+16,Meghna,400,250,500,500,450,400
+17,Muradnagar,350,250,350,350,400,450
+18,Nangalkot,350,250,300,500,600,650
+19,Titas,300,250,300,350,400,450
+20,Average,397,261,366,384,447,460

@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of bamboo and cane industry and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Baliadangi,55,70,0,70
-4,Haripur,33,100,0,100
-5,Pirgonj,202,303,0,303
-6,Ranisankail,295,500,0,500
-7,Thakurgaon Sadar,240,570,120,690
-8,Total,825,1543,120,1663
+1,Thakurgaon,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Baliadangi,55,70,0,70
+5,Haripur,33,100,0,100
+6,Pirgonj,202,303,0,303
+7,Ranisankail,295,500,0,500
+8,Thakurgaon Sadar,240,570,120,690
+9,Total,825,1543,120,1663

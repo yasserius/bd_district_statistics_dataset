@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Assasuni,0,0,0,0
-4,Debhata,0,0,0,0
-5,Kalaroa,1,20,2441,2275
-6,Kaliganj,1,16,1892,3200
-7,Satkhira Sadar,14,130,14050,8000
-8,Shyamnagar,1,18,3347,457
-9,Tala,0,0,0,0
-10,Total,17,184,21730,13932
+1,Satkhira,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Assasuni,0,0,0,0
+5,Debhata,0,0,0,0
+6,Kalaroa,1,20,2441,2275
+7,Kaliganj,1,16,1892,3200
+8,Satkhira Sadar,14,130,14050,8000
+9,Shyamnagar,1,18,3347,457
+10,Tala,0,0,0,0
+11,Total,17,184,21730,13932

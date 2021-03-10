@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,"Number of non-registered rickshaw, van, easy bike and auto-rickshaw 2011",,,,,
-1,,,,,,
-2,Upazila,Rickshaw,Van,Easy bike and auto-rickshaw,Tempo,Nochimon/kori mon/ bhotvoti
-3,Akkelpur,84,374,22,27,95
-4,Joypurhat sadar,56,255,0,0,96
-5,Kalai,25,646,75,27,65
-6,Khetlal,0,1052,30,0,350
-7,Panchbibi,10,25,0,0,20
-8,Total,175,2352,127,54,626
+1,Joypurhat,,,,,
+2,,,,,,
+3,Upazila,Rickshaw,Van,Easy bike and auto-rickshaw,Tempo,Nochimon/kori mon/ bhotvoti
+4,Akkelpur,84,374,22,27,95
+5,Joypurhat sadar,56,255,0,0,96
+6,Kalai,25,646,75,27,65
+7,Khetlal,0,1052,30,0,350
+8,Panchbibi,10,25,0,0,20
+9,Total,175,2352,127,54,626

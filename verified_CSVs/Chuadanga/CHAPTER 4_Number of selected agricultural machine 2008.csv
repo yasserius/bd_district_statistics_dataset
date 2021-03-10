@@ -1,9 +1,10 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,,,,
-2, Upazila, Number of power tiller, Tractor,Number of threshing machine
-3,Alamdanga,1500,3,4500
-4,Chuadanga Sadar,206,21,399
-5,Damurhuda,1280,65,2560
-6,Jibonnagar,685,23,1484
-7,Total,3671,112,8943
+1,Chuadanga,,,
+2,,,,
+3,Upazila, Number of power tiller, Tractor,Number of threshing machine
+4,Alamdanga,1500,3,4500
+5,Chuadanga Sadar,206,21,399
+6,Damurhuda,1280,65,2560
+7,Jibonnagar,685,23,1484
+8,Total,3671,112,8943

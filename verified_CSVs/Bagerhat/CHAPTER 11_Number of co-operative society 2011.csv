@@ -1,14 +1,15 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,,,,
-2,Upazila,Number,Number of employee,Number of client
-3,Bagerhat Sadar,220,16,6897
-4,Kachua,68,6,17337
-5,Rampal,137,5,7089
-6,Sarankhola,120,0,2982
-7,Chitalmari,80,41,8945
-8,Morrelgonj,335,10,7875
-9,Mongla,302,33,12080
-10,Mollahat,180,12,4987
-11,Fakirhat,187,165,14497
-12,Total,1629,288,82689
+1,Bagerhat,,,
+2,,,,
+3,Upazila,Number,Number of employee,Number of client
+4,Bagerhat Sadar,220,16,6897
+5,Kachua,68,6,17337
+6,Rampal,137,5,7089
+7,Sharonkhola,120,0,2982
+8,Chitolmari,80,41,8945
+9,Morrelgonj,335,10,7875
+10,Mongla,302,33,12080
+11,Mollahat,180,12,4987
+12,Fakirhat,187,165,14497
+13,Total,1629,288,82689

@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6,7
 0,Average price of some selected item 2011,,,,,,,
-1,(Taka per kg),,,,,,,
-2,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (aata),Potato,Soyabean oil
-3,Bishwamvarpur,42,34,28,18,20,12,120
-4,Chhatak,44,38,21,18,28,16,120
-5,Dakshin Sunamganj,45,35,30,0,32,10,118
-6,Derai,45,36,30,14,25,15,120
-7,Dharmapasha,45,34,28,22,28,10,115
-8,Doarabazar,42,38,32,25,30,12,115
-9,Jagannathpur,42,36,30,0,30,15,115
-10,Jamalganj,45,40,30,22,36,12,130
-11,Shalla,42,28,25,23,26,15,115
-12,Sunamganj Sadar,45,40,30,25,32,10,110
-13,Tahirpur,33,32,30,28,32,12,120
-14,District Average,41,35,28,18,28,12,120
+1,Sunamganj,,,,,,,
+2,(Taka per kg),,,,,,,
+3,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (aata),Potato,Soyabean oil
+4,Bishwamvarpur,42,34,28,18,20,12,120
+5,Chhatak,44,38,21,18,28,16,120
+6,Dakshin Sunamganj,45,35,30,0,32,10,118
+7,Derai,45,36,30,14,25,15,120
+8,Dharmapasha,45,34,28,22,28,10,115
+9,Doarabazar,42,38,32,25,30,12,115
+10,Jagannathpur,42,36,30,0,30,15,115
+11,Jamalganj,45,40,30,22,36,12,130
+12,Shalla,42,28,25,23,26,15,115
+13,Sunamganj Sadar,45,40,30,25,32,10,110
+14,Tahirpur,33,32,30,28,32,12,120
+15,District Average,41,35,28,18,28,12,120

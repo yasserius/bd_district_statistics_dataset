@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6,7
 0,Irrigation by means 2010-2011,,,,,,,
-1,(In acre),,,,,,,
-2, Upazila,Irrigation management - Power pump,Irrigation management - Tube well,Irrigation management - Doon,Irrigation management - Swing basket,Irrigation management - Canal,Irrigation management - Others, Total
-3,Baghaichhari,6260,0,0,0,0,868,7128
-4,Barkal,400,0,0,0,100,400,900
-5,Belai Chhari,332,0,0,0,40,0,372
-6,Jurai Chhari,890,0,0,263,247,90,1490
-7,Kaptai,842,0,0,0,22,548,1412
-8,Kawkhali,650,0,0,0,0,1900,2550
-9,Langadu,1930,0,0,0,0,762,2692
-10,Naniarchar,640,0,400,500,1760,237,3537
-11,Rangamati Sadar,635,0,0,0,0,2352,2987
-12,Rajasthali,370,0,0,0,0,38,408
-13,Total,12949,0,400,763,2169,7195,23476
+1,Rangamati,,,,,,,
+2,(In acre),,,,,,,
+3, Upazila,Irrigation management - Power pump,Irrigation management - Tube well,Irrigation management - Doon,Irrigation management - Swing basket,Irrigation management - Canal,Irrigation management - Others, Total
+4,Baghaichhari,6260,0,0,0,0,868,7128
+5,Barkal,400,0,0,0,100,400,900
+6,Belai Chhari,332,0,0,0,40,0,372
+7,Jurai Chhari,890,0,0,263,247,90,1490
+8,Kaptai,842,0,0,0,22,548,1412
+9,Kawkhali,650,0,0,0,0,1900,2550
+10,Langadu,1930,0,0,0,0,762,2692
+11,Naniarchar,640,0,400,500,1760,237,3537
+12,Rangamati Sadar,635,0,0,0,0,2352,2987
+13,Rajasthali,370,0,0,0,0,38,408
+14,Total,12949,0,400,763,2169,7195,23476

@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,,,,,,
-2,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
-3,Chandpur Sadar,1,1,1,8,1
-4,Foridganj,1,250,19,9,1
-5,Haimchar,0,0,1,5,1
-6,Hajiganj,1,0,10,9,1
-7,Kachua,0,123,3,19,1
-8,Matlab Dakshin,2,0,0,10,2
-9,Matlab Uttar,0,118,0,6,1
-10,Shahrasti,0,59,5,19,1
-11,Total,5,551,39,85,9
+1,Chandpur,,,,,
+2,,,,,,
+3,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
+4,Chandpur Sadar,1,1,1,8,1
+5,Foridganj,1,250,19,9,1
+6,Haimchar,0,0,1,5,1
+7,Hajiganj,1,0,10,9,1
+8,Kachua,0,123,3,19,1
+9,Matlab Dakshin,2,0,0,10,2
+10,Matlab Uttar,0,118,0,6,1
+11,Shahrasti,0,59,5,19,1
+12,Total,5,551,39,85,9

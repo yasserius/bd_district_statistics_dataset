@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Government health complex and health facility 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of technician,Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
-3,Gopalganj Sadar,7,260,46,67,5,54,10109,9050,64343,63245
-4,Kashiani,1,31,14,9,6,70,2690,1800,12600,15000
-5,Kotalipara,1,50,12,9,7,85,12314,12042,8718,8214
-6,Muksudpur,1,31,14,11,5,11,1150,1530,8500,10300
-7,Tungipara,1,50,7,10,5,42,6972,6384,4500,3720
-8,Total,11,422,93,106,28,262,33235,30806,98661,100479
+1,Gopalgonj,,,,,,,,,,
+2,,,,,,,,,,,
+3,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of technician,Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
+4,Gopalganj Sadar,7,260,46,67,5,54,10109,9050,64343,63245
+5,Kashiani,1,31,14,9,6,70,2690,1800,12600,15000
+6,Kotalipara,1,50,12,9,7,85,12314,12042,8718,8214
+7,Muksudpur,1,31,14,11,5,11,1150,1530,8500,10300
+8,Tungipara,1,50,7,10,5,42,6972,6384,4500,3720
+9,Total,11,422,93,106,28,262,33235,30806,98661,100479

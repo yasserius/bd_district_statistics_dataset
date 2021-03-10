@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of lentil (masur), mug and maize crops 2010-11",,,,,,
-1,(Area in acre  production in metric ton),,,,,,
-2,Upazila/city corporation,Lentil (masur) Area,Lentil (masur) Production,Mug Area,Mug Production,Maize Area,Maize Production
-3,Agailjhara,7.4,5.5,53.5,21.809,4.6,32
-4,Babuganj,17,49,53.75,20.86,5.2,2.84
-5,Bakerganj,324,107,895,197,0.65,1
-6,Banaripara,19.3,4.78,15.35,7.57,1.16,4.25
-7,Barisal city corporation,14,5,87,24,8,3
-8,Barisal sadar,240,81,660,178,22,7
-9,Gaurnadi,52,6.93,116,15.37,1.4,0.87
-10,Hizla,985,315,1000,302,15,12
-11,Mehendiganj,791,316.4,170,52.95,0,0
-12,Muladi,680,68,202,42.8,10,16
-13,Wazirpur,75,13.3,510,98.94,25.6,50.06
-14,Total,3204.7,971.91,3762.6,961.299,93.61,129.02
+1,Barisal,,,,,,
+2,(Area in acre  production in metric ton),,,,,,
+3,Upazila/city corporation,Lentil (masur) Area,Lentil (masur) Production,Mug Area,Mug Production,Maize Area,Maize Production
+4,Agailjhara,7.4,5.5,53.5,21.809,4.6,32
+5,Babuganj,17,49,53.75,20.86,5.2,2.84
+6,Bakerganj,324,107,895,197,0.65,1
+7,Banaripara,19.3,4.78,15.35,7.57,1.16,4.25
+8,Barisal city corporation,14,5,87,24,8,3
+9,Barisal Sadar,240,81,660,178,22,7
+10,Gaurnadi,52,6.93,116,15.37,1.4,0.87
+11,Hizla,985,315,1000,302,15,12
+12,Mehendiganj,791,316.4,170,52.95,0,0
+13,Muladi,680,68,202,42.8,10,16
+14,Wazirpur,75,13.3,510,98.94,25.6,50.06
+15,Total,3204.7,971.91,3762.6,961.299,93.61,129.02

@@ -1,13 +1,14 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,,,,
-2,Upazila,Number of power tiller,Tractor,Number of threshing machine
-3,Abhaynagar,390,8,4022
-4,Bagherpara,624,28,6403
-5,Chaugachha,320,30,2750
-6,Jessore Sadar,605,200,12906
-7,Jhikargachha,489,48,2193
-8,Keshabpur,430,10,8095
-9,Manirampur,757,40,4556
-10,Sharsha,1170,85,3660
-11,Total,4785,449,44585
+1,Jessore,,,
+2,,,,
+3,Upazila,Number of power tiller,Tractor,Number of threshing machine
+4,Abhaynagar,390,8,4022
+5,Bagherpara,624,28,6403
+6,Chaugachha,320,30,2750
+7,Jessore Sadar,605,200,12906
+8,Jhikargachha,489,48,2193
+9,Keshabpur,430,10,8095
+10,Manirampur,757,40,4556
+11,Sharsha,1170,85,3660
+12,Total,4785,449,44585

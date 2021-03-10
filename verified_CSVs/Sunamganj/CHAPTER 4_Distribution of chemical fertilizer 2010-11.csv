@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6,7,8
 0,Distribution of chemical fertilizer 2010-11,,,,,,,,
-1,(in metric ton),,,,,,,,
-2,Upazila,UREA,TSP,MP,DAP,HP,NPK,SP,Others
-3,Bishwamvarpur,1950,45,60,10,0,0,0,0
-4,Chhatak,2186,226,188,26,0,0,0,0
-5,Dakshin Sunamganj,2700,800,465,65,0,20,0,0
-6,Derai,2500,450,300,0,0,10,0,10
-7,Dharmapasha,1200,65,80,40,0,0,0,0
-8,Doarabazar,1800,60,50,0,0,0,0,20
-9,Jagannathpur,1730,24,16,0,0,0,0,0
-10,Jamalganj,1100,32,80,22,0,0,0,0
-11,Shalla,135,300,270,143,0,40,0,0
-12,Sunamganj Sadar,355,40,82,44,0,5,0,0
-13,Tahirpur,2300,308,270,10,0,0,0,0
-14,Total,17956,2350,1861,360,0,70,0,30
+1,Sunamganj,,,,,,,,
+2,(in metric ton),,,,,,,,
+3,Upazila,UREA,TSP,MP,DAP,HP,NPK,SP,Others
+4,Bishwamvarpur,1950,45,60,10,0,0,0,0
+5,Chhatak,2186,226,188,26,0,0,0,0
+6,Dakshin Sunamganj,2700,800,465,65,0,20,0,0
+7,Derai,2500,450,300,0,0,10,0,10
+8,Dharmapasha,1200,65,80,40,0,0,0,0
+9,Doarabazar,1800,60,50,0,0,0,0,20
+10,Jagannathpur,1730,24,16,0,0,0,0,0
+11,Jamalganj,1100,32,80,22,0,0,0,0
+12,Shalla,135,300,270,143,0,40,0,0
+13,Sunamganj Sadar,355,40,82,44,0,5,0,0
+14,Tahirpur,2300,308,270,10,0,0,0,0
+15,Total,17956,2350,1861,360,0,70,0,30

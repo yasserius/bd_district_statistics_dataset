@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,,,,,,,,
-2, Upazila,Current fallow,Temporary cropped area - Single,Temporary cropped area - Double,Temporary cropped area - Triple,Temporary cropped area - Net,Temporary cropped area - Gross,Productivity of crop
-3,Chhagalnaiya,111,6958,8514,1378,16850,28120,167
-4,Daganbhuiyan,513,9850,3255,2999,16104,25357,157
-5,Feni Sadar,752,16762,1912,4740,23414,34806,149
-6,Fulgazi,255,4540,7071,1032,12643,21778,172
-7,Parshuram,114,7066,2390,2474,11930,19268,162
-8,Sonagazi,361,10551,4627,4050,19228,31955,166
-9,Total,2106,55727,27769,16673,100169,161284,161
+1,Feni,,,,,,,
+2,,,,,,,,
+3, Upazila,Current fallow,Temporary cropped area - Single,Temporary cropped area - Double,Temporary cropped area - Triple,Temporary cropped area - Net,Temporary cropped area - Gross,Productivity of crop
+4,Chhagalnaiya,111,6958,8514,1378,16850,28120,167
+5,Daganbhuiyan,513,9850,3255,2999,16104,25357,157
+6,Feni Sadar,752,16762,1912,4740,23414,34806,149
+7,Fulgazi,255,4540,7071,1032,12643,21778,172
+8,Parshuram,114,7066,2390,2474,11930,19268,162
+9,Sonagazi,361,10551,4627,4050,19228,31955,166
+10,Total,2106,55727,27769,16673,100169,161284,161

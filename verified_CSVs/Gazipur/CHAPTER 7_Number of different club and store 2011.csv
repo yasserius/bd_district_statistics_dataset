@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of different club and store 2011,,,,
-1,,,,,
-2,Upazila,Sports club,Cultural club,Science club,Other social club
-3,Gazipur Sadar,36,20,3,407
-4,Kaliakair,105,0,0,2
-5,Kaliganj,0,0,0,1
-6,Kapashia,0,1,0,0
-7,Sreepur,6,12,0,4
-8,Total,147,33,3,414
+1,Gazipur,,,,
+2,,,,,
+3,Upazila,Sports club,Cultural club,Science club,Other social club
+4,Gazipur Sadar,36,20,3,407
+5,Kaliakair,105,0,0,2
+6,Kaliganj,0,0,0,1
+7,Kapashia,0,1,0,0
+8,Sreepur,6,12,0,4
+9,Total,147,33,3,414

@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of jackfruit, banana and pineapple 2010-11",,,,,,
-1,(Area in acre  production in metric ton),,,,,,
-2,Upazila,Jackfruits Area,Jackfruits Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
-3,Gangni,506,3337,298,2006,0,0
-4,Mujibnagar,197,1676,808,16128,0,0
-5,Meherpur Sadar,234,760,2001,40500,0,0
-6,Total,937,5773,3107,58634,0,0
+1,Meherpur,,,,,,
+2,(Area in acre  production in metric ton),,,,,,
+3,Upazila,Jackfruits Area,Jackfruits Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
+4,Gangni,506,3337,298,2006,0,0
+5,Mujibnagar,197,1676,808,16128,0,0
+6,Meherpur Sadar,234,760,2001,40500,0,0
+7,Total,937,5773,3107,58634,0,0

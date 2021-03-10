@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,Number of cold storage and their installed capacity,,,,
-1,,,,,
-2,Upazila/city corporation,2010-11 Number,2010-11 Installed capacity,2009-10 Number,2009-10 Installed capacity
-3,Bagha,0,0,0,0
-4,Baghmara,4,23000,4,23000
-5,Charghat,0,0,0,0
-6,Durgapur,2,43200,2,43200
-7,Godagari,0,0,0,0
-8,Mohanpur,7,22600,6,20100
-9,Paba,12,145200,12,145200
-10,Puthia,2,9600,2,9600
-11,Rajshahi city corporation,2,13000,2,13000
-12,Tanore,1,1400,0,0
-13,Total,30,258000,28,254100
+1,Rajshahi,,,,
+2,,,,,
+3,Upazila/city corporation,2010-11 Number,2010-11 Installed capacity,2009-10 Number,2009-10 Installed capacity
+4,Bagha,0,0,0,0
+5,Baghmara,4,23000,4,23000
+6,Charghat,0,0,0,0
+7,Durgapur,2,43200,2,43200
+8,Godagari,0,0,0,0
+9,Mohanpur,7,22600,6,20100
+10,Paba,12,145200,12,145200
+11,Puthia,2,9600,2,9600
+12,Rajshahi City Corporation,2,13000,2,13000
+13,Tanore,1,1400,0,0
+14,Total,30,258000,28,254100

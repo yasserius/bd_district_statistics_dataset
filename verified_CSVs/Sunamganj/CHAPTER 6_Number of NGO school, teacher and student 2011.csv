@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of NGO school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of NGO school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Student per teacher
-3,Bishwamvarpur,145,0,145,145,1487,2696,4183,29
-4,Chhatak,12,4,8,12,150,145,295,25
-5,Dakshin Sunamganj,15,23,21,44,2089,2387,4476,10
-6,Derai,88,16,72,88,630,721,1351,15
-7,Dharmapasha,72,68,106,174,1726,1929,3655,21
-8,Doarabazar,10,0,10,10,134,166,300,30
-9,Jagannathpur,2,0,2,2,95,113,208,10
-10,Jamalganj,91,0,91,91,1049,1575,2624,29
-11,Shalla,31,0,31,31,337,507,844,27
-12,Sunamganj Sadar,73,32,480,512,2967,3947,6914,14
-13,Tahirpur,44,0,44,44,460,735,1195,27
-14,Total,583,143,1010,1153,11124,14921,26045,22
+1,Sunamganj,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of NGO school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Student per teacher
+4,Bishwamvarpur,145,0,145,145,1487,2696,4183,29
+5,Chhatak,12,4,8,12,150,145,295,25
+6,Dakshin Sunamganj,15,23,21,44,2089,2387,4476,10
+7,Derai,88,16,72,88,630,721,1351,15
+8,Dharmapasha,72,68,106,174,1726,1929,3655,21
+9,Doarabazar,10,0,10,10,134,166,300,30
+10,Jagannathpur,2,0,2,2,95,113,208,10
+11,Jamalganj,91,0,91,91,1049,1575,2624,29
+12,Shalla,31,0,31,31,337,507,844,27
+13,Sunamganj Sadar,73,32,480,512,2967,3947,6914,14
+14,Tahirpur,44,0,44,44,460,735,1195,27
+15,Total,583,143,1010,1153,11124,14921,26045,22

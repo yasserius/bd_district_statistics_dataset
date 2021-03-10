@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,"Number of branch of specialized (Krishi, Co-operative etc) bank 2011",,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Barlekha,1,7,6000,185
-4,Juri,1,7,4878,121
-5,Kamalganj,2,14,6419,152
-6,Kulaura,4,28,9144,286
-7,Moulvibazar Sadar,4,25,7746,222
-8,Rajnagar,2,9,4310,131
-9,Sreemangal,1,15,9276,130
-10,Total,15,105,47773,1227
+1,Moulvibazar,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Barlekha,1,7,6000,185
+5,Juri,1,7,4878,121
+6,Kamalganj,2,14,6419,152
+7,Kulaura,4,28,9144,286
+8,Moulvibazar Sadar,4,25,7746,222
+9,Rajnagar,2,9,4310,131
+10,Sreemangal,1,15,9276,130
+11,Total,15,105,47773,1227

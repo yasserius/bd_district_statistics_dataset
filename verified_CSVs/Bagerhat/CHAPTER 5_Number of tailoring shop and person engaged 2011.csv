@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Number of tailoring shop and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Bagerhat Sadar,6,3,21,24
-4,Kachua,0,0,0,0
-5,Rampal,0,0,0,0
-6,Sarankhola,0,0,0,0
-7,Chitalmari,2,4,4,8
-8,Morrelgonj,1,4,0,4
-9,Mongla,2,0,9,9
-10,Mollahat,0,0,0,0
-11,Fakirhat,1,2,2,4
-12,Total,12,13,36,49
+1,Bagerhat,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Bagerhat Sadar,6,3,21,24
+5,Kachua,0,0,0,0
+6,Rampal,0,0,0,0
+7,Sharonkhola,0,0,0,0
+8,Chitolmari,2,4,4,8
+9,Morrelgonj,1,4,0,4
+10,Mongla,2,0,9,9
+11,Mollahat,0,0,0,0
+12,Fakirhat,1,2,2,4
+13,Total,12,13,36,49

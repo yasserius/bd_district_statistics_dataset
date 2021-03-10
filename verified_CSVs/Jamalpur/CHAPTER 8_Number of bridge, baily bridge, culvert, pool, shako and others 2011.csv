@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Number of bridge, baily bridge, culvert, pool, shako and others 2011",,,,,,
-1,,,,,,,
-2,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
-3,Bakshiganj,82,0,100,0,0,182
-4,Dewanganj,14,0,43,20,2,0
-5,Islampur,109,1,313,0,0,0
-6,Jamalpur Sadar,53,1,671,20,3,0
-7,Madarganj,50,5,252,0,25,20
-8,Melandaha,47,4,425,0,0,18
-9,Sarishabari,42,0,135,0,0,76
-10,Total,397,11,1939,40,30,296
+1,Jamalpur,,,,,,
+2,,,,,,,
+3,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
+4,Bakshiganj,82,0,100,0,0,182
+5,Dewanganj,14,0,43,20,2,0
+6,Islampur,109,1,313,0,0,0
+7,Jamalpur Sadar,53,1,671,20,3,0
+8,Madarganj,50,5,252,0,25,20
+9,Melandaha,47,4,425,0,0,18
+10,Sarishabari,42,0,135,0,0,76
+11,Total,397,11,1939,40,30,296

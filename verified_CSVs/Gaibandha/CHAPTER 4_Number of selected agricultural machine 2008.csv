@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,,,,
-2, Upazila, Number of power tiller, Tractor,Number of threshing machine
-3,Fulchhari,169,42,353
-4,Gaibandha Sadar,241,17,1049
-5,Gobindaganj,1160,60,6707
-6,Palashbari,280,21,2148
-7,Sadullapur,158,19,813
-8,Saghata,270,25,1467
-9,Sundarganj,222,21,2888
-10,Total,2500,205,15425
+1,Gaibandha,,,
+2,,,,
+3, Upazila, Number of power tiller, Tractor,Number of threshing machine
+4,Fulchhari,169,42,353
+5,Gaibandha Sadar,241,17,1049
+6,Gobindaganj,1160,60,6707
+7,Palashbari,280,21,2148
+8,Sadullapur,158,19,813
+9,Saghata,270,25,1467
+10,Sundarganj,222,21,2888
+11,Total,2500,205,15425

@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Azmirigonj,1,11,1560,278
-4,Bahubal,2,15,5732,901
-5,Baniachang,2,9,2700,2890
-6,Chunarughat,3,19,19641,2540
-7,Habiganj Sadar,16,167,19523,3089
-8,Lakhai,0,0,0,0
-9,Madhabpur,5,42,10293,2579
-10,Nabiganj,9,96,27758,3897
-11,Total,38,359,87207,16174
+1,Habiganj,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Azmirigonj,1,11,1560,278
+5,Bahubal,2,15,5732,901
+6,Baniachang,2,9,2700,2890
+7,Chunarughat,3,19,19641,2540
+8,Habiganj Sadar,16,167,19523,3089
+9,Lakhai,0,0,0,0
+10,Madhabpur,5,42,10293,2579
+11,Nabiganj,9,96,27758,3897
+12,Total,38,359,87207,16174

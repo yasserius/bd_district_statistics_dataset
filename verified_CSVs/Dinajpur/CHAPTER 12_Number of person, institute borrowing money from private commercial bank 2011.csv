@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2, Upazila,Number of branch of all private commercial banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
-3,Biral,0,0,0,0,0,0,0,0,0,0,0
-4,Birampur,3,1592,1473,2,0,198,8,3078,1473,39.13,4.15
-5,Birganj,0,0,0,0,0,0,0,0,0,0,0
-6,Bochaganj,6,4494,26,12,0,405,15,4911,41,37.73,0.36
-7,Chirirbandar,0,0,0,0,0,0,0,0,0,0,0
-8,Dinajpur Sadar,19,3800,2100,717,320,6910,5400,11427,7820,310,80
-9,Fulbari,0,0,0,0,0,0,0,0,0,0,0
-10,Ghoraghat,0,0,0,0,0,0,0,0,0,0,0
-11,Hakimpur,0,0,0,0,0,97,10111,97,10111,0.09,6.43
-12,Kaharole,0,0,0,0,0,0,0,0,0,0,0
-13,Khansama,1,2030,250,0,0,320,20,2350,270,2620,946.41
-14,Nawabganj,0,0,0,0,0,0,0,0,0,0,0
-15,Parbatipur,4,5621,250,0,0,2220,349,7881,549,162,8
-16,Total,33,17537,4099,731,320,10150,15903,29744,20264,3168.95,1045.35
+1,Dinajpur,,,,,,,,,,,
+2,,,,,,,,,,,,
+3, Upazila,Number of branch of all private commercial banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
+4,Biral,0,0,0,0,0,0,0,0,0,0,0
+5,Birampur,3,1592,1473,2,0,198,8,3078,1473,39.13,4.15
+6,Birganj,0,0,0,0,0,0,0,0,0,0,0
+7,Bochaganj,6,4494,26,12,0,405,15,4911,41,37.73,0.36
+8,Chirirbandar,0,0,0,0,0,0,0,0,0,0,0
+9,Dinajpur Sadar,19,3800,2100,717,320,6910,5400,11427,7820,310,80
+10,Fulbari,0,0,0,0,0,0,0,0,0,0,0
+11,Ghoraghat,0,0,0,0,0,0,0,0,0,0,0
+12,Hakimpur,0,0,0,0,0,97,10111,97,10111,0.09,6.43
+13,Kaharole,0,0,0,0,0,0,0,0,0,0,0
+14,Khansama,1,2030,250,0,0,320,20,2350,270,2620,946.41
+15,Nawabganj,0,0,0,0,0,0,0,0,0,0,0
+16,Parbatipur,4,5621,250,0,0,2220,349,7881,549,162,8
+17,Total,33,17537,4099,731,320,10150,15903,29744,20264,3168.95,1045.35

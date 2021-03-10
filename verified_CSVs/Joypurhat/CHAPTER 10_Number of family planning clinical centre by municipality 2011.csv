@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Number of family planning clinical centre by municipality 2011,,,,,
-1,,,,,,
-2, Upazila,Sterilization centre, Mobile centre, Injection centre,Menstrual regularization centre,Family welfare centre
-3,Akkelpur,1,0,1,1,6
-4,Joypurhat sadar,1,8,5,5,2
-5,Kalai,1,0,1,1,1
-6,Khetlal,1,0,2,2,2
-7,Panchbibi,0,0,0,0,0
-8,Total,4,8,9,9,11
+1,Joypurhat,,,,,
+2,,,,,,
+3, Upazila,Sterilization centre, Mobile centre, Injection centre,Menstrual regularization centre,Family welfare centre
+4,Akkelpur,1,0,1,1,6
+5,Joypurhat sadar,1,8,5,5,2
+6,Kalai,1,0,1,1,1
+7,Khetlal,1,0,2,2,2
+8,Panchbibi,0,0,0,0,0
+9,Total,4,8,9,9,11

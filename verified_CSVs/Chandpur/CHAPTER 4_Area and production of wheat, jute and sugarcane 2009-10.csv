@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of wheat, jute and sugarcane 2009-10",,,,,,
-1,,,,,,,
-2, Upazila,Wheat - Area,Wheat - Production,Jute - Area,Jute - Production,Sugarcane - Area,Sugarcane - Production
-3,Chandpur Sadar,1383,1344,3742,2399,370,3100
-4,Foridganj,62,58,333,1091,378,715
-5,Haimchar,37,37,25,430,15,306
-6,Hajiganj,720,597,800,511,75,344
-7,Kachua,300,279,901,771,57,428
-8,Matlab Dakshin,514,498,1931,1153,15,65
-9,Matlab Uttar,1105,1011,1102,1115,370,9250
-10,Shahrasti,360,216,65,62,235,4230
-11,Total,4481,4040,8899,7532,1515,18438
+1,Chandpur,,,,,,
+2,,,,,,,
+3, Upazila,Wheat - Area,Wheat - Production,Jute - Area,Jute - Production,Sugarcane - Area,Sugarcane - Production
+4,Chandpur Sadar,1383,1344,3742,2399,370,3100
+5,Foridganj,62,58,333,1091,378,715
+6,Haimchar,37,37,25,430,15,306
+7,Hajiganj,720,597,800,511,75,344
+8,Kachua,300,279,901,771,57,428
+9,Matlab Dakshin,514,498,1931,1153,15,65
+10,Matlab Uttar,1105,1011,1102,1115,370,9250
+11,Shahrasti,360,216,65,62,235,4230
+12,Total,4481,4040,8899,7532,1515,18438

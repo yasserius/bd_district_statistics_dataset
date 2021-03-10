@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting selected livestock species 2008,,,,,,
-1,,,,,,,
-2, Upazila,Cow  buffalo - Holding number,Cow  buffalo - Number of animal,Goat - Holding number,Goat - Number of goat,Sheep - Holding number,Sheep - Number of sheep
-3,Belkuchi,10445,45965,6596,15398,2000,7166
-4,Chauhali,17525,44664,11324,29129,2556,6790
-5,Kamarkhanda,21084,40556,3830,5969,769,1290
-6,Kazipur,41943,48953,37535,39439,660,2025
-7,Royganj,33205,84079,14854,36059,2874,8126
-8,Shahjadpur,31515,90510,18311,46481,5380,14029
-9,Sirajganj Sadar,30983,77296,18531,45781,1202,3893
-10,Tarash,16981,45883,13520,38576,2506,7927
-11,Ullahpara,43104,109101,22966,56089,5875,16327
-12,Total,246785,587007,147467,312921,23822,67573
+1,Sirajganj,,,,,,
+2,,,,,,,
+3,Upazila,Cow  buffalo - Holding number,Cow  buffalo - Number of animal,Goat - Holding number,Goat - Number of goat,Sheep - Holding number,Sheep - Number of sheep
+4,Belkuchi,10445,45965,6596,15398,2000,7166
+5,Chauhali,17525,44664,11324,29129,2556,6790
+6,Kamarkhanda,21084,40556,3830,5969,769,1290
+7,Kazipur,41943,48953,37535,39439,660,2025
+8,Royganj,33205,84079,14854,36059,2874,8126
+9,Shahjadpur,31515,90510,18311,46481,5380,14029
+10,Sirajganj Sadar,30983,77296,18531,45781,1202,3893
+11,Tarash,16981,45883,13520,38576,2506,7927
+12,Ullahpara,43104,109101,22966,56089,5875,16327
+13,Total,246785,587007,147467,312921,23822,67573

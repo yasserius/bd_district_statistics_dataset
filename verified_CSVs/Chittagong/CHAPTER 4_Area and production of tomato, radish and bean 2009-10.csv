@@ -1,20 +1,21 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila/City corporation,Tomato - Area,Tomato - Production,Radish - Area,Radish - Production,Bean - Area,Bean - Production
-3,Anowara,26,210,23,54,31,130
-4,Banshkhali,184,866,273,1467,158,394
-5,Boalkhali,45,124,18,51,8020,36
-6,Chandanaish,126,413,371,10200,103,322
-7,Chittagong City Corp.,16,37,16,123,34,33
-8,Fatikchhari,216,657,325,193,240,495
-9,Hathazari,97,194,103,528,90,252
-10,Lohagara,98,144,95,377,97,302
-11,Mirsharai,108,500,522,2090,532,2163
-12,Patiya,75,180,82,618,169,164
-13,Rangunia,200,6619,338,1073,129,307
-14,Raozan,110,325,82,865,208,592
-15,Sandwip,512,528,606,933,503,300
-16,Satkania,185,1020,190,142,410,1364
-17,Sitakunda,2030,5745,126,747,103,190
-18,Total,4028,17562,3171,19462,10827,7043
+1,Chittagong,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila/City corporation,Tomato - Area,Tomato - Production,Radish - Area,Radish - Production,Bean - Area,Bean - Production
+4,Anowara,26,210,23,54,31,130
+5,Banshkhali,184,866,273,1467,158,394
+6,Boalkhali,45,124,18,51,8020,36
+7,Chandanaish,126,413,371,10200,103,322
+8,Chittagong City Corporation,16,37,16,123,34,33
+9,Fatikchhari,216,657,325,193,240,495
+10,Hathazari,97,194,103,528,90,252
+11,Lohagara,98,144,95,377,97,302
+12,Mirsharai,108,500,522,2090,532,2163
+13,Patiya,75,180,82,618,169,164
+14,Rangunia,200,6619,338,1073,129,307
+15,Raozan,110,325,82,865,208,592
+16,Sandwip,512,528,606,933,503,300
+17,Satkania,185,1020,190,142,410,1364
+18,Sitakunda,2030,5745,126,747,103,190
+19,Total,4028,17562,3171,19462,10827,7043

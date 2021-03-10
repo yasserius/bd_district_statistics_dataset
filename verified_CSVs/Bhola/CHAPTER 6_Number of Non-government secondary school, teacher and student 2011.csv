@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Non-government secondary school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Bhola Sadar,62,385,125,510,7185,9628,16813,33
-4,Burhanuddin,34,254,41,295,4610,4310,8920,30
-5,Char Fasson,76,528,92,620,21688,20208,41896,68
-6,Daulatkhan,20,144,29,173,3742,3123,6865,40
-7,Lalmohan,44,373,58,431,3980,5434,9414,22
-8,Manpura,8,69,6,75,1014,1105,2119,28
-9,Tazumuddin,12,104,11,115,1645,1531,3180,28
-10,Total,256,1857,362,2219,43864,45339,89207,40
+1,Bhola,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Bhola Sadar,62,385,125,510,7185,9628,16813,33
+5,Burhanuddin,34,254,41,295,4610,4310,8920,30
+6,Char Fasson,76,528,92,620,21688,20208,41896,68
+7,Daulatkhan,20,144,29,173,3742,3123,6865,40
+8,Lalmohan,44,373,58,431,3980,5434,9414,22
+9,Manpura,8,69,6,75,1014,1105,2119,28
+10,Tazumuddin,12,104,11,115,1645,1531,3180,28
+11,Total,256,1857,362,2219,43864,45339,89207,40

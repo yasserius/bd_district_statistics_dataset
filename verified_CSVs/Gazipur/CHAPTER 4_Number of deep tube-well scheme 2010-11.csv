@@ -1,10 +1,11 @@
 ,0,1,2,3
 0,Number of deep tube-well scheme 2010-11,,,
-1,,,,
-2, Upazila,Number of deep tube-well - Commissioned,Number of deep tube-well - Operated,Area irrigated (In acre)
-3,Gazipur Sadar,0,119,1392
-4,Kaliakair,2,178,8200
-5,Kaliganj,94,88,3996
-6,Kapashia,47,38,2180
-7,Sreepur,104,24,1800
-8,Total,247,447,17568
+1,Gazipur,,,
+2,,,,
+3, Upazila,Number of deep tube-well - Commissioned,Number of deep tube-well - Operated,Area irrigated (In acre)
+4,Gazipur Sadar,0,119,1392
+5,Kaliakair,2,178,8200
+6,Kaliganj,94,88,3996
+7,Kapashia,47,38,2180
+8,Sreepur,104,24,1800
+9,Total,247,447,17568

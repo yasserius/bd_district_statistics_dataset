@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,,,,,,
-2,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
-3,Basail,0,108,1,4,1
-4,Bhuapur,1,154,2,3,1
-5,Delduar,2,150,0,3,1
-6,Dhanbari,2,48,0,3,1
-7,Ghatail,5,182,0,15,1
-8,Gopalpur,2,69,8,6,1
-9,Kalihati,4,124,0,7,1
-10,Madhupur,3,47,0,11,1
-11,Mirzapur,1,321,2,8,1
-12,Nagarpur,3,134,0,8,1
-13,Sakhipur,3,108,0,4,1
-14,Tangail Sadar,3,643,2,7,2
-15,Total,29,2088,15,79,13
+1,Tangail,,,,,
+2,,,,,,
+3,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
+4,Basail,0,108,1,4,1
+5,Bhuapur,1,154,2,3,1
+6,Delduar,2,150,0,3,1
+7,Dhanbari,2,48,0,3,1
+8,Ghatail,5,182,0,15,1
+9,Gopalpur,2,69,8,6,1
+10,Kalihati,4,124,0,7,1
+11,Madhupur,3,47,0,11,1
+12,Mirzapur,1,321,2,8,1
+13,Nagarpur,3,134,0,8,1
+14,Sakhipur,3,108,0,4,1
+15,Tangail Sadar,3,643,2,7,2
+16,Total,29,2088,15,79,13

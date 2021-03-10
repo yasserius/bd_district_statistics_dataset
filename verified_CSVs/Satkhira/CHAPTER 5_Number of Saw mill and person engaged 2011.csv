@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of Saw mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Assasuni,21,21,84,105
-4,Debhata,10,10,40,50
-5,Kalaroa,27,27,108,135
-6,Kaliganj,23,23,69,92
-7,Satkhira Sadar,19,15,65,80
-8,Shyamnagar,31,16,96,112
-9,Tala,16,34,96,130
-10,Total,147,146,558,704
+1,Satkhira,,,,
+2,,,,,
+3,Upazila, Unit,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Assasuni,21,21,84,105
+5,Debhata,10,10,40,50
+6,Kalaroa,27,27,108,135
+7,Kaliganj,23,23,69,92
+8,Satkhira Sadar,19,15,65,80
+9,Shyamnagar,31,16,96,112
+10,Tala,16,34,96,130
+11,Total,147,146,558,704

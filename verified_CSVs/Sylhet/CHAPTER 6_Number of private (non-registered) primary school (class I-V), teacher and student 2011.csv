@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of private (non-registered) primary school (class I-V), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila/City corporation,Number of Non- government primary school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Balaganj,4,12,4,16,153,225,380,23
-4,Beanibazar,5,5,15,20,341,334,675,34
-5,Bishwanath,4,11,4,15,349,373,722,48
-6,Companiganj,6,18,6,24,1511,1411,2922,121
-7,Dakhin surma,2,3,5,8,140,158,298,37
-8,Fenchuganj,7,0,17,17,316,268,584,34
-9,Golapganj,8,6,20,26,541,490,1031,40
-10,Gowainghat,2,2,6,8,190,262,452,56
-11,Jaintiapur,3,4,8,12,479,501,980,82
-12,Kanaighat,1,2,3,5,124,261,405,81
-13,Sylhet city corporation,0,0,0,0,0,0,0,0
-14,Sylhet sadar,0,0,0,0,0,0,0,0
-15,Zakiganj,1,2,2,4,70,90,160,40
-16,Total,43,65,90,155,4214,4373,8609,56
+1,Sylhet,,,,,,,,
+2,,,,,,,,,
+3,Upazila/City Corporation,Number of Non- government primary school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Balaganj,4,12,4,16,153,225,380,23
+5,Beanibazar,5,5,15,20,341,334,675,34
+6,Bishwanath,4,11,4,15,349,373,722,48
+7,Companiganj,6,18,6,24,1511,1411,2922,121
+8,Dakhin Surma,2,3,5,8,140,158,298,37
+9,Fenchuganj,7,0,17,17,316,268,584,34
+10,Golapganj,8,6,20,26,541,490,1031,40
+11,Gowainghat,2,2,6,8,190,262,452,56
+12,Jaintiapur,3,4,8,12,479,501,980,82
+13,Kanaighat,1,2,3,5,124,261,405,81
+14,Sylhet City Corporation,0,0,0,0,0,0,0,0
+15,Sylhet Sadar,0,0,0,0,0,0,0,0
+16,Zakiganj,1,2,2,4,70,90,160,40
+17,Total,43,65,90,155,4214,4373,8609,56

@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6
 0,"Number of bridge, baily bridge, culvert, pool, shako and others 2011",,,,,,
-1,,,,,,,
-2,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
-3,Biral,17,1,231,0,0,0
-4,Birampur,20,0,550,0,2,0
-5,Birganj,17,0,851,428,2,0
-6,Bochaganj,30,3,900,0,0,0
-7,Chirirbandar,8,2,960,8,3,2
-8,Dinajpur Sadar,1158,0,0,0,0,0
-9,Fulbari,14,0,410,254,0,128
-10,Ghoraghat,5,0,105,0,0,0
-11,Hakimpur,1,0,329,0,1,0
-12,Kaharole,102,1,432,0,2,0
-13,Khansama,1,0,216,0,0,1054
-14,Nawabganj,16,0,952,4,0,0
-15,Parbatipur,55,1,255,325,21,431
-16,Total,1444,8,6191,1019,31,1615
+1,Dinajpur,,,,,,
+2,,,,,,,
+3,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
+4,Biral,17,1,231,0,0,0
+5,Birampur,20,0,550,0,2,0
+6,Birganj,17,0,851,428,2,0
+7,Bochaganj,30,3,900,0,0,0
+8,Chirirbandar,8,2,960,8,3,2
+9,Dinajpur Sadar,1158,0,0,0,0,0
+10,Fulbari,14,0,410,254,0,128
+11,Ghoraghat,5,0,105,0,0,0
+12,Hakimpur,1,0,329,0,1,0
+13,Kaharole,102,1,432,0,2,0
+14,Khansama,1,0,216,0,0,1054
+15,Nawabganj,16,0,952,4,0,0
+16,Parbatipur,55,1,255,325,21,431
+17,Total,1444,8,6191,1019,31,1615

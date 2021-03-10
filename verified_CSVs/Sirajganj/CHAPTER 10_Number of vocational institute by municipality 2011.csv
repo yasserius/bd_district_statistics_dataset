@@ -1,11 +1,12 @@
 ,0,1,2,3
 0,Number of vocational institute by municipality 2011,,,
-1,,,,
-2,Upazila,Number of institution,Number of teacher,Number of student
-3,Belkuchi,0,0,0
-4,Kazipur,1,17,137
-5,Royganj,1,22,352
-6,Shahjadpur,0,0,0
-7,Sirajganj Sadar,7,132,3528
-8,Ullahpara,0,0,0
-9,Total,9,171,4017
+1,Sirajganj,,,
+2,,,,
+3,Upazila,Number of institution,Number of teacher,Number of student
+4,Belkuchi,0,0,0
+5,Kazipur,1,17,137
+6,Royganj,1,22,352
+7,Shahjadpur,0,0,0
+8,Sirajganj Sadar,7,132,3528
+9,Ullahpara,0,0,0
+10,Total,9,171,4017

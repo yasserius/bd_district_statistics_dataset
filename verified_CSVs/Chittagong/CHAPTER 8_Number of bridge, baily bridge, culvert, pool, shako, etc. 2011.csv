@@ -1,20 +1,21 @@
 ,0,1,2,3,4,5,6
 0,"Number of bridge, baily bridge, culvert, pool, shako, etc. 2011",,,,,,
-1,,,,,,,
-2,Upazila/City corporation,Bridge,Baily bridge,Culvert,Pool,Shako,Others
-3,Anowara,7,4,280,10,5,0
-4,Banshkhali,6,4,620,0,10,4
-5,Boalkhali,170,2,480,25,4,0
-6,Chandanaish,15,4,470,0,83,0
-7,Chittagong City Corp.,30,9,232,40,5,5
-8,Fatikchhari,120,4,415,137,87,0
-9,Hathazari,5,2,485,0,0,0
-10,Lohagara,68,11,740,0,0,0
-11,Mirsharai,17,4,96,44,19,123
-12,Patiya,187,0,454,245,0,0
-13,Rangunia,10,10,5,0,45,0
-14,Raozan,0,3,346,248,0,0
-15,Sandwip,890,0,1012,370,230,17
-16,Satkania,48,4,187,0,32,0
-17,Sitakunda,756,3,0,0,1,0
-18,Total,2329,64,5822,1119,521,149
+1,Chittagong,,,,,,
+2,,,,,,,
+3,Upazila/City corporation,Bridge,Baily bridge,Culvert,Pool,Shako,Others
+4,Anowara,7,4,280,10,5,0
+5,Banshkhali,6,4,620,0,10,4
+6,Boalkhali,170,2,480,25,4,0
+7,Chandanaish,15,4,470,0,83,0
+8,Chittagong City Corporation,30,9,232,40,5,5
+9,Fatikchhari,120,4,415,137,87,0
+10,Hathazari,5,2,485,0,0,0
+11,Lohagara,68,11,740,0,0,0
+12,Mirsharai,17,4,96,44,19,123
+13,Patiya,187,0,454,245,0,0
+14,Rangunia,10,10,5,0,45,0
+15,Raozan,0,3,346,248,0,0
+16,Sandwip,890,0,1012,370,230,17
+17,Satkania,48,4,187,0,32,0
+18,Sitakunda,756,3,0,0,1,0
+19,Total,2329,64,5822,1119,521,149

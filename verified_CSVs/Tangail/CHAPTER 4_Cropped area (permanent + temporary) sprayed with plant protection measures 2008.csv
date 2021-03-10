@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5
 0,Cropped area (permanent + temporary) sprayed with plant protection measures 2008,,,,,
-1,,,,,,
-2,Upazila,Total farm holding Number,Total farm holding Cropped area,Spraying farm holding Number,Spraying farm holding Cropped area,Reporting area sprayed
-3,Basail,23546,28048,5886,472,323
-4,Bhuapur,45173,47278,22315,23525,10513
-5,Delduar,27171,32896,21736,26316,10526
-6,Dhanbari,29037,32977,8700,6600,4360
-7,Ghatail,65890,75233,21983,25077,15046
-8,Gopalpur,43268,35581,5500,3754,3754
-9,Kalihati,51788,74432,51788,74432,19352
-10,Madhupur,67893,57862,36320,29212,24000
-11,Mirzapur,52635,58415,34750,25000,700
-12,Nagarpur,41486,47432,29870,34151,32205
-13,Sakhipur,44845,66427,17938,25812,12906
-14,Tangail Sadar,46144,59000,3108,44250,13275
-15,Total,538876,615581,259894,318601,146960
+1,Tangail,,,,,
+2,,,,,,
+3,Upazila,Total farm holding Number,Total farm holding Cropped area,Spraying farm holding Number,Spraying farm holding Cropped area,Reporting area sprayed
+4,Basail,23546,28048,5886,472,323
+5,Bhuapur,45173,47278,22315,23525,10513
+6,Delduar,27171,32896,21736,26316,10526
+7,Dhanbari,29037,32977,8700,6600,4360
+8,Ghatail,65890,75233,21983,25077,15046
+9,Gopalpur,43268,35581,5500,3754,3754
+10,Kalihati,51788,74432,51788,74432,19352
+11,Madhupur,67893,57862,36320,29212,24000
+12,Mirzapur,52635,58415,34750,25000,700
+13,Nagarpur,41486,47432,29870,34151,32205
+14,Sakhipur,44845,66427,17938,25812,12906
+15,Tangail Sadar,46144,59000,3108,44250,13275
+16,Total,538876,615581,259894,318601,146960

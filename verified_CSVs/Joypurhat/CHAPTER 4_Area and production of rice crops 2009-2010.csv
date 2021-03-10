@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2009-2010,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
-3,Akkelpur,92,71,23408,18940,25570,50763
-4,Joypurhat sadar,25,18,40945,39057,39822,64698
-5,Kalai,0,0,31525,31688,30889,60546
-6,Khetlal,0,0,28042,24890,28000,45619
-7,Panchbibi,0,0,30150,34460,36832,48618
-8,Total,117,89,154070,149035,161113,270244
+1,Joypurhat,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
+4,Akkelpur,92,71,23408,18940,25570,50763
+5,Joypurhat sadar,25,18,40945,39057,39822,64698
+6,Kalai,0,0,31525,31688,30889,60546
+7,Khetlal,0,0,28042,24890,28000,45619
+8,Panchbibi,0,0,30150,34460,36832,48618
+9,Total,117,89,154070,149035,161113,270244

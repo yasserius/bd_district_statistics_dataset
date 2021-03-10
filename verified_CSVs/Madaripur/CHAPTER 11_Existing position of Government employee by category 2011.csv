@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,Existing position of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
-3,Kalkini,33,27,388,108,540
-4,Madaripur Sadar,41,36,554,122,753
-5,Rajoir,25,19,270,95,409
-6,Shibchar,67,23,406,136,632
-7,Total,166,105,1618,461,2334
+1,Madaripur,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
+4,Kalkini,33,27,388,108,540
+5,Madaripur Sadar,41,36,554,122,753
+6,Rajoir,25,19,270,95,409
+7,Shibchar,67,23,406,136,632
+8,Total,166,105,1618,461,2334

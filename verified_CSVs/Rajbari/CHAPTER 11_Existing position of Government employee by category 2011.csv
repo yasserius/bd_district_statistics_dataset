@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Existing position of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
-3,Baliakandi,23,20,569,86,698
-4,Goalanda,31,25,401,77,534
-5,Kalukhali,16,8,42,5,71
-6,Pangsha,35,24,359,120,538
-7,Rajbari Sadar,32,18,770,109,929
-8,Total,137,95,2141,397,2770
+1,Rajbari,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
+4,Baliakandi,23,20,569,86,698
+5,Goalanda,31,25,401,77,534
+6,Kalukhali,16,8,42,5,71
+7,Pangsha,35,24,359,120,538
+8,Rajbari Sadar,32,18,770,109,929
+9,Total,137,95,2141,397,2770

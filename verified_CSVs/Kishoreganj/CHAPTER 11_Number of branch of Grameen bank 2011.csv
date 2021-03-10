@@ -1,18 +1,19 @@
 ,0,1,2,3,4
 0,Number of branch of Grameen bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of member,Number of account
-3,Austagram,1,8,3200,3380
-4,Bajitpur,5,40,15000,920
-5,Bhairab,4,29,11827,1620
-6,Hossainpur,1,8,4320,4752
-7,Itna,1,8,2293,2800
-8,Karimganj,4,30,14520,10284
-9,Katiadi,10,67,28394,38804
-10,Kishoreganj Sadar,5,30,14252,14252
-11,Kuliar-char,3,18,6580,6580
-12,Mithamain,1,7,1754,2254
-13,Nikli,1,6,3975,5034
-14,Pakundia,5,42,12220,23290
-15,Tarail,4,22,0,0
-16,Total,45.00,315.00,118335.00,113970
+1,Kishoreganj,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of member,Number of account
+4,Austagram,1,8,3200,3380
+5,Bajitpur,5,40,15000,920
+6,Bhairab,4,29,11827,1620
+7,Hossainpur,1,8,4320,4752
+8,Itna,1,8,2293,2800
+9,Karimganj,4,30,14520,10284
+10,Katiadi,10,67,28394,38804
+11,Kishoreganj Sadar,5,30,14252,14252
+12,Kuliar-char,3,18,6580,6580
+13,Mithamain,1,7,1754,2254
+14,Nikli,1,6,3975,5034
+15,Pakundia,5,42,12220,23290
+16,Tarail,4,22,0,0
+17,Total,45.00,315.00,118335.00,113970

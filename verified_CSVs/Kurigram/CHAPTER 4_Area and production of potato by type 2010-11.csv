@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2010-11,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
-3,Bhurungamari,582,4815,48,432,630,5247
-4,Char Rajibpur,177,1185,405,2060,585,3245
-5,Chilmari,305,1068,170,1190,475,2258
-6,Kurigram Sadar,1404,2000,34,400,1438,2400
-7,Nageshwari,803,4798,40,215,843,513
-8,Phulbari,967,6945,14,98,981,7043
-9,Rajarhat,5726,23915,29,87,5755,24002
-10,Raumari,102,811,59,70,161,881
-11,Ulipur,1915,14000,167,551,2082,14551
-12,Total,11981,59537,966,5103,12950,60140
+1,Kurigram,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
+4,Bhurungamari,582,4815,48,432,630,5247
+5,Char Rajibpur,177,1185,405,2060,585,3245
+6,Chilmari,305,1068,170,1190,475,2258
+7,Kurigram Sadar,1404,2000,34,400,1438,2400
+8,Nageshwari,803,4798,40,215,843,513
+9,Phulbari,967,6945,14,98,981,7043
+10,Rajarhat,5726,23915,29,87,5755,24002
+11,Raumari,102,811,59,70,161,881
+12,Ulipur,1915,14000,167,551,2082,14551
+13,Total,11981,59537,966,5103,12950,60140

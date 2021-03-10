@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of Saw mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Abhaynagar,31,43,197,240
-4,Bagherpara,33,37,116,153
-5,Chaugachha,19,12,78,90
-6,Jessore Sadar,78,83,702,785
-7,Jhikargachha,32,28,167,195
-8,Keshabpur,29,29,216,245
-9,Manirampur,79,37,316,353
-10,Sharsha,42,42,162,204
-11,Total,343,311,1954,2265
+1,Jessore,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Abhaynagar,31,43,197,240
+5,Bagherpara,33,37,116,153
+6,Chaugachha,19,12,78,90
+7,Jessore Sadar,78,83,702,785
+8,Jhikargachha,32,28,167,195
+9,Keshabpur,29,29,216,245
+10,Manirampur,79,37,316,353
+11,Sharsha,42,42,162,204
+12,Total,343,311,1954,2265

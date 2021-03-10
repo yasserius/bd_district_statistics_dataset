@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Medical institution and personnel by municipality 2011,,,,,,
-1,,,,,,,
-2, Municipality,Govt. institutions,Private institutions,Medical personal - Beds,Medical personal - Doctors,Medical personal - Nurses,Medical personal - Technicians
-3,Chandpur Sadar,3,19,523,77,178,46
-4,Foridganj,1,4,51,14,5,8
-5,Haimchar,0,0,0,0,0,0
-6,Hajiganj,2,9,126,38,51,40
-7,Kachua,1,1,60,22,13,7
-8,Matlab Dakshin,2,3,210,30,57,10
-9,Matlab Uttar,0,0,0,0,0,0
-10,Shahrasti,2,0,50,10,9,7
-11,Total,11,36,1020,191,313,118
+1,Chandpur,,,,,,
+2,,,,,,,
+3, Municipality,Govt. institutions,Private institutions,Medical personal - Beds,Medical personal - Doctors,Medical personal - Nurses,Medical personal - Technicians
+4,Chandpur Sadar,3,19,523,77,178,46
+5,Foridganj,1,4,51,14,5,8
+6,Haimchar,0,0,0,0,0,0
+7,Hajiganj,2,9,126,38,51,40
+8,Kachua,1,1,60,22,13,7
+9,Matlab Dakshin,2,3,210,30,57,10
+10,Matlab Uttar,0,0,0,0,0,0
+11,Shahrasti,2,0,50,10,9,7
+12,Total,11,36,1020,191,313,118

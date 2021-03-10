@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,"Number of railway station, steamer, launch station and bus stand 2011",,,
-1,,,,
-2,Upazila,Railway station,Steamer/launch station,Bus stand
-3,Fulchhari,0,1,0
-4,Gaibandha Sadar,4,1,1
-5,Gobindaganj,2,0,9
-6,Palashbari,0,0,6
-7,Sadullapur,2,0,2
-8,Saghata,2,0,3
-9,Sundarganj,2,0,5
-10,Total,12,2,26
+1,Gaibandha,,,
+2,,,,
+3,Upazila,Railway station,Steamer/launch station,Bus stand
+4,Fulchhari,0,1,0
+5,Gaibandha Sadar,4,1,1
+6,Gobindaganj,2,0,9
+7,Palashbari,0,0,6
+8,Sadullapur,2,0,2
+9,Saghata,2,0,3
+10,Sundarganj,2,0,5
+11,Total,12,2,26

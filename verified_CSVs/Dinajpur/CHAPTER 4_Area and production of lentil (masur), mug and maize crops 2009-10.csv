@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of lentil (masur), mug and maize crops 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Lentil (Masur) - Area,Lentil (Masur) - Production,Mug - Area,Mug - Production,Maize - Area,Maize - Production
-3,Biral,105,39,20,3,19795,60334
-4,Birampur,38,12,20,4,757,1780
-5,Birganj,29,7,4,2,12597,31791
-6,Bochaganj,134,35,19,4,3080,8800
-7,Chirirbandar,25,8,0,0,1575,3237
-8,Dinajpur Sadar,10,3,4,2,4500,11754
-9,Fulbari,18,5,0,0,3190,9570
-10,Ghoraghat,13,4,6,2,4350,9570
-11,Hakimpur,20,16,0,0,117,298
-12,Kaharole,123,31,29,6,3638,7021
-13,Khansama,21,7,0,0,6165,13871
-14,Nawabganj,13,4,0,0,6978,16398
-15,Parbatipur,20,5,0,0,3850,9040
-16,Total,569,176,102,22,70592,183464
+1,Dinajpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Lentil (Masur) - Area,Lentil (Masur) - Production,Mug - Area,Mug - Production,Maize - Area,Maize - Production
+4,Biral,105,39,20,3,19795,60334
+5,Birampur,38,12,20,4,757,1780
+6,Birganj,29,7,4,2,12597,31791
+7,Bochaganj,134,35,19,4,3080,8800
+8,Chirirbandar,25,8,0,0,1575,3237
+9,Dinajpur Sadar,10,3,4,2,4500,11754
+10,Fulbari,18,5,0,0,3190,9570
+11,Ghoraghat,13,4,6,2,4350,9570
+12,Hakimpur,20,16,0,0,117,298
+13,Kaharole,123,31,29,6,3638,7021
+14,Khansama,21,7,0,0,6165,13871
+15,Nawabganj,13,4,0,0,6978,16398
+16,Parbatipur,20,5,0,0,3850,9040
+17,Total,569,176,102,22,70592,183464

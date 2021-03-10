@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,"Occurrence of river erosion during the years 2008-2011 (Yes, No)",,,,
-1,,,,,
-2,Upazila,2008,2009,2010,2011
-3,Atpara,Yes,Yes,Yes,Yes
-4,Barhatta,Yes,Yes,Yes,Yes
-5,Durgapur,Yes,Yes,Yes,Yes
-6,Kalmakanda,No,No,No,No
-7,Kendua,No,No,No,No
-8,Khaliajuri,No,No,No,No
-9,Madan,No,No,No,No
-10,Mohanganj,No,No,No,No
-11,Netrokona Sadar,No,No,No,No
-12,Purbadhala,No,No,No,No
+1,Netrokona,,,,
+2,,,,,
+3,Upazila,2008,2009,2010,2011
+4,Atpara,Yes,Yes,Yes,Yes
+5,Barhatta,Yes,Yes,Yes,Yes
+6,Durgapur,Yes,Yes,Yes,Yes
+7,Kalmakanda,No,No,No,No
+8,Kendua,No,No,No,No
+9,Khaliajuri,No,No,No,No
+10,Madan,No,No,No,No
+11,Mohanganj,No,No,No,No
+12,Netrokona Sadar,No,No,No,No
+13,Purbadhala,No,No,No,No

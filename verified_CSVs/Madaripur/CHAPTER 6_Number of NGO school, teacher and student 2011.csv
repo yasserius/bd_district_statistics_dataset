@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of NGO school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of NGO school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Kalkini,48,8,40,48,630,810,1440,30
-4,Madaripur Sadar,46,0,46,46,621,620,1241,27
-5,Rajoir,7,0,7,7,65,91,156,22
-6,Shibchar,188,0,118,118,3012,3226,6238,53
-7,Total,289,8,211,219,4328,4747,9075,41
+1,Madaripur,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of NGO school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Kalkini,48,8,40,48,630,810,1440,30
+5,Madaripur Sadar,46,0,46,46,621,620,1241,27
+6,Rajoir,7,0,7,7,65,91,156,22
+7,Shibchar,188,0,118,118,3012,3226,6238,53
+8,Total,289,8,211,219,4328,4747,9075,41

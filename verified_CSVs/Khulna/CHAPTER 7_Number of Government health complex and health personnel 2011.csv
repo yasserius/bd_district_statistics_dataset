@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and health personnel 2011,,,,,
-1,,,,,,
-2,Upazila/city corporation,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Batiaghata,31,14,10,18,65
-4,Dacope,50,6,14,4,80
-5,Dighalia,31,10,10,3,93
-6,Dumuria,31,16,12,3,160
-7,Khulna City Corporation,865,186,358,33,306
-8,Koyra,50,6,8,1,63
-9,Paikgachha,60,10,14,6,0
-10,Phultala,50,16,16,14,31
-11,Rupsa,31,7,10,4,86
-12,Terokhada,31,9,11,2,63
-13,Total,1230,280,463,88,947
+1,Khulna,,,,,
+2,,,,,,
+3,Upazila/city corporation,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Batiaghata,31,14,10,18,65
+5,Dacope,50,6,14,4,80
+6,Dighalia,31,10,10,3,93
+7,Dumuria,31,16,12,3,160
+8,Khulna City Corporation,865,186,358,33,306
+9,Koyra,50,6,8,1,63
+10,Paikgachha,60,10,14,6,0
+11,Phultala,50,16,16,14,31
+12,Rupsa,31,7,10,4,86
+13,Terokhada,31,9,11,2,63
+14,Total,1230,280,463,88,947

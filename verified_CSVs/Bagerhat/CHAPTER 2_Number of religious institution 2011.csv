@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Number of religious institution 2011,,,,,,
-1,,,,,,,
-2,Upazila,Mosque,Eid-Gah,Temple (Mandir),Church (Girza),Pagoda,Others
-3,Bagerhat Sadar,515,41,116,1,0,0
-4,Chitalmari,262,57,174,0,0,0
-5,Fakirhat,168,48,84,0,0,0
-6,Kachua,202,62,44,0,0,0
-7,Mollahat,315,32,54,4,0,0
-8,Mongla,178,26,36,16,0,0
-9,Morrelgonj,618,12,110,0,0,0
-10,Rampal,204,89,68,2,0,0
-11,Sarankhola,313,8,25,0,0,0
-12,Total,2775,375,711,23,0,0
+1,Bagerhat,,,,,,
+2,,,,,,,
+3,Upazila,Mosque,Eid-Gah,Temple (Mandir),Church (Girza),Pagoda,Others
+4,Bagerhat Sadar,515,41,116,1,0,0
+5,Chitolmari,262,57,174,0,0,0
+6,Fakirhat,168,48,84,0,0,0
+7,Kachua,202,62,44,0,0,0
+8,Mollahat,315,32,54,4,0,0
+9,Mongla,178,26,36,16,0,0
+10,Morrelgonj,618,12,110,0,0,0
+11,Rampal,204,89,68,2,0,0
+12,Sharonkhola,313,8,25,0,0,0
+13,Total,2775,375,711,23,0,0

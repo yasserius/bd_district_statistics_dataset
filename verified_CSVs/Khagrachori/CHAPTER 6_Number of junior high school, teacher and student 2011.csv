@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of junior high school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila,Number of junior high school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Dighinala,3,15,6,21,141,586,727,35
-4,Khagrachhari Sadar,4,21,4,25,221,264,485,19
-5,Laxshmichhari,4,15,0,15,253,167,420,28
-6,Mahalchhari,2,7,3,10,141,124,265,27
-7,Manikchhari,5,16,4,20,265,299,564,28
-8,Matiranga,8,34,12,46,682,775,1457,32
-9,Panchhari,3,12,8,20,205,318,523,26
-10,Ramgarh,9,33,20,53,766,682,1448,27
-11,Total,38,153,57,210,2674,3215,5889,28
+1,Khagrachori,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of junior high school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Dighinala,3,15,6,21,141,586,727,35
+5,Khagrachori,4,21,4,25,221,264,485,19
+6,Laxshmichhari,4,15,0,15,253,167,420,28
+7,Mahalchhari,2,7,3,10,141,124,265,27
+8,Manikchhari,5,16,4,20,265,299,564,28
+9,Matiranga,8,34,12,46,682,775,1457,32
+10,Panchhari,3,12,8,20,205,318,523,26
+11,Ramgarh,9,33,20,53,766,682,1448,27
+12,Total,38,153,57,210,2674,3215,5889,28

@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of filling station, fire brigade station, police station, camp, union land (tohsil) office, BOP (BGB camp), cyber cafe 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Filling station,Fire brigade station,Police station/ camp,Union land (tohsil) office,Sub- registry office,BOP (BGB camp),ISP provider,Cyber cafe
-3,Biral,2,0,3,10,1,5,0,0
-4,Birampur,3,0,1,7,1,7,0,0
-5,Birganj,5,0,1,11,1,0,0,0
-6,Bochaganj,2,1,1,6,1,1,0,0
-7,Chirirbandar,2,0,2,12,1,2,0,0
-8,Dinajpur Sadar,13,1,5,11,1,8,0,3
-9,Fulbari,3,1,1,8,1,3,0,0
-10,Ghoraghat,3,0,1,4,1,0,0,0
-11,Hakimpur,0,1,1,3,1,5,0,0
-12,Kaharole,1,0,1,6,1,0,0,0
-13,Khansama,0,0,1,6,1,0,0,0
-14,Nawabganj,1,0,2,9,1,0,0,0
-15,Parbatipur,3,1,4,11,1,0,0,0
-16,Total,38,5,24,104,13,31,0,3
+1,Dinajpur,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Filling station,Fire brigade station,Police station/ camp,Union land (tohsil) office,Sub- registry office,BOP (BGB camp),ISP provider,Cyber cafe
+4,Biral,2,0,3,10,1,5,0,0
+5,Birampur,3,0,1,7,1,7,0,0
+6,Birganj,5,0,1,11,1,0,0,0
+7,Bochaganj,2,1,1,6,1,1,0,0
+8,Chirirbandar,2,0,2,12,1,2,0,0
+9,Dinajpur Sadar,13,1,5,11,1,8,0,3
+10,Fulbari,3,1,1,8,1,3,0,0
+11,Ghoraghat,3,0,1,4,1,0,0,0
+12,Hakimpur,0,1,1,3,1,5,0,0
+13,Kaharole,1,0,1,6,1,0,0,0
+14,Khansama,0,0,1,6,1,0,0,0
+15,Nawabganj,1,0,2,9,1,0,0,0
+16,Parbatipur,3,1,4,11,1,0,0,0
+17,Total,38,5,24,104,13,31,0,3

@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
-1,(According to Agriculture Census 2008),,,,
-2, Upazila,Total farm holding, Owner holding, Owner cum tenant, Tenant holding
-3,Bagatipara,20656,17652,8673,4569
-4,Baraigram,43595,36896,18874,7824
-5,Gurudaspur,32960,30539,14604,6716
-6,Lalpur,36536,40170,12977,7591
-7,Natore Sadar,56097,61954,25887,13780
-8,Singra,49877,49842,21924,12497
-9,Total,239721,237053,102939,52977
+1,Natore,,,,
+2,(According to Agriculture Census 2008),,,,
+3, Upazila,Total farm holding, Owner holding, Owner cum tenant, Tenant holding
+4,Bagatipara,20656,17652,8673,4569
+5,Baraigram,43595,36896,18874,7824
+6,Gurudaspur,32960,30539,14604,6716
+7,Lalpur,36536,40170,12977,7591
+8,Natore Sadar,56097,61954,25887,13780
+9,Singra,49877,49842,21924,12497
+10,Total,239721,237053,102939,52977

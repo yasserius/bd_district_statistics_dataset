@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of government secondary school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila,Number of school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Dighinala,1,9,1,10,442,338,780,78
-4,Khagrachhari Sadar,2,50,18,68,701,1325,2026,30
-5,Laxshmichhari,0,0,0,0,0,0,0,0
-6,Mahalchhari,0,0,0,0,0,0,0,0
-7,Manikchhari,1,7,0,7,229,201,430,61
-8,Matiranga,0,0,0,0,0,0,0,0
-9,Panchhari,0,0,0,0,0,0,0,0
-10,Ramgarh,1,14,1,15,648,0,648,43
-11,Total,5,80,20,100,2020,1864,3884,39
+1,Khagrachori,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Dighinala,1,9,1,10,442,338,780,78
+5,Khagrachori,2,50,18,68,701,1325,2026,30
+6,Laxshmichhari,0,0,0,0,0,0,0,0
+7,Mahalchhari,0,0,0,0,0,0,0,0
+8,Manikchhari,1,7,0,7,229,201,430,61
+9,Matiranga,0,0,0,0,0,0,0,0
+10,Panchhari,0,0,0,0,0,0,0,0
+11,Ramgarh,1,14,1,15,648,0,648,43
+12,Total,5,80,20,100,2020,1864,3884,39

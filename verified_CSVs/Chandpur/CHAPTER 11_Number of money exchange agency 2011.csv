@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of money exchange agency 2011,,,,
-1,,,,,
-2, Upazila, Number of money exchange shop, Number of employee,Annual transactions per money exchange shop, Annual profit per shop
-3,Chandpur Sadar,0,0,0,0
-4,Foridganj,0,0,0,0
-5,Haimchar,1,1,154,0
-6,Hajiganj,0,0,0,0
-7,Kachua,0,0,0,0
-8,Matlab Dakshin,0,0,0,0
-9,Matlab Uttar,0,0,0,0
-10,Shahrasti,0,0,0,0
-11,Total,1,1,154,0
+1,Chandpur,,,,
+2,,,,,
+3, Upazila, Number of money exchange shop, Number of employee,Annual transactions per money exchange shop, Annual profit per shop
+4,Chandpur Sadar,0,0,0,0
+5,Foridganj,0,0,0,0
+6,Haimchar,1,1,154,0
+7,Hajiganj,0,0,0,0
+8,Kachua,0,0,0,0
+9,Matlab Dakshin,0,0,0,0
+10,Matlab Uttar,0,0,0,0
+11,Shahrasti,0,0,0,0
+12,Total,1,1,154,0

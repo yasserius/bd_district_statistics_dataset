@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting cattle head 2008,,,,,,
-1,,,,,,,
-2, Upazila, Total holding,Number of holding based on cattle heads - 1-3 head,Number of holding based on cattle heads - 4-6 head,Number of holding based on cattle heads - 7 -9 head,Number of holding based on cattle heads - 10-15 head,Number of holding based on cattle heads - 15 head  above
-3,Bhaluka,54109,32300,8150,2600,155,0
-4,Dhobaura,28827,20150,15300,2800,180,20
-5,Fulbaria,64500,70350,18500,3100,380,39
-6,Gaffargaon,60520,33321,6700,3300,420,280
-7,Gauripur,44125,58139,5893,4274,262,52
-8,Haluaghat,43921,17400,8700,2659,230,20
-9,Ishwargonj,52883,55400,25700,2184,1280,780
-10,Muktagacha,51326,35132,9886,1240,742,401
-11,Mymensingh Sadar,57054,19855,14568,1821,125,53
-12,Nandail,57626,20200,15622,13300,10200,5600
-13,Phulpur,85004,29000,18000,5000,0,0
-14,Trishal,52717,24818,6800,2700,280,220
-15,Total,652612,416065,153819,44978,14254,7465
+1,Mymensingh,,,,,,
+2,,,,,,,
+3, Upazila, Total holding,Number of holding based on cattle heads - 1-3 head,Number of holding based on cattle heads - 4-6 head,Number of holding based on cattle heads - 7 -9 head,Number of holding based on cattle heads - 10-15 head,Number of holding based on cattle heads - 15 head  above
+4,Bhaluka,54109,32300,8150,2600,155,0
+5,Dhobaura,28827,20150,15300,2800,180,20
+6,Fulbaria,64500,70350,18500,3100,380,39
+7,Gaffargaon,60520,33321,6700,3300,420,280
+8,Gauripur,44125,58139,5893,4274,262,52
+9,Haluaghat,43921,17400,8700,2659,230,20
+10,Ishwargonj,52883,55400,25700,2184,1280,780
+11,Muktagacha,51326,35132,9886,1240,742,401
+12,Mymensingh Sadar,57054,19855,14568,1821,125,53
+13,Nandail,57626,20200,15622,13300,10200,5600
+14,Phulpur,85004,29000,18000,5000,0,0
+15,Trishal,52717,24818,6800,2700,280,220
+16,Total,652612,416065,153819,44978,14254,7465

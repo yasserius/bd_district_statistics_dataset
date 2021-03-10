@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2, Upazila,Number of branch of all private commercial banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
-3,Bhurungamari,0,0,0,0,0,0,0,0,0,0,0
-4,Char Rajibpur,2,0,0,0,0,64,3452,2,3451,18,340
-5,Chilmari,4,0,0,0,0,0,19075,0,19075,0,1089
-6,Kurigram Sadar,2,212,192,18,10,570,166,800,268,10,4
-7,Nageshwari,0,0,0,0,0,0,0,0,0,0,0
-8,Phulbari,1,0,0,0,0,24,4,24,4,1,1
-9,Rajarhat,1,203,0,0,0,1934,503,2137,503,4,0
-10,Raumari,0,0,0,0,0,0,0,0,0,0,0
-11,Ulipur,3,2253,330,0,0,10,0,2263,330,1,1
-12,Total,13,2668,522,13,10,2602,23200,5226,23631,34,1435
+1,Kurigram,,,,,,,,,,,
+2,,,,,,,,,,,,
+3, Upazila,Number of branch of all private commercial banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
+4,Bhurungamari,0,0,0,0,0,0,0,0,0,0,0
+5,Char Rajibpur,2,0,0,0,0,64,3452,2,3451,18,340
+6,Chilmari,4,0,0,0,0,0,19075,0,19075,0,1089
+7,Kurigram Sadar,2,212,192,18,10,570,166,800,268,10,4
+8,Nageshwari,0,0,0,0,0,0,0,0,0,0,0
+9,Phulbari,1,0,0,0,0,24,4,24,4,1,1
+10,Rajarhat,1,203,0,0,0,1934,503,2137,503,4,0
+11,Raumari,0,0,0,0,0,0,0,0,0,0,0
+12,Ulipur,3,2253,330,0,0,10,0,2263,330,1,1
+13,Total,13,2668,522,13,10,2602,23200,5226,23631,34,1435

@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,,,,,,
-2,Upazila/city corporation,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other stuff
-3,Agailjhara,8,0,0,8,8
-4,Babuganj,1,0,0,1,2
-5,Bakerganj,3,0,2,3,6
-6,Banaripara,7,2,2,7,24
-7,Barisal city corporation,27,41,54,62,42
-8,Barisal sadar,0,0,0,0,0
-9,Gaurnadi,21,21,0,42,85
-10,Hizla,2,2,2,4,5
-11,Mehendiganj,4,2,0,1,20
-12,Muladi,1,0,0,1,1
-13,Wazirpur,7,0,0,11,22
-14,Total,81,68,60,140,215
+1,Barisal,,,,,
+2,,,,,,
+3,Upazila/city corporation,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other stuff
+4,Agailjhara,8,0,0,8,8
+5,Babuganj,1,0,0,1,2
+6,Bakerganj,3,0,2,3,6
+7,Banaripara,7,2,2,7,24
+8,Barisal city corporation,27,41,54,62,42
+9,Barisal Sadar,0,0,0,0,0
+10,Gaurnadi,21,21,0,42,85
+11,Hizla,2,2,2,4,5
+12,Mehendiganj,4,2,0,1,20
+13,Muladi,1,0,0,1,1
+14,Wazirpur,7,0,0,11,22
+15,Total,81,68,60,140,215

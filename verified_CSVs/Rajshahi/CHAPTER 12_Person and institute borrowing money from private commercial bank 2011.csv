@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,Person and institute borrowing money from private commercial bank 2011,,,,,,,,,,,
-1,,,,,,,,,,,,
-2,Upazila/city corporation,Number of branch of all Private commercial bank,Number of borrower Agriculture debt Male,Number of borrower Agriculture debt female,Number of borrower Industry debt Male,Number of borrower Industry debt female,Number of borrower Others debt Male,Number of borrower Others debt female,Number of borrower Number of borrower Male,Number of borrower Number of borrower female,Number of borrower Total debt (crore) Male,Number of borrower Total debt (crore) female
-3,Bagha,3,0,0,0,0,195,8052,195,8052,26,28
-4,Baghmara,0,0,0,0,0,0,0,0,0,0,0
-5,Charghat,0,0,0,0,0,0,0,0,0,0,0
-6,Durgapur,1,0,0,0,0,509,3978,509,4347,2,8
-7,Godagari,1,116,12,0,0,99,4,116,12,5.94,0.3
-8,Mohanpur,1,153,821,0,0,175,309,328,1130,7.79,1.6
-9,Paba,1,0,0,17,1,0,0,17,1,1.44,0.1
-10,Puthia,10,186,7536,4,0,581,4682,771,12218,32.8,27.44
-11,Rajshahi city corporation,30,6750,719,535,17,13670,312,20955,1048,1138.23,21.78
-12,Tanore,-,-,-,-,-,-,-,-,-,-,-
-13,Total,47,7205,9088,556,18,15229,17337,22891,26808,1214.2,87.22
+1,Rajshahi,,,,,,,,,,,
+2,,,,,,,,,,,,
+3,Upazila/city corporation,Number of branch of all Private commercial bank,Number of borrower Agriculture debt Male,Number of borrower Agriculture debt female,Number of borrower Industry debt Male,Number of borrower Industry debt female,Number of borrower Others debt Male,Number of borrower Others debt female,Number of borrower Number of borrower Male,Number of borrower Number of borrower female,Number of borrower Total debt (crore) Male,Number of borrower Total debt (crore) female
+4,Bagha,3,0,0,0,0,195,8052,195,8052,26,28
+5,Baghmara,0,0,0,0,0,0,0,0,0,0,0
+6,Charghat,0,0,0,0,0,0,0,0,0,0,0
+7,Durgapur,1,0,0,0,0,509,3978,509,4347,2,8
+8,Godagari,1,116,12,0,0,99,4,116,12,5.94,0.3
+9,Mohanpur,1,153,821,0,0,175,309,328,1130,7.79,1.6
+10,Paba,1,0,0,17,1,0,0,17,1,1.44,0.1
+11,Puthia,10,186,7536,4,0,581,4682,771,12218,32.8,27.44
+12,Rajshahi City Corporation,30,6750,719,535,17,13670,312,20955,1048,1138.23,21.78
+13,Tanore,-,-,-,-,-,-,-,-,-,-,-
+14,Total,47,7205,9088,556,18,15229,17337,22891,26808,1214.2,87.22

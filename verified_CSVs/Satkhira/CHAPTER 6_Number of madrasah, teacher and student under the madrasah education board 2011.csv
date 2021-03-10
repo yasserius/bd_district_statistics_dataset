@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of madrasah, teacher and student under the madrasah education board 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of madrasah,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Assasuni,31,382,34,416,4980,6065,11045,27
-4,Debhata,15,130,14,144,1647,2051,3698,26
-5,Kalaroa,32,420,54,474,2464,3633,6097,13
-6,Kaliganj,25,277,26,303,4290,2145,6435,21
-7,Satkhira Sadar,60,576,144,720,8412,7629,16041,22
-8,Shyamnagar,36,414,26,440,4245,7180,11425,26
-9,Tala,36,515,55,570,9105,3044,12149,21
-10,Total,235,2714,353,3067,35143,31747,66890,22
+1,Satkhira,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of madrasah,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Assasuni,31,382,34,416,4980,6065,11045,27
+5,Debhata,15,130,14,144,1647,2051,3698,26
+6,Kalaroa,32,420,54,474,2464,3633,6097,13
+7,Kaliganj,25,277,26,303,4290,2145,6435,21
+8,Satkhira Sadar,60,576,144,720,8412,7629,16041,22
+9,Shyamnagar,36,414,26,440,4245,7180,11425,26
+10,Tala,36,515,55,570,9105,3044,12149,21
+11,Total,235,2714,353,3067,35143,31747,66890,22

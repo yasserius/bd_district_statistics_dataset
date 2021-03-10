@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Population by religion 2011,,,,,,
-1,,,,,,,
-2,Upazila,Muslim,Hindu,Buddhist,Christian,Others,Total
-3,Bhedarganj,246550,6652,0,19,13,253234
-4,Damudya,105956,3030,0,2,15,109003
-5,Gosairhat,151873,5753,10,18,11,157665
-6,Naria,219214,12410,0,7,13,231644
-7,Shariatpur Sadar,199111,11078,13,54,3,210259
-8,Zanjira,191597,2407,0,14,1,194019
-9,Total,1114301,41330,23,114,56,1155824
+1,Shariatpur,,,,,,
+2,,,,,,,
+3,Upazila,Muslim,Hindu,Buddhist,Christian,Others,Total
+4,Bhedarganj,246550,6652,0,19,13,253234
+5,Damudya,105956,3030,0,2,15,109003
+6,Gosairhat,151873,5753,10,18,11,157665
+7,Naria,219214,12410,0,7,13,231644
+8,Shariatpur Sadar,199111,11078,13,54,3,210259
+9,Zanjira,191597,2407,0,14,1,194019
+10,Total,1114301,41330,23,114,56,1155824

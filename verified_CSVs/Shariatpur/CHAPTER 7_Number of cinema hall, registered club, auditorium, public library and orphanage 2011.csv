@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,,,,,,
-2,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
-3,Bhedarganj,3,152,0,3,1
-4,Damudya,1,60,0,2,1
-5,Gosairhat,1,0,1,6,0
-6,Naria,2,65,0,0,1
-7,Shariatpur Sadar,2,0,2,7,1
-8,Zanjira,1,34,0,12,1
-9,Total,10,311,3,30,5
+1,Shariatpur,,,,,
+2,,,,,,
+3,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
+4,Bhedarganj,3,152,0,3,1
+5,Damudya,1,60,0,2,1
+6,Gosairhat,1,0,1,6,0
+7,Naria,2,65,0,0,1
+8,Shariatpur Sadar,2,0,2,7,1
+9,Zanjira,1,34,0,12,1
+10,Total,10,311,3,30,5

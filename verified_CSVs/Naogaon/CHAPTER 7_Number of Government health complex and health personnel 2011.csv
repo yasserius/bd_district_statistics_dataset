@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Atrai,1,50,4,5,84
-4,Badalgachhi,50,28,15,8,91
-5,Dhamoirhat,50,5,10,11,73
-6,Manda,50,11,10,8,134
-7,Mahadebpur,50,5,11,7,98
-8,Naogaon sadar,100,19,39,3,29
-9,Niamatpur,31,3,5,12,70
-10,Patnitala,50,8,7,6,94
-11,Porsha,31,4,3,6,42
-12,Raninagar,50,9,5,5,90
-13,Sapahar,50,5,7,13,53
-14,Total,513,147,116,87,779
+1,Naogaon,,,,,
+2,,,,,,
+3,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Atrai,1,50,4,5,84
+5,Badalgachhi,50,28,15,8,91
+6,Dhamoirhat,50,5,10,11,73
+7,Manda,50,11,10,8,134
+8,Mahadebpur,50,5,11,7,98
+9,Naogaon sadar,100,19,39,3,29
+10,Niamatpur,31,3,5,12,70
+11,Patnitala,50,8,7,6,94
+12,Porsha,31,4,3,6,42
+13,Raninagar,50,9,5,5,90
+14,Sapahar,50,5,7,13,53
+15,Total,513,147,116,87,779

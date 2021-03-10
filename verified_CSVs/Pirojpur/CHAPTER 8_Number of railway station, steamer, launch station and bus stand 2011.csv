@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,"Number of railway station, steamer, launch station and bus stand 2011",,,
-1,,,,
-2,Upazila,Railway station,Steamer/launch station,Bus stand
-3,Bhandaria,0,2,12
-4,Kawkhali,0,2,3
-5,Mathbaria,0,2,10
-6,Nazirpur,0,2,4
-7,Nesarabad,0,2,2
-8,Pirojpur Sadar,0,4,2
-9,Zianagar,0,0,1
-10,Total,0,14,34
+1,Pirojpur,,,
+2,,,,
+3,Upazila,Railway station,Steamer/launch station,Bus stand
+4,Bhandaria,0,2,12
+5,Kawkhali,0,2,3
+6,Mathbaria,0,2,10
+7,Nazirpur,0,2,4
+8,Nesarabad,0,2,2
+9,Pirojpur Sadar,0,4,2
+10,Zianagar,0,0,1
+11,Total,0,14,34

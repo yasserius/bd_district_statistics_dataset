@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization 2008,,,,,
-1,,,,,,
-2,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
-3,Jhenaigati,41924,718,33580,83,7626
-4,Nakla,42664,752,35285,89,6627
-5,Nalitabari,74735,2063,61545,160,11127
-6,Sherpur Sadar,87789,845,72771,543,14173
-7,Sreebardi,55386,399,45500,50,9487
-8,Total,302498,4777,248681,924,49040
+1,Sherpur,,,,,
+2,,,,,,
+3,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
+4,Jhenaigati,41924,718,33580,83,7626
+5,Nakla,42664,752,35285,89,6627
+6,Nalitabari,74735,2063,61545,160,11127
+7,Sherpur Sadar,87789,845,72771,543,14173
+8,Sreebardi,55386,399,45500,50,9487
+9,Total,302498,4777,248681,924,49040

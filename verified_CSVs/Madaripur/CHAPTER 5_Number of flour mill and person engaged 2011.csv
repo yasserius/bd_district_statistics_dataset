@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Number of flour mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Kalkini,12,12,16,28
-4,Madaripur Sadar,55,55,80,135
-5,Rajoir,2,2,8,10
-6,Shibchar,30,30,30,60
-7,Total,99,99,134,233
+1,Madaripur,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Kalkini,12,12,16,28
+5,Madaripur Sadar,55,55,80,135
+6,Rajoir,2,2,8,10
+7,Shibchar,30,30,30,60
+8,Total,99,99,134,233

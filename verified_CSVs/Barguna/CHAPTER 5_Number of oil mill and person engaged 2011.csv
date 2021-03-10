@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of oil mill and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Amtali,0,0,0,0
-4,Bamna,7,7,10,17
-5,Barguna Sadar,2,4,4,8
-6,Betagi,4,2,13,15
-7,Patharghata,0,0,0,0
-8,Total,13,13,27,40
+1,Barguna,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Amtali,0,0,0,0
+5,Bamna,7,7,10,17
+6,Barguna Sadar,2,4,4,8
+7,Betagi,4,2,13,15
+8,Patharghata,0,0,0,0
+9,Total,13,13,27,40

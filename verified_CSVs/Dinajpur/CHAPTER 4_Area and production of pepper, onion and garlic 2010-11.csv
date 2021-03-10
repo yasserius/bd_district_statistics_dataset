@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
-3,Biral,254,99,833,1222,203,135
-4,Birampur,118,57,244,530,95,178
-5,Birganj,475,162,217,835,117,380
-6,Bochaganj,670,225,230,575,58,158
-7,Chirirbandar,137,104,521,996,404,655
-8,Dinajpur Sadar,89,32,342,766,152,170
-9,Fulbari,119,134,460,1250,113,283
-10,Ghoraghat,82,40,70,152,8,15
-11,Hakimpur,36,21,49,142,17,33
-12,Kaharole,46,20,509,1466,317,922
-13,Khansama,335,75,550,1402,700,2100
-14,Nawabganj,122,59,215,454,228,426
-15,Parbatipur,138,73,276,649,60,144
-16,Total,2621,1101,4516,10439,2472,5599
+1,Dinajpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
+4,Biral,254,99,833,1222,203,135
+5,Birampur,118,57,244,530,95,178
+6,Birganj,475,162,217,835,117,380
+7,Bochaganj,670,225,230,575,58,158
+8,Chirirbandar,137,104,521,996,404,655
+9,Dinajpur Sadar,89,32,342,766,152,170
+10,Fulbari,119,134,460,1250,113,283
+11,Ghoraghat,82,40,70,152,8,15
+12,Hakimpur,36,21,49,142,17,33
+13,Kaharole,46,20,509,1466,317,922
+14,Khansama,335,75,550,1402,700,2100
+15,Nawabganj,122,59,215,454,228,426
+16,Parbatipur,138,73,276,649,60,144
+17,Total,2621,1101,4516,10439,2472,5599

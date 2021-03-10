@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Sanction post of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
-3,Daulotpur,37,29,274,154,494
-4,Gheor,89,22,608,158,877
-5,Horirampur,48,25,374,96,543
-6,Manikganj Sadar,100,80,629,440,1249
-7,Saturia,28,60,560,115,763
-8,Shibalaya,36,29,327,128,520
-9,Singair,20,20,717,85,842
-10,Total,358,265,3489,1176,5288
+1,Manikganj,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
+4,Daulotpur,37,29,274,154,494
+5,Gheor,89,22,608,158,877
+6,Horirampur,48,25,374,96,543
+7,Manikganj Sadar,100,80,629,440,1249
+8,Saturia,28,60,560,115,763
+9,Shibalaya,36,29,327,128,520
+10,Singair,20,20,717,85,842
+11,Total,358,265,3489,1176,5288

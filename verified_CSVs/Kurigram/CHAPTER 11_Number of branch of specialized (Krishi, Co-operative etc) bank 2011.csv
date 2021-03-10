@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,"Number of branch of specialized (Krishi, Co-operative etc) bank 2011",,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Bhurungamari,2,7,5522,51
-4,Char Rajibpur,1,7,2861,60
-5,Chilmari,1,5,15401,37
-6,Kurigram Sadar,1,51,9250,1068
-7,Nageshwari,4,36,30159,152
-8,Phulbari,2,11,4127,145
-9,Rajarhat,2,17,2688,2735
-10,Raumari,1,8,25089,107
-11,Ulipur,3,32,16769,0
-12,Total,17,174,111866,4355
+1,Kurigram,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Bhurungamari,2,7,5522,51
+5,Char Rajibpur,1,7,2861,60
+6,Chilmari,1,5,15401,37
+7,Kurigram Sadar,1,51,9250,1068
+8,Nageshwari,4,36,30159,152
+9,Phulbari,2,11,4127,145
+10,Rajarhat,2,17,2688,2735
+11,Raumari,1,8,25089,107
+12,Ulipur,3,32,16769,0
+13,Total,17,174,111866,4355

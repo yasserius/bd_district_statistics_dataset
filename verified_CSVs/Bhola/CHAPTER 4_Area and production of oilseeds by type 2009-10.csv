@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Area and production of oilseeds by type 2009-10,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Rape  mustard - Area,Rape  mustard - Production,Ground nut - Area,Ground nut - Production,Til - Area,Til - Production
-3,Bhola Sadar,580,235,679,495,12,5
-4,Burhanuddin,370,125,889,630,173,53
-5,Char Fasson,446,98,709,212,1837,705
-6,Daulatkhan,121,29.36,36,22.3,12.7,4.64
-7,Lalmohan,219,88.74,483,443.45,8,3.2
-8,Manpura,3,0.3,50,45,0,0
-9,Tazumuddin,26,6.06,970,760.26,29,5.42
-10,Total,1765,582.46,3816,2608.01,2071.7,776.26
+1,Bhola,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Rape  mustard - Area,Rape  mustard - Production,Ground nut - Area,Ground nut - Production,Til - Area,Til - Production
+4,Bhola Sadar,580,235,679,495,12,5
+5,Burhanuddin,370,125,889,630,173,53
+6,Char Fasson,446,98,709,212,1837,705
+7,Daulatkhan,121,29.36,36,22.3,12.7,4.64
+8,Lalmohan,219,88.74,483,443.45,8,3.2
+9,Manpura,3,0.3,50,45,0,0
+10,Tazumuddin,26,6.06,970,760.26,29,5.42
+11,Total,1765,582.46,3816,2608.01,2071.7,776.26

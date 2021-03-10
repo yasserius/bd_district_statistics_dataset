@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of ebtedayee madrasah 2011,,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Azmirigonj,2,8,0,8,252,181,433,54
-4,Bahubal,8,50,10,60,212,348,560,9
-5,Baniachang,8,35,5,40,772,528,1300,33
-6,Chunarughat,7,25,1,26,500,200,700,27
-7,Habiganj Sadar,10,33,6,39,1040,984,2024,51
-8,Lakhai,1,4,1,5,69,112,181,36
-9,Madhabpur,2,11,0,11,215,180,395,36
-10,Nabiganj,10,34,0,34,1179,783,1962,58
-11,Total,48,200,23,223,4239,3316,7555,34
+1,Habiganj,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Azmirigonj,2,8,0,8,252,181,433,54
+5,Bahubal,8,50,10,60,212,348,560,9
+6,Baniachang,8,35,5,40,772,528,1300,33
+7,Chunarughat,7,25,1,26,500,200,700,27
+8,Habiganj Sadar,10,33,6,39,1040,984,2024,51
+9,Lakhai,1,4,1,5,69,112,181,36
+10,Madhabpur,2,11,0,11,215,180,395,36
+11,Nabiganj,10,34,0,34,1179,783,1962,58
+12,Total,48,200,23,223,4239,3316,7555,34

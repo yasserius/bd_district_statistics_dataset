@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Bean Area,Bean Production
-3,Bhaluka,126,321,522,1340,148,318
-4,Dhobaura,78,126,325,1324,101,138
-5,Fulbaria,10,23,148,696,28,63
-6,Gaffargaon,146,528,312,1369,189,343
-7,Gauripur,54,171,64,176,54,0
-8,Haluaghat,48,149,210,867,0,18
-9,Ishwargonj,137,308,109,286,188,346
-10,Muktagacha,130,3510,370,11100,210,1260
-11,Mymensingh Sadar,140,523,120,438,80,125
-12,Nandail,77,256,60,153,123,55
-13,Phulpur,122,460,130,712,136,238
-14,Trishal,209,404,335,1132,227,368
-15,Total,1277,6780,2705,19593,1484,3272
+1,Mymensingh,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Bean Area,Bean Production
+4,Bhaluka,126,321,522,1340,148,318
+5,Dhobaura,78,126,325,1324,101,138
+6,Fulbaria,10,23,148,696,28,63
+7,Gaffargaon,146,528,312,1369,189,343
+8,Gauripur,54,171,64,176,54,0
+9,Haluaghat,48,149,210,867,0,18
+10,Ishwargonj,137,308,109,286,188,346
+11,Muktagacha,130,3510,370,11100,210,1260
+12,Mymensingh Sadar,140,523,120,438,80,125
+13,Nandail,77,256,60,153,123,55
+14,Phulpur,122,460,130,712,136,238
+15,Trishal,209,404,335,1132,227,368
+16,Total,1277,6780,2705,19593,1484,3272

@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,,,,,,,,
-2, Upazila, Household,Population - Male,Population - Female,Population - Total,Sex ratio (M/F),Average size of household,Density per sq. km.
-3,Bhandaria,34338,72308,75851,148159,95,4.29,906
-4,Kawkhali,16208,34893,35237,70130,99,4.32,881
-5,Mathbaria,61187,128845,133996,262841,96,4.3,764
-6,Nazirpur,40561,89711,90697,180408,99,4.43,789
-7,Nesarabad,48492,103820,107212,211032,97,4.3,1053
-8,Pirojpur Sadar,38017,80704,82766,163470,98,4.25,980
-9,Zianagar,17199,37947,39270,77217,97,4.44,816
-10,Total,256002,548228,565029,1113257,97,4.32,871
+1,Pirojpur,,,,,,,
+2,,,,,,,,
+3,Upazila, Household,Population - Male,Population - Female,Population - Total,Sex ratio (M/F),Average size of household,Density per sq. km.
+4,Bhandaria,34338,72308,75851,148159,95,4.29,906
+5,Kawkhali,16208,34893,35237,70130,99,4.32,881
+6,Mathbaria,61187,128845,133996,262841,96,4.3,764
+7,Nazirpur,40561,89711,90697,180408,99,4.43,789
+8,Nesarabad,48492,103820,107212,211032,97,4.3,1053
+9,Pirojpur Sadar,38017,80704,82766,163470,98,4.25,980
+10,Zianagar,17199,37947,39270,77217,97,4.44,816
+11,Total,256002,548228,565029,1113257,97,4.32,871

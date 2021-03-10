@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of school  college (operating jointly), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of institute,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Bakshiganj,1,27,13,40,784,389,1173,29
-4,Dewanganj,0,0,0,0,0,0,0,0
-5,Islampur,3,52,22,74,805,1811,2616,35
-6,Jamalpur Sadar,2,44,30,74,1010,705,1715,23
-7,Madarganj,1,16,1,17,528,206,734,43
-8,Melandaha,1,24,5,29,1064,280,1944,67
-9,Sarishabari,3,108,37,145,1075,1355,2430,17
-10,Total,11,271,108,379,5266,4746,10612,28
+1,Jamalpur,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of institute,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Bakshiganj,1,27,13,40,784,389,1173,29
+5,Dewanganj,0,0,0,0,0,0,0,0
+6,Islampur,3,52,22,74,805,1811,2616,35
+7,Jamalpur Sadar,2,44,30,74,1010,705,1715,23
+8,Madarganj,1,16,1,17,528,206,734,43
+9,Melandaha,1,24,5,29,1064,280,1944,67
+10,Sarishabari,3,108,37,145,1075,1355,2430,17
+11,Total,11,271,108,379,5266,4746,10612,28

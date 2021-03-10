@@ -1,8 +1,9 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
-1,(Rate in Taka),,,
-2,Upazila,Male,Female,Child (Child means under 15 years old)
-3,Gangni,150,130,100
-4,Mujibnagar,200,150,130
-5,Meherpur Sadar,150,110,0
-6,Average,167,130,77
+1,Meherpur,,,
+2,(Rate in Taka),,,
+3,Upazila,Male,Female,Child (Child means under 15 years old)
+4,Gangni,150,130,100
+5,Mujibnagar,200,150,130
+6,Meherpur Sadar,150,110,0
+7,Average,167,130,77

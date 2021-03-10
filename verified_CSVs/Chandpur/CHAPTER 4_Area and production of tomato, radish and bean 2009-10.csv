@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Tomato - Area,Tomato - Production,Radish - Area,Radish - Production,Beans - Area,Beans - Production
-3,Chandpur Sadar,642,5720,375,9180,75,180
-4,Foridganj,143,1044,223,1980,174,565
-5,Haimchar,482,3413,370,2700,148,270
-6,Hajiganj,77,128,68,278,26,3.5
-7,Kachua,114,612,66,462,60,41
-8,Matlab Dakshin,102,94,72,381,35,35
-9,Matlab Uttar,142,400,129,774,70,184
-10,Shahrasti,107,268,161,730,22,10
-11,Total,1809,11679,1464,16485,610,1288.5
+1,Chandpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Tomato - Area,Tomato - Production,Radish - Area,Radish - Production,Beans - Area,Beans - Production
+4,Chandpur Sadar,642,5720,375,9180,75,180
+5,Foridganj,143,1044,223,1980,174,565
+6,Haimchar,482,3413,370,2700,148,270
+7,Hajiganj,77,128,68,278,26,3.5
+8,Kachua,114,612,66,462,60,41
+9,Matlab Dakshin,102,94,72,381,35,35
+10,Matlab Uttar,142,400,129,774,70,184
+11,Shahrasti,107,268,161,730,22,10
+12,Total,1809,11679,1464,16485,610,1288.5

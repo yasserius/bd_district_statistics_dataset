@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of pottery and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Atwari,0,0,0,0
-4,Boda,32,96,0,96
-5,Debiganj,40,95,0,95
-6,Panchagarh Sadar,43,129,0,129
-7,Tentulia,3,10,0,10
-8,Total,118,330,0,330
+1,Panchagor,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Atwari,0,0,0,0
+5,Boda,32,96,0,96
+6,Debiganj,40,95,0,95
+7,Panchagarh Sadar,43,129,0,129
+8,Tentulia,3,10,0,10
+9,Total,118,330,0,330

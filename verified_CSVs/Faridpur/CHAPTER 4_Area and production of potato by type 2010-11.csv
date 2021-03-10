@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2010-11,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
-3,Alfadanga,8,48,104,416,112,464
-4,Bhanga,2,16.94,31,109,33,126
-5,Boalmari,470,4324,37,125,507,4449
-6,Charbhadrashon,11,39,291,104,40,144
-7,Faridpur Sadar,400,4145,167,670,567,4815
-8,Madhukhali,100,400,97,310,197,710
-9,Nagarkanda,0,0,0,0,0,0
-10,Sadarpur,195,660,137,685,332,1345
-11,Saltha,0,0,0,0,0,0
-12,Total,1186,9633,864,2419,1788,12053
+1,Faridpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
+4,Alfadanga,8,48,104,416,112,464
+5,Bhanga,2,16.94,31,109,33,126
+6,Boalmari,470,4324,37,125,507,4449
+7,Charbhadrashon,11,39,291,104,40,144
+8,Faridpur Sadar,400,4145,167,670,567,4815
+9,Madhukhali,100,400,97,310,197,710
+10,Nagarkanda,0,0,0,0,0,0
+11,Sadarpur,195,660,137,685,332,1345
+12,Saltha,0,0,0,0,0,0
+13,Total,1186,9633,864,2419,1788,12053

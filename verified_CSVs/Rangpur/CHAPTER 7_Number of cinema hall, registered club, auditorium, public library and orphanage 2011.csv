@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,,,,,,
-2,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
-3,Badarganj,2,114,1,13,0
-4,Gangachara,2,44,0,6,1
-5,Kaunia,1,65,1,1,1
-6,Mithapukur,5,108,1,4,1
-7,Pirgachha,2,88,4,3,0
-8,Pirganj,2,110,1,38,1
-9,Rangpur sadar,2,268,2,28,22
-10,Taraganj,0,35,0,14,1
-11,Total,16,832,10,107,27
+1,Rangpur,,,,,
+2,,,,,,
+3,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
+4,Badarganj,2,114,1,13,0
+5,Gangachara,2,44,0,6,1
+6,Kaunia,1,65,1,1,1
+7,Mithapukur,5,108,1,4,1
+8,Pirgachha,2,88,4,3,0
+9,Pirganj,2,110,1,38,1
+10,Rangpur Sadar,2,268,2,28,22
+11,Taraganj,0,35,0,14,1
+12,Total,16,832,10,107,27

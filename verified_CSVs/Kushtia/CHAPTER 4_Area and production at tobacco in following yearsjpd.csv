@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Area and production at tobacco in following years,,,,
-1,(Area in acre  production in metric ton),,,,
-2,  Upazila,Year - 2010-11 - Area,Year - 2010-11 - Production,Year - 2009-10 - Area,Year - 2009-10 - Production
-3,Kushtia Sadar,310,217,300,210
-4,Bheramara,2340,1704,2360,1781
-5,Daulatpur,22000,17188,23820,19911
-6,Khoksa,0,0,0,0
-7,Kumarkhali,151,113,243,719
-8,Mirpur,20265,14692,30361,30412
-9,Total,45066,33914,57084,53033
+1,Kushtia,,,,
+2,(Area in acre  production in metric ton),,,,
+3,  Upazila,Year - 2010-11 - Area,Year - 2010-11 - Production,Year - 2009-10 - Area,Year - 2009-10 - Production
+4,Kushtia Sadar,310,217,300,210
+5,Bheramara,2340,1704,2360,1781
+6,Daulatpur,22000,17188,23820,19911
+7,Khoksa,0,0,0,0
+8,Kumarkhali,151,113,243,719
+9,Mirpur,20265,14692,30361,30412
+10,Total,45066,33914,57084,53033

@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of madrasah, teacher and student under the madrasah education board 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila/city corporation,Number of madrasah,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Student per teacher
-3,Agailjhara,6,81,8,89,1023,863,1886,21
-4,Babuganj,18,216,19,235,2312,2122,4434,19
-5,Bakerganj,63,911,40,951,7969,8675,16644,17
-6,Banaripara,20,319,40,359,3348,3866,7214,20
-7,Barisal city corporation,10,162,6,168,2260,1104,3364,20
-8,Barisal sadar,27,339,55,394,7343,3168,6239,16
-9,Gaurnadi,15,135,17,152,1220,1101,2321,15
-10,Hizla,9,119,8,127,904,1607,2511,20
-11,Mehendiganj,27,328,23,351,2453,4393,6846,20
-12,Muladi,20,246,23,269,1616,2658,4274,16
-13,Wazirpur,22,256,48,304,1926,2838,4764,16
-14,Total,237,3112,287,3399,32374,32395,60497,18
+1,Barisal,,,,,,,,
+2,,,,,,,,,
+3,Upazila/city corporation,Number of madrasah,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Student per teacher
+4,Agailjhara,6,81,8,89,1023,863,1886,21
+5,Babuganj,18,216,19,235,2312,2122,4434,19
+6,Bakerganj,63,911,40,951,7969,8675,16644,17
+7,Banaripara,20,319,40,359,3348,3866,7214,20
+8,Barisal city corporation,10,162,6,168,2260,1104,3364,20
+9,Barisal Sadar,27,339,55,394,7343,3168,6239,16
+10,Gaurnadi,15,135,17,152,1220,1101,2321,15
+11,Hizla,9,119,8,127,904,1607,2511,20
+12,Mehendiganj,27,328,23,351,2453,4393,6846,20
+13,Muladi,20,246,23,269,1616,2658,4274,16
+14,Wazirpur,22,256,48,304,1926,2838,4764,16
+15,Total,237,3112,287,3399,32374,32395,60497,18

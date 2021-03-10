@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of garments factory (for local use) and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Male,Person engaged - Female,Person engaged - Total
-3,Daulotpur,0,0,0,0
-4,Gheor,0,0,0,0
-5,Horirampur,0,0,0,0
-6,Manikganj Sadar,3,23,42,65
-7,Saturia,1,340,560,900
-8,Shibalaya,0,0,0,0
-9,Singair,0,0,0,0
-10,Total,4,363,602,965
+1,Manikganj,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Male,Person engaged - Female,Person engaged - Total
+4,Daulotpur,0,0,0,0
+5,Gheor,0,0,0,0
+6,Horirampur,0,0,0,0
+7,Manikganj Sadar,3,23,42,65
+8,Saturia,1,340,560,900
+9,Shibalaya,0,0,0,0
+10,Singair,0,0,0,0
+11,Total,4,363,602,965

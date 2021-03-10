@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of Ebtedayee madrasah 2011,,,,,,,,
-1,,,,,,,,,
-2,Upazila,Number of Madrasah,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Gangni,10,35,15,50,508,622,1130,23
-4,Mujibnagar,4,8,2,10,101,105,206,21
-5,Meherpur Sadar,3,11,0,11,264,55,319,29
-6,Total,17,54,17,71,873,782,1655,24
+1,Meherpur,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of Madrasah,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Gangni,10,35,15,50,508,622,1130,23
+5,Mujibnagar,4,8,2,10,101,105,206,21
+6,Meherpur Sadar,3,11,0,11,264,55,319,29
+7,Total,17,54,17,71,873,782,1655,24

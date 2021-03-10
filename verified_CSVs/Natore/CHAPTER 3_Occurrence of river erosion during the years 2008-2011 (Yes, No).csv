@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,"Occurrence of river erosion during the years 2008-2011 (Yes, No)",,,,
-1,,,,,
-2, Upazila, 2008, 2009, 2010, 2011
-3,Bagatipara,No,No,No,No
-4,Baraigram,No,No,No,No
-5,Gurudaspur,No,No,No,No
-6,Lalpur,No,No,No,No
-7,Natore Sadar,No,No,No,No
-8,Singra,No,No,No,No
+1,Natore,,,,
+2,,,,,
+3, Upazila, 2008, 2009, 2010, 2011
+4,Bagatipara,No,No,No,No
+5,Baraigram,No,No,No,No
+6,Gurudaspur,No,No,No,No
+7,Lalpur,No,No,No,No
+8,Natore Sadar,No,No,No,No
+9,Singra,No,No,No,No

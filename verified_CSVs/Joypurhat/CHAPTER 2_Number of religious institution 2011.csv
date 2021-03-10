@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Number of religious institution 2011,,,,,,
-1,,,,,,,
-2,Upazila,Mosque,Eid-Gah,Temple (Mandir),Church (Girza),Pagoda,Others
-3,Akkelpur,368,66,22,0,0,0
-4,Joypurhat sadar,719,116,178,11,0,7
-5,Kalai,321,81,16,0,0,0
-6,Khetlal,284,36,20,1,0,0
-7,Panchbibi,530,75,72,12,2,0
-8,Total,2222,374,308,24,2,7
+1,Joypurhat,,,,,,
+2,,,,,,,
+3,Upazila,Mosque,Eid-Gah,Temple (Mandir),Church (Girza),Pagoda,Others
+4,Akkelpur,368,66,22,0,0,0
+5,Joypurhat sadar,719,116,178,11,0,7
+6,Kalai,321,81,16,0,0,0
+7,Khetlal,284,36,20,1,0,0
+8,Panchbibi,530,75,72,12,2,0
+9,Total,2222,374,308,24,2,7

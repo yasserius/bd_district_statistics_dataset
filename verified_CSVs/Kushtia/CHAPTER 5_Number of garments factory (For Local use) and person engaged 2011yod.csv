@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,5.20 Number of garments factory (For Local use) and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Units,Person engaged - Male,Person engaged - Female,Person engaged - Total
-3,Kushtia Sadar,21,105,73,178
-4,Bheramara,0,0,0,0
-5,Daulatpur,0,0,0,0
-6,Khoksa,0,0,0,0
-7,Kumarkhali,0,0,0,0
-8,Mirpur,0,0,0,0
-9,Total,21,105,73,178
+1,Kushtia,,,,
+2,,,,,
+3,Upazila, Units,Person engaged - Male,Person engaged - Female,Person engaged - Total
+4,Kushtia Sadar,21,105,73,178
+5,Bheramara,0,0,0,0
+6,Daulatpur,0,0,0,0
+7,Khoksa,0,0,0,0
+8,Kumarkhali,0,0,0,0
+9,Mirpur,0,0,0,0
+10,Total,21,105,73,178

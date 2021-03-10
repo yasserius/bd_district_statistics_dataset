@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Non government college, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of  college,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Belabo,4,63,24,87,1083,1343,2426,28
-4,Manohardi,10,322,79,401,8570,7911,16481,41
-5,Narsingdi Sadar,12,189,56,245,3582,2336,5918,24
-6,Palash,3,101,23,124,480,510,990,8
-7,Roypura,3,32,15,47,662,770,1432,30
-8,Sibpur,4,81,23,104,1615,1056,2671,26
-9,Total,36,788,220,1008,15992,13926,29918,30
+1,Narsingdi,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of  college,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Belabo,4,63,24,87,1083,1343,2426,28
+5,Manohardi,10,322,79,401,8570,7911,16481,41
+6,Narsingdi Sadar,12,189,56,245,3582,2336,5918,24
+7,Palash,3,101,23,124,480,510,990,8
+8,Roypura,3,32,15,47,662,770,1432,30
+9,Shibpur,4,81,23,104,1615,1056,2671,26
+10,Total,36,788,220,1008,15992,13926,29918,30

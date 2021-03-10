@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2009-10,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
-3,Alamdanga,460,3312,17,97,497,3409
-4,Chuadanga Sadar,463,3723,8.5,23.8,471.5,3746.8
-5,Damurhuda,910,7303,0,0,910,7303
-6,Jibonnagar,1235,37050,10,144,1245,37194
-7,Total,3068,51388,35.5,264.8,3123.5,51652.8
+1,Chuadanga,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
+4,Alamdanga,460,3312,17,97,497,3409
+5,Chuadanga Sadar,463,3723,8.5,23.8,471.5,3746.8
+6,Damurhuda,910,7303,0,0,910,7303
+7,Jibonnagar,1235,37050,10,144,1245,37194
+8,Total,3068,51388,35.5,264.8,3123.5,51652.8

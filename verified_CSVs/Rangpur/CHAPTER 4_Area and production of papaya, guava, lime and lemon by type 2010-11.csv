@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of papaya, guava, lime and lemon by type 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Papaya - Area,Papaya - Production,Guava - Area,Guava - Production,Lime and lemon - Area,Lime and lemon - Production
-3,Badarganj,35,269,13,74,7,49
-4,Gangachara,30,179,54,118,22,45
-5,Kaunia,15,1392,8,145,4,196
-6,Mithapukur,6.35,167.5,112,370,9.47,28.4
-7,Pirgachha,20,36,80,139,20,41
-8,Pirganj,26,513,122,292,77,219
-9,Rangpur sadar,34,946,15,209,62,580
-10,Taraganj,16,24,20,47,20,107
-11,Total,182.35,3526.5,424,1394,221.47,1265.4
+1,Rangpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Papaya - Area,Papaya - Production,Guava - Area,Guava - Production,Lime and lemon - Area,Lime and lemon - Production
+4,Badarganj,35,269,13,74,7,49
+5,Gangachara,30,179,54,118,22,45
+6,Kaunia,15,1392,8,145,4,196
+7,Mithapukur,6.35,167.5,112,370,9.47,28.4
+8,Pirgachha,20,36,80,139,20,41
+9,Pirganj,26,513,122,292,77,219
+10,Rangpur Sadar,34,946,15,209,62,580
+11,Taraganj,16,24,20,47,20,107
+12,Total,182.35,3526.5,424,1394,221.47,1265.4

@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of school  college (operating jointly), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of Institute,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Bhola Sadar,4,38,29,97,361,726,1087,11
-4,Burhanuddin,0,0,0,0,0,0,0,0
-5,Char Fasson,0,0,0,0,0,0,0,0
-6,Daulatkhan,0,,0,0,0,0,0,0
-7,Lalmohan,5,125,16,141,1219,805,2024,14
-8,Manpura,0,0,0,0,0,0,0,0
-9,Tazumuddin,0,0,0,0,0,0,0,0
-10,Total,9,163,45,238,1580,1531,3111,13
+1,Bhola,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of Institute,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Bhola Sadar,4,38,29,97,361,726,1087,11
+5,Burhanuddin,0,0,0,0,0,0,0,0
+6,Char Fasson,0,0,0,0,0,0,0,0
+7,Daulatkhan,0,,0,0,0,0,0,0
+8,Lalmohan,5,125,16,141,1219,805,2024,14
+9,Manpura,0,0,0,0,0,0,0,0
+10,Tazumuddin,0,0,0,0,0,0,0,0
+11,Total,9,163,45,238,1580,1531,3111,13

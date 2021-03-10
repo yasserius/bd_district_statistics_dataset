@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,"Number of branch of specialized (Krishi, Co-operative etc) bank 2011",,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Baliadangi,2,10,5130,114
-4,Haripur,3,27,8205,145
-5,Pirgonj,3,18,6694,228
-6,Ranisankail,3,17,2738,97
-7,Thakurgaon Sadar,10,140,3640,132
-8,Total,21,212,26407,716
+1,Thakurgaon,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Baliadangi,2,10,5130,114
+5,Haripur,3,27,8205,145
+6,Pirgonj,3,18,6694,228
+7,Ranisankail,3,17,2738,97
+8,Thakurgaon Sadar,10,140,3640,132
+9,Total,21,212,26407,716

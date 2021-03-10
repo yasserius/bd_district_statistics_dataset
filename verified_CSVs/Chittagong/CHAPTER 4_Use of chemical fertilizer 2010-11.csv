@@ -1,20 +1,21 @@
 ,0,1,2,3,4,5
 0,Use of chemical fertilizer 2010-11,,,,,
-1,,,,,,
-2,Upazila/City corporation,UREA,TSP,MP,DAP,Others
-3,Anowara,3700,500,300,120,65
-4,Banshkhali,6670,4970,3500,725,2672
-5,Boalkhali,2013,991,991,0,0
-6,Chandanaish,10053,2099,926,497,0
-7,Chittagong City Corp.,0,0,0,0,0
-8,Fatikchhari,5100,750,450,100,25
-9,Hathazari,4200,620,444,350,633
-10,Lohagara,4425,300,250,110,0
-11,Mirsharai,5900,900,504,350,70
-12,Patiya,4946,723,393,113,0
-13,Rangunia,4900,800,330,200,280
-14,Raozan,4000,500,240,700,300
-15,Sandwip,1,0,0,0,0
-16,Satkania,5200,850,400,200,271
-17,Sitakunda,5491,2743,1371,1115,475
-18,Total,66599,16746,10098,4580,4791
+1,Chittagong,,,,,
+2,,,,,,
+3,Upazila/City corporation,UREA,TSP,MP,DAP,Others
+4,Anowara,3700,500,300,120,65
+5,Banshkhali,6670,4970,3500,725,2672
+6,Boalkhali,2013,991,991,0,0
+7,Chandanaish,10053,2099,926,497,0
+8,Chittagong City Corporation,0,0,0,0,0
+9,Fatikchhari,5100,750,450,100,25
+10,Hathazari,4200,620,444,350,633
+11,Lohagara,4425,300,250,110,0
+12,Mirsharai,5900,900,504,350,70
+13,Patiya,4946,723,393,113,0
+14,Rangunia,4900,800,330,200,280
+15,Raozan,4000,500,240,700,300
+16,Sandwip,1,0,0,0,0
+17,Satkania,5200,850,400,200,271
+18,Sitakunda,5491,2743,1371,1115,475
+19,Total,66599,16746,10098,4580,4791

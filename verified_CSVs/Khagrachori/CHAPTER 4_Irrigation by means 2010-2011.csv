@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7
 0,Irrigation by means 2010-2011,,,,,,,
-1,(in acre),,,,,,,
-2,Upazila,Irrigation management Power pump,Irrigation management Tube well,Irrigation management Doon,Irrigation management Swing basket,Irrigation management Canal,Irrigation management Others,Total
-3,Dighinala,797,0,0,0,0,1232,4908
-4,Khagrachhari Sadar,588,0,0,0,13350,0,17800
-5,Laxshmichhari,60,0,612,0,0,200,906
-6,Mahalchhari,401,0,0,0,99,0,3699
-7,Manikchhari,244,0,3823,0,220,0,5033
-8,Matiranga,375,0,0,167,540,60,3667
-9,Panchhari,709,0,500,500,1000,275,6215
-10,Ramgarh,542,0,0,0,0,1760,3060
-11,Total,3914,0,4935,667,15209,3527,45288
+1,Khagrachori,,,,,,,
+2,(in acre),,,,,,,
+3,Upazila,Irrigation management Power pump,Irrigation management Tube well,Irrigation management Doon,Irrigation management Swing basket,Irrigation management Canal,Irrigation management Others,Total
+4,Dighinala,797,0,0,0,0,1232,4908
+5,Khagrachori,588,0,0,0,13350,0,17800
+6,Laxshmichhari,60,0,612,0,0,200,906
+7,Mahalchhari,401,0,0,0,99,0,3699
+8,Manikchhari,244,0,3823,0,220,0,5033
+9,Matiranga,375,0,0,167,540,60,3667
+10,Panchhari,709,0,500,500,1000,275,6215
+11,Ramgarh,542,0,0,0,0,1760,3060
+12,Total,3914,0,4935,667,15209,3527,45288

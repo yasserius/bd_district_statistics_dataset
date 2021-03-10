@@ -1,20 +1,21 @@
 ,0,1,2,3,4,5
 0,Number of family planning clinical centre by municipality 2011,,,,,
-1,,,,,,
-2,Upazila/City corporation,Sterilization centre,Mobile centre,Injection centre,Menstrual regularization centre,Family welfare centre
-3,Anowara,0,0,0,0,0
-4,Banshkhali,1,0,1,1,1
-5,Boalkhali,0,0,0,0,0
-6,Chandanaish,1,0,3,3,2
-7,Chittagong City Corp.,205,8,1118,199,37
-8,Fatikchhari,0,0,2,2,2
-9,Hathazari,0,0,0,0,0
-10,Lohagara,0,0,0,0,0
-11,Mirsharai,1,0,0,2,15
-12,Patiya,2,0,2,2,2
-13,Rangunia,1,0,1,1,1
-14,Raozan,2,0,2,2,2
-15,Sandwip,0,2,3,1,3
-16,Satkania,1,0,1,1,1
-17,Sitakunda,1,8,1,1,1
-18,Total,215,18,1134,215,67
+1,Chittagong,,,,,
+2,,,,,,
+3,Upazila/City corporation,Sterilization centre,Mobile centre,Injection centre,Menstrual regularization centre,Family welfare centre
+4,Anowara,0,0,0,0,0
+5,Banshkhali,1,0,1,1,1
+6,Boalkhali,0,0,0,0,0
+7,Chandanaish,1,0,3,3,2
+8,Chittagong City Corporation,205,8,1118,199,37
+9,Fatikchhari,0,0,2,2,2
+10,Hathazari,0,0,0,0,0
+11,Lohagara,0,0,0,0,0
+12,Mirsharai,1,0,0,2,15
+13,Patiya,2,0,2,2,2
+14,Rangunia,1,0,1,1,1
+15,Raozan,2,0,2,2,2
+16,Sandwip,0,2,3,1,3
+17,Satkania,1,0,1,1,1
+18,Sitakunda,1,8,1,1,1
+19,Total,215,18,1134,215,67

@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5
 0,(Rate in Taka),,,,,
-1,,,,,,
-2, Upazila,Name of municipality, Total ward, Total mahalla, Total holding,Total household
-3,Austagram,-,0,0,0,0
-4,Bajitpur,Bajitpur,9,28,7821,7821
-5,Bhairab,Bhairab,12,29,24057,24057
-6,Hossainpur,Hosenpur,9,16,5205,5205
-7,Itna,-,0,0,0,0
-8,Karimganj,Karimganj,9,17,5913,5913
-9,Katiadi,Katiadi,9,20,9090,9090
-10,Kishoreganj Sadar,Sader,9,56,21879,21879
-11,Kuliar-char,Kuliar-char,9,37,6598,6598
-12,Mithamain,-,0,0,0,0
-13,Nikli,-,0,0,0,0
-14,Pakundia,Pakundia,9,25,6407,6407
-15,Tarail,-,0,0,0,0
-16,Total,0,75,228,86970,86970
+1,Kishoreganj,,,,,
+2,,,,,,
+3, Upazila,Name of municipality, Total ward, Total mahalla, Total holding,Total household
+4,Austagram,-,0,0,0,0
+5,Bajitpur,Bajitpur,9,28,7821,7821
+6,Bhairab,Bhairab,12,29,24057,24057
+7,Hossainpur,Hosenpur,9,16,5205,5205
+8,Itna,-,0,0,0,0
+9,Karimganj,Karimganj,9,17,5913,5913
+10,Katiadi,Katiadi,9,20,9090,9090
+11,Kishoreganj Sadar,Sader,9,56,21879,21879
+12,Kuliar-char,Kuliar-char,9,37,6598,6598
+13,Mithamain,-,0,0,0,0
+14,Nikli,-,0,0,0,0
+15,Pakundia,Pakundia,9,25,6407,6407
+16,Tarail,-,0,0,0,0
+17,Total,0,75,228,86970,86970

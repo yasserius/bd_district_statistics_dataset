@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Daily average wage rate of construction labour 2011,,,,,,
-1,,,,,,,
-2,(Rate in taka) -  Upazila,(Rate in taka) - Labour - Mason,(Rate in taka) - Labour - Helper (Jogaly),(Rate in taka) - Labour - Carpenter,(Rate in taka) - Labour - Colour Mistree,(Rate in taka) - Labour - Electric Mistree,(Rate in taka) - Labour - Plumber Mistree
-3,Chandpur Sadar,400,280,300,300,400,350
-4,Foridganj,400,250,300,300,400,400
-5,Haimchar,400,250,300,250,400,350
-6,Hajiganj,400,250,300,400,400,300
-7,Kachua,400,300,400,400,400,400
-8,Matlab Dakshin,300,200,300,300,350,250
-9,Matlab Uttar,300,200,280,300,300,300
-10,Shahrasti,500,300,400,500,500,500
-11,Average,388,254,323,344,394,356
+1,Chandpur,,,,,,
+2,,,,,,,
+3,(Rate in taka) -  Upazila,(Rate in taka) - Labour - Mason,(Rate in taka) - Labour - Helper (Jogaly),(Rate in taka) - Labour - Carpenter,(Rate in taka) - Labour - Colour Mistree,(Rate in taka) - Labour - Electric Mistree,(Rate in taka) - Labour - Plumber Mistree
+4,Chandpur Sadar,400,280,300,300,400,350
+5,Foridganj,400,250,300,300,400,400
+6,Haimchar,400,250,300,250,400,350
+7,Hajiganj,400,250,300,400,400,300
+8,Kachua,400,300,400,400,400,400
+9,Matlab Dakshin,300,200,300,300,350,250
+10,Matlab Uttar,300,200,280,300,300,300
+11,Shahrasti,500,300,400,500,500,500
+12,Average,388,254,323,344,394,356

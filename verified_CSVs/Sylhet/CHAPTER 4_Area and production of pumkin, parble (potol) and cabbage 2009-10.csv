@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pumkin, parble (potol) and cabbage 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila/City corporation,Pumpkin Area,Pumpkin Production,Parble (potol) Area,Parble (potol) Production,Cabbage Area,Cabbage Production
-3,Balaganj,27,84,0,0,0,0
-4,Beanibazar,52,86,0,0,22,47
-5,Bishwanath,58,232,0,0,60,180
-6,Companiganj,93,219,0,0,30,41
-7,Dakhin surma,28,95,0,0,21,53
-8,Fenchuganj,20.5,50.75,0,0,6.5,13.585
-9,Golapganj,50,19,0,0,8,15
-10,Gowainghat,169,208.8,0,0,143,362.2
-11,Jaintiapur,166,21,0,0,83,143
-12,Kanaighat,550,1050,0,0,870,6600
-13,Sylhet city corporation,0,0,0,0,0,0
-14,Sylhet sadar,222,2385,0,0,395,5120
-15,Zakiganj,60,200,0,0,61,625
-16,Total,1495.5,4650.55,0,0,1699.5,13199.785
+1,Sylhet,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila/City Corporation,Pumpkin Area,Pumpkin Production,Parble (potol) Area,Parble (potol) Production,Cabbage Area,Cabbage Production
+4,Balaganj,27,84,0,0,0,0
+5,Beanibazar,52,86,0,0,22,47
+6,Bishwanath,58,232,0,0,60,180
+7,Companiganj,93,219,0,0,30,41
+8,Dakhin Surma,28,95,0,0,21,53
+9,Fenchuganj,20.5,50.75,0,0,6.5,13.585
+10,Golapganj,50,19,0,0,8,15
+11,Gowainghat,169,208.8,0,0,143,362.2
+12,Jaintiapur,166,21,0,0,83,143
+13,Kanaighat,550,1050,0,0,870,6600
+14,Sylhet City Corporation,0,0,0,0,0,0
+15,Sylhet Sadar,222,2385,0,0,395,5120
+16,Zakiganj,60,200,0,0,61,625
+17,Total,1495.5,4650.55,0,0,1699.5,13199.785

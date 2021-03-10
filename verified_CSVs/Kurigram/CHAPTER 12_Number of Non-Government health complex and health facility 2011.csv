@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Non-Government health complex and health facility 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of technician, Number of other staff,Number of patient under health facilitiy - Indoor - Male,Number of patient under health facilitiy - Indoor - Female,Number of patient under health facilitiy - Outdoor - Male,Number of patient under health facilitiy - Outdoor - Female
-3,Bhurungamari,2,17,5,10,3,20,570,410,0,0
-4,Char Rajibpur,0,0,0,0,0,0,0,0,0,0
-5,Chilmari,0,0,0,0,0,0,0,0,0,0
-6,Kurigram Sadar,8,150,37,69,11,57,3810,4650,9050,33200
-7,Nageshwari,2,30,2,3,2,0,230,245,0,0
-8,Phulbari,0,0,0,0,0,0,0,0,0,0
-9,Rajarhat,0,0,0,0,0,0,0,0,0,0
-10,Raumari,0,0,0,0,0,0,0,0,0,0
-11,Ulipur,3,65,10,27,2,87,1215,1285,6500,6200
-12,Total,15,222,54,109,18,164,5825,6590,15550,39400
+1,Kurigram,,,,,,,,,,
+2,,,,,,,,,,,
+3, Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of technician, Number of other staff,Number of patient under health facilitiy - Indoor - Male,Number of patient under health facilitiy - Indoor - Female,Number of patient under health facilitiy - Outdoor - Male,Number of patient under health facilitiy - Outdoor - Female
+4,Bhurungamari,2,17,5,10,3,20,570,410,0,0
+5,Char Rajibpur,0,0,0,0,0,0,0,0,0,0
+6,Chilmari,0,0,0,0,0,0,0,0,0,0
+7,Kurigram Sadar,8,150,37,69,11,57,3810,4650,9050,33200
+8,Nageshwari,2,30,2,3,2,0,230,245,0,0
+9,Phulbari,0,0,0,0,0,0,0,0,0,0
+10,Rajarhat,0,0,0,0,0,0,0,0,0,0
+11,Raumari,0,0,0,0,0,0,0,0,0,0
+12,Ulipur,3,65,10,27,2,87,1215,1285,6500,6200
+13,Total,15,222,54,109,18,164,5825,6590,15550,39400

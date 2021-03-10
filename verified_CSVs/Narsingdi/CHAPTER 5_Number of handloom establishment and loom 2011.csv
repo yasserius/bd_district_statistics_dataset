@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of handloom establishment and loom 2011,,,,
-1,,,,,
-2, Upazila,Number of unit (factory),Number of loom - Operational,Number of loom - Non-operational,Number of loom - Total
-3,Belabo,0,0,0,0
-4,Manohardi,0,0,0,0
-5,Narsingdi Sadar,1156,3310,3628,6938
-6,Palash,1500,920,580,1500
-7,Roypura,485,1150,2650,3800
-8,Sibpur,0,0,0,0
-9,Total,3141,5380,6858,12238
+1,Narsingdi,,,,
+2,,,,,
+3, Upazila,Number of unit (factory),Number of loom - Operational,Number of loom - Non-operational,Number of loom - Total
+4,Belabo,0,0,0,0
+5,Manohardi,0,0,0,0
+6,Narsingdi Sadar,1156,3310,3628,6938
+7,Palash,1500,920,580,1500
+8,Roypura,485,1150,2650,3800
+9,Shibpur,0,0,0,0
+10,Total,3141,5380,6858,12238

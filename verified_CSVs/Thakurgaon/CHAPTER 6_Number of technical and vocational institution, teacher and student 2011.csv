@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of technical and vocational institution, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila,Institution,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Baliadangi,0,0,0,0,0,0,0,0
-4,Haripur,1,5,0,5,76,49,125,25
-5,Pirgonj,0,0,0,0,0,0,0,0
-6,Ranisankail,0,0,0,0,0,0,0,0
-7,Thakurgaon Sadar,3,105,40,145,1746,603,2349,16
-8,Total,4,110,40,150,1822,652,2474,17
+1,Thakurgaon,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Institution,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Baliadangi,0,0,0,0,0,0,0,0
+5,Haripur,1,5,0,5,76,49,125,25
+6,Pirgonj,0,0,0,0,0,0,0,0
+7,Ranisankail,0,0,0,0,0,0,0,0
+8,Thakurgaon Sadar,3,105,40,145,1746,603,2349,16
+9,Total,4,110,40,150,1822,652,2474,17

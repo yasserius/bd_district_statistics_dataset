@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,,,,,,,
-2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Belabo,0,0,0,0,0,0
-4,Manohardi,1,10,2,7,4,5
-5,Narsingdi Sadar,36,319,223,176,40,136
-6,Palash,4,47,42,24,8,47
-7,Roypura,3,41,5,9,9,25
-8,Sibpur,1,10,3,7,2,12
-9,Total,45,427,275,223,63,225
+1,Narsingdi,,,,,,
+2,,,,,,,
+3,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Belabo,0,0,0,0,0,0
+5,Manohardi,1,10,2,7,4,5
+6,Narsingdi Sadar,36,319,223,176,40,136
+7,Palash,4,47,42,24,8,47
+8,Roypura,3,41,5,9,9,25
+9,Shibpur,1,10,3,7,2,12
+10,Total,45,427,275,223,63,225

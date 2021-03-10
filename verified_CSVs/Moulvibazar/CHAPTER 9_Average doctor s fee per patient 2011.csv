@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Average doctor s fee per patient 2011,,,,,
-1,(Fee in taka),,,,,
-2,Upazila,Doctor - MBBS,Doctor - FCPS,Doctor - Dentist,Doctor - Gynecologist,Doctor - Homeopathy
-3,Barlekha,300,400,200,400,60
-4,Juri,200,400,200,400,0
-5,Kamalganj,200,300,300,0,100
-6,Kulaura,200,400,200,400,0
-7,Moulvibazar Sadar,300,400,400,400,20
-8,Rajnagar,300,0,100,0,0
-9,Sreemangal,300,400,200,300,0
-10,Average,257,383,229,380,60
+1,Moulvibazar,,,,,
+2,(Fee in taka),,,,,
+3,Upazila,Doctor - MBBS,Doctor - FCPS,Doctor - Dentist,Doctor - Gynecologist,Doctor - Homeopathy
+4,Barlekha,300,400,200,400,60
+5,Juri,200,400,200,400,0
+6,Kamalganj,200,300,300,0,100
+7,Kulaura,200,400,200,400,0
+8,Moulvibazar Sadar,300,400,400,400,20
+9,Rajnagar,300,0,100,0,0
+10,Sreemangal,300,400,200,300,0
+11,Average,257,383,229,380,60

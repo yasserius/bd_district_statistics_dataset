@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,Irrigation by means 2010-2011,,,,,,,
-1,(In acre),,,,,,,
-2, Upazila,Irrigation management - Power pump,Irrigation management - Tube well,Irrigation management - Doon,Irrigation management - Swing basket,Irrigation management - Canal,Irrigation management - Others, Total
-3,Sherpur Sadar,70,65625,200,0,0,0,65895
-4,Jhenaigati,5780,12,12,5,20,22057,27886
-5,Nakla,580,30978,340,150,0,0,32503
-6,Nalitabari,963,0,0,0,0,8781,9744
-7,Sreebardi,200,0,0,0,0,30,230
-8,Total,7593,96615,552,155,20,30868,136258
+1,Sherpur,,,,,,,
+2,(In acre),,,,,,,
+3,Upazila,Irrigation management - Power pump,Irrigation management - Tube well,Irrigation management - Doon,Irrigation management - Swing basket,Irrigation management - Canal,Irrigation management - Others, Total
+4,Sherpur Sadar,70,65625,200,0,0,0,65895
+5,Jhenaigati,5780,12,12,5,20,22057,27886
+6,Nakla,580,30978,340,150,0,0,32503
+7,Nalitabari,963,0,0,0,0,8781,9744
+8,Sreebardi,200,0,0,0,0,30,230
+9,Total,7593,96615,552,155,20,30868,136258

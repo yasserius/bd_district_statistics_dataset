@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7
 0,Number of jute mill and number of worker 2011,,,,,,,
-1,,,,,,,,
-2, Upazila,Number of mill,Number of loom (installed),Number of loom - Operative,Number of loom - Non- operational,Number of worker - Permanent,Number of worker - Temporary,Number of worker - Total
-3,Belkuchi,0,0,0,0,0,0,0
-4,Chauhali,0,0,0,0,0,0,0
-5,Kamarkhanda,0,0,0,0,0,0,0
-6,Kazipur,0,0,0,0,0,0,0
-7,Royganj,0,0,0,0,0,0,0
-8,Shahjadpur,0,0,0,0,0,0,0
-9,Sirajganj Sadar,2,564,482,82,120,3685,3805
-10,Tarash,0,0,0,0,0,0,0
-11,Ullahpara,0,0,0,0,0,0,0
-12,Total,2,564,482,82,120,3685,3805
+1,Sirajganj,,,,,,,
+2,,,,,,,,
+3,Upazila,Number of mill,Number of loom (installed),Number of loom - Operative,Number of loom - Non- operational,Number of worker - Permanent,Number of worker - Temporary,Number of worker - Total
+4,Belkuchi,0,0,0,0,0,0,0
+5,Chauhali,0,0,0,0,0,0,0
+6,Kamarkhanda,0,0,0,0,0,0,0
+7,Kazipur,0,0,0,0,0,0,0
+8,Royganj,0,0,0,0,0,0,0
+9,Shahjadpur,0,0,0,0,0,0,0
+10,Sirajganj Sadar,2,564,482,82,120,3685,3805
+11,Tarash,0,0,0,0,0,0,0
+12,Ullahpara,0,0,0,0,0,0,0
+13,Total,2,564,482,82,120,3685,3805

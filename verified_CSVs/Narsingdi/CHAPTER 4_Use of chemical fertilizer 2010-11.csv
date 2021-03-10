@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,Use of chemical fertilizer 2010-11,,,,,
-1,,,,,,
-2,Upazila,UREA,TSP,MP,DAP,Others
-3,Belabo,3732,876,512,26,2
-4,Manohardi,5960,823,1760,2786,377
-5,Narsingdi Sadar,4478,637,766,121,239
-6,Palash,2074,88,89,89,144
-7,Roypura,8303,1655,1566,9,617
-8,Sibpur,5658,1050,795,213,1050
-9,Total,30205,5129,5488,3244,2429
+1,Narsingdi,,,,,
+2,,,,,,
+3,Upazila,UREA,TSP,MP,DAP,Others
+4,Belabo,3732,876,512,26,2
+5,Manohardi,5960,823,1760,2786,377
+6,Narsingdi Sadar,4478,637,766,121,239
+7,Palash,2074,88,89,89,144
+8,Roypura,8303,1655,1566,9,617
+9,Shibpur,5658,1050,795,213,1050
+10,Total,30205,5129,5488,3244,2429

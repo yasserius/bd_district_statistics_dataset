@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Rupali and Agrani bank 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Rupali bank - Number of branch,Rupali bank - Account - S.D,Rupali bank - Account - C.D,Rupali bank - Account - F.D,Rupali bank - Account - S.T.D,Agrani bank - Number of branch,Agrani bank - Account - S.D,Agrani bank - Account - C.D,Agrani bank - Account - F.D,Agrani bank - Account - S.T.D
-3,Bagerhat Sadar,2,10561,428,190,28,6,52966,1820,752,108
-4,Kachua,1,210,30,25,4,2,7791,105,214,8
-5,Rampal,0,0,0,0,0,0,0,0,0,0
-6,Sarankhola,0,0,0,0,0,0,0,0,0,0
-7,Chitalmari,0,0,0,0,0,1,7979,467,27,7
-8,Morrelgonj,1,8315,218,151,4,2,1684,570,292,59
-9,Mongla,1,3787,90,155,4,1,320,281,137,12
-10,Mollahat,1,11137,407,106,10,0,0,0,0,6
-11,Fakirhat,3,967,466,77,8,0,0,0,0,0
-12,Total,9,34977,1639,704,58,12,70740,3243,1422,200
+1,Bagerhat,,,,,,,,,,
+2,,,,,,,,,,,
+3, Upazila,Rupali bank - Number of branch,Rupali bank - Account - S.D,Rupali bank - Account - C.D,Rupali bank - Account - F.D,Rupali bank - Account - S.T.D,Agrani bank - Number of branch,Agrani bank - Account - S.D,Agrani bank - Account - C.D,Agrani bank - Account - F.D,Agrani bank - Account - S.T.D
+4,Bagerhat Sadar,2,10561,428,190,28,6,52966,1820,752,108
+5,Kachua,1,210,30,25,4,2,7791,105,214,8
+6,Rampal,0,0,0,0,0,0,0,0,0,0
+7,Sharonkhola,0,0,0,0,0,0,0,0,0,0
+8,Chitolmari,0,0,0,0,0,1,7979,467,27,7
+9,Morrelgonj,1,8315,218,151,4,2,1684,570,292,59
+10,Mongla,1,3787,90,155,4,1,320,281,137,12
+11,Mollahat,1,11137,407,106,10,0,0,0,0,6
+12,Fakirhat,3,967,466,77,8,0,0,0,0,0
+13,Total,9,34977,1639,704,58,12,70740,3243,1422,200

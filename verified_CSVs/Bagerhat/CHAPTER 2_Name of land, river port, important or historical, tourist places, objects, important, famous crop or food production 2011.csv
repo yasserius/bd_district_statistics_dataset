@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,"Name of land, river port, important or historical, tourist places, objects, important, famous crop or food production 2011",,,,
-1,,,,,
-2, Upazila,Name of land/river/ sea port,Name of Important or historical/tourist place/object,Name of important /famous crop or food production,Distance between district head quarter  upazila by road (km)
-3,Bagerhat Sadar,Bagerhat,Khan Jahan Ali majar Shat Gomboj Moshjid,"Paddy, Betal leaf",2
-4,Kachua,-,-,"Potato, Coconut",16
-5,Rampal,-,Jolmolia deghe,"Paddy, fish",26
-6,Sarankhola,Raynda Mondir,Sundarbon,Paddy,52
-7,Chitalmari,-,-,Boro,25
-8,Morrelgonj,Morolgonj,Kali Chand Majar,Paddy,25
-9,Mongla,Sea port,Maharsha Majar,prawn,55
-10,Mollahat,-,Odaram Asma kandi,Boro paddy,50
-11,Fakirhat,-,-,-,22
+1,Bagerhat,,,,
+2,,,,,
+3, Upazila,Name of land/river/ sea port,Name of Important or historical/tourist place/object,Name of important /famous crop or food production,Distance between district head quarter  upazila by road (km)
+4,Bagerhat Sadar,Bagerhat,Khan Jahan Ali majar Shat Gomboj Moshjid,"Paddy, Betal leaf",2
+5,Kachua,-,-,"Potato, Coconut",16
+6,Rampal,-,Jolmolia deghe,"Paddy, fish",26
+7,Sharonkhola,Raynda Mondir,Sundarbon,Paddy,52
+8,Chitolmari,-,-,Boro,25
+9,Morrelgonj,Morolgonj,Kali Chand Majar,Paddy,25
+10,Mongla,Sea port,Maharsha Majar,prawn,55
+11,Mollahat,-,Odaram Asma kandi,Boro paddy,50
+12,Fakirhat,-,-,-,22

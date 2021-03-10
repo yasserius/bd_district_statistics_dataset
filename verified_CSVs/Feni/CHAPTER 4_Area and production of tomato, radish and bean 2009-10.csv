@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Bean Area,Bean Production
-3,Chhagalnaiya,53,52,294,1052,66,67
-4,Daganbhuiyan,32,131,33,155,41,58
-5,Feni Sadar,111,212,23,47,101,102
-6,Fulgazi,38,151,103,432,36,64
-7,Parshuram,16,65,76,35,33,58
-8,Sonagazi,78,172,195,488,62,116
-9,Total,328,783,724,2209,339,465
+1,Feni,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Bean Area,Bean Production
+4,Chhagalnaiya,53,52,294,1052,66,67
+5,Daganbhuiyan,32,131,33,155,41,58
+6,Feni Sadar,111,212,23,47,101,102
+7,Fulgazi,38,151,103,432,36,64
+8,Parshuram,16,65,76,35,33,58
+9,Sonagazi,78,172,195,488,62,116
+10,Total,328,783,724,2209,339,465

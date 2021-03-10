@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5
 0,Number of family planning clinical centre by municipality 2011,,,,,
-1,,,,,,
-2,Municipality,Sterilization centre,Mobile centre,Injection centre,Menstrual regularization centre,Family welfare centre
-3,Kurigram,1,8,9,9,9
-4,Nageshwari,1,8,1,1,1
-5,Ulipur,0,0,0,11,11
-6,Total,2,16,10,21,21
+1,Kurigram,,,,,
+2,,,,,,
+3,Municipality,Sterilization centre,Mobile centre,Injection centre,Menstrual regularization centre,Family welfare centre
+4,Kurigram,1,8,9,9,9
+5,Nageshwari,1,8,1,1,1
+6,Ulipur,0,0,0,11,11
+7,Total,2,16,10,21,21

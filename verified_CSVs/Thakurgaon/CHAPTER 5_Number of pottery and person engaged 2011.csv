@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of pottery and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Baliadangi	12,38,12,50,
-4,Haripur	22,50,0,50,
-5,Pirgonj	7,21,0,21,
-6,Ranisankail	183,420,0,420,
-7,Thakurgaon Sadar	72,102,25,127,
-8,Total	296,591,157,748,
+1,Thakurgaon,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Baliadangi	12,38,12,50,
+5,Haripur	22,50,0,50,
+6,Pirgonj	7,21,0,21,
+7,Ranisankail	183,420,0,420,
+8,Thakurgaon Sadar	72,102,25,127,
+9,Total	296,591,157,748,

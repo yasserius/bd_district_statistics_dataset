@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pumpkin, parble (potol) and cabbage 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Pumpkin Area,Pumpkin Production,Parble (potol) Area,Parble (potol) Production,Cabbage Area,Cabbage Production
-3,Azmirigonj,7,45,0,0,7,45
-4,Bahubal,69,202,0,0,54,356
-5,Baniachang,15,3,0,0,0,0
-6,Chunarughat,24,115,0,0,32,420
-7,Habiganj Sadar,58,174,0,0,171,1026
-8,Lakhai,6,14,0,0,11,88
-9,Madhabpur,59,349,0,0,39,582
-10,Nabiganj,27,143,0,0,20,96
-11,Total,265,1045,0,0,334,2613
+1,Habiganj,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Pumpkin Area,Pumpkin Production,Parble (potol) Area,Parble (potol) Production,Cabbage Area,Cabbage Production
+4,Azmirigonj,7,45,0,0,7,45
+5,Bahubal,69,202,0,0,54,356
+6,Baniachang,15,3,0,0,0,0
+7,Chunarughat,24,115,0,0,32,420
+8,Habiganj Sadar,58,174,0,0,171,1026
+9,Lakhai,6,14,0,0,11,88
+10,Madhabpur,59,349,0,0,39,582
+11,Nabiganj,27,143,0,0,20,96
+12,Total,265,1045,0,0,334,2613

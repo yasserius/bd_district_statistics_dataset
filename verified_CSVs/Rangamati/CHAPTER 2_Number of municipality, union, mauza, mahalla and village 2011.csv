@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Number of municipality, union, mauza, mahalla and village 2011",,,,,,
-1,,,,,,,
-2,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
-3,Baghaichhari,1,9,35,8,19,303
-4,Barkal,0,0,0,5,28,180
-5,Belai Chhari,0,0,0,3,9,59
-6,Jurai Chhari,0,0,0,4,11,105
-7,Kaptai,0,0,0,5,10,148
-8,Kawkhali,0,0,0,4,10,180
-9,Langadu,0,0,0,7,25,138
-10,Naniarchar,0,0,0,4,20,158
-11,Rangamati Sadar,1,9,55,6,21,178
-12,Rajasthali,0,0,0,3,9,106
-13,Total,2,18,90,49,162,1555
+1,Rangamati,,,,,,
+2,,,,,,,
+3,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
+4,Baghaichhari,1,9,35,8,19,303
+5,Barkal,0,0,0,5,28,180
+6,Belai Chhari,0,0,0,3,9,59
+7,Jurai Chhari,0,0,0,4,11,105
+8,Kaptai,0,0,0,5,10,148
+9,Kawkhali,0,0,0,4,10,180
+10,Langadu,0,0,0,7,25,138
+11,Naniarchar,0,0,0,4,20,158
+12,Rangamati Sadar,1,9,55,6,21,178
+13,Rajasthali,0,0,0,3,9,106
+14,Total,2,18,90,49,162,1555

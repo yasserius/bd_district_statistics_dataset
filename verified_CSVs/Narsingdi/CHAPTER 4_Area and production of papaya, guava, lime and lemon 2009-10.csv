@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of papaya, guava, lime and lemon 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Papaya Area,Papaya Production,Guava Area,Guava Production,Lime and lemon Area,Lime and lemon Production
-3,Belabo,50,237,10,90,19,73
-4,Manohardi,12,136,19,7460,3,22
-5,Narsingdi Sadar,35,1957,0,151,0,60
-6,Palash,10,538,8,199,10,5
-7,Roypura,24,162,68,1036,2,12
-8,Sibpur,51,407,200,698,237,867
-9,Total,181,3438,305,9635,271,1039
+1,Narsingdi,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Papaya Area,Papaya Production,Guava Area,Guava Production,Lime and lemon Area,Lime and lemon Production
+4,Belabo,50,237,10,90,19,73
+5,Manohardi,12,136,19,7460,3,22
+6,Narsingdi Sadar,35,1957,0,151,0,60
+7,Palash,10,538,8,199,10,5
+8,Roypura,24,162,68,1036,2,12
+9,Shibpur,51,407,200,698,237,867
+10,Total,181,3438,305,9635,271,1039

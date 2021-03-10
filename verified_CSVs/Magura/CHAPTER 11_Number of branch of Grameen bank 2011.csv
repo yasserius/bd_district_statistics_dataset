@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Number of branch of Grameen bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of member,Number of account
-3,Magura Sadar,5,37,14109,14109
-4,Mohammadpur,4,24,7398,9636
-5,Shalikha,6,43,15029,9690
-6,Sreepur,4,32,9224,12220
-7,Total,19,136,45760,45655
+1,Magura,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of member,Number of account
+4,Magura Sadar,5,37,14109,14109
+5,Mohammadpur,4,24,7398,9636
+6,Shalikha,6,43,15029,9690
+7,Sreepur,4,32,9224,12220
+8,Total,19,136,45760,45655

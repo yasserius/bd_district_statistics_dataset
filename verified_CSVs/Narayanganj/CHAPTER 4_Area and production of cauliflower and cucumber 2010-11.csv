@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Area and production of cauliflower and cucumber 2010-11,,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
-3,Araihazar,46,139,63,87
-4,Bandar,17,78,7,7
-5,Narayanganj Sadar,137,482,48,120
-6,Rupganj,82,213,50,47
-7,Sonargaon,183,595,27,137
-8,Total,465,1507,195,398
+1,Narayanganj,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
+4,Araihazar,46,139,63,87
+5,Bandar,17,78,7,7
+6,Narayanganj Sadar,137,482,48,120
+7,Rupganj,82,213,50,47
+8,Sonargaon,183,595,27,137
+9,Total,465,1507,195,398

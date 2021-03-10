@@ -1,14 +1,15 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
-1,(Rate in taka),,,
-2,Upazila,Labour - Male,Labour - Female,Labour - Child (under 15 years old)
-3,Bagerhat Sadar,220,150,100
-4,Kachua,185,90,90
-5,Rampal,210,180,60
-6,Sarankhola,230,100,150
-7,Chitalmari,200,130,100
-8,Morrelgonj,250,150,100
-9,Mongla,200,150,100
-10,Mollahat,200,150,100
-11,Fakirhat,200,125,80
-12,Average,211,136,98
+1,Bagerhat,,,
+2,(Rate in taka),,,
+3,Upazila,Labour - Male,Labour - Female,Labour - Child (under 15 years old)
+4,Bagerhat Sadar,220,150,100
+5,Kachua,185,90,90
+6,Rampal,210,180,60
+7,Sharonkhola,230,100,150
+8,Chitolmari,200,130,100
+9,Morrelgonj,250,150,100
+10,Mongla,200,150,100
+11,Mollahat,200,150,100
+12,Fakirhat,200,125,80
+13,Average,211,136,98

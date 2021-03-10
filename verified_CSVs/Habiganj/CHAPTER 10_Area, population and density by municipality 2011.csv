@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Area, population and density by municipality 2011",,,,,,
-1,,,,,,,
-2,Upazila,Name of municipality,Area (In sq. km.),Population census-2011 - Male,Population census-2011 - Female,Population census-2011 - Both sex,Density per sq.km.
-3,Azmirigonj,Ajmiriganj,6.3,6641,6712,13353,2119
-4,Bahubal,-,0,0,0,0,0
-5,Baniachang,-,0,0,0,0,0
-6,Chunarughat,Chunarughat,4.27,9754,9897,19651,4602
-7,Habiganj Sadar,"Habiganj, Saistaganj",20.60,46622,46204,92826,6010
-8,Lakhai,-,0,0,0,0,0
-9,Madhabpur,Madhabpur,6.2,11106,10824,21930,3537
-10,Nabiganj,Nabiganj,9.74,12116,11873,23989,2462
-11,Total,-,47.11,86239,85510,171749,3646
+1,Habiganj,,,,,,
+2,,,,,,,
+3,Upazila,Name of municipality,Area (In sq. km.),Population census-2011 - Male,Population census-2011 - Female,Population census-2011 - Both sex,Density per sq.km.
+4,Azmirigonj,Ajmiriganj,6.3,6641,6712,13353,2119
+5,Bahubal,-,0,0,0,0,0
+6,Baniachang,-,0,0,0,0,0
+7,Chunarughat,Chunarughat,4.27,9754,9897,19651,4602
+8,Habiganj Sadar,"Habiganj, Saistaganj",20.60,46622,46204,92826,6010
+9,Lakhai,-,0,0,0,0,0
+10,Madhabpur,Madhabpur,6.2,11106,10824,21930,3537
+11,Nabiganj,Nabiganj,9.74,12116,11873,23989,2462
+12,Total,-,47.11,86239,85510,171749,3646

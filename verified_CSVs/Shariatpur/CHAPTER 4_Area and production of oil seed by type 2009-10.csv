@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Area and production of oil seed by type 2009-10,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Rape  mustard Area,Rape  mustard Production,Ground nut Area,Ground nut Production,Til Area,Til Production
-3,Bhedarganj,2153,762,0,0,0,0
-4,Damudya,998,338,0,0,32,10
-5,Gosairhat,210,53,0,0,0,0
-6,Naria,1655,512,0,0,0,0
-7,Shariatpur Sadar,5250,2694,0,0,0,0
-8,Zanjira,1676,694,749,874,11,4
-9,Total,11942,5052,749,874,43,14
+1,Shariatpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Rape  mustard Area,Rape  mustard Production,Ground nut Area,Ground nut Production,Til Area,Til Production
+4,Bhedarganj,2153,762,0,0,0,0
+5,Damudya,998,338,0,0,32,10
+6,Gosairhat,210,53,0,0,0,0
+7,Naria,1655,512,0,0,0,0
+8,Shariatpur Sadar,5250,2694,0,0,0,0
+9,Zanjira,1676,694,749,874,11,4
+10,Total,11942,5052,749,874,43,14

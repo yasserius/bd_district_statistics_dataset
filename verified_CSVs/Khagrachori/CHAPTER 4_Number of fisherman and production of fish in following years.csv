@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in metric ton),,,,
-2,Upazila,2010-11 Number,2010-11 Production,2009-10 Number,2009-10 Production
-3,Dighinala,1420,246,1420,245
-4,Khagrachhari Sadar,474,27,470,26
-5,Laxshmichhari,497,54,490,49
-6,Mahalchhari,515,324,400,250
-7,Manikchhari,0,0,0,0
-8,Matiranga,0,126,0,114
-9,Panchhari,560,145,570,144
-10,Ramgarh,0,0,0,0
-11,Total,3466,921,3350,828
+1,Khagrachori,,,,
+2,(Production in metric ton),,,,
+3,Upazila,2010-11 Number,2010-11 Production,2009-10 Number,2009-10 Production
+4,Dighinala,1420,246,1420,245
+5,Khagrachori,474,27,470,26
+6,Laxshmichhari,497,54,490,49
+7,Mahalchhari,515,324,400,250
+8,Manikchhari,0,0,0,0
+9,Matiranga,0,126,0,114
+10,Panchhari,560,145,570,144
+11,Ramgarh,0,0,0,0
+12,Total,3466,921,3350,828

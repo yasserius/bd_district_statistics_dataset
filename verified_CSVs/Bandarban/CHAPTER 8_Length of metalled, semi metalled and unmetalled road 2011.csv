@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
-1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
-3,Alikadam,3,1.5,222,226.5
-4,Bandarban Sadar,93,112,460,665
-5,Lama,52,35,160,247
-6,Naikhongchhari,22,25,33,80
-7,Rowangchhari,14.50,14,102,130.5
-8,Ruma,1.20,37,75,113.2
-9,Thanchi,4.76,0,119,123.97
-10,Total,190.46,224.5,1171,1586.17
+1,Bandarban,,,,
+2,(Kilometer),,,,
+3,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
+4,Alikadam,3,1.5,222,226.5
+5,Bandarban Sadar,93,112,460,665
+6,Lama,52,35,160,247
+7,Naikhongchhari,22,25,33,80
+8,Rowangchhari,14.50,14,102,130.5
+9,Ruma,1.20,37,75,113.2
+10,Thanchi,4.76,0,119,123.97
+11,Total,190.46,224.5,1171,1586.17

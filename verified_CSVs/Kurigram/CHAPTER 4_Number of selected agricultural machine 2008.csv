@@ -1,14 +1,15 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,,,,
-2,Upazila,Number of power tiller,Tractor,Number of threshing machine
-3,Bhurungamari,610,3,1375
-4,Char Rajibpur,85,3,1225
-5,Chilmari,115,12,140
-6,Kurigram Sadar,32,15,22
-7,Nageshwari,348,26,2041
-8,Phulbari,82,6,1800
-9,Rajarhat,837,2,937
-10,Raumari,1362,7,0
-11,Ulipur,207,19,275
-12,Total,3678,93,7815
+1,Kurigram,,,
+2,,,,
+3,Upazila,Number of power tiller,Tractor,Number of threshing machine
+4,Bhurungamari,610,3,1375
+5,Char Rajibpur,85,3,1225
+6,Chilmari,115,12,140
+7,Kurigram Sadar,32,15,22
+8,Nageshwari,348,26,2041
+9,Phulbari,82,6,1800
+10,Rajarhat,837,2,937
+11,Raumari,1362,7,0
+12,Ulipur,207,19,275
+13,Total,3678,93,7815

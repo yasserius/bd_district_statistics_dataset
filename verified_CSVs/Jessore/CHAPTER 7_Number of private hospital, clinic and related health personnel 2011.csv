@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,,,,,,,
-2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Abhaynagar,8,80,17,71,15,77
-4,Bagherpara,3,32,9,13,3,14
-5,Chaugachha,4,40,8,10,2,23
-6,Jessore Sadar,27,940,293,461,127,943
-7,Jhikargachha,6,27,8,29,6,18
-8,Keshabpur,10,182,17,65,10,72
-9,Manirampur,4,70,8,8,4,6
-10,Sharsha,11,120,22,28,13,66
-11,Total,73,1491,382,685,180,1219
+1,Jessore,,,,,,
+2,,,,,,,
+3,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Abhaynagar,8,80,17,71,15,77
+5,Bagherpara,3,32,9,13,3,14
+6,Chaugachha,4,40,8,10,2,23
+7,Jessore Sadar,27,940,293,461,127,943
+8,Jhikargachha,6,27,8,29,6,18
+9,Keshabpur,10,182,17,65,10,72
+10,Manirampur,4,70,8,8,4,6
+11,Sharsha,11,120,22,28,13,66
+12,Total,73,1491,382,685,180,1219

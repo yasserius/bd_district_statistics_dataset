@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Number of municipality, union, mauza, mahalla and village by upazila, city corporation 2011",,,,,,
-1,,,,,,,
-2,Upazila/city corporation,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
-3,Agailjhara,0,0,0,5,78,96
-4,Babuganj,0,0,0,6,81,90
-5,Bakerganj,1,9,17,14,149,172
-6,Banaripara,1,9,16,8,76,76
-7,Barisal city corporation,0,0,0,0,0,0
-8,Barisal Sadar,0,0,0,10,105,110
-9,Gaurnadi,1,9,20,7,108,109
-10,Hizla,0,0,0,6,94,94
-11,Mehendiganj,1,9,11,13,115,142
-12,Muladi,1,9,14,7,77,102
-13,Wazirpur,0,0,0,9,118,125
-14,Total,5,45,78,85,1001,1116
+1,Barisal,,,,,,
+2,,,,,,,
+3,Upazila/city corporation,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
+4,Agailjhara,0,0,0,5,78,96
+5,Babuganj,0,0,0,6,81,90
+6,Bakerganj,1,9,17,14,149,172
+7,Banaripara,1,9,16,8,76,76
+8,Barisal city corporation,0,0,0,0,0,0
+9,Barisal Sadar,0,0,0,10,105,110
+10,Gaurnadi,1,9,20,7,108,109
+11,Hizla,0,0,0,6,94,94
+12,Mehendiganj,1,9,11,13,115,142
+13,Muladi,1,9,14,7,77,102
+14,Wazirpur,0,0,0,9,118,125
+15,Total,5,45,78,85,1001,1116

@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Private(Non-Registered) Primary School (Class I-V), Teachers and Students 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila/city corporation,Number of Non- govt. primary sSchool,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Batiaghata,0,0,0,0,0,0,0,0
-4,Dacope,0,0,0,0,0,0,0,0
-5,Dighalia,2,6,2,8,73,65,138,17
-6,Dumuria,46,90,80,150,1491,1444,2935,20
-7,Khulna City Corporation,23,44,41,85,2822,2550,5372,63
-8,Koyra,6,18,6,24,600,481,1081,45
-9,Paikgachha,2,4,4,8,102,85,187,33
-10,Phultala,0,0,0,0,0,0,0,0
-11,Rupsa,3,3,4,7,118,143,261,37
-12,Terokhada,1,0,4,4,6,17,23,1|6
-13,Total,83,165,141,286,5212,4785,9997,34
+1,Khulna,,,,,,,,
+2,,,,,,,,,
+3,Upazila/city corporation,Number of Non- govt. primary sSchool,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Batiaghata,0,0,0,0,0,0,0,0
+5,Dacope,0,0,0,0,0,0,0,0
+6,Dighalia,2,6,2,8,73,65,138,17
+7,Dumuria,46,90,80,150,1491,1444,2935,20
+8,Khulna City Corporation,23,44,41,85,2822,2550,5372,63
+9,Koyra,6,18,6,24,600,481,1081,45
+10,Paikgachha,2,4,4,8,102,85,187,33
+11,Phultala,0,0,0,0,0,0,0,0
+12,Rupsa,3,3,4,7,118,143,261,37
+13,Terokhada,1,0,4,4,6,17,23,1|6
+14,Total,83,165,141,286,5212,4785,9997,34

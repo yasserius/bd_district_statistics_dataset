@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,,,,,
-2, Upazila,Number of pump fielded - Electric,Number of pump fielded - Diesel,Number of pump fielded - Total,Area irrigated (in acre)
-3,Gazipur Sadar,405,2686,3091,31344
-4,Kaliakair,358,1155,1513,22128
-5,Kaliganj,455,1195,1650,9289
-6,Kapashia,863,2738,4639,25170
-7,Sreepur,665,2775,3440,20065
-8,Total,2746,10549,14333,107996
+1,Gazipur,,,,
+2,,,,,
+3, Upazila,Number of pump fielded - Electric,Number of pump fielded - Diesel,Number of pump fielded - Total,Area irrigated (in acre)
+4,Gazipur Sadar,405,2686,3091,31344
+5,Kaliakair,358,1155,1513,22128
+6,Kaliganj,455,1195,1650,9289
+7,Kapashia,863,2738,4639,25170
+8,Sreepur,665,2775,3440,20065
+9,Total,2746,10549,14333,107996

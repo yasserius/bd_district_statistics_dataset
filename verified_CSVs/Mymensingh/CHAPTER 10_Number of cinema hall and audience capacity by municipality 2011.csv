@@ -1,17 +1,18 @@
 ,0,1,2,3,4
 0,Number of cinema hall and audience capacity by municipality 2011,,,,
-1,,,,,
-2,Upazila,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
-3,Bhaluka,2,950,3,650
-4,Dhobaura,0,0,0,0
-5,Fulbaria,1,420,2,150
-6,Gaffargaon,5,1000,3,240
-7,Gauripur,2,930,3,2515
-8,Haluaghat,1,420,2,150
-9,Ishwargonj,1,300,3,30
-10,Muktagacha,3,600,3,450
-11,Mymensingh Sadar,3,1200,3,3240
-12,Nandail,1,550,3,408
-13,Phulpur,1,120,2,180
-14,Trishal,2,600,3,80
-15,Total,22,6670,28,735
+1,Mymensingh,,,,
+2,,,,,
+3,Upazila,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
+4,Bhaluka,2,950,3,650
+5,Dhobaura,0,0,0,0
+6,Fulbaria,1,420,2,150
+7,Gaffargaon,5,1000,3,240
+8,Gauripur,2,930,3,2515
+9,Haluaghat,1,420,2,150
+10,Ishwargonj,1,300,3,30
+11,Muktagacha,3,600,3,450
+12,Mymensingh Sadar,3,1200,3,3240
+13,Nandail,1,550,3,408
+14,Phulpur,1,120,2,180
+15,Trishal,2,600,3,80
+16,Total,22,6670,28,735

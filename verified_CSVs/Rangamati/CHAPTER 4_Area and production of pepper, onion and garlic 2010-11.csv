@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
-3,Baghaichhari,491,183,14,31,11,19
-4,Barkal,86,29,7,21,6,12
-5,Belai Chhari,78,43,0,1,0,0
-6,Jurai Chhari,63,29,8,9,5,3
-7,Kaptai,141,41,0,0,0,0
-8,Kawkhali,95,32,2,1,0,0
-9,Langadu,125,45,13,24,8,10
-10,Naniarchar,241,80,27,59,26,35
-11,Rangamati Sadar,748,535,20,18,0,0
-12,Rajasthali,26,7,0,0,0,0
-13,Total,2094,1025,92,164,56,80
+1,Rangamati,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
+4,Baghaichhari,491,183,14,31,11,19
+5,Barkal,86,29,7,21,6,12
+6,Belai Chhari,78,43,0,1,0,0
+7,Jurai Chhari,63,29,8,9,5,3
+8,Kaptai,141,41,0,0,0,0
+9,Kawkhali,95,32,2,1,0,0
+10,Langadu,125,45,13,24,8,10
+11,Naniarchar,241,80,27,59,26,35
+12,Rangamati Sadar,748,535,20,18,0,0
+13,Rajasthali,26,7,0,0,0,0
+14,Total,2094,1025,92,164,56,80

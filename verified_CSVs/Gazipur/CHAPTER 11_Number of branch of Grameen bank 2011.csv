@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of branch of Grameen bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of member,Number of account
-3,Gazipur Sadar,6,45,18745,26538
-4,Kaliakair,4,66,43050,55086
-5,Kaliganj,3,23,4414,7585
-6,Kapashia,10,79,40716,40716
-7,Sreepur,11,102,50660,52860
-8,Total,34,315,157585,182785
+1,Gazipur,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of member,Number of account
+4,Gazipur Sadar,6,45,18745,26538
+5,Kaliakair,4,66,43050,55086
+6,Kaliganj,3,23,4414,7585
+7,Kapashia,10,79,40716,40716
+8,Sreepur,11,102,50660,52860
+9,Total,34,315,157585,182785

@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2010-11,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
-3,Biral,13447,84923,48,5,13495,84914
-4,Birampur,1900,12500,8,29,1908,12529
-5,Birganj,21711,168522,16,35,21727,168557
-6,Bochaganj,3570,2143,105,263,3675,24406
-7,Chirirbandar,5000,33672,70,195000,5070,33866
-8,Dinajpur Sadar,16900,97163,10,39,16910,97202
-9,Fulbari,3950,27526,19,57,3969,27583
-10,Ghoraghat,2640,17490,6,220,2646,17710
-11,Hakimpur,4060,25654,5,21,4065,25675
-12,Kaharole,5575,24191,71,120,5646,24311
-13,Khansama,6840,45942,59,189,6899,46131
-14,Nawabganj,2820,18612,81,299,2901,18911
-15,Parbatipur,6805,87444,80,244,6885,87688
-16,Total,95218,645782,578,196521,95796,669483
+1,Dinajpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
+4,Biral,13447,84923,48,5,13495,84914
+5,Birampur,1900,12500,8,29,1908,12529
+6,Birganj,21711,168522,16,35,21727,168557
+7,Bochaganj,3570,2143,105,263,3675,24406
+8,Chirirbandar,5000,33672,70,195000,5070,33866
+9,Dinajpur Sadar,16900,97163,10,39,16910,97202
+10,Fulbari,3950,27526,19,57,3969,27583
+11,Ghoraghat,2640,17490,6,220,2646,17710
+12,Hakimpur,4060,25654,5,21,4065,25675
+13,Kaharole,5575,24191,71,120,5646,24311
+14,Khansama,6840,45942,59,189,6899,46131
+15,Nawabganj,2820,18612,81,299,2901,18911
+16,Parbatipur,6805,87444,80,244,6885,87688
+17,Total,95218,645782,578,196521,95796,669483

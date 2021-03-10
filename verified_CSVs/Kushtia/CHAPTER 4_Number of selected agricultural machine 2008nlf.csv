@@ -1,11 +1,12 @@
 ,0,1,2,3
 0,4.14 Number of selected agricultural machine 2008,,,
-1,,,,
-2, Upazila, Number of power tiller, Tractor,Number of threshing machine
-3,Kushtia Sadar,1585,3,4850
-4,Bheramara,326,210,600
-5,Daulatpur,3500,250,2893
-6,Khoksa,210,2,975
-7,Kumarkhali,1064,8,1453
-8,Mirpur,1413,5,2015
-9,Total,8098,478,12786
+1,Kushtia,,,
+2,,,,
+3,Upazila, Number of power tiller, Tractor,Number of threshing machine
+4,Kushtia Sadar,1585,3,4850
+5,Bheramara,326,210,600
+6,Daulatpur,3500,250,2893
+7,Khoksa,210,2,975
+8,Kumarkhali,1064,8,1453
+9,Mirpur,1413,5,2015
+10,Total,8098,478,12786

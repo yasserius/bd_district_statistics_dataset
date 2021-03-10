@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,"Number of ward, mahalla and household by municipality 2011",,,,
-1,,,,,
-2,Upazila,Name of municipality,Total ward,Total mahalla,Total household
-3,Gazipur Sadar,"Gazipur, Tongi",21,83,172550
-4,Kaliakair,Kaliakair,9,18,42093
-5,Kapashia,-,-,-,-
-6,Kaliganj,Kaliganj,9,23,9718
-7,Sreepur,Sreepur,9,20,31470
-8,Total,-,48,144,255831
+1,Gazipur,,,,
+2,,,,,
+3,Upazila,Name of municipality,Total ward,Total mahalla,Total household
+4,Gazipur Sadar,"Gazipur, Tongi",21,83,172550
+5,Kaliakair,Kaliakair,9,18,42093
+6,Kapashia,-,-,-,-
+7,Kaliganj,Kaliganj,9,23,9718
+8,Sreepur,Sreepur,9,20,31470
+9,Total,-,48,144,255831

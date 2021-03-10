@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Cotton and Sericulture cultivation for the year 2010-11,,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,All cotton Area,All cotton Production,Sericulture Area,Sericulture Production
-3,Bhedarganj,339,3,0,0
-4,Damudya,0,0,0,0
-5,Gosairhat,12,21,0,0
-6,Naria,0,0,0,0
-7,Shariatpur Sadar,0,0,0,0
-8,Zanjira,0,0,0,0
-9,Total,351,24,0,0
+1,Shariatpur,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,All cotton Area,All cotton Production,Sericulture Area,Sericulture Production
+4,Bhedarganj,339,3,0,0
+5,Damudya,0,0,0,0
+6,Gosairhat,12,21,0,0
+7,Naria,0,0,0,0
+8,Shariatpur Sadar,0,0,0,0
+9,Zanjira,0,0,0,0
+10,Total,351,24,0,0

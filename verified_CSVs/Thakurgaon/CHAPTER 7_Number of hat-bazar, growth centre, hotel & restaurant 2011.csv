@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,"Number of hat-bazar, growth centre, hotel  restaurant 2011",,,,,
-1,,,,,,
-2,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
-3,Baliadangi,14,26,7,105,0
-4,Haripur,21,21,4,28,0
-5,Pirgonj,17,31,4,120,1
-6,Ranisankail,19,36,4,85,1
-7,Thakurgaon Sadar,38,23,7,265,10
-8,Total,109,137,26,603,12
+1,Thakurgaon,,,,,
+2,,,,,,
+3,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
+4,Baliadangi,14,26,7,105,0
+5,Haripur,21,21,4,28,0
+6,Pirgonj,17,31,4,120,1
+7,Ranisankail,19,36,4,85,1
+8,Thakurgaon Sadar,38,23,7,265,10
+9,Total,109,137,26,603,12

@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2,  Upazila,Number of branch of all private commercial banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
-3,Atrai,0,0,0,0,0,0,0,0,0,0,0
-4,Badalgachhi,6,3250,172,0,0,722,105,3972,277,21.3,1.5
-5,Dhamoirhat,3,1231,0,0,0,121,0,1352,0,13,0
-6,Manda,0,0,0,0,0,0,0,0,0,0,0
-7,Mahadebpur,0,0,0,0,0,0,0,0,0,0,0
-8,Naogaon sadar,23,459,1331,32,0,2630,2863,3115,4194,375.72,605
-9,Niamatpur,1,0,0,65,0,8,0,73,0,7.88,0
-10,Patnitala,3,7522,0,61,3,761,5,8344,8,160,7
-11,Porsha,0,0,0,0,0,0,0,0,0,0,0
-12,Raninagar,0,0,0,0,0,0,0,0,0,0,0
-13,Sapahar,1,25,1,122,0,265,45,412,46,16.01,0.7
-14,Total,37,12487,1504,280,3,4507,3018,17268,4525,593.91,614
+1,Naogaon,,,,,,,,,,,
+2,,,,,,,,,,,,
+3,  Upazila,Number of branch of all private commercial banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
+4,Atrai,0,0,0,0,0,0,0,0,0,0,0
+5,Badalgachhi,6,3250,172,0,0,722,105,3972,277,21.3,1.5
+6,Dhamoirhat,3,1231,0,0,0,121,0,1352,0,13,0
+7,Manda,0,0,0,0,0,0,0,0,0,0,0
+8,Mahadebpur,0,0,0,0,0,0,0,0,0,0,0
+9,Naogaon sadar,23,459,1331,32,0,2630,2863,3115,4194,375.72,605
+10,Niamatpur,1,0,0,65,0,8,0,73,0,7.88,0
+11,Patnitala,3,7522,0,61,3,761,5,8344,8,160,7
+12,Porsha,0,0,0,0,0,0,0,0,0,0,0
+13,Raninagar,0,0,0,0,0,0,0,0,0,0,0
+14,Sapahar,1,25,1,122,0,265,45,412,46,16.01,0.7
+15,Total,37,12487,1504,280,3,4507,3018,17268,4525,593.91,614

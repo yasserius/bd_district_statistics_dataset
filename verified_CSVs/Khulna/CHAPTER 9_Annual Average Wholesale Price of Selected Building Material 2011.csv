@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Annual Average Wholesale Price of Selected Building Material 2011,,,,,,
-1,(Price in Taka),,,,,,
-2,Upazila/city corporation,Brick-01 (per1000),Cement (per 50 KG Bag),Iron Bar (per Ton),Sand-01 (Per C.Ft.),Sand -02 (Per C.Ft.),Stone (per C.Ft.)
-3,Batiaghata,600,450,65000,20,12,0
-4,Dacope,7500,430,65000,40,30,150
-5,Dighalia,6800,385,65000,24,19,38
-6,Dumuria,6300,450,72000,45,22,130
-7,Khulna City Corporation,6360,392,53000,37,19,110
-8,Koyra,6000,410,72000,23,21,35
-9,Paikgachha,5800,420,72000,18,14,53
-10,Phultala,7000,430,70000,20,3,0
-11,Rupsa,7000,410,70000,28,21,0
-12,Average,6000,360,62000,25,8,0
+1,Khulna,,,,,,
+2,(Price in Taka),,,,,,
+3,Upazila/city corporation,Brick-01 (per1000),Cement (per 50 KG Bag),Iron Bar (per Ton),Sand-01 (Per C.Ft.),Sand -02 (Per C.Ft.),Stone (per C.Ft.)
+4,Batiaghata,600,450,65000,20,12,0
+5,Dacope,7500,430,65000,40,30,150
+6,Dighalia,6800,385,65000,24,19,38
+7,Dumuria,6300,450,72000,45,22,130
+8,Khulna City Corporation,6360,392,53000,37,19,110
+9,Koyra,6000,410,72000,23,21,35
+10,Paikgachha,5800,420,72000,18,14,53
+11,Phultala,7000,430,70000,20,3,0
+12,Rupsa,7000,410,70000,28,21,0
+13,Average,6000,360,62000,25,8,0

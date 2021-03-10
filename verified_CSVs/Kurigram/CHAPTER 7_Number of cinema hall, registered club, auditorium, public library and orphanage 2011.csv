@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,,,,,,
-2,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
-3,Bhurungamari,1,43,1,0,0
-4,Char Rajibpur,2,12,8,1,0
-5,Chilmari,1,47,0,4,1
-6,Kurigram Sadar,2,5,2,4,0
-7,Nageshwari,2,184,1,0,0
-8,Phulbari,1,72,1,0,1
-9,Rajarhat,1,12,8,3,1
-10,Raumari,1,0,1,2,0
-11,Ulipur,1,15,1,15,1
-12,Total,12,390,23,29,4
+1,Kurigram,,,,,
+2,,,,,,
+3,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
+4,Bhurungamari,1,43,1,0,0
+5,Char Rajibpur,2,12,8,1,0
+6,Chilmari,1,47,0,4,1
+7,Kurigram Sadar,2,5,2,4,0
+8,Nageshwari,2,184,1,0,0
+9,Phulbari,1,72,1,0,1
+10,Rajarhat,1,12,8,3,1
+11,Raumari,1,0,1,2,0
+12,Ulipur,1,15,1,15,1
+13,Total,12,390,23,29,4

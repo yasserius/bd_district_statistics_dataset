@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of different club 2011,,,,
-1,,,,,
-2,Upazila,Sports club,Cultural club,Science club,Other social club
-3,Fulchhari,0,0,0,1
-4,Gaibandha Sadar,24,7,0,2
-5,Gobindaganj,0,5,0,253
-6,Palashbari,15,13,0,7
-7,Sadullapur,2,4,0,1
-8,Saghata,4,6,0,32
-9,Sundarganj,4,2,0,1
-10,Total,49,37,0,297
+1,Gaibandha,,,,
+2,,,,,
+3,Upazila,Sports club,Cultural club,Science club,Other social club
+4,Fulchhari,0,0,0,1
+5,Gaibandha Sadar,24,7,0,2
+6,Gobindaganj,0,5,0,253
+7,Palashbari,15,13,0,7
+8,Sadullapur,2,4,0,1
+9,Saghata,4,6,0,32
+10,Sundarganj,4,2,0,1
+11,Total,49,37,0,297

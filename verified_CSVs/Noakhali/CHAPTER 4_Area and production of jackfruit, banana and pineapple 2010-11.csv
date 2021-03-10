@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of jackfruit, banana and pineapple 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Jackfruits - Area,Jackfruits - Production,Banana - Area,Banana - Production,Pineapple - Area,Pineapple - Production
-3,Begumganj,-,106,23,170,0,0
-4,Chatkhil,-,134,45,205,7,16
-5,Companiganj,-,367,400,1030,49,97
-6,Hatiya,-,687,0,505,0,0
-7,Kabirhat,-,25,48,211,7,10
-8,Noakhali Sadar,-,333,296,1421,12,43
-9,Senbagh,-,205,62,183,6,5
-10,Sonaimuri,-,93,55,205,0,0
-11,Subarnachar,-,119,192,765,12,19
-12,Total,-,2069,1121,4695,93,190
+1,Noakhali,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Jackfruits - Area,Jackfruits - Production,Banana - Area,Banana - Production,Pineapple - Area,Pineapple - Production
+4,Begumganj,-,106,23,170,0,0
+5,Chatkhil,-,134,45,205,7,16
+6,Companiganj,-,367,400,1030,49,97
+7,Hatiya,-,687,0,505,0,0
+8,Kabirhat,-,25,48,211,7,10
+9,Noakhali Sadar,-,333,296,1421,12,43
+10,Senbagh,-,205,62,183,6,5
+11,Sonaimuri,-,93,55,205,0,0
+12,Subarnachar,-,119,192,765,12,19
+13,Total,-,2069,1121,4695,93,190

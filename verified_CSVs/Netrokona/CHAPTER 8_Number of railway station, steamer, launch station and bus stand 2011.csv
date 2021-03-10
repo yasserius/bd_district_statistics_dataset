@@ -1,15 +1,16 @@
 ,0,1,2,3
 0,"Number of railway station, steamer, launch station and bus stand 2011",,,
-1,,,,
-2,Upazila,Railway station,Steamer/launch station,Bus stand
-3,Atpara,0,3,1
-4,Barhatta,2,0,0
-5,Durgapur,0,0,1
-6,Kalmakanda,0,0,2
-7,Kendua,0,0,1
-8,Khaliajuri,0,3,0
-9,Madan,0,0,1
-10,Mohanganj,1,2,1
-11,Netrokona Sadar,5,0,5
-12,Purbadhala,3,0,1
-13,Total,11,8,13
+1,Netrokona,,,
+2,,,,
+3,Upazila,Railway station,Steamer/launch station,Bus stand
+4,Atpara,0,3,1
+5,Barhatta,2,0,0
+6,Durgapur,0,0,1
+7,Kalmakanda,0,0,2
+8,Kendua,0,0,1
+9,Khaliajuri,0,3,0
+10,Madan,0,0,1
+11,Mohanganj,1,2,1
+12,Netrokona Sadar,5,0,5
+13,Purbadhala,3,0,1
+14,Total,11,8,13

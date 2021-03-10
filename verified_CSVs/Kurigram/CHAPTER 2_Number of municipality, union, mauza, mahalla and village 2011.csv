@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Number of municipality, union, mauza, mahalla and village 2011",,,,,,
-1,,,,,,,
-2,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
-3,Bhurungamari,0,0,0,10,70,126
-4,Char Rajibpur,0,0,0,3,26,99
-5,Chilmari,0,0,0,6,58,133
-6,Kurigram Sadar,1,9,106,8,78,266
-7,Nageshwari,1,9,81,14,79,350
-8,Phulbari,0,0,0,6,50,166
-9,Rajarhat,0,0,0,7,110,180
-10,Raumari,0,0,0,5,29,198
-11,Ulipur,1,9,16,13,147,354
-12,Total,3,27,203,72,647,1872
+1,Kurigram,,,,,,
+2,,,,,,,
+3,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
+4,Bhurungamari,0,0,0,10,70,126
+5,Char Rajibpur,0,0,0,3,26,99
+6,Chilmari,0,0,0,6,58,133
+7,Kurigram Sadar,1,9,106,8,78,266
+8,Nageshwari,1,9,81,14,79,350
+9,Phulbari,0,0,0,6,50,166
+10,Rajarhat,0,0,0,7,110,180
+11,Raumari,0,0,0,5,29,198
+12,Ulipur,1,9,16,13,147,354
+13,Total,3,27,203,72,647,1872

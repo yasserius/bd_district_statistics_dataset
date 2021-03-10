@@ -1,15 +1,16 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,,,,
-2,Upazila/city corporation,Number of insurance company,Number of employee,Number of client
-3,Bagha,6,60,4940
-4,Baghmara,8,96,53200
-5,Charghat,2,150,1450
-6,Durgapur,0,0,0
-7,Godagari,4,229,18655
-8,Mohanpur,4,38,28485
-9,Paba,10,470,25050
-10,Puthia,5,37,9612
-11,Rajshahi city corporation,0,0,0
-12,Tanore,0,0,0
-13,Total,39,1080,141392
+1,Rajshahi,,,
+2,,,,
+3,Upazila/city corporation,Number of insurance company,Number of employee,Number of client
+4,Bagha,6,60,4940
+5,Baghmara,8,96,53200
+6,Charghat,2,150,1450
+7,Durgapur,0,0,0
+8,Godagari,4,229,18655
+9,Mohanpur,4,38,28485
+10,Paba,10,470,25050
+11,Puthia,5,37,9612
+12,Rajshahi City Corporation,0,0,0
+13,Tanore,0,0,0
+14,Total,39,1080,141392

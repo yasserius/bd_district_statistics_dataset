@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of government primary school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila,Number of Govt. primary school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Dighinala,56,140,150,290,5526,5428,10954,38
-4,Khagrachhari Sadar,51,64,189,253,4652,4414,9066,36
-5,Laxshmichhari,15,36,27,63,1307,1249,2556,41
-6,Mahalchhari,32,58,78,132,3969,4039,8008,61
-7,Manikchhari,25,83,61,144,4049,4038,8087,56
-8,Matiranga,60,180,162,342,6364,6900,13264,39
-9,Panchhari,40,83,115,198,2580,2714,5294,27
-10,Ramgarh,41,108,105,213,3638,3786,7424,35
-11,Total,320,752,887,1635,32085,32568,64653,40
+1,Khagrachori,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of Govt. primary school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Dighinala,56,140,150,290,5526,5428,10954,38
+5,Khagrachori,51,64,189,253,4652,4414,9066,36
+6,Laxshmichhari,15,36,27,63,1307,1249,2556,41
+7,Mahalchhari,32,58,78,132,3969,4039,8008,61
+8,Manikchhari,25,83,61,144,4049,4038,8087,56
+9,Matiranga,60,180,162,342,6364,6900,13264,39
+10,Panchhari,40,83,115,198,2580,2714,5294,27
+11,Ramgarh,41,108,105,213,3638,3786,7424,35
+12,Total,320,752,887,1635,32085,32568,64653,40

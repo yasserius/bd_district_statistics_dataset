@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Government health complex and health facility 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2,Upazila Upazila Upazila 1,Number of hospital Number of hospital Number of hospital 2,Number of bed Number of bed Number of bed 3,Number of doctor Number of doctor Number of doctor 4,Number of nurse Number of nurse Number of nurse 5,Number of technician Number of technician Number of technician 6,Number of other staff Number of other staff Number of other staff 7,Number of patient under health facility Indoor Male 8,Number of patient under health facility Indoor Female 9,Number of patient under health facility Outdoor Male 10,Number of patient under health facility Outdoor Female 11
-3,Atgharia,1,31,9,7,8,16,1325,2129,6212,7409
-4,Bera,1,50,14,9,19,118,204,225,5320,5480
-5,Bhangura,1,31,4,8,1,12,1203,2475,25889,33681
-6,Chatmohar,1,50,27,16,2,140,2420,5184,24484,38746
-7,Faridpur,1,50,7,9,8,70,1310,2303,15315,20863
-8,Ishwardi,1,50,10,11,16,44,5761,8640,61311,90305
-9,Pabna Sadar,6,779,91,302,26,342,25801,28276,119840,111144
-10,Santhia,1,50,15,13,9,162,2742,4114,34573,42257
-11,Sujanagar,1,51,12,10,5,103,2936,3356,11239,16480
-12,Total,14,1142,189,385,94,1007,43702,56702,304183,366365
+1,Pabna,,,,,,,,,,
+2,,,,,,,,,,,
+3,Upazila Upazila Upazila 1,Number of hospital Number of hospital Number of hospital 2,Number of bed Number of bed Number of bed 3,Number of doctor Number of doctor Number of doctor 4,Number of nurse Number of nurse Number of nurse 5,Number of technician Number of technician Number of technician 6,Number of other staff Number of other staff Number of other staff 7,Number of patient under health facility Indoor Male 8,Number of patient under health facility Indoor Female 9,Number of patient under health facility Outdoor Male 10,Number of patient under health facility Outdoor Female 11
+4,Atgharia,1,31,9,7,8,16,1325,2129,6212,7409
+5,Bera,1,50,14,9,19,118,204,225,5320,5480
+6,Bhangura,1,31,4,8,1,12,1203,2475,25889,33681
+7,Chatmohar,1,50,27,16,2,140,2420,5184,24484,38746
+8,Faridpur,1,50,7,9,8,70,1310,2303,15315,20863
+9,Ishwardi,1,50,10,11,16,44,5761,8640,61311,90305
+10,Pabna Sadar,6,779,91,302,26,342,25801,28276,119840,111144
+11,Santhia,1,50,15,13,9,162,2742,4114,34573,42257
+12,Sujanagar,1,51,12,10,5,103,2936,3356,11239,16480
+13,Total,14,1142,189,385,94,1007,43702,56702,304183,366365

@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Number of employee by local Government institution 2011,,,,,
-1,,,,,,
-2,Upazila,City corporation,Municipality,Zila parishad,Upazila parishad,Union parishad
-3,Gazipur Sadar,0,298,29,6,72
-4,Kaliakair,0,28,0,463,99
-5,Kaliganj,0,42,2,0,77
-6,Kapashia,0,0,0,2,121
-7,Sreepur,0,53,0,216,96
-8,Total,0,421,31,687,465
+1,Gazipur,,,,,
+2,,,,,,
+3,Upazila,City corporation,Municipality,Zila parishad,Upazila parishad,Union parishad
+4,Gazipur Sadar,0,298,29,6,72
+5,Kaliakair,0,28,0,463,99
+6,Kaliganj,0,42,2,0,77
+7,Kapashia,0,0,0,2,121
+8,Sreepur,0,53,0,216,96
+9,Total,0,421,31,687,465

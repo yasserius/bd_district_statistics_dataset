@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Police personnel and criminal offences by municipality 2011,,,,,,
-1,,,,,,,
-2, Municipality,Police personnel,Criminal offence - Number of offence,Criminal offence - Number of case filled,Traffic accident (Reported) - Number of accident,Traffic accident (Reported) - Person killed,Traffic accident (Reported) - Person injured
-3,Bagatipara,31,163,163,1,1,0
-4,Baraigram,52,4,292,1,0,1
-5,Gurudaspur,42,249,249,2,3,2
-6,Lalpur,0,0,0,0,0,0
-7,Natore Sadar,40,561,561,84,42,90
-8,Singra,30,0,368,1,1,5
-9,Total,195,977,1633,89,47,98
+1,Natore,,,,,,
+2,,,,,,,
+3, Municipality,Police personnel,Criminal offence - Number of offence,Criminal offence - Number of case filled,Traffic accident (Reported) - Number of accident,Traffic accident (Reported) - Person killed,Traffic accident (Reported) - Person injured
+4,Bagatipara,31,163,163,1,1,0
+5,Baraigram,52,4,292,1,0,1
+6,Gurudaspur,42,249,249,2,3,2
+7,Lalpur,0,0,0,0,0,0
+8,Natore Sadar,40,561,561,84,42,90
+9,Singra,30,0,368,1,1,5
+10,Total,195,977,1633,89,47,98

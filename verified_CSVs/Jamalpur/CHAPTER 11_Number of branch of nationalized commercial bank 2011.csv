@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Bakshiganj,3,32,18430,2347
-4,Dewanganj,4,45,20553,2029
-5,Islampur,4,51,27175,1240
-6,Jamalpur Sadar,20,292,81812,9310
-7,Madarganj,4,38,45950,1488
-8,Melandaha,5,47,24328,685
-9,Sarishabari,13,105,66251,6784
-10,Total,53,610,284499,23883
+1,Jamalpur,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Bakshiganj,3,32,18430,2347
+5,Dewanganj,4,45,20553,2029
+6,Islampur,4,51,27175,1240
+7,Jamalpur Sadar,20,292,81812,9310
+8,Madarganj,4,38,45950,1488
+9,Melandaha,5,47,24328,685
+10,Sarishabari,13,105,66251,6784
+11,Total,53,610,284499,23883

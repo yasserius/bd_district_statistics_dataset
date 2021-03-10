@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of wheat, jute and sugarcane 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Lentil (Masur) - Area,Lentil (Masur) - Production,Mug - Area,Mug - Production,Maize - Area,Maize - Production
-3,Akkelpur,18,7,0,0,332,1125
-4,Joypurhat sadar,122,62,5,2,475,1276
-5,Kalai,6,2,0,0,0,0
-6,Khetlal,31,16,0,0,29,46
-7,Panchbibi,133,48,18,5,0,0
-8,Total,309,135,23,7,836,2447
+1,Joypurhat,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Lentil (Masur) - Area,Lentil (Masur) - Production,Mug - Area,Mug - Production,Maize - Area,Maize - Production
+4,Akkelpur,18,7,0,0,332,1125
+5,Joypurhat sadar,122,62,5,2,475,1276
+6,Kalai,6,2,0,0,0,0
+7,Khetlal,31,16,0,0,29,46
+8,Panchbibi,133,48,18,5,0,0
+9,Total,309,135,23,7,836,2447

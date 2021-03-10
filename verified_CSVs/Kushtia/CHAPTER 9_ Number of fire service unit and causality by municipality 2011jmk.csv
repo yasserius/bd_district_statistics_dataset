@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Number of fire service unit and causality by municipality 2011,,,,,,
-1,,,,,,,
-2, Municipality,Fire Service Unite, Persons employed, Fire case,Monetary loss (in Thousand Taka), Persons Dead, Persons injured
-3,Kushtia Sadar,1,29,138,1368500,2,0
-4,Bheramara,0,0,0,0,0,0
-5,Daulatpur,0,0,0,0,0,0
-6,Khoksa,0,0,0,0,0,0
-7,Kumarkhali,1,24,76,11076500,0,0
-8,Mirpur,1,19,224,49288000,2,0
-9,Total,3,72,438,61733000,4,0
+1,Kushtia,,,,,,
+2,,,,,,,
+3, Municipality,Fire Service Unite, Persons employed, Fire case,Monetary loss (in Thousand Taka), Persons Dead, Persons injured
+4,Kushtia Sadar,1,29,138,1368500,2,0
+5,Bheramara,0,0,0,0,0,0
+6,Daulatpur,0,0,0,0,0,0
+7,Khoksa,0,0,0,0,0,0
+8,Kumarkhali,1,24,76,11076500,0,0
+9,Mirpur,1,19,224,49288000,2,0
+10,Total,3,72,438,61733000,4,0

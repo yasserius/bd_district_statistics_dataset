@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Broad classification of area 2011,,,,
-1,(In sq. km.),,,,
-2,Upazila,Total area,Land area,Reserve forest,Riverine area
-3,Alikadam,885.77,235.68,650.09,0
-4,Bandarban Sadar,501.98,435.47,64.39,2.12
-5,Lama,671.83,321.53,349.26,1.04
-6,Naikhongchhari,463.60,264.87,198.73,0
-7,Rowangchhari,442.88,98.9,343.98,0
-8,Ruma,492.09,48.61,443.48,0
-9,Thanchi,1020.82,340.27,680.55,0
-10,Total,4479.01,1745.37,2730.48,3.16
+1,Bandarban,,,,
+2,(In sq. km.),,,,
+3,Upazila,Total area,Land area,Reserve forest,Riverine area
+4,Alikadam,885.77,235.68,650.09,0
+5,Bandarban Sadar,501.98,435.47,64.39,2.12
+6,Lama,671.83,321.53,349.26,1.04
+7,Naikhongchhari,463.60,264.87,198.73,0
+8,Rowangchhari,442.88,98.9,343.98,0
+9,Ruma,492.09,48.61,443.48,0
+10,Thanchi,1020.82,340.27,680.55,0
+11,Total,4479.01,1745.37,2730.48,3.16

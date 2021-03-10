@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,Broad Soil Classification 2008,,,,,,
-1,,,,,,,
-2,Upazila/city corporation,Total,Soil classification Doash,Soil classification Bele,Soil classification Etel,Soil classification Kankar,Soil classification Others
-3,Batiaghata,37944,42906,0,0,0,0
-4,Dacope,44497,42300,5640,21150,0,1410
-5,Dighalia,14783,1050,49,9509,1297,0
-6,Dumuria,79514,51382,30110,27262,0,2160
-7,Khulna City Corporation,17980,2143,168,449,0,73
-8,Koyra,41271,9406,4702,32914,0,0
-9,Paikgachha,57801,57737,19245,6415,0,3209
-10,Phultala,11716,865,0,5009,0,7919
-11,Rupsa,22384,14045,9172,3439,0,2007
-12,Terokhada,33871,11901,3753,3000,0,0
-13,Total,331261,233735,72839,109147,1297,16778
+1,Khulna,,,,,,
+2,,,,,,,
+3,Upazila/city corporation,Total,Soil classification Doash,Soil classification Bele,Soil classification Etel,Soil classification Kankar,Soil classification Others
+4,Batiaghata,37944,42906,0,0,0,0
+5,Dacope,44497,42300,5640,21150,0,1410
+6,Dighalia,14783,1050,49,9509,1297,0
+7,Dumuria,79514,51382,30110,27262,0,2160
+8,Khulna City Corporation,17980,2143,168,449,0,73
+9,Koyra,41271,9406,4702,32914,0,0
+10,Paikgachha,57801,57737,19245,6415,0,3209
+11,Phultala,11716,865,0,5009,0,7919
+12,Rupsa,22384,14045,9172,3439,0,2007
+13,Terokhada,33871,11901,3753,3000,0,0
+14,Total,331261,233735,72839,109147,1297,16778

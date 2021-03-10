@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,"Number of ward, mahalla and household by municipality 2011",,,,,
-1,(Rate in Taka),,,,,
-2,Upazila/ Municipality,Name of municipality,Total ward,Total mahalla,Total holding,Total household
-3,Bhola Sadar,Bhoia Sadar,9,29,16790,14200
-4,Burhanuddin,Burhanuddin,9,13,0,0
-5,Char Fasson,Char Fasson,9,9,29637,4500
-6,Daulatkhan,Daulat Khan,9,9,3510,0
-7,Lalmohan,Lalamohan,9,14,4798,0
-8,Total,,90,148,108670,18700
+1,Bhola,,,,,
+2,(Rate in Taka),,,,,
+3,Upazila/ Municipality,Name of municipality,Total ward,Total mahalla,Total holding,Total household
+4,Bhola Sadar,Bhoia Sadar,9,29,16790,14200
+5,Burhanuddin,Burhanuddin,9,13,0,0
+6,Char Fasson,Char Fasson,9,9,29637,4500
+7,Daulatkhan,Daulat Khan,9,9,3510,0
+8,Lalmohan,Lalamohan,9,14,4798,0
+9,Total,,90,148,108670,18700

@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Broad soil classification 2008,,,,,,
-1,,,,,,,
-2,Upazila,Total,Soil classification Doash,Soil classification Bele,Soil classification Etel,Soil classification Kankar,Soil classification Others
-3,Baliadangi,61947,59465,0,2482,0,0
-4,Haripur,43369,14405,2315,7385,0,19264
-5,Pirgonj,27027,10575,7410,9042,0,0
-6,Ranisankail,70073,48076,3020,9591,0,9386
-7,Thakurgaon Sadar,168579,126434,33716,3382,1685,3362
-8,Total,370995,258955,46461,31882,1685,32012
+1,Thakurgaon,,,,,,
+2,,,,,,,
+3,Upazila,Total,Soil classification Doash,Soil classification Bele,Soil classification Etel,Soil classification Kankar,Soil classification Others
+4,Baliadangi,61947,59465,0,2482,0,0
+5,Haripur,43369,14405,2315,7385,0,19264
+6,Pirgonj,27027,10575,7410,9042,0,0
+7,Ranisankail,70073,48076,3020,9591,0,9386
+8,Thakurgaon Sadar,168579,126434,33716,3382,1685,3362
+9,Total,370995,258955,46461,31882,1685,32012

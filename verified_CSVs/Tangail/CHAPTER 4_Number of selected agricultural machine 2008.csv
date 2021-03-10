@@ -1,17 +1,18 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,,,,
-2,Upazila,Number of power tiller,Tractor,Number of threshing machine
-3,Basail,29,212,743
-4,Bhuapur,90,54,2211
-5,Delduar,56,40,416
-6,Dhanbari,181,36,154
-7,Ghatail,340,91,615
-8,Gopalpur,341,72,8027
-9,Kalihati,133,93,456
-10,Madhupur,642,56,2562
-11,Mirzapur,79,248,885
-12,Nagarpur,179,84,1194
-13,Sakhipur,109,109,468
-14,Tangail Sadar,76,135,1426
-15,Total,2255,1230,19157
+1,Tangail,,,
+2,,,,
+3,Upazila,Number of power tiller,Tractor,Number of threshing machine
+4,Basail,29,212,743
+5,Bhuapur,90,54,2211
+6,Delduar,56,40,416
+7,Dhanbari,181,36,154
+8,Ghatail,340,91,615
+9,Gopalpur,341,72,8027
+10,Kalihati,133,93,456
+11,Madhupur,642,56,2562
+12,Mirzapur,79,248,885
+13,Nagarpur,179,84,1194
+14,Sakhipur,109,109,468
+15,Tangail Sadar,76,135,1426
+16,Total,2255,1230,19157

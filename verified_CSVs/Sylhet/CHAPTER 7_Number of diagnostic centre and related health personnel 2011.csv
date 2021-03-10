@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,,,,,,
-2,Upazila/City corporation,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Balaganj,5,7,0,8,5
-4,Beanibazar,5,5,10,10,15
-5,Bishwanath,4,55,0,12,20
-6,Companiganj,2,0,0,3,4
-7,Dakhin surma,2,7,4,10,13
-8,Fenchuganj,2,0,0,2,4
-9,Golapganj,3,3,0,8,8
-10,Gowainghat,1,0,0,1,3
-11,Jaintiapur,2,1,0,4,5
-12,Kanaighat,2,2,0,3,7
-13,Sylhet city corporation,39,152,6,164,611
-14,Sylhet sadar,30,77,50,12,105
-15,Zakiganj,2,3,0,3,6
-16,Total,99,312,70,240,806
+1,Sylhet,,,,,
+2,,,,,,
+3,Upazila/City Corporation,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Balaganj,5,7,0,8,5
+5,Beanibazar,5,5,10,10,15
+6,Bishwanath,4,55,0,12,20
+7,Companiganj,2,0,0,3,4
+8,Dakhin Surma,2,7,4,10,13
+9,Fenchuganj,2,0,0,2,4
+10,Golapganj,3,3,0,8,8
+11,Gowainghat,1,0,0,1,3
+12,Jaintiapur,2,1,0,4,5
+13,Kanaighat,2,2,0,3,7
+14,Sylhet City Corporation,39,152,6,164,611
+15,Sylhet Sadar,30,77,50,12,105
+16,Zakiganj,2,3,0,3,6
+17,Total,99,312,70,240,806

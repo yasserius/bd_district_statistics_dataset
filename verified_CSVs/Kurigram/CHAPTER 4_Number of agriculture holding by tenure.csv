@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
-1,(According to Agriculture Census 2008),,,,
-2,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
-3,Bhurungamari,32907,31653,13340,6026
-4,Char Rajibpur,10009,7840,4284,3684
-5,Chilmari,15874,18186,6484,4083
-6,Kurigram Sadar,32763,45691,11935,6487
-7,Nageshwari,52215,53541,21410,9963
-8,Phulbari,24086,24924,10343,2691
-9,Rajarhat,24472,29288,8085,4996
-10,Raumari,28035,28500,11324,7299
-11,Ulipur,55315,62672,24198,10785
-12,Total,275676,302295,111404,56014
+1,Kurigram,,,,
+2,(According to Agriculture Census 2008),,,,
+3,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
+4,Bhurungamari,32907,31653,13340,6026
+5,Char Rajibpur,10009,7840,4284,3684
+6,Chilmari,15874,18186,6484,4083
+7,Kurigram Sadar,32763,45691,11935,6487
+8,Nageshwari,52215,53541,21410,9963
+9,Phulbari,24086,24924,10343,2691
+10,Rajarhat,24472,29288,8085,4996
+11,Raumari,28035,28500,11324,7299
+12,Ulipur,55315,62672,24198,10785
+13,Total,275676,302295,111404,56014

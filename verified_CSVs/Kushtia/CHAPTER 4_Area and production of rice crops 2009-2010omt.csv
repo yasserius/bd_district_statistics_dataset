@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,4.18 Area and production of rice crops 2009-2010,,,,,,
-1,(Area in acre  production in metric ton),,,,,,
-2, Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
-3,Kushtia Sadar,29329,34963,45497,47448,28466,43062
-4,Bheramara,3680,2408,12581,13296,4424,7213
-5,Daulatpur,21689,10403,42188,48044,8437,1743
-6,Khoksa,5495,4083,12750,14191,5261,8491
-7,Kumarkhali,17696,19183,31418,38697,14729,22813
-8,Mirpur,29590,34086,50910,51619,13621,26111
-9,Total,107479,105126,195344,213295,74938,109433
+1,Kushtia,,,,,,
+2,(Area in acre  production in metric ton),,,,,,
+3,Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
+4,Kushtia Sadar,29329,34963,45497,47448,28466,43062
+5,Bheramara,3680,2408,12581,13296,4424,7213
+6,Daulatpur,21689,10403,42188,48044,8437,1743
+7,Khoksa,5495,4083,12750,14191,5261,8491
+8,Kumarkhali,17696,19183,31418,38697,14729,22813
+9,Mirpur,29590,34086,50910,51619,13621,26111
+10,Total,107479,105126,195344,213295,74938,109433

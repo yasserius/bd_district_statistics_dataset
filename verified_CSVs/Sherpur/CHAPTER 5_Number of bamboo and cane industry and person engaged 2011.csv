@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of bamboo and cane industry and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Jhenaigati,60,60,32,92
-4,Nakla,278,834,0,834
-5,Nalitabari,51,180,53,233
-6,Sherpur Sadar,713,713,0,713
-7,Sreebardi,320,680,0,680
-8,Total,1422,2467,85,2552
+1,Sherpur,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Jhenaigati,60,60,32,92
+5,Nakla,278,834,0,834
+6,Nalitabari,51,180,53,233
+7,Sherpur Sadar,713,713,0,713
+8,Sreebardi,320,680,0,680
+9,Total,1422,2467,85,2552

@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Area and production of turmeric and ginger 2009-10,,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,Turmeric Area,Turmeric Production,Ginger Area,Ginger Production
-3,Alikadam,95,280,100,180
-4,Bandarban Sadar,95,171,375,331
-5,Lama,0,510,153,469
-6,Naikhongchhari,46,1046,35,26
-7,Rowangchhari,48,94,78,198
-8,Ruma,330,1020,605,469
-9,Thanchi,15,31,35,86
-10,Total,1025,4927,1386,2178
+1,Bandarban,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,Turmeric Area,Turmeric Production,Ginger Area,Ginger Production
+4,Alikadam,95,280,100,180
+5,Bandarban Sadar,95,171,375,331
+6,Lama,0,510,153,469
+7,Naikhongchhari,46,1046,35,26
+8,Rowangchhari,48,94,78,198
+9,Ruma,330,1020,605,469
+10,Thanchi,15,31,35,86
+11,Total,1025,4927,1386,2178

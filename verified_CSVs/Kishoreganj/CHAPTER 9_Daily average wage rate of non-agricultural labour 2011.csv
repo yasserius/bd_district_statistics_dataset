@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5
 0,Daily average wage rate of non-agricultural labour 2011,,,,,
-1,(Wage in Taka),,,,,
-2, Upazila,Porter (coolee),Garden Male Labour,Garden Female Labour,Other Labour (Adult),Other Labour (Child)
-3,Austagram,170,0,0,300,140
-4,Bajitpur,400,220,180,230,100
-5,Bhairab,450,0,0,300,150
-6,Hossainpur,250,0,0,300,150
-7,Itna,400,0,0,300,150
-8,Karimganj,400,0,0,300,140
-9,Katiadi,470,250,0,270,120
-10,Kishoreganj Sadar,300,240,210,200,140
-11,Kuliar-char,350,200,130,150,75
-12,Mithamain,400,300,200,300,100
-13,Nikli,100,150,150,200,150
-14,Pakundia,350,250,150,350,150
-15,Tarail,350,0,0,300,120
-16,Total,4390,1610,1020,3500,1685
+1,Kishoreganj,,,,,
+2,(Wage in Taka),,,,,
+3, Upazila,Porter (coolee),Garden Male Labour,Garden Female Labour,Other Labour (Adult),Other Labour (Child)
+4,Austagram,170,0,0,300,140
+5,Bajitpur,400,220,180,230,100
+6,Bhairab,450,0,0,300,150
+7,Hossainpur,250,0,0,300,150
+8,Itna,400,0,0,300,150
+9,Karimganj,400,0,0,300,140
+10,Katiadi,470,250,0,270,120
+11,Kishoreganj Sadar,300,240,210,200,140
+12,Kuliar-char,350,200,130,150,75
+13,Mithamain,400,300,200,300,100
+14,Nikli,100,150,150,200,150
+15,Pakundia,350,250,150,350,150
+16,Tarail,350,0,0,300,120
+17,Total,4390,1610,1020,3500,1685

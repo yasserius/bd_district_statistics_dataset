@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,"Occurrence of river erosion in the following years 2008-2011 (Yes, No)",,,,
-1,,,,,
-2,Upazila/city corporation,2008,2009,2010,2011
-3,Bagha,Yes,Yes,Yes,Yes
-4,Baghmara,No,No,No,No
-5,Charghat,Yes,No,No,No
-6,Durgapur,No,No,No,No
-7,Godagari,Yes,Yes,Yes,Yes
-8,Mohanpur,Yes,No,No,Yes
-9,Paba,No,No,No,No
-10,Puthia,No,No,No,No
-11,Rajshahi city corporation,No,No,No,No
-12,Tanore,No,No,No,No
+1,Rajshahi,,,,
+2,,,,,
+3,Upazila/city corporation,2008,2009,2010,2011
+4,Bagha,Yes,Yes,Yes,Yes
+5,Baghmara,No,No,No,No
+6,Charghat,Yes,No,No,No
+7,Durgapur,No,No,No,No
+8,Godagari,Yes,Yes,Yes,Yes
+9,Mohanpur,Yes,No,No,Yes
+10,Paba,No,No,No,No
+11,Puthia,No,No,No,No
+12,Rajshahi City Corporation,No,No,No,No
+13,Tanore,No,No,No,No

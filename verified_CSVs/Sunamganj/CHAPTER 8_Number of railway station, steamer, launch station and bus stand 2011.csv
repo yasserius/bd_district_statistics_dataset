@@ -1,16 +1,17 @@
 ,0,1,2,3
 0,"Number of railway station, steamer, launch station and bus stand 2011",,,
-1,,,,
-2,Upazila,Railway station,Steamer/launch station,Bus stand
-3,Bishwamvarpur,0,0,1
-4,Chhatak,2,1,1
-5,Dakshin Sunamganj,0,0,1
-6,Derai,0,0,1
-7,Dharmapasha,0,2,1
-8,Doarabazar,0,1,1
-9,Jagannathpur,0,3,1
-10,Jamalganj,0,4,1
-11,Shalla,0,3,1
-12,Sunamganj Sadar,0,1,1
-13,Tahirpur,0,0,1
-14,Total,2,18,12
+1,Sunamganj,,,
+2,,,,
+3,Upazila,Railway station,Steamer/launch station,Bus stand
+4,Bishwamvarpur,0,0,1
+5,Chhatak,2,1,1
+6,Dakshin Sunamganj,0,0,1
+7,Derai,0,0,1
+8,Dharmapasha,0,2,1
+9,Doarabazar,0,1,1
+10,Jagannathpur,0,3,1
+11,Jamalganj,0,4,1
+12,Shalla,0,3,1
+13,Sunamganj Sadar,0,1,1
+14,Tahirpur,0,0,1
+15,Total,2,18,12

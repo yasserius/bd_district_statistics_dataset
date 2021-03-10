@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,Irrigation by means 2010-2011,,,,,,,
-1,(In acre),,,,,,,
-2,Upazila,Irrigation management Power pump,Irrigation management Tube well,Irrigation management Doon,Irrigation management Swing basket,Irrigation management Canal,Irrigation management Others,Total
-3,Baliadangi,0,61947,0,0,0,0,61947
-4,Haripur,0,600,400,50,0,0,1050
-5,Pirgonj,498,63480,580,378,0,0,64936
-6,Ranisankail,0,49500,0,0,0,0,49500
-7,Thakurgaon Sadar,240,39340,90,70,0,100,39840
-8,Total,738,214867,1070,498,0,100,217273
+1,Thakurgaon,,,,,,,
+2,(In acre),,,,,,,
+3,Upazila,Irrigation management Power pump,Irrigation management Tube well,Irrigation management Doon,Irrigation management Swing basket,Irrigation management Canal,Irrigation management Others,Total
+4,Baliadangi,0,61947,0,0,0,0,61947
+5,Haripur,0,600,400,50,0,0,1050
+6,Pirgonj,498,63480,580,378,0,0,64936
+7,Ranisankail,0,49500,0,0,0,0,49500
+8,Thakurgaon Sadar,240,39340,90,70,0,100,39840
+9,Total,738,214867,1070,498,0,100,217273

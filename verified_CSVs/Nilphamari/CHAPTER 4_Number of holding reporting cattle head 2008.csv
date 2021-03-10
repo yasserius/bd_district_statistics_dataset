@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting cattle head 2008,,,,,,
-1,,,,,,,
-2, Upazila, Total holding,Number of holding based on cattle heads - 1-3 head,Number of holding based on cattle heads - 4-6 head,Number of holding based on cattle heads - 7 -9 head,Number of holding based on cattle heads - 10-15 head,Number of holding based on cattle heads - 15 head  above
-3,Dimla,52724,34664,12220,4200,1520,140
-4,Domar,20891,12862,4490,1514,1225,800
-5,Jaldhaka,72438,32000,17568,12000,10000,870
-6,Kishorgonj,60260,25910,21700,7230,3615,1805
-7,Nilphamary Sadar,24704,17047,6400,1200,45,12
-8,Sayedpur,53760,23125,19350,6450,3225,1610
-9,Total,284777,145608,81728,32594,19630,5237
+1,Nilphamari,,,,,,
+2,,,,,,,
+3,Upazila, Total holding,Number of holding based on cattle heads - 1-3 head,Number of holding based on cattle heads - 4-6 head,Number of holding based on cattle heads - 7 -9 head,Number of holding based on cattle heads - 10-15 head,Number of holding based on cattle heads - 15 head  above
+4,Dimla,52724,34664,12220,4200,1520,140
+5,Domar,20891,12862,4490,1514,1225,800
+6,Joldhaka,72438,32000,17568,12000,10000,870
+7,Kishorgonj,60260,25910,21700,7230,3615,1805
+8,Nilphamary Sadar,24704,17047,6400,1200,45,12
+9,Sayedpur,53760,23125,19350,6450,3225,1610
+10,Total,284777,145608,81728,32594,19630,5237

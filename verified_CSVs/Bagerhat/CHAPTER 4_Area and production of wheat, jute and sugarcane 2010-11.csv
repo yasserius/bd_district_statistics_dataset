@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of wheat, jute and sugarcane 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Wheat - Area,Wheat - Production,Jute - Area,Jute - Production,Sugarcane - Area,Sugarcane - Production
-3,Bagerhat Sadar,12,12,3,1,116,1383
-4,Kachua,91,75,0,0,222,457
-5,Rampal,0,0,0,0,10,15
-6,Sarankhola,19,19,0,0,45,921
-7,Chitalmari,49,28,1269,1336,77,720
-8,Morrelgonj,0,0,0,0,141,2185
-9,Mongla,0,0,0,0,0,0
-10,Mollahat,252,234,1755,1467,697,8480
-11,Fakirhat,26,21,7,5,53,397
-12,Total,449,389,3034,2809,1361,14558
+1,Bagerhat,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Wheat - Area,Wheat - Production,Jute - Area,Jute - Production,Sugarcane - Area,Sugarcane - Production
+4,Bagerhat Sadar,12,12,3,1,116,1383
+5,Kachua,91,75,0,0,222,457
+6,Rampal,0,0,0,0,10,15
+7,Sharonkhola,19,19,0,0,45,921
+8,Chitolmari,49,28,1269,1336,77,720
+9,Morrelgonj,0,0,0,0,141,2185
+10,Mongla,0,0,0,0,0,0
+11,Mollahat,252,234,1755,1467,697,8480
+12,Fakirhat,26,21,7,5,53,397
+13,Total,449,389,3034,2809,1361,14558

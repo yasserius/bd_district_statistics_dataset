@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Belabo,1,3,970,0
-4,Manohardi,1,15,5000,400
-5,Narsingdi Sadar,24,458,107781,18090
-6,Palash,3,57,21909,2292
-7,Roypura,0,0,0,0
-8,Sibpur,12,97,1345,52034
-9,Total,41,630,137005,72816
+1,Narsingdi,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Belabo,1,3,970,0
+5,Manohardi,1,15,5000,400
+6,Narsingdi Sadar,24,458,107781,18090
+7,Palash,3,57,21909,2292
+8,Roypura,0,0,0,0
+9,Shibpur,12,97,1345,52034
+10,Total,41,630,137005,72816

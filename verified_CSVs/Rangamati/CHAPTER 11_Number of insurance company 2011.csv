@@ -1,15 +1,16 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,,,,
-2,Upazila,Number of insurance company,Number of employee,Number of client
-3,Baghaichhari,1,7,100
-4,Barkal,0,0,0
-5,Belai Chhari,0,0,0
-6,Jurai Chhari,0,0,0
-7,Kaptai,0,0,0
-8,Kawkhali,6,13,1226
-9,Langadu,0,0,0
-10,Naniarchar,0,0,0
-11,Rangamati Sadar,12,42,7912
-12,Rajasthali,0,0,0
-13,Total,19,62,9238
+1,Rangamati,,,
+2,,,,
+3,Upazila,Number of insurance company,Number of employee,Number of client
+4,Baghaichhari,1,7,100
+5,Barkal,0,0,0
+6,Belai Chhari,0,0,0
+7,Jurai Chhari,0,0,0
+8,Kaptai,0,0,0
+9,Kawkhali,6,13,1226
+10,Langadu,0,0,0
+11,Naniarchar,0,0,0
+12,Rangamati Sadar,12,42,7912
+13,Rajasthali,0,0,0
+14,Total,19,62,9238

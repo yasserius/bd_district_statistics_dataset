@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6
 0,Institutional accommodation facility by municipality 2011,,,,,,
-1,,,,,,,
-2,Municipality,Residential hostel Number,Residential hostel Capacity,Hall/Hostel Number,Hall/Hostel Capacity,Mess/Barracks Number,Mess/Barracks Capacity
-3,Khagrachhari Sadar,16,1554,1,100,2,500
-4,Matiranga,3,45,5,150,30,6000
-5,Ramgarh,3,46,1,30,17,358
-6,Total,22,1645,7,280,49,6858
+1,Khagrachori,,,,,,
+2,,,,,,,
+3,Municipality,Residential hostel Number,Residential hostel Capacity,Hall/Hostel Number,Hall/Hostel Capacity,Mess/Barracks Number,Mess/Barracks Capacity
+4,Khagrachori,16,1554,1,100,2,500
+5,Matiranga,3,45,5,150,30,6000
+6,Ramgarh,3,46,1,30,17,358
+7,Total,22,1645,7,280,49,6858

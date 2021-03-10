@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of cinema hall and audience capacity by municipality 2011,,,,
-1,,,,,
-2,Municipality,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
-3,Jhenaigati,0,0,0,0
-4,Nakla,2,765,3,382
-5,Nalitabari,2,700,4,350
-6,Sherpur,5,650,3,800
-7,Sreebardi,1,399,3,100
-8,Total,10,2514,13,1632
+1,Sherpur,,,,
+2,,,,,
+3,Municipality,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
+4,Jhenaigati,0,0,0,0
+5,Nakla,2,765,3,382
+6,Nalitabari,2,700,4,350
+7,Sherpur,5,650,3,800
+8,Sreebardi,1,399,3,100
+9,Total,10,2514,13,1632

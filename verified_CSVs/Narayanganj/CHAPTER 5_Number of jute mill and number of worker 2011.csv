@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,Number of jute mill and number of worker 2011,,,,,,,
-1,,,,,,,,
-2, Upazila,Number of mill,Number of loom (installed),Number of loom - Operative,Number of loom - Non- operational,Number of worker - permanent,Number of worker - Temporary,Number of worker - Total
-3,Araihazar,0,0,0,0,0,0,0
-4,Bandar,0,0,0,0,0,0,0
-5,Narayanganj Sadar,0,0,0,0,0,0,0
-6,Rupganj,4,950,297,653,378,1512,1890
-7,Sonargaon,1,250,250,0,400,300,700
-8,Total,5,1200,547,653,778,1812,2590
+1,Narayanganj,,,,,,,
+2,,,,,,,,
+3, Upazila,Number of mill,Number of loom (installed),Number of loom - Operative,Number of loom - Non- operational,Number of worker - permanent,Number of worker - Temporary,Number of worker - Total
+4,Araihazar,0,0,0,0,0,0,0
+5,Bandar,0,0,0,0,0,0,0
+6,Narayanganj Sadar,0,0,0,0,0,0,0
+7,Rupganj,4,950,297,653,378,1512,1890
+8,Sonargaon,1,250,250,0,400,300,700
+9,Total,5,1200,547,653,778,1812,2590

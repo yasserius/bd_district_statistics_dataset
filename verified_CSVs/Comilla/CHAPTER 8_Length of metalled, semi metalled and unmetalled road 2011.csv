@@ -1,21 +1,22 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
-1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
-3,Adarsha Sadar,275,145,241,661
-4,Barura,249,12,540,801
-5,Brahmanpara,73,11,270,354
-6,Burichang,120,45,430,595
-7,Chandina,122.94,34.58,471.26,629
-8,Chauddagram,1184,25,960,2169
-9,Comilla Sadar Dakshin,432,16,489,938
-10,Daudkandi,80,40,400,520
-11,Debidwar,147,13,334,494
-12,Homna,107,0,155,262
-13,Laksam,96,8,206,310
-14,Monoharganj,110.8,13.6,419.6,544
-15,Meghna,17.03,15,186.69,219
-16,Muradnagar,429,15,240,684
-17,Nangalkot,325.94,29.75,452.83,808
-18,Titas,66,3,160,229
-19,Total,3834.71,425.93,5955.38,10217
+1,Comilla,,,,
+2,(Kilometer),,,,
+3,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
+4,Adarsha Sadar,275,145,241,661
+5,Barura,249,12,540,801
+6,Brahmanpara,73,11,270,354
+7,Burichang,120,45,430,595
+8,Chandina,122.94,34.58,471.26,629
+9,Chauddagram,1184,25,960,2169
+10,Comilla Sadar Dakshin,432,16,489,938
+11,Daudkandi,80,40,400,520
+12,Debidwar,147,13,334,494
+13,Homna,107,0,155,262
+14,Laksam,96,8,206,310
+15,Monoharganj,110.8,13.6,419.6,544
+16,Meghna,17.03,15,186.69,219
+17,Muradnagar,429,15,240,684
+18,Nangalkot,325.94,29.75,452.83,808
+19,Titas,66,3,160,229
+20,Total,3834.71,425.93,5955.38,10217

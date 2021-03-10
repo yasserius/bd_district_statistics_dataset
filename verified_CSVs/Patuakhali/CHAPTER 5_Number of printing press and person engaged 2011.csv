@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of printing press and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Bauphal,0,0,0,0
-4,Dashmina,0,0,0,0
-5,Dumki,0,0,0,0
-6,Galachipa,3,6,3,9
-7,Kalapara,4,7,16,23
-8,Mirzaganj,0,0,0,0
-9,Patuakhali Sadar,8,12,29,41
-10,Total,15,25,48,73
+1,Patuakhali,,,,
+2,,,,,
+3,Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Bauphal,0,0,0,0
+5,Dashmina,0,0,0,0
+6,Dumki,0,0,0,0
+7,Galachipa,3,6,3,9
+8,Kalapara,4,7,16,23
+9,Mirzaganj,0,0,0,0
+10,Patuakhali Sadar,8,12,29,41
+11,Total,15,25,48,73

@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Bagerhat Sadar,5,100,32053,4248
-4,Kachua,0,0,0,0
-5,Rampal,0,0,0,0
-6,Sarankhola,0,0,0,0
-7,Chitalmari,2,16,211,160
-8,Morrelgonj,1,23,16000,1278
-9,Mongla,2,41,14988,1871
-10,Mollahat,2,8,1000,700
-11,Fakirhat,0,0,0,0
-12,Total,12,188,64252,8257
+1,Bagerhat,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Bagerhat Sadar,5,100,32053,4248
+5,Kachua,0,0,0,0
+6,Rampal,0,0,0,0
+7,Sharonkhola,0,0,0,0
+8,Chitolmari,2,16,211,160
+9,Morrelgonj,1,23,16000,1278
+10,Mongla,2,41,14988,1871
+11,Mollahat,2,8,1000,700
+12,Fakirhat,0,0,0,0
+13,Total,12,188,64252,8257

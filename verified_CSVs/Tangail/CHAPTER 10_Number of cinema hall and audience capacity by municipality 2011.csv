@@ -1,17 +1,18 @@
 ,0,1,2,3,4
 0,Number of cinema hall and audience capacity by municipality 2011,,,,
-1,,,,,
-2,Municipality,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
-3,Basail,0,0,0,0
-4,Bhuapur,1,200,3,360
-5,Delduar,0,0,0,0
-6,Dhanbari,2,400,3,80
-7,Ghatail,3,1800,3,900
-8,Gopalpur,2,435,3,45
-9,Kalihati,1,200,3,50
-10,Madhupur,3,1000,3,210
-11,Mirzapur,0,0,0,0
-12,Nagarpur,0,0,0,0
-13,Sakhipur,1,120,2,45
-14,Tangail Sadar,2,1550,4,275
-15,Total,15,5705,24,1965
+1,Tangail,,,,
+2,,,,,
+3,Municipality,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
+4,Basail,0,0,0,0
+5,Bhuapur,1,200,3,360
+6,Delduar,0,0,0,0
+7,Dhanbari,2,400,3,80
+8,Ghatail,3,1800,3,900
+9,Gopalpur,2,435,3,45
+10,Kalihati,1,200,3,50
+11,Madhupur,3,1000,3,210
+12,Mirzapur,0,0,0,0
+13,Nagarpur,0,0,0,0
+14,Sakhipur,1,120,2,45
+15,Tangail Sadar,2,1550,4,275
+16,Total,15,5705,24,1965

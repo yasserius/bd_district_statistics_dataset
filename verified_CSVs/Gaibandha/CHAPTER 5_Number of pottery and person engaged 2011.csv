@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of pottery and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Fulchhari,26,52,26,78
-4,Gaibandha Sadar,110,335,0,335
-5,Gobindaganj,165,412,0,412
-6,Palashbari,376,810,0,810
-7,Sadullapur,20,42,0,42
-8,Saghata,46,92,92,184
-9,Sundarganj,50,200,100,300
-10,Total,793,1943,218,2161
+1,Gaibandha,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Fulchhari,26,52,26,78
+5,Gaibandha Sadar,110,335,0,335
+6,Gobindaganj,165,412,0,412
+7,Palashbari,376,810,0,810
+8,Sadullapur,20,42,0,42
+9,Saghata,46,92,92,184
+10,Sundarganj,50,200,100,300
+11,Total,793,1943,218,2161

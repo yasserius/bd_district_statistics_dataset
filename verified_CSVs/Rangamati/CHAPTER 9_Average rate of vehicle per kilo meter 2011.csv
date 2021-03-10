@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5
 0,Average rate of vehicle per kilo meter 2011,,,,,
-1,(Rate in taka),,,,,
-2, Upazila,Vehicle - Rickshaw,Vehicle - Rickshaw van,Vehicle - Easy bike,Vehicle - Auto rickshaw,Vehicle - Tempo
-3,Baghaichhari,20,50,10,10,5
-4,Barkal,0,0,0,0,0
-5,Belai Chhari,0,0,0,0,0
-6,Jurai Chhari,0,0,0,10,0
-7,Kaptai,10,20,0,12,3
-8,Kawkhali,5,0,0,2,0
-9,Langadu,10,100,0,0,0
-10,Naniarchar,0,0,5,0,4
-11,Rangamati Sadar,0,0,0,6,0
-12,Rajasthali,20,0,0,10,0
-13,Average,13,57,8,8,4
+1,Rangamati,,,,,
+2,(Rate in taka),,,,,
+3, Upazila,Vehicle - Rickshaw,Vehicle - Rickshaw van,Vehicle - Easy bike,Vehicle - Auto rickshaw,Vehicle - Tempo
+4,Baghaichhari,20,50,10,10,5
+5,Barkal,0,0,0,0,0
+6,Belai Chhari,0,0,0,0,0
+7,Jurai Chhari,0,0,0,10,0
+8,Kaptai,10,20,0,12,3
+9,Kawkhali,5,0,0,2,0
+10,Langadu,10,100,0,0,0
+11,Naniarchar,0,0,5,0,4
+12,Rangamati Sadar,0,0,0,6,0
+13,Rajasthali,20,0,0,10,0
+14,Average,13,57,8,8,4

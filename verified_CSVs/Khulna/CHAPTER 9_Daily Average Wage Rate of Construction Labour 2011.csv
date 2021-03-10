@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Daily Average Wage Rate of Construction Labour 2011,,,,,,
-1,(Rate in Taka),,,,,,
-2,Upazila/City corporation,Labour Mason,Labour Helper (Jogaly),Labour Carpenter,Labour Colour mistree,Labour Electric mistree,Labour Plumber mistree
-3,Batiaghata,300,250,300,250,300,300
-4,Dacope,300,200,300,250,250,300
-5,Dighalia,350,250,300,300,425,350
-6,Dumuria,300,200,250,300,300,250
-7,Khulna City Corporation,350,250,350,350,380,350
-8,Koyra,300,230,250,250,300,250
-9,Paikgachha,300,200,300,300,350,400
-10,Phultala,300,200,200,200,250,300
-11,Rupsa,300,200,300,250,400,400
-12,Average,300,200,250,300,350,300
+1,Khulna,,,,,,
+2,(Rate in Taka),,,,,,
+3,Upazila/City corporation,Labour Mason,Labour Helper (Jogaly),Labour Carpenter,Labour Colour mistree,Labour Electric mistree,Labour Plumber mistree
+4,Batiaghata,300,250,300,250,300,300
+5,Dacope,300,200,300,250,250,300
+6,Dighalia,350,250,300,300,425,350
+7,Dumuria,300,200,250,300,300,250
+8,Khulna City Corporation,350,250,350,350,380,350
+9,Koyra,300,230,250,250,300,250
+10,Paikgachha,300,200,300,300,350,400
+11,Phultala,300,200,200,200,250,300
+12,Rupsa,300,200,300,250,400,400
+13,Average,300,200,250,300,350,300

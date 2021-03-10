@@ -1,14 +1,15 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,,,,
-2,Upazila,Number of power tiller,Tractor,Number of threshing machine
-3,Alfadanga,88,6,1242
-4,Bhanga,624,10,250
-5,Boalmari,790,19,2200
-6,Charbhadrashon,205,5,77
-7,Faridpur Sadar,425,11,2150
-8,Madhukhali,110,6,265
-9,Nagarkanda,258,44,332
-10,Sadarpur,834,3,75
-11,Saltha,160,5,1320
-12,Total,3494,109,7911
+1,Faridpur,,,
+2,,,,
+3,Upazila,Number of power tiller,Tractor,Number of threshing machine
+4,Alfadanga,88,6,1242
+5,Bhanga,624,10,250
+6,Boalmari,790,19,2200
+7,Charbhadrashon,205,5,77
+8,Faridpur Sadar,425,11,2150
+9,Madhukhali,110,6,265
+10,Nagarkanda,258,44,332
+11,Sadarpur,834,3,75
+12,Saltha,160,5,1320
+13,Total,3494,109,7911

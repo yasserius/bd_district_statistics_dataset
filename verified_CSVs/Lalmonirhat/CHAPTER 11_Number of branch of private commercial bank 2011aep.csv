@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Aditmari,0,0,0,0
-4,Hatibandha,0,0,0,0
-5,Kaligonj,1,6,2500,200
-6,Lalmonirhat Sadar,2,25,4474,2721
-7,Patgram,3,31,3817,1279
-8,Total,6,62,10791,4200
+1,Lalmonirhat,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Aditmari,0,0,0,0
+5,Hatibandha,0,0,0,0
+6,Kaligonj,1,6,2500,200
+7,Lalmonirhat Sadar,2,25,4474,2721
+8,Patgram,3,31,3817,1279
+9,Total,6,62,10791,4200

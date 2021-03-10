@@ -1,20 +1,21 @@
 ,0,1,2,3,4,5,6
 0,Police personnel and criminal offences by municipality 2011,,,,,,
-1,,,,,,,
-2,Upazila/City corporation,Police personnel,Criminal offence - Number of offence,Criminal offence - Number of case filled,Traffic accident (Reported) - Number of accident,Traffic accident (Reported) - Person killed,Traffic accident (Reported) - Person injured
-3,Anowara,0,0,0,0,0,0
-4,Banshkhali,138,367,367,80,70,280
-5,Boalkhali,0,0,0,0,0,0
-6,Chandanaish,28,180,150,3,4,12
-7,Chittagong City Corp.,4561,69878,4126,23,17,67
-8,Fatikchhari,44,129,129,1,1,0
-9,Hathazari,0,0,0,0,0,0
-10,Lohagara,0,0,0,0,0,0
-11,Mirsharai,49,35,35,4,2,3
-12,Patiya,0,0,0,0,0,0
-13,Rangunia,27,0,0,9,3,7
-14,Raozan,31,152,152,1,0,1
-15,Sandwip,0,0,0,0,0,0
-16,Satkania,49,323,323,3,2,2
-17,Sitakunda,68,1200,480,18,22,42
-18,Total,4995,72264,5762,142,121,414
+1,Chittagong,,,,,,
+2,,,,,,,
+3,Upazila/City corporation,Police personnel,Criminal offence - Number of offence,Criminal offence - Number of case filled,Traffic accident (Reported) - Number of accident,Traffic accident (Reported) - Person killed,Traffic accident (Reported) - Person injured
+4,Anowara,0,0,0,0,0,0
+5,Banshkhali,138,367,367,80,70,280
+6,Boalkhali,0,0,0,0,0,0
+7,Chandanaish,28,180,150,3,4,12
+8,Chittagong City Corporation,4561,69878,4126,23,17,67
+9,Fatikchhari,44,129,129,1,1,0
+10,Hathazari,0,0,0,0,0,0
+11,Lohagara,0,0,0,0,0,0
+12,Mirsharai,49,35,35,4,2,3
+13,Patiya,0,0,0,0,0,0
+14,Rangunia,27,0,0,9,3,7
+15,Raozan,31,152,152,1,0,1
+16,Sandwip,0,0,0,0,0,0
+17,Satkania,49,323,323,3,2,2
+18,Sitakunda,68,1200,480,18,22,42
+19,Total,4995,72264,5762,142,121,414

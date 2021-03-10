@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of wheat, jute and sugarcane 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Wheat - Area,Wheat - Production,Jute - Area,Jute - Production,Sugarcane - Area,Sugarcane - Production
-3,Baghaichhari,0,0,1,0.88,62,11
-4,Barkal,0,0,0,0,34,345
-5,Belai Chhari,0,0,0,0,13,225
-6,Jurai Chhari,0,0,0,0,27,57
-7,Kaptai,0,0,0,0,237,478
-8,Kawkhali,0,0,0,0,62,1704
-9,Langadu,0,0,0,0,13,195
-10,Naniarchar,0,0,0,0,89,933
-11,Rangamati Sadar,0,0,0,0,28,422
-12,Rajasthali,0,0,0,0,11,542
-13,Total,0,0,1,0.88,576,4912
+1,Rangamati,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Wheat - Area,Wheat - Production,Jute - Area,Jute - Production,Sugarcane - Area,Sugarcane - Production
+4,Baghaichhari,0,0,1,0.88,62,11
+5,Barkal,0,0,0,0,34,345
+6,Belai Chhari,0,0,0,0,13,225
+7,Jurai Chhari,0,0,0,0,27,57
+8,Kaptai,0,0,0,0,237,478
+9,Kawkhali,0,0,0,0,62,1704
+10,Langadu,0,0,0,0,13,195
+11,Naniarchar,0,0,0,0,89,933
+12,Rangamati Sadar,0,0,0,0,28,422
+13,Rajasthali,0,0,0,0,11,542
+14,Total,0,0,1,0.88,576,4912

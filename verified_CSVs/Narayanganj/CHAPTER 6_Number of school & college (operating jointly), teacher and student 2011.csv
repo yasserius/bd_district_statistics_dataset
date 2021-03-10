@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of school  college (operating jointly), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of institute,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Araihazar,2,36,10,46,1044,1381,2425,53
-4,Bandar,2,82,23,105,601,2507,3108,30
-5,Narayanganj Sadar,5,62,58,120,1452,2084,3536,29
-6,Rupganj,2,29,8,37,351,514,865,23
-7,Sonargaon,2,47,14,61,1903,2119,4022,66
-8,Total,13,256,113,369,5351,8605,13956,38
+1,Narayanganj,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of institute,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Araihazar,2,36,10,46,1044,1381,2425,53
+5,Bandar,2,82,23,105,601,2507,3108,30
+6,Narayanganj Sadar,5,62,58,120,1452,2084,3536,29
+7,Rupganj,2,29,8,37,351,514,865,23
+8,Sonargaon,2,47,14,61,1903,2119,4022,66
+9,Total,13,256,113,369,5351,8605,13956,38

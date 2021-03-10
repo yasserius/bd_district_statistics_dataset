@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,"Occurrence of storm during the year 2008-2011 (Yes, No)",,,,
-1,,,,,
-2,Upazila,2008,2009,2010,2011
-3,Bagerhat Sadar,Yes,Yes,Yes,No
-4,Kachua,Yes,Yes,Yes,No
-5,Rampal,Yes,Yes,Yes,No
-6,Sarankhola,Yes,Yes,Yes,No
-7,Chitalmari,Yes,Yes,Yes,No
-8,Morrelgonj,Yes,Yes,Yes,No
-9,Mongla,Yes,Yes,Yes,No
-10,Mollahat,Yes,Yes,Yes,No
-11,Fakirhat,Yes,Yes,Yes,No
+1,Bagerhat,,,,
+2,,,,,
+3,Upazila,2008,2009,2010,2011
+4,Bagerhat Sadar,Yes,Yes,Yes,No
+5,Kachua,Yes,Yes,Yes,No
+6,Rampal,Yes,Yes,Yes,No
+7,Sharonkhola,Yes,Yes,Yes,No
+8,Chitolmari,Yes,Yes,Yes,No
+9,Morrelgonj,Yes,Yes,Yes,No
+10,Mongla,Yes,Yes,Yes,No
+11,Mollahat,Yes,Yes,Yes,No
+12,Fakirhat,Yes,Yes,Yes,No

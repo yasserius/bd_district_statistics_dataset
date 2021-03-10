@@ -1,16 +1,17 @@
 ,0,1,2,3,4
 0,Number of oil mill and person engaged 2011,,,,
-1,,,,,
-2,Upazila/city corporation,Number of unit,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Agailjhara,0,0,0,0
-4,Babuganj,1,0,12,12
-5,Bakerganj,0,0,0,0
-6,Banaripara,1,2,8,10
-7,Barisal city corporation,1,1,5,6
-8,Barisal sadar,0,0,0,0
-9,Gaurnadi,3,19,150,169
-10,Hizla,0,0,0,0
-11,Mehendiganj,4,4,12,16
-12,Muladi,10,10,30,40
-13,Wazirpur,1,0,6,6
-14,Total,21,36,223,259
+1,Barisal,,,,
+2,,,,,
+3,Upazila/city corporation,Number of unit,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Agailjhara,0,0,0,0
+5,Babuganj,1,0,12,12
+6,Bakerganj,0,0,0,0
+7,Banaripara,1,2,8,10
+8,Barisal city corporation,1,1,5,6
+9,Barisal Sadar,0,0,0,0
+10,Gaurnadi,3,19,150,169
+11,Hizla,0,0,0,0
+12,Mehendiganj,4,4,12,16
+13,Muladi,10,10,30,40
+14,Wazirpur,1,0,6,6
+15,Total,21,36,223,259

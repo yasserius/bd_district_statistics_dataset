@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of cold storage and capacity in following years,,,,
-1,,,,,
-2,Upazila,2010-11 Number,2010-11 Installed capacity,2009-10 Number,2009-10 Installed capacity
-3,Atwari,0,0,0,0
-4,Boda,1,7500,0,0
-5,Debiganj,2,10010,1,4930
-6,Panchagarh Sadar,0,0,0,0
-7,Tentulia,0,0,0,0
-8,Total,3,17510,1,4930
+1,Panchagor,,,,
+2,,,,,
+3,Upazila,2010-11 Number,2010-11 Installed capacity,2009-10 Number,2009-10 Installed capacity
+4,Atwari,0,0,0,0
+5,Boda,1,7500,0,0
+6,Debiganj,2,10010,1,4930
+7,Panchagarh Sadar,0,0,0,0
+8,Tentulia,0,0,0,0
+9,Total,3,17510,1,4930

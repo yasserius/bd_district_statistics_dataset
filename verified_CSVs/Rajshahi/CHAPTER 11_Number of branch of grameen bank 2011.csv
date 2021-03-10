@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,Number of branch of grameen bank 2011,,,,
-1,,,,,
-2,Upazila/city corporation,Number of branch,Number of employee,Number of member,Number of account
-3,Bagha,2,21,9014,9014
-4,Baghmara,6,61,4739,2994
-5,Charghat,3,27,12642,12642
-6,Durgapur,1,10,3414,3414
-7,Godagari,6,46,19490,19490
-8,Mohanpur,2,20,9307,14085
-9,Paba,9,72,29543,29543
-10,Puthia,4,38,13385,19568
-11,Rajshahi city corporation,0,0,0,0
-12,Tanore,1,29,8094,8094
-13,Total,34,324,109628,118844
+1,Rajshahi,,,,
+2,,,,,
+3,Upazila/city corporation,Number of branch,Number of employee,Number of member,Number of account
+4,Bagha,2,21,9014,9014
+5,Baghmara,6,61,4739,2994
+6,Charghat,3,27,12642,12642
+7,Durgapur,1,10,3414,3414
+8,Godagari,6,46,19490,19490
+9,Mohanpur,2,20,9307,14085
+10,Paba,9,72,29543,29543
+11,Puthia,4,38,13385,19568
+12,Rajshahi City Corporation,0,0,0,0
+13,Tanore,1,29,8094,8094
+14,Total,34,324,109628,118844

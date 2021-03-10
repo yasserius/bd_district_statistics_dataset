@@ -1,8 +1,9 @@
 ,0,1,2,3,4
 0,"Temperature, rainfall, humidity during the years 2008-2011",,,,
-1,,,,,
-2, Years,Temperature (centigrade) - Maximum,Temperature (centigrade) - Minimum, Rainfall (millimeter), Humidity ()
-3,2008,32.2,10,1881,71
-4,2009,33,12.3,2140,77
-5,2010,33.1,10.2,1526,63.4
-6,2011,21.2,9.3,1821,77.4
+1,Lalmonirhat,,,,
+2,,,,,
+3, Years,Temperature (centigrade) - Maximum,Temperature (centigrade) - Minimum, Rainfall (millimeter), Humidity ()
+4,2008,32.2,10,1881,71
+5,2009,33,12.3,2140,77
+6,2010,33.1,10.2,1526,63.4
+7,2011,21.2,9.3,1821,77.4

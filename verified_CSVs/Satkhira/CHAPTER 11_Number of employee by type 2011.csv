@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,,,,,,
-2, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous body,Local Government employee
-3,Assasuni,21,484,15808,4,146
-4,Debhata,36,3040,3040,2,55
-5,Kalaroa,76,548,10752,0,132
-6,Kaliganj,37,516,15552,17,134
-7,Satkhira Sadar,780,448,15040,150,82
-8,Shyamnagar,36,516,11520,7,150
-9,Tala,130,416,13440,0,165
-10,Total,1116,5968,85152,180,864
+1,Satkhira,,,,,
+2,,,,,,
+3,Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous body,Local Government employee
+4,Assasuni,21,484,15808,4,146
+5,Debhata,36,3040,3040,2,55
+6,Kalaroa,76,548,10752,0,132
+7,Kaliganj,37,516,15552,17,134
+8,Satkhira Sadar,780,448,15040,150,82
+9,Shyamnagar,36,516,11520,7,150
+10,Tala,130,416,13440,0,165
+11,Total,1116,5968,85152,180,864

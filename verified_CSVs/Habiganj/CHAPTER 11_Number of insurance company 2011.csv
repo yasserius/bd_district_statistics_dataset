@@ -1,13 +1,14 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,,,,
-2,Upazila,Number of insurance company,Number of employee,Number of client
-3,Azmirigonj,2,70,13600
-4,Bahubal,12,249,14358
-5,Baniachang,2,150,10000
-6,Chunarughat,14,420,17050
-7,Habiganj Sadar,11,63,3857
-8,Lakhai,5,11,2592
-9,Madhabpur,4,24,1356
-10,Nabiganj,5,280,786
-11,Total,55,1267,63599
+1,Habiganj,,,
+2,,,,
+3,Upazila,Number of insurance company,Number of employee,Number of client
+4,Azmirigonj,2,70,13600
+5,Bahubal,12,249,14358
+6,Baniachang,2,150,10000
+7,Chunarughat,14,420,17050
+8,Habiganj Sadar,11,63,3857
+9,Lakhai,5,11,2592
+10,Madhabpur,4,24,1356
+11,Nabiganj,5,280,786
+12,Total,55,1267,63599

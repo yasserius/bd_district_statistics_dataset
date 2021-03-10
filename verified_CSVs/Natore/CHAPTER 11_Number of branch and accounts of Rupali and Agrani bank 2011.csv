@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Rupali and Agrani bank 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Rupali bank - Number of  branch,Rupali bank - Account - S.D,Rupali bank - Account - C.D,Rupali bank - Account - F.D,Rupali bank - Account - S.T.D,Agrani bank - Number of  branch,Agrani bank - Account - S.D,Agrani bank - Account - C.D,Agrani bank - Account - F.D,Agrani bank - Account - S.T.D
-3,Bagatipara,1,1085,73,126,1,2,12498,397,74,40
-4,Baraigram,0,0,0,0,0,2,19170,1095,116,21
-5,Gurudaspur,0,0,0,0,0,1,5538,370,58,5
-6,Lalpur,1,1290,43,36,3,2,16392,1162,159,27
-7,Natore Sadar,3,4025,373,540,35,3,12095,1283,127,35
-8,Singra,1,8621,301,179,16,1,11265,878,20,10
-9,Total,6,15021,790,881,55,11,76958,5185,554,138
+1,Natore,,,,,,,,,,
+2,,,,,,,,,,,
+3, Upazila,Rupali bank - Number of  branch,Rupali bank - Account - S.D,Rupali bank - Account - C.D,Rupali bank - Account - F.D,Rupali bank - Account - S.T.D,Agrani bank - Number of  branch,Agrani bank - Account - S.D,Agrani bank - Account - C.D,Agrani bank - Account - F.D,Agrani bank - Account - S.T.D
+4,Bagatipara,1,1085,73,126,1,2,12498,397,74,40
+5,Baraigram,0,0,0,0,0,2,19170,1095,116,21
+6,Gurudaspur,0,0,0,0,0,1,5538,370,58,5
+7,Lalpur,1,1290,43,36,3,2,16392,1162,159,27
+8,Natore Sadar,3,4025,373,540,35,3,12095,1283,127,35
+9,Singra,1,8621,301,179,16,1,11265,878,20,10
+10,Total,6,15021,790,881,55,11,76958,5185,554,138

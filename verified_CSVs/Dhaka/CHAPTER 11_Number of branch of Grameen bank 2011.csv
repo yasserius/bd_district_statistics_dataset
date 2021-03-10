@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of branch of Grameen bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of member,Number of account
-3,Dhaka Metropolitan,1,279,0,0
-4,Dhamrai,7,62,32720,31261
-5,Dohar,4,36,13404,939
-6,Keraniganj,6,42,16945,16945
-7,Nawabganj,6,53,15404,15404
-8,Savar,2,28,1270,9780
-9,Total,26,500,79743,74329
+1,Dhaka,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of member,Number of account
+4,Dhaka Metropolitan,1,279,0,0
+5,Dhamrai,7,62,32720,31261
+6,Dohar,4,36,13404,939
+7,Keraniganj,6,42,16945,16945
+8,Nawabganj,6,53,15404,15404
+9,Savar,2,28,1270,9780
+10,Total,26,500,79743,74329

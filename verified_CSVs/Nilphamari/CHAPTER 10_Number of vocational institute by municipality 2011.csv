@@ -1,11 +1,12 @@
 ,0,1,2,3
 0,Number of vocational institute by municipality 2011,,,
-1,,,,
-2,Upazila,Number of institution,Number of teacher,Number of student
-3,Dimla,0,0,0
-4,Domar,0,0,0
-5,Jaldhaka,1,18,540
-6,Kishorgonj,0,0,0
-7,Nilphamary Sadar,2,20,370
-8,Sayedpur,0,0,0
-9,Total,3,38,910
+1,Nilphamari,,,
+2,,,,
+3,Upazila,Number of institution,Number of teacher,Number of student
+4,Dimla,0,0,0
+5,Domar,0,0,0
+6,Joldhaka,1,18,540
+7,Kishorgonj,0,0,0
+8,Nilphamary Sadar,2,20,370
+9,Sayedpur,0,0,0
+10,Total,3,38,910

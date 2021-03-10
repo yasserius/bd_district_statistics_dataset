@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of NGO school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of NGO school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Barlekha,72,7,65,72,649,1186,1835,25
-4,Juri,129,27,102,129,1602,2062,3664,28
-5,Kamalganj,382,150,232,382,3000,3300,6300,16
-6,Kulaura,164,80,248,328,1127,1205,2332,7
-7,Moulvibazar Sadar,36,18,20,38,2560,913,3473,91
-8,Rajnagar,22,29,41,70,1106,1309,2415,35
-9,Sreemangal,139,0,139,139,1781,2674,4455,32
-10,Total,944,311,847,1158,11825,12649,24474,21
+1,Moulvibazar,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of NGO school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Barlekha,72,7,65,72,649,1186,1835,25
+5,Juri,129,27,102,129,1602,2062,3664,28
+6,Kamalganj,382,150,232,382,3000,3300,6300,16
+7,Kulaura,164,80,248,328,1127,1205,2332,7
+8,Moulvibazar Sadar,36,18,20,38,2560,913,3473,91
+9,Rajnagar,22,29,41,70,1106,1309,2415,35
+10,Sreemangal,139,0,139,139,1781,2674,4455,32
+11,Total,944,311,847,1158,11825,12649,24474,21

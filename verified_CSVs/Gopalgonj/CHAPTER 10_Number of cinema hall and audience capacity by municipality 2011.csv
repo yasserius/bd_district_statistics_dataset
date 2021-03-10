@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Number of cinema hall and audience capacity by municipality 2011,,,,
-1,,,,,
-2,Municipality,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
-3,Gopalganj,1,200,3,450
-4,Kotalipara,1,612,2,120
-5,Muksudpur,1,175,3,325
-6,Tungipara,0,0,0,0
-7,Total,3,987,8,298
+1,Gopalgonj,,,,
+2,,,,,
+3,Municipality,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
+4,Gopalganj,1,200,3,450
+5,Kotalipara,1,612,2,120
+6,Muksudpur,1,175,3,325
+7,Tungipara,0,0,0,0
+8,Total,3,987,8,298

@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,,,,,,,,
-2,Upazila,Current fallow,Temporary cropped area - Single,Temporary cropped area - Double,Temporary cropped area - Triple,Temporary cropped area - Net,Temporary cropped area - Gross,Productivity of crop
-3,Bhurungamari,345,7450,21360,7119,35929,72527,202
-4,Char Rajibpur,13,2700,5503,2198,10401,20300,195
-5,Chilmari,567,4403,8123,4038,16564,32763,198
-6,Kurigram Sadar,404,8500,17536,5927,31963,61353,192
-7,Nageshwari,500,18830,31117,11270,61217,114874,188
-8,Phulbari,1343,1890,18517,3629,24036,49811,207
-9,Rajarhat,122,8250,10169,6051,24470,46741,191
-10,Raumari,299,7260,23144,7240,37644,75268,200
-11,Ulipur,1587,10718,28651,12267,51636,104821,203
-12,Total,5180,70001,164120,59739,293860,578458,197
+1,Kurigram,,,,,,,
+2,,,,,,,,
+3,Upazila,Current fallow,Temporary cropped area - Single,Temporary cropped area - Double,Temporary cropped area - Triple,Temporary cropped area - Net,Temporary cropped area - Gross,Productivity of crop
+4,Bhurungamari,345,7450,21360,7119,35929,72527,202
+5,Char Rajibpur,13,2700,5503,2198,10401,20300,195
+6,Chilmari,567,4403,8123,4038,16564,32763,198
+7,Kurigram Sadar,404,8500,17536,5927,31963,61353,192
+8,Nageshwari,500,18830,31117,11270,61217,114874,188
+9,Phulbari,1343,1890,18517,3629,24036,49811,207
+10,Rajarhat,122,8250,10169,6051,24470,46741,191
+11,Raumari,299,7260,23144,7240,37644,75268,200
+12,Ulipur,1587,10718,28651,12267,51636,104821,203
+13,Total,5180,70001,164120,59739,293860,578458,197

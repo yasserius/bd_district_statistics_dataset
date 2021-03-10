@@ -1,16 +1,17 @@
 ,0,1,2,3
 0,"Length of railway, water way 2011",,,
-1,(in kilometer),,,
-2, Upazila,"Total Railway (broad gage, meter gage  duel gage)",Water way in monsoon (River + Canal),Water way in round the year (River + Canal)
-3,Bishwamvarpur,0,25,0
-4,Chhatak,15,97,65
-5,Dakshin Sunamganj,0,0,0
-6,Derai,0,37,21
-7,Dharmapasha,0,150,95
-8,Doarabazar,0,60,50
-9,Jagannathpur,0,227,20
-10,Jamalganj,0,250,70
-11,Shalla,0,90,80
-12,Sunamganj Sadar,0,70,45
-13,Tahirpur,0,75,52
-14,Total,15,1081,498
+1,Sunamganj,,,
+2,(in kilometer),,,
+3,Upazila,"Total Railway (broad gage, meter gage  duel gage)",Water way in monsoon (River + Canal),Water way in round the year (River + Canal)
+4,Bishwamvarpur,0,25,0
+5,Chhatak,15,97,65
+6,Dakshin Sunamganj,0,0,0
+7,Derai,0,37,21
+8,Dharmapasha,0,150,95
+9,Doarabazar,0,60,50
+10,Jagannathpur,0,227,20
+11,Jamalganj,0,250,70
+12,Shalla,0,90,80
+13,Sunamganj Sadar,0,70,45
+14,Tahirpur,0,75,52
+15,Total,15,1081,498

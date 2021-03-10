@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of madrasah, teacher and student under the madrasah education board 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Azmirigonj,1,11,0,11,124,189,313,28
-4,Bahubal,6,68,6,74,840,1115,1955,26
-5,Baniachang,6,65,13,78,970,1230,2200,28
-6,Chunarughat,17,195,22,217,1964,2942,4906,23
-7,Habiganj Sadar,10,81,15,96,2020,1576,3596,37
-8,Lakhai,2,24,2,26,285,230,515,19
-9,Madhabpur,5,57,4,61,769,388,1157,19
-10,Nabiganj,16,148,13,195,4158,3152,7310,45
-11,Total,63,649,75,758,11130,10822,21952,29
+1,Habiganj,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Azmirigonj,1,11,0,11,124,189,313,28
+5,Bahubal,6,68,6,74,840,1115,1955,26
+6,Baniachang,6,65,13,78,970,1230,2200,28
+7,Chunarughat,17,195,22,217,1964,2942,4906,23
+8,Habiganj Sadar,10,81,15,96,2020,1576,3596,37
+9,Lakhai,2,24,2,26,285,230,515,19
+10,Madhabpur,5,57,4,61,769,388,1157,19
+11,Nabiganj,16,148,13,195,4158,3152,7310,45
+12,Total,63,649,75,758,11130,10822,21952,29

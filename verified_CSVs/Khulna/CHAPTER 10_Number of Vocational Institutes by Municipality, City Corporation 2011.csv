@@ -1,8 +1,9 @@
 ,0,1,2,3
 0,"Number of Vocational Institutes by Municipality, City Corporation 2011",,,
-1,,,,
-2,Municipality /city corporation,Number of institution,Number of teacher,Number of student
-3,Dacope,1,13,360
-4,Khulna City corporation,8,122,3272
-5,Paikgachha,0,0,0
-6,Total,9,135,3632
+1,Khulna,,,
+2,,,,
+3,Municipality /city corporation,Number of institution,Number of teacher,Number of student
+4,Dacope,1,13,360
+5,Khulna City Corporation,8,122,3272
+6,Paikgachha,0,0,0
+7,Total,9,135,3632

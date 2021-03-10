@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,Average rate of vehicle per kilo meter 2011,,,,,
-1,(Rate in taka),,,,,
-2, Upazila,Vehicle - Rickshaw,Vehicle - Rickshaw van,Vehicle - Easy bike,Vehicle - Auto rickshaw,Vehicle - Tempo
-3,Belabo,5,3,5,5,5
-4,Manohardi,10,10,5,5,5
-5,Narsingdi Sadar,10,25,5,5,8
-6,Palash,10,20,5,5,5
-7,Roypura,10,15,5,5,5
-8,Sibpur,6,4,5,5,5
-9,Average,8,12,5,5,5
+1,Narsingdi,,,,,
+2,(Rate in taka),,,,,
+3, Upazila,Vehicle - Rickshaw,Vehicle - Rickshaw van,Vehicle - Easy bike,Vehicle - Auto rickshaw,Vehicle - Tempo
+4,Belabo,5,3,5,5,5
+5,Manohardi,10,10,5,5,5
+6,Narsingdi Sadar,10,25,5,5,8
+7,Palash,10,20,5,5,5
+8,Roypura,10,15,5,5,5
+9,Shibpur,6,4,5,5,5
+10,Average,8,12,5,5,5

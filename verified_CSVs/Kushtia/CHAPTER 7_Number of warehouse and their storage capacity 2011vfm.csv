@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,7.14 Number of warehouse and their storage capacity 2011,,,,,,,,
-1,(Capacity in Metric tons),,,,,,,,
-2, Upazila,Food Godown - Number,Food Godown - Capacity,Fertilizer Godown - Number,Fertilizer Godown - Capacity,Jute Godown - Number,Jute Godown - Capacity,Other Godown - Number,Other Godown - Capacity
-3,Kushtia Sadar,2,6000,1,1000,25,1500,365,21900
-4,Bheramara,5,2500,1,400,0,0,0,0
-5,Daulatpur,5,3000,3,2000,42,12000,27,8000
-6,Khoksa,2,1000,0,0,52,130,11,1100
-7,Kumarkhali,3,1500,0,0,0,0,0,0
-8,Mirpur,3,1500,12,3600,29,8700,21,6300
-9,Total,20,15500,17,7000,148,22330,424,37300
+1,Kushtia,,,,,,,,
+2,(Capacity in Metric tons),,,,,,,,
+3,Upazila,Food Godown - Number,Food Godown - Capacity,Fertilizer Godown - Number,Fertilizer Godown - Capacity,Jute Godown - Number,Jute Godown - Capacity,Other Godown - Number,Other Godown - Capacity
+4,Kushtia Sadar,2,6000,1,1000,25,1500,365,21900
+5,Bheramara,5,2500,1,400,0,0,0,0
+6,Daulatpur,5,3000,3,2000,42,12000,27,8000
+7,Khoksa,2,1000,0,0,52,130,11,1100
+8,Kumarkhali,3,1500,0,0,0,0,0,0
+9,Mirpur,3,1500,12,3600,29,8700,21,6300
+10,Total,20,15500,17,7000,148,22330,424,37300

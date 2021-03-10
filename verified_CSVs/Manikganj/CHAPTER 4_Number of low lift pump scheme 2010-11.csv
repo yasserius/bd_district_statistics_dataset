@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,,,,,
-2, Upazila,Number of pump fielded - Electric,Number of pump fielded - Diesel,Number of pump fielded - Total,Area irrigated (in acre)
-3,Daulotpur,614,4052,4666,19520
-4,Gheor,691,4030,4721,18668
-5,Horirampur,398,3823,4221,13343
-6,Manikganj Sadar,964,3753,4717,29750
-7,Saturia,974,4600,5574,14669
-8,Shibalaya,474,3923,4393,19058
-9,Singair,1002,4052,5054,27274
-10,Total,5117,28233,33346,142283
+1,Manikganj,,,,
+2,,,,,
+3, Upazila,Number of pump fielded - Electric,Number of pump fielded - Diesel,Number of pump fielded - Total,Area irrigated (in acre)
+4,Daulotpur,614,4052,4666,19520
+5,Gheor,691,4030,4721,18668
+6,Horirampur,398,3823,4221,13343
+7,Manikganj Sadar,964,3753,4717,29750
+8,Saturia,974,4600,5574,14669
+9,Shibalaya,474,3923,4393,19058
+10,Singair,1002,4052,5054,27274
+11,Total,5117,28233,33346,142283

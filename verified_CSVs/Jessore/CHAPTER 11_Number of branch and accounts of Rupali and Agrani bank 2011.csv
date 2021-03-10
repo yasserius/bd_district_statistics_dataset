@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Rupali and Agrani bank 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Rupali bank - Number of branch,Rupali bank - Account - S.D,Rupali bank - Account - C.D,Rupali bank - Account - F.D,Rupali bank - Account - S.T.D,Agrani bank - Number of branch,Agrani bank - Account - S.D,Agrani bank - Account - C.D,Agrani bank - Account - F.D,Agrani bank - Account - S.T.D
-3,Abhaynagar,0,0,0,0,0,1,22574,1089,167,27
-4,Bagherpara,2,20770,741,152,11,2,9880,459,64,100
-5,Chaugachha,0,0,0,0,0,0,0,0,0,0
-6,Jessore Sadar,2,17599,1359,123,39,11,68999,4315,752,196
-7,Jhikargachha,0,0,0,0,0,3,28424,1433,138,42
-8,Keshabpur,1,6404,641,146,2,2,19877,806,118,24
-9,Manirampur,1,5472,713,142,4,0,0,0,0,0
-10,Sharsha,1,11367,729,0,8,1,18562,827,0,2
-11,Total,7,61612,4183,563,64,20,168316,8929,1239,391
+1,Jessore,,,,,,,,,,
+2,,,,,,,,,,,
+3, Upazila,Rupali bank - Number of branch,Rupali bank - Account - S.D,Rupali bank - Account - C.D,Rupali bank - Account - F.D,Rupali bank - Account - S.T.D,Agrani bank - Number of branch,Agrani bank - Account - S.D,Agrani bank - Account - C.D,Agrani bank - Account - F.D,Agrani bank - Account - S.T.D
+4,Abhaynagar,0,0,0,0,0,1,22574,1089,167,27
+5,Bagherpara,2,20770,741,152,11,2,9880,459,64,100
+6,Chaugachha,0,0,0,0,0,0,0,0,0,0
+7,Jessore Sadar,2,17599,1359,123,39,11,68999,4315,752,196
+8,Jhikargachha,0,0,0,0,0,3,28424,1433,138,42
+9,Keshabpur,1,6404,641,146,2,2,19877,806,118,24
+10,Manirampur,1,5472,713,142,4,0,0,0,0,0
+11,Sharsha,1,11367,729,0,8,1,18562,827,0,2
+12,Total,7,61612,4183,563,64,20,168316,8929,1239,391

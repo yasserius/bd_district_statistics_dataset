@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Bean Area,Bean Production
-3,Magura Sadar,52,166,195,669,72,216
-4,Mohammadpur,40,147,140,483,28,86
-5,Shalikha,41,154,78,367,38,128
-6,Sreepur,22,73,138,524,55,180
-7,Total,155,540,551,2043,193,610
+1,Magura,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Bean Area,Bean Production
+4,Magura Sadar,52,166,195,669,72,216
+5,Mohammadpur,40,147,140,483,28,86
+6,Shalikha,41,154,78,367,38,128
+7,Sreepur,22,73,138,524,55,180
+8,Total,155,540,551,2043,193,610

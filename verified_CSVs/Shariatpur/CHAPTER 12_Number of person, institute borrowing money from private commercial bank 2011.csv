@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from private commercial bank 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2,  Upazila,Number of branch of private commercial bank,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
-3,Bhedarganj,2,0,0,12,2,47,19,59,21,28,6
-4,Damudya,2,0,0,10,2,37,18,47,20,12,5
-5,Gosairhat,1,35,0,0,0,57,0,92,0,3.8,0
-6,Naria,8,4250,3000,0,0,360,230,4610,3230,8.2,6.82
-7,Shariatpur Sadar,0,0,0,0,0,0,0,0,0,0,0
-8,Zanjira,3,105,3129,170,0,45,920,320,4049,2,6
-9,Total,16,4390,6129,192,4,546,1187,5128,7320,54,23.82
+1,Shariatpur,,,,,,,,,,,
+2,,,,,,,,,,,,
+3,  Upazila,Number of branch of private commercial bank,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
+4,Bhedarganj,2,0,0,12,2,47,19,59,21,28,6
+5,Damudya,2,0,0,10,2,37,18,47,20,12,5
+6,Gosairhat,1,35,0,0,0,57,0,92,0,3.8,0
+7,Naria,8,4250,3000,0,0,360,230,4610,3230,8.2,6.82
+8,Shariatpur Sadar,0,0,0,0,0,0,0,0,0,0,0
+9,Zanjira,3,105,3129,170,0,45,920,320,4049,2,6
+10,Total,16,4390,6129,192,4,546,1187,5128,7320,54,23.82

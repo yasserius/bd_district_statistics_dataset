@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of brinjal, lady s finger and arum 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Brinjal Area,Brinjal Production,Ladys finger Area,Ladys finger Production,Arum Area,Arum Production
-3,Gazipur Sadar,224,331,29,44,41,61
-4,Kaliakair,567,1579,124,149,180,668
-5,Kaliganj,119,180,111,127,82,180
-6,Kapashia,452,301,31,12,422,1130
-7,Sreepur,107,42,62,58,201,222
-8,Total,1469,2433,357,390,926,2261
+1,Gazipur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Brinjal Area,Brinjal Production,Ladys finger Area,Ladys finger Production,Arum Area,Arum Production
+4,Gazipur Sadar,224,331,29,44,41,61
+5,Kaliakair,567,1579,124,149,180,668
+6,Kaliganj,119,180,111,127,82,180
+7,Kapashia,452,301,31,12,422,1130
+8,Sreepur,107,42,62,58,201,222
+9,Total,1469,2433,357,390,926,2261

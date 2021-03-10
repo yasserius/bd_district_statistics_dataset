@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Bean Area,Bean Production
-3,Bishwamvarpur,500,5000,438,7000,1750,8400
-4,Chhatak,2146,18926,1781,40888,2012,9374
-5,Dakshin Sunamganj,124,1015,114,1805,47,187
-6,Derai,44,76,15,10,45,445
-7,Dharmapasha,53,95,87,19,63,126
-8,Doarabazar,77,138,130,195,31,55
-9,Jagannathpur,62,8710,198,27872,40,80
-10,Jamalganj,200,2430,40,420,20,72
-11,Shalla,61,484,23,7,14,9
-12,Sunamganj Sadar,1025,978,737,3560,3,1
-13,Tahirpur,0,0,0,0,0,0
-14,Total,4292,37852,3563,81776,4025,18749
+1,Sunamganj,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Bean Area,Bean Production
+4,Bishwamvarpur,500,5000,438,7000,1750,8400
+5,Chhatak,2146,18926,1781,40888,2012,9374
+6,Dakshin Sunamganj,124,1015,114,1805,47,187
+7,Derai,44,76,15,10,45,445
+8,Dharmapasha,53,95,87,19,63,126
+9,Doarabazar,77,138,130,195,31,55
+10,Jagannathpur,62,8710,198,27872,40,80
+11,Jamalganj,200,2430,40,420,20,72
+12,Shalla,61,484,23,7,14,9
+13,Sunamganj Sadar,1025,978,737,3560,3,1
+14,Tahirpur,0,0,0,0,0,0
+15,Total,4292,37852,3563,81776,4025,18749

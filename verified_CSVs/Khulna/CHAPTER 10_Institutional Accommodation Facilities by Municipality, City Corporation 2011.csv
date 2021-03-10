@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6
 0,"Institutional Accommodation Facilities by Municipality, City Corporation 2011",,,,,,
-1,,,,,,,
-2,Municipality/City Corporation,Residential hostel Number,Residential hostel Capacity,Hall/Hostel Number,Hall/Hostel Capacity,Mess/Barracks Number,Mess/Barracks Capacity
-3,Dacope,1,10,0,0,8,124
-4,Khulna City corporation,20,795,25,2400,177,3925
-5,Paikgachha,4,120,0,0,15,160
-6,Total,25,925,25,2400,200,4209
+1,Khulna,,,,,,
+2,,,,,,,
+3,Municipality/City Corporation,Residential hostel Number,Residential hostel Capacity,Hall/Hostel Number,Hall/Hostel Capacity,Mess/Barracks Number,Mess/Barracks Capacity
+4,Dacope,1,10,0,0,8,124
+5,Khulna City Corporation,20,795,25,2400,177,3925
+6,Paikgachha,4,120,0,0,15,160
+7,Total,25,925,25,2400,200,4209

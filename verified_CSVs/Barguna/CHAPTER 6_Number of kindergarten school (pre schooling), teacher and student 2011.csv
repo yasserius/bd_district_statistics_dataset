@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kindergarten school (pre schooling), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila,Number of kindergarten school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Amtali,4,18,29,47,289,271,560,12
-4,Bamna,5,6,4,10,128,138,266,27
-5,Barguna Sadar,7,64,46,110,912,916,1828,17
-6,Betagi,5,10,12,22,125,131,256,12
-7,Patharghata,6,10,14,24,195,130,325,14
-8,Total,27,108,105,213,1649,1586,3235,15
+1,Barguna,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of kindergarten school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Amtali,4,18,29,47,289,271,560,12
+5,Bamna,5,6,4,10,128,138,266,27
+6,Barguna Sadar,7,64,46,110,912,916,1828,17
+7,Betagi,5,10,12,22,125,131,256,12
+8,Patharghata,6,10,14,24,195,130,325,14
+9,Total,27,108,105,213,1649,1586,3235,15

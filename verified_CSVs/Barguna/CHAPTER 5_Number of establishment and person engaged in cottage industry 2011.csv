@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of establishment and person engaged in cottage industry 2011,,,,
-1,,,,,
-2,Upazila,Number of unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Amtali,244,244,734,978
-4,Bamna,920,1217,938,2155
-5,Barguna Sadar,0,0,0,0
-6,Betagi,0,0,0,0
-7,Patharghata,78,113,0,113
-8,Total,1242,1574,1672,3246
+1,Barguna,,,,
+2,,,,,
+3,Upazila,Number of unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Amtali,244,244,734,978
+5,Bamna,920,1217,938,2155
+6,Barguna Sadar,0,0,0,0
+7,Betagi,0,0,0,0
+8,Patharghata,78,113,0,113
+9,Total,1242,1574,1672,3246

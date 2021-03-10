@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6
 0,Medical institution and personnel by municipality 2011,,,,,,
-1,,,,,,,
-2,Municipality,Govt. institutions,Private institutions,Medical personal Beds,Medical personal Doctors,Medical personal Nurses,Medical personal Technicians
-3,Khagrachhari Sadar,2,1,108,12,30,20
-4,Matiranga,1,0,31,5,12,5
-5,Ramgarh,1,0,31,4,9,5
-6,Total,4,1,170,21,51,30
+1,Khagrachori,,,,,,
+2,,,,,,,
+3,Municipality,Govt. institutions,Private institutions,Medical personal Beds,Medical personal Doctors,Medical personal Nurses,Medical personal Technicians
+4,Khagrachori,2,1,108,12,30,20
+5,Matiranga,1,0,31,5,12,5
+6,Ramgarh,1,0,31,4,9,5
+7,Total,4,1,170,21,51,30

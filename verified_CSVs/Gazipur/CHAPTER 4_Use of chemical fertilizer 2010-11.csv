@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Use of chemical fertilizer 2010-11,,,,,
-1,,,,,,
-2,Upazila,UREA,TSP,MP,DAP,Others
-3,Gazipur Sadar,6880,668,510,660,0
-4,Kaliakair,5640,810,700,870,0
-5,Kaliganj,3922,2840,2250,747,445
-6,Kapashia,7000,4500,4500,2500,4000
-7,Sreepur,6015,1048,1081,1054,509
-8,Total,29457,9866,9041,5831,4954
+1,Gazipur,,,,,
+2,,,,,,
+3,Upazila,UREA,TSP,MP,DAP,Others
+4,Gazipur Sadar,6880,668,510,660,0
+5,Kaliakair,5640,810,700,870,0
+6,Kaliganj,3922,2840,2250,747,445
+7,Kapashia,7000,4500,4500,2500,4000
+8,Sreepur,6015,1048,1081,1054,509
+9,Total,29457,9866,9041,5831,4954

@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Atwari,2,0,0,2,4
-4,Boda,2,2,2,2,3
-5,Debiganj,2,0,0,2,18
-6,Panchagarh Sadar,4,4,0,4,12
-7,Tentulia,0,0,0,0,0
-8,Total,10,6,2,10,37
+1,Panchagor,,,,,
+2,,,,,,
+3,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Atwari,2,0,0,2,4
+5,Boda,2,2,2,2,3
+6,Debiganj,2,0,0,2,18
+7,Panchagarh Sadar,4,4,0,4,12
+8,Tentulia,0,0,0,0,0
+9,Total,10,6,2,10,37

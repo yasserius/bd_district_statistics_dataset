@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5
 0,Number of family planning clinical centre by municipality 2011,,,,,
-1,,,,,,
-2,Municipality,Sterilization centre,Mobile centre,Injection centre,Menstrual regularization centre,Family welfare centre
-3,Mathbaria,1,0,1,1,1
-4,Pirojpur Sadar,1,0,4,0,0
-5,Swarupkati,0,0,0,0,1
-6,Total,2,0,5,1,2
+1,Pirojpur,,,,,
+2,,,,,,
+3,Municipality,Sterilization centre,Mobile centre,Injection centre,Menstrual regularization centre,Family welfare centre
+4,Mathbaria,1,0,1,1,1
+5,Pirojpur Sadar,1,0,4,0,0
+6,Swarupkati,0,0,0,0,1
+7,Total,2,0,5,1,2

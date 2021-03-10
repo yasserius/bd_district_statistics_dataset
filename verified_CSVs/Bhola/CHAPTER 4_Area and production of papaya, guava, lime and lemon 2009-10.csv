@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of papaya, guava, lime and lemon 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Papaya - Area,Papaya - Production,Guava - Area,Guava - Production,Lime and lemon - Area,Lime and lemon - Production
-3,Bhola Sadar,45,127,224,157,51,41
-4,Burhanuddin,10,28,61,237,25,50
-5,Char Fasson,52,163,232,213,48,53
-6,Daulatkhan,2.14,76.77,4.78,29.93,2.69,24.06
-7,Lalmohan,26,359.83,186,761.89,25,110.1
-8,Manpura,2.31,6.52,7.41,5.2,0.27,0.22
-9,Tazumuddin,0,1681,0,180.42,0,100.66
-10,Total,137.45,2442.12,715.19,1584.44,151.96,379.04
+1,Bhola,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Papaya - Area,Papaya - Production,Guava - Area,Guava - Production,Lime and lemon - Area,Lime and lemon - Production
+4,Bhola Sadar,45,127,224,157,51,41
+5,Burhanuddin,10,28,61,237,25,50
+6,Char Fasson,52,163,232,213,48,53
+7,Daulatkhan,2.14,76.77,4.78,29.93,2.69,24.06
+8,Lalmohan,26,359.83,186,761.89,25,110.1
+9,Manpura,2.31,6.52,7.41,5.2,0.27,0.22
+10,Tazumuddin,0,1681,0,180.42,0,100.66
+11,Total,137.45,2442.12,715.19,1584.44,151.96,379.04

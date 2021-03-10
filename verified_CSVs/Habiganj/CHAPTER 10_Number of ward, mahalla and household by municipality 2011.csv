@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5
 0,"Number of ward, mahalla and household by municipality 2011",,,,,
-1,,,,,,
-2,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
-3,Azmirigonj,Ajmiriganj,9,37,2067,2780
-4,Bahubal,-,0,0,0,0
-5,Baniachang,-,0,0,0,0
-6,Chunarughat,Chunarughat,9,21,3889,3889
-7,Habiganj Sadar,"Habiganj, Saistagonj",18,97,10730,18030
-8,Lakhai,-,0,0,0,0
-9,Madhabpur,Madhabpur,9,12,2881,4077
-10,Nabiganj,Nabigonj,9,22,2553,4381
-11,Total,-,54,189,22120,33157
+1,Habiganj,,,,,
+2,,,,,,
+3,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
+4,Azmirigonj,Ajmiriganj,9,37,2067,2780
+5,Bahubal,-,0,0,0,0
+6,Baniachang,-,0,0,0,0
+7,Chunarughat,Chunarughat,9,21,3889,3889
+8,Habiganj Sadar,"Habiganj, Saistagonj",18,97,10730,18030
+9,Lakhai,-,0,0,0,0
+10,Madhabpur,Madhabpur,9,12,2881,4077
+11,Nabiganj,Nabigonj,9,22,2553,4381
+12,Total,-,54,189,22120,33157

@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,,,,,
-2,(Production in metric ton) - Upazila,(Production in metric ton) - 2010-11 - Number,(Production in metric ton) - 2010-11 - Production,(Production in metric ton) - 2009-10 - Number,(Production in metric ton) - 2009-10 - Production
-3,Amtali,16530,31620,16312,31267
-4,Bamna,9870,4403,9993,446
-5,Barguna Sadar,8215,10540,5437,10409
-6,Betagi,2750,582,2730,587
-7,Patharghata,21900,4000,15000,3900
-8,Total,59265,51145,49472,46609
+1,Barguna,,,,
+2,,,,,
+3,(Production in metric ton) - Upazila,(Production in metric ton) - 2010-11 - Number,(Production in metric ton) - 2010-11 - Production,(Production in metric ton) - 2009-10 - Number,(Production in metric ton) - 2009-10 - Production
+4,Amtali,16530,31620,16312,31267
+5,Bamna,9870,4403,9993,446
+6,Barguna Sadar,8215,10540,5437,10409
+7,Betagi,2750,582,2730,587
+8,Patharghata,21900,4000,15000,3900
+9,Total,59265,51145,49472,46609

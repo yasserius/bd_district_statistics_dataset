@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,Number of family planning personnel working by municipality 2011,,,,,
-1,,,,,,
-2,Municipality 2,Doctor 3,Family planning inspector 4,Family planning assistant 5,Family planning visitor 6,Midwife/birth attendant (dai) 7
-3,Atgharia,1,1,1,1,2
-4,Bera,1,0,3,2,1
-5,Bhangura,0,4,1,5,0
-6,Chatmohar,1,1,2,1,3
-7,Faridpur,0,0,0,0,0
-8,Ishwardi,1,1,3,4,25
-9,Pabna,1,1,4,1,0
-10,Santhia,0,1,5,1,5
-11,Sujanagar,0,9,43,9,0
-12,Total,5,18,62,24,36
+1,Pabna,,,,,
+2,,,,,,
+3,Municipality 2,Doctor 3,Family planning inspector 4,Family planning assistant 5,Family planning visitor 6,Midwife/birth attendant (dai) 7
+4,Atgharia,1,1,1,1,2
+5,Bera,1,0,3,2,1
+6,Bhangura,0,4,1,5,0
+7,Chatmohar,1,1,2,1,3
+8,Faridpur,0,0,0,0,0
+9,Ishwardi,1,1,3,4,25
+10,Pabna,1,1,4,1,0
+11,Santhia,0,1,5,1,5
+12,Sujanagar,0,9,43,9,0
+13,Total,5,18,62,24,36

@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of bamboo and cane industry and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Units,Persons engaged - Family,Persons engaged - Hired,Persons engaged - Total
-3,Chandpur Sadar,52,131,8,139
-4,Foridganj,45,63,23,86
-5,Haimchar,19,76,38,133
-6,Hajiganj,268,315,0,315
-7,Kachua,326,847,18,875
-8,Matlab Dakshin,62,124,0,124
-9,Matlab Uttar,30,40,0,40
-10,Shahrasti,250,300,0,300
-11,Total,1052,1896,87,2012
+1,Chandpur,,,,
+2,,,,,
+3, Upazila, Units,Persons engaged - Family,Persons engaged - Hired,Persons engaged - Total
+4,Chandpur Sadar,52,131,8,139
+5,Foridganj,45,63,23,86
+6,Haimchar,19,76,38,133
+7,Hajiganj,268,315,0,315
+8,Kachua,326,847,18,875
+9,Matlab Dakshin,62,124,0,124
+10,Matlab Uttar,30,40,0,40
+11,Shahrasti,250,300,0,300
+12,Total,1052,1896,87,2012

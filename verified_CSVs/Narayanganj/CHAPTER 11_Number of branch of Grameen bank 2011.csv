@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Number of branch of Grameen bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of member,Number of account
-3,Araihazar,7,63,23461,63196
-4,Narayanganj Sadar,2,23,3580,12823
-5,Rupganj,3,27,11493,11263
-6,Sonargaon,3,24,8500,10602
-7,Total,15,137,47034,97884
+1,Narayanganj,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of member,Number of account
+4,Araihazar,7,63,23461,63196
+5,Narayanganj Sadar,2,23,3580,12823
+6,Rupganj,3,27,11493,11263
+7,Sonargaon,3,24,8500,10602
+8,Total,15,137,47034,97884

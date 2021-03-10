@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (Temporary cropped area) 2008,,,,,,,
-1,,,,,,,,
-2,Upazila/City corporation,Current fallow,Temporary cropped area Single,Temporary cropped area Double,Temporary cropped area Triple,Temporary cropped area Net,Temporary cropped area Gross,Productivity of crop
-3,Balaganj,152,51090,15960,830,67880,85500,1.26
-4,Beanibazar,533,17798,17110,4120,39028,39561,6.37
-5,Bishwanath,230,21200,3500,787,25487,30561,1.2
-6,Companiganj,500,19300,13400,8100,40800,70400,1.72
-7,Dakhin surma,1900,7000,23000,3000,33000,34900,2.3
-8,Fenchuganj,1523,6320,5952,1023,3304,1625,2.4
-9,Golapganj,6365,15570,18825,5250,37645,39645,2.5
-10,Gowainghat,10644,20800,35770,3630,60220,60220,2.25
-11,Jaintiapur,1283,11070,30750,2172,49992,63665,1.03
-12,Kanaighat,10627,36492,1524,1039,33204,38016,1.14
-13,Sylhet city corporation,0,0,0,0,0,0,0
-14,Sylhet sadar,729,11676,20007,20995,52678,105556,1.3
-15,Zakiganj,10326,18732,16256,4309,19338,20394,1.32
-16,Total,44812,237048,202054,55255,462576,590043,24.79
+1,Sylhet,,,,,,,
+2,,,,,,,,
+3,Upazila/City Corporation,Current fallow,Temporary cropped area Single,Temporary cropped area Double,Temporary cropped area Triple,Temporary cropped area Net,Temporary cropped area Gross,Productivity of crop
+4,Balaganj,152,51090,15960,830,67880,85500,1.26
+5,Beanibazar,533,17798,17110,4120,39028,39561,6.37
+6,Bishwanath,230,21200,3500,787,25487,30561,1.2
+7,Companiganj,500,19300,13400,8100,40800,70400,1.72
+8,Dakhin Surma,1900,7000,23000,3000,33000,34900,2.3
+9,Fenchuganj,1523,6320,5952,1023,3304,1625,2.4
+10,Golapganj,6365,15570,18825,5250,37645,39645,2.5
+11,Gowainghat,10644,20800,35770,3630,60220,60220,2.25
+12,Jaintiapur,1283,11070,30750,2172,49992,63665,1.03
+13,Kanaighat,10627,36492,1524,1039,33204,38016,1.14
+14,Sylhet City Corporation,0,0,0,0,0,0,0
+15,Sylhet Sadar,729,11676,20007,20995,52678,105556,1.3
+16,Zakiganj,10326,18732,16256,4309,19338,20394,1.32
+17,Total,44812,237048,202054,55255,462576,590043,24.79

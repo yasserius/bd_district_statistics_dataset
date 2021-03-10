@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,,,,,,,,
-2, Upazila, Households,Population(000) - Male,Population(000) - Female,Population(000) - Both sex,Sex ratio (M/F),Average size of households,Density per sq. km.
-3,Bhola Sadar,88068,214212,216308,430520,99,4.85,1042
-4,Burhanuddin,48534,115033,118827,233860,97,4.81,822
-5,Char Fasson,94649,228693,227744,456437,100,4.82,413
-6,Daulatkhan,34670,83369,85198,168537,98,4.86,532
-7,Lalmohan,60988,138877,145012,283889,96,4.65,716
-8,Manpura,17080,38746,37836,76582,102,4.48,205
-9,Tazumuddin,28734,65139,61801,126940,105,4.42,247
-10,Total,372723,884069,892726,1776765,99,4.76,522
+1,Bhola,,,,,,,
+2,,,,,,,,
+3, Upazila, Households,Population(000) - Male,Population(000) - Female,Population(000) - Both sex,Sex ratio (M/F),Average size of households,Density per sq. km.
+4,Bhola Sadar,88068,214212,216308,430520,99,4.85,1042
+5,Burhanuddin,48534,115033,118827,233860,97,4.81,822
+6,Char Fasson,94649,228693,227744,456437,100,4.82,413
+7,Daulatkhan,34670,83369,85198,168537,98,4.86,532
+8,Lalmohan,60988,138877,145012,283889,96,4.65,716
+9,Manpura,17080,38746,37836,76582,102,4.48,205
+10,Tazumuddin,28734,65139,61801,126940,105,4.42,247
+11,Total,372723,884069,892726,1776765,99,4.76,522

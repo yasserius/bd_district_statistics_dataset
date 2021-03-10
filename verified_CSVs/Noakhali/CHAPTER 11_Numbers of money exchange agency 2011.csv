@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Numbers of money exchange agency 2011,,,,
-1,,,,,
-2, Upazila, Number of money exchange agency, Number of employee,Annual transactions per money exchange agency (lac tk),Annual profit per agency (lac tk)
-3,Begumganj,2,10,580,3.7
-4,Chatkhil,0,0,0,0
-5,Companiganj,0,0,0,0
-6,Hatiya,2,4,115,1.5
-7,Kabirhat,0,0,0,0
-8,Noakhali Sadar,0,0,0,0
-9,Senbagh,0,0,0,0
-10,Sonaimuri,0,0,0,0
-11,Subarnachar,5,15,2300,5.1
-12,Total,9,29,2995,10.3
+1,Noakhali,,,,
+2,,,,,
+3,Upazila, Number of money exchange agency, Number of employee,Annual transactions per money exchange agency (lac tk),Annual profit per agency (lac tk)
+4,Begumganj,2,10,580,3.7
+5,Chatkhil,0,0,0,0
+6,Companiganj,0,0,0,0
+7,Hatiya,2,4,115,1.5
+8,Kabirhat,0,0,0,0
+9,Noakhali Sadar,0,0,0,0
+10,Senbagh,0,0,0,0
+11,Sonaimuri,0,0,0,0
+12,Subarnachar,5,15,2300,5.1
+13,Total,9,29,2995,10.3

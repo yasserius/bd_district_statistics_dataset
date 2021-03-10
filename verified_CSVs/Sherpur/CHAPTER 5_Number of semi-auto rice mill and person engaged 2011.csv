@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of semi-auto rice mill and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged - Male,Person engaged - Female,Person engaged - Total
-3,Jhenaigati,60,185,150,335
-4,Nakla,7,28,56,84
-5,Nalitabari,6,180,180,360
-6,Sherpur Sadar,8,57,57,114
-7,Sreebardi,0,0,0,0
-8,Total,81,450,443,893
+1,Sherpur,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged - Male,Person engaged - Female,Person engaged - Total
+4,Jhenaigati,60,185,150,335
+5,Nakla,7,28,56,84
+6,Nalitabari,6,180,180,360
+7,Sherpur Sadar,8,57,57,114
+8,Sreebardi,0,0,0,0
+9,Total,81,450,443,893

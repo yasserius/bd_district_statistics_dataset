@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of registered primary school (class I-V), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of registered primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Gopalganj Sadar,77,169,121,290,5259,5312,10571,36
-4,Kashiani,51,78,117,195,2133,2607,4740,24
-5,Kotalipara,69,94,110,204,3420,5021,8441,41
-6,Muksudpur,61,83,124,207,3174,3879,7053,34
-7,Tungipara,35,66,57,123,2086,2139,4225,34
-8,Total,293,490,529,1019,16072,18958,35030,34
+1,Gopalgonj,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of registered primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Gopalganj Sadar,77,169,121,290,5259,5312,10571,36
+5,Kashiani,51,78,117,195,2133,2607,4740,24
+6,Kotalipara,69,94,110,204,3420,5021,8441,41
+7,Muksudpur,61,83,124,207,3174,3879,7053,34
+8,Tungipara,35,66,57,123,2086,2139,4225,34
+9,Total,293,490,529,1019,16072,18958,35030,34

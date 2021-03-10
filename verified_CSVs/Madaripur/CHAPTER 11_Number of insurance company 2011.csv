@@ -1,9 +1,10 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,,,,
-2,Upazila,Number of insurance company,Number of employee,Number of client
-3,Kalkini,16,18215,2200340
-4,Madaripur Sadar,9,62,47000
-5,Rajoir,7,49,5683
-6,Shibchar,12,48,96000
-7,Total,44,18374,2349023
+1,Madaripur,,,
+2,,,,
+3,Upazila,Number of insurance company,Number of employee,Number of client
+4,Kalkini,16,18215,2200340
+5,Madaripur Sadar,9,62,47000
+6,Rajoir,7,49,5683
+7,Shibchar,12,48,96000
+8,Total,44,18374,2349023

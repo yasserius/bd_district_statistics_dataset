@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Existing position of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of Total employee
-3,Bhandaria,32,34,709,104,879
-4,Kawkhali,18,32,424,115,589
-5,Mathbaria,36,36,977,277,1326
-6,Nazirpur,13,30,242,85,370
-7,Nesarabad,45,34,283,110,470
-8,Pirojpur Sadar,127,46,1133,482,1803
-9,Zianagar,11,12,118,50,191
-10,Total,282,224,3886,1223,5628
+1,Pirojpur,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of Total employee
+4,Bhandaria,32,34,709,104,879
+5,Kawkhali,18,32,424,115,589
+6,Mathbaria,36,36,977,277,1326
+7,Nazirpur,13,30,242,85,370
+8,Nesarabad,45,34,283,110,470
+9,Pirojpur Sadar,127,46,1133,482,1803
+10,Zianagar,11,12,118,50,191
+11,Total,282,224,3886,1223,5628

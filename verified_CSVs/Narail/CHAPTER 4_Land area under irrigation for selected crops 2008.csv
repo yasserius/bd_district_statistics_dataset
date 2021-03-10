@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6
 0,Land area under irrigation for selected crops 2008,,,,,,
-1,,,,,,,
-2, Upazila,Paddy - Total area,Paddy - Irrigated area,Wheat - Total area,Wheat - Irrigated area,Potato - Total area,Potato - Irrigated area
-3,Kalia,52564,26877,589,589,19,19
-4,Lohagara,35863,18583,3140,3140,66,66
-5,Narail Sadar,74516,34608,2017,2017,116,116
-6,Total,162943,80068,5746,5746,201,201
+1,Narail,,,,,,
+2,,,,,,,
+3, Upazila,Paddy - Total area,Paddy - Irrigated area,Wheat - Total area,Wheat - Irrigated area,Potato - Total area,Potato - Irrigated area
+4,Kalia,52564,26877,589,589,19,19
+5,Lohagara,35863,18583,3140,3140,66,66
+6,Narail Sadar,74516,34608,2017,2017,116,116
+7,Total,162943,80068,5746,5746,201,201

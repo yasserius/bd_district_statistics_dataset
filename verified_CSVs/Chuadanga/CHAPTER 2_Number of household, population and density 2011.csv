@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,,,,,,,,
-2, Upazila, Household,Population (000) - Male,Population (000) - Female,Population (000) - Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
-3,Alamdanga,86299,173,173,346,100,4.0,949
-4,Chuadanga Sadar,77144,157,157,314,100,4.0,1052
-5,Damurhuda,69836,145,144,289,101,4.1,928
-6,Jibonnagar,44185,90,90,180,100,4.1,901
-7,Total,277464,565,564,1129,100,4.05,962
+1,Chuadanga,,,,,,,
+2,,,,,,,,
+3,Upazila, Household,Population (000) - Male,Population (000) - Female,Population (000) - Both sex,Sex ratio (M/F),Average size of household,Density per sq. km.
+4,Alamdanga,86299,173,173,346,100,4.0,949
+5,Chuadanga Sadar,77144,157,157,314,100,4.0,1052
+6,Damurhuda,69836,145,144,289,101,4.1,928
+7,Jibonnagar,44185,90,90,180,100,4.1,901
+8,Total,277464,565,564,1129,100,4.05,962

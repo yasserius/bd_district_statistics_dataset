@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Employment status in handloom industry 2011,,,,,
-1,,,,,,
-2, Upazila,Number of handloom,Person engaged - Family member,Person engaged - Regular,Person engaged - Hired /Casual, Total
-3,Gazipur Sadar,0,0,0,0,0
-4,Kaliakair,0,0,0,0,0
-5,Kaliganj,27,16,56,17,89
-6,Kapashia,0,0,0,0,0
-7,Sreepur,0,0,0,0,0
-8,Total,27,16,56,17,89
+1,Gazipur,,,,,
+2,,,,,,
+3, Upazila,Number of handloom,Person engaged - Family member,Person engaged - Regular,Person engaged - Hired /Casual, Total
+4,Gazipur Sadar,0,0,0,0,0
+5,Kaliakair,0,0,0,0,0
+6,Kaliganj,27,16,56,17,89
+7,Kapashia,0,0,0,0,0
+8,Sreepur,0,0,0,0,0
+9,Total,27,16,56,17,89

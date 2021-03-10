@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,Number of flour mill and person engaged 2011,,,,
-1,,,,,
-2,Upazila/city corporation,Number of unit,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Bagha,25,25,25,50
-4,Baghmara,37,49,35,84
-5,Charghat,70,70,50,120
-6,Durgapur,1,2,11,13
-7,Godagari,110,200,150,350
-8,Mohanpur,15,15,8,23
-9,Paba,85,110,85,195
-10,Puthia,21,24,54,78
-11,Rajshahi city corporation,8,12,87,99
-12,Tanore,0,0,0,0
-13,Total,335,507,505,1012
+1,Rajshahi,,,,
+2,,,,,
+3,Upazila/city corporation,Number of unit,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Bagha,25,25,25,50
+5,Baghmara,37,49,35,84
+6,Charghat,70,70,50,120
+7,Durgapur,1,2,11,13
+8,Godagari,110,200,150,350
+9,Mohanpur,15,15,8,23
+10,Paba,85,110,85,195
+11,Puthia,21,24,54,78
+12,Rajshahi City Corporation,8,12,87,99
+13,Tanore,0,0,0,0
+14,Total,335,507,505,1012

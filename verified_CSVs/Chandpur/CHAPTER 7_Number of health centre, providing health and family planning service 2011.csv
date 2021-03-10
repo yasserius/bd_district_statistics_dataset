@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of health centre, providing health and family planning service 2011",,,,,,,
-1,,,,,,,,
-2, Upazila,Number of union health centre, Health services, Sterilization, M.R., Injection/ copper-T, Oral pill/ condoms,Number of immunization centre
-3,Chandpur Sadar,14,989,884,1008,11903,25861,337
-4,Foridganj,15,941,391,792,1563,18454,384
-5,Haimchar,6,105,250,104,1024,7172,54
-6,Hajiganj,11,240,279,250,3109,22017,99
-7,Kachua,12,797,385,217,1200,25938,284
-8,Matlab Dakshin,6,814,854,110,1540,25142,186
-9,Matlab Uttar,14,914,412,256,1585,8521,257
-10,Shahrasti,10,865,318,245,1689,2390,258
-11,Total,88,5665,3773,2982,23613,135495,1859
+1,Chandpur,,,,,,,
+2,,,,,,,,
+3, Upazila,Number of union health centre, Health services, Sterilization, M.R., Injection/ copper-T, Oral pill/ condoms,Number of immunization centre
+4,Chandpur Sadar,14,989,884,1008,11903,25861,337
+5,Foridganj,15,941,391,792,1563,18454,384
+6,Haimchar,6,105,250,104,1024,7172,54
+7,Hajiganj,11,240,279,250,3109,22017,99
+8,Kachua,12,797,385,217,1200,25938,284
+9,Matlab Dakshin,6,814,854,110,1540,25142,186
+10,Matlab Uttar,14,914,412,256,1585,8521,257
+11,Shahrasti,10,865,318,245,1689,2390,258
+12,Total,88,5665,3773,2982,23613,135495,1859

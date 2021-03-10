@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,"Area of high, medium and low land 2008",,,,
-1,,,,,
-2,Upazila,High land,Medium land,Low land,Total land
-3,Assasuni,12879,1912,25661,40452
-4,Debhata,1865,6349,9066,17280
-5,Kalaroa,14296,28593,14298,57187
-6,Kaliganj,4576,14590,19670,38836
-7,Satkhira Sadar,23157,50116,25217,98490
-8,Shyamnagar,4510,80013,9989,94512
-9,Tala,2176,11782,37138,51096
-10,Total,63459,193355,141039,397853
+1,Satkhira,,,,
+2,,,,,
+3,Upazila,High land,Medium land,Low land,Total land
+4,Assasuni,12879,1912,25661,40452
+5,Debhata,1865,6349,9066,17280
+6,Kalaroa,14296,28593,14298,57187
+7,Kaliganj,4576,14590,19670,38836
+8,Satkhira Sadar,23157,50116,25217,98490
+9,Shyamnagar,4510,80013,9989,94512
+10,Tala,2176,11782,37138,51096
+11,Total,63459,193355,141039,397853

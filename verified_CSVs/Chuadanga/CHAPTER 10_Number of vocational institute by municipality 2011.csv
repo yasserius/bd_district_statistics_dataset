@@ -1,9 +1,10 @@
 ,0,1,2,3
 0,Number of vocational institute by municipality 2011,,,
-1,,,,
-2,Municipality,Number of institution,Number of teacher,Number of student
-3,Alamdanga,3,8,180
-4,Chuadanga Sadar,1,23,1012
-5,Darshana,0,0,0
-6,Jibonnagar,2,5,130
-7,Total,6,36,1322
+1,Chuadanga,,,
+2,,,,
+3,Municipality,Number of institution,Number of teacher,Number of student
+4,Alamdanga,3,8,180
+5,Chuadanga Sadar,1,23,1012
+6,Darshana,0,0,0
+7,Jibonnagar,2,5,130
+8,Total,6,36,1322

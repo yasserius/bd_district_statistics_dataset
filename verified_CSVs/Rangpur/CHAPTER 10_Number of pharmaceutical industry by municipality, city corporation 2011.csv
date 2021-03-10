@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6
 0,"Number of pharmaceutical industry by municipality, city corporation 2011",,,,,,
-1,,,,,,,
-2,Municipality /city corporation,Industry,Chemist,Technician,Male worker,Female worker,Total person engaged
-3,Badarganj,0,0,0,0,0,0
-4,Haragach,0,0,0,0,0,0
-5,Rangpur,6,10,20,47,32,79
-6,Total,6,10,20,47,32,79
+1,Rangpur,,,,,,
+2,,,,,,,
+3,Municipality /city corporation,Industry,Chemist,Technician,Male worker,Female worker,Total person engaged
+4,Badarganj,0,0,0,0,0,0
+5,Haragach,0,0,0,0,0,0
+6,Rangpur,6,10,20,47,32,79
+7,Total,6,10,20,47,32,79

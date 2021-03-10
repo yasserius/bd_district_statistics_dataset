@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Broad soil classification 2008,,,,,
-1,,,,,,
-2,Upazila,Total,Soil classification - Doash,Soil classification - Bele,Soil classification - Etel,Soil classification - Other
-3,Bakshiganj,43685,16157,21454,8581,4292
-4,Dewanganj,50090,16287,24499,9304,0
-5,Islampur,65315,26713,19925,12162,12367
-6,Jamalpur Sadar,121009,78589,2829,31569,4927
-7,Madarganj,60062,34235,3982,2568,10500
-8,Melandaha,67322,38173,15906,9543,0
-9,Sarishabari,69229,30067,5372,10907,3705
-10,Total,476710,240221,93967,84634,35791
+1,Jamalpur,,,,,
+2,,,,,,
+3,Upazila,Total,Soil classification - Doash,Soil classification - Bele,Soil classification - Etel,Soil classification - Other
+4,Bakshiganj,43685,16157,21454,8581,4292
+5,Dewanganj,50090,16287,24499,9304,0
+6,Islampur,65315,26713,19925,12162,12367
+7,Jamalpur Sadar,121009,78589,2829,31569,4927
+8,Madarganj,60062,34235,3982,2568,10500
+9,Melandaha,67322,38173,15906,9543,0
+10,Sarishabari,69229,30067,5372,10907,3705
+11,Total,476710,240221,93967,84634,35791

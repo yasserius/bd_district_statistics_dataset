@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Number of community clinic and person engaged 2011,,,,,,
-1,,,,,,,
-2, Upazila,Number of clinic,Number of health assistant,Number of FPI,Number of FWV,Number of FWA,Number of other staff
-3,Belabo,17,17,5,8,36,25
-4,Manohardi,33,47,7,13,59,30
-5,Narsingdi Sadar,37,56,6,17,62,23
-6,Palash,13,29,5,6,30,13
-7,Roypura,53,66,14,21,96,31
-8,Sibpur,37,1,0,0,0,0
-9,Total,190,216,37,65,283,122
+1,Narsingdi,,,,,,
+2,,,,,,,
+3, Upazila,Number of clinic,Number of health assistant,Number of FPI,Number of FWV,Number of FWA,Number of other staff
+4,Belabo,17,17,5,8,36,25
+5,Manohardi,33,47,7,13,59,30
+6,Narsingdi Sadar,37,56,6,17,62,23
+7,Palash,13,29,5,6,30,13
+8,Roypura,53,66,14,21,96,31
+9,Shibpur,37,1,0,0,0,0
+10,Total,190,216,37,65,283,122

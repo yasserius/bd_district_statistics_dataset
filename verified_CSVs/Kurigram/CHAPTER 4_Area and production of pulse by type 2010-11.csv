@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8
 0,Area and production of pulse by type 2010-11,,,,,,,,
-1,(Area in acre and production in metric ton),,,,,,,,
-2,Upazila,Gram - Area,Gram - Production,Motor - Area,Motor - Production,Khesari - Area,Khesari - Production,Mash-kalai - Area,Mash-kalai - Production
-3,Bhurungamari,1,1,8,3,130,94,1,1
-4,Char Rajibpur,37,14,10,10,690,275,37,14
-5,Chilmari,38,14,5,1,344,206,38,14
-6,Kurigram Sadar,40,15,10,3,265,158,40,15
-7,Nageshwari,10,3,15,5,88,39,10,3
-8,Phulbari,0,0,0,0,140,91,0,0
-9,Rajarhat,0,0,0,0,40,20,0,0
-10,Raumari,45,15,0,0,550,226,45,15
-11,Ulipur,70,28,30,9,240,102,70,28
-12,Total,241,89,78,31,2487,1210,241,89
+1,Kurigram,,,,,,,,
+2,(Area in acre and production in metric ton),,,,,,,,
+3,Upazila,Gram - Area,Gram - Production,Motor - Area,Motor - Production,Khesari - Area,Khesari - Production,Mash-kalai - Area,Mash-kalai - Production
+4,Bhurungamari,1,1,8,3,130,94,1,1
+5,Char Rajibpur,37,14,10,10,690,275,37,14
+6,Chilmari,38,14,5,1,344,206,38,14
+7,Kurigram Sadar,40,15,10,3,265,158,40,15
+8,Nageshwari,10,3,15,5,88,39,10,3
+9,Phulbari,0,0,0,0,140,91,0,0
+10,Rajarhat,0,0,0,0,40,20,0,0
+11,Raumari,45,15,0,0,550,226,45,15
+12,Ulipur,70,28,30,9,240,102,70,28
+13,Total,241,89,78,31,2487,1210,241,89

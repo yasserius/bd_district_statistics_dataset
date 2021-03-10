@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Non-government secondary school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila/city corporation,Number of school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Student per teacher
-3,Bagha,45,407,120,527,5949,6934,12883,24
-4,Baghmara,97,1218,213,1431,14061,13494,27555,19
-5,Charghat,48,440,107,547,5670,6069,11739,21
-6,Durgapur,43,398,101,499,6277,5595,11872,24
-7,Godagari,58,427,163,590,7826,10079,17905,30
-8,Mohanpur,50,452,97,549,12169,6163,18332,33
-9,Paba,54,450,140,590,7953,9268,17221,29
-10,Puthia,46,398,116,514,7396,6850,14246,28
-11,Rajshahi city corporation,41,402,172,574,10247,12508,22755,40
-12,Tanore,59,358,70,428,5881,6726,12607,29
-13,Total,541,4950,1299,6249,83429,83686,167115,27
+1,Rajshahi,,,,,,,,
+2,,,,,,,,,
+3,Upazila/city corporation,Number of school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Student per teacher
+4,Bagha,45,407,120,527,5949,6934,12883,24
+5,Baghmara,97,1218,213,1431,14061,13494,27555,19
+6,Charghat,48,440,107,547,5670,6069,11739,21
+7,Durgapur,43,398,101,499,6277,5595,11872,24
+8,Godagari,58,427,163,590,7826,10079,17905,30
+9,Mohanpur,50,452,97,549,12169,6163,18332,33
+10,Paba,54,450,140,590,7953,9268,17221,29
+11,Puthia,46,398,116,514,7396,6850,14246,28
+12,Rajshahi City Corporation,41,402,172,574,10247,12508,22755,40
+13,Tanore,59,358,70,428,5881,6726,12607,29
+14,Total,541,4950,1299,6249,83429,83686,167115,27

@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of wheat, jute and sugarcane 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Wheat - Area,Wheat - Production,Jute - Area,Jute - Production,Sugarcane - Area,Sugarcane - Production
-3,Jhenaigati,145,89,143,468,51,597
-4,Nakla,245,181,3858,14127,246,5448
-5,Nalitabari,61,50,39,28,41,748
-6,Sherpur Sadar,1577,1325,13118,52154,9,226
-7,Sreebardi,272,170,4743,20151,3,4
-8,Total,2300,1815,21901,86928,350,7023
+1,Sherpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Wheat - Area,Wheat - Production,Jute - Area,Jute - Production,Sugarcane - Area,Sugarcane - Production
+4,Jhenaigati,145,89,143,468,51,597
+5,Nakla,245,181,3858,14127,246,5448
+6,Nalitabari,61,50,39,28,41,748
+7,Sherpur Sadar,1577,1325,13118,52154,9,226
+8,Sreebardi,272,170,4743,20151,3,4
+9,Total,2300,1815,21901,86928,350,7023

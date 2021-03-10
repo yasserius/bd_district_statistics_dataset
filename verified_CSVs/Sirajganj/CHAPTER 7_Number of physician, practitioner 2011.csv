@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,"Number of physician, practitioner 2011",,,,,
-1,,,,,,
-2,Upazila,Physician,"MBBS, FCPS/over",L.M.F,Unani / ayurbedic,Homeopathy
-3,Belkuchi,246,6,90,65,85
-4,Chauhali,18,4,2,0,12
-5,Kamarkhanda,33,0,11,0,21
-6,Kazipur,9,0,2,2,5
-7,Royganj,61,7,9,3,42
-8,Shahjadpur,29,29,15,2,0
-9,Sirajganj Sadar,120,120,17,5,26
-10,Tarash,5,0,10,0,6
-11,Ullahpara,148,7,3,12,126
-12,Total,669,173,159,89,323
+1,Sirajganj,,,,,
+2,,,,,,
+3,Upazila,Physician,"MBBS, FCPS/over",L.M.F,Unani / ayurbedic,Homeopathy
+4,Belkuchi,246,6,90,65,85
+5,Chauhali,18,4,2,0,12
+6,Kamarkhanda,33,0,11,0,21
+7,Kazipur,9,0,2,2,5
+8,Royganj,61,7,9,3,42
+9,Shahjadpur,29,29,15,2,0
+10,Sirajganj Sadar,120,120,17,5,26
+11,Tarash,5,0,10,0,6
+12,Ullahpara,148,7,3,12,126
+13,Total,669,173,159,89,323

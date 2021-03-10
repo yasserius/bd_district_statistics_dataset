@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Sonali and Janata bank 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Sonali bank - Number of branch,Sonali bank - Account - S.D,Sonali bank - Account - C.D,Sonali bank - Account - F.D,Sonali bank - Account - S.T.D,Janata bank - Number of branch,Janata bank - Account - S.D,Janata bank - Account - C.D,Janata bank - Account - F.D,Janata bank - Account - S.T.D
-3,Araihazar,4,14835,1766,215,43,1,4046,15,16,0
-4,Bandar,5,22039,1553,561,31,3,17401,1954,583,48
-5,Narayanganj Sadar,18,34329,8161,3608,104,11,48075,5828,1168,129
-6,Rupganj,2,15818,2784,211,23,1,7971,713,91,11
-7,Sonargaon,3,11421,758,422,35,3,18994,1306,437,22
-8,Total,32,98442,15022,5017,236,19,96487,9816,2295,210
+1,Narayanganj,,,,,,,,,,
+2,,,,,,,,,,,
+3, Upazila,Sonali bank - Number of branch,Sonali bank - Account - S.D,Sonali bank - Account - C.D,Sonali bank - Account - F.D,Sonali bank - Account - S.T.D,Janata bank - Number of branch,Janata bank - Account - S.D,Janata bank - Account - C.D,Janata bank - Account - F.D,Janata bank - Account - S.T.D
+4,Araihazar,4,14835,1766,215,43,1,4046,15,16,0
+5,Bandar,5,22039,1553,561,31,3,17401,1954,583,48
+6,Narayanganj Sadar,18,34329,8161,3608,104,11,48075,5828,1168,129
+7,Rupganj,2,15818,2784,211,23,1,7971,713,91,11
+8,Sonargaon,3,11421,758,422,35,3,18994,1306,437,22
+9,Total,32,98442,15022,5017,236,19,96487,9816,2295,210

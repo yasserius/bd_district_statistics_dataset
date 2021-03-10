@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,,,,,
-2,Upazila,Number of pump fielded Electric,Number of pump fielded Diesel,Number of pump fielded Total,Area irrigated (in acres)
-3,Dighinala,0,0,0,0
-4,Khagrachhari Sadar,0,0,0,0
-5,Laxshmichhari,8,94,102,902
-6,Mahalchhari,11,445,720,4560
-7,Manikchhari,3,341,344,5033
-8,Matiranga,6,410,416,4400
-9,Panchhari,20,346,366,3940
-10,Ramgarh,4,6,10,1300
-11,Total,52,1642,1958,20135
+1,Khagrachori,,,,
+2,,,,,
+3,Upazila,Number of pump fielded Electric,Number of pump fielded Diesel,Number of pump fielded Total,Area irrigated (in acres)
+4,Dighinala,0,0,0,0
+5,Khagrachori,0,0,0,0
+6,Laxshmichhari,8,94,102,902
+7,Mahalchhari,11,445,720,4560
+8,Manikchhari,3,341,344,5033
+9,Matiranga,6,410,416,4400
+10,Panchhari,20,346,366,3940
+11,Ramgarh,4,6,10,1300
+12,Total,52,1642,1958,20135

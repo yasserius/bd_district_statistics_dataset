@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pumpkin, parble (potol) and cabbage 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Pumpkin Area,Pumpkin Production,Parble (potol) Area,Parble (potol) Production,Cabbage Area,Cabbage Production
-3,Baghaichhari,161,121,0,0,22,9
-4,Barkal,54,130,0,0,28,51
-5,Belai Chhari,27,60,0,0,9,11
-6,Jurai Chhari,42,89,0,0,9,16
-7,Kaptai,76,337,0,0,38,110
-8,Kawkhali,77,278,0,0,33,263
-9,Langadu,134,322,0,0,30,450
-10,Naniarchar,189,435,1,0,81,114
-11,Rangamati Sadar,286,834,0,0,40,130
-12,Rajasthali,9,15,0,0,11,11
-13,Total,1055,2621,1,0,301,1165
+1,Rangamati,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Pumpkin Area,Pumpkin Production,Parble (potol) Area,Parble (potol) Production,Cabbage Area,Cabbage Production
+4,Baghaichhari,161,121,0,0,22,9
+5,Barkal,54,130,0,0,28,51
+6,Belai Chhari,27,60,0,0,9,11
+7,Jurai Chhari,42,89,0,0,9,16
+8,Kaptai,76,337,0,0,38,110
+9,Kawkhali,77,278,0,0,33,263
+10,Langadu,134,322,0,0,30,450
+11,Naniarchar,189,435,1,0,81,114
+12,Rangamati Sadar,286,834,0,0,40,130
+13,Rajasthali,9,15,0,0,11,11
+14,Total,1055,2621,1,0,301,1165

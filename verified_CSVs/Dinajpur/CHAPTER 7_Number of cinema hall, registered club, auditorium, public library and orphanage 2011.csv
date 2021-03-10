@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,,,,,,
-2,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
-3,Biral,0,105,1,17,1
-4,Birampur,2,130,1,9,1
-5,Birganj,1,52,0,20,1
-6,Bochaganj,1,71,0,4,1
-7,Chirirbandar,0,108,3,24,1
-8,Dinajpur Sadar,3,85,1,17,7
-9,Fulbari,3,83,1,14,1
-10,Ghoraghat,1,67,5,13,1
-11,Hakimpur,1,18,1,4,1
-12,Kaharole,1,52,1,4,1
-13,Khansama,0,74,3,19,1
-14,Nawabganj,1,56,0,9,1
-15,Parbatipur,2,204,1,20,1
-16,Total,16,1105,18,174,19
+1,Dinajpur,,,,,
+2,,,,,,
+3,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
+4,Biral,0,105,1,17,1
+5,Birampur,2,130,1,9,1
+6,Birganj,1,52,0,20,1
+7,Bochaganj,1,71,0,4,1
+8,Chirirbandar,0,108,3,24,1
+9,Dinajpur Sadar,3,85,1,17,7
+10,Fulbari,3,83,1,14,1
+11,Ghoraghat,1,67,5,13,1
+12,Hakimpur,1,18,1,4,1
+13,Kaharole,1,52,1,4,1
+14,Khansama,0,74,3,19,1
+15,Nawabganj,1,56,0,9,1
+16,Parbatipur,2,204,1,20,1
+17,Total,16,1105,18,174,19

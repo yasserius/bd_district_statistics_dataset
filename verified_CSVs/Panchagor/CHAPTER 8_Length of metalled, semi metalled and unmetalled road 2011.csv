@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
-1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
-3,Atwari,83.51,0,693.51,777.01
-4,Boda,84.86,0,558.16,653.02
-5,Debiganj,112,0,436,548
-6,Panchagarh Sadar,68,1,734,803
-7,Tentulia,101,0,364.5,465.5
-8,Total,449.37,1,2786.17,3246.53
+1,Panchagor,,,,
+2,(Kilometer),,,,
+3,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
+4,Atwari,83.51,0,693.51,777.01
+5,Boda,84.86,0,558.16,653.02
+6,Debiganj,112,0,436,548
+7,Panchagarh Sadar,68,1,734,803
+8,Tentulia,101,0,364.5,465.5
+9,Total,449.37,1,2786.17,3246.53

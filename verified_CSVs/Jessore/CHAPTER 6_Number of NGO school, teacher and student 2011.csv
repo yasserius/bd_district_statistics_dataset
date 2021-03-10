@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of NGO school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of NGO school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Abhaynagar,22,7,30,37,416,513,929,25
-4,Bagherpara,22,0,22,22,340,350,690,31
-5,Chaugachha,11,0,11,11,130,200,330,30
-6,Jessore Sadar,31,52,104,156,1545,1407,2861,18
-7,Jhikargachha,75,0,80,80,918,1107,2025,25
-8,Keshabpur,22,36,44,80,744,814,1558,19
-9,Manirampur,119,0,119,119,1484,2041,3525,30
-10,Sharsha,42,0,42,42,630,630,1260,30
-11,Total,344,95,452,547,6207,7062,13178,24
+1,Jessore,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of NGO school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Abhaynagar,22,7,30,37,416,513,929,25
+5,Bagherpara,22,0,22,22,340,350,690,31
+6,Chaugachha,11,0,11,11,130,200,330,30
+7,Jessore Sadar,31,52,104,156,1545,1407,2861,18
+8,Jhikargachha,75,0,80,80,918,1107,2025,25
+9,Keshabpur,22,36,44,80,744,814,1558,19
+10,Manirampur,119,0,119,119,1484,2041,3525,30
+11,Sharsha,42,0,42,42,630,630,1260,30
+12,Total,344,95,452,547,6207,7062,13178,24

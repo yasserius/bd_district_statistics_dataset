@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of technical and vocational institution, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila,Institution,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Magura Sadar,1,12,7,19,307,0,307,16
-4,Mohammadpur,0,0,0,0,0,0,0,0
-5,Shalikha,0,0,0,0,0,0,0,0
-6,Sreepur,0,0,0,0,0,0,0,0
-7,Total,1,12,7,19,307,0,307,16
+1,Magura,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Institution,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Magura Sadar,1,12,7,19,307,0,307,16
+5,Mohammadpur,0,0,0,0,0,0,0,0
+6,Shalikha,0,0,0,0,0,0,0,0
+7,Sreepur,0,0,0,0,0,0,0,0
+8,Total,1,12,7,19,307,0,307,16

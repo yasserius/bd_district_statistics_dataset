@@ -1,21 +1,22 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish during the year 2010-2011,,,,
-1,(Production in metric ton),,,,
-2,Upazila,2010-11 - Number,2010-11 - Production,2009-10 - Number,2009-10 - Production
-3,Adarsha Sadar,554,4 515,551,4511
-4,Barura,1525,8668,1540,7452
-5,Brahmanpara,506,607,496,595
-6,Burichang,192,5037,192,4980
-7,Chandina,9461,17411,9452,17360
-8,Chauddagram,105,225,102,220
-9,Comilla Sadar Dakshin,210,4066,210,4035
-10,Daudkandi,1160,6087,1075,5182
-11,Debidwar,3710,2855,3805,2980
-12,Homna,1257,2625,1257,2593
-13,Laksam,365,5132,365,4619
-14,Monoharganj,2926,3904,2886,3851
-15,Meghna,1180,3320,1250,4500
-16,Muradnagar,1600,9855,1650,9590
-17,Nangalkot,2710,5210,2700,5185
-18,Titas,1505,505,1450,485
-19,Total,28966,80023,28981,78138
+1,Comilla,,,,
+2,(Production in metric ton),,,,
+3,Upazila,2010-11 - Number,2010-11 - Production,2009-10 - Number,2009-10 - Production
+4,Adarsha Sadar,554,4 515,551,4511
+5,Barura,1525,8668,1540,7452
+6,Brahmanpara,506,607,496,595
+7,Burichang,192,5037,192,4980
+8,Chandina,9461,17411,9452,17360
+9,Chauddagram,105,225,102,220
+10,Comilla Sadar Dakshin,210,4066,210,4035
+11,Daudkandi,1160,6087,1075,5182
+12,Debidwar,3710,2855,3805,2980
+13,Homna,1257,2625,1257,2593
+14,Laksam,365,5132,365,4619
+15,Monoharganj,2926,3904,2886,3851
+16,Meghna,1180,3320,1250,4500
+17,Muradnagar,1600,9855,1650,9590
+18,Nangalkot,2710,5210,2700,5185
+19,Titas,1505,505,1450,485
+20,Total,28966,80023,28981,78138

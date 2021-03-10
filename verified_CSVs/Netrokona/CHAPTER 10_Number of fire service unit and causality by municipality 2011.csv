@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5
 0,Number of fire service unit and causality by municipality 2011,,,,,
-1,,,,,,
-2, Upazila,Fire service unit,Person employed, Fire case, Person dead, Person injured
-3,Atpara,0,0,0,0,0
-4,Barhatta,0,0,0,0,0
-5,Durgapur,0,0,0,0,0
-6,Kalmakanda,0,0,0,0,0
-7,Kendua,0,0,0,0,0
-8,Khaliajuri,0,0,0,0,0
-9,Madan,1,0,0,0,0
-10,Mohanganj,1,18,39,0,0
-11,Netrokona Sadar,1,29,79,0,2
-12,Purbadhala,0,0,0,0,0
-13,Total,3,47,118,0,2
+1,Netrokona,,,,,
+2,,,,,,
+3,Upazila,Fire service unit,Person employed, Fire case, Person dead, Person injured
+4,Atpara,0,0,0,0,0
+5,Barhatta,0,0,0,0,0
+6,Durgapur,0,0,0,0,0
+7,Kalmakanda,0,0,0,0,0
+8,Kendua,0,0,0,0,0
+9,Khaliajuri,0,0,0,0,0
+10,Madan,1,0,0,0,0
+11,Mohanganj,1,18,39,0,0
+12,Netrokona Sadar,1,29,79,0,2
+13,Purbadhala,0,0,0,0,0
+14,Total,3,47,118,0,2

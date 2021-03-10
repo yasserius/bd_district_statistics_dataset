@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Chhagalnaiya,50,21,16,11,36
-4,Daganbhuiyan,31,10,7,3,80
-5,Feni Sadar,250,40,42,7,101
-6,Fulgazi,31,8,4,4,47
-7,Parshuram,50,13,8,4,56
-8,Sonagazi,31,7,5,1,158
-9,Total,443,99,82,30,478
+1,Feni,,,,,
+2,,,,,,
+3,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Chhagalnaiya,50,21,16,11,36
+5,Daganbhuiyan,31,10,7,3,80
+6,Feni Sadar,250,40,42,7,101
+7,Fulgazi,31,8,4,4,47
+8,Parshuram,50,13,8,4,56
+9,Sonagazi,31,7,5,1,158
+10,Total,443,99,82,30,478

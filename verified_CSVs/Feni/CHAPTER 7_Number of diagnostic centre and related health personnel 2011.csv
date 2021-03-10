@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Chhagalnaiya,10,0,3,11,9
-4,Daganbhuiyan,3,5,0,3,8
-5,Feni Sadar,14,14,18,19,35
-6,Fulgazi,2,3,0,5,6
-7,Parshuram,3,8,0,4,11
-8,Sonagazi,1,1,2,1,3
-9,Total,33,31,23,43,72
+1,Feni,,,,,
+2,,,,,,
+3,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Chhagalnaiya,10,0,3,11,9
+5,Daganbhuiyan,3,5,0,3,8
+6,Feni Sadar,14,14,18,19,35
+7,Fulgazi,2,3,0,5,6
+8,Parshuram,3,8,0,4,11
+9,Sonagazi,1,1,2,1,3
+10,Total,33,31,23,43,72

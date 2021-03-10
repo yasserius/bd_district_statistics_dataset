@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,Cropped area sprayed with plant protection measures 2008,,,,,
-1,,,,,,
-2,Upazila,Total farm holding - Number,Total farm holding - Cropped area,Spraying farm holding - Number,Spraying farm holding - Cropped area,Reporting area sprayed
-3,Belkuchi,26676,29260,24576,16212,9114
-4,Chauhali,36593,29295,1500,212,121
-5,Kamarkhanda,17446,16883,16453,10381,7624
-6,Kazipur,41943,55130,41943,55130,39985
-7,Royganj,43233,52680,43233,52680,39732
-8,Shahjadpur,51832,57474,51832,56250,26450
-9,Sirajganj Sadar,44190,57290,35766,49249,14500
-10,Tarash,30089,63661,25789,55765,16189
-11,Ullahpara,68104,82300,54483,65840,65840
-12,Total,360106,443973,295575,361719,219555
+1,Sirajganj,,,,,
+2,,,,,,
+3,Upazila,Total farm holding - Number,Total farm holding - Cropped area,Spraying farm holding - Number,Spraying farm holding - Cropped area,Reporting area sprayed
+4,Belkuchi,26676,29260,24576,16212,9114
+5,Chauhali,36593,29295,1500,212,121
+6,Kamarkhanda,17446,16883,16453,10381,7624
+7,Kazipur,41943,55130,41943,55130,39985
+8,Royganj,43233,52680,43233,52680,39732
+9,Shahjadpur,51832,57474,51832,56250,26450
+10,Sirajganj Sadar,44190,57290,35766,49249,14500
+11,Tarash,30089,63661,25789,55765,16189
+12,Ullahpara,68104,82300,54483,65840,65840
+13,Total,360106,443973,295575,361719,219555

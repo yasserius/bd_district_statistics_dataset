@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
-1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
-3,Dhaka Metropolitan,1594,104,533,2231
-4,Dhamrai,237,0,409,646
-5,Dohar,266,228,228,722
-6,Keraniganj,254,91,778,1123
-7,Nawabganj,134,113,716,963
-8,Savar,273,114,760,1147
-9,Total,2758,650,3424,6832
+1,Dhaka,,,,
+2,(Kilometer),,,,
+3,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
+4,Dhaka Metropolitan,1594,104,533,2231
+5,Dhamrai,237,0,409,646
+6,Dohar,266,228,228,722
+7,Keraniganj,254,91,778,1123
+8,Nawabganj,134,113,716,963
+9,Savar,273,114,760,1147
+10,Total,2758,650,3424,6832

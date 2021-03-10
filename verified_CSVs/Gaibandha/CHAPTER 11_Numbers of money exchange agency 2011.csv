@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Numbers of money exchange agency 2011,,,,
-1,,,,,
-2, Upazila,Number of money exchange agency,Number of employee,Annual transactions per money exchange agency,Annual profit per agency (lac tk)
-3,Gaibandha Sadar,0,0,0,0
-4,Fulchhari,0,0,0,0
-5,Gobindaganj,0,0,0,0
-6,Palashbari,1,1,0,0
-7,Sadullapur,0,0,0,0
-8,Saghata,0,0,0,0
-9,Sundarganj,0,0,0,0
-10,Total,1,1,0,0
+1,Gaibandha,,,,
+2,,,,,
+3, Upazila,Number of money exchange agency,Number of employee,Annual transactions per money exchange agency,Annual profit per agency (lac tk)
+4,Gaibandha Sadar,0,0,0,0
+5,Fulchhari,0,0,0,0
+6,Gobindaganj,0,0,0,0
+7,Palashbari,1,1,0,0
+8,Sadullapur,0,0,0,0
+9,Saghata,0,0,0,0
+10,Sundarganj,0,0,0,0
+11,Total,1,1,0,0

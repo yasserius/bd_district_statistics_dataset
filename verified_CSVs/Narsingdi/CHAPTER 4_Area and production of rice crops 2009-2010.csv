@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2009-2010,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
-3,Belabo,76,43,12369,12245,13,31599
-4,Manohardi,446,346,24330,24058,25043,42159
-5,Narsingdi Sadar,714,536,11836,8404,22249,33359
-6,Palash,1,1,9880,9744,10381,17201
-7,Roypura,0,0,15954,16464,36650,51280
-8,Sibpur,1,1,24541,22528,25354,40298
-9,Total,1238,926,98910,93444,119690,182537
+1,Narsingdi,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
+4,Belabo,76,43,12369,12245,13,31599
+5,Manohardi,446,346,24330,24058,25043,42159
+6,Narsingdi Sadar,714,536,11836,8404,22249,33359
+7,Palash,1,1,9880,9744,10381,17201
+8,Roypura,0,0,15954,16464,36650,51280
+9,Shibpur,1,1,24541,22528,25354,40298
+10,Total,1238,926,98910,93444,119690,182537

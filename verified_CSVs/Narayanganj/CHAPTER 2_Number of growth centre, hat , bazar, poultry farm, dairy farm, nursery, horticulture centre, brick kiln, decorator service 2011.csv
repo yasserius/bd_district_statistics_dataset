@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of growth centre, hat , bazar, poultry farm, dairy farm, nursery, horticulture centre, brick kiln, decorator service 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila,Growth centre,Hat /bazar,Poultry farm,Dairy farm,Nursery,Horticulture centre,Brick kiln,Decorator service
-3,Araihazar,2,38,301,110,14,1,21,31
-4,Bandar,2,32,77,85,1,0,16,54
-5,Narayanganj Sadar,1,88,179,1767,63,0,228,155
-6,Rupganj,3,42,493,543,11,0,18,35
-7,Sonargaon,7,17,486,346,2,0,9,48
-8,Total,15,217,1536,2851,91,1,292,323
+1,Narayanganj,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Growth centre,Hat /bazar,Poultry farm,Dairy farm,Nursery,Horticulture centre,Brick kiln,Decorator service
+4,Araihazar,2,38,301,110,14,1,21,31
+5,Bandar,2,32,77,85,1,0,16,54
+6,Narayanganj Sadar,1,88,179,1767,63,0,228,155
+7,Rupganj,3,42,493,543,11,0,18,35
+8,Sonargaon,7,17,486,346,2,0,9,48
+9,Total,15,217,1536,2851,91,1,292,323

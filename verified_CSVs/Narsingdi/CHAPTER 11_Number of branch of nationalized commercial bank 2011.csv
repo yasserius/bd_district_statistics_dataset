@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Belabo,7,55,39019,3645
-4,Manohardi,6,58,72428,5630
-5,Narsingdi Sadar,19,266,98033,12676
-6,Palash,10,68,26376,4430
-7,Roypura,10,91,68993,2333
-8,Sibpur,4,59,42283,3698
-9,Total,56,597,347132,32412
+1,Narsingdi,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Belabo,7,55,39019,3645
+5,Manohardi,6,58,72428,5630
+6,Narsingdi Sadar,19,266,98033,12676
+7,Palash,10,68,26376,4430
+8,Roypura,10,91,68993,2333
+9,Shibpur,4,59,42283,3698
+10,Total,56,597,347132,32412

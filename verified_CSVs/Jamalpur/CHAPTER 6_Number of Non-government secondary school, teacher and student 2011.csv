@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Non-government secondary school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Bakshiganj,29,242,68,310,5400,5100,10500,34
-4,Dewanganj,29,236,44,280,6594,6612,16206,58
-5,Islampur,46,344,102,456,7645,4749,12384,27
-6,Jamalpur Sadar,101,862,282,1144,20750,19970,40720,36
-7,Madarganj,48,346,100,446,8284,6501,13485,30
-8,Melandaha,37,361,80,441,8503,7024,15547,35
-9,Sarishabari,36,314,124,438,9026,7961,16987,39
-10,Total,326,2705,800,3515,66202,57917,125829,36
+1,Jamalpur,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Bakshiganj,29,242,68,310,5400,5100,10500,34
+5,Dewanganj,29,236,44,280,6594,6612,16206,58
+6,Islampur,46,344,102,456,7645,4749,12384,27
+7,Jamalpur Sadar,101,862,282,1144,20750,19970,40720,36
+8,Madarganj,48,346,100,446,8284,6501,13485,30
+9,Melandaha,37,361,80,441,8503,7024,15547,35
+10,Sarishabari,36,314,124,438,9026,7961,16987,39
+11,Total,326,2705,800,3515,66202,57917,125829,36

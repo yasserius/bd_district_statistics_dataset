@@ -1,8 +1,9 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and persons engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Gangni,430,860,170,1030
-4,Mujibnagar,42,42,133,175
-5,Meherpur Sadar,12,84,24,108
-6,Total,484,986,327,1313
+1,Meherpur,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Gangni,430,860,170,1030
+5,Mujibnagar,42,42,133,175
+6,Meherpur Sadar,12,84,24,108
+7,Total,484,986,327,1313

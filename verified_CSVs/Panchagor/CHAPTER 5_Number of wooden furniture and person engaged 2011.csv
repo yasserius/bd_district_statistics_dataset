@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Atwari,32,52,120,172
-4,Boda,100,200,300,500
-5,Debiganj,82,105,305,410
-6,Panchagarh Sadar,65,65,130,195
-7,Tentulia,25,25,60,85
-8,Total,304,447,915,1362
+1,Panchagor,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Atwari,32,52,120,172
+5,Boda,100,200,300,500
+6,Debiganj,82,105,305,410
+7,Panchagarh Sadar,65,65,130,195
+8,Tentulia,25,25,60,85
+9,Total,304,447,915,1362

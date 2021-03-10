@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7
 0,Average price of selected item 2011,,,,,,,
-1,"(Price Unit per KG, Taka)",,,,,,,
-2,Upazila,Fine Rice (Minicate),Medium rice,Coarse rice (Normal),Wheat,Coarse Flour (Aata),Potato,Soyabean oil
-3,Badarganj,38,28,26,20,26,8,120
-4,Gangachara,44,34,23,20,28,9,130
-5,Kaunia,35,30,27,26,28,10,134
-6,Mithapukur,0,35,27,30,35,10,128
-7,Pirgachha,38,34,25,25,32,10,116
-8,Pirganj,45,35,25,19,34,12,130
-9,Rangpur sadar,42,32,25,23,20,8,136
-10,Taraganj,47,32,28,22,26,12,120
-11,District Average,42,32,26,22,28,10,130
+1,Rangpur,,,,,,,
+2,"(Price Unit per KG, Taka)",,,,,,,
+3,Upazila,Fine Rice (Minicate),Medium rice,Coarse rice (Normal),Wheat,Coarse Flour (Aata),Potato,Soyabean oil
+4,Badarganj,38,28,26,20,26,8,120
+5,Gangachara,44,34,23,20,28,9,130
+6,Kaunia,35,30,27,26,28,10,134
+7,Mithapukur,0,35,27,30,35,10,128
+8,Pirgachha,38,34,25,25,32,10,116
+9,Pirganj,45,35,25,19,34,12,130
+10,Rangpur Sadar,42,32,25,23,20,8,136
+11,Taraganj,47,32,28,22,26,12,120
+12,District Average,42,32,26,22,28,10,130

@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6
 0,"Number of municipality, union, mauza, mahalla and villages 2011",,,,,,
-1,(As per Population census-2011),,,,,,
-2,Upazila,Municipality,Ward (PSA),Mahalla,Unions,Mauza,Village
-3,Basail,o,0,0,6,72,107
-4,Bhuapur,1,9,22,6,81,128
-5,Delduar,0,0,0,8,123,162
-6,Dhanbari,1,9,25,7,103,132
-7,Ghatail,1,9,17,12,291,411
-8,Gopalpur,1,9,35,7,111,158
-9,Kalihati,1,9,18,14,242,298
-10,Madhupur,1,9,23,6,111,180
-11,Mirzapur,1,9,17,14,202,210
-12,Nagarpur,0,0,0,12,213,245
-13,Sakhipur,1,9,18,6,59,122
-14,Tangail sadar,1,18,64,12,247,276
-15,Total,9,90,239,110,1855,2429
+1,Tangail,,,,,,
+2,(As per Population census-2011),,,,,,
+3,Upazila,Municipality,Ward (PSA),Mahalla,Unions,Mauza,Village
+4,Basail,o,0,0,6,72,107
+5,Bhuapur,1,9,22,6,81,128
+6,Delduar,0,0,0,8,123,162
+7,Dhanbari,1,9,25,7,103,132
+8,Ghatail,1,9,17,12,291,411
+9,Gopalpur,1,9,35,7,111,158
+10,Kalihati,1,9,18,14,242,298
+11,Madhupur,1,9,23,6,111,180
+12,Mirzapur,1,9,17,14,202,210
+13,Nagarpur,0,0,0,12,213,245
+14,Sakhipur,1,9,18,6,59,122
+15,Tangail Sadar,1,18,64,12,247,276
+16,Total,9,90,239,110,1855,2429

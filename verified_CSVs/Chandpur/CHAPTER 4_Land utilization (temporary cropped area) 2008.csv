@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,,,,,,,,
-2,Upazila,Current fallow,Temporary cropped area - Single,Temporary cropped area - Double,Temporary cropped area - Triple,Temporary cropped area - Net,Temporary cropped area - Gross,Productivity of crop
-3,Chandpur Sadar,240,4816,60070,22998,17291,28608,49
-4,Foridganj,115,5125,23698,3050,19749,30916,51.61
-5,Haimchar,4488,5741,5606,4404,7638,14257,64
-6,Hajiganj,0,15070,14575,1180,21299,26544,64.54
-7,Kachua,25,8000,45000,32880,29424,55277,48.27
-8,Matlab Dakshin,104,1455,18899,1829,15406,22535,50
-9,Matlab Uttar,65,5054,17781,20760,24439,45107,42.36
-10,Shahrasti,0,2800,18450,7212,17992,33278,46.5
-11,Total,5037,48061,204079,94313,153288,255522,416.01
+1,Chandpur,,,,,,,
+2,,,,,,,,
+3,Upazila,Current fallow,Temporary cropped area - Single,Temporary cropped area - Double,Temporary cropped area - Triple,Temporary cropped area - Net,Temporary cropped area - Gross,Productivity of crop
+4,Chandpur Sadar,240,4816,60070,22998,17291,28608,49
+5,Foridganj,115,5125,23698,3050,19749,30916,51.61
+6,Haimchar,4488,5741,5606,4404,7638,14257,64
+7,Hajiganj,0,15070,14575,1180,21299,26544,64.54
+8,Kachua,25,8000,45000,32880,29424,55277,48.27
+9,Matlab Dakshin,104,1455,18899,1829,15406,22535,50
+10,Matlab Uttar,65,5054,17781,20760,24439,45107,42.36
+11,Shahrasti,0,2800,18450,7212,17992,33278,46.5
+12,Total,5037,48061,204079,94313,153288,255522,416.01

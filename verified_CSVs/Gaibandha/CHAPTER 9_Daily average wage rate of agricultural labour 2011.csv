@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
-1,(Rate in taka),,,
-2, Upazila,Labour - Male,Labour - Female,Labour - Child (under 15 years old)
-3,Fulchhari,150,120,90
-4,Gaibandha Sadar,150,130,100
-5,Gobindaganj,150,130,100
-6,Palashbari,150,120,100
-7,Sadullapur,150,120,100
-8,Saghata,150,120,90
-9,Sundarganj,150,110,90
-10,Average,150,120,100
+1,Gaibandha,,,
+2,(Rate in taka),,,
+3, Upazila,Labour - Male,Labour - Female,Labour - Child (under 15 years old)
+4,Fulchhari,150,120,90
+5,Gaibandha Sadar,150,130,100
+6,Gobindaganj,150,130,100
+7,Palashbari,150,120,100
+8,Sadullapur,150,120,100
+9,Saghata,150,120,90
+10,Sundarganj,150,110,90
+11,Average,150,120,100

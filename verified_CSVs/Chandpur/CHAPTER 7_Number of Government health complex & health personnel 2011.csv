@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex  health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Chandpur Sadar,260,36,55,13,60
-4,Foridganj,31,20,7,5,21
-5,Haimchar,31,11,4,2,6
-6,Hajiganj,50,23,10,7,127
-7,Kachua,50,20,10,6,129
-8,Matlab Dakshin,50,13,16,6,88
-9,Matlab Uttar,31,14,5,4,112
-10,Shahrasti,50,8,9,6,114
-11,Total,553,145,116,49,657
+1,Chandpur,,,,,
+2,,,,,,
+3,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Chandpur Sadar,260,36,55,13,60
+5,Foridganj,31,20,7,5,21
+6,Haimchar,31,11,4,2,6
+7,Hajiganj,50,23,10,7,127
+8,Kachua,50,20,10,6,129
+9,Matlab Dakshin,50,13,16,6,88
+10,Matlab Uttar,31,14,5,4,112
+11,Shahrasti,50,8,9,6,114
+12,Total,553,145,116,49,657

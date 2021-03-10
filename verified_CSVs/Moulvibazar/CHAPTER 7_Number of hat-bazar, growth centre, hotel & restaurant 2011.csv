@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,"Number of hat-bazar, growth centre, hotel  restaurant 2011",,,,,
-1,,,,,,
-2,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
-3,Barlekha,17,0,6,11,3
-4,Juri,12,6,1,18,2
-5,Kamalganj,20,18,4,50,1
-6,Kulaura,35,10,2,100,5
-7,Moulvibazar Sadar,12,38,5,67,17
-8,Rajnagar,3,3,4,48,0
-9,Sreemangal,5,30,5,67,21
-10,Total,104,105,27,361,49
+1,Moulvibazar,,,,,
+2,,,,,,
+3,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
+4,Barlekha,17,0,6,11,3
+5,Juri,12,6,1,18,2
+6,Kamalganj,20,18,4,50,1
+7,Kulaura,35,10,2,100,5
+8,Moulvibazar Sadar,12,38,5,67,17
+9,Rajnagar,3,3,4,48,0
+10,Sreemangal,5,30,5,67,21
+11,Total,104,105,27,361,49

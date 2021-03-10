@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
-1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
-3,Bagatipara,109,8,354,471
-4,Baraigram,148,26,442,616
-5,Gurudaspur,151,96,230,477
-6,Lalpur,165.24,18.21,605.55,789
-7,Natore Sadar,396,30,578,1008
-8,Singra,268,10,569,847
-9,Total,1237.24,188.21,2778.55,4208
+1,Natore,,,,
+2,(Kilometer),,,,
+3,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
+4,Bagatipara,109,8,354,471
+5,Baraigram,148,26,442,616
+6,Gurudaspur,151,96,230,477
+7,Lalpur,165.24,18.21,605.55,789
+8,Natore Sadar,396,30,578,1008
+9,Singra,268,10,569,847
+10,Total,1237.24,188.21,2778.55,4208

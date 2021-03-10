@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Number of bridge, baily bridge, culvert, pool, shako and others 2011",,,,,,
-1,,,,,,,
-2,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
-3,Dhaka Metropolitan,108,9,78,6,10,0
-4,Dhamrai,53,10,100,0,0,0
-5,Dohar,23,8,41,5,16,0
-6,Keraniganj,74,21,151,61,42,10
-7,Nawabganj,120,6,306,0,0,0
-8,Savar,59,7,311,10,7,0
-9,Total,437,61,987,82,75,10
+1,Dhaka,,,,,,
+2,,,,,,,
+3,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
+4,Dhaka Metropolitan,108,9,78,6,10,0
+5,Dhamrai,53,10,100,0,0,0
+6,Dohar,23,8,41,5,16,0
+7,Keraniganj,74,21,151,61,42,10
+8,Nawabganj,120,6,306,0,0,0
+9,Savar,59,7,311,10,7,0
+10,Total,437,61,987,82,75,10

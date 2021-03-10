@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting selected livestock species 2008,,,,,,
-1,,,,,,,
-2, Upazila,Cow  buffalo - Holding number,Cow  buffalo - Number of animal,Goat - Holding number,Goat - Number of goat,Sheep - Holding number,Sheep - Number of sheep
-3,Alikadam,2862,10848,1976,6898,14,86
-4,Bandarban Sadar,1514,16217,251,440,1,12
-5,Lama,8472,27372,4766,15145,50,758
-6,Naikhongchhari,2092,15560,608,8376,12,40
-7,Rowangchhari,2556,9627,1248,5505,24,183
-8,Ruma,2699,11803,1572,6617,25,184
-9,Thanchi,1748,5649,982,2628,52,167
-10,Total,21943,97076,11403,45609,178,1430
+1,Bandarban,,,,,,
+2,,,,,,,
+3, Upazila,Cow  buffalo - Holding number,Cow  buffalo - Number of animal,Goat - Holding number,Goat - Number of goat,Sheep - Holding number,Sheep - Number of sheep
+4,Alikadam,2862,10848,1976,6898,14,86
+5,Bandarban Sadar,1514,16217,251,440,1,12
+6,Lama,8472,27372,4766,15145,50,758
+7,Naikhongchhari,2092,15560,608,8376,12,40
+8,Rowangchhari,2556,9627,1248,5505,24,183
+9,Ruma,2699,11803,1572,6617,25,184
+10,Thanchi,1748,5649,982,2628,52,167
+11,Total,21943,97076,11403,45609,178,1430

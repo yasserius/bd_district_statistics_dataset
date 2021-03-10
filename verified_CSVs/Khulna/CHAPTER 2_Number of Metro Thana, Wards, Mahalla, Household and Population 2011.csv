@@ -1,6 +1,7 @@
 ,0,1,2,3,4,5,6,7
-0.0,"Number of Metro Thana, Wards, Mahalla, Household and Population 2011",,,,,,,
-1.0,(Population in thousand),,,,,,,
-2.0,Upazila/city corporation,Thana,Wards,Mahalla,HouseHolds,Male,Female,Total Population
-3.0,Khulna City Corporation,5,31,184,177.852,390.69,360.54,751.23
-,,,,,,,,
+0,"Number of Metro Thana, Wards, Mahalla, Household and Population 2011",,,,,,,
+1,Khulna,,,,,,,
+2,(Population in thousand),,,,,,,
+3,Upazila/city corporation,Thana,Wards,Mahalla,HouseHolds,Male,Female,Total Population
+4,Khulna City Corporation,5,31,184,177.852,390.69,360.54,751.23
+5,,,,,,,,

@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,,,,,,
-2,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
-3,Alfadanga,0,30,2,5,2
-4,Bhanga,1,75,0,12,1
-5,Boalmari,1,8,0,11,0
-6,Charbhadrashon,1,25,0,2,1
-7,Faridpur Sadar,3,132,3,10,4
-8,Madhukhali,2,58,2,6,0
-9,Nagarkanda,1,37,0,7,0
-10,Sadarpur,1,60,0,12,0
-11,Saltha,0,25,0,5,0
-12,Total,10,450,7,70,8
+1,Faridpur,,,,,
+2,,,,,,
+3,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
+4,Alfadanga,0,30,2,5,2
+5,Bhanga,1,75,0,12,1
+6,Boalmari,1,8,0,11,0
+7,Charbhadrashon,1,25,0,2,1
+8,Faridpur Sadar,3,132,3,10,4
+9,Madhukhali,2,58,2,6,0
+10,Nagarkanda,1,37,0,7,0
+11,Sadarpur,1,60,0,12,0
+12,Saltha,0,25,0,5,0
+13,Total,10,450,7,70,8

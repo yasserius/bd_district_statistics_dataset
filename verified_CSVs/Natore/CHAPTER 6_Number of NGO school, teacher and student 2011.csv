@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of NGO school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of NGO school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Bagatipara,41,0,41,41,484,705,1189,29
-4,Baraigram,78,0,78,78,961,1439,2400,31
-5,Gurudaspur,35,0,35,35,431,716,1147,33
-6,Lalpur,48,0,48,48,763,677,1440,30
-7,Natore Sadar,8,42,15,57,1585,1592,3177,56
-8,Singra,175,75,275,350,1500,2000,3500,10
-9,Total,385,117,492,609,5724,7129,12853,21
+1,Natore,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of NGO school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Bagatipara,41,0,41,41,484,705,1189,29
+5,Baraigram,78,0,78,78,961,1439,2400,31
+6,Gurudaspur,35,0,35,35,431,716,1147,33
+7,Lalpur,48,0,48,48,763,677,1440,30
+8,Natore Sadar,8,42,15,57,1585,1592,3177,56
+9,Singra,175,75,275,350,1500,2000,3500,10
+10,Total,385,117,492,609,5724,7129,12853,21

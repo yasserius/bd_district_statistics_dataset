@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,"Number of primary school (Class I-V), teacher and student by municipality 2011",,,,,,,,,,
-1,,,,,,,,,,,
-2, Municipality,Primary school - Govt.,Primary school - Non- govt.,Primary school - Total,Number of teacher - Govt.,Number of teacher - Non- govt.,Number of teacher - Total,Number of student - Govt.,Number of student - Non- govt.,Number of student - Total,Students per teacher
-3,Bhanga,5,2,7,38,5,43,3130,523,3653,85
-4,Boalmari,4,1,5,31,4,35,1417,228,1645,47
-5,Faridpur Sadar,16,2,18,108,15,125,5887,477,5864,48
-6,Nagarkanda,1,2,3,13,8,21,691,449,1140,54
-7,Total,26,7,33,190,32,224,11125,1677,12302,55
+1,Faridpur,,,,,,,,,,
+2,,,,,,,,,,,
+3, Municipality,Primary school - Govt.,Primary school - Non- govt.,Primary school - Total,Number of teacher - Govt.,Number of teacher - Non- govt.,Number of teacher - Total,Number of student - Govt.,Number of student - Non- govt.,Number of student - Total,Students per teacher
+4,Bhanga,5,2,7,38,5,43,3130,523,3653,85
+5,Boalmari,4,1,5,31,4,35,1417,228,1645,47
+6,Faridpur Sadar,16,2,18,108,15,125,5887,477,5864,48
+7,Nagarkanda,1,2,3,13,8,21,691,449,1140,54
+8,Total,26,7,33,190,32,224,11125,1677,12302,55

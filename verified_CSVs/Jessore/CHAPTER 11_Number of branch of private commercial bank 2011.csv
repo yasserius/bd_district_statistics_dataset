@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Abhaynagar,10,184,30041,5582
-4,Bagherpara,0,0,0,0
-5,Chaugachha,3,55,20405,1080
-6,Jessore Sadar,27,520,76440,29842
-7,Jhikargachha,4,35,16284,2560
-8,Keshabpur,4,25,6977,46
-9,Manirampur,1,5,1200,900
-10,Sharsha,9,110,4258,1999
-11,Total,58,934,155605,42009
+1,Jessore,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Abhaynagar,10,184,30041,5582
+5,Bagherpara,0,0,0,0
+6,Chaugachha,3,55,20405,1080
+7,Jessore Sadar,27,520,76440,29842
+8,Jhikargachha,4,35,16284,2560
+9,Keshabpur,4,25,6977,46
+10,Manirampur,1,5,1200,900
+11,Sharsha,9,110,4258,1999
+12,Total,58,934,155605,42009

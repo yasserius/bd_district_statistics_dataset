@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,"Occurrence of river erosion during the year 2008-2011 (Yes, No)",,,,
-1,,,,,
-2,Upazila,2008,2009,2010,2011
-3,Assasuni,No,Yes,No,No
-4,Debhata,No,No,No,Yes
-5,Kalaroa,No,No,No,No
-6,Kaliganj,No,No,No,No
-7,Satkhira Sadar,No,No,No,No
-8,Shyamnagar,No,No,No,No
-9,Tala,No,No,No,No
+1,Satkhira,,,,
+2,,,,,
+3,Upazila,2008,2009,2010,2011
+4,Assasuni,No,Yes,No,No
+5,Debhata,No,No,No,Yes
+6,Kalaroa,No,No,No,No
+7,Kaliganj,No,No,No,No
+8,Satkhira Sadar,No,No,No,No
+9,Shyamnagar,No,No,No,No
+10,Tala,No,No,No,No

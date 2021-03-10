@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Azmirigonj,1,2,1,2,3
-4,Bahubal,1,5,0,2,4
-5,Baniachang,1,0,0,1,4
-6,Chunarughat,3,9,0,10,11
-7,Habiganj Sadar,11,6,10,20,20
-8,Lakhai,0,0,0,0,0
-9,Madhabpur,3,6,3,3,12
-10,Nabiganj,3,3,0,5,10
-11,Total,23,31,14,43,64
+1,Habiganj,,,,,
+2,,,,,,
+3,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Azmirigonj,1,2,1,2,3
+5,Bahubal,1,5,0,2,4
+6,Baniachang,1,0,0,1,4
+7,Chunarughat,3,9,0,10,11
+8,Habiganj Sadar,11,6,10,20,20
+9,Lakhai,0,0,0,0,0
+10,Madhabpur,3,6,3,3,12
+11,Nabiganj,3,3,0,5,10
+12,Total,23,31,14,43,64

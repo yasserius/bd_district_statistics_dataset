@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building materials 2011,,,,,,
-1,(Price in Taka),,,,,,
-2,Upazila,Brick-01 (per 1000),Cement (per 50 KG bag),Iron bar (per ton),Sand-01 (Per C.Ft.),Sand -02 (Per C.Ft.),Stone (per C.Ft.)
-3,Dighinala,5000,480,72600,8,7,0
-4,Khagrachhari Sadar,4500,435,65000,6.5,8,150
-5,Laxshmichhari,4000,440,60000,5,8,150
-6,Mahalchhari,4000,480,72000,17,12,100
-7,Manikchhari,5000,430,70000,10,12,0
-8,Matiranga,4200,430,63000,12,10,160
-9,Panchhari,5000,400,75000,4,5,140
-10,Ramgarh,4300,470,75000,15,16,93
-11,Average,4500,446,69075,9.69,9.75,132
+1,Khagrachori,,,,,,
+2,(Price in Taka),,,,,,
+3,Upazila,Brick-01 (per 1000),Cement (per 50 KG bag),Iron bar (per ton),Sand-01 (Per C.Ft.),Sand -02 (Per C.Ft.),Stone (per C.Ft.)
+4,Dighinala,5000,480,72600,8,7,0
+5,Khagrachori,4500,435,65000,6.5,8,150
+6,Laxshmichhari,4000,440,60000,5,8,150
+7,Mahalchhari,4000,480,72000,17,12,100
+8,Manikchhari,5000,430,70000,10,12,0
+9,Matiranga,4200,430,63000,12,10,160
+10,Panchhari,5000,400,75000,4,5,140
+11,Ramgarh,4300,470,75000,15,16,93
+12,Average,4500,446,69075,9.69,9.75,132

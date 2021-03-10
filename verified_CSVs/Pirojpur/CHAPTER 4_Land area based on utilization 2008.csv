@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization 2008,,,,,
-1,,,,,,
-2,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
-3,Bhandaria,26922,7241,16299,67,3382
-4,Kawkhali,12909,3324,7421,5,2164
-5,Mathbaria,62367,11036,40728,82,10603
-6,Nazirpur,44174,6893,32734,149,4547
-7,Nesarabad,28364,8268,14173,75,5923
-8,Pirojpur Sadar,29032,8537,16343,11,4152
-9,Zianagar,14435,3057,8946,20,2432
-10,Total,218202,48356,136644,409,33203
+1,Pirojpur,,,,,
+2,,,,,,
+3,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
+4,Bhandaria,26922,7241,16299,67,3382
+5,Kawkhali,12909,3324,7421,5,2164
+6,Mathbaria,62367,11036,40728,82,10603
+7,Nazirpur,44174,6893,32734,149,4547
+8,Nesarabad,28364,8268,14173,75,5923
+9,Pirojpur Sadar,29032,8537,16343,11,4152
+10,Zianagar,14435,3057,8946,20,2432
+11,Total,218202,48356,136644,409,33203

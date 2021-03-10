@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,"Area of high, medium and low land 2008",,,,
-1,,,,,
-2,Upazila,High land,Medium land,Low land,Total land
-3,Abhaynagar,10152,26330,5409,41891
-4,Bagherpara,13000,35542,3055,51597
-5,Chaugachha,16345,29240,618,46203
-6,Jessore Sadar,37858,42528,1746,82132
-7,Jhikargachha,21220,25490,11329,58039
-8,Keshabpur,4010,12519,29096,45625
-9,Manirampur,2218,70580,16594,89392
-10,Sharsha,31055,39361,1803,72219
-11,Total,135858,281590,69650,487098
+1,Jessore,,,,
+2,,,,,
+3,Upazila,High land,Medium land,Low land,Total land
+4,Abhaynagar,10152,26330,5409,41891
+5,Bagherpara,13000,35542,3055,51597
+6,Chaugachha,16345,29240,618,46203
+7,Jessore Sadar,37858,42528,1746,82132
+8,Jhikargachha,21220,25490,11329,58039
+9,Keshabpur,4010,12519,29096,45625
+10,Manirampur,2218,70580,16594,89392
+11,Sharsha,31055,39361,1803,72219
+12,Total,135858,281590,69650,487098

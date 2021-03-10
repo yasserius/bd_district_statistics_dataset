@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of papaya, guava, lime and lemon 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Papaya - Area,Papaya - Production,Guava - Area,Guava - Production,Lime and lemon - Area,Lime and lemon - Production
-3,Abhaynagar,31,464,100,2290,40,1641
-4,Bagherpara,62,1461,60,450,47,520
-5,Chaugachha,1,6,42,100,17,13
-6,Jessore Sadar,86,171,139,1690,25,357
-7,Jhikargachha,80,1587,72,899,14,286
-8,Keshabpur,43,476,56,834,13,65
-9,Manirampur,118,860,11,112,22,299
-10,Sharsha,32,793,23,687,15,240
-11,Total,453,5818,503,7062,193,3421
+1,Jessore,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Papaya - Area,Papaya - Production,Guava - Area,Guava - Production,Lime and lemon - Area,Lime and lemon - Production
+4,Abhaynagar,31,464,100,2290,40,1641
+5,Bagherpara,62,1461,60,450,47,520
+6,Chaugachha,1,6,42,100,17,13
+7,Jessore Sadar,86,171,139,1690,25,357
+8,Jhikargachha,80,1587,72,899,14,286
+9,Keshabpur,43,476,56,834,13,65
+10,Manirampur,118,860,11,112,22,299
+11,Sharsha,32,793,23,687,15,240
+12,Total,453,5818,503,7062,193,3421

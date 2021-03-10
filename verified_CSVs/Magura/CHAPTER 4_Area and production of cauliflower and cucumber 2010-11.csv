@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Area and production of cauliflower and cucumber 2010-11,,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
-3,Magura Sadar,185,406,47,136
-4,Mohammadpur,28,67,3.95,8.53
-5,Shalikha,75,275,14,37
-6,Sreepur,50,232,22,55
-7,Total,338,980,87,237
+1,Magura,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,Cauliflower Area,Cauliflower Production,Cucumber Area,Cucumber Production
+4,Magura Sadar,185,406,47,136
+5,Mohammadpur,28,67,3.95,8.53
+6,Shalikha,75,275,14,37
+7,Sreepur,50,232,22,55
+8,Total,338,980,87,237

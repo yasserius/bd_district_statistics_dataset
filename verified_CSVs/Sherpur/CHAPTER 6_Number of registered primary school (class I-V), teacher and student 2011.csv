@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of registered primary school (class I-V), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of registered primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Jhenaigati,45,101,57,158,3991,4153,8144,52
-4,Nakla,47,89,79,168,4273,4235,8508,51
-5,Nalitabari,40,103,35,138,4183,4150,8333,60
-6,Sherpur Sadar,68,138,91,229,7089,7241,14330,63
-7,Sreebardi,78,202,101,303,7124,8705,15829,52
-8,Total,278,633,363,996,26660,28484,55144,55
+1,Sherpur,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of registered primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Jhenaigati,45,101,57,158,3991,4153,8144,52
+5,Nakla,47,89,79,168,4273,4235,8508,51
+6,Nalitabari,40,103,35,138,4183,4150,8333,60
+7,Sherpur Sadar,68,138,91,229,7089,7241,14330,63
+8,Sreebardi,78,202,101,303,7124,8705,15829,52
+9,Total,278,633,363,996,26660,28484,55144,55

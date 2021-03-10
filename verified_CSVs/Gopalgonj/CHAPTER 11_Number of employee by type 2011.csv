@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,,,,,,
-2, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous bodies,Local Government employee
-3,Gopalganj Sadar,733,6012,12215,28,292
-4,Kashiani,62,4624,9856,89,37
-5,Kotalipara,41,516,9408,2,25
-6,Muksudpur,69,644,13312,11,164
-7,Tungipara,13,292,6144,3,89
-8,Total,918,12088,50935,133,607
+1,Gopalgonj,,,,,
+2,,,,,,
+3, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous bodies,Local Government employee
+4,Gopalganj Sadar,733,6012,12215,28,292
+5,Kashiani,62,4624,9856,89,37
+6,Kotalipara,41,516,9408,2,25
+7,Muksudpur,69,644,13312,11,164
+8,Tungipara,13,292,6144,3,89
+9,Total,918,12088,50935,133,607

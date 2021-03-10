@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,"Number of hat-bazar, growth centre, hotel  restaurant 2011",,,,,
-1,,,,,,
-2,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
-3,Alikadam,3,2,1,27,1
-4,Bandarban Sadar,2,5,1,146,39
-5,Lama,0,7,1,91,2
-6,Naikhongchhari,1,4,1,28,1
-7,Rowangchhari,1,5,1,7,1
-8,Ruma,1,1,1,18,6
-9,Thanchi,0,1,0,15,0
-10,Total,12,27,14,346,94
+1,Bandarban,,,,,
+2,,,,,,
+3,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
+4,Alikadam,3,2,1,27,1
+5,Bandarban Sadar,2,5,1,146,39
+6,Lama,0,7,1,91,2
+7,Naikhongchhari,1,4,1,28,1
+8,Rowangchhari,1,5,1,7,1
+9,Ruma,1,1,1,18,6
+10,Thanchi,0,1,0,15,0
+11,Total,12,27,14,346,94

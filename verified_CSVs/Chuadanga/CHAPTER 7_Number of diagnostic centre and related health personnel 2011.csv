@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Alamdanga,9,9,9,9,50
-4,Chuadanga Sadar,14,14,0,14,28
-5,Damurhuda,9,7,0,15,21
-6,Jibonnagar,6,6,8,6,14
-7,Total,38,36,17,44,113
+1,Chuadanga,,,,,
+2,,,,,,
+3,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Alamdanga,9,9,9,9,50
+5,Chuadanga Sadar,14,14,0,14,28
+6,Damurhuda,9,7,0,15,21
+7,Jibonnagar,6,6,8,6,14
+8,Total,38,36,17,44,113

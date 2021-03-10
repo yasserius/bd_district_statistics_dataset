@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building material 2011,,,,,,
-1,(Price in taka),,,,,,
-2,Upazila,Brick-01 (per1000),Cement (per 50 kg bag),Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
-3,Baghaichhari,4500,430,60000,12,0,0
-4,Barkal,0,0,0,0,0,0
-5,Belai Chhari,0,0,0,0,0,0
-6,Jurai Chhari,0,0,0,0,0,0
-7,Kaptai,5500,420,65000,10,10,0
-8,Kawkhali,5200,430,65000,8,10,0
-9,Langadu,5000,430,65000,25,20,0
-10,Naniarchar,0,420,65000,18,20,0
-11,Rangamati Sadar,5300,450,65000,30,25,0
-12,Rajasthali,5000,420,65000,12,0,0
-13,Average,5083,429,64286,16,17,0
+1,Rangamati,,,,,,
+2,(Price in taka),,,,,,
+3,Upazila,Brick-01 (per1000),Cement (per 50 kg bag),Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
+4,Baghaichhari,4500,430,60000,12,0,0
+5,Barkal,0,0,0,0,0,0
+6,Belai Chhari,0,0,0,0,0,0
+7,Jurai Chhari,0,0,0,0,0,0
+8,Kaptai,5500,420,65000,10,10,0
+9,Kawkhali,5200,430,65000,8,10,0
+10,Langadu,5000,430,65000,25,20,0
+11,Naniarchar,0,420,65000,18,20,0
+12,Rangamati Sadar,5300,450,65000,30,25,0
+13,Rajasthali,5000,420,65000,12,0,0
+14,Average,5083,429,64286,16,17,0

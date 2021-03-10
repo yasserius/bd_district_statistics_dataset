@@ -1,0 +1,14 @@
+,0,1,2,3,4,5,6,7,8
+0,Number of warehouse and their storage capacity 2011,,,,,,,,
+1,Coxs_Bazar,,,,,,,,
+2,(Capacity in metric ton),,,,,,,,
+3,Upazila,Food godown Number,Food godown Capacity,Fertilizer godown Number,Fertilizer godown Capacity,Jute godown Number,Jute godown Capacity,Other godown Number,Other godown Capacity
+4,Chakaria,10,2500,0,0,0,0,10,1500
+5,Cox's Bazar Sadar,2,22,1,500,0,0,0,0
+6,Kutubdia,3,500,0,0,0,0,0,0
+7,Moheshkhali,2,2000,0,0,0,0,0,0
+8,Pekua,0,0,0,0,0,0,0,0
+9,Ramu,2,2400,1,1000,0,0,1,60
+10,Teknaf,2,1350,0,0,0,0,45,10000
+11,Ukhia,1,1500,10,1000,0,0,0,0
+12,Total,22,10272,12,2500,0,0,56,11560

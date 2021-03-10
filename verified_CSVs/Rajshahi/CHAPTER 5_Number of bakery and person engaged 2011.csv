@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,,,,,
-2,Upazila/city corporation,Number of unit,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Bagha,6,6,24,30
-4,Baghmara,18,23,71,94
-5,Charghat,12,15,95,110
-6,Durgapur,1,1,3,4
-7,Godagari,3,6,9,15
-8,Mohanpur,1,2,6,8
-9,Paba,23,45,115,160
-10,Puthia,7,20,45,65
-11,Rajshahi city corporation,16,22,248,270
-12,Tanore,2,3,12,15
-13,Total,89,143,628,771
+1,Rajshahi,,,,
+2,,,,,
+3,Upazila/city corporation,Number of unit,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Bagha,6,6,24,30
+5,Baghmara,18,23,71,94
+6,Charghat,12,15,95,110
+7,Durgapur,1,1,3,4
+8,Godagari,3,6,9,15
+9,Mohanpur,1,2,6,8
+10,Paba,23,45,115,160
+11,Puthia,7,20,45,65
+12,Rajshahi City Corporation,16,22,248,270
+13,Tanore,2,3,12,15
+14,Total,89,143,628,771

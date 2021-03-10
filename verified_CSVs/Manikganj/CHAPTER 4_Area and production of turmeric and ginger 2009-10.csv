@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Area and production of turmeric and ginger 2009-10,,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,Turmeric Area,Turmeric Production,Ginger Area,Ginger Production
-3,Daulotpur,15,13,12,19
-4,Gheor,15,16,16,8
-5,Horirampur,12,4,14,4
-6,Manikganj Sadar,90,47,76,78
-7,Saturia,22,15,19,17
-8,Shibalaya,17,10,12,31
-9,Singair,17,9,9,16
-10,Total,189,115,158,174
+1,Manikganj,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,Turmeric Area,Turmeric Production,Ginger Area,Ginger Production
+4,Daulotpur,15,13,12,19
+5,Gheor,15,16,16,8
+6,Horirampur,12,4,14,4
+7,Manikganj Sadar,90,47,76,78
+8,Saturia,22,15,19,17
+9,Shibalaya,17,10,12,31
+10,Singair,17,9,9,16
+11,Total,189,115,158,174

@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,Sanction post of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
-3,Alamdanga,25,45,711,100,881
-4,Chuadanga Sadar,257,61,2200,86,2604
-5,Damurhuda,78,31,825,140,1074
-6,Jibonnagar,33,28,205,118,384
-7,Total,393,165,3941,444,4943
+1,Chuadanga,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
+4,Alamdanga,25,45,711,100,881
+5,Chuadanga Sadar,257,61,2200,86,2604
+6,Damurhuda,78,31,825,140,1074
+7,Jibonnagar,33,28,205,118,384
+8,Total,393,165,3941,444,4943

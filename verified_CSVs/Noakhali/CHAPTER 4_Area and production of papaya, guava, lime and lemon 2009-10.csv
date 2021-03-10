@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of papaya, guava, lime and lemon 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Papaya - Area,Papaya - Production,Guava - Area,Guava - Production,Lime and lemon - Area,Lime and lemon - Production
-3,Begumganj,-,63,-,259,-,11
-4,Chatkhil,-,163,-,34,-,10
-5,Companiganj,-,263,-,34,-,186
-6,Hatiya,-,1085,-,57,-,56
-7,Kabirhat,-,25,-,11,-,10
-8,Noakhali Sadar,-,130,-,267,-,55
-9,Senbagh,-,50,-,100,-,4500
-10,Sonaimuri,-,48,-,68,-,11
-11,Subarnachar,-,19,-,15,-,12
-12,Total,-,1846,-,845,-,4851
+1,Noakhali,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Papaya - Area,Papaya - Production,Guava - Area,Guava - Production,Lime and lemon - Area,Lime and lemon - Production
+4,Begumganj,-,63,-,259,-,11
+5,Chatkhil,-,163,-,34,-,10
+6,Companiganj,-,263,-,34,-,186
+7,Hatiya,-,1085,-,57,-,56
+8,Kabirhat,-,25,-,11,-,10
+9,Noakhali Sadar,-,130,-,267,-,55
+10,Senbagh,-,50,-,100,-,4500
+11,Sonaimuri,-,48,-,68,-,11
+12,Subarnachar,-,19,-,15,-,12
+13,Total,-,1846,-,845,-,4851

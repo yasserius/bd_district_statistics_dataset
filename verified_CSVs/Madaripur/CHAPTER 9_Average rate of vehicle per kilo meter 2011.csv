@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,Average rate of vehicle per kilo meter 2011,,,,,
-1,(Rate in taka),,,,,
-2,Upazila,Vehicle - Rickshaw,Vehicle - Rickshaw van,Vehicle - Easy bike,Vehicle - Auto rickshaw,Vehicle - Tempo
-3,Madaripur Sadar,10,10,10,10,0
-4,Kalkini,10,5,5,5,5
-5,Rajoir,0,10,15,20,3
-6,Shibchar,0,5,5,5,5
-7,Average,10,8,11,10,4
+1,Madaripur,,,,,
+2,(Rate in taka),,,,,
+3,Upazila,Vehicle - Rickshaw,Vehicle - Rickshaw van,Vehicle - Easy bike,Vehicle - Auto rickshaw,Vehicle - Tempo
+4,Madaripur Sadar,10,10,10,10,0
+5,Kalkini,10,5,5,5,5
+6,Rajoir,0,10,15,20,3
+7,Shibchar,0,5,5,5,5
+8,Average,10,8,11,10,4

@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
-3,Magura Sadar,485,1159,751,2581,64,197
-4,Mohammadpur,300,882,2271,8567,245,677
-5,Shalikha,57,117,356,1427,95,219
-6,Sreepur,140,311,7830,32886,880,2816
-7,Total,982,2469,11208,45461,1284,3909
+1,Magura,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
+4,Magura Sadar,485,1159,751,2581,64,197
+5,Mohammadpur,300,882,2271,8567,245,677
+6,Shalikha,57,117,356,1427,95,219
+7,Sreepur,140,311,7830,32886,880,2816
+8,Total,982,2469,11208,45461,1284,3909

@@ -1,20 +1,21 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of filling station, fire brigade station, police station, camp, union land (tohsil) office, BOP (BGB camp), cyber cafe 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila/City corporation, Filling station,Fire brigade station,Police station/ camp,Union land (tohsil) office,Sub- registry office,BOP (BGB camp), ISP provider, Cyber cafe
-3,Anowara,0,0,2,5,1,0,17,2
-4,Banshkhali,1,0,6,5,1,0,51,0
-5,Boalkhali,0,0,3,3,1,0,10,3
-6,Chandanaish,2,1,3,4,1,0,0,0
-7,Chittagong City Corp,60,13,26,12,3,0,3,115
-8,Fatikchhari,2,1,1,6,1,1,0,0
-9,Hathazari,6,1,3,5,2,0,0,5
-10,Lohagara,3,0,1,3,1,0,1,2
-11,Mirsharai,8,0,3,8,2,1,16,9
-12,Patiya,6,2,3,1,1,0,15,11
-13,Rangunia,2,0,4,5,1,0,16,1
-14,Raozan,3,1,6,6,1,0,0,0
-15,Sandwip,0,0,1,7,1,0,0,0
-16,Satkania,2,1,4,6,1,0,17,6
-17,Sitakunda,23,2,2,5,1,0,5,9
-18,Total,118,20,68,81,18,2,151,163
+1,Chittagong,,,,,,,,
+2,,,,,,,,,
+3, Upazila/City corporation, Filling station,Fire brigade station,Police station/ camp,Union land (tohsil) office,Sub- registry office,BOP (BGB camp), ISP provider, Cyber cafe
+4,Anowara,0,0,2,5,1,0,17,2
+5,Banshkhali,1,0,6,5,1,0,51,0
+6,Boalkhali,0,0,3,3,1,0,10,3
+7,Chandanaish,2,1,3,4,1,0,0,0
+8,Chittagong City Corporation,60,13,26,12,3,0,3,115
+9,Fatikchhari,2,1,1,6,1,1,0,0
+10,Hathazari,6,1,3,5,2,0,0,5
+11,Lohagara,3,0,1,3,1,0,1,2
+12,Mirsharai,8,0,3,8,2,1,16,9
+13,Patiya,6,2,3,1,1,0,15,11
+14,Rangunia,2,0,4,5,1,0,16,1
+15,Raozan,3,1,6,6,1,0,0,0
+16,Sandwip,0,0,1,7,1,0,0,0
+17,Satkania,2,1,4,6,1,0,17,6
+18,Sitakunda,23,2,2,5,1,0,5,9
+19,Total,118,20,68,81,18,2,151,163

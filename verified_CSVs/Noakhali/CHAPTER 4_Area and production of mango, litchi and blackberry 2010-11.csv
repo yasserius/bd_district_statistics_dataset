@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of mango, litchi and blackberry 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Mango - Area,Mango - Production,Litchi - Area,Litchi - Production,Blackberry - Area,Blackberry - Production
-3,Begumganj,-,439,-,0,0,12
-4,Chatkhil,-,945,-,0,0,10
-5,Companiganj,-,786,-,0,0,14
-6,Hatiya,-,20,-,19,0,30
-7,Kabirhat,-,90,-,3,0,4
-8,Noakhali Sadar,-,5928,-,4,17,41
-9,Senbagh,-,118,-,0,0,6
-10,Sonaimuri,-,44,-,5,329,5
-11,Subarnachar,-,208,-,0,0,7
-12,Total,-,8578,-,31,346,129
+1,Noakhali,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Mango - Area,Mango - Production,Litchi - Area,Litchi - Production,Blackberry - Area,Blackberry - Production
+4,Begumganj,-,439,-,0,0,12
+5,Chatkhil,-,945,-,0,0,10
+6,Companiganj,-,786,-,0,0,14
+7,Hatiya,-,20,-,19,0,30
+8,Kabirhat,-,90,-,3,0,4
+9,Noakhali Sadar,-,5928,-,4,17,41
+10,Senbagh,-,118,-,0,0,6
+11,Sonaimuri,-,44,-,5,329,5
+12,Subarnachar,-,208,-,0,0,7
+13,Total,-,8578,-,31,346,129

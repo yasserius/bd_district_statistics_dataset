@@ -1,17 +1,18 @@
 ,0,1,2,3,4
 0,Number of rice mill and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Units,Person engaged Male,Person engaged Female,Person engaged Total
-3,Basail,7,38,32,70
-4,Bhuapur,86,172,2,174
-5,Delduar,88,176,3,179
-6,Dhanbari,29,60,7,67
-7,Ghatail,12,48,24,72
-8,Gopalpur,3,15,2,17
-9,Kalihati,29,319,49,368
-10,Madhupur,20,100,50,150
-11,Mirzapur,350,350,20,370
-12,Nagarpur,203,232,18,250
-13,Sakhipur,7,45,30,75
-14,Tangail Sadar,54,99,4,103
-15,Total,888,1654,241,1895
+1,Tangail,,,,
+2,,,,,
+3,Upazila,Units,Person engaged Male,Person engaged Female,Person engaged Total
+4,Basail,7,38,32,70
+5,Bhuapur,86,172,2,174
+6,Delduar,88,176,3,179
+7,Dhanbari,29,60,7,67
+8,Ghatail,12,48,24,72
+9,Gopalpur,3,15,2,17
+10,Kalihati,29,319,49,368
+11,Madhupur,20,100,50,150
+12,Mirzapur,350,350,20,370
+13,Nagarpur,203,232,18,250
+14,Sakhipur,7,45,30,75
+15,Tangail Sadar,54,99,4,103
+16,Total,888,1654,241,1895

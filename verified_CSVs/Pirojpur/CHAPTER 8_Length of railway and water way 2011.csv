@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Length of railway and water way 2011,,,
-1,(Kilometer),,,
-2, Upazila,"Total railway (all broad gage, meter gage  duel gage)",Water way in monsoon (river + canal),Water way round the year (river + canal)
-3,Bhandaria,0,160,115
-4,Kawkhali,0,60,55
-5,Mathbaria,0,97,62
-6,Nazirpur,0,560,210
-7,Nesarabad,0,65,40
-8,Pirojpur Sadar,0,53,42
-9,Zianagar,0,0,12
-10,Total,0,995,536
+1,Pirojpur,,,
+2,(Kilometer),,,
+3,Upazila,"Total railway (all broad gage, meter gage  duel gage)",Water way in monsoon (river + canal),Water way round the year (river + canal)
+4,Bhandaria,0,160,115
+5,Kawkhali,0,60,55
+6,Mathbaria,0,97,62
+7,Nazirpur,0,560,210
+8,Nesarabad,0,65,40
+9,Pirojpur Sadar,0,53,42
+10,Zianagar,0,0,12
+11,Total,0,995,536

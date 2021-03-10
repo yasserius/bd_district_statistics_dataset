@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,Daily average wage rate of non-agricultural labour 2011,,,,,
-1,(Wage in taka),,,,,
-2,Upazila,Porter (coolee),Garden labour male,Garden female labour,Other labour (Adult),Other labour (Child)
-3,Magura Sadar,200,250,200,250,200
-4,Mohammadpur,300,180,200,280,160
-5,Shalikha,300,220,200,220,170
-6,Sreepur,200,200,220,180,150
-7,Average,250,213,205,233,170
+1,Magura,,,,,
+2,(Wage in taka),,,,,
+3,Upazila,Porter (coolee),Garden labour male,Garden female labour,Other labour (Adult),Other labour (Child)
+4,Magura Sadar,200,250,200,250,200
+5,Mohammadpur,300,180,200,280,160
+6,Shalikha,300,220,200,220,170
+7,Sreepur,200,200,220,180,150
+8,Average,250,213,205,233,170

@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,"Occurrence of river erosion during the years 2008-2011 (Yes, No)",,,,
-1,,,,,
-2,Upazila,2008,2009,2010,2011
-3,Daulotpur,Yes,Yes,Yes,Yes
-4,Gheor,Yes,Yes,Yes,Yes
-5,Horirampur,Yes,Yes,Yes,Yes
-6,Manikganj Sadar,Yes,Yes,Yes,Yes
-7,Saturia,No,No,No,No
-8,Shibalaya,Yes,Yes,Yes,Yes
-9,Singair,No,No,No,No
+1,Manikganj,,,,
+2,,,,,
+3,Upazila,2008,2009,2010,2011
+4,Daulotpur,Yes,Yes,Yes,Yes
+5,Gheor,Yes,Yes,Yes,Yes
+6,Horirampur,Yes,Yes,Yes,Yes
+7,Manikganj Sadar,Yes,Yes,Yes,Yes
+8,Saturia,No,No,No,No
+9,Shibalaya,Yes,Yes,Yes,Yes
+10,Singair,No,No,No,No

@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Daily average wage rate of non-agricultural labour 2011,,,,,
-1,(Wage in taka),,,,,
-2,Upazila,Porter (coolee),Garden labour male,Garden female labour,Other labour (Adult),Other labour (Child)
-3,Atwari,170,150,100,150,50
-4,Boda,200,180,150,200,100
-5,Debiganj,250,200,180,220,100
-6,Panchagarh Sadar,250,220,150,150,70
-7,Tentulia,600,250,150,0,80
-8,Average,294,200,146,144,80
+1,Panchagor,,,,,
+2,(Wage in taka),,,,,
+3,Upazila,Porter (coolee),Garden labour male,Garden female labour,Other labour (Adult),Other labour (Child)
+4,Atwari,170,150,100,150,50
+5,Boda,200,180,150,200,100
+6,Debiganj,250,200,180,220,100
+7,Panchagarh Sadar,250,220,150,150,70
+8,Tentulia,600,250,150,0,80
+9,Average,294,200,146,144,80

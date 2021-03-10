@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Use of chemical fertilizer 2010-11,,,,,
-1,,,,,,
-2,Upazila,UREA,TSP,MP,DAP,Others
-3,Alikadam,1346,200,100,70,20
-4,Bandarban Sadar,25,10,15,5,40
-5,Lama,275,1278,734,449,0
-6,Naikhongchhari,1533,280,241,15,0
-7,Rowangchhari,604,246,210,121,0
-8,Ruma,243,86,26,64,0
-9,Thanchi,604,150,80,20,0
-10,Total,4635,2252,1407,745,60
+1,Bandarban,,,,,
+2,,,,,,
+3,Upazila,UREA,TSP,MP,DAP,Others
+4,Alikadam,1346,200,100,70,20
+5,Bandarban Sadar,25,10,15,5,40
+6,Lama,275,1278,734,449,0
+7,Naikhongchhari,1533,280,241,15,0
+8,Rowangchhari,604,246,210,121,0
+9,Ruma,243,86,26,64,0
+10,Thanchi,604,150,80,20,0
+11,Total,4635,2252,1407,745,60

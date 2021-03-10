@@ -1,21 +1,22 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Adarsha Sadar,12,36,0,25,41
-4,Barura,11,8,4,8,15
-5,Brahmanpara,13,0,0,6,30
-6,Burichang,8,8,0,8,24
-7,Chandina,8,12,0,11,23
-8,Chauddagram,1,1,1,1,2
-9,Comilla Sadar Dakshin,3,12,12,6,18
-10,Daudkandi,27,27,30,27,72
-11,Debidwar,4,5,6,4,12
-12,Homna,10,8,10,20,35
-13,Laksam,12,37,42,14,112
-14,Monoharganj,3,1,0,3,7
-15,Meghna,6,0,14,6,11
-16,Muradnagar,13,0,0,13,26
-17,Nangalkot,3,8,6,6,24
-18,Titas,6,6,12,10,24
-19,Total,140,169,137,168,476
+1,Comilla,,,,,
+2,,,,,,
+3,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Adarsha Sadar,12,36,0,25,41
+5,Barura,11,8,4,8,15
+6,Brahmanpara,13,0,0,6,30
+7,Burichang,8,8,0,8,24
+8,Chandina,8,12,0,11,23
+9,Chauddagram,1,1,1,1,2
+10,Comilla Sadar Dakshin,3,12,12,6,18
+11,Daudkandi,27,27,30,27,72
+12,Debidwar,4,5,6,4,12
+13,Homna,10,8,10,20,35
+14,Laksam,12,37,42,14,112
+15,Monoharganj,3,1,0,3,7
+16,Meghna,6,0,14,6,11
+17,Muradnagar,13,0,0,13,26
+18,Nangalkot,3,8,6,6,24
+19,Titas,6,6,12,10,24
+20,Total,140,169,137,168,476

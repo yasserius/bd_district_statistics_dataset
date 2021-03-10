@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,"Number of ward, mahalla and household by municipality 2011",,,,,
-1,,,,,,
-2,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
-3,Fulchhari,-,0,0,0,0
-4,Gaibandha Sadar,Gaibandha,9,35,12725,15430
-5,Gobindaganj,Gobindaganj,9,22,6350,9718
-6,Palashbari,-,0,0,0,0
-7,Sadullapur,-,0,0,0,0
-8,Saghata,-,0,0,0,0
-9,Sundarganj,Sundarganj,9,17,3430,4252
-10,Total,-,27,74,22505,29400
+1,Gaibandha,,,,,
+2,,,,,,
+3,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
+4,Fulchhari,-,0,0,0,0
+5,Gaibandha Sadar,Gaibandha,9,35,12725,15430
+6,Gobindaganj,Gobindaganj,9,22,6350,9718
+7,Palashbari,-,0,0,0,0
+8,Sadullapur,-,0,0,0,0
+9,Saghata,-,0,0,0,0
+10,Sundarganj,Sundarganj,9,17,3430,4252
+11,Total,-,27,74,22505,29400

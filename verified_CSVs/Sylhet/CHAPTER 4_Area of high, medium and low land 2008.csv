@@ -1,18 +1,19 @@
 ,0,1,2,3,4
 0,"Area of high, medium and low land 2008",,,,
-1,(Area in acre),,,,
-2,Upazila/City corporation,High land,Medium land,Low land,Total land
-3,Balaganj,1852,40483,27141,69476
-4,Beanibazar,7500,10000,7715,25215
-5,Bishwanath,2873,16328,6286,25487
-6,Companiganj,10769,34728,23193,68690
-7,Dakhin surma,780,24000,5000,29780
-8,Fenchuganj,370,16000,6000,22370
-9,Golapganj,10473,21379,7793,39645
-10,Gowainghat,9487,60135,49263,118885
-11,Jaintiapur,12546,36460,14650,63656
-12,Kanaighat,71163,24877,15825,111865
-13,Sylhet city corporation,0,0,0,0
-14,Sylhet sadar,8219,11484,11808,31515
-15,Zakiganj,600,32000,2200,34800
-16,Total,136632,327874,176874,641384
+1,Sylhet,,,,
+2,(Area in acre),,,,
+3,Upazila/City Corporation,High land,Medium land,Low land,Total land
+4,Balaganj,1852,40483,27141,69476
+5,Beanibazar,7500,10000,7715,25215
+6,Bishwanath,2873,16328,6286,25487
+7,Companiganj,10769,34728,23193,68690
+8,Dakhin Surma,780,24000,5000,29780
+9,Fenchuganj,370,16000,6000,22370
+10,Golapganj,10473,21379,7793,39645
+11,Gowainghat,9487,60135,49263,118885
+12,Jaintiapur,12546,36460,14650,63656
+13,Kanaighat,71163,24877,15825,111865
+14,Sylhet City Corporation,0,0,0,0
+15,Sylhet Sadar,8219,11484,11808,31515
+16,Zakiganj,600,32000,2200,34800
+17,Total,136632,327874,176874,641384

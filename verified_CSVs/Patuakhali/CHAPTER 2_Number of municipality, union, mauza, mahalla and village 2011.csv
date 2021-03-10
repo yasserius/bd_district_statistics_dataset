@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Number of municipality, union, mauza, mahalla and village 2011",,,,,,
-1,,,,,,,
-2,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
-3,Bauphal,1,9,10,14,134,140
-4,Dashmina,0,0,0,6,49,51
-5,Dumki,0,0,0,5,21,24
-6,Galachipa,1,9,9,17,140,227
-7,Kalapara,2,18,34,11,58,239
-8,Mirzaganj,0,0,0,6,68,73
-9,Patuakhali Sadar,1,9,29,12,101,124
-10,Total,5,45,82,71,571,878
+1,Patuakhali,,,,,,
+2,,,,,,,
+3,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
+4,Bauphal,1,9,10,14,134,140
+5,Dashmina,0,0,0,6,49,51
+6,Dumki,0,0,0,5,21,24
+7,Galachipa,1,9,9,17,140,227
+8,Kalapara,2,18,34,11,58,239
+9,Mirzaganj,0,0,0,6,68,73
+10,Patuakhali Sadar,1,9,29,12,101,124
+11,Total,5,45,82,71,571,878

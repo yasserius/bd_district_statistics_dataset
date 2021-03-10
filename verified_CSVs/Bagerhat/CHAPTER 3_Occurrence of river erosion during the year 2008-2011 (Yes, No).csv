@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,"Occurrence of river erosion during the year 2008-2011 (Yes, No)",,,,
-1,,,,,
-2,Upazila,2008,2009,2010,2011
-3,Bagerhat Sadar,No,No,No,No
-4,Kachua,No,No,No,No
-5,Rampal,No,No,No,No
-6,Sarankhola,Yes,Yes,Yes,Yes
-7,Chitalmari,Yes,Yes,Yes,Yes
-8,Morrelgonj,No,Yes,No,No
-9,Mongla,Yes,No,No,No
-10,Mollahat,No,No,No,No
-11,Fakirhat,No,No,No,No
+1,Bagerhat,,,,
+2,,,,,
+3,Upazila,2008,2009,2010,2011
+4,Bagerhat Sadar,No,No,No,No
+5,Kachua,No,No,No,No
+6,Rampal,No,No,No,No
+7,Sharonkhola,Yes,Yes,Yes,Yes
+8,Chitolmari,Yes,Yes,Yes,Yes
+9,Morrelgonj,No,Yes,No,No
+10,Mongla,Yes,No,No,No
+11,Mollahat,No,No,No,No
+12,Fakirhat,No,No,No,No

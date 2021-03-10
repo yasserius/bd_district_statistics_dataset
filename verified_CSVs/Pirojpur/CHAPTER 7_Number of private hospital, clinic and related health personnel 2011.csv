@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,,,,,,,
-2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Bhandaria,3,41,3,12,0,18
-4,Kawkhali,1,10,3,3,3,2
-5,Mathbaria,6,70,14,21,6,24
-6,Nazirpur,0,0,0,0,0,0
-7,Nesarabad,3,30,6,11,3,12
-8,Pirojpur Sadar,9,120,10,64,6,31
-9,Zianagar,0,0,0,0,0,0
-10,Total,22,271,36,111,18,87
+1,Pirojpur,,,,,,
+2,,,,,,,
+3,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Bhandaria,3,41,3,12,0,18
+5,Kawkhali,1,10,3,3,3,2
+6,Mathbaria,6,70,14,21,6,24
+7,Nazirpur,0,0,0,0,0,0
+8,Nesarabad,3,30,6,11,3,12
+9,Pirojpur Sadar,9,120,10,64,6,31
+10,Zianagar,0,0,0,0,0,0
+11,Total,22,271,36,111,18,87

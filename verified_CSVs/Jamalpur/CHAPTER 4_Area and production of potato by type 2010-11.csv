@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2010-11,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
-3,Bakshiganj,4982,40550,229,1317,5211,41867
-4,Dewanganj,1358,7260,1235,5650,2593,12910
-5,Islampur,1050,1510,1300,7800,2350,14310
-6,Jamalpur Sadar,2573,16814,250,1325,2823,18139
-7,Madarganj,701,3320,500,2699,1201,6019
-8,Melandaha,601,3799,314,1457,915,5256
-9,Sarishabari,2247,13910,160,783,2407,14693
-10,Total,13512,87163,3988,21031,17500,113194
+1,Jamalpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
+4,Bakshiganj,4982,40550,229,1317,5211,41867
+5,Dewanganj,1358,7260,1235,5650,2593,12910
+6,Islampur,1050,1510,1300,7800,2350,14310
+7,Jamalpur Sadar,2573,16814,250,1325,2823,18139
+8,Madarganj,701,3320,500,2699,1201,6019
+9,Melandaha,601,3799,314,1457,915,5256
+10,Sarishabari,2247,13910,160,783,2407,14693
+11,Total,13512,87163,3988,21031,17500,113194

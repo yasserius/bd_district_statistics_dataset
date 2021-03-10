@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Number of municipality, union, mauza, mahalla and village 2011",,,,,,
-1,,,,,,,
-2,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
-3,Fulchhari,0,0,0,7,80,85
-4,Gaibandha Sadar,1,9,35,13,130,144
-5,Gobindaganj,1,9,22,17,339,373
-6,Palashbari,0,0,0,9,161,160
-7,Sadullapur,0,0,0,11,166,169
-8,Saghata,0,0,0,10,117,130
-9,Sundarganj,1,9,17,15,110,189
-10,Total,3,27,74,82,1103,1250
+1,Gaibandha,,,,,,
+2,,,,,,,
+3,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
+4,Fulchhari,0,0,0,7,80,85
+5,Gaibandha Sadar,1,9,35,13,130,144
+6,Gobindaganj,1,9,22,17,339,373
+7,Palashbari,0,0,0,9,161,160
+8,Sadullapur,0,0,0,11,166,169
+9,Saghata,0,0,0,10,117,130
+10,Sundarganj,1,9,17,15,110,189
+11,Total,3,27,74,82,1103,1250

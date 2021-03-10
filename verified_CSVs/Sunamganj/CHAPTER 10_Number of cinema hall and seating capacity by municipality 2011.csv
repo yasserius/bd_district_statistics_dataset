@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Number of cinema hall and seating capacity by municipality 2011,,,,
-1,,,,,
-2, Municipality, Number of cinema hall, Seating capacity, Show per day,Attendance (daily average)
-3,Chhatak,2,300,3,140
-4,Derai,2,400,2,250
-5,Jagannathpur,-,-,-,-
-6,Sunamganj Sadar,1,250,2,200
-7,Total,5,950,-,590
+1,Sunamganj,,,,
+2,,,,,
+3, Municipality, Number of cinema hall, Seating capacity, Show per day,Attendance (daily average)
+4,Chhatak,2,300,3,140
+5,Derai,2,400,2,250
+6,Jagannathpur,-,-,-,-
+7,Sunamganj Sadar,1,250,2,200
+8,Total,5,950,-,590

@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,,,,
-2,Upazila,Number,Number of employee,Number of client
-3,Barlekha,133,30,2700
-4,Juri,102,2,5100
-5,Kamalganj,73,3,2311
-6,Kulaura,225,9,5139
-7,Moulvibazar Sadar,198,275,10880
-8,Rajnagar,205,4,7757
-9,Sreemangal,100,15,2569
-10,Total,1036,338,36456
+1,Moulvibazar,,,
+2,,,,
+3,Upazila,Number,Number of employee,Number of client
+4,Barlekha,133,30,2700
+5,Juri,102,2,5100
+6,Kamalganj,73,3,2311
+7,Kulaura,225,9,5139
+8,Moulvibazar Sadar,198,275,10880
+9,Rajnagar,205,4,7757
+10,Sreemangal,100,15,2569
+11,Total,1036,338,36456

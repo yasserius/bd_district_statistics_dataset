@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,,,,,,,
-2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Barlekha,1,10,3,6,0,16
-4,Juri,2,20,5,19,8,49
-5,Kamalganj,1,0,1,0,1,6
-6,Kulaura,6,85,18,42,16,137
-7,Moulvibazar Sadar,22,240,72,150,9,364
-8,Rajnagar,0,0,0,0,0,0
-9,Sreemangal,3,52,10,21,2,39
-10,Total,35,407,109,238,36,611
+1,Moulvibazar,,,,,,
+2,,,,,,,
+3,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Barlekha,1,10,3,6,0,16
+5,Juri,2,20,5,19,8,49
+6,Kamalganj,1,0,1,0,1,6
+7,Kulaura,6,85,18,42,16,137
+8,Moulvibazar Sadar,22,240,72,150,9,364
+9,Rajnagar,0,0,0,0,0,0
+10,Sreemangal,3,52,10,21,2,39
+11,Total,35,407,109,238,36,611

@@ -1,10 +1,11 @@
 ,0,1,2,3
 0,"Number of railway station, steamer, launch station and bus stand 2011",,,
-1,,,,
-2,Upazila,Railway station,Steamer/launch station,Bus stand
-3,Baliakandi,4,0,1
-4,Goalanda,2,1,6
-5,Kalukhali,1,0,6
-6,Pangsha,2,0,3
-7,Rajbari Sadar,6,1,1
-8,Total,15,2,17
+1,Rajbari,,,
+2,,,,
+3,Upazila,Railway station,Steamer/launch station,Bus stand
+4,Baliakandi,4,0,1
+5,Goalanda,2,1,6
+6,Kalukhali,1,0,6
+7,Pangsha,2,0,3
+8,Rajbari Sadar,6,1,1
+9,Total,15,2,17

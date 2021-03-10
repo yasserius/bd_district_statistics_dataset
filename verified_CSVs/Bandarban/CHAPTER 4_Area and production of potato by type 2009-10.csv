@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2009-10,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
-3,Alikadam,27,121,27,130,54,251
-4,Bandarban Sadar,43,855,143,858,186,1713
-5,Lama,89,489,80,426,169,915
-6,Naikhongchhari,68,101,69,101,137,202
-7,Rowangchhari,8,34,8,35,16,69
-8,Ruma,30,89,30,89,60,178
-9,Thanchi,12,37,0,0,12,37
-10,Total,277,1726,357,1639,634,3365
+1,Bandarban,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
+4,Alikadam,27,121,27,130,54,251
+5,Bandarban Sadar,43,855,143,858,186,1713
+6,Lama,89,489,80,426,169,915
+7,Naikhongchhari,68,101,69,101,137,202
+8,Rowangchhari,8,34,8,35,16,69
+9,Ruma,30,89,30,89,60,178
+10,Thanchi,12,37,0,0,12,37
+11,Total,277,1726,357,1639,634,3365

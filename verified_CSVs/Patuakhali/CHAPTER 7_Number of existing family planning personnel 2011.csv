@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7
 0,Number of existing family planning personnel 2011,,,,,,,
-1,,,,,,,,
-2,Upazila,TFPO,MO,FPI,TFPA,FWV,FWA,Midwife or SBA
-3,Bauphal,1,0,10,3,15,65,7
-4,Dashmina,0,1,3,1,3,23,4
-5,Dumki,1,0,3,3,2,18,5
-6,Galachipa,1,1,11,3,12,68,20
-7,Kalapara,1,0,8,2,6,37,13
-8,Mirzaganj,0,0,6,2,5,32,2
-9,Patuakhali Sadar,1,2,11,3,15,57,10
-10,Total,5,4,52,17,58,300,61
+1,Patuakhali,,,,,,,
+2,,,,,,,,
+3,Upazila,TFPO,MO,FPI,TFPA,FWV,FWA,Midwife or SBA
+4,Bauphal,1,0,10,3,15,65,7
+5,Dashmina,0,1,3,1,3,23,4
+6,Dumki,1,0,3,3,2,18,5
+7,Galachipa,1,1,11,3,12,68,20
+8,Kalapara,1,0,8,2,6,37,13
+9,Mirzaganj,0,0,6,2,5,32,2
+10,Patuakhali Sadar,1,2,11,3,15,57,10
+11,Total,5,4,52,17,58,300,61

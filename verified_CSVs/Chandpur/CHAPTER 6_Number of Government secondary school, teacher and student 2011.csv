@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Government secondary school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Chandpur Sadar,3,69,18,87,1489,1172,2661,31
-4,Foridganj,0,0,0,0,0,0,0,0
-5,Haimchar,2,13,1,14,283,331,614,44
-6,Hajiganj,0,0,0,0,0,0,0,0
-7,Kachua,2,14,3,17,499,657,1156,68
-8,Matlab Dakshin,0,0,0,0,0,0,0,0
-9,Matlab Uttar,0,0,0,0,0,0,0,0
-10,Shahrasti,0,0,0,0,0,0,0,0
-11,Total,7,96,22,118,2271,2160,4431,48
+1,Chandpur,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Chandpur Sadar,3,69,18,87,1489,1172,2661,31
+5,Foridganj,0,0,0,0,0,0,0,0
+6,Haimchar,2,13,1,14,283,331,614,44
+7,Hajiganj,0,0,0,0,0,0,0,0
+8,Kachua,2,14,3,17,499,657,1156,68
+9,Matlab Dakshin,0,0,0,0,0,0,0,0
+10,Matlab Uttar,0,0,0,0,0,0,0,0
+11,Shahrasti,0,0,0,0,0,0,0,0
+12,Total,7,96,22,118,2271,2160,4431,48

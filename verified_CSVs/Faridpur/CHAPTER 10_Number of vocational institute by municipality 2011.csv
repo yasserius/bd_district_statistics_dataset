@@ -1,9 +1,10 @@
 ,0,1,2,3
 0,Number of vocational institute by municipality 2011,,,
-1,,,,
-2,Municipality,Number of institution,Number of teacher,Number of student
-3,Bhanga,2,9,165
-4,Boalmari,0,0,0
-5,Faridpur Sadar,1,38,548
-6,Nagarkanda,0,0,0
-7,Total,3,47,713
+1,Faridpur,,,
+2,,,,
+3,Municipality,Number of institution,Number of teacher,Number of student
+4,Bhanga,2,9,165
+5,Boalmari,0,0,0
+6,Faridpur Sadar,1,38,548
+7,Nagarkanda,0,0,0
+8,Total,3,47,713

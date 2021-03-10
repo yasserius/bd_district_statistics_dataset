@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of technical and vocational institution, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila, Institution,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Kalia,1,5,0,5,63,32,95,19
-4,Lohagara,1,9,2,11,105,73,178,16
-5,Narail Sadar,1,21,9,30,362,120,482,6
-6,Total,3,35,11,46,530,225,755,16
+1,Narail,,,,,,,,
+2,,,,,,,,,
+3, Upazila, Institution,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Kalia,1,5,0,5,63,32,95,19
+5,Lohagara,1,9,2,11,105,73,178,16
+6,Narail Sadar,1,21,9,30,362,120,482,6
+7,Total,3,35,11,46,530,225,755,16

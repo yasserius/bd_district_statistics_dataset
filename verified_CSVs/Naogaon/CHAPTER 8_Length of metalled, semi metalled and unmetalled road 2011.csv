@@ -1,16 +1,17 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
-1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
-3,Atrai,83,15,208,306
-4,Badalgachhi,175.6,5.6,232.32,413.53
-5,Dhamoirhat,140.42,15.69,328.17,484.28
-6,Manda,311,35,472,818
-7,Mahadebpur,223,14,440,677
-8,Naogaon sadar,212,7,325,543.43
-9,Niamatpur,185.81,30.15,403.96,619.92
-10,Patnitala,165,18,321,504
-11,Porsha,87,14,311,412
-12,Raninagar,139,21,243,402
-13,Sapahar,217.14,6.61,165.45,389.2
-14,Total,1938.97,182.05,3449.9,5569.36
+1,Naogaon,,,,
+2,(Kilometer),,,,
+3,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
+4,Atrai,83,15,208,306
+5,Badalgachhi,175.6,5.6,232.32,413.53
+6,Dhamoirhat,140.42,15.69,328.17,484.28
+7,Manda,311,35,472,818
+8,Mahadebpur,223,14,440,677
+9,Naogaon sadar,212,7,325,543.43
+10,Niamatpur,185.81,30.15,403.96,619.92
+11,Patnitala,165,18,321,504
+12,Porsha,87,14,311,412
+13,Raninagar,139,21,243,402
+14,Sapahar,217.14,6.61,165.45,389.2
+15,Total,1938.97,182.05,3449.9,5569.36

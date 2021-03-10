@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2009-10,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Potato Area,Potato Production,Sweet potato Area,Sweet potato Production,Total potato Area,Total potato Production
-3,Assasuni,240,1074,0,0,240,1074
-4,Debhata,716,6706,0,0,716,6706
-5,Kalaroa,642,3893,11,17,653,3910
-6,Kaliganj,1375,6760,10,70,1385,6830
-7,Satkhira Sadar,1870,14600,33,143,1903,14743
-8,Shyamnagar,710,3236,0,0,710,3236
-9,Tala,3500,21651,12,31,3512,21682
-10,Total,9053,57920,66,261,9119,58181
+1,Satkhira,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Potato Area,Potato Production,Sweet potato Area,Sweet potato Production,Total potato Area,Total potato Production
+4,Assasuni,240,1074,0,0,240,1074
+5,Debhata,716,6706,0,0,716,6706
+6,Kalaroa,642,3893,11,17,653,3910
+7,Kaliganj,1375,6760,10,70,1385,6830
+8,Satkhira Sadar,1870,14600,33,143,1903,14743
+9,Shyamnagar,710,3236,0,0,710,3236
+10,Tala,3500,21651,12,31,3512,21682
+11,Total,9053,57920,66,261,9119,58181

@@ -1,20 +1,21 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Non-Government health complex and health facility 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila/City corporation,Number of  hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of    technician, Number of other staff,Number of patient under health facilitiy - Indoor - Male,Number of patient under health facilitiy - Indoor - Female,Number of patient under health facilitiy - Outdoor - Male,Number of patient under health facilitiy - Outdoor - Female
-3,Anowara,0,0,0,0,0,0,0,0,0,0
-4,Banshkhali,1,20,7,11,4,25,2000,2330,5020,4900
-5,Boalkhali,3,30,3,5,3,9,1800,2500,0,0
-6,Chandanaish,3,180,32,49,19,57,1825,2101,17522,28212
-7,Chittagong City Corp.,95,4666,1716,1234,234,982,132231,146615,135457,159225
-8,Fatikchhari,1,133,19,38,14,37,6203,7509,24813,30328
-9,Hathazari,4,60,10,20,20,40,5012,4010,60125,60255
-10,Lohagara,3,45,27,40,9,93,4793,5184,36345,37095
-11,Mirsharai,5,75,6,28,10,62,2640,2725,0,0
-12,Patiya,6,52,6,15,12,20,2100,3200,0,0
-13,Rangunia,3,37,16,45,5,64,315,320,395,410
-14,Raozan,1,31,4,6,1,13,1050,2320,2120,3560
-15,Sandwip,0,0,0,0,0,0,0,0,0,0
-16,Satkania,7,54,15,34,42,106,10227,10520,24320,23662
-17,Sitakunda,5,42,12,21,5,30,83,329,214,1540
-18,Total,137,5425,1873,1546,378,1538,170279,189663,306331,349187
+1,Chittagong,,,,,,,,,,
+2,,,,,,,,,,,
+3, Upazila/City corporation,Number of  hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of    technician, Number of other staff,Number of patient under health facilitiy - Indoor - Male,Number of patient under health facilitiy - Indoor - Female,Number of patient under health facilitiy - Outdoor - Male,Number of patient under health facilitiy - Outdoor - Female
+4,Anowara,0,0,0,0,0,0,0,0,0,0
+5,Banshkhali,1,20,7,11,4,25,2000,2330,5020,4900
+6,Boalkhali,3,30,3,5,3,9,1800,2500,0,0
+7,Chandanaish,3,180,32,49,19,57,1825,2101,17522,28212
+8,Chittagong City Corporation,95,4666,1716,1234,234,982,132231,146615,135457,159225
+9,Fatikchhari,1,133,19,38,14,37,6203,7509,24813,30328
+10,Hathazari,4,60,10,20,20,40,5012,4010,60125,60255
+11,Lohagara,3,45,27,40,9,93,4793,5184,36345,37095
+12,Mirsharai,5,75,6,28,10,62,2640,2725,0,0
+13,Patiya,6,52,6,15,12,20,2100,3200,0,0
+14,Rangunia,3,37,16,45,5,64,315,320,395,410
+15,Raozan,1,31,4,6,1,13,1050,2320,2120,3560
+16,Sandwip,0,0,0,0,0,0,0,0,0,0
+17,Satkania,7,54,15,34,42,106,10227,10520,24320,23662
+18,Sitakunda,5,42,12,21,5,30,83,329,214,1540
+19,Total,137,5425,1873,1546,378,1538,170279,189663,306331,349187

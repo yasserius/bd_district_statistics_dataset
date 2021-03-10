@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of bamboo and cane industry and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Akkelpur,144,292,0,292
-4,Joypurhat sadar,218,436,0,436
-5,Kalai,23,37,0,37
-6,Khetlal,38,76,29,105
-7,Panchbibi,85,170,0,170
-8,Total,508,1011,29,1040
+1,Joypurhat,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Akkelpur,144,292,0,292
+5,Joypurhat sadar,218,436,0,436
+6,Kalai,23,37,0,37
+7,Khetlal,38,76,29,105
+8,Panchbibi,85,170,0,170
+9,Total,508,1011,29,1040

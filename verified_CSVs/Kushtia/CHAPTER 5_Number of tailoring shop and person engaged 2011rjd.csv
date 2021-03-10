@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of tailoring shop and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Units,Persons engaged - Family,Persons engaged - Hired,Persons engaged - Total
-3,Kushtia Sadar,462,575,625,1200
-4,Bheramara,90,90,180,270
-5,Daulatpur,1420,1020,400,1420
-6,Khoksa,81,81,161,242
-7,Kumarkhali,396,396,496,892
-8,Mirpur,743,825,310,1135
-9,Total,3192,2987,2172,5159
+1,Kushtia,,,,
+2,,,,,
+3,Upazila, Units,Persons engaged - Family,Persons engaged - Hired,Persons engaged - Total
+4,Kushtia Sadar,462,575,625,1200
+5,Bheramara,90,90,180,270
+6,Daulatpur,1420,1020,400,1420
+7,Khoksa,81,81,161,242
+8,Kumarkhali,396,396,496,892
+9,Mirpur,743,825,310,1135
+10,Total,3192,2987,2172,5159

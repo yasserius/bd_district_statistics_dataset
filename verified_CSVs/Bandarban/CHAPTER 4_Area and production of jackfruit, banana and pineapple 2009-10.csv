@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of jackfruit, banana and pineapple 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Jackfruit Area,Jackfruit Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
-3,Alikadam,0,0,481,2399,16,39
-4,Bandarban Sadar,15,1082,1580,9933,660,2986
-5,Lama,0,0,504,2003,80,160
-6,Naikhongchhari,4,1333,317,1895,75,180
-7,Rowangchhari,10,65,136,223,61,245
-8,Ruma,150,2214,385,2310,550,3175
-9,Thanchi,14,208,32,147,32,142
-10,Total,287,3193,3460,18778,1489,7437
+1,Bandarban,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Jackfruit Area,Jackfruit Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
+4,Alikadam,0,0,481,2399,16,39
+5,Bandarban Sadar,15,1082,1580,9933,660,2986
+6,Lama,0,0,504,2003,80,160
+7,Naikhongchhari,4,1333,317,1895,75,180
+8,Rowangchhari,10,65,136,223,61,245
+9,Ruma,150,2214,385,2310,550,3175
+10,Thanchi,14,208,32,147,32,142
+11,Total,287,3193,3460,18778,1489,7437

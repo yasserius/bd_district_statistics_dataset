@@ -1,11 +1,12 @@
 ,0,1,2,3
 0,Length of embankment road  canal 2011,,,
-1,(Kilometer),,,
-2,Upazila,Embankment road,Canal,Others road
-3,Bagatipara,0,20,0
-4,Baraigram,0,0,0
-5,Gurudaspur,7,22,0
-6,Lalpur,0,10,0
-7,Natore Sadar,34,47,55
-8,Singra,26,50,0
-9,Total,67,149,55
+1,Natore,,,
+2,(Kilometer),,,
+3,Upazila,Embankment road,Canal,Others road
+4,Bagatipara,0,20,0
+5,Baraigram,0,0,0
+6,Gurudaspur,7,22,0
+7,Lalpur,0,10,0
+8,Natore Sadar,34,47,55
+9,Singra,26,50,0
+10,Total,67,149,55

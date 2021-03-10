@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2010-11,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
-3,Chandpur Sadar,4570,41380,370,2250,4940,43630
-4,Foridganj,284,2231,130,432,414,2663
-5,Haimchar,321,3044,99,630,420,3674
-6,Hajiganj,3100,24835,70,130,3170,24965
-7,Kachua,11500,92000,85,425,11585,92425
-8,Matlab Dakshin,13682,113547,110,411,13792,127339
-9,Matlab Uttar,1128,8923,338,1284,1466,10207
-10,Shahrasti,520,6250,45,135,565,6385
-11,Total,35105,292210,1247,5697,36352,311288
+1,Chandpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
+4,Chandpur Sadar,4570,41380,370,2250,4940,43630
+5,Foridganj,284,2231,130,432,414,2663
+6,Haimchar,321,3044,99,630,420,3674
+7,Hajiganj,3100,24835,70,130,3170,24965
+8,Kachua,11500,92000,85,425,11585,92425
+9,Matlab Dakshin,13682,113547,110,411,13792,127339
+10,Matlab Uttar,1128,8923,338,1284,1466,10207
+11,Shahrasti,520,6250,45,135,565,6385
+12,Total,35105,292210,1247,5697,36352,311288

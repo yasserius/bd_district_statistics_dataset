@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Average rate of vehicle per kilo meter 2011,,,,,
-1,(Rate in taka),,,,,
-2, Upazila,Vehicle - Rickshaw,Vehicle - Ricshaw van,Vehicle - Easy bike,Vehicle - Auto rickshaw,Vehicle - Tempo
-3,Bauphal,12,8,0,10,5
-4,Dashmina,10,10,0,0,10
-5,Dumki,7,7,0,0,3
-6,Galachipa,10,15,0,0,9
-7,Kalapara,10,15,5,10,4
-8,Mirzaganj,10,10,0,5,5
-9,Patuakhali Sadar,10,10,5,5,5
-10,Average,10,11,5,8,6
+1,Patuakhali,,,,,
+2,(Rate in taka),,,,,
+3,Upazila,Vehicle - Rickshaw,Vehicle - Ricshaw van,Vehicle - Easy bike,Vehicle - Auto rickshaw,Vehicle - Tempo
+4,Bauphal,12,8,0,10,5
+5,Dashmina,10,10,0,0,10
+6,Dumki,7,7,0,0,3
+7,Galachipa,10,15,0,0,9
+8,Kalapara,10,15,5,10,4
+9,Mirzaganj,10,10,0,5,5
+10,Patuakhali Sadar,10,10,5,5,5
+11,Average,10,11,5,8,6

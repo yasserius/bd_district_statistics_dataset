@@ -1,7 +1,8 @@
 ,0,1,2,3
 0,Number of vocational institute by municipality 2011,,,
-1,,,,
-2,Municipality,Number of institution,Number of teacher,Number of student
-3,Baghaichhari,0,0,0
-4,Rangamati,1,24,886
-5,Total,1,24,886
+1,Rangamati,,,
+2,,,,
+3,Municipality,Number of institution,Number of teacher,Number of student
+4,Baghaichhari,0,0,0
+5,Rangamati,1,24,886
+6,Total,1,24,886

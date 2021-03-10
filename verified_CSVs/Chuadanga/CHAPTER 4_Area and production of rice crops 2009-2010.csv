@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2009-2010,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
-3,Alamdanga,3440,3178,43173,41352,40013,45532
-4,Chuadanga Sadar,10169,7642,23256,17372,21086,33130
-5,Damurhuda,8964,5494,24645,28671,28129,44160
-6,Jibonnagar,8398,23934,19266,42385,18525,17100
-7,Total,30971,40248,110340,129780,107753,139922
+1,Chuadanga,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
+4,Alamdanga,3440,3178,43173,41352,40013,45532
+5,Chuadanga Sadar,10169,7642,23256,17372,21086,33130
+6,Damurhuda,8964,5494,24645,28671,28129,44160
+7,Jibonnagar,8398,23934,19266,42385,18525,17100
+8,Total,30971,40248,110340,129780,107753,139922

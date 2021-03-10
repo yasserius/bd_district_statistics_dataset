@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6
 0,Land area under irrigation for selected crops 2008,,,,,,
-1,(area in acre),,,,,,
-2, Upazila,All Paddy Total area,All Paddy Irrigated area,Wheat Total area,Wheat Irrigated area,Potato Total area,Potato Irrigated area
-3,Bishwamvarpur,61440,8240,61440,0,61440,0
-4,Chhatak,11503,11503,0,0,0,0
-5,Dakshin Sunamganj,18860,18800,0,0,0,0
-6,Derai,79250,76120,0,0,0,0
-7,Dharmapasha,68933,45847,266,205,825,0
-8,Doarabazar,28150,5016,7995,500,0,0
-9,Jagannathpur,44644,42857,0,0,0,0
-10,Jamalganj,65000,44459,0,0,20100,315
-11,Shalla,34742,31263,0,0,0,0
-12,Sunamganj Sadar,28400,26900,40,0,26,0
-13,Tahirpur,13815,1000,0,0,226,50
-14,Total,426337,312005,69741,705,82617,365
+1,Sunamganj,,,,,,
+2,(area in acre),,,,,,
+3,Upazila,All Paddy Total area,All Paddy Irrigated area,Wheat Total area,Wheat Irrigated area,Potato Total area,Potato Irrigated area
+4,Bishwamvarpur,61440,8240,61440,0,61440,0
+5,Chhatak,11503,11503,0,0,0,0
+6,Dakshin Sunamganj,18860,18800,0,0,0,0
+7,Derai,79250,76120,0,0,0,0
+8,Dharmapasha,68933,45847,266,205,825,0
+9,Doarabazar,28150,5016,7995,500,0,0
+10,Jagannathpur,44644,42857,0,0,0,0
+11,Jamalganj,65000,44459,0,0,20100,315
+12,Shalla,34742,31263,0,0,0,0
+13,Sunamganj Sadar,28400,26900,40,0,26,0
+14,Tahirpur,13815,1000,0,0,226,50
+15,Total,426337,312005,69741,705,82617,365

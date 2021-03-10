@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Use of chemical fertilizer 2010-11,,,,,
-1,,,,,,
-2,Upazila,UREA,TSP,MP,DAP,Others
-3,Amtali,822,560,222,150,35
-4,Bamna,2000,800,200,20,10
-5,Barguna Sadar,786,470,190,130,31
-6,Betagi,1380,540,225,73,20
-7,Patharghata,1700,800,320,180,41
-8,Total,6688,3170,1157,553,137
+1,Barguna,,,,,
+2,,,,,,
+3,Upazila,UREA,TSP,MP,DAP,Others
+4,Amtali,822,560,222,150,35
+5,Bamna,2000,800,200,20,10
+6,Barguna Sadar,786,470,190,130,31
+7,Betagi,1380,540,225,73,20
+8,Patharghata,1700,800,320,180,41
+9,Total,6688,3170,1157,553,137

@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,Area and Production of Rice Crops 2009-2010,,,,,,
-1,(Area in acre  production in metric ton),,,,,,
-2,Upazila/city corporation,Aus Area,Aus Production,Aman Area,Aman Production,Boro Area,Boro Production
-3,Batiaghata,611,460,43399,50508,6605,68546
-4,Dacope,700,497,43680,36723,335,423
-5,Dighalia,2036,34210,5535,182325,9239,373883
-6,Dumuria,2775,1820,42620,44081,46896,70669
-7,Khulna City Corporation,0,0,485,252,225,195
-8,Koyra,0,0,9742,10160,1606,1574
-9,Paikgachha,128,138,31415,260,5734,9267
-10,Phultala,1521,730,3423,3765,6636,10900
-11,Rupsa,72,50,10355,9933,12206,20875
-12,Terokhada,4710,1934,16544,7820,15009,22593
-13,Total,12553,39839,207198,345827,104491,578925
+1,Khulna,,,,,,
+2,(Area in acre  production in metric ton),,,,,,
+3,Upazila/city corporation,Aus Area,Aus Production,Aman Area,Aman Production,Boro Area,Boro Production
+4,Batiaghata,611,460,43399,50508,6605,68546
+5,Dacope,700,497,43680,36723,335,423
+6,Dighalia,2036,34210,5535,182325,9239,373883
+7,Dumuria,2775,1820,42620,44081,46896,70669
+8,Khulna City Corporation,0,0,485,252,225,195
+9,Koyra,0,0,9742,10160,1606,1574
+10,Paikgachha,128,138,31415,260,5734,9267
+11,Phultala,1521,730,3423,3765,6636,10900
+12,Rupsa,72,50,10355,9933,12206,20875
+13,Terokhada,4710,1934,16544,7820,15009,22593
+14,Total,12553,39839,207198,345827,104491,578925

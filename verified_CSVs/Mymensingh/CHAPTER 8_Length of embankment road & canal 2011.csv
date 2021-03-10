@@ -1,17 +1,18 @@
 ,0,1,2,3
 0,Length of embankment road  canal 2011,,,
-1,(Kilometer),,,
-2,Upazila,Embankment road,Canal,Others road
-3,Bhaluka,0,0,0
-4,Dhobaura,14,23,0
-5,Fulbaria,0,0,0
-6,Gaffargaon,0,0,0
-7,Gauripur,0,0,0
-8,Haluaghat,0,500,0
-9,Ishwargonj,0,2.5,0
-10,Muktagacha,0,10,1200
-11,Mymensingh Sadar,5,22,0
-12,Nandail,22,25,0
-13,Phulpur,20,200,1000
-14,Trishal,0,0,0
-15,Total,61,782.5,2200
+1,Mymensingh,,,
+2,(Kilometer),,,
+3,Upazila,Embankment road,Canal,Others road
+4,Bhaluka,0,0,0
+5,Dhobaura,14,23,0
+6,Fulbaria,0,0,0
+7,Gaffargaon,0,0,0
+8,Gauripur,0,0,0
+9,Haluaghat,0,500,0
+10,Ishwargonj,0,2.5,0
+11,Muktagacha,0,10,1200
+12,Mymensingh Sadar,5,22,0
+13,Nandail,22,25,0
+14,Phulpur,20,200,1000
+15,Trishal,0,0,0
+16,Total,61,782.5,2200

@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,Average doctor s fee per patient 2011,,,,,
-1,(Fee in taka),,,,,
-2,Upazila,Doctor - MBBS,Doctor - FCPS,Doctor - Dentist,Doctor - Gynaecologist,Doctor - Homeopathy
-3,Alfadanga,150,0,150,0,50
-4,Bhanga,200,300,200,200,50
-5,Boalmari,150,300,100,200,50
-6,Charbhadrashon,200,100,100,200,100
-7,Faridpur Sadar,300,400,300,400,0
-8,Madhukhali,250,350,100,250,50
-9,Nagarkanda,200,0,0,0,40
-10,Sadarpur,80,0,80,80,0
-11,Saltha,0,0,0,0,40
-12,Average,191,290,147,222,54
+1,Faridpur,,,,,
+2,(Fee in taka),,,,,
+3,Upazila,Doctor - MBBS,Doctor - FCPS,Doctor - Dentist,Doctor - Gynaecologist,Doctor - Homeopathy
+4,Alfadanga,150,0,150,0,50
+5,Bhanga,200,300,200,200,50
+6,Boalmari,150,300,100,200,50
+7,Charbhadrashon,200,100,100,200,100
+8,Faridpur Sadar,300,400,300,400,0
+9,Madhukhali,250,350,100,250,50
+10,Nagarkanda,200,0,0,0,40
+11,Sadarpur,80,0,80,80,0
+12,Saltha,0,0,0,0,40
+13,Average,191,290,147,222,54

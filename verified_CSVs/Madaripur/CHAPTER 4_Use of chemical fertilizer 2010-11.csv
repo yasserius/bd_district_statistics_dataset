@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,Use of chemical fertilizer 2010-11,,,,,
-1,,,,,,
-2,Upazila,UREA,TSP,MP,DAP,Others
-3,Kalkini,10500,1894,1565,0,1000
-4,Madaripur Sadar,4070,372,535,2016,0
-5,Rajoir,4800,851,1100,2000,500
-6,Shibchar,6300,800,800,2500,525
-7,Total,25670,3917,4000,6516,2025
+1,Madaripur,,,,,
+2,,,,,,
+3,Upazila,UREA,TSP,MP,DAP,Others
+4,Kalkini,10500,1894,1565,0,1000
+5,Madaripur Sadar,4070,372,535,2016,0
+6,Rajoir,4800,851,1100,2000,500
+7,Shibchar,6300,800,800,2500,525
+8,Total,25670,3917,4000,6516,2025

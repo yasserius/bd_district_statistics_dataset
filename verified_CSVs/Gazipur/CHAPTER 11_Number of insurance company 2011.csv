@@ -1,10 +1,11 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,,,,
-2,Upazila,Number of insurance company,Number of employee,Number of client
-3,Gazipur Sadar,15,1071,90100
-4,Kaliakair,0,0,0
-5,Kaliganj,9,33,22865
-6,Kapashia,4,83,20044
-7,Sreepur,6,19,15343
-8,Total,34,1206,148352
+1,Gazipur,,,
+2,,,,
+3,Upazila,Number of insurance company,Number of employee,Number of client
+4,Gazipur Sadar,15,1071,90100
+5,Kaliakair,0,0,0
+6,Kaliganj,9,33,22865
+7,Kapashia,4,83,20044
+8,Sreepur,6,19,15343
+9,Total,34,1206,148352

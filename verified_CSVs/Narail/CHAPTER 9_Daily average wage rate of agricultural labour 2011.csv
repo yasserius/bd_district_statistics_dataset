@@ -1,8 +1,9 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
-1,,,,
-2,(Rate in taka) -  Upazila,(Rate in taka) - Labour - Male,(Rate in taka) - Labour - Female,(Rate in taka) - Labour - Child (under 15 years old)
-3,Kalia,250,160,100
-4,Lohagara,350,200,60
-5,Narail Sadar,170,120,120
-6,Average,257,160,93
+1,Narail,,,
+2,,,,
+3,(Rate in taka) -  Upazila,(Rate in taka) - Labour - Male,(Rate in taka) - Labour - Female,(Rate in taka) - Labour - Child (under 15 years old)
+4,Kalia,250,160,100
+5,Lohagara,350,200,60
+6,Narail Sadar,170,120,120
+7,Average,257,160,93

@@ -1,16 +1,17 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
-1,(Kilometer),,,,
-2,Upazila/city corporation,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
-3,Agailjhara,213,42,334,589
-4,Babuganj,53.32,123.67,364.79,542.17
-5,Bakerganj,92,170,2250,2512
-6,Banaripara,64.09,65.82,422.95,552.86
-7,Barisal city corporation,233,36,324,593
-8,Barisal sadar,162,117,514,793
-9,Gaurnadi,119,53,275,447
-10,Hizla,25,48,270,343
-11,Mehendiganj,41.28,134.51,906.32,1082.11
-12,Muladi,29.2,58.5,574.1,661.8
-13,Wazirpur,127,74,637,838
-14,Total,1158.89,922.5,6872.16,8953.94
+1,Barisal,,,,
+2,(Kilometer),,,,
+3,Upazila/city corporation,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
+4,Agailjhara,213,42,334,589
+5,Babuganj,53.32,123.67,364.79,542.17
+6,Bakerganj,92,170,2250,2512
+7,Banaripara,64.09,65.82,422.95,552.86
+8,Barisal city corporation,233,36,324,593
+9,Barisal Sadar,162,117,514,793
+10,Gaurnadi,119,53,275,447
+11,Hizla,25,48,270,343
+12,Mehendiganj,41.28,134.51,906.32,1082.11
+13,Muladi,29.2,58.5,574.1,661.8
+14,Wazirpur,127,74,637,838
+15,Total,1158.89,922.5,6872.16,8953.94

@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Number of branch of nationalized commercial bank 2011,,,,,,
-1,(Figures in lac Tk.),,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C,Average annual deposit Tk.,Annual credit disbursed Tk.
-3,Dighinala,1,15,6736,1107,1600,200
-4,Khagrachhari Sadar,3,57,"18,755",4103,1306,940
-5,Laxshmichhari,1,4,2517,157,509.27,96.91
-6,Mahalchhari,1,10,4432,228,714.80,25.98
-7,Manikchhari,1,11,3180,711,683.70,96
-8,Matiranga,1,17,5846,492,149.14,14.21
-9,Panchhari,1,12,6460,672,800,99.38
-10,Ramgarh,3,22,12527,901,1070,50
-11,Total,12,148,60453,8371,854.11,1522.48
+1,Khagrachori,,,,,,
+2,(Figures in lac Tk.),,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C,Average annual deposit Tk.,Annual credit disbursed Tk.
+4,Dighinala,1,15,6736,1107,1600,200
+5,Khagrachori,3,57,"18,755",4103,1306,940
+6,Laxshmichhari,1,4,2517,157,509.27,96.91
+7,Mahalchhari,1,10,4432,228,714.80,25.98
+8,Manikchhari,1,11,3180,711,683.70,96
+9,Matiranga,1,17,5846,492,149.14,14.21
+10,Panchhari,1,12,6460,672,800,99.38
+11,Ramgarh,3,22,12527,901,1070,50
+12,Total,12,148,60453,8371,854.11,1522.48

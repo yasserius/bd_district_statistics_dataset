@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Non-government secondary school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Chandpur Sadar,40,248,98,346,7179,12131,19310,56
-4,Foridganj,46,444,47,491,9588,13862,23450,48
-5,Haimchar,10,77,8,85,2688,2791,5499,64
-6,Hajiganj,27,186,41,227,7977,10431,18408,81
-7,Kachua,37,255,61,316,7850,11600,19450,61
-8,Matlab Dakshin,25,214,36,250,5656,7415,13071,52
-9,Matlab Uttar,39,329,45,374,11280,10345,21625,58
-10,Shahrasti,32,297,47,344,6449,9230,15679,46
-11,Total,256,2050,383,2433,58667,77805,136492,58
+1,Chandpur,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Chandpur Sadar,40,248,98,346,7179,12131,19310,56
+5,Foridganj,46,444,47,491,9588,13862,23450,48
+6,Haimchar,10,77,8,85,2688,2791,5499,64
+7,Hajiganj,27,186,41,227,7977,10431,18408,81
+8,Kachua,37,255,61,316,7850,11600,19450,61
+9,Matlab Dakshin,25,214,36,250,5656,7415,13071,52
+10,Matlab Uttar,39,329,45,374,11280,10345,21625,58
+11,Shahrasti,32,297,47,344,6449,9230,15679,46
+12,Total,256,2050,383,2433,58667,77805,136492,58

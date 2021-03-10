@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,"Occurrence of river erosion during the year 2008-2011 (Yes, No)",,,,
-1,,,,,
-2,Upazila,2008,2009,2010,2011
-3,Chandpur Sadar,Yes,Yes,Yes,Yes
-4,Foridganj,No,No,No,No
-5,Haimchar,Yes,Yes,No,No
-6,Hajiganj,No,No,No,No
-7,Kachua,No,No,No,No
-8,Matlab Dakshin,No,No,No,No
-9,Matlab Uttar,No,No,No,No
-10,Shahrasti,No,No,No,No
+1,Chandpur,,,,
+2,,,,,
+3,Upazila,2008,2009,2010,2011
+4,Chandpur Sadar,Yes,Yes,Yes,Yes
+5,Foridganj,No,No,No,No
+6,Haimchar,Yes,Yes,No,No
+7,Hajiganj,No,No,No,No
+8,Kachua,No,No,No,No
+9,Matlab Dakshin,No,No,No,No
+10,Matlab Uttar,No,No,No,No
+11,Shahrasti,No,No,No,No

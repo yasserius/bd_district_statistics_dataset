@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building material 2011,,,,,,
-1,(Price in taka),,,,,,
-2,Upazila,Brick-01 (per1000),Cement (per 50 kg bag),Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
-3,Begumganj,6500,420,60000,40,22,110
-4,Chatkhil,7000,450,66000,20,16,120
-5,Companiganj,5500,395,66000,14,17,115
-6,Hatiya,4500,470,65000,12,15,110
-7,Kabirhat,6300,425,65000,20,22,120
-8,Noakhali Sadar,6000,400,70000,21,18,122
-9,Senbagh,5500,390,55000,17,15,120
-10,Sonaimuri,6500,450,70000,25,20,110
-11,Subarnachar,5500,410,67000,22,18,125
-12,Average,5922,423,64888,21,18,117
+1,Noakhali,,,,,,
+2,(Price in taka),,,,,,
+3,Upazila,Brick-01 (per1000),Cement (per 50 kg bag),Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
+4,Begumganj,6500,420,60000,40,22,110
+5,Chatkhil,7000,450,66000,20,16,120
+6,Companiganj,5500,395,66000,14,17,115
+7,Hatiya,4500,470,65000,12,15,110
+8,Kabirhat,6300,425,65000,20,22,120
+9,Noakhali Sadar,6000,400,70000,21,18,122
+10,Senbagh,5500,390,55000,17,15,120
+11,Sonaimuri,6500,450,70000,25,20,110
+12,Subarnachar,5500,410,67000,22,18,125
+13,Average,5922,423,64888,21,18,117

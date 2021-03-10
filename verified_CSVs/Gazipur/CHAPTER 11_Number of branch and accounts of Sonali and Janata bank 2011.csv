@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Sonali and Janata bank 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Sonali bank - Number of branch,Sonali bank - Account - S.D,Sonali bank - Account - C.D,Sonali bank - Account - F.D,Sonali bank - Account - S.T.D,Janata bank - Number of branch,Janata bank - Account - S.D,Janata bank - Account - C.D,Janata bank - Account - F.D,Janata bank - Account - S.T.D
-3,Gazipur Sadar,13,51258,5160,981,109,3,15379,2964,147,64
-4,Kaliakair,2,2302,2143,1560,41,2,20930,2675,481,28
-5,Kaliganj,2,31456,1599,2498,39,0,0,0,0,0
-6,Kapashia,2,31419,525,311,58,0,0,0,0,0
-7,Sreepur,2,6320,425,28,42,0,0,0,0,0
-8,Total,21,122755,9852,5378,289,5,36309,5639,628,92
+1,Gazipur,,,,,,,,,,
+2,,,,,,,,,,,
+3, Upazila,Sonali bank - Number of branch,Sonali bank - Account - S.D,Sonali bank - Account - C.D,Sonali bank - Account - F.D,Sonali bank - Account - S.T.D,Janata bank - Number of branch,Janata bank - Account - S.D,Janata bank - Account - C.D,Janata bank - Account - F.D,Janata bank - Account - S.T.D
+4,Gazipur Sadar,13,51258,5160,981,109,3,15379,2964,147,64
+5,Kaliakair,2,2302,2143,1560,41,2,20930,2675,481,28
+6,Kaliganj,2,31456,1599,2498,39,0,0,0,0,0
+7,Kapashia,2,31419,525,311,58,0,0,0,0,0
+8,Sreepur,2,6320,425,28,42,0,0,0,0,0
+9,Total,21,122755,9852,5378,289,5,36309,5639,628,92

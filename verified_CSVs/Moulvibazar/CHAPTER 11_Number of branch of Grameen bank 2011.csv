@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of branch of Grameen bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of member,Number of account
-3,Barlekha,0,0,0,0
-4,Juri,2,14,5205,5216
-5,Kamalganj,4,33,18346,18829
-6,Kulaura,4,25,10323,11261
-7,Moulvibazar Sadar,5,0,0,0
-8,Rajnagar,4,27,11636,14871
-9,Sreemangal,4,29,15268,15531
-10,Total,23,128,60778,65708
+1,Moulvibazar,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of member,Number of account
+4,Barlekha,0,0,0,0
+5,Juri,2,14,5205,5216
+6,Kamalganj,4,33,18346,18829
+7,Kulaura,4,25,10323,11261
+8,Moulvibazar Sadar,5,0,0,0
+9,Rajnagar,4,27,11636,14871
+10,Sreemangal,4,29,15268,15531
+11,Total,23,128,60778,65708

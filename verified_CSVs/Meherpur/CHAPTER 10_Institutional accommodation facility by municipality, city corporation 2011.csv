@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6
 0,"Institutional accommodation facility by municipality, city corporation 2011",,,,,,
-1,,,,,,,
-2,Municipality/City Corporation,Residential hostel Number,Residential hostel Capacity,Hall/Hostel Number,Hall/Hostel Capacity,Mess/Barracks Number,Mess/Barracks Capacity
-3,Gangni,0,0,0,0,35,355
-4,Mujibnagar,0,0,0,0,0,0
-5,Meherpur Sadar,7,55,4,380,17,220
-6,Total,7,55,4,380,52,575
+1,Meherpur,,,,,,
+2,,,,,,,
+3,Municipality/City Corporation,Residential hostel Number,Residential hostel Capacity,Hall/Hostel Number,Hall/Hostel Capacity,Mess/Barracks Number,Mess/Barracks Capacity
+4,Gangni,0,0,0,0,35,355
+5,Mujibnagar,0,0,0,0,0,0
+6,Meherpur Sadar,7,55,4,380,17,220
+7,Total,7,55,4,380,52,575

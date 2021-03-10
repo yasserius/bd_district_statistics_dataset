@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Existing position of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
-3,Bakshiganj,28,8,453,69,558
-4,Dewanganj,26,15,242,130,411
-5,Islampur,39,22,746,86,893
-6,Jamalpur Sadar,187,41,1327,429,1984
-7,Madarganj,26,19,237,98,380
-8,Melandaha,47,27,877,107,1058
-9,Sarishabari,39,33,366,137,575
-10,Total,392,165,4248,1056,5859
+1,Jamalpur,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
+4,Bakshiganj,28,8,453,69,558
+5,Dewanganj,26,15,242,130,411
+6,Islampur,39,22,746,86,893
+7,Jamalpur Sadar,187,41,1327,429,1984
+8,Madarganj,26,19,237,98,380
+9,Melandaha,47,27,877,107,1058
+10,Sarishabari,39,33,366,137,575
+11,Total,392,165,4248,1056,5859

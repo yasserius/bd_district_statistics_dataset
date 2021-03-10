@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kindergarten school (pre schooling), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of kindergarten school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Bhedarganj,25,45,105,125,1399,1525,2924,23
-4,Damudya,4,8,13,21,290,310,600,29
-5,Gosairhat,8,25,31,51,144,176,320,6
-6,Naria,38,45,102,147,1420,2130,3550,24
-7,Shariatpur Sadar,12,66,150,216,1273,1612,2885,13
-8,Zanjira,17,51,70,121,859,965,1824,15
-9,Total,104,240,471,681,5385,6718,12103,18
+1,Shariatpur,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of kindergarten school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Bhedarganj,25,45,105,125,1399,1525,2924,23
+5,Damudya,4,8,13,21,290,310,600,29
+6,Gosairhat,8,25,31,51,144,176,320,6
+7,Naria,38,45,102,147,1420,2130,3550,24
+8,Shariatpur Sadar,12,66,150,216,1273,1612,2885,13
+9,Zanjira,17,51,70,121,859,965,1824,15
+10,Total,104,240,471,681,5385,6718,12103,18

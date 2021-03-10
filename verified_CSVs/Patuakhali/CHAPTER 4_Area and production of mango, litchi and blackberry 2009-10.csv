@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of mango, litchi and blackberry 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Mango Area,Mango Production,Litchi Area,Litchi Production,Blackberry Area,Blackberry Production
-3,Bauphal,735,2914,20,10,0,0
-4,Dashmina,175,420,2,1,10,4
-5,Dumki,102,7,0,0,9,2
-6,Galachipa,115,1875,38,115,25,110
-7,Kalapara,107,115,5,5,12,13
-8,Mirzaganj,3,40,0,4,0,0
-9,Patuakhali Sadar,323,387,27,32,32,41
-10,Total,1560,5758,92,166,88,170
+1,Patuakhali,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Mango Area,Mango Production,Litchi Area,Litchi Production,Blackberry Area,Blackberry Production
+4,Bauphal,735,2914,20,10,0,0
+5,Dashmina,175,420,2,1,10,4
+6,Dumki,102,7,0,0,9,2
+7,Galachipa,115,1875,38,115,25,110
+8,Kalapara,107,115,5,5,12,13
+9,Mirzaganj,3,40,0,4,0,0
+10,Patuakhali Sadar,323,387,27,32,32,41
+11,Total,1560,5758,92,166,88,170

@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5
 0,Cropped area (permanent + temporary) sprayed with plant protection measures 2008,,,,,
-1,(area in acre),,,,,
-2, Upazila,Total farm holding - Number,Total farm holding - Cropped area,Spraying farm holding - Number,Spraying farm holding - Cropped area,Reporting area sprayed
-3,Badarganj,37477,60870,37477,55500,55500
-4,Gangachara,38598,41492,27015,61092,45819
-5,Kaunia,21580,23752,21580,25570,19300
-6,Mithapukur,75673,101261,75673,89979,89050
-7,Pirgachha,49241,52835,49000,50000,50000
-8,Pirganj,65529,89567,96000,74220,72180
-9,Rangpur sadar,51984,61863,44186,47336,47336
-10,Taraganj,15547,21761,15547,28533,28533
-11,Total,388196,453401,366478,432230,407718
+1,Rangpur,,,,,
+2,(area in acre),,,,,
+3, Upazila,Total farm holding - Number,Total farm holding - Cropped area,Spraying farm holding - Number,Spraying farm holding - Cropped area,Reporting area sprayed
+4,Badarganj,37477,60870,37477,55500,55500
+5,Gangachara,38598,41492,27015,61092,45819
+6,Kaunia,21580,23752,21580,25570,19300
+7,Mithapukur,75673,101261,75673,89979,89050
+8,Pirgachha,49241,52835,49000,50000,50000
+9,Pirganj,65529,89567,96000,74220,72180
+10,Rangpur Sadar,51984,61863,44186,47336,47336
+11,Taraganj,15547,21761,15547,28533,28533
+12,Total,388196,453401,366478,432230,407718

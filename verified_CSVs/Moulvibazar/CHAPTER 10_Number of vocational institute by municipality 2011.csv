@@ -1,10 +1,11 @@
 ,0,1,2,3
 0,Number of vocational institute by municipality 2011,,,
-1,,,,
-2,Municipality,Number of institution,Number of teacher,Number of student
-3,Barlekha,1,9,242
-4,Kamalganj,0,0,0
-5,Kulaura,4,12,120
-6,Moulvibazar,1,15,423
-7,Sreemangal,0,0,0
-8,Total,6,36,785
+1,Moulvibazar,,,
+2,,,,
+3,Municipality,Number of institution,Number of teacher,Number of student
+4,Barlekha,1,9,242
+5,Kamalganj,0,0,0
+6,Kulaura,4,12,120
+7,Moulvibazar,1,15,423
+8,Sreemangal,0,0,0
+9,Total,6,36,785

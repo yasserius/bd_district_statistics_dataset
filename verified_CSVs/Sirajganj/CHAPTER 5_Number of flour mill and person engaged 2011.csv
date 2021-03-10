@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Number of flour mill and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Belkuchi,23,23,15,38
-4,Chauhali,11,11,11,22
-5,Kamarkhanda,0,0,0,0
-6,Kazipur,0,0,0,0
-7,Royganj,0,0,0,0
-8,Shahjadpur,50,32,50,82
-9,Sirajganj Sadar,14,34,498,532
-10,Tarash,27,7,20,27
-11,Ullahpara,2,7,12,19
-12,Total,127,114,606,720
+1,Sirajganj,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Belkuchi,23,23,15,38
+5,Chauhali,11,11,11,22
+6,Kamarkhanda,0,0,0,0
+7,Kazipur,0,0,0,0
+8,Royganj,0,0,0,0
+9,Shahjadpur,50,32,50,82
+10,Sirajganj Sadar,14,34,498,532
+11,Tarash,27,7,20,27
+12,Ullahpara,2,7,12,19
+13,Total,127,114,606,720

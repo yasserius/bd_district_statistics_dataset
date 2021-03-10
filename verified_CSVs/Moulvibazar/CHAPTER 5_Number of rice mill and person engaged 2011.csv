@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of rice mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Male,Person engaged - Female,Person engaged - Total
-3,Barlekha,0,0,0,0
-4,Juri,5,15,25,40
-5,Kamalganj,8,8,0,8
-6,Kulaura,2,12,20,22
-7,Moulvibazar Sadar,4,58,82,140
-8,Rajnagar,4,62,95,157
-9,Sreemangal,5,50,30,80
-10,Total,28,205,252,447
+1,Moulvibazar,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Male,Person engaged - Female,Person engaged - Total
+4,Barlekha,0,0,0,0
+5,Juri,5,15,25,40
+6,Kamalganj,8,8,0,8
+7,Kulaura,2,12,20,22
+8,Moulvibazar Sadar,4,58,82,140
+9,Rajnagar,4,62,95,157
+10,Sreemangal,5,50,30,80
+11,Total,28,205,252,447

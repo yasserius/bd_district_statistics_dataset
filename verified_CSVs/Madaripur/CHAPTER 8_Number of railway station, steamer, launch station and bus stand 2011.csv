@@ -1,9 +1,10 @@
 ,0,1,2,3
 0,"Number of railway station, steamer, launch station and bus stand 2011",,,
-1,,,,
-2,Upazila,Railway station,Steamer/launch station,Bus stand
-3,Kalkini,0,14,26
-4,Madaripur Sadar,0,1,22
-5,Rajoir,0,1,7
-6,Shibchar,0,2,12
-7,Total,0,18,67
+1,Madaripur,,,
+2,,,,
+3,Upazila,Railway station,Steamer/launch station,Bus stand
+4,Kalkini,0,14,26
+5,Madaripur Sadar,0,1,22
+6,Rajoir,0,1,7
+7,Shibchar,0,2,12
+8,Total,0,18,67

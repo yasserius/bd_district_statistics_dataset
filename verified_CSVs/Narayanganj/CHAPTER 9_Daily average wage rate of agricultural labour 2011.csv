@@ -1,10 +1,11 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
-1,,,,
-2,(Rate in taka) -  Upazila,(Rate in taka) - Labour - Male,(Rate in taka) - Labour - Female,(Rate in taka) - Labour - Child (under 15 years old)
-3,Araihazar,180,130,110
-4,Bandar,250,200,0
-5,Narayanganj Sadar,260,220,140
-6,Rupganj,300,250,150
-7,Sonargaon,300,250,150
-8,Average,258,210,138
+1,Narayanganj,,,
+2,,,,
+3,(Rate in taka) -  Upazila,(Rate in taka) - Labour - Male,(Rate in taka) - Labour - Female,(Rate in taka) - Labour - Child (under 15 years old)
+4,Araihazar,180,130,110
+5,Bandar,250,200,0
+6,Narayanganj Sadar,260,220,140
+7,Rupganj,300,250,150
+8,Sonargaon,300,250,150
+9,Average,258,210,138

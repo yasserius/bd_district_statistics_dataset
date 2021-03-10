@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5
 0,Number of family planning clinical centre by municipality 2011,,,,,
-1,,,,,,
-2,Municipality,Sterilization centre,Mobile centre,Injection centre,Menstrual regularization centre,Family welfare centre
-3,Dhamoirhat,1,0,1,1,1
-4,Naogaon,1,1,2,1,3
-5,Nozipur,1,0,1,1,1
-6,Total,3,1,4,3,5
+1,Naogaon,,,,,
+2,,,,,,
+3,Municipality,Sterilization centre,Mobile centre,Injection centre,Menstrual regularization centre,Family welfare centre
+4,Dhamoirhat,1,0,1,1,1
+5,Naogaon,1,1,2,1,3
+6,Nozipur,1,0,1,1,1
+7,Total,3,1,4,3,5

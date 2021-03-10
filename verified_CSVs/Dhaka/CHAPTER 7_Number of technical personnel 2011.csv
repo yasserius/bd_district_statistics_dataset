@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7
 0,Number of technical personnel 2011,,,,,,,
-1,,,,,,,,
-2, Upazila,Agricultural personnel,Live- stock personnel,Plant protection,Fishery personnel,Sanitary personnel,Family planning personnel,Trained midwife
-3,Dhaka Metropolitan,48,13,0,46,3117,394,0
-4,Dhamrai,74390,98,4,4800,50,86,10
-5,Dohar,21,9,0,4,64,47,3
-6,Keraniganj,31,17,5,6,2,23,10
-7,Nawabganj,40,45,0,14,3,126,27
-8,Savar,44,56,12,250,24,150,8
-9,Total,74530,238,21,5120,3260,826,58
+1,Dhaka,,,,,,,
+2,,,,,,,,
+3, Upazila,Agricultural personnel,Live- stock personnel,Plant protection,Fishery personnel,Sanitary personnel,Family planning personnel,Trained midwife
+4,Dhaka Metropolitan,48,13,0,46,3117,394,0
+5,Dhamrai,74390,98,4,4800,50,86,10
+6,Dohar,21,9,0,4,64,47,3
+7,Keraniganj,31,17,5,6,2,23,10
+8,Nawabganj,40,45,0,14,3,126,27
+9,Savar,44,56,12,250,24,150,8
+10,Total,74530,238,21,5120,3260,826,58

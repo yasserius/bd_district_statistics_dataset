@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5
 0,Number of family planning clinical centre by municipality 2011,,,,,
-1,,,,,,
-2, Municipality,Sterilization centre,Mobile centre,Injection centre,Menstrual regularization centre,Family welfare centre
-3,Chandpur Sadar,1,2,6,2,5
-4,Foridganj,1,2,4,2,3
-5,Haimchar,0,0,0,0,0
-6,Hajiganj,1,8,10,2,1
-7,Kachua,0,0,1,0,1
-8,Matlab Dakshin,2,0,8,1,1
-9,Matlab Uttar,1,0,25,1,1
-10,Shahrasti,2,0,4,4,2
-11,Total,8,12,58,12,14
+1,Chandpur,,,,,
+2,,,,,,
+3, Municipality,Sterilization centre,Mobile centre,Injection centre,Menstrual regularization centre,Family welfare centre
+4,Chandpur Sadar,1,2,6,2,5
+5,Foridganj,1,2,4,2,3
+6,Haimchar,0,0,0,0,0
+7,Hajiganj,1,8,10,2,1
+8,Kachua,0,0,1,0,1
+9,Matlab Dakshin,2,0,8,1,1
+10,Matlab Uttar,1,0,25,1,1
+11,Shahrasti,2,0,4,4,2
+12,Total,8,12,58,12,14

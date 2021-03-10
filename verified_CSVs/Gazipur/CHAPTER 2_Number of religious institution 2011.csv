@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Number of religious institution 2011,,,,,,
-1,,,,,,,
-2,Upazila,Mosque,Eid-Gah,Temple (Mandir),Church (Girza),Pagoda,Others
-3,Gazipur Sadar,700,84,52,16,2,0
-4,Kaliakair,450,95,19,2,0,0
-5,Kaliganj,456,46,19,4,0,0
-6,Kapashia,732,426,7,0,0,0
-7,Sreepur,504,203,12,3,0,0
-8,Total,2842,854,109,25,2,0
+1,Gazipur,,,,,,
+2,,,,,,,
+3,Upazila,Mosque,Eid-Gah,Temple (Mandir),Church (Girza),Pagoda,Others
+4,Gazipur Sadar,700,84,52,16,2,0
+5,Kaliakair,450,95,19,2,0,0
+6,Kaliganj,456,46,19,4,0,0
+7,Kapashia,732,426,7,0,0,0
+8,Sreepur,504,203,12,3,0,0
+9,Total,2842,854,109,25,2,0

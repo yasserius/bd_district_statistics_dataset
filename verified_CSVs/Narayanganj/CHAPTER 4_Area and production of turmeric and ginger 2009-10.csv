@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Area and production of turmeric and ginger 2009-10,,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,Turmeric Area,Turmeric Production,Ginger Area,Ginger Production
-3,Araihazar,12,6,2,1
-4,Bandar,2,2,0,0
-5,Narayanganj Sadar,6,5,7,7
-6,Rupganj,63,56,17,10
-7,Sonargaon,7,3,8,7
-8,Total,90,72,34,24
+1,Narayanganj,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,Turmeric Area,Turmeric Production,Ginger Area,Ginger Production
+4,Araihazar,12,6,2,1
+5,Bandar,2,2,0,0
+6,Narayanganj Sadar,6,5,7,7
+7,Rupganj,63,56,17,10
+8,Sonargaon,7,3,8,7
+9,Total,90,72,34,24

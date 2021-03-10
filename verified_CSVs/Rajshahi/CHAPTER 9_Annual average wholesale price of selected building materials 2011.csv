@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building materials 2011,,,,,,
-1,(Price in taka),,,,,,
-2,Upazila/city corporation,Brick-01 (per1000),Cement (per 50 KG bag),Iron Bar (per ton),Sand-01 (per C.Ft.),Sand -02 (per C.Ft.),Stone (per C.Ft.)
-3,Bagha,5600,470,59000,35,15,100
-4,Baghmara,5200,480,62000,30,17,120
-5,Charghat,5500,520,65000,10,23,50
-6,Durgapur,4500,390,57000,35,10,110
-7,Godagari,4500,460,58200,25,19,120
-8,Mohanpur,4400,400,62000,15,12,110
-9,Paba,5600,50 2,58000,10,19,120
-10,Puthia,5000,460,57000,30,20,120
-11,Rajshahi city corporation,5500,412,62000,26,15,105
-12,Tanore,5400,490,59000,40,15,105
-13,District Average,5400,410,65000,32,15,120
+1,Rajshahi,,,,,,
+2,(Price in taka),,,,,,
+3,Upazila/city corporation,Brick-01 (per1000),Cement (per 50 KG bag),Iron Bar (per ton),Sand-01 (per C.Ft.),Sand -02 (per C.Ft.),Stone (per C.Ft.)
+4,Bagha,5600,470,59000,35,15,100
+5,Baghmara,5200,480,62000,30,17,120
+6,Charghat,5500,520,65000,10,23,50
+7,Durgapur,4500,390,57000,35,10,110
+8,Godagari,4500,460,58200,25,19,120
+9,Mohanpur,4400,400,62000,15,12,110
+10,Paba,5600,50 2,58000,10,19,120
+11,Puthia,5000,460,57000,30,20,120
+12,Rajshahi City Corporation,5500,412,62000,26,15,105
+13,Tanore,5400,490,59000,40,15,105
+14,District Average,5400,410,65000,32,15,120

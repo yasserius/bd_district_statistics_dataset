@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,"Area and production of pumpkin, parble (potol) and cabbage 2010-11",,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,Pumpkin Area,Pumpkin Production,Cabbage Area,Cabbage Production
-3,Dighinala,333,1598,50,168
-4,Khagrachhari Sadar,70,160,56,411
-5,Laxshmichhari,60,143,23,55
-6,Mahalchhari,27,51,12,22
-7,Manikchhari,97,264,91,282
-8,Matiranga,84,241,51,145
-9,Panchhari,65,153,30,937
-10,Ramgarh,74,282,27,155
-11,Total,810,2893,340,2175
+1,Khagrachori,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,Pumpkin Area,Pumpkin Production,Cabbage Area,Cabbage Production
+4,Dighinala,333,1598,50,168
+5,Khagrachori,70,160,56,411
+6,Laxshmichhari,60,143,23,55
+7,Mahalchhari,27,51,12,22
+8,Manikchhari,97,264,91,282
+9,Matiranga,84,241,51,145
+10,Panchhari,65,153,30,937
+11,Ramgarh,74,282,27,155
+12,Total,810,2893,340,2175

@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Number of municipality, union, mauza, mahalla and village 2011",,,,,,
-1,,,,,,,
-2,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
-3,Alfadanga,0,0,0,6,92,122
-4,Bhanga,1,9,26,12,136,206
-5,Boalmari,1,9,18,11,173,251
-6,Charbhadrashon,0,0,0,4,24,80
-7,Faridpur Sadar,1,9,41,11,157,342
-8,Madhukhali,0,0,0,9,129,242
-9,Nagarkanda,1,9,15,9,124,169
-10,Sadarpur,0,0,0,9,88,328
-11,Saltha,0,0,0,8,115,159
-12,Total,4,36,100,79,1038,1899
+1,Faridpur,,,,,,
+2,,,,,,,
+3,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
+4,Alfadanga,0,0,0,6,92,122
+5,Bhanga,1,9,26,12,136,206
+6,Boalmari,1,9,18,11,173,251
+7,Charbhadrashon,0,0,0,4,24,80
+8,Faridpur Sadar,1,9,41,11,157,342
+9,Madhukhali,0,0,0,9,129,242
+10,Nagarkanda,1,9,15,9,124,169
+11,Sadarpur,0,0,0,9,88,328
+12,Saltha,0,0,0,8,115,159
+13,Total,4,36,100,79,1038,1899

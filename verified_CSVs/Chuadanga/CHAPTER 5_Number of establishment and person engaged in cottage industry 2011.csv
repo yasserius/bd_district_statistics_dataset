@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Number of establishment and person engaged in cottage industry 2011,,,,
-1,,,,,
-2, Upazila, Number of unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Alamdanga,561,660,276,1278
-4,Chuadanga Sadar,850,1500,6298,7798
-5,Damurhuda,786,1127,494,1621
-6,Jibonnagar,917,966,457,1423
-7,Total,3114,4253,7525,12120
+1,Chuadanga,,,,
+2,,,,,
+3,Upazila, Number of unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Alamdanga,561,660,276,1278
+5,Chuadanga Sadar,850,1500,6298,7798
+6,Damurhuda,786,1127,494,1621
+7,Jibonnagar,917,966,457,1423
+8,Total,3114,4253,7525,12120

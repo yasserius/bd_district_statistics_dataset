@@ -1,16 +1,17 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,,,,,
-2,Upazila/city corporation,Number of unit,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Agailjhara,11,14,22,36
-4,Babuganj,11,15,31,46
-5,Bakerganj,47,47,188,235
-6,Banaripara,28,40,180,220
-7,Barisal city corporation,35,48,138,186
-8,Barisal sadar,6,6,18,24
-9,Gaurnadi,19,35,140,175
-10,Hizla,9,11,61,72
-11,Mehendiganj,13,26,208,234
-12,Muladi,14,14,150,164
-13,Wazirpur,16,18,62,80
-14,Total,209,274,1198,1472
+1,Barisal,,,,
+2,,,,,
+3,Upazila/city corporation,Number of unit,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Agailjhara,11,14,22,36
+5,Babuganj,11,15,31,46
+6,Bakerganj,47,47,188,235
+7,Banaripara,28,40,180,220
+8,Barisal city corporation,35,48,138,186
+9,Barisal Sadar,6,6,18,24
+10,Gaurnadi,19,35,140,175
+11,Hizla,9,11,61,72
+12,Mehendiganj,13,26,208,234
+13,Muladi,14,14,150,164
+14,Wazirpur,16,18,62,80
+15,Total,209,274,1198,1472

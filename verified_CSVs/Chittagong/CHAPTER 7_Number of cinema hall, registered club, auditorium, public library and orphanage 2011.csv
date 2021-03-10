@@ -1,20 +1,21 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,,,,,,
-2,Upazila/City corporation,Cinema hall,Registered club,Library,Orphanage,Auditorium
-3,Anowara,0,27,6,5,4
-4,Banshkhali,0,77,0,20,1
-5,Boalkhali,0,45,2,17,1
-6,Chandanaish,2,2,1,22,1
-7,Chittagong City Corp.,7,312,2,60,8
-8,Fatikchhari,1,98,1,33,1
-9,Hathazari,0,47,1,17,2
-10,Lohagara,0,26,1,21,1
-11,Mirsharai,0,93,1,13,1
-12,Patiya,2,65,1,14,6
-13,Rangunia,0,64,0,22,1
-14,Raozan,0,101,1,17,2
-15,Sandwip,0,3,2,5,1
-16,Satkania,1,27,1,27,6
-17,Sitakunda,0,101,0,8,1
-18,Total,13,1088,20,301,37
+1,Chittagong,,,,,
+2,,,,,,
+3,Upazila/City corporation,Cinema hall,Registered club,Library,Orphanage,Auditorium
+4,Anowara,0,27,6,5,4
+5,Banshkhali,0,77,0,20,1
+6,Boalkhali,0,45,2,17,1
+7,Chandanaish,2,2,1,22,1
+8,Chittagong City Corporation,7,312,2,60,8
+9,Fatikchhari,1,98,1,33,1
+10,Hathazari,0,47,1,17,2
+11,Lohagara,0,26,1,21,1
+12,Mirsharai,0,93,1,13,1
+13,Patiya,2,65,1,14,6
+14,Rangunia,0,64,0,22,1
+15,Raozan,0,101,1,17,2
+16,Sandwip,0,3,2,5,1
+17,Satkania,1,27,1,27,6
+18,Sitakunda,0,101,0,8,1
+19,Total,13,1088,20,301,37

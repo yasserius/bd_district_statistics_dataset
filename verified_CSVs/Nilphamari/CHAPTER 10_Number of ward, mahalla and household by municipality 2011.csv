@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,"Number of ward, mahalla and household by municipality 2011",,,,,
-1,,,,,,
-2,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
-3,Dimla,-,0,0,0,0
-4,Domar,Domar,9,12,3736,4011
-5,Jaldhaka,Jaldhaka,9,104,8977,9348
-6,Kishorgonj,-,0,0,0,0
-7,Nilphamary Sadar,Nilphamary,9,13,8504,9600
-8,Sayedpur,Sayedpur,15,42,17367,21350
-9,Total,,42,171,38584,44309
+1,Nilphamari,,,,,
+2,,,,,,
+3,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
+4,Dimla,-,0,0,0,0
+5,Domar,Domar,9,12,3736,4011
+6,Joldhaka,Joldhaka,9,104,8977,9348
+7,Kishorgonj,-,0,0,0,0
+8,Nilphamary Sadar,Nilphamary,9,13,8504,9600
+9,Sayedpur,Sayedpur,15,42,17367,21350
+10,Total,,42,171,38584,44309

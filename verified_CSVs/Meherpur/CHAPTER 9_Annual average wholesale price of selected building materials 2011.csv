@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building materials 2011,,,,,,
-1,(Price in Taka),,,,,,
-2,Upazila,Brick-01 (per1000),Cement (per 50 KG Bag),Iron Bar (per Ton),Sand-01 (Per C.Ft.),Sand -02 (Per C.Ft.),Stone (per C.Ft.)
-3,Gangni,6300,490,65000,28,13,132
-4,Mujibnagar,6000,475,59000,30,15,60
-5,Meherpur Sadar,5500,450,6100,15,6,34
-6,Average,5933,472,43366,24,11,75
+1,Meherpur,,,,,,
+2,(Price in Taka),,,,,,
+3,Upazila,Brick-01 (per1000),Cement (per 50 KG Bag),Iron Bar (per Ton),Sand-01 (Per C.Ft.),Sand -02 (Per C.Ft.),Stone (per C.Ft.)
+4,Gangni,6300,490,65000,28,13,132
+5,Mujibnagar,6000,475,59000,30,15,60
+6,Meherpur Sadar,5500,450,6100,15,6,34
+7,Average,5933,472,43366,24,11,75

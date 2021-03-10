@@ -1,13 +1,14 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,,,,
-2, Upazila,Number of power tiller, Tractor,Number of threshing machine
-3,Chandpur Sadar,60,128,2013
-4,Foridganj,74,53,1219
-5,Haimchar,14,18,326
-6,Hajiganj,74,340,1998
-7,Kachua,73,72,2164
-8,Matlab Dakshin,56,59,1659
-9,Matlab Uttar,109,83,2309
-10,Shahrasti,66,48,1903
-11,Total,526,801,13591
+1,Chandpur,,,
+2,,,,
+3, Upazila,Number of power tiller, Tractor,Number of threshing machine
+4,Chandpur Sadar,60,128,2013
+5,Foridganj,74,53,1219
+6,Haimchar,14,18,326
+7,Hajiganj,74,340,1998
+8,Kachua,73,72,2164
+9,Matlab Dakshin,56,59,1659
+10,Matlab Uttar,109,83,2309
+11,Shahrasti,66,48,1903
+12,Total,526,801,13591

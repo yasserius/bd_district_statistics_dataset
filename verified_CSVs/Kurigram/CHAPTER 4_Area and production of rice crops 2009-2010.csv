@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2009-2010,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
-3,Bhurungamari,350,114,33700,236,28600,39525
-4,Char Rajibpur,17,13,8300,6610,8162,13866
-5,Chilmari,17,8,21630,19171,16275,25722
-6,Kurigram Sadar,35,25,25630,44012,25630,44012
-7,Nageshwari,37,47,42875,45425,44516,74864
-8,Phulbari,6,720,23210,21015,23500,37490
-9,Rajarhat,0,0,24243,23030,20561,35981
-10,Raumari,2,3,8120,18531,10555,45565
-11,Ulipur,0,0,61365,75161,47370,84247
-12,Total,464,929,249073,253191,225169,401272
+1,Kurigram,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
+4,Bhurungamari,350,114,33700,236,28600,39525
+5,Char Rajibpur,17,13,8300,6610,8162,13866
+6,Chilmari,17,8,21630,19171,16275,25722
+7,Kurigram Sadar,35,25,25630,44012,25630,44012
+8,Nageshwari,37,47,42875,45425,44516,74864
+9,Phulbari,6,720,23210,21015,23500,37490
+10,Rajarhat,0,0,24243,23030,20561,35981
+11,Raumari,2,3,8120,18531,10555,45565
+12,Ulipur,0,0,61365,75161,47370,84247
+13,Total,464,929,249073,253191,225169,401272

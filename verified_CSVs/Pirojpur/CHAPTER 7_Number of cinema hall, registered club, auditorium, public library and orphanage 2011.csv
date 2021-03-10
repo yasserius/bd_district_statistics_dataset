@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,,,,,,
-2,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
-3,Bhandaria,1,0,1,34,1
-4,Kawkhali,1,62,8,18,1
-5,Mathbaria,1,150,10,28,0
-6,Nazirpur,0,152,1,16,0
-7,Nesarabad,2,130,12,10,1
-8,Pirojpur Sadar,2,42,1,1,1
-9,Zianagar,0,51,0,7,1
-10,Total,7,587,33,114,5
+1,Pirojpur,,,,,
+2,,,,,,
+3,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
+4,Bhandaria,1,0,1,34,1
+5,Kawkhali,1,62,8,18,1
+6,Mathbaria,1,150,10,28,0
+7,Nazirpur,0,152,1,16,0
+8,Nesarabad,2,130,12,10,1
+9,Pirojpur Sadar,2,42,1,1,1
+10,Zianagar,0,51,0,7,1
+11,Total,7,587,33,114,5

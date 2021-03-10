@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6,7
 0,Average price of selected item 2011,,,,,,,
-1,"(Price unit per kg, tk.)",,,,,,,
-2,Upazila/city corporation,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (aata),Potato,Soyabean oil
-3,Agailjhara,42,32,28,22,28,12,120
-4,Babuganj,42,32,28,22,30,12,125
-5,Bakerganj,44,37,32,23,30,13,135
-6,Banaripara,42,34,35,22,30,10,110
-7,Barisal city corporation,42,36,28,25,30,11,118
-8,Barisal sadar,42,36,28,25,30,11,118
-9,Gaurnadi,42,35,30,22,30,12,140
-10,Hizla,42,34,25,20,28,10,125
-11,Mehendiganj,44,35,25,18,30,11,135
-12,Muladi,42,32,28,25,30,10,120
-13,Wazirpur,45,34,26,22,29,12,140
-14,Average,43,34,28,22,30,12,126
+1,Barisal,,,,,,,
+2,"(Price unit per kg, tk.)",,,,,,,
+3,Upazila/city corporation,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (aata),Potato,Soyabean oil
+4,Agailjhara,42,32,28,22,28,12,120
+5,Babuganj,42,32,28,22,30,12,125
+6,Bakerganj,44,37,32,23,30,13,135
+7,Banaripara,42,34,35,22,30,10,110
+8,Barisal city corporation,42,36,28,25,30,11,118
+9,Barisal Sadar,42,36,28,25,30,11,118
+10,Gaurnadi,42,35,30,22,30,12,140
+11,Hizla,42,34,25,20,28,10,125
+12,Mehendiganj,44,35,25,18,30,11,135
+13,Muladi,42,32,28,25,30,10,120
+14,Wazirpur,45,34,26,22,29,12,140
+15,Average,43,34,28,22,30,12,126

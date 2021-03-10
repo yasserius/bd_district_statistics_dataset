@@ -1,11 +1,12 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,,,,
-2,Upazila,Number of insurance company,Number of employee,Number of client
-3,Belabo,21,533,71314
-4,Manohardi,8,32,8300
-5,Narsingdi Sadar,24,156,78354
-6,Palash,10,1000,10000
-7,Roypura,8,18,10700
-8,Sibpur,8,24,2042
-9,Total,79,1763,116527
+1,Narsingdi,,,
+2,,,,
+3,Upazila,Number of insurance company,Number of employee,Number of client
+4,Belabo,21,533,71314
+5,Manohardi,8,32,8300
+6,Narsingdi Sadar,24,156,78354
+7,Palash,10,1000,10000
+8,Roypura,8,18,10700
+9,Shibpur,8,24,2042
+10,Total,79,1763,116527

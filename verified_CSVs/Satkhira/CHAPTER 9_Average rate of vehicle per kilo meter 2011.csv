@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Average rate of vehicle per kilo meter 2011,,,,,
-1,(Rate in taka),,,,,
-2, Upazila,Vehicle Rickshaw,Vehicle Rickshaw van,Vehicle Easy bike,Vehicle Auto rickshaw,Vehicle Tempo
-3,Assasuni,0,4,5,0,3
-4,Debhata,0,2,3,3,3
-5,Kalaroa,0,3,3,3,3
-6,Kaliganj,0,2,2,2,2
-7,Satkhira Sadar,5,4,10,2,2
-8,Shyamnagar,0,2,0,0,0
-9,Tala,0,2,3,0,2
-10,Average,5,3,5,3,3
+1,Satkhira,,,,,
+2,(Rate in taka),,,,,
+3,Upazila,Vehicle Rickshaw,Vehicle Rickshaw van,Vehicle Easy bike,Vehicle Auto rickshaw,Vehicle Tempo
+4,Assasuni,0,4,5,0,3
+5,Debhata,0,2,3,3,3
+6,Kalaroa,0,3,3,3,3
+7,Kaliganj,0,2,2,2,2
+8,Satkhira Sadar,5,4,10,2,2
+9,Shyamnagar,0,2,0,0,0
+10,Tala,0,2,3,0,2
+11,Average,5,3,5,3,3

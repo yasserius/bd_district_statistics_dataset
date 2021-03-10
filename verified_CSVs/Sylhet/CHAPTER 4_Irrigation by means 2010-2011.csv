@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6,7
 0,Irrigation by means 2010-2011,,,,,,,
-1,(Area in acre),,,,,,,
-2,Upazila/City corporation,Irrigation management Power pump,Irrigation management Tube well,Irrigation management Doon,Irrigation management Swing basket,Irrigation management Canal,Irrigation management Others,Total
-3,Balaganj,28475,0,0,0,0,1532,30007
-4,Beanibazar,8864,1280,300,5380,600,400,16024
-5,Bishwanath,13338,0,0,2963,0,156,16457
-6,Companiganj,19800,0,4000,0,0,0,23800
-7,Dakhin surma,4500,7405,5500,3000,7000,9000,29405
-8,Fenchuganj,6817,0,2764,0,0,0,9581
-9,Golapganj,3000,3,5,2,100,200,3310
-10,Gowainghat,186590,0,0,0,0,4801,23460
-11,Jaintiapur,3000,0,862,0,0,0,3862
-12,Kanaighat,0,0,1235,0,0,0,1235
-13,Sylhet city corporation,0,0,0,0,0,0,0
-14,Sylhet sadar,5557,60,0,247,2100,247,8211
-15,Zakiganj,2360,0,0,0,0,3500,0
-16,Total,282301,8748,14666,11592,9800,19836,165352
+1,Sylhet,,,,,,,
+2,(Area in acre),,,,,,,
+3,Upazila/City Corporation,Irrigation management Power pump,Irrigation management Tube well,Irrigation management Doon,Irrigation management Swing basket,Irrigation management Canal,Irrigation management Others,Total
+4,Balaganj,28475,0,0,0,0,1532,30007
+5,Beanibazar,8864,1280,300,5380,600,400,16024
+6,Bishwanath,13338,0,0,2963,0,156,16457
+7,Companiganj,19800,0,4000,0,0,0,23800
+8,Dakhin Surma,4500,7405,5500,3000,7000,9000,29405
+9,Fenchuganj,6817,0,2764,0,0,0,9581
+10,Golapganj,3000,3,5,2,100,200,3310
+11,Gowainghat,186590,0,0,0,0,4801,23460
+12,Jaintiapur,3000,0,862,0,0,0,3862
+13,Kanaighat,0,0,1235,0,0,0,1235
+14,Sylhet City Corporation,0,0,0,0,0,0,0
+15,Sylhet Sadar,5557,60,0,247,2100,247,8211
+16,Zakiganj,2360,0,0,0,0,3500,0
+17,Total,282301,8748,14666,11592,9800,19836,165352

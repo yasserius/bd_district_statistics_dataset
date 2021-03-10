@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current account
-3,Araihazar,8,79,38274,4999
-4,Bandar,9,83,40600,3497
-5,Narayanganj Sadar,51,888,170548,29563
-6,Rupganj,8,97,57186,25690
-7,Sonargaon,7,93,49005,3149
-8,Total,83,1240,355613,66898
+1,Narayanganj,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current account
+4,Araihazar,8,79,38274,4999
+5,Bandar,9,83,40600,3497
+6,Narayanganj Sadar,51,888,170548,29563
+7,Rupganj,8,97,57186,25690
+8,Sonargaon,7,93,49005,3149
+9,Total,83,1240,355613,66898

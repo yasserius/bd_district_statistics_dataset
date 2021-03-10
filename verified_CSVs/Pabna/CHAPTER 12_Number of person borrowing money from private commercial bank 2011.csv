@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,Number of person borrowing money from private commercial bank 2011,,,,,,,,,,,
-1,,,,,,,,,,,,
-2,Upazila Upazila Upazila 1,Number of branch of private commercial bank Number of branch of private commercial bank Number of branch of private commercial bank 2,Number of borrower Agriculture debt Male 3,Number of borrower Agriculture debt Female 4,Number of borrower Industry debt Male 5,Number of borrower Industry debt Female 6,Number of borrower Others debt Male 7,Number of borrower Others debt Female 8,Number of borrower Number of borrower Male 9,Number of borrower Number of borrower Female 10,Number of borrower Total debt (crore tk.) Male 11,Number of borrower Total debt (crore tk.) Female 12
-3,Atgharia,0,0,0,0,0,0,0,0,0,0,0
-4,Bera,1,0,0,0,0,28,6,28,6,0.26,0.06
-5,Bhangura,1,0,0,0,0,0,11311,0,11311,0,22.5
-6,Chatmohar,1,43,12,10,0,111,2,164,14,8,0.43
-7,Faridpur,1,126,7,0,0,0,0,126,7,4.76,0.24
-8,Ishwardi,8,107,2130,0,0,415,79,522,2209,682,553.24
-9,Pabna Sadar,15,21,9,23,2,1456,237,1500,248,259.2,15.92
-10,Santhia,8,8430,10720,42,0,4330,6122,12802,16842,30.26,9.03
-11,Sujanagar,2,367,0,0,0,190,201,557,101,6.22,0.03
-12,Total,37,9094,12878,75,2,6530,17958,15699,30738,990.7,601.45
+1,Pabna,,,,,,,,,,,
+2,,,,,,,,,,,,
+3,Upazila Upazila Upazila 1,Number of branch of private commercial bank Number of branch of private commercial bank Number of branch of private commercial bank 2,Number of borrower Agriculture debt Male 3,Number of borrower Agriculture debt Female 4,Number of borrower Industry debt Male 5,Number of borrower Industry debt Female 6,Number of borrower Others debt Male 7,Number of borrower Others debt Female 8,Number of borrower Number of borrower Male 9,Number of borrower Number of borrower Female 10,Number of borrower Total debt (crore tk.) Male 11,Number of borrower Total debt (crore tk.) Female 12
+4,Atgharia,0,0,0,0,0,0,0,0,0,0,0
+5,Bera,1,0,0,0,0,28,6,28,6,0.26,0.06
+6,Bhangura,1,0,0,0,0,0,11311,0,11311,0,22.5
+7,Chatmohar,1,43,12,10,0,111,2,164,14,8,0.43
+8,Faridpur,1,126,7,0,0,0,0,126,7,4.76,0.24
+9,Ishwardi,8,107,2130,0,0,415,79,522,2209,682,553.24
+10,Pabna Sadar,15,21,9,23,2,1456,237,1500,248,259.2,15.92
+11,Santhia,8,8430,10720,42,0,4330,6122,12802,16842,30.26,9.03
+12,Sujanagar,2,367,0,0,0,190,201,557,101,6.22,0.03
+13,Total,37,9094,12878,75,2,6530,17958,15699,30738,990.7,601.45

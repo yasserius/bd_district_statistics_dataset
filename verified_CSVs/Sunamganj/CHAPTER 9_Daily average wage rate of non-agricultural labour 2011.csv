@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5
 0,Daily average wage rate of non-agricultural labour 2011,,,,,
-1,(Wage in taka),,,,,
-2, Upazila, Porter (coolee),Garden male labour,Garden female labour,Other labour (adult),Other labour (child)
-3,Bishwamvarpur,300,0,0,250,100
-4,Chhatak,250,200,150,200,150
-5,Dakshin Sunamganj,400,250,200,250,150
-6,Derai,200,0,0,200,100
-7,Dharmapasha,300,0,0,210,100
-8,Doarabazar,300,250,200,250,100
-9,Jagannathpur,300,0,0,300,150
-10,Jamalganj,300,250,200,250,150
-11,Shalla,200,0,0,130,100
-12,Sunamganj Sadar,400,0,0,250,150
-13,Tahirpur,200,200,200,150,100
-14,District Average,300,250,200,220,150
+1,Sunamganj,,,,,
+2,(Wage in taka),,,,,
+3,Upazila, Porter (coolee),Garden male labour,Garden female labour,Other labour (adult),Other labour (child)
+4,Bishwamvarpur,300,0,0,250,100
+5,Chhatak,250,200,150,200,150
+6,Dakshin Sunamganj,400,250,200,250,150
+7,Derai,200,0,0,200,100
+8,Dharmapasha,300,0,0,210,100
+9,Doarabazar,300,250,200,250,100
+10,Jagannathpur,300,0,0,300,150
+11,Jamalganj,300,250,200,250,150
+12,Shalla,200,0,0,130,100
+13,Sunamganj Sadar,400,0,0,250,150
+14,Tahirpur,200,200,200,150,100
+15,District Average,300,250,200,220,150

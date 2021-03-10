@@ -1,11 +1,12 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,,,,
-2, Upazila, Number of power tiller, Tractor,Number of threshing machine
-3,Dimla,238,8,192
-4,Domar,275,45,107
-5,Jaldhaka,62,15,129
-6,Kishorgonj,146,24,33
-7,Nilphamary Sadar,191,13,460
-8,Sayedpur,103,13,70
-9,Total,1015,118,991
+1,Nilphamari,,,
+2,,,,
+3,Upazila, Number of power tiller, Tractor,Number of threshing machine
+4,Dimla,238,8,192
+5,Domar,275,45,107
+6,Joldhaka,62,15,129
+7,Kishorgonj,146,24,33
+8,Nilphamary Sadar,191,13,460
+9,Sayedpur,103,13,70
+10,Total,1015,118,991

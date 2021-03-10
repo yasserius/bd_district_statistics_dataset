@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2009-2010,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
-3,Abhaynagar,5400,4007,24588,20078,25137,38237
-4,Bagherpara,1972,1772,41911,39796,37173,64494
-5,Chaugachha,607,491,32143,28210,33554,53308
-6,Jessore Sadar,4443,4099,67124,58991,68712,113916
-7,Jhikargachha,14640,13584,43720,45603,45014,67555
-8,Keshabpur,6215,5854,29131,31335,34444,53879
-9,Manirampur,29784,30379.52,56890,70708,69285,110789
-10,Sharsha,34625,38087,48508,53761,56105,93999
-11,Total,97686,98273.52,344015,348482,369424,596177
+1,Jessore,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
+4,Abhaynagar,5400,4007,24588,20078,25137,38237
+5,Bagherpara,1972,1772,41911,39796,37173,64494
+6,Chaugachha,607,491,32143,28210,33554,53308
+7,Jessore Sadar,4443,4099,67124,58991,68712,113916
+8,Jhikargachha,14640,13584,43720,45603,45014,67555
+9,Keshabpur,6215,5854,29131,31335,34444,53879
+10,Manirampur,29784,30379.52,56890,70708,69285,110789
+11,Sharsha,34625,38087,48508,53761,56105,93999
+12,Total,97686,98273.52,344015,348482,369424,596177

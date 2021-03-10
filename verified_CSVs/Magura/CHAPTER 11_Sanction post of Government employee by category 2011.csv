@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,Sanction post of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
-3,Magura Sadar,243,131,2196,405,2975
-4,Mohammadpur,26,20,771,113,948
-5,Shalikha,37,21,682,110,850
-6,Sreepur,18,33,638,103,798
-7,Total,324,205,4287,731,5571
+1,Magura,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
+4,Magura Sadar,243,131,2196,405,2975
+5,Mohammadpur,26,20,771,113,948
+6,Shalikha,37,21,682,110,850
+7,Sreepur,18,33,638,103,798
+8,Total,324,205,4287,731,5571

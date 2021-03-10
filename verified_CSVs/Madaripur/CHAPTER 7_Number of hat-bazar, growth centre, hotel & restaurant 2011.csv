@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,"Number of hat-bazar, growth centre, hotel  restaurant 2011",,,,,
-1,,,,,,
-2,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
-3,Kalkini,26,34,4,141,1
-4,Madaripur Sadar,29,36,15,145,7
-5,Rajoir,26,10,4,117,2
-6,Shibchar,51,20,6,445,4
-7,Total,132,100,29,848,14
+1,Madaripur,,,,,
+2,,,,,,
+3,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
+4,Kalkini,26,34,4,141,1
+5,Madaripur Sadar,29,36,15,145,7
+6,Rajoir,26,10,4,117,2
+7,Shibchar,51,20,6,445,4
+8,Total,132,100,29,848,14

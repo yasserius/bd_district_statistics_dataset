@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5
 0,Number of Saw mill and person engaged 2011,,,,,
-1,,,,,,
-2,Upazila,Number of unit,Investment (in lac taka),Person engaged Family,Person engaged Hired,Person engaged Total
-3,Bishwamvarpur,14,14,14,42,56
-4,Chhatak,26,91,37,130,167
-5,Dakshin Sunamganj,3,15,5,15,20
-6,Derai,17,34,84,119,143
-7,Dharmapasha,10,35,17,52,70
-8,Doarabazar,2,8,30,70,100
-9,Jagannathpur,24,30,24,72,96
-10,Jamalganj,10,15,5,45,50
-11,Shalla,0,0,0,0,0
-12,Sunamganj Sadar,18,40,32,72,104
-13,Tahirpur,10,25,15,35,50
-14,Total,134,307,263,653,916
+1,Sunamganj,,,,,
+2,,,,,,
+3,Upazila,Number of unit,Investment (in lac taka),Person engaged Family,Person engaged Hired,Person engaged Total
+4,Bishwamvarpur,14,14,14,42,56
+5,Chhatak,26,91,37,130,167
+6,Dakshin Sunamganj,3,15,5,15,20
+7,Derai,17,34,84,119,143
+8,Dharmapasha,10,35,17,52,70
+9,Doarabazar,2,8,30,70,100
+10,Jagannathpur,24,30,24,72,96
+11,Jamalganj,10,15,5,45,50
+12,Shalla,0,0,0,0,0
+13,Sunamganj Sadar,18,40,32,72,104
+14,Tahirpur,10,25,15,35,50
+15,Total,134,307,263,653,916

@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2009-2010,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
-3,Araihazar,29,24,15976,8490,24779,44078
-4,Bandar,0,0,889,468,5231,8739
-5,Narayanganj Sadar,38,19,5230,4023,3362,5391
-6,Rupganj,482,417,4268,2518,26964,37938
-7,Sonargaon,0,0,6275,3123,15009,27187
-8,Total,549,460,32638,18622,75345,123333
+1,Narayanganj,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
+4,Araihazar,29,24,15976,8490,24779,44078
+5,Bandar,0,0,889,468,5231,8739
+6,Narayanganj Sadar,38,19,5230,4023,3362,5391
+7,Rupganj,482,417,4268,2518,26964,37938
+8,Sonargaon,0,0,6275,3123,15009,27187
+9,Total,549,460,32638,18622,75345,123333

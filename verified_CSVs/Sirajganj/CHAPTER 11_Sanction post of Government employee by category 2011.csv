@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,Sanction post of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
-3,Belkuchi,33,10,811,38,892
-4,Chauhali,28,15,218,109,370
-5,Kamarkhanda,34,23,530,37,624
-6,Kazipur,36,65,278,72,451
-7,Royganj,42,22,307,91,462
-8,Shahjadpur,54,27,557,170,808
-9,Sirajganj Sadar,37,32,275,113,457
-10,Tarash,45,41,290,108,484
-11,Ullahpara,49,39,582,160,830
-12,Total,358,274,3848,898,5378
+1,Sirajganj,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
+4,Belkuchi,33,10,811,38,892
+5,Chauhali,28,15,218,109,370
+6,Kamarkhanda,34,23,530,37,624
+7,Kazipur,36,65,278,72,451
+8,Royganj,42,22,307,91,462
+9,Shahjadpur,54,27,557,170,808
+10,Sirajganj Sadar,37,32,275,113,457
+11,Tarash,45,41,290,108,484
+12,Ullahpara,49,39,582,160,830
+13,Total,358,274,3848,898,5378

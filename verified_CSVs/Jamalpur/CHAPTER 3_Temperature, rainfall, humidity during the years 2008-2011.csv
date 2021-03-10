@@ -1,8 +1,9 @@
 ,0,1,2,3,4
 0,"Temperature, rainfall, humidity during the years 2008-2011",,,,
-1,,,,,
-2, Years,Temperature (centigrade) Maximum,Temperature (centigrade) Minimum, Rainfall (millimeter), Humidity ()
-3,2008,34.2,12.5,2235,79.0
-4,2009,33.0,13.2,1653,80.0
-5,2010,32.4,11.7,1811,66.3
-6,2011,22.2,10.8,2153,79.3
+1,Jamalpur,,,,
+2,,,,,
+3, Years,Temperature (centigrade) Maximum,Temperature (centigrade) Minimum, Rainfall (millimeter), Humidity ()
+4,2008,34.2,12.5,2235,79.0
+5,2009,33.0,13.2,1653,80.0
+6,2010,32.4,11.7,1811,66.3
+7,2011,22.2,10.8,2153,79.3

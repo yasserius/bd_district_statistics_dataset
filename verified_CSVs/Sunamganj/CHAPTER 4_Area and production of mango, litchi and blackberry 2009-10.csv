@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of mango, litchi and blackberry 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Mango Area,Mango Production,Litchi Area,Litchi Production,Blackberry Area,Blackberry Production
-3,Bishwamvarpur,300,2200,8,15,50,220
-4,Chhatak,0,0,0,0,0,0
-5,Dakshin Sunamganj,345,2000,10,30,37,120
-6,Derai,250,1500,0,0,7,35
-7,Dharmapasha,2,8,0,0,4,29
-8,Doarabazar,50,250,60,200,30,136
-9,Jagannathpur,0,0,0,0,0,0
-10,Jamalganj,0,0,0,0,0,0
-11,Shalla,0,0,0,0,0,0
-12,Sunamganj Sadar,42,450,35,173,25,76
-13,Tahirpur,0,0,0,0,0,0
-14,Total,989,6408,113,418,153,616
+1,Sunamganj,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Mango Area,Mango Production,Litchi Area,Litchi Production,Blackberry Area,Blackberry Production
+4,Bishwamvarpur,300,2200,8,15,50,220
+5,Chhatak,0,0,0,0,0,0
+6,Dakshin Sunamganj,345,2000,10,30,37,120
+7,Derai,250,1500,0,0,7,35
+8,Dharmapasha,2,8,0,0,4,29
+9,Doarabazar,50,250,60,200,30,136
+10,Jagannathpur,0,0,0,0,0,0
+11,Jamalganj,0,0,0,0,0,0
+12,Shalla,0,0,0,0,0,0
+13,Sunamganj Sadar,42,450,35,173,25,76
+14,Tahirpur,0,0,0,0,0,0
+15,Total,989,6408,113,418,153,616

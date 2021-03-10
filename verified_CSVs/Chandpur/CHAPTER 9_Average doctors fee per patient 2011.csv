@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Average doctors fee per patient 2011,,,,
-1,,,,,
-2,(Fee in taka) -  Upazila,(Fee in taka) - Doctor - MBBS,(Fee in taka) - Doctor - FCPS,(Fee in taka) - Doctor - Dentist,(Fee in taka) - Doctor - Gynaecologist
-3,Chandpur Sadar,300,400,250,300
-4,Foridganj,300,500,100,200
-5,Haimchar,300,400,200,300
-6,Hajiganj,300,400,100,300
-7,Kachua,200,400,200,200
-8,Matlab Dakshin,200,400,100,300
-9,Matlab Uttar,200,500,100,400
-10,Shahrasti,300,500,300,400
-11,Average,263,438,169,300
+1,Chandpur,,,,
+2,,,,,
+3,(Fee in taka) -  Upazila,(Fee in taka) - Doctor - MBBS,(Fee in taka) - Doctor - FCPS,(Fee in taka) - Doctor - Dentist,(Fee in taka) - Doctor - Gynaecologist
+4,Chandpur Sadar,300,400,250,300
+5,Foridganj,300,500,100,200
+6,Haimchar,300,400,200,300
+7,Hajiganj,300,400,100,300
+8,Kachua,200,400,200,200
+9,Matlab Dakshin,200,400,100,300
+10,Matlab Uttar,200,500,100,400
+11,Shahrasti,300,500,300,400
+12,Average,263,438,169,300

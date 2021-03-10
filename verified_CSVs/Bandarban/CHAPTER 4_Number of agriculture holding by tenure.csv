@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
-1,(According to Agriculture Census 2008),,,,
-2,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
-3,Alikadam,5993,3593,1251,2743
-4,Bandarban Sadar,7829,6385,2957,5000
-5,Lama,12394,11778,3092,3119
-6,Naikhongchhari,7456,5870,2530,1628
-7,Rowangchhari,4312,4373,472,319
-8,Ruma,4452,3761,218,1183
-9,Thanchi,2987,1267,224,1981
-10,Total,46243,37027,10744,15973
+1,Bandarban,,,,
+2,(According to Agriculture Census 2008),,,,
+3,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
+4,Alikadam,5993,3593,1251,2743
+5,Bandarban Sadar,7829,6385,2957,5000
+6,Lama,12394,11778,3092,3119
+7,Naikhongchhari,7456,5870,2530,1628
+8,Rowangchhari,4312,4373,472,319
+9,Ruma,4452,3761,218,1183
+10,Thanchi,2987,1267,224,1981
+11,Total,46243,37027,10744,15973

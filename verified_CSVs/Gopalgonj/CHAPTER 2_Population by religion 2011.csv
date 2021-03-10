@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Population by religion 2011,,,,,,
-1,,,,,,,
-2,Upazila,Muslim,Hindu,Christian,Buddhist,Others,Total
-3,Gopalganj Sadar,251406,90685,1532,19,366,344008
-4,Kashiani,163487,44000,120,3,5,207615
-5,Kotalipara,109344,115125,5962,9,53,230493
-6,Muksudpur,209508,74557,5251,48,42,289406
-7,Tungipara,71370,29427,86,1,9,100893
-8,Total,805113,353794,12951,80,475,1172415
+1,Gopalgonj,,,,,,
+2,,,,,,,
+3,Upazila,Muslim,Hindu,Christian,Buddhist,Others,Total
+4,Gopalganj Sadar,251406,90685,1532,19,366,344008
+5,Kashiani,163487,44000,120,3,5,207615
+6,Kotalipara,109344,115125,5962,9,53,230493
+7,Muksudpur,209508,74557,5251,48,42,289406
+8,Tungipara,71370,29427,86,1,9,100893
+9,Total,805113,353794,12951,80,475,1172415

@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Government health complex and health facility 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse, Number of    technician, Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
-3,Atrai,1,50,4,8,5,84,1361,3039,23388,32600
-4,Badalgachhi,1,50,28,15,8,91,2017,2591,1381,16125
-5,Dhamoirhat,1,50,5,10,11,73,1549,1469,12809,14226
-6,Manda,1,50,11,10,8,134,2107,5227,41997,67143
-7,Mahadebpur,1,50,5,11,7,98,2681,3237,37867,54306
-8,Naogaon sadar,1,100,19,39,3,29,8666,8067,125651,125692
-9,Niamatpur,31,31,3,5,12,70,1720,1860,24846,26757
-10,Patnitala,1,50,8,7,6,94,1596,2742,25268,27116
-11,Porsha,1,31,4,3,6,42,918,1289,19902,37231
-12,Raninagar,1,50,9,5,5,90,1838,1654,16926,37366
-13,Sapahar,1,50,5,7,13,53,1872,2269,14757,17308
-14,Total,41,562,101,120,84,858,26325,33444,344792,455870
+1,Naogaon,,,,,,,,,,
+2,,,,,,,,,,,
+3,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse, Number of    technician, Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
+4,Atrai,1,50,4,8,5,84,1361,3039,23388,32600
+5,Badalgachhi,1,50,28,15,8,91,2017,2591,1381,16125
+6,Dhamoirhat,1,50,5,10,11,73,1549,1469,12809,14226
+7,Manda,1,50,11,10,8,134,2107,5227,41997,67143
+8,Mahadebpur,1,50,5,11,7,98,2681,3237,37867,54306
+9,Naogaon sadar,1,100,19,39,3,29,8666,8067,125651,125692
+10,Niamatpur,31,31,3,5,12,70,1720,1860,24846,26757
+11,Patnitala,1,50,8,7,6,94,1596,2742,25268,27116
+12,Porsha,1,31,4,3,6,42,918,1289,19902,37231
+13,Raninagar,1,50,9,5,5,90,1838,1654,16926,37366
+14,Sapahar,1,50,5,7,13,53,1872,2269,14757,17308
+15,Total,41,562,101,120,84,858,26325,33444,344792,455870

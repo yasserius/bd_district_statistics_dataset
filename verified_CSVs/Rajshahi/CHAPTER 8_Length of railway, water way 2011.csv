@@ -1,15 +1,16 @@
 ,0,1,2,3
 0,"Length of railway, water way 2011",,,
-1,(Kilometer),,,
-2,Upazila/city corporation,"Total railway (All-B.G., M.G.  Duel gage)",Water way in monsoon (River + Canal),Water way in round the year (River + Canal)
-3,Bagha,5,15,0
-4,Baghmara,8,32,0
-5,Charghat,15,30,15
-6,Durgapur,0,0,0
-7,Godagari,19,15,15
-8,Mohanpur,0,25,13
-9,Paba,5,15,5
-10,Puthia,8,0,0
-11,Rajshahi city corporation,14,0,0
-12,Tanore,2,24,0
-13,Total,76,156,48
+1,Rajshahi,,,
+2,(Kilometer),,,
+3,Upazila/city corporation,"Total railway (All-B.G., M.G.  Duel gage)",Water way in monsoon (River + Canal),Water way in round the year (River + Canal)
+4,Bagha,5,15,0
+5,Baghmara,8,32,0
+6,Charghat,15,30,15
+7,Durgapur,0,0,0
+8,Godagari,19,15,15
+9,Mohanpur,0,25,13
+10,Paba,5,15,5
+11,Puthia,8,0,0
+12,Rajshahi City Corporation,14,0,0
+13,Tanore,2,24,0
+14,Total,76,156,48

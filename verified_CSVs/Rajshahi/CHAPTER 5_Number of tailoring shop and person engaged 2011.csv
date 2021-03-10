@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,Number of tailoring shop and person engaged 2011,,,,
-1,,,,,
-2,Upazila/city corporation,Number of unit,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Bagha,20,20,40,60
-4,Baghmara,142,213,284,497
-5,Charghat,350,400,300,700
-6,Durgapur,727,577,150,727
-7,Godagari,285,250,93,343
-8,Mohanpur,88,115,123,238
-9,Paba,550,480,140,620
-10,Puthia,115,115,250,365
-11,Rajshahi city corporation,430,520,1290,1810
-12,Tanore,148,153,444,597
-13,Total,2855,2843,3114,5957
+1,Rajshahi,,,,
+2,,,,,
+3,Upazila/city corporation,Number of unit,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Bagha,20,20,40,60
+5,Baghmara,142,213,284,497
+6,Charghat,350,400,300,700
+7,Durgapur,727,577,150,727
+8,Godagari,285,250,93,343
+9,Mohanpur,88,115,123,238
+10,Paba,550,480,140,620
+11,Puthia,115,115,250,365
+12,Rajshahi City Corporation,430,520,1290,1810
+13,Tanore,148,153,444,597
+14,Total,2855,2843,3114,5957

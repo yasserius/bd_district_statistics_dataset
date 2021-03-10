@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,,,,,,
-2,Upazila,Police personnel,Ansar personnel,VDP personnel,Autonomous bodies,Local Govt. employee
-3,Chandpur Sadar,1145,4628,95296,298,203
-4,Foridganj,35,628,4448,21,397
-5,Haimchar,61,324,5888,17,29
-6,Hajiganj,39,395,7683,104,45
-7,Kachua,43,531,9600,133,166
-8,Matlab Dakshin,37,292,3092,120,40
-9,Matlab Uttar,36,548,11072,7,121
-10,Shahrasti,60,420,7879,127,86
-11,Total,1456,7766,144958,827,1087
+1,Chandpur,,,,,
+2,,,,,,
+3,Upazila,Police personnel,Ansar personnel,VDP personnel,Autonomous bodies,Local Govt. employee
+4,Chandpur Sadar,1145,4628,95296,298,203
+5,Foridganj,35,628,4448,21,397
+6,Haimchar,61,324,5888,17,29
+7,Hajiganj,39,395,7683,104,45
+8,Kachua,43,531,9600,133,166
+9,Matlab Dakshin,37,292,3092,120,40
+10,Matlab Uttar,36,548,11072,7,121
+11,Shahrasti,60,420,7879,127,86
+12,Total,1456,7766,144958,827,1087

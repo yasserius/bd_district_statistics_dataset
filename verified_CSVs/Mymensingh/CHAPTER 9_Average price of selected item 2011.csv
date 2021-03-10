@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6,7
 0,Average price of selected item 2011,,,,,,,
-1,"(Price unit per kg, taka)",,,,,,,
-2,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
-3,Bhaluka,42,35,31,22,30,13,120
-4,Dhobaura,45,29,24,21,32,12,130
-5,Fulbaria,44,32,24,25,30,14,136
-6,Gafargaon,55,38,32,20,28,10,135
-7,Gauripur,34,24,23,25,30,12,135
-8,Haluaghat,42,35,29,24,29,12,132
-9,Ishwargonj,65,45,28,25,35,10,130
-10,Muktagacha,40,34,24,20,30,16,140
-11,Mymensingh Sadar,42,34,30,24,28,12,120
-12,Nandail,90,45,33,20,27,15,115
-13,Phulpur,45,38,35,25,35,15,120
-14,Trishal,43,35,33,20,28,10,130
-15,Average,49,35,29,23,30,13,129
+1,Mymensingh,,,,,,,
+2,"(Price unit per kg, taka)",,,,,,,
+3,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
+4,Bhaluka,42,35,31,22,30,13,120
+5,Dhobaura,45,29,24,21,32,12,130
+6,Fulbaria,44,32,24,25,30,14,136
+7,Gaffargaon,55,38,32,20,28,10,135
+8,Gauripur,34,24,23,25,30,12,135
+9,Haluaghat,42,35,29,24,29,12,132
+10,Ishwargonj,65,45,28,25,35,10,130
+11,Muktagacha,40,34,24,20,30,16,140
+12,Mymensingh Sadar,42,34,30,24,28,12,120
+13,Nandail,90,45,33,20,27,15,115
+14,Phulpur,45,38,35,25,35,15,120
+15,Trishal,43,35,33,20,28,10,130
+16,Average,49,35,29,23,30,13,129

@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
-3,Azmirigonj,74,45,25,50,12,23
-4,Bahubal,78,48,0,0,0,0
-5,Baniachang,9,5,4,6,0,0
-6,Chunarughat,73,82,12,14,0,0
-7,Habiganj Sadar,190,57,24,19,9,5
-8,Lakhai,10,4,49,180,27,70
-9,Madhabpur,93,66,38,97,19,35
-10,Nabiganj,20,8,12,22,0,0
-11,Total,547,315,164,388,67,132
+1,Habiganj,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
+4,Azmirigonj,74,45,25,50,12,23
+5,Bahubal,78,48,0,0,0,0
+6,Baniachang,9,5,4,6,0,0
+7,Chunarughat,73,82,12,14,0,0
+8,Habiganj Sadar,190,57,24,19,9,5
+9,Lakhai,10,4,49,180,27,70
+10,Madhabpur,93,66,38,97,19,35
+11,Nabiganj,20,8,12,22,0,0
+12,Total,547,315,164,388,67,132

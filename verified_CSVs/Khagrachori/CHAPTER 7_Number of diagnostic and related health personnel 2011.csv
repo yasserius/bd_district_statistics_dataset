@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic and related health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Dighinala,7,0,0,7,3
-4,Khagrachhari Sadar,4,17,0,13,22
-5,Laxshmichhari,0,0,0,0,0
-6,Mahalchhari,0,0,0,0,0
-7,Manikchhari,1,1,0,1,4
-8,Matiranga,3,0,0,4,3
-9,Panchhari,2,0,0,0,2
-10,Ramgarh,4,7,4,5,18
-11,Total,21,25,4,30,52
+1,Khagrachori,,,,,
+2,,,,,,
+3,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Dighinala,7,0,0,7,3
+5,Khagrachori,4,17,0,13,22
+6,Laxshmichhari,0,0,0,0,0
+7,Mahalchhari,0,0,0,0,0
+8,Manikchhari,1,1,0,1,4
+9,Matiranga,3,0,0,4,3
+10,Panchhari,2,0,0,0,2
+11,Ramgarh,4,7,4,5,18
+12,Total,21,25,4,30,52

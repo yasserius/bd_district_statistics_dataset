@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Non-Government health complex and health facility 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of technician,Number of other staff,Number of patient under health facilitiy - Indoor - Male,Number of patient under health facilitiy - Indoor - Female,Number of patient under health facilitiy - Outdoor - Male,Number of patient under health facilitiy - Outdoor - Female
-3,Belabo,0,0,0,0,0,0,0,0,0,0
-4,Manohardi,45,427,362,297,173,370,3304,4437,11550,15413
-5,Narsingdi Sadar,36,319,310,250,150,281,2170,2345,6450,7391
-6,Palash,4,47,42,24,8,47,322,417,860,1012
-7,Roypura,3,41,5,9,9,25,62,195,1740,3210
-8,Sibpur,1,10,3,7,2,12,700,1000,1000,1200
-9,Total,89,844,722,587,342,735,6558,8394,21600,28226
+1,Narsingdi,,,,,,,,,,
+2,,,,,,,,,,,
+3,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of technician,Number of other staff,Number of patient under health facilitiy - Indoor - Male,Number of patient under health facilitiy - Indoor - Female,Number of patient under health facilitiy - Outdoor - Male,Number of patient under health facilitiy - Outdoor - Female
+4,Belabo,0,0,0,0,0,0,0,0,0,0
+5,Manohardi,45,427,362,297,173,370,3304,4437,11550,15413
+6,Narsingdi Sadar,36,319,310,250,150,281,2170,2345,6450,7391
+7,Palash,4,47,42,24,8,47,322,417,860,1012
+8,Roypura,3,41,5,9,9,25,62,195,1740,3210
+9,Shibpur,1,10,3,7,2,12,700,1000,1000,1200
+10,Total,89,844,722,587,342,735,6558,8394,21600,28226

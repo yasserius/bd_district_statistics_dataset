@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization by upazila 2008,,,,,
-1,(Area in acre),,,,,
-2,Upazila 1,Total area 2,Permanent cropped area 3,Temporary cropped area 4,Permanent fallow area 5,Others 6
-3,Atgharia,45999,2064,38119,593,5224
-4,Bera,61431,401,29824,310,30896
-5,Bhangura,32922,403,20803,184,11531
-6,Chatmohar,75520,735,56319,89,18377
-7,Faridpur,31381,181,27530,38,3632
-8,Ishwardi,54032,3695,41644,0,75
-9,Pabna Sadar,98147,2959,62609,872,31707
-10,Santhia,81930,1462,60155,100,20213
-11,Sujanagar,82631,1124,56589,143,24775
-12,Total,563993,13024,393592,2329,146430
+1,Pabna,,,,,
+2,(Area in acre),,,,,
+3,Upazila 1,Total area 2,Permanent cropped area 3,Temporary cropped area 4,Permanent fallow area 5,Others 6
+4,Atgharia,45999,2064,38119,593,5224
+5,Bera,61431,401,29824,310,30896
+6,Bhangura,32922,403,20803,184,11531
+7,Chatmohar,75520,735,56319,89,18377
+8,Faridpur,31381,181,27530,38,3632
+9,Ishwardi,54032,3695,41644,0,75
+10,Pabna Sadar,98147,2959,62609,872,31707
+11,Santhia,81930,1462,60155,100,20213
+12,Sujanagar,82631,1124,56589,143,24775
+13,Total,563993,13024,393592,2329,146430

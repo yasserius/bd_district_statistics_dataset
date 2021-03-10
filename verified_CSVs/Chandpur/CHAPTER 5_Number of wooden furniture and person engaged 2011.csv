@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Units,Persons engaged - Family,Persons engaged - Hired,Persons engaged - Total
-3,Chandpur Sadar,326,334,656,990
-4,Foridganj,407,529,1193,1722
-5,Haimchar,35,213,60,273
-6,Hajiganj,105,108,460,568
-7,Kachua,115,120,361,481
-8,Matlab Dakshin,122,122,299,421
-9,Matlab Uttar,150,150,300,450
-10,Shahrasti,350,500,850,1350
-11,Total,1610,2076,4179,6255
+1,Chandpur,,,,
+2,,,,,
+3, Upazila, Units,Persons engaged - Family,Persons engaged - Hired,Persons engaged - Total
+4,Chandpur Sadar,326,334,656,990
+5,Foridganj,407,529,1193,1722
+6,Haimchar,35,213,60,273
+7,Hajiganj,105,108,460,568
+8,Kachua,115,120,361,481
+9,Matlab Dakshin,122,122,299,421
+10,Matlab Uttar,150,150,300,450
+11,Shahrasti,350,500,850,1350
+12,Total,1610,2076,4179,6255

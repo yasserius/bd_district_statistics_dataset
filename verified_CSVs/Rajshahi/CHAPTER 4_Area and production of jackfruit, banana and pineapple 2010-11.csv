@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of jackfruit, banana and pineapple 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila/city corporation,Jackfruit Area,Jackfruit Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
-3,Bagha,48,1662,37,226,0,0
-4,Baghmara,23,542,464,2113,0,0
-5,Charghat,4,114,132,1848,0,0
-6,Durgapur,122,968,383,1891,0,0
-7,Godagari,18,135,70,600,0,0
-8,Mohanpur,51,962,178,3292,0,0
-9,Paba,199,1292,131,914,0,0
-10,Puthia,253,2676,2697,29158,0,0
-11,Rajshahi city corporation,0,126,12,79,0,0
-12,Tanore,7,56,3,11,0,0
-13,Total,725,8533,4107,40132,0,0
+1,Rajshahi,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila/city corporation,Jackfruit Area,Jackfruit Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
+4,Bagha,48,1662,37,226,0,0
+5,Baghmara,23,542,464,2113,0,0
+6,Charghat,4,114,132,1848,0,0
+7,Durgapur,122,968,383,1891,0,0
+8,Godagari,18,135,70,600,0,0
+9,Mohanpur,51,962,178,3292,0,0
+10,Paba,199,1292,131,914,0,0
+11,Puthia,253,2676,2697,29158,0,0
+12,Rajshahi City Corporation,0,126,12,79,0,0
+13,Tanore,7,56,3,11,0,0
+14,Total,725,8533,4107,40132,0,0

@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5
 0,Average doctor`s fee per patient 2011,,,,,
-1,(Fee in taka),,,,,
-2,Upazila,Doctor €œ MBBS,Doctor - FCPS,Doctor €œ Dentist,Doctor €œ Gynaecologist,Doctor €œ Homeopathy
-3,Atgharia,200,-,-,-,-
-4,Bera,200,,-,-,-
-5,Bhangura,200,-,-,-,-
-6,Chatmohar,200,-,-,-,50
-7,Faridpur,200,-,-,-,-
-8,Ishwardi,200,400,300,400,50
-9,Pabna Sadar,200,400,300,400,100
-10,Santhia,200,-,-,-,50
-11,Sujanagar,200,400,300,400,-
+1,Pabna,,,,,
+2,(Fee in taka),,,,,
+3,Upazila,Doctor €œ MBBS,Doctor - FCPS,Doctor €œ Dentist,Doctor €œ Gynaecologist,Doctor €œ Homeopathy
+4,Atgharia,200,-,-,-,-
+5,Bera,200,,-,-,-
+6,Bhangura,200,-,-,-,-
+7,Chatmohar,200,-,-,-,50
+8,Faridpur,200,-,-,-,-
+9,Ishwardi,200,400,300,400,50
+10,Pabna Sadar,200,400,300,400,100
+11,Santhia,200,-,-,-,50
+12,Sujanagar,200,400,300,400,-

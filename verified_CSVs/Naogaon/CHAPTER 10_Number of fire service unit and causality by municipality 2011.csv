@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5
 0,Number of fire service unit and causality by municipality 2011,,,,,
-1,,,,,,
-2,Municipality,Fire service unit,Person employed,Fire case,Person dead,Person injured
-3,Dhamoirhat,0,0,0,0,0
-4,Naogaon sadar,1,24,61,0,0
-5,Nozipur,1,19,129,0,0
-6,Total,2,43,190,0,0
+1,Naogaon,,,,,
+2,,,,,,
+3,Municipality,Fire service unit,Person employed,Fire case,Person dead,Person injured
+4,Dhamoirhat,0,0,0,0,0
+5,Naogaon sadar,1,24,61,0,0
+6,Nozipur,1,19,129,0,0
+7,Total,2,43,190,0,0

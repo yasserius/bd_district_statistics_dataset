@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Number of family planning clinical centre by municipality 2011,,,,,
-1,,,,,,
-2, Municipality,Sterilization centre, Mobile centre, Injection centre,Menstrual regularization centre,Family welfare centre
-3,Barlekha,0,0,0,0,0
-4,Kamalganj,1,1,1,1,0
-5,Kulaura,1,0,0,1,1
-6,Moulvibazar,2,0,2,2,0
-7,Rajnagar,0,0,0,0,0
-8,Sreemangal,1,0,10,10,5
+1,Moulvibazar,,,,,
+2,,,,,,
+3, Municipality,Sterilization centre, Mobile centre, Injection centre,Menstrual regularization centre,Family welfare centre
+4,Barlekha,0,0,0,0,0
+5,Kamalganj,1,1,1,1,0
+6,Kulaura,1,0,0,1,1
+7,Moulvibazar,2,0,2,2,0
+8,Rajnagar,0,0,0,0,0
+9,Sreemangal,1,0,10,10,5

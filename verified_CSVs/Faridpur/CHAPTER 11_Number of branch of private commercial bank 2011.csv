@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Alfadanga,0,0,0,0
-4,Bhanga,4,56,7427,2352
-5,Boalmari,1,15,680,490
-6,Charbhadrashon,1,7,9360,20
-7,Faridpur Sadar,17,321,61287,8300
-8,Madhukhali,0,0,0,0
-9,Nagarkanda,0,0,0,0
-10,Sadarpur,0,0,0,0
-11,Saltha,0,0,0,0
-12,Total,23,399,78754,11162
+1,Faridpur,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Alfadanga,0,0,0,0
+5,Bhanga,4,56,7427,2352
+6,Boalmari,1,15,680,490
+7,Charbhadrashon,1,7,9360,20
+8,Faridpur Sadar,17,321,61287,8300
+9,Madhukhali,0,0,0,0
+10,Nagarkanda,0,0,0,0
+11,Sadarpur,0,0,0,0
+12,Saltha,0,0,0,0
+13,Total,23,399,78754,11162

@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,Number of family planning personnel working by municipality 2011,,,,,
-1,,,,,,
-2,Municipality,Doctor,Family planning inspector,Family planning assistant,Family planning visitor,Midwife/ birth attendant (Dai)
-3,Alamdanga,0,0,4,1,10
-4,Chuadanga Sadar,3,1,3,6,2
-5,Darshana,1,0,6,0,4
-6,Jibonnagar,0,1,1,1,10
-7,Total,4,2,14,8,26
+1,Chuadanga,,,,,
+2,,,,,,
+3,Municipality,Doctor,Family planning inspector,Family planning assistant,Family planning visitor,Midwife/ birth attendant (Dai)
+4,Alamdanga,0,0,4,1,10
+5,Chuadanga Sadar,3,1,3,6,2
+6,Darshana,1,0,6,0,4
+7,Jibonnagar,0,1,1,1,10
+8,Total,4,2,14,8,26

@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of filling station, fire brigade station, police station, camp, union land (tohsil) office, BOP (BGB camp), cyber cafe 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila, Filling station,Fire brigade station,Police station/ camp,Union land (tohsil) office,Sub- registry office,BOP (BGB camp), ISP provider, Cyber cafe
-3,Dhaka Metropolitan,120,16,60,24,4,1,0,478
-4,Dhamrai,8,1,2,6,1,0,0,0
-5,Dohar,1,0,2,2,1,0,0,0
-6,Keraniganj,6,1,4,3,2,0,0,35
-7,Nawabganj,1,0,1,5,1,0,0,2
-8,Savar,31,2,6,5,2,0,1,16
-9,Total,167,20,75,45,11,1,1,531
+1,Dhaka,,,,,,,,
+2,,,,,,,,,
+3, Upazila, Filling station,Fire brigade station,Police station/ camp,Union land (tohsil) office,Sub- registry office,BOP (BGB camp), ISP provider, Cyber cafe
+4,Dhaka Metropolitan,120,16,60,24,4,1,0,478
+5,Dhamrai,8,1,2,6,1,0,0,0
+6,Dohar,1,0,2,2,1,0,0,0
+7,Keraniganj,6,1,4,3,2,0,0,35
+8,Nawabganj,1,0,1,5,1,0,0,2
+9,Savar,31,2,6,5,2,0,1,16
+10,Total,167,20,75,45,11,1,1,531

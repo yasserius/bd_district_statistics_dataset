@@ -1,10 +1,11 @@
 ,0,1,2,3
 0,Length of railway and water way 2011,,,
-1,(Kilometer),,,
-2, Upazila,"Total railway (all broad gage, meter gage  duel gage)",Water way in monsoon (river + canal),Water way round the year (river + canal)
-3,Araihazar,0,83,25
-4,Bandar,0,0.72,0.72
-5,Narayanganj Sadar,17,33,31
-6,Rupganj,0,40.22,43.47
-7,Sonargaon,0,0,0
-8,Total,17,156.94,100.19
+1,Narayanganj,,,
+2,(Kilometer),,,
+3, Upazila,"Total railway (all broad gage, meter gage  duel gage)",Water way in monsoon (river + canal),Water way round the year (river + canal)
+4,Araihazar,0,83,25
+5,Bandar,0,0.72,0.72
+6,Narayanganj Sadar,17,33,31
+7,Rupganj,0,40.22,43.47
+8,Sonargaon,0,0,0
+9,Total,17,156.94,100.19

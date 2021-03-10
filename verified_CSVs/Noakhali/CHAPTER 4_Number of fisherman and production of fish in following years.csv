@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in metric ton),,,,
-2,Upazila,2010-11 - Number,2010-11 - Production,2009-10 - Number,2009-10 - Production
-3,Begumganj,14629,6897,14629,6896
-4,Chatkhil,348,2729,358,2566
-5,Companiganj,988,1958,976,1873
-6,Hatiya,11670,67824,11270,64320
-7,Kabirhat,129,1361,129,1530
-8,Noakhali Sadar,1605,4001,1510,3739
-9,Senbagh,190,4500,188,4100
-10,Sonaimuri,50,3573,46,3560
-11,Subarnachar,1518,6900,1460,7006
-12,Total,31127,99743,30566,95590
+1,Noakhali,,,,
+2,(Production in metric ton),,,,
+3,Upazila,2010-11 - Number,2010-11 - Production,2009-10 - Number,2009-10 - Production
+4,Begumganj,14629,6897,14629,6896
+5,Chatkhil,348,2729,358,2566
+6,Companiganj,988,1958,976,1873
+7,Hatiya,11670,67824,11270,64320
+8,Kabirhat,129,1361,129,1530
+9,Noakhali Sadar,1605,4001,1510,3739
+10,Senbagh,190,4500,188,4100
+11,Sonaimuri,50,3573,46,3560
+12,Subarnachar,1518,6900,1460,7006
+13,Total,31127,99743,30566,95590

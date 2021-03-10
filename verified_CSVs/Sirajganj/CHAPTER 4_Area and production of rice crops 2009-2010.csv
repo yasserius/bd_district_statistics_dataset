@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2009-2010,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
-3,Belkuchi,0,0,4868,2059,16565,41569
-4,Chauhali,615,249,8063,33628,7782,12386
-5,Kamarkhanda,0,0,9589,8394,15932,28880
-6,Kazipur,953,434,33284,29544,30055,47753
-7,Royganj,2774,1580,44574,47752,50661,97294
-8,Shahjadpur,6,6,12437,6690,50086,85434
-9,Sirajganj Sadar,272,169,28590,31317,31048,52502
-10,Tarash,9596,5877,39900,28451,58745,104577
-11,Ullahpara,0,0,23577,15114,71240,118362
-12,Total,14216,8315,204882,202949,332114,588757
+1,Sirajganj,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
+4,Belkuchi,0,0,4868,2059,16565,41569
+5,Chauhali,615,249,8063,33628,7782,12386
+6,Kamarkhanda,0,0,9589,8394,15932,28880
+7,Kazipur,953,434,33284,29544,30055,47753
+8,Royganj,2774,1580,44574,47752,50661,97294
+9,Shahjadpur,6,6,12437,6690,50086,85434
+10,Sirajganj Sadar,272,169,28590,31317,31048,52502
+11,Tarash,9596,5877,39900,28451,58745,104577
+12,Ullahpara,0,0,23577,15114,71240,118362
+13,Total,14216,8315,204882,202949,332114,588757

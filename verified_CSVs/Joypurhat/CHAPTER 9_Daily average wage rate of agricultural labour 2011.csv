@@ -1,10 +1,11 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
-1,(Rate in taka),,,
-2,Upazila,Labour - Male,Labour - Female,Labour - Child (under 15 years old)
-3,Akkelpur,250,200,120
-4,Joypurhat sadar,250,220,120
-5,Kalai,250,180,80
-6,Khetlal,260,150,0
-7,Panchbibi,200,170,0
-8,Average,242,184,64
+1,Joypurhat,,,
+2,(Rate in taka),,,
+3,Upazila,Labour - Male,Labour - Female,Labour - Child (under 15 years old)
+4,Akkelpur,250,200,120
+5,Joypurhat sadar,250,220,120
+6,Kalai,250,180,80
+7,Khetlal,260,150,0
+8,Panchbibi,200,170,0
+9,Average,242,184,64

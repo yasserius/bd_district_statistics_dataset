@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of ebtedayee madrasah 2011,,,,,,,,
-1,,,,,,,,,
-2,Upazila,Number of madrasah,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Atwari,0,0,0,0,0,0,0,0
-4,Boda,19,63,31,94,2009,587,2596,27
-5,Debiganj,17,55,10,65,1070,800,1870,28
-6,Panchagarh Sadar,1,4,0,4,71,95,166,41
-7,Tentulia,2,8,0,8,110,125,235,29
-8,Total,39,130,41,171,3260,1607,4867,47
+1,Panchagor,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of madrasah,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Atwari,0,0,0,0,0,0,0,0
+5,Boda,19,63,31,94,2009,587,2596,27
+6,Debiganj,17,55,10,65,1070,800,1870,28
+7,Panchagarh Sadar,1,4,0,4,71,95,166,41
+8,Tentulia,2,8,0,8,110,125,235,29
+9,Total,39,130,41,171,3260,1607,4867,47

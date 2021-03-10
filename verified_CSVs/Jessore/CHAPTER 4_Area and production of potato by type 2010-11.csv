@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2010-11,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
-3,Abhaynagar,52,460,24,72,76,533
-4,Bagherpara,147,1242,12,69,159,1310
-5,Chaugachha,953,8033,16,104,969,8137
-6,Jessore Sadar,1460,13651,44,212,1504,13863
-7,Jhikargachha,1535,15657,121,446,1656,16103
-8,Keshabpur,651,4610,15,48,666,4658
-9,Manirampur,1101,8718,81,282,1182,9000
-10,Sharsha,810,6885,38,190,848,7075
-11,Total,6709,59256,351,1423,7060,60679
+1,Jessore,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
+4,Abhaynagar,52,460,24,72,76,533
+5,Bagherpara,147,1242,12,69,159,1310
+6,Chaugachha,953,8033,16,104,969,8137
+7,Jessore Sadar,1460,13651,44,212,1504,13863
+8,Jhikargachha,1535,15657,121,446,1656,16103
+9,Keshabpur,651,4610,15,48,666,4658
+10,Manirampur,1101,8718,81,282,1182,9000
+11,Sharsha,810,6885,38,190,848,7075
+12,Total,6709,59256,351,1423,7060,60679

@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from nationalized bank 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2,  Upazila,Number of branch of all nationalized banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
-3,Bhandaria,3,4348,0,0,0,2352,221,6700,221,21,1
-4,Kawkhali,4,1236,39,35,0,349,89,1699,83,10,36
-5,Mathbaria,9,10007,1250,0,0,6310,385,16317,1635,163,81
-6,Nazirpur,5,5731,145,17,0,487,101,6235,246,14,0
-7,Nesarabad,4,654,11,20,0,469,35,1143,46,83,3
-8,Pirojpur Sadar,11,3254,386,0,0,466,210,3720,596,15,3
-9,Zianagar,5,630,22,0,0,842,46,1472,68,4,0
-10,Total,41,25860,1853,72,0,11275,1087,37286,2895,310,124
+1,Pirojpur,,,,,,,,,,,
+2,,,,,,,,,,,,
+3,  Upazila,Number of branch of all nationalized banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
+4,Bhandaria,3,4348,0,0,0,2352,221,6700,221,21,1
+5,Kawkhali,4,1236,39,35,0,349,89,1699,83,10,36
+6,Mathbaria,9,10007,1250,0,0,6310,385,16317,1635,163,81
+7,Nazirpur,5,5731,145,17,0,487,101,6235,246,14,0
+8,Nesarabad,4,654,11,20,0,469,35,1143,46,83,3
+9,Pirojpur Sadar,11,3254,386,0,0,466,210,3720,596,15,3
+10,Zianagar,5,630,22,0,0,842,46,1472,68,4,0
+11,Total,41,25860,1853,72,0,11275,1087,37286,2895,310,124

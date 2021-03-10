@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Land utilization (temporary cropped area) 2008,,,,
-1,,,,,
-2, Upazila, Current fallow,Temporary cropped area - Net,Temporary cropped area - Gross,Productivity of crop
-3,Belabo,102,17130,29264,171
-4,Manohardi,259,30683,54565,178
-5,Narsingdi Sadar,200,28808,38876,135
-6,Palash,46,10918,16328,150
-7,Roypura,213,46556,66691,143
-8,Sibpur,300,26471,43334,164
-9,Total,1120,160566,249059,155
+1,Narsingdi,,,,
+2,,,,,
+3, Upazila, Current fallow,Temporary cropped area - Net,Temporary cropped area - Gross,Productivity of crop
+4,Belabo,102,17130,29264,171
+5,Manohardi,259,30683,54565,178
+6,Narsingdi Sadar,200,28808,38876,135
+7,Palash,46,10918,16328,150
+8,Roypura,213,46556,66691,143
+9,Shibpur,300,26471,43334,164
+10,Total,1120,160566,249059,155

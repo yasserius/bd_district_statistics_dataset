@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Area and production of rice crops 2009-2010,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
-3,Badarganj,0,0,38725,46025,41950,68734
-4,Gangachara,0,0,40200,37532,29600,42340
-5,Kaunia,0,0,26201,28276,22890,33490
-6,Mithapukur,0,0,81650,89815,70100,110120
-7,Pirgachha,0,0,43700,41635,39740,66608
-8,Pirganj,550,1320,59280,64627,54340,76500
-9,Rangpur sadar,0,0,45182,48627,35589,56784
-10,Taraganj,0,0,22290,21724,18370,29656
-11,Total,550,1320,357228,378261,312579,484232
+1,Rangpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Aus - Area,Aus - Production,Aman - Area,Aman - Production,Boro - Area,Boro - Production
+4,Badarganj,0,0,38725,46025,41950,68734
+5,Gangachara,0,0,40200,37532,29600,42340
+6,Kaunia,0,0,26201,28276,22890,33490
+7,Mithapukur,0,0,81650,89815,70100,110120
+8,Pirgachha,0,0,43700,41635,39740,66608
+9,Pirganj,550,1320,59280,64627,54340,76500
+10,Rangpur Sadar,0,0,45182,48627,35589,56784
+11,Taraganj,0,0,22290,21724,18370,29656
+12,Total,550,1320,357228,378261,312579,484232

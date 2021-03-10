@@ -1,20 +1,21 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of mango, litchi and blackberry 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila/City corporation,Mango - Area,Mango - Production,Litchi - Area,Litchi - Production,Blackberry - Area,Blackberry - Production
-3,Anowara,126,660,6,13,0,0
-4,Banshkhali,678,1220,46,342,106,155
-5,Boalkhali,5150,316,84,3,1041,101
-6,Chandanaish,360,1425,365,375,22,215
-7,Chittagong City Corp.,0,4,0,0,0,2
-8,Fatikchhari,1260,5160,25,30,50,75
-9,Hathazari,198,1760,50,44,0,0
-10,Lohagara,274,432,17,19,118,152
-11,Mirsharai,506,323,52,103,17,190
-12,Patiya,1,97,1,5,1,13
-13,Rangunia,220,76,72,167,115,111
-14,Raozan,120,380,30,42,85,102
-15,Sandwip,23152,440,1585,24,1890,28
-16,Satkania,128,1144,9,37,6,93
-17,Sitakunda,20412,1360,282,20,2180,119
-18,Total,52586,14797,2623,1223,5631,1355
+1,Chittagong,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila/City corporation,Mango - Area,Mango - Production,Litchi - Area,Litchi - Production,Blackberry - Area,Blackberry - Production
+4,Anowara,126,660,6,13,0,0
+5,Banshkhali,678,1220,46,342,106,155
+6,Boalkhali,5150,316,84,3,1041,101
+7,Chandanaish,360,1425,365,375,22,215
+8,Chittagong City Corporation,0,4,0,0,0,2
+9,Fatikchhari,1260,5160,25,30,50,75
+10,Hathazari,198,1760,50,44,0,0
+11,Lohagara,274,432,17,19,118,152
+12,Mirsharai,506,323,52,103,17,190
+13,Patiya,1,97,1,5,1,13
+14,Rangunia,220,76,72,167,115,111
+15,Raozan,120,380,30,42,85,102
+16,Sandwip,23152,440,1585,24,1890,28
+17,Satkania,128,1144,9,37,6,93
+18,Sitakunda,20412,1360,282,20,2180,119
+19,Total,52586,14797,2623,1223,5631,1355

@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,"Number of hat-bazar, growth centre, hotel  restaurant 2011",,,,,
-1,,,,,,
-2,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
-3,Belabo,38,21,4,467,0
-4,Manohardi,23,13,4,89,0
-5,Narsingdi Sadar,10,25,2,172,8
-6,Palash,7,9,5,28,0
-7,Roypura,62,31,5,37,3
-8,Sibpur,25,6,4,279,0
-9,Total,165,105,24,1072,11
+1,Narsingdi,,,,,
+2,,,,,,
+3,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
+4,Belabo,38,21,4,467,0
+5,Manohardi,23,13,4,89,0
+6,Narsingdi Sadar,10,25,2,172,8
+7,Palash,7,9,5,28,0
+8,Roypura,62,31,5,37,3
+9,Shibpur,25,6,4,279,0
+10,Total,165,105,24,1072,11

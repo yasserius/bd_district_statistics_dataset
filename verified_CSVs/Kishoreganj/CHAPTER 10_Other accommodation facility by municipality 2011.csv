@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6
 0,Other accommodation facility by municipality 2011,,,,,,
-1,,,,,,,
-2,Municipality/City Corporation,Orphanages - Number,Orphanages - Capacity,Slum area - Area in Acre,Slum area - Number H/H,Refugee Camp - Area in Acre,Refugee Camp - Number H/H
-3,Austagram,0,0,0,0,0,0
-4,Bajitpur,3,60,50,30,0,0
-5,Bhairab,3,450,0,0,0,0
-6,Hossainpur,0,0,0,0,0,0
-7,Itna,3,60,0,0,0,0
-8,Karimganj,0,0,0,0,0,0
-9,Katiadi,2,500,0,0,0,0
-10,Kishoreganj Sadar,9,550,1,2000,0,0
-11,Kuliar-char,3,700,0,0,0,0
-12,Mithamain,0,0,0,0,0,0
-13,Nikli,0,0,0,0,0,0
-14,Pakundia,1,250,0,0,0,0
-15,Tarail,0,0,0,0,0,0
-16,Total,24,2570,51,2030,0,0
+1,Kishoreganj,,,,,,
+2,,,,,,,
+3,Municipality/City Corporation,Orphanages - Number,Orphanages - Capacity,Slum area - Area in Acre,Slum area - Number H/H,Refugee Camp - Area in Acre,Refugee Camp - Number H/H
+4,Austagram,0,0,0,0,0,0
+5,Bajitpur,3,60,50,30,0,0
+6,Bhairab,3,450,0,0,0,0
+7,Hossainpur,0,0,0,0,0,0
+8,Itna,3,60,0,0,0,0
+9,Karimganj,0,0,0,0,0,0
+10,Katiadi,2,500,0,0,0,0
+11,Kishoreganj Sadar,9,550,1,2000,0,0
+12,Kuliar-char,3,700,0,0,0,0
+13,Mithamain,0,0,0,0,0,0
+14,Nikli,0,0,0,0,0,0
+15,Pakundia,1,250,0,0,0,0
+16,Tarail,0,0,0,0,0,0
+17,Total,24,2570,51,2030,0,0

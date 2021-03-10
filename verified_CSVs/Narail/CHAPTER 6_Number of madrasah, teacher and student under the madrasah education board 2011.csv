@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of madrasah, teacher and student under the madrasah education board 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Kalia,14,249,25,274,1935,1585,3520,13
-4,Lohagara,11,152,15,167,2601,1842,4443,27
-5,Narail Sadar,18,234,50,284,2683,2195,4878,17
-6,Total,43,635,90,725,7219,5622,12841,18
+1,Narail,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Kalia,14,249,25,274,1935,1585,3520,13
+5,Lohagara,11,152,15,167,2601,1842,4443,27
+6,Narail Sadar,18,234,50,284,2683,2195,4878,17
+7,Total,43,635,90,725,7219,5622,12841,18

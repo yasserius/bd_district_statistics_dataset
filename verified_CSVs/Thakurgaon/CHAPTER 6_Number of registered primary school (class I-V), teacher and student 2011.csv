@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of registered primary school (class I-V), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila,Number of registered primary school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Baliadangi,71,135,115,250,3815,3620,7435,30
-4,Haripur,52,125,69,194,3400,4800,8200,42
-5,Pirgonj,95,205,133,338,7019,6941,13960,41
-6,Ranisankail,94,215,150,365,7189,6905,14094,39
-7,Thakurgaon Sadar,178,359,307,666,15100,17098,32198,48
-8,Total,490,1039,774,1813,36523,39364,75887,42
+1,Thakurgaon,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of registered primary school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Baliadangi,71,135,115,250,3815,3620,7435,30
+5,Haripur,52,125,69,194,3400,4800,8200,42
+6,Pirgonj,95,205,133,338,7019,6941,13960,41
+7,Ranisankail,94,215,150,365,7189,6905,14094,39
+8,Thakurgaon Sadar,178,359,307,666,15100,17098,32198,48
+9,Total,490,1039,774,1813,36523,39364,75887,42

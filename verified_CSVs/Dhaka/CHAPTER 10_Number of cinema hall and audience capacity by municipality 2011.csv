@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Number of cinema hall and audience capacity by municipality 2011,,,,
-1,,,,,
-2,Municipality/ city corporation,Number of cinema hall,Seating capacity,Show per day,Attendance (daily average)
-3,Dhaka Metropolitan,37,21460,8,31160
-4,Dhamrai,1,150,3,100
-5,Dohar,2,648,2,375
-6,Savar,1,700,4,470
-7,Total,41,22958,17,32105
+1,Dhaka,,,,
+2,,,,,
+3,Municipality/ city corporation,Number of cinema hall,Seating capacity,Show per day,Attendance (daily average)
+4,Dhaka Metropolitan,37,21460,8,31160
+5,Dhamrai,1,150,3,100
+6,Dohar,2,648,2,375
+7,Savar,1,700,4,470
+8,Total,41,22958,17,32105

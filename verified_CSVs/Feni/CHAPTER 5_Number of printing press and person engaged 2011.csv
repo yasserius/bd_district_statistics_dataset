@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of printing press and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Chhagalnaiya,1,1,5,6
-4,Daganbhuiyan,2,2,9,11
-5,Feni Sadar,8,19,39,58
-6,Fulgazi,0,0,0,0
-7,Parshuram,0,0,0,0
-8,Sonagazi,0,0,0,0
-9,Total,11,22,53,75
+1,Feni,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Chhagalnaiya,1,1,5,6
+5,Daganbhuiyan,2,2,9,11
+6,Feni Sadar,8,19,39,58
+7,Fulgazi,0,0,0,0
+8,Parshuram,0,0,0,0
+9,Sonagazi,0,0,0,0
+10,Total,11,22,53,75

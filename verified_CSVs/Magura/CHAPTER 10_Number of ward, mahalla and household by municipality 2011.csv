@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,"Number of ward, mahalla and household by municipality 2011",,,,,
-1,,,,,,
-2,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
-3,Magura Sadar,Magura Sadar,9,62,16549,21998
-4,Mohammadpur,-,0,0,0,0
-5,Shalikha,-,0,0,0,0
-6,Sreepur,-,0,0,0,0
-7,Total,,9,62,16549,21998
+1,Magura,,,,,
+2,,,,,,
+3,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
+4,Magura Sadar,Magura Sadar,9,62,16549,21998
+5,Mohammadpur,-,0,0,0,0
+6,Shalikha,-,0,0,0,0
+7,Sreepur,-,0,0,0,0
+8,Total,,9,62,16549,21998

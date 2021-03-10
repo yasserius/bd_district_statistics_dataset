@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of NGO school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of NGO school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Belabo,0,0,0,0,0,0,0,0
-4,Manohardi,70,0,70,70,980,1470,2450,35
-5,Narsingdi Sadar,35,0,35,35,528,656,1184,34
-6,Palash,6,5,9,14,80,90,170,12
-7,Roypura,38,12,64,76,448,610,1058,14
-8,Sibpur,41,0,41,41,477,886,1363,32
-9,Total,190,17,219,236,2513,3712,6225,26
+1,Narsingdi,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of NGO school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Belabo,0,0,0,0,0,0,0,0
+5,Manohardi,70,0,70,70,980,1470,2450,35
+6,Narsingdi Sadar,35,0,35,35,528,656,1184,34
+7,Palash,6,5,9,14,80,90,170,12
+8,Roypura,38,12,64,76,448,610,1058,14
+9,Shibpur,41,0,41,41,477,886,1363,32
+10,Total,190,17,219,236,2513,3712,6225,26

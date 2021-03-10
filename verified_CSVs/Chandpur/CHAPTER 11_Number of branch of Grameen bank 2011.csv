@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of branch of Grameen bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of member,Number of account
-3,Chandpur Sadar,5,81,12891,12991
-4,Foridganj,9,55,18451,17176
-5,Haimchar,2,14,6174,3244
-6,Hajiganj,3,13,3181,3405
-7,Kachua,10,46,18509,20000
-8,Matlab Dakshin,5,38,11880,3620
-9,Matlab Uttar,6,48,19984,25552
-10,Shahrasti,5,41,17888,44420
-11,Total,45,336,108958,130408
+1,Chandpur,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of member,Number of account
+4,Chandpur Sadar,5,81,12891,12991
+5,Foridganj,9,55,18451,17176
+6,Haimchar,2,14,6174,3244
+7,Hajiganj,3,13,3181,3405
+8,Kachua,10,46,18509,20000
+9,Matlab Dakshin,5,38,11880,3620
+10,Matlab Uttar,6,48,19984,25552
+11,Shahrasti,5,41,17888,44420
+12,Total,45,336,108958,130408

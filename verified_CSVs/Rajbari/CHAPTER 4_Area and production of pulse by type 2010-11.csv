@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,Area and production of pulse by type 2010-11,,,,,,,,
-1,(Area in acre and production in metric ton),,,,,,,,
-2, Upazila,Gram - Area,Gram - Production,Motor - Area,Motor - Production,Khesari - Area,Khesari - Production,Mash-kalai - Area,Mash-kalai - Production
-3,Baliakandi,69,28,123,75,1358,545,64,20
-4,Goalanda,63,18,211,97,1560,702,215,69
-5,Kalukhali,157,47,176,44,676,338,156,47
-6,Pangsha,247,74,277,69,1064,532,246,74
-7,Rajbari Sadar,217,106,220,92,395,260,265,133
-8,Total,753,273,1007,377,5053,2377,946,343
+1,Rajbari,,,,,,,,
+2,(Area in acre and production in metric ton),,,,,,,,
+3,Upazila,Gram - Area,Gram - Production,Motor - Area,Motor - Production,Khesari - Area,Khesari - Production,Mash-kalai - Area,Mash-kalai - Production
+4,Baliakandi,69,28,123,75,1358,545,64,20
+5,Goalanda,63,18,211,97,1560,702,215,69
+6,Kalukhali,157,47,176,44,676,338,156,47
+7,Pangsha,247,74,277,69,1064,532,246,74
+8,Rajbari Sadar,217,106,220,92,395,260,265,133
+9,Total,753,273,1007,377,5053,2377,946,343

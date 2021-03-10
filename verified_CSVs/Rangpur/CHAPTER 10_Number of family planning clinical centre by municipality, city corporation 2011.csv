@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5
 0,"Number of family planning clinical centre by municipality, city corporation 2011",,,,,
-1,,,,,,
-2,Municipality,Sterilization centre,Mobile centre,Injection centre,Menstrual regularization centre,Family welfare centre
-3,Badarganj,1,0,1,0,1
-4,Haragach,0,2,1,1,0
-5,Rangpur,9,0,9,9,9
-6,Total,10,2,11,10,10
+1,Rangpur,,,,,
+2,,,,,,
+3,Municipality,Sterilization centre,Mobile centre,Injection centre,Menstrual regularization centre,Family welfare centre
+4,Badarganj,1,0,1,0,1
+5,Haragach,0,2,1,1,0
+6,Rangpur,9,0,9,9,9
+7,Total,10,2,11,10,10

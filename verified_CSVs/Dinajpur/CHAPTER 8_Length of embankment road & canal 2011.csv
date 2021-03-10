@@ -1,18 +1,19 @@
 ,0,1,2,3
 0,Length of embankment road  canal 2011,,,
-1,(Kilometer),,,
-2,Upazila,Embankment road,Canal,Others road
-3,Biral,0,0,0
-4,Birampur,10,15,0
-5,Birganj,0,0,0
-6,Bochaganj,6,100,0
-7,Chirirbandar,15,0.15,0
-8,Dinajpur Sadar,34,0,302
-9,Fulbari,9,0,0
-10,Ghoraghat,0,10,0
-11,Hakimpur,0,0,0
-12,Kaharole,24,12,0
-13,Khansama,15.7,0,0
-14,Nawabganj,25,0,0
-15,Parbatipur,0,92,0
-16,Total,138.7,229.15,302
+1,Dinajpur,,,
+2,(Kilometer),,,
+3,Upazila,Embankment road,Canal,Others road
+4,Biral,0,0,0
+5,Birampur,10,15,0
+6,Birganj,0,0,0
+7,Bochaganj,6,100,0
+8,Chirirbandar,15,0.15,0
+9,Dinajpur Sadar,34,0,302
+10,Fulbari,9,0,0
+11,Ghoraghat,0,10,0
+12,Hakimpur,0,0,0
+13,Kaharole,24,12,0
+14,Khansama,15.7,0,0
+15,Nawabganj,25,0,0
+16,Parbatipur,0,92,0
+17,Total,138.7,229.15,302

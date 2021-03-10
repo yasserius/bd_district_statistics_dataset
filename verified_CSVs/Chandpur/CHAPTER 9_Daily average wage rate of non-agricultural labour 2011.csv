@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5
 0,Daily average wage rate of non-agricultural labour 2011,,,,,
-1,,,,,,
-2,(Wage in taka) - Upazila,(Wage in taka) - Porter (coolee),(Wage in taka) - Garden male labour,(Wage in taka) - Garden female labour,(Wage in taka) - Other labour (Adult),(Wage in taka) - Other labour (Child)
-3,Chandpur Sadar,450,300,225,280,130
-4,Foridganj,300,250,0,300,150
-5,Haimchar,0,0,0,0,0
-6,Hajiganj,500,0,0,0,100
-7,Kachua,500,0,0,300,150
-8,Matlab Dakshin,200,160,120,160,120
-9,Matlab Uttar,180,150,120,150,100
-10,Shahrasti,300,0,0,300,150
-11,Average,304,108,58,186,113
+1,Chandpur,,,,,
+2,,,,,,
+3,(Wage in taka) - Upazila,(Wage in taka) - Porter (coolee),(Wage in taka) - Garden male labour,(Wage in taka) - Garden female labour,(Wage in taka) - Other labour (Adult),(Wage in taka) - Other labour (Child)
+4,Chandpur Sadar,450,300,225,280,130
+5,Foridganj,300,250,0,300,150
+6,Haimchar,0,0,0,0,0
+7,Hajiganj,500,0,0,0,100
+8,Kachua,500,0,0,300,150
+9,Matlab Dakshin,200,160,120,160,120
+10,Matlab Uttar,180,150,120,150,100
+11,Shahrasti,300,0,0,300,150
+12,Average,304,108,58,186,113

@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Land area under irrigation for selected crops 2008,,,,,,
-1,,,,,,,
-2, Upazila,Paddy - Total area,Paddy - Irrigated area,Wheat - Total area,Wheat - Irrigated area,Potato - Total area,Potato - Irrigated area
-3,Chhagalnaiya,26783,11676,52,24,76,76
-4,Daganbhuiyan,22419,9210,127,28,103,103
-5,Feni Sadar,31439,16490,78,0,186,186
-6,Fulgazi,19947,9795,225,38,208,208
-7,Parshuram,17435,7298,63,27,110,110
-8,Sonagazi,25513,1795,158,9,190,190
-9,Total,143536,56264,703,126,873,873
+1,Feni,,,,,,
+2,,,,,,,
+3, Upazila,Paddy - Total area,Paddy - Irrigated area,Wheat - Total area,Wheat - Irrigated area,Potato - Total area,Potato - Irrigated area
+4,Chhagalnaiya,26783,11676,52,24,76,76
+5,Daganbhuiyan,22419,9210,127,28,103,103
+6,Feni Sadar,31439,16490,78,0,186,186
+7,Fulgazi,19947,9795,225,38,208,208
+8,Parshuram,17435,7298,63,27,110,110
+9,Sonagazi,25513,1795,158,9,190,190
+10,Total,143536,56264,703,126,873,873

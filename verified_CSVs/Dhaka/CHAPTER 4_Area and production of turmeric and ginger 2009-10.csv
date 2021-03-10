@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Area and production of turmeric and ginger 2009-10,,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,Turmeric Area,Turmeric Production,Ginger Area,Ginger Production
-3,Dhaka Metropolitan,0,0,0,0
-4,Dhamrai,44,19,23,50
-5,Dohar,30,53,0,0
-6,Keraniganj,12,8,0,0
-7,Nawabganj,10,20,0,0
-8,Savar,52,24,23,22
-9,Total,148,124,46,72
+1,Dhaka,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,Turmeric Area,Turmeric Production,Ginger Area,Ginger Production
+4,Dhaka Metropolitan,0,0,0,0
+5,Dhamrai,44,19,23,50
+6,Dohar,30,53,0,0
+7,Keraniganj,12,8,0,0
+8,Nawabganj,10,20,0,0
+9,Savar,52,24,23,22
+10,Total,148,124,46,72

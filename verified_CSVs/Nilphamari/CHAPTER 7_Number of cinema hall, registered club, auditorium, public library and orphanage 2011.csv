@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,,,,,,
-2,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
-3,Dimla,3,59,1,11,1
-4,Domar,3,45,0,8,1
-5,Jaldhaka,3,0,0,8,1
-6,Kishorgonj,4,32,1,19,1
-7,Nilphamary Sadar,2,50,2,4,1
-8,Sayedpur,4,58,1,6,3
-9,Total,19,244,5,56,8
+1,Nilphamari,,,,,
+2,,,,,,
+3,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
+4,Dimla,3,59,1,11,1
+5,Domar,3,45,0,8,1
+6,Joldhaka,3,0,0,8,1
+7,Kishorgonj,4,32,1,19,1
+8,Nilphamary Sadar,2,50,2,4,1
+9,Sayedpur,4,58,1,6,3
+10,Total,19,244,5,56,8

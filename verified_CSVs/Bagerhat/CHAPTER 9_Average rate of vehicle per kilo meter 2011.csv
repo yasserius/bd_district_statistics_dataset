@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,Average rate of vehicle per kilo meter 2011,,,,,
-1,(Rate in taka),,,,,
-2,Upazila,Vehicle - Rickshaw,Vehicle - Rickshaw van,Vehicle - Easy bike,Vehicle - Auto rickshaw,Vehicle - Tempo
-3,Bagerhat Sadar,10,6,5,0,5
-4,Kachua,3,2,2,0,2
-5,Rampal,3,3,3,2,2
-6,Sarankhola,4,3,4,0,3
-7,Chitalmari,0,3,2,2,2
-8,Morrelgonj,0,5,5,5,5
-9,Mongla,8,5,5,0,8
-10,Mollahat,0,2,3,2,2
-11,Fakirhat,4,4,4,3,3
-12,Average,5,4,4,3,4
+1,Bagerhat,,,,,
+2,(Rate in taka),,,,,
+3,Upazila,Vehicle - Rickshaw,Vehicle - Rickshaw van,Vehicle - Easy bike,Vehicle - Auto rickshaw,Vehicle - Tempo
+4,Bagerhat Sadar,10,6,5,0,5
+5,Kachua,3,2,2,0,2
+6,Rampal,3,3,3,2,2
+7,Sharonkhola,4,3,4,0,3
+8,Chitolmari,0,3,2,2,2
+9,Morrelgonj,0,5,5,5,5
+10,Mongla,8,5,5,0,8
+11,Mollahat,0,2,3,2,2
+12,Fakirhat,4,4,4,3,3
+13,Average,5,4,4,3,4

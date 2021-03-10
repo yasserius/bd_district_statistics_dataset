@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,Distribution of chemical fertilizer 2010-11,,,,,,,
-1,(In metric ton),,,,,,,
-2,Upazila,UREA,TSP,MP,DAP,NPK,SP,Others
-3,Jhenaigati,5400,625,631,1620,100,0,173
-4,Nakla,7600,800,2250,1950,0,0,90
-5,Nalitabari,9525,1125,1135,3420,400,0,483
-6,Sherpur Sadar,11165,1375,1342,3420,200,100,1180
-7,Sreebardi,395,173,173,173,0,0,0
-8,Total,34085,4098,5531,10583,700,100,1926
+1,Sherpur,,,,,,,
+2,(In metric ton),,,,,,,
+3,Upazila,UREA,TSP,MP,DAP,NPK,SP,Others
+4,Jhenaigati,5400,625,631,1620,100,0,173
+5,Nakla,7600,800,2250,1950,0,0,90
+6,Nalitabari,9525,1125,1135,3420,400,0,483
+7,Sherpur Sadar,11165,1375,1342,3420,200,100,1180
+8,Sreebardi,395,173,173,173,0,0,0
+9,Total,34085,4098,5531,10583,700,100,1926

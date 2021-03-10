@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,,,,
-2,Upazila,Number of insurance company,Number of employee,Number of client
-3,Bakshiganj,0,0,0
-4,Dewanganj,4,12,12000
-5,Islampur,3,109,89000
-6,Jamalpur Sadar,62,763,26766
-7,Madarganj,0,0,0
-8,Melandaha,6,18,5645
-9,Sarishabari,6,35,42321
-10,Total,81,937,175732
+1,Jamalpur,,,
+2,,,,
+3,Upazila,Number of insurance company,Number of employee,Number of client
+4,Bakshiganj,0,0,0
+5,Dewanganj,4,12,12000
+6,Islampur,3,109,89000
+7,Jamalpur Sadar,62,763,26766
+8,Madarganj,0,0,0
+9,Melandaha,6,18,5645
+10,Sarishabari,6,35,42321
+11,Total,81,937,175732

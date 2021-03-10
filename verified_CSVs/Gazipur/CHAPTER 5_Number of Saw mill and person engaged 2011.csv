@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of Saw mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Gazipur Sadar,102,97,510,607
-4,Kaliakair,61,61,183,244
-5,Kaliganj,32,32,148,180
-6,Kapashia,72,26,328,354
-7,Sreepur,148,235,505,740
-8,Total,415,451,1674,2125
+1,Gazipur,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Gazipur Sadar,102,97,510,607
+5,Kaliakair,61,61,183,244
+6,Kaliganj,32,32,148,180
+7,Kapashia,72,26,328,354
+8,Sreepur,148,235,505,740
+9,Total,415,451,1674,2125

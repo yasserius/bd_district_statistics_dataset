@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,Use of chemical fertilizer 2010-11,,,,,
-1,,,,,,
-2,Upazila,UREA,TSP,MP,DAP,Others
-3,Bagerhat Sadar,2876,789,367,441,167
-4,Kachua,1975,390,275,260,95
-5,Rampal,790,1551,0,26,0
-6,Sarankhola,1520,490,285,25,20
-7,Chitalmari,2956,690,710,185,0
-8,Morrelgonj,3500,1800,810,0,345
-9,Mongla,638,60,2,0,0
-10,Mollahat,2465,667,468,775,110
-11,Fakirhat,3046,1183,262,300,2200
-12,Total,19766,7620,3179,2012,2937
+1,Bagerhat,,,,,
+2,,,,,,
+3,Upazila,UREA,TSP,MP,DAP,Others
+4,Bagerhat Sadar,2876,789,367,441,167
+5,Kachua,1975,390,275,260,95
+6,Rampal,790,1551,0,26,0
+7,Sharonkhola,1520,490,285,25,20
+8,Chitolmari,2956,690,710,185,0
+9,Morrelgonj,3500,1800,810,0,345
+10,Mongla,638,60,2,0,0
+11,Mollahat,2465,667,468,775,110
+12,Fakirhat,3046,1183,262,300,2200
+13,Total,19766,7620,3179,2012,2937

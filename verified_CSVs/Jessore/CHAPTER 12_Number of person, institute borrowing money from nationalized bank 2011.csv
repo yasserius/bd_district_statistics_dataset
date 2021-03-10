@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from nationalized bank 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2,  Upazila,Number of branch of all nationalized banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
-3,Abhaynagar,5,3724,509,0,0,1685,162,5409,671,815,44
-4,Bagherpara,9,1993,25,0,0,1203,59,3196,84,21,1
-5,Chaugachha,7,11932,111,11,0,1770,190,13713,301,180,2
-6,Jessore Sadar,33,3512,349,167,17,5228,177,8907,543,337,34
-7,Jhikargachha,8,572,51,0,0,1107,92,1679,143,19,1
-8,Keshabpur,9,6116,273,0,0,3058,153,9174,426,44,4
-9,Manirampur,10,85,0,0,0,65,0,150,0,46,0
-10,Sharsha,9,5140,112,140,30,3119,1160,8396,1302,432,4
-11,Total,90,33074,1430,318,47,17235,1993,50624,3470,1894,90
+1,Jessore,,,,,,,,,,,
+2,,,,,,,,,,,,
+3,  Upazila,Number of branch of all nationalized banks,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Other debt - Male,Number of borrower - Other debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (crore tk) - Male,Number of borrower - Total debt (crore tk) - Female
+4,Abhaynagar,5,3724,509,0,0,1685,162,5409,671,815,44
+5,Bagherpara,9,1993,25,0,0,1203,59,3196,84,21,1
+6,Chaugachha,7,11932,111,11,0,1770,190,13713,301,180,2
+7,Jessore Sadar,33,3512,349,167,17,5228,177,8907,543,337,34
+8,Jhikargachha,8,572,51,0,0,1107,92,1679,143,19,1
+9,Keshabpur,9,6116,273,0,0,3058,153,9174,426,44,4
+10,Manirampur,10,85,0,0,0,65,0,150,0,46,0
+11,Sharsha,9,5140,112,140,30,3119,1160,8396,1302,432,4
+12,Total,90,33074,1430,318,47,17235,1993,50624,3470,1894,90

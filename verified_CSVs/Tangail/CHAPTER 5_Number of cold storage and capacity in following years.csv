@@ -1,17 +1,18 @@
 ,0,1,2,3,4
 0,Number of cold storage and capacity in following years,,,,
-1,(Capacity in metric tons),,,,
-2,Upazila,2010-11 Number,2010-11 Installed capacity,2009-10 Number,2009-10 Installed capacity
-3,Basail,0,0,0,0
-4,Bhuapur,0,0,0,0
-5,Delduar,1,4500,1,4500
-6,Dhanbari,1,6000,1,6000
-7,Ghatail,0,0,0,0
-8,Gopalpur,0,0,0,0
-9,Kalihati,0,0,0,0
-10,Madhupur,0,0,0,0
-11,Mirzapur,1,9500,1,9500
-12,Nagarpur,0,0,0,0
-13,Sakhipur,0,0,0,0
-14,Tangail Sadar,0,0,0,0
-15,Total,3,20000,3,20000
+1,Tangail,,,,
+2,(Capacity in metric tons),,,,
+3,Upazila,2010-11 Number,2010-11 Installed capacity,2009-10 Number,2009-10 Installed capacity
+4,Basail,0,0,0,0
+5,Bhuapur,0,0,0,0
+6,Delduar,1,4500,1,4500
+7,Dhanbari,1,6000,1,6000
+8,Ghatail,0,0,0,0
+9,Gopalpur,0,0,0,0
+10,Kalihati,0,0,0,0
+11,Madhupur,0,0,0,0
+12,Mirzapur,1,9500,1,9500
+13,Nagarpur,0,0,0,0
+14,Sakhipur,0,0,0,0
+15,Tangail Sadar,0,0,0,0
+16,Total,3,20000,3,20000

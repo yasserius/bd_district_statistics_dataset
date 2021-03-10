@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of school  college (operating jointly), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of Institute,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Kalkini,3,57,4,61,716,743,1459,24
-4,Madaripur Sadar,1,14,4,18,264,180,444,25
-5,Rajoir,2,40,20,60,932,1589,2521,42
-6,Shibchar,0,0,0,0,0,0,0,0
-7,Total,6,111,28,139,1912,2512,4424,32
+1,Madaripur,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of Institute,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Kalkini,3,57,4,61,716,743,1459,24
+5,Madaripur Sadar,1,14,4,18,264,180,444,25
+6,Rajoir,2,40,20,60,932,1589,2521,42
+7,Shibchar,0,0,0,0,0,0,0,0
+8,Total,6,111,28,139,1912,2512,4424,32

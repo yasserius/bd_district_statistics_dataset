@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,Number of family planning personnel working by municipality 2011,,,,,
-1,,,,,,
-2, Upazila, Doctor,Family planning inspector,Family planning assistant,Family planning visitor,Midwife/ birth attendant (Dais)
-3,Belabo,0,0,0,0,0
-4,Manohardi,1,0,3,3,0
-5,Narsingdi Sadar,3,1,3,6,0
-6,Palash,1,1,5,1,30
-7,Roypura,1,1,9,4,0
-8,Sibpur,0,0,0,0,0
-9,Total,6,3,20,14,30
+1,Narsingdi,,,,,
+2,,,,,,
+3, Upazila, Doctor,Family planning inspector,Family planning assistant,Family planning visitor,Midwife/ birth attendant (Dais)
+4,Belabo,0,0,0,0,0
+5,Manohardi,1,0,3,3,0
+6,Narsingdi Sadar,3,1,3,6,0
+7,Palash,1,1,5,1,30
+8,Roypura,1,1,9,4,0
+9,Shibpur,0,0,0,0,0
+10,Total,6,3,20,14,30

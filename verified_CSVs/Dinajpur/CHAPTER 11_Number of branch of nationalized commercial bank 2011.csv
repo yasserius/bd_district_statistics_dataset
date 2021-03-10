@@ -1,18 +1,19 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Biral,4,36,11603,364
-4,Birampur,3,33,19840,1410
-5,Birganj,4,43,32100,3931
-6,Bochaganj,4,44,34164,2425
-7,Chirirbandar,72,71,42344,1944
-8,Dinajpur Sadar,30,570,137636,15732
-9,Fulbari,8,77,31854,3722
-10,Ghoraghat,3,31,8254,841
-11,Hakimpur,3,30,9471,2460
-12,Kaharole,3,32,22763,979
-13,Khansama,3,30,8197,728
-14,Nawabganj,4,34,17473,945
-15,Parbatipur,11,112,64927,5391
-16,Total,152,1143,440626,40872
+1,Dinajpur,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Biral,4,36,11603,364
+5,Birampur,3,33,19840,1410
+6,Birganj,4,43,32100,3931
+7,Bochaganj,4,44,34164,2425
+8,Chirirbandar,72,71,42344,1944
+9,Dinajpur Sadar,30,570,137636,15732
+10,Fulbari,8,77,31854,3722
+11,Ghoraghat,3,31,8254,841
+12,Hakimpur,3,30,9471,2460
+13,Kaharole,3,32,22763,979
+14,Khansama,3,30,8197,728
+15,Nawabganj,4,34,17473,945
+16,Parbatipur,11,112,64927,5391
+17,Total,152,1143,440626,40872

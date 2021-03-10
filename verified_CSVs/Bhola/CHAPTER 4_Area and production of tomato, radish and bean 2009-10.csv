@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Tomato - Area,Tomato - Production,Radish - Area,Radish - Production,Beans - Area,Beans - Production
-3,Bhola Sadar,54,131,85,224,335,511
-4,Burhanuddin,173,311,160,447,173,250
-5,Char Fasson,1100,1484,310,992,31,34
-6,Daulatkhan,68,197,89,409,53,29.66
-7,Lalmohan,45,64,69,155,63,253
-8,Manpura,15,9,31,77,19,24
-9,Tazumuddin,34,216,67,525,19,43
-10,Total,1489,2412,811,2829,693,1144.66
+1,Bhola,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Tomato - Area,Tomato - Production,Radish - Area,Radish - Production,Beans - Area,Beans - Production
+4,Bhola Sadar,54,131,85,224,335,511
+5,Burhanuddin,173,311,160,447,173,250
+6,Char Fasson,1100,1484,310,992,31,34
+7,Daulatkhan,68,197,89,409,53,29.66
+8,Lalmohan,45,64,69,155,63,253
+9,Manpura,15,9,31,77,19,24
+10,Tazumuddin,34,216,67,525,19,43
+11,Total,1489,2412,811,2829,693,1144.66

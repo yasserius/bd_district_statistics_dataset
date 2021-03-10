@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Daily average wage rate of construction labour 2011,,,,,,
-1,(Rate in taka),,,,,,
-2,Upazila Upazila 1,Labour Mason 2,Labour Helper (Jogali) 3,Labour Carpenter 4,Labour Painter 5,Labour Electrician 6,Labour Plumber 7
-3,Atgharia,450,220,400,400,500,400
-4,Bera,400,250,400,450,400,450
-5,Bhangura,400,220,400,450,400,450
-6,Chatmohar,400,240,450,400,450,450
-7,Faridpur,400,230,400,450,450,450
-8,Ishwardi,450,230,400,450,400,450
-9,Pabna Sadar,450,250,420,420,450,450
-10,Santhia,400,250,400,450,400,400
-11,Sujanagar,400,250,450,450,400,450
-12,Average,450,250,450,450,450,450
+1,Pabna,,,,,,
+2,(Rate in taka),,,,,,
+3,Upazila Upazila 1,Labour Mason 2,Labour Helper (Jogali) 3,Labour Carpenter 4,Labour Painter 5,Labour Electrician 6,Labour Plumber 7
+4,Atgharia,450,220,400,400,500,400
+5,Bera,400,250,400,450,400,450
+6,Bhangura,400,220,400,450,400,450
+7,Chatmohar,400,240,450,400,450,450
+8,Faridpur,400,230,400,450,450,450
+9,Ishwardi,450,230,400,450,400,450
+10,Pabna Sadar,450,250,420,420,450,450
+11,Santhia,400,250,400,450,400,400
+12,Sujanagar,400,250,450,450,400,450
+13,Average,450,250,450,450,450,450

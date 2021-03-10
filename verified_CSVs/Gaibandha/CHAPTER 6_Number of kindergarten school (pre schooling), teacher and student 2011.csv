@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kindergarten school (pre schooling), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of kindergarten school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Fulchhari,7,82,26,108,657,279,936,9
-4,Gaibandha Sadar,55,269,217,486,4284,3117,7402,15
-5,Gobindaganj,31,127,63,190,1018,842,1860,10
-6,Palashbari,21,98,122,220,1759,1131,2890,8
-7,Sadullapur,19,49,46,95,1715,1635,3350,35
-8,Saghata,8,96,78,174,1581,1085,2666,15
-9,Sundarganj,45,502,67,569,14483,15688,30171,53
-10,Total,186,1223,619,1842,25497,23777,49275,27
+1,Gaibandha,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of kindergarten school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Fulchhari,7,82,26,108,657,279,936,9
+5,Gaibandha Sadar,55,269,217,486,4284,3117,7402,15
+6,Gobindaganj,31,127,63,190,1018,842,1860,10
+7,Palashbari,21,98,122,220,1759,1131,2890,8
+8,Sadullapur,19,49,46,95,1715,1635,3350,35
+9,Saghata,8,96,78,174,1581,1085,2666,15
+10,Sundarganj,45,502,67,569,14483,15688,30171,53
+11,Total,186,1223,619,1842,25497,23777,49275,27

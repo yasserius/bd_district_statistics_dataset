@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Non-government secondary school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of  school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Alamdanga,44,320,32,352,8855,8050,11905,39
-4,Chuadanga Sadar,25,242,33,275,7875,3375,11250,41
-5,Damurhuda,27,793,34,827,8725,10369,19094,23
-6,Jibonnagar,23,301,75,376,4843,5370,10213,27
-7,Total,119,1656,174,1830,30298,27164,52462,32
+1,Chuadanga,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of  school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Alamdanga,44,320,32,352,8855,8050,11905,39
+5,Chuadanga Sadar,25,242,33,275,7875,3375,11250,41
+6,Damurhuda,27,793,34,827,8725,10369,19094,23
+7,Jibonnagar,23,301,75,376,4843,5370,10213,27
+8,Total,119,1656,174,1830,30298,27164,52462,32

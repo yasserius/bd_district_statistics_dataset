@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of cinema hall and audience capacity by municipality 2011,,,,
-1,,,,,
-2,Upazila,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
-3,Belkuchi,4,2500,2,1300
-4,Kazipur,0,0,0,-
-5,Royganj,0,0,0,-
-6,Shahjadpur,3,1700,4,1400
-7,Sirajganj Sadar,4,2900,5,2400
-8,Ullahpara,1,250,3,200
-9,Total,12,7350,14,5300
+1,Sirajganj,,,,
+2,,,,,
+3,Upazila,Number of cinema hall,Audience capacity,Show per day,Attendance (daily average)
+4,Belkuchi,4,2500,2,1300
+5,Kazipur,0,0,0,-
+6,Royganj,0,0,0,-
+7,Shahjadpur,3,1700,4,1400
+8,Sirajganj Sadar,4,2900,5,2400
+9,Ullahpara,1,250,3,200
+10,Total,12,7350,14,5300

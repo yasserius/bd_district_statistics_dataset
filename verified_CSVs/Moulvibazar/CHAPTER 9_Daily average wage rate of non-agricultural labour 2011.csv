@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Daily average wage rate of non-agricultural labour 2011,,,,,
-1,(Wage in taka),,,,,
-2,Upazila,Porter (coolee),Garden labour male,Garden female labour,Other labour (Adult),Other labour (Child)
-3,Barlekha,250,50,50,200,100
-4,Juri,200,48,48,200,0
-5,Kamalganj,200,48,48,200,150
-6,Kulaura,200,48,48,200,0
-7,Moulvibazar Sadar,300,48,48,200,100
-8,Rajnagar,300,46,46,200,100
-9,Sreemangal,200,48,48,200,50
-10,Average,236,48,48,200,100
+1,Moulvibazar,,,,,
+2,(Wage in taka),,,,,
+3,Upazila,Porter (coolee),Garden labour male,Garden female labour,Other labour (Adult),Other labour (Child)
+4,Barlekha,250,50,50,200,100
+5,Juri,200,48,48,200,0
+6,Kamalganj,200,48,48,200,150
+7,Kulaura,200,48,48,200,0
+8,Moulvibazar Sadar,300,48,48,200,100
+9,Rajnagar,300,46,46,200,100
+10,Sreemangal,200,48,48,200,50
+11,Average,236,48,48,200,100

@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Sanction post of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
-3,Gazipur Sadar,396,176,2927,1609,5108
-4,Kaliakair,65,43,1008,211,1327
-5,Kaliganj,49,18,1005,89,1161
-6,Kapashia,63,41,1305,104,1513
-7,Sreepur,39,34,1006,224,1303
-8,Total,612,312,7251,2237,10412
+1,Gazipur,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
+4,Gazipur Sadar,396,176,2927,1609,5108
+5,Kaliakair,65,43,1008,211,1327
+6,Kaliganj,49,18,1005,89,1161
+7,Kapashia,63,41,1305,104,1513
+8,Sreepur,39,34,1006,224,1303
+9,Total,612,312,7251,2237,10412

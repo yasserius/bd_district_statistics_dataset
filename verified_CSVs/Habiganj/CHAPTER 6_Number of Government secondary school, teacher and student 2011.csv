@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Government secondary school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Azmirigonj,0,0,0,0,0,0,0,0
-4,Bahubal,0,0,0,0,0,0,0,0
-5,Baniachang,2,14,0,14,420,530,950,38
-6,Chunarughat,1,20,1,21,293,316,609,29
-7,Habiganj Sadar,2,59,21,80,1488,1471,2959,37
-8,Lakhai,0,0,0,0,0,0,0,0
-9,Madhabpur,1,13,3,16,422,316,738,46
-10,Nabiganj,0,0,0,0,0,0,0,0
-11,Total,6,106,25,131,2623,2633,5256,40
+1,Habiganj,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Azmirigonj,0,0,0,0,0,0,0,0
+5,Bahubal,0,0,0,0,0,0,0,0
+6,Baniachang,2,14,0,14,420,530,950,38
+7,Chunarughat,1,20,1,21,293,316,609,29
+8,Habiganj Sadar,2,59,21,80,1488,1471,2959,37
+9,Lakhai,0,0,0,0,0,0,0,0
+10,Madhabpur,1,13,3,16,422,316,738,46
+11,Nabiganj,0,0,0,0,0,0,0,0
+12,Total,6,106,25,131,2623,2633,5256,40

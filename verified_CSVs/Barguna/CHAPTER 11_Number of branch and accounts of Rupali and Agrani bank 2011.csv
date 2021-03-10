@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Rupali and Agrani bank 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Rupali bank - Number of branch,Rupali bank - Account - S.D,Rupali bank - Account - C.D,Rupali bank - Account - F.D,Rupali bank - Account - S.T.D,Agrani bank - Number of branch,Agrani bank - Account - S.D,Agrani bank - Account - C.D,Agrani bank - Account - F.D,Agrani bank - Account - S.T.D
-3,Amtali,0,0,0,0,0,3,.0,0,307,34
-4,Bamna,0,0,0,0,0,0,0,0,0,0
-5,Barguna Sadar,1,550,0,92,37,1,14349,794,103,45
-6,Betagi,1,5230,310,292,11,1,2663,571,53,3
-7,Patharghata,0,0,0,0,0,2,14916,1676,274,19
-8,Total,2,5780,310,384,48,7,31928,3041,737,101
+1,Barguna,,,,,,,,,,
+2,,,,,,,,,,,
+3, Upazila,Rupali bank - Number of branch,Rupali bank - Account - S.D,Rupali bank - Account - C.D,Rupali bank - Account - F.D,Rupali bank - Account - S.T.D,Agrani bank - Number of branch,Agrani bank - Account - S.D,Agrani bank - Account - C.D,Agrani bank - Account - F.D,Agrani bank - Account - S.T.D
+4,Amtali,0,0,0,0,0,3,.0,0,307,34
+5,Bamna,0,0,0,0,0,0,0,0,0,0
+6,Barguna Sadar,1,550,0,92,37,1,14349,794,103,45
+7,Betagi,1,5230,310,292,11,1,2663,571,53,3
+8,Patharghata,0,0,0,0,0,2,14916,1676,274,19
+9,Total,2,5780,310,384,48,7,31928,3041,737,101

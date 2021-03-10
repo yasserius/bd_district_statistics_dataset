@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Number of missionary hospital and charitable dispensary 2011,,,,,,
-1,,,,,,,
-2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Abhaynagar,0,0,0,0,0,0
-4,Bagherpara,0,0,0,0,0,0
-5,Chaugachha,0,0,0,0,0,0
-6,Jessore Sadar,1,40,6,45,0,30
-7,Jhikargachha,3,0,2,0,0,7
-8,Keshabpur,0,0,0,0,0,0
-9,Manirampur,0,0,0,0,0,0
-10,Sharsha,0,0,0,0,0,0
-11,Total,4,40,8,45,0,37
+1,Jessore,,,,,,
+2,,,,,,,
+3,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Abhaynagar,0,0,0,0,0,0
+5,Bagherpara,0,0,0,0,0,0
+6,Chaugachha,0,0,0,0,0,0
+7,Jessore Sadar,1,40,6,45,0,30
+8,Jhikargachha,3,0,2,0,0,7
+9,Keshabpur,0,0,0,0,0,0
+10,Manirampur,0,0,0,0,0,0
+11,Sharsha,0,0,0,0,0,0
+12,Total,4,40,8,45,0,37

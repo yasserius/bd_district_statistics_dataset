@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7
 0,Irrigation by means 2010-2011,,,,,,,
-1,(In acre),,,,,,,
-2, Upazila,Irrigation management - Power pump,Irrigation management - Tube well,Irrigation management - Doon,Irrigation management - Swing basket,Irrigation management - Canal,Irrigation management - Others, Total
-3,Fulchhari,300,0,0,0,0,150,450
-4,Gaibandha Sadar,2530,5283,0,31,0,38549,36393
-5,Gobindaganj,1500,83590,10,0,0,0,85100
-6,Palashbari,50,28941,0,0,0,80,28811
-7,Sadullapur,39220,120,520,340,150,0,40350
-8,Saghata,936,0,10,5,0,20,971
-9,Sundarganj,0,135,215,513,667,515,2045
-10,Total,44536,118069,755,889,817,39314,194120
+1,Gaibandha,,,,,,,
+2,(In acre),,,,,,,
+3, Upazila,Irrigation management - Power pump,Irrigation management - Tube well,Irrigation management - Doon,Irrigation management - Swing basket,Irrigation management - Canal,Irrigation management - Others, Total
+4,Fulchhari,300,0,0,0,0,150,450
+5,Gaibandha Sadar,2530,5283,0,31,0,38549,36393
+6,Gobindaganj,1500,83590,10,0,0,0,85100
+7,Palashbari,50,28941,0,0,0,80,28811
+8,Sadullapur,39220,120,520,340,150,0,40350
+9,Saghata,936,0,10,5,0,20,971
+10,Sundarganj,0,135,215,513,667,515,2045
+11,Total,44536,118069,755,889,817,39314,194120

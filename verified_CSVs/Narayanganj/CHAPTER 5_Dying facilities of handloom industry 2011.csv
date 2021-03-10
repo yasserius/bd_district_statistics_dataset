@@ -1,10 +1,11 @@
 ,0,1,2,3
 0,Dying facilities of handloom industry 2011,,,
-1,,,,
-2,Upazila,With dying facility,Without dying facility,Total
-3,Araihazar,345,3860,4205
-4,Bandar,0,0,0
-5,Narayanganj Sadar,0,0,0
-6,Rupganj,21,77,98
-7,Sonargaon,6,0,6
-8,Total,372,3937,4309
+1,Narayanganj,,,
+2,,,,
+3,Upazila,With dying facility,Without dying facility,Total
+4,Araihazar,345,3860,4205
+5,Bandar,0,0,0
+6,Narayanganj Sadar,0,0,0
+7,Rupganj,21,77,98
+8,Sonargaon,6,0,6
+9,Total,372,3937,4309

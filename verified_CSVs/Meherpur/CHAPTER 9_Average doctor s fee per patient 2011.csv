@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5
 0,Average doctor s fee per patient 2011,,,,,
-1,(Fee in Taka),,,,,
-2,Upazila,Doctor MBBS,Doctor FCPS,Doctor Dentist,Doctor Gynecologist,Doctor Homeopathy
-3,Gangni,200,0,300,300,50
-4,Mujibnagar,300,0,300,300,20
-5,Meherpur Sadar,200,0,200,300,20
-6,Average,233,0,267,300,30
+1,Meherpur,,,,,
+2,(Fee in Taka),,,,,
+3,Upazila,Doctor MBBS,Doctor FCPS,Doctor Dentist,Doctor Gynecologist,Doctor Homeopathy
+4,Gangni,200,0,300,300,50
+5,Mujibnagar,300,0,300,300,20
+6,Meherpur Sadar,200,0,200,300,20
+7,Average,233,0,267,300,30

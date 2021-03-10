@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Number of missionary hospital and charitable dispensary 2011,,,,,,
-1,,,,,,,
-2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Bakshiganj,1,0,1,0,2,4
-4,Dewanganj,0,0,0,0,0,0
-5,Islampur,0,0,0,0,0,0
-6,Jamalpur Sadar,0,0,0,0,0,0
-7,Madarganj,0,0,0,0,0,0
-8,Melandaha,1,0,2,0,0,7
-9,Sarishabari,7,0,7,0,21,7
-10,Total,9,0,10,0,23,18
+1,Jamalpur,,,,,,
+2,,,,,,,
+3,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Bakshiganj,1,0,1,0,2,4
+5,Dewanganj,0,0,0,0,0,0
+6,Islampur,0,0,0,0,0,0
+7,Jamalpur Sadar,0,0,0,0,0,0
+8,Madarganj,0,0,0,0,0,0
+9,Melandaha,1,0,2,0,0,7
+10,Sarishabari,7,0,7,0,21,7
+11,Total,9,0,10,0,23,18

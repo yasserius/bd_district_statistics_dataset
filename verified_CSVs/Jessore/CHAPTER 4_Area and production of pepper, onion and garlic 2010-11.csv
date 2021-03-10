@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Pepper - Area,Pepper - Production,Onion - Area,Onion - Production,Garlic - Area,Garlic - Production
-3,Abhaynagar,162,380,48,184,20,42
-4,Bagherpara,203,499,113,395,57,142
-5,Chaugachha,678,2042,700,2871,212,706
-6,Jessore Sadar,354,533,360,1548,95,177
-7,Jhikargachha,757,1904,255,775,150,366
-8,Keshabpur,646,1154,740,3417,105,260
-9,Manirampur,175,384,662,2659,344,1296
-10,Sharsha,461,1383,384,1288,250,650
-11,Total,3436,8279,3262,13137,1233,3639
+1,Jessore,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Pepper - Area,Pepper - Production,Onion - Area,Onion - Production,Garlic - Area,Garlic - Production
+4,Abhaynagar,162,380,48,184,20,42
+5,Bagherpara,203,499,113,395,57,142
+6,Chaugachha,678,2042,700,2871,212,706
+7,Jessore Sadar,354,533,360,1548,95,177
+8,Jhikargachha,757,1904,255,775,150,366
+9,Keshabpur,646,1154,740,3417,105,260
+10,Manirampur,175,384,662,2659,344,1296
+11,Sharsha,461,1383,384,1288,250,650
+12,Total,3436,8279,3262,13137,1233,3639

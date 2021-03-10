@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,"Occurrence of river erosion during the years 2008-2011 (Yea, No)",,,,
-1,,,,,
-2, Upazila, 2008, 2009, 2010, 2011
-3,Jamalpur Sadar,No,No,No,No
-4,Bakshiganj,No,No,No,No
-5,Dewanganj,Yes,Yes,Yes,Yes
-6,Islampur,Yes,Yes,Yes,Yes
-7,Madarganj,Yes,No,No,No
-8,Melandaha,No,No,No,No
-9,Sarishabari,Yes,Yes,Yes,Yes
+1,Jamalpur,,,,
+2,,,,,
+3, Upazila, 2008, 2009, 2010, 2011
+4,Jamalpur Sadar,No,No,No,No
+5,Bakshiganj,No,No,No,No
+6,Dewanganj,Yes,Yes,Yes,Yes
+7,Islampur,Yes,Yes,Yes,Yes
+8,Madarganj,Yes,No,No,No
+9,Melandaha,No,No,No,No
+10,Sarishabari,Yes,Yes,Yes,Yes

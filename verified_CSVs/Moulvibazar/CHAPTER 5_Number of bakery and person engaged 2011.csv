@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Barlekha,6,4,124,128
-4,Juri,3,5,55,60
-5,Kamalganj,10,10,44,54
-6,Kulaura,5,30,40,70
-7,Moulvibazar Sadar,21,24,108,132
-8,Rajnagar,6,17,32,49
-9,Sreemangal,16,22,139,161
-10,Total,67,112,542,654
+1,Moulvibazar,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Barlekha,6,4,124,128
+5,Juri,3,5,55,60
+6,Kamalganj,10,10,44,54
+7,Kulaura,5,30,40,70
+8,Moulvibazar Sadar,21,24,108,132
+9,Rajnagar,6,17,32,49
+10,Sreemangal,16,22,139,161
+11,Total,67,112,542,654

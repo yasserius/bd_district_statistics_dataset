@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6
 0,Area and production of potato by type 2010-11,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
-3,Bhaluka,215,413,16,28,231,441
-4,Dhobaura,430,1508,150,551,580,2059
-5,Fulbaria,457,735,140,70,1194,807
-6,Gaffargaon,877,2976,540,2643,1417,5619
-7,Gauripur,1876,6,20,59,1896,66
-8,Haluaghat,476,1421,326,1253,802,2674
-9,Ishwargonj,1144,2429,38,199,1182,2628
-10,Muktagacha,264,4224,82,777,306,5001
-11,Mymensingh Sadar,728,1979,121,606,849,2585
-12,Nandail,598,1999,62,390,660,2389
-13,Phulpur,1786,7225,106,566,1892,7791
-14,Trishal,889,1934,83,292,972,2226
-15,Total,9740,26849,1684,7434,11981,34286
+1,Mymensingh,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Potato - Area,Potato - Production,Sweet potato - Area,Sweet potato - Production,Total potato - Area,Total potato - Production
+4,Bhaluka,215,413,16,28,231,441
+5,Dhobaura,430,1508,150,551,580,2059
+6,Fulbaria,457,735,140,70,1194,807
+7,Gaffargaon,877,2976,540,2643,1417,5619
+8,Gauripur,1876,6,20,59,1896,66
+9,Haluaghat,476,1421,326,1253,802,2674
+10,Ishwargonj,1144,2429,38,199,1182,2628
+11,Muktagacha,264,4224,82,777,306,5001
+12,Mymensingh Sadar,728,1979,121,606,849,2585
+13,Nandail,598,1999,62,390,660,2389
+14,Phulpur,1786,7225,106,566,1892,7791
+15,Trishal,889,1934,83,292,972,2226
+16,Total,9740,26849,1684,7434,11981,34286

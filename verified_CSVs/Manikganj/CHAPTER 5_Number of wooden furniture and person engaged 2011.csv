@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of wooden furniture and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Daulotpur,30,35,90,125
-4,Gheor,65,65,130,195
-5,Horirampur,90,106,215,321
-6,Manikganj Sadar,1500,3700,1500,5200
-7,Saturia,170,240,680,920
-8,Shibalaya,56,65,103,168
-9,Singair,61,70,366,436
-10,Total,1972,4281,3084,7365
+1,Manikganj,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Daulotpur,30,35,90,125
+5,Gheor,65,65,130,195
+6,Horirampur,90,106,215,321
+7,Manikganj Sadar,1500,3700,1500,5200
+8,Saturia,170,240,680,920
+9,Shibalaya,56,65,103,168
+10,Singair,61,70,366,436
+11,Total,1972,4281,3084,7365

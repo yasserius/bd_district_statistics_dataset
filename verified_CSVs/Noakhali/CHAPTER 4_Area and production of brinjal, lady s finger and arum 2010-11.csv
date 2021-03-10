@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of brinjal, lady s finger and arum 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Brinjal - Area,Brinjal - Production,Ladys finger - Area,Ladys finger - Production,Arum - Area,Arum - Production
-3,Begumganj,65,140,4,1,16,55
-4,Chatkhil,70,110,7,9,6,12
-5,Companiganj,250,1555,45,40,40,100
-6,Hatiya,261,451,126,118,54,123
-7,Kabirhat,220,325,21,13,40,85
-8,Noakhali Sadar,445,8910,10,45,30,396
-9,Senbagh,82,112,53,69,65,200
-10,Sonaimuri,20,40,7,9,6,15
-11,Subarnachar,270,400,48,32,45,98
-12,Total,1683,12043,321,336,302,1084
+1,Noakhali,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Brinjal - Area,Brinjal - Production,Ladys finger - Area,Ladys finger - Production,Arum - Area,Arum - Production
+4,Begumganj,65,140,4,1,16,55
+5,Chatkhil,70,110,7,9,6,12
+6,Companiganj,250,1555,45,40,40,100
+7,Hatiya,261,451,126,118,54,123
+8,Kabirhat,220,325,21,13,40,85
+9,Noakhali Sadar,445,8910,10,45,30,396
+10,Senbagh,82,112,53,69,65,200
+11,Sonaimuri,20,40,7,9,6,15
+12,Subarnachar,270,400,48,32,45,98
+13,Total,1683,12043,321,336,302,1084

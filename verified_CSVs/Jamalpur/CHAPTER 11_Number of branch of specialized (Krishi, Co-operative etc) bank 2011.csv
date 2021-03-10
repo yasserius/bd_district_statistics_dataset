@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,"Number of branch of specialized (Krishi, Co-operative etc) bank 2011",,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Bakshiganj,2,16,20501,383
-4,Dewanganj,2,13,3538,135
-5,Islampur,3,17,19607,162
-6,Jamalpur Sadar,31,131,47960,721
-7,Madarganj,2,14,24110,187
-8,Melandaha,2,25,26004,595
-9,Sarishabari,4,22,6306,210
-10,Total,46,238,148026,2393
+1,Jamalpur,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Bakshiganj,2,16,20501,383
+5,Dewanganj,2,13,3538,135
+6,Islampur,3,17,19607,162
+7,Jamalpur Sadar,31,131,47960,721
+8,Madarganj,2,14,24110,187
+9,Melandaha,2,25,26004,595
+10,Sarishabari,4,22,6306,210
+11,Total,46,238,148026,2393

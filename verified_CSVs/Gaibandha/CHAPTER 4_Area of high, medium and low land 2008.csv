@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,"Area of high, medium and low land 2008",,,,
-1,,,,,
-2,Upazila,High land,Medium land,Low land,Total land
-3,Fulchhari,5875,15929,12878,34682
-4,Gaibandha Sadar,24218,25118,1854,51190
-5,Gobindaganj,13000,65490,18210,96700
-6,Palashbari,9738,25684,1475,36897
-7,Sadullapur,5195,36303,3800,45298
-8,Saghata,9443,23744,12823,46010
-9,Sundarganj,10280,42358,9920,62558
-10,Total,77749,234626,60960,373335
+1,Gaibandha,,,,
+2,,,,,
+3,Upazila,High land,Medium land,Low land,Total land
+4,Fulchhari,5875,15929,12878,34682
+5,Gaibandha Sadar,24218,25118,1854,51190
+6,Gobindaganj,13000,65490,18210,96700
+7,Palashbari,9738,25684,1475,36897
+8,Sadullapur,5195,36303,3800,45298
+9,Saghata,9443,23744,12823,46010
+10,Sundarganj,10280,42358,9920,62558
+11,Total,77749,234626,60960,373335

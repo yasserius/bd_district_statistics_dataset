@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,"Number of branch of specialized (Krishi, Co-operative etc) bank 2011",,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Daulotpur,1,6,10804,31
-4,Gheor,2,16,12674,294
-5,Horirampur,2,12,10745,182
-6,Manikganj Sadar,2,38,7951,322
-7,Saturia,1,6,4400,200
-8,Shibalaya,2,15,13290,303
-9,Singair,3,18,9866,234
-10,Total,13,111,69730,1566
+1,Manikganj,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Daulotpur,1,6,10804,31
+5,Gheor,2,16,12674,294
+6,Horirampur,2,12,10745,182
+7,Manikganj Sadar,2,38,7951,322
+8,Saturia,1,6,4400,200
+9,Shibalaya,2,15,13290,303
+10,Singair,3,18,9866,234
+11,Total,13,111,69730,1566

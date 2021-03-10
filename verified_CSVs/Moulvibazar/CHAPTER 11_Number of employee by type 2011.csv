@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,,,,,,
-2, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous body,Local Government employee
-3,Barlekha,32,8,1901,23,9
-4,Juri,0,12,1282,0,0
-5,Kamalganj,1,420,8204,0,15
-6,Kulaura,45,416,2240,1,312
-7,Moulvibazar Sadar,42,516,7680,83,205
-8,Rajnagar,44,356,1416,86,198
-9,Sreemangal,50,420,3376,33,99
-10,Total,214,2148,26099,226,838
+1,Moulvibazar,,,,,
+2,,,,,,
+3, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous body,Local Government employee
+4,Barlekha,32,8,1901,23,9
+5,Juri,0,12,1282,0,0
+6,Kamalganj,1,420,8204,0,15
+7,Kulaura,45,416,2240,1,312
+8,Moulvibazar Sadar,42,516,7680,83,205
+9,Rajnagar,44,356,1416,86,198
+10,Sreemangal,50,420,3376,33,99
+11,Total,214,2148,26099,226,838

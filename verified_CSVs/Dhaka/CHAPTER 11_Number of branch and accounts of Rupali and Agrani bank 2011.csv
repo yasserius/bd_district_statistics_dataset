@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Rupali and Agrani bank 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Rupali bank - Number of branch,Rupali bank - Account - S.D,Rupali bank - Account - C.D,Rupali bank - Account - F.D,Rupali bank - Account - S.T.D,Agrani bank - Number of branch,Agrani bank - Account - S.D,Agrani bank - Account - C.D,Agrani bank - Account - F.D,Agrani bank - Account - S.T.D
-3,Dhaka Metropolitan,33,2097785,11898,39543,6884,42,242708,16886,41301,736396
-4,Dhamrai,1,1230,45,6,2,1,9723,346,101,7
-5,Dohar,1,0,197,450,3,2,17127,212,276,11
-6,Keraniganj,0,0,0,0,0,2,15490,1673,226,20
-7,Nawabganj,3,0,14,461,0,1,0,0,0,0
-8,Savar,2,9763,872,378,38,5,37,1165,68,48
-9,Total,40,2108778,13026,40838,6927,53,285085,20282,41972,736482
+1,Dhaka,,,,,,,,,,
+2,,,,,,,,,,,
+3, Upazila,Rupali bank - Number of branch,Rupali bank - Account - S.D,Rupali bank - Account - C.D,Rupali bank - Account - F.D,Rupali bank - Account - S.T.D,Agrani bank - Number of branch,Agrani bank - Account - S.D,Agrani bank - Account - C.D,Agrani bank - Account - F.D,Agrani bank - Account - S.T.D
+4,Dhaka Metropolitan,33,2097785,11898,39543,6884,42,242708,16886,41301,736396
+5,Dhamrai,1,1230,45,6,2,1,9723,346,101,7
+6,Dohar,1,0,197,450,3,2,17127,212,276,11
+7,Keraniganj,0,0,0,0,0,2,15490,1673,226,20
+8,Nawabganj,3,0,14,461,0,1,0,0,0,0
+9,Savar,2,9763,872,378,38,5,37,1165,68,48
+10,Total,40,2108778,13026,40838,6927,53,285085,20282,41972,736482

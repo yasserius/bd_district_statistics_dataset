@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Population and literacy rate of 1981, 1991, 2001  2011 and number of voter 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2, Upazila,Population (000) - 1981,Population (000) - 1991,Population (000) - 2001,Population (000) - 2011,Literacy rate () - 1981,Literacy rate () - 1991,Literacy rate () - 2001,Literacy rate () - 2011,Number of voter (000) - Male,Number of voter (000) - Female,Number of voter (000) - Total
-3,Dighinala,51,51,95,103,16.5,26.4,47.5,46.2,32,30,62
-4,Khagrachhari,48,61,92,112,21.2,33.7,47.2,57.1,36,31,67
-5,Laxshmichhari,13,17,22,26,9.5,14.3,22.8,35.2,8,7,15
-6,Mahalchhari,24,33,44,51,21.2,26.5,38.6,44.4,16,14,30
-7,Manikchhari,15,38,50,62,12,20,44,40.7,17,16,32
-8,Matiranga,49,72,106,126,6.7,24.1,37.9,44.2,35,34,68
-9,Panchhari,34,26,65,62,21.5,25.4,34.6,42.3,20,19,40
-10,Ramgarh,36,44,54,72,23.6,29.1,46.4,44.9,21,20,41
-11,Total,270,341,528,614,17.5,26.3,41.8,46.1,184,171,355
+1,Khagrachori,,,,,,,,,,,
+2,,,,,,,,,,,,
+3,Upazila,Population (000) - 1981,Population (000) - 1991,Population (000) - 2001,Population (000) - 2011,Literacy rate () - 1981,Literacy rate () - 1991,Literacy rate () - 2001,Literacy rate () - 2011,Number of voter (000) - Male,Number of voter (000) - Female,Number of voter (000) - Total
+4,Dighinala,51,51,95,103,16.5,26.4,47.5,46.2,32,30,62
+5,Khagrachori,48,61,92,112,21.2,33.7,47.2,57.1,36,31,67
+6,Laxshmichhari,13,17,22,26,9.5,14.3,22.8,35.2,8,7,15
+7,Mahalchhari,24,33,44,51,21.2,26.5,38.6,44.4,16,14,30
+8,Manikchhari,15,38,50,62,12,20,44,40.7,17,16,32
+9,Matiranga,49,72,106,126,6.7,24.1,37.9,44.2,35,34,68
+10,Panchhari,34,26,65,62,21.5,25.4,34.6,42.3,20,19,40
+11,Ramgarh,36,44,54,72,23.6,29.1,46.4,44.9,21,20,41
+12,Total,270,341,528,614,17.5,26.3,41.8,46.1,184,171,355

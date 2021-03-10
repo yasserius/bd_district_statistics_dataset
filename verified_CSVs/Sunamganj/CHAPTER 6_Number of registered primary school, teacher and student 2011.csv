@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of registered primary school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of registered primary school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Student per teacher
-3,Bishwamvarpur,31,60,55,115,2435,2484,4919,42
-4,Chhatak,53,92,101,193,4346,4610,8956,46
-5,Dakshin Sunamganj,26,48,45,93,2357,2502,4859,52
-6,Derai,63,65,149,214,3749,4127,7921,37
-7,Dharmapasha,87,158,145,313,5756,9872,18088,58
-8,Doarabazar,18,37,17,54,2230,2312,4542,84
-9,Jagannathpur,30,47,61,108,2527,3473,6000,55
-10,Jamalganj,61,107,103,210,3405,4703,9108,43
-11,Shalla,54,117,62,179,2414,2872,5286,29
-12,Sunamganj Sadar,40,74,74,148,3025,3325,6350,43
-13,Tahirpur,70,146,224,270,6826,7023,18849,51
-14,Total,533,961,1036,1897,39070,47303,94878,50
+1,Sunamganj,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of registered primary school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Student per teacher
+4,Bishwamvarpur,31,60,55,115,2435,2484,4919,42
+5,Chhatak,53,92,101,193,4346,4610,8956,46
+6,Dakshin Sunamganj,26,48,45,93,2357,2502,4859,52
+7,Derai,63,65,149,214,3749,4127,7921,37
+8,Dharmapasha,87,158,145,313,5756,9872,18088,58
+9,Doarabazar,18,37,17,54,2230,2312,4542,84
+10,Jagannathpur,30,47,61,108,2527,3473,6000,55
+11,Jamalganj,61,107,103,210,3405,4703,9108,43
+12,Shalla,54,117,62,179,2414,2872,5286,29
+13,Sunamganj Sadar,40,74,74,148,3025,3325,6350,43
+14,Tahirpur,70,146,224,270,6826,7023,18849,51
+15,Total,533,961,1036,1897,39070,47303,94878,50

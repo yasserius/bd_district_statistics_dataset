@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and beans 2010-11",,,,,,
-1,(Area in acres  production in metric tons),,,,,,
-2,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Beans Area,Beans Production
-3,Basail,13,75,37,261,68,115
-4,Bhuapur,21,124.6,350,2706.2,85,298.8
-5,Delduar,40,177,90,368,180,399
-6,Dhanbari,29,205.9,237,888.75,125,512.5
-7,Ghatail,49,274,263,1052,209,263
-8,Gopalpur,42,330.45,220,999.75,60,108.1
-9,Kalihati,37.5,216.6,312.5,1591,100,211
-10,Madhupur,30,213.4,243,911.25,163,675.5
-11,Mirzapur,180,1225,355,895,315,509
-12,Nagarpur,49,398,104,557,65,100
-13,Sakhipur,53,245,290,1403,224,324
-14,Tangail Sadar,212,1445,575,5400,200,560
-15,Total,755.5,4929.95,3076.5,17032.95,1794,4075.9
+1,Tangail,,,,,,
+2,(Area in acres  production in metric tons),,,,,,
+3,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Beans Area,Beans Production
+4,Basail,13,75,37,261,68,115
+5,Bhuapur,21,124.6,350,2706.2,85,298.8
+6,Delduar,40,177,90,368,180,399
+7,Dhanbari,29,205.9,237,888.75,125,512.5
+8,Ghatail,49,274,263,1052,209,263
+9,Gopalpur,42,330.45,220,999.75,60,108.1
+10,Kalihati,37.5,216.6,312.5,1591,100,211
+11,Madhupur,30,213.4,243,911.25,163,675.5
+12,Mirzapur,180,1225,355,895,315,509
+13,Nagarpur,49,398,104,557,65,100
+14,Sakhipur,53,245,290,1403,224,324
+15,Tangail Sadar,212,1445,575,5400,200,560
+16,Total,755.5,4929.95,3076.5,17032.95,1794,4075.9

@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Government college, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of  college,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Alamdanga,0,0,0,0,0,0,0,0
-4,Chuadanga Sadar,2,55,13,68,1842,2004,3846,57
-5,Damurhuda,1,21,4,25,987,657,1644,66
-6,Jibonnagar,0,0,0,0,0,0,0,0
-7,Total,3,76,17,93,2829,2661,5490,61
+1,Chuadanga,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of  college,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Alamdanga,0,0,0,0,0,0,0,0
+5,Chuadanga Sadar,2,55,13,68,1842,2004,3846,57
+6,Damurhuda,1,21,4,25,987,657,1644,66
+7,Jibonnagar,0,0,0,0,0,0,0,0
+8,Total,3,76,17,93,2829,2661,5490,61

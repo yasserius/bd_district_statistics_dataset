@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,,,,
-2, Upazila, Number of power tiller, Tractor,Number of threshing machine
-3,Alikadam,53,4,3
-4,Bandarban Sadar,40,0,35
-5,Lama,251,35,145
-6,Naikhongchhari,4,3,2
-7,Rowangchhari,8,0,150
-8,Ruma,0,0,0
-9,Thanchi,5,10,20
-10,Total,361,52,355
+1,Bandarban,,,
+2,,,,
+3, Upazila, Number of power tiller, Tractor,Number of threshing machine
+4,Alikadam,53,4,3
+5,Bandarban Sadar,40,0,35
+6,Lama,251,35,145
+7,Naikhongchhari,4,3,2
+8,Rowangchhari,8,0,150
+9,Ruma,0,0,0
+10,Thanchi,5,10,20
+11,Total,361,52,355

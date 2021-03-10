@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Bean Area,Bean Production
-3,Atrai,12,35,25,10,12,30
-4,Badalgachhi,58,5086,207,475,155,966
-5,Dhamoirhat,27,55,50,110,20,30
-6,Manda,267,876,164,1193,34,68
-7,Mahadebpur,60,372,60,300,19,57
-8,Naogaon sadar,43,133,87,286,36,65
-9,Niamatpur,174,415,72,205,74,134
-10,Patnitala,77,191,56,148,57,112
-11,Porsha,21,16,6,16,13,18
-12,Raninagar,11,78,37,116,8,11
-13,Sapahar,48,46,53,33,54,101
-14,Total,798,7304,817,2892,482,1592
+1,Naogaon,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Bean Area,Bean Production
+4,Atrai,12,35,25,10,12,30
+5,Badalgachhi,58,5086,207,475,155,966
+6,Dhamoirhat,27,55,50,110,20,30
+7,Manda,267,876,164,1193,34,68
+8,Mahadebpur,60,372,60,300,19,57
+9,Naogaon sadar,43,133,87,286,36,65
+10,Niamatpur,174,415,72,205,74,134
+11,Patnitala,77,191,56,148,57,112
+12,Porsha,21,16,6,16,13,18
+13,Raninagar,11,78,37,116,8,11
+14,Sapahar,48,46,53,33,54,101
+15,Total,798,7304,817,2892,482,1592

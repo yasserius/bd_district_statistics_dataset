@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,"Number of registered rickshaw, van, easy bike and auto-rickshaw 2011",,,,
-1,,,,,
-2,Upazila,Rickshaw,Van,Easy bike and auto-rickshaw,Tempo
-3,Baliakandi,0,25,16,0
-4,Goalanda,206,396,24,10
-5,Kalukhali,0,0,0,0
-6,Pangsha,350,500,300,0
-7,Rajbari Sadar,1580,240,1485,150
-8,Total,2136,1161,1825,160
+1,Rajbari,,,,
+2,,,,,
+3,Upazila,Rickshaw,Van,Easy bike and auto-rickshaw,Tempo
+4,Baliakandi,0,25,16,0
+5,Goalanda,206,396,24,10
+6,Kalukhali,0,0,0,0
+7,Pangsha,350,500,300,0
+8,Rajbari Sadar,1580,240,1485,150
+9,Total,2136,1161,1825,160

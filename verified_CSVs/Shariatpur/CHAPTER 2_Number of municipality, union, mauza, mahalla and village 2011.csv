@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Number of municipality, union, mauza, mahalla and village 2011",,,,,,
-1,,,,,,,
-2,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
-3,Bhedarganj,1,9,12,13,87,372
-4,Damudya,1,9,11,7,60,120
-5,Gosairhat,0,0,0,8,84,221
-6,Naria,1,9,27,14,146,189
-7,Shariatpur Sadar,1,9,27,11,105,152
-8,Zanjira,1,9,19,12,126,200
-9,Total,5,45,96,65,608,1254
+1,Shariatpur,,,,,,
+2,,,,,,,
+3,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
+4,Bhedarganj,1,9,12,13,87,372
+5,Damudya,1,9,11,7,60,120
+6,Gosairhat,0,0,0,8,84,221
+7,Naria,1,9,27,14,146,189
+8,Shariatpur Sadar,1,9,27,11,105,152
+9,Zanjira,1,9,19,12,126,200
+10,Total,5,45,96,65,608,1254

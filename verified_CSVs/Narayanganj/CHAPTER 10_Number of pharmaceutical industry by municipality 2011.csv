@@ -1,7 +1,8 @@
 ,0,1,2,3,4,5,6
 0,Number of pharmaceutical industry by municipality 2011,,,,,,
-1,,,,,,,
-2,Upazila,Industry,Chemist,Technician,Male worker,Female worker,Total person engaged
-3,Narayanganj Sadar,1,11,3,35,40,75
-4,Rupganj,3,51,65,252,100,352
-5,Total,4,62,68,287,140,427
+1,Narayanganj,,,,,,
+2,,,,,,,
+3,Upazila,Industry,Chemist,Technician,Male worker,Female worker,Total person engaged
+4,Narayanganj Sadar,1,11,3,35,40,75
+5,Rupganj,3,51,65,252,100,352
+6,Total,4,62,68,287,140,427

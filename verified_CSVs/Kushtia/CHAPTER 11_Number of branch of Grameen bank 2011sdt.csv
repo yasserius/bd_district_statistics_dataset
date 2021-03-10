@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,11.08 Number of branch of Grameen bank 2011,,,,
-1,,,,,
-2,Upazila,Number of Branches,Number of Employees,Number of members,Number of Accounts
-3,Kushtia Sadar,5,37,15916,15916
-4,Bheramara,2,24,420,14150
-5,Daulatpur,5,36,12600,12600
-6,Khoksa,2,27,5430,4194
-7,Kumarkhali,4,40,18768,18768
-8,Mirpur,5,40,12404,14556
-9,Total,23,204,65538,80184
+1,Kushtia,,,,
+2,,,,,
+3,Upazila,Number of Branches,Number of Employees,Number of members,Number of Accounts
+4,Kushtia Sadar,5,37,15916,15916
+5,Bheramara,2,24,420,14150
+6,Daulatpur,5,36,12600,12600
+7,Khoksa,2,27,5430,4194
+8,Kumarkhali,4,40,18768,18768
+9,Mirpur,5,40,12404,14556
+10,Total,23,204,65538,80184

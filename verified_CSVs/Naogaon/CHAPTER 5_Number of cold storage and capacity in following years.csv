@@ -1,16 +1,17 @@
 ,0,1,2,3,4
 0,Number of cold storage and capacity in following years,,,,
-1,(Capacity in metric ton),,,,
-2, Upazila,2010-11 - Number,2010-11 - Installed capacity,2009-10 - Number,2009-10 - Installed capacity
-3,Atrai,0,0,0,0
-4,Badalgachhi,1,25,1,25
-5,Dhamoirhat,0,0,0,0
-6,Manda,1,5000,1,5000
-7,Mahadebpur,1,10200,1,10200
-8,Naogaon sadar,3,26570,2,8090
-9,Niamatpur,0,0,0,0
-10,Patnitala,0,0,0,0
-11,Porsha,0,0,0,0
-12,Raninagar,1,1176,1,1176
-13,Sapahar,0,0,0,0
-14,Total,7,42971,6,24491
+1,Naogaon,,,,
+2,(Capacity in metric ton),,,,
+3, Upazila,2010-11 - Number,2010-11 - Installed capacity,2009-10 - Number,2009-10 - Installed capacity
+4,Atrai,0,0,0,0
+5,Badalgachhi,1,25,1,25
+6,Dhamoirhat,0,0,0,0
+7,Manda,1,5000,1,5000
+8,Mahadebpur,1,10200,1,10200
+9,Naogaon sadar,3,26570,2,8090
+10,Niamatpur,0,0,0,0
+11,Patnitala,0,0,0,0
+12,Porsha,0,0,0,0
+13,Raninagar,1,1176,1,1176
+14,Sapahar,0,0,0,0
+15,Total,7,42971,6,24491

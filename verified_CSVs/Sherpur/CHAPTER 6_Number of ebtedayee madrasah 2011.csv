@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of ebtedayee madrasah 2011,,,,,,,,
-1,,,,,,,,,
-2,Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Jhenaigati,16,32,16,48,298,261,559,12
-4,Nakla,2,7,2,9,40,67,207,23
-5,Nalitabari,7,16,5,21,654,488,1142,54
-6,Sherpur Sadar,5,14,0,14,565,390,955,68
-7,Sreebardi,66,198,0,198,3200,3500,6700,34
-8,Total,96,267,23,290,4757,4706,9563,33
+1,Sherpur,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Jhenaigati,16,32,16,48,298,261,559,12
+5,Nakla,2,7,2,9,40,67,207,23
+6,Nalitabari,7,16,5,21,654,488,1142,54
+7,Sherpur Sadar,5,14,0,14,565,390,955,68
+8,Sreebardi,66,198,0,198,3200,3500,6700,34
+9,Total,96,267,23,290,4757,4706,9563,33

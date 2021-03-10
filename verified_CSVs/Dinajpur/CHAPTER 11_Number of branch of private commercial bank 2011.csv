@@ -1,18 +1,19 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Biral,2,11,362,2
-4,Birampur,3,52,7721,139
-5,Birganj,0,0,0,0
-6,Bochaganj,4,38,1003,1014
-7,Chirirbandar,0,0,0,0
-8,Dinajpur Sadar,19,331,40914,8393
-9,Fulbari,0,0,0,0
-10,Ghoraghat,0,0,0,0
-11,Hakimpur,0,0,0,0
-12,Kaharole,0,0,0,0
-13,Khansama,4,34,862,224
-14,Nawabganj,0,0,0,0
-15,Parbatipur,0,0,0,0
-16,Total,32,466,50862,9772
+1,Dinajpur,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Biral,2,11,362,2
+5,Birampur,3,52,7721,139
+6,Birganj,0,0,0,0
+7,Bochaganj,4,38,1003,1014
+8,Chirirbandar,0,0,0,0
+9,Dinajpur Sadar,19,331,40914,8393
+10,Fulbari,0,0,0,0
+11,Ghoraghat,0,0,0,0
+12,Hakimpur,0,0,0,0
+13,Kaharole,0,0,0,0
+14,Khansama,4,34,862,224
+15,Nawabganj,0,0,0,0
+16,Parbatipur,0,0,0,0
+17,Total,32,466,50862,9772

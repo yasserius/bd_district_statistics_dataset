@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Gangni,10,10,0,20,80
-4,Mujibnagar,1,1,0,1,2
-5,Meherpur Sadar,1,1,3,1,5
-6,Total,12,12,3,22,87
+1,Meherpur,,,,,
+2,,,,,,
+3,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Gangni,10,10,0,20,80
+5,Mujibnagar,1,1,0,1,2
+6,Meherpur Sadar,1,1,3,1,5
+7,Total,12,12,3,22,87

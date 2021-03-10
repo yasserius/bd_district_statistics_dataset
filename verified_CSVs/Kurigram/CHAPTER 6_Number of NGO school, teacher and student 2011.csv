@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of NGO school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of NGO school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Bhurungamari,58,0,58,58,865,1560,2425,42
-4,Char Rajibpur,13,0,13,13,131,250,381,29
-5,Chilmari,33,43,10,53,505,1105,1610,30
-6,Kurigram Sadar,3,12,4,16,215,220,435,27
-7,Nageshwari,68,0,68,68,1230,1625,2855,42
-8,Phulbari,56,0,56,56,645,983,1628,29
-9,Rajarhat,2,24,35,59,712,598,1310,22
-10,Raumari,248,0,248,248,3515,3925,7440,30
-11,Ulipur,155,0,155,155,1550,3100,4650,30
-12,Total,636,79,647,726,9368,13366,22734,33
+1,Kurigram,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of NGO school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Bhurungamari,58,0,58,58,865,1560,2425,42
+5,Char Rajibpur,13,0,13,13,131,250,381,29
+6,Chilmari,33,43,10,53,505,1105,1610,30
+7,Kurigram Sadar,3,12,4,16,215,220,435,27
+8,Nageshwari,68,0,68,68,1230,1625,2855,42
+9,Phulbari,56,0,56,56,645,983,1628,29
+10,Rajarhat,2,24,35,59,712,598,1310,22
+11,Raumari,248,0,248,248,3515,3925,7440,30
+12,Ulipur,155,0,155,155,1550,3100,4650,30
+13,Total,636,79,647,726,9368,13366,22734,33

@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7
 0,Average price of selected item 2011,,,,,,,
-1,"(Price unit per kg, taka)",,,,,,,
-2,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
-3,Daulotpur,40,34,28,25,30,10,135
-4,Gheor,42,31,24,25,28,12,122
-5,Horirampur,42,32,28,27,35,15,130
-6,Manikganj Sadar,42,32,30,0,33,12,130
-7,Saturia,42,36,28,25,36,12,130
-8,Shibalaya,45,34,28,25,30,12,140
-9,Singair,45,32,30,20,32,12,130
-10,Average,43,33,28,21,32,12,131
+1,Manikganj,,,,,,,
+2,"(Price unit per kg, taka)",,,,,,,
+3,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
+4,Daulotpur,40,34,28,25,30,10,135
+5,Gheor,42,31,24,25,28,12,122
+6,Horirampur,42,32,28,27,35,15,130
+7,Manikganj Sadar,42,32,30,0,33,12,130
+8,Saturia,42,36,28,25,36,12,130
+9,Shibalaya,45,34,28,25,30,12,140
+10,Singair,45,32,30,20,32,12,130
+11,Average,43,33,28,21,32,12,131

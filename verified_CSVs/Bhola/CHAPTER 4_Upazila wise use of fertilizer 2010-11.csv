@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Upazila wise use of fertilizer 2010-11,,,,,
-1,(in metric ton),,,,,
-2,Upazila,UREA,TSP,MP,DAP,Other
-3,Bhola Sadar,6700,1300,800,450,250
-4,Burhanuddin,3915,960,42,150,89
-5,Char Fasson,11900,4475,3400,4090,1075
-6,Daulatkhan,1860,600,210,110,58
-7,Lalmohan,5930,1200,550,170,267
-8,Manpura,1200,90,70,190,40
-9,Tazumuddin,2415,600,300,125,110
-10,Total,27220,7925,4572,4835,1639
+1,Bhola,,,,,
+2,(in metric ton),,,,,
+3,Upazila,UREA,TSP,MP,DAP,Other
+4,Bhola Sadar,6700,1300,800,450,250
+5,Burhanuddin,3915,960,42,150,89
+6,Char Fasson,11900,4475,3400,4090,1075
+7,Daulatkhan,1860,600,210,110,58
+8,Lalmohan,5930,1200,550,170,267
+9,Manpura,1200,90,70,190,40
+10,Tazumuddin,2415,600,300,125,110
+11,Total,27220,7925,4572,4835,1639

@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Number of employee by local Government institution 2011,,,,,
-1,,,,,,
-2,Upazila,City corporation,Municipality,Zila parishad,Upazila parishad,Union parishad
-3,Akkelpur,0,27,0,6,57
-4,Joypurhat sadar,0,61,21,4,95
-5,Kalai,0,29,0,4,8
-6,Khetlal,0,2,0,3,5
-7,Panchbibi,0,29,0,0,8
-8,Total,0,148,21,17,173
+1,Joypurhat,,,,,
+2,,,,,,
+3,Upazila,City corporation,Municipality,Zila parishad,Upazila parishad,Union parishad
+4,Akkelpur,0,27,0,6,57
+5,Joypurhat sadar,0,61,21,4,95
+6,Kalai,0,29,0,4,8
+7,Khetlal,0,2,0,3,5
+8,Panchbibi,0,29,0,0,8
+9,Total,0,148,21,17,173

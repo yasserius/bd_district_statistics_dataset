@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pumpkin, parble (potol) and cabbage 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Pumpkin Area,Pumpkin Production,Parble (potol) Area,Parble (potol) Production,Cabbage Area,Cabbage Production
-3,Gazipur Sadar,48,86,14,17,74,242
-4,Kaliakair,74,185,88,572,160,1208
-5,Kaliganj,132,192,13,22,174,922
-6,Kapashia,33,27,0,0,75,274
-7,Sreepur,23,42,0,0,52,184
-8,Total,310,533,115,611,535,2830
+1,Gazipur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Pumpkin Area,Pumpkin Production,Parble (potol) Area,Parble (potol) Production,Cabbage Area,Cabbage Production
+4,Gazipur Sadar,48,86,14,17,74,242
+5,Kaliakair,74,185,88,572,160,1208
+6,Kaliganj,132,192,13,22,174,922
+7,Kapashia,33,27,0,0,75,274
+8,Sreepur,23,42,0,0,52,184
+9,Total,310,533,115,611,535,2830

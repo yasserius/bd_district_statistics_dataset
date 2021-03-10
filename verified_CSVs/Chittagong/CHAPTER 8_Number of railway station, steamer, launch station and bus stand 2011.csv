@@ -1,20 +1,21 @@
 ,0,1,2,3
 0,"Number of railway station, steamer, launch station and bus stand 2011",,,
-1,,,,
-2,Upazila/City corporation,Railway station,Steamer/launch station,Bus stand
-3,Anowara,0,0,3
-4,Banshkhali,0,3,4
-5,Boalkhali,22,4,22
-6,Chandanaish,1,1,1
-7,Chittagong City Corp.,9,24,62
-8,Fatikchhari,0,0,2
-9,Hathazari,8,0,2
-10,Lohagara,0,0,1
-11,Mirsharai,3,0,8
-12,Patiya,5,0,1
-13,Rangunia,0,0,1
-14,Raozan,0,0,12
-15,Sandwip,0,5,0
-16,Satkania,0,0,0
-17,Sitakunda,6,6,6
-18,Total,54,43,125
+1,Chittagong,,,
+2,,,,
+3,Upazila/City corporation,Railway station,Steamer/launch station,Bus stand
+4,Anowara,0,0,3
+5,Banshkhali,0,3,4
+6,Boalkhali,22,4,22
+7,Chandanaish,1,1,1
+8,Chittagong City Corporation,9,24,62
+9,Fatikchhari,0,0,2
+10,Hathazari,8,0,2
+11,Lohagara,0,0,1
+12,Mirsharai,3,0,8
+13,Patiya,5,0,1
+14,Rangunia,0,0,1
+15,Raozan,0,0,12
+16,Sandwip,0,5,0
+17,Satkania,0,0,0
+18,Sitakunda,6,6,6
+19,Total,54,43,125

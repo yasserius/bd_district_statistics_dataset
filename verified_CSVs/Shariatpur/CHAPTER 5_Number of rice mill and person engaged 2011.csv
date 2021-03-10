@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of rice mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Male,Person engaged - Female,Person engaged - Total
-3,Bhedarganj,4,8,12,20
-4,Damudya,4,16,24,40
-5,Gosairhat,3,15,10,25
-6,Naria,30,60,10,70
-7,Shariatpur Sadar,5,12,20,32
-8,Zanjira,0,0,0,0
-9,Total,46,111,76,187
+1,Shariatpur,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Male,Person engaged - Female,Person engaged - Total
+4,Bhedarganj,4,8,12,20
+5,Damudya,4,16,24,40
+6,Gosairhat,3,15,10,25
+7,Naria,30,60,10,70
+8,Shariatpur Sadar,5,12,20,32
+9,Zanjira,0,0,0,0
+10,Total,46,111,76,187

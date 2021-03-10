@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,"Number of hat-bazar, growth centre, hotel  restaurant 2011",,,,,
-1,,,,,,
-2,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
-3,Dimla,22,12,4,286,1
-4,Domar,8,22,8,175,3
-5,Jaldhaka,26,26,4,270,5
-6,Kishorgonj,30,24,2,129,0
-7,Nilphamary Sadar,42,2,5,42,5
-8,Sayedpur,12,7,2,124,11
-9,Total,140,93,25,1026,25
+1,Nilphamari,,,,,
+2,,,,,,
+3,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
+4,Dimla,22,12,4,286,1
+5,Domar,8,22,8,175,3
+6,Joldhaka,26,26,4,270,5
+7,Kishorgonj,30,24,2,129,0
+8,Nilphamary Sadar,42,2,5,42,5
+9,Sayedpur,12,7,2,124,11
+10,Total,140,93,25,1026,25

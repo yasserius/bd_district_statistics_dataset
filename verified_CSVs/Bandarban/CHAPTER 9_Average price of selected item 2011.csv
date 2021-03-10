@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7
 0,Average price of selected item 2011,,,,,,,
-1,"(Price unit per kg, taka)",,,,,,,
-2,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
-3,Alikadam,50,40,30,22,35,15,140
-4,Bandarban Sadar,32,28,26,23,28,20,110
-5,Lama,45,32,24,0,28,20,142
-6,Naikhongchhari,36,34,24,0,38,13,128
-7,Rowangchhari,0,35,30,0,36,20,130
-8,Ruma,42,32,29,0,44,20,142
-9,Thanchi,0,32,30,0,40,17,140
-10,Average,41,33,28,23,36,18,133
+1,Bandarban,,,,,,,
+2,"(Price unit per kg, taka)",,,,,,,
+3,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
+4,Alikadam,50,40,30,22,35,15,140
+5,Bandarban Sadar,32,28,26,23,28,20,110
+6,Lama,45,32,24,0,28,20,142
+7,Naikhongchhari,36,34,24,0,38,13,128
+8,Rowangchhari,0,35,30,0,36,20,130
+9,Ruma,42,32,29,0,44,20,142
+10,Thanchi,0,32,30,0,40,17,140
+11,Average,41,33,28,23,36,18,133

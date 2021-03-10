@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Length of railway and water way 2011,,,
-1,(Kilometer),,,
-2, Upazila,"Total railway (all broad gage, meter gage  duel gage)",Water way in monsoon (river + canal),Water way round the year (river + canal)
-3,Barlekha,0,31,31
-4,Juri,0,22,5
-5,Kamalganj,16,0,0
-6,Kulaura,45,35,20
-7,Moulvibazar Sadar,0,82,40
-8,Rajnagar,0,0,0
-9,Sreemangal,20,0,0
-10,Total,81,170,96
+1,Moulvibazar,,,
+2,(Kilometer),,,
+3, Upazila,"Total railway (all broad gage, meter gage  duel gage)",Water way in monsoon (river + canal),Water way round the year (river + canal)
+4,Barlekha,0,31,31
+5,Juri,0,22,5
+6,Kamalganj,16,0,0
+7,Kulaura,45,35,20
+8,Moulvibazar Sadar,0,82,40
+9,Rajnagar,0,0,0
+10,Sreemangal,20,0,0
+11,Total,81,170,96

@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Number of different club and store 2011,,,,,,
-1,,,,,,,
-2,Upazila,Cold store,Seed store,Sports club,Cultural club,Science club,Other social club
-3,Araihazar,0,0,15,3,0,2
-4,Bandar,0,0,8,3,1,9
-5,Narayanganj Sadar,8,1,27,30,0,23
-6,Rupganj,0,0,0,1,0,0
-7,Sonargaon,1,0,1,0,0,1
-8,Total,9,1,51,37,1,35
+1,Narayanganj,,,,,,
+2,,,,,,,
+3,Upazila,Cold store,Seed store,Sports club,Cultural club,Science club,Other social club
+4,Araihazar,0,0,15,3,0,2
+5,Bandar,0,0,8,3,1,9
+6,Narayanganj Sadar,8,1,27,30,0,23
+7,Rupganj,0,0,0,1,0,0
+8,Sonargaon,1,0,1,0,0,1
+9,Total,9,1,51,37,1,35

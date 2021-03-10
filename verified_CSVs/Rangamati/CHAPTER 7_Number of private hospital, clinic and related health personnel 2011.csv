@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,,,,,,,
-2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Baghaichhari,0,0,0,0,0,0
-4,Barkal,0,0,0,0,0,0
-5,Belai Chhari,0,0,0,0,0,0
-6,Jurai Chhari,8,0,1,1,4,24
-7,Kaptai,2,75,3,17,0,21
-8,Kawkhali,3,0,0,2,2,14
-9,Langadu,1,30,2,7,4,28
-10,Naniarchar,2,3,0,1,4,6
-11,Rangamati Sadar,1,15,6,9,2,5
-12,Rajasthali,0,0,0,0,0,0
-13,Total,17,123,12,37,16,98
+1,Rangamati,,,,,,
+2,,,,,,,
+3,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Baghaichhari,0,0,0,0,0,0
+5,Barkal,0,0,0,0,0,0
+6,Belai Chhari,0,0,0,0,0,0
+7,Jurai Chhari,8,0,1,1,4,24
+8,Kaptai,2,75,3,17,0,21
+9,Kawkhali,3,0,0,2,2,14
+10,Langadu,1,30,2,7,4,28
+11,Naniarchar,2,3,0,1,4,6
+12,Rangamati Sadar,1,15,6,9,2,5
+13,Rajasthali,0,0,0,0,0,0
+14,Total,17,123,12,37,16,98

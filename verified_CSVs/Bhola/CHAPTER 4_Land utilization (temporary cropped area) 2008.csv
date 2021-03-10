@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Land utilization (temporary cropped area) 2008,,,,,,
-1,,,,,,,
-2, Upazila,Current fallow,Temporary Cropped area - Single,Temporary Cropped area - Double,Temporary Cropped area - Triple,Temporary Cropped area - Net,Temporary Cropped area - Gross
-3,Bhola Sadar,35,4115,36225,24466,46966,109328
-4,Burhanuddin,224,7665,20656,16237,27956,50497
-5,Char Fasson,71,53300,101180,15816,73753,148113
-6,Daulatkhan,237,13000,27893,1560,15653,37175
-7,Lalmohan,117,8899,24596,20457,33889,65559
-8,Manpura,100,12000,14445,1300,14016,25270
-9,Tazumuddin,253,8912,14322,4117,15430,37707
-10,Total,1037,107891,239317,83953,228163,473649
+1,Bhola,,,,,,
+2,,,,,,,
+3, Upazila,Current fallow,Temporary Cropped area - Single,Temporary Cropped area - Double,Temporary Cropped area - Triple,Temporary Cropped area - Net,Temporary Cropped area - Gross
+4,Bhola Sadar,35,4115,36225,24466,46966,109328
+5,Burhanuddin,224,7665,20656,16237,27956,50497
+6,Char Fasson,71,53300,101180,15816,73753,148113
+7,Daulatkhan,237,13000,27893,1560,15653,37175
+8,Lalmohan,117,8899,24596,20457,33889,65559
+9,Manpura,100,12000,14445,1300,14016,25270
+10,Tazumuddin,253,8912,14322,4117,15430,37707
+11,Total,1037,107891,239317,83953,228163,473649

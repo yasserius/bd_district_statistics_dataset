@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,Daily average wage rate of non-agricultural labour 2011,,,,,
-1,(Wage in taka),,,,,
-2,Upazila 1,Porter (kuli) 2,Garden Labour (Male) 3,Garden Labour (Female) 4,Other Labour (Adult) 5,Other Labour (Child) 6
-3,Atgharia,250,250,150,250,120
-4,Bera,250,250,140,300,150
-5,Bhangura,300,250,140,200,150
-6,Chatmohar,285,300,150,135,150
-7,Faridpur,350,250,150,250,100
-8,Ishwardi,400,350,250,300,160
-9,Pabna Sadar,300,350,150,300,120
-10,Santhia,300,300,150,250,150
-11,Sujanagar,300,300,150,250,150
-12,Average,304,300,159,250,150
+1,Pabna,,,,,
+2,(Wage in taka),,,,,
+3,Upazila 1,Porter (kuli) 2,Garden Labour (Male) 3,Garden Labour (Female) 4,Other Labour (Adult) 5,Other Labour (Child) 6
+4,Atgharia,250,250,150,250,120
+5,Bera,250,250,140,300,150
+6,Bhangura,300,250,140,200,150
+7,Chatmohar,285,300,150,135,150
+8,Faridpur,350,250,150,250,100
+9,Ishwardi,400,350,250,300,160
+10,Pabna Sadar,300,350,150,300,120
+11,Santhia,300,300,150,250,150
+12,Sujanagar,300,300,150,250,150
+13,Average,304,300,159,250,150

@@ -1,20 +1,21 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Government college, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila/City corporation,Number of college,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Anowara,0,0,0,0,0,0,0,0
-4,Banshkhali,0,0,0,0,0,0,0,0
-5,Boalkhali,1,28,7,35,1305,1110,2415,69
-6,Chandanaish,1,19,7,26,1458,1382,2840,109
-7,Chittagong City Corp.,8,395,150,545,28101,21180,49281,90
-8,Fatikchhari,0,0,0,0,0,0,0,0
-9,Hathazari,0,0,0,0,0,0,0,0
-10,Lohagara,0,0,0,0,0,0,0,0
-11,Mirsharai,0,0,0,0,0,0,0,0
-12,Patiya,1,32,20,52,851,720,1571,30
-13,Rangunia,0,0,0,0,0,0,0,0
-14,Raozan,0,0,0,0,0,0,0,0
-15,Sandwip,1,21,0,21,650,820,1470,70
-16,Satkania,1,20,10,30,1079,1012,2091,70
-17,Sitakunda,1,27,5,32,300,0,300,9
-18,Total,14,542,199,741,33744,26224,59968,81
+1,Chittagong,,,,,,,,
+2,,,,,,,,,
+3, Upazila/City corporation,Number of college,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Anowara,0,0,0,0,0,0,0,0
+5,Banshkhali,0,0,0,0,0,0,0,0
+6,Boalkhali,1,28,7,35,1305,1110,2415,69
+7,Chandanaish,1,19,7,26,1458,1382,2840,109
+8,Chittagong City Corporation,8,395,150,545,28101,21180,49281,90
+9,Fatikchhari,0,0,0,0,0,0,0,0
+10,Hathazari,0,0,0,0,0,0,0,0
+11,Lohagara,0,0,0,0,0,0,0,0
+12,Mirsharai,0,0,0,0,0,0,0,0
+13,Patiya,1,32,20,52,851,720,1571,30
+14,Rangunia,0,0,0,0,0,0,0,0
+15,Raozan,0,0,0,0,0,0,0,0
+16,Sandwip,1,21,0,21,650,820,1470,70
+17,Satkania,1,20,10,30,1079,1012,2091,70
+18,Sitakunda,1,27,5,32,300,0,300,9
+19,Total,14,542,199,741,33744,26224,59968,81

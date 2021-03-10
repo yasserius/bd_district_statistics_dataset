@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Number of bridge, baily bridge, culvert, pool, shako and others 2011",,,,,,
-1,,,,,,,
-2,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
-3,Atrai,5,1,65,8,7,0
-4,Badalgachhi,16,1,446,0,0,0
-5,Dhamoirhat,18,2,441,0,3,0
-6,Manda,46,1,440,7,9,0
-7,Mahadebpur,31,2,417,0,1,0
-8,Naogaon sadar,83,1,294,0,0,0
-9,Niamatpur,10,2,649,0,10,0
-10,Patnitala,3,0,877,1,0,3
-11,Porsha,0,0,470,0,1,0
-12,Raninagar,30,0,250,40,9,0
-13,Sapahar,21,0,450,0,10,0
-14,Total,263,10,4799,56,50,3
+1,Naogaon,,,,,,
+2,,,,,,,
+3,Upazila,Bridge,Baily bridge,Culvert,Pool,Shako,Others
+4,Atrai,5,1,65,8,7,0
+5,Badalgachhi,16,1,446,0,0,0
+6,Dhamoirhat,18,2,441,0,3,0
+7,Manda,46,1,440,7,9,0
+8,Mahadebpur,31,2,417,0,1,0
+9,Naogaon sadar,83,1,294,0,0,0
+10,Niamatpur,10,2,649,0,10,0
+11,Patnitala,3,0,877,1,0,3
+12,Porsha,0,0,470,0,1,0
+13,Raninagar,30,0,250,40,9,0
+14,Sapahar,21,0,450,0,10,0
+15,Total,263,10,4799,56,50,3

@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of lentil (masur), mug and maize crops 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Lentil (Masur) Area,Lentil (Masur) Production,Mug Area,Mug Production,Maize Area,Maize Production
-3,Atwari,6.3,1.45,15.8,5.54,1380,3049
-4,Boda,180,36,51,10,500,750
-5,Debiganj,67,29.88,0,0,1586,3005
-6,Panchagarh Sadar,32,8,60,11,968,2754
-7,Tentulia,0,0,0,0,690,1715
-8,Total,285.3,75.33,126.8,26.54,5124,11273
+1,Panchagor,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Lentil (Masur) Area,Lentil (Masur) Production,Mug Area,Mug Production,Maize Area,Maize Production
+4,Atwari,6.3,1.45,15.8,5.54,1380,3049
+5,Boda,180,36,51,10,500,750
+6,Debiganj,67,29.88,0,0,1586,3005
+7,Panchagarh Sadar,32,8,60,11,968,2754
+8,Tentulia,0,0,0,0,690,1715
+9,Total,285.3,75.33,126.8,26.54,5124,11273

@@ -1,6 +1,7 @@
 ,0,1,2,3,4
 0,Number of money exchange agency 2011,,,,
-1,,,,,
-2,Upazila/city corporation,Number of money exchange shop,Number of employee,Annual transactions per money exchange shop (In lac tk.),Annual profit per shop (In lac tk.)
-3,Barisal city corporation,3,12,2050,8
-4,Total,3,12,2050,8
+1,Barisal,,,,
+2,,,,,
+3,Upazila/city corporation,Number of money exchange shop,Number of employee,Annual transactions per money exchange shop (In lac tk.),Annual profit per shop (In lac tk.)
+4,Barisal city corporation,3,12,2050,8
+5,Total,3,12,2050,8

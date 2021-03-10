@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of secondary school  college (operating jointly), teacher and student by municipality,  city corporation 2011",,,,,,,,
-1,,,,,,,,,
-2,Municipality /city corporation,Number of institution,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Badarganj,0,0,0,0,0,0,0,0
-4,Haragach,0,0,0,0,0,0,0,0
-5,Rangpur,15,431,259,690,9436,7819,17255,25
-6,Total,15,431,259,690,9436,7819,17255,25
+1,Rangpur,,,,,,,,
+2,,,,,,,,,
+3,Municipality /city corporation,Number of institution,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Badarganj,0,0,0,0,0,0,0,0
+5,Haragach,0,0,0,0,0,0,0,0
+6,Rangpur,15,431,259,690,9436,7819,17255,25
+7,Total,15,431,259,690,9436,7819,17255,25

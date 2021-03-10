@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Daulotpur,3,3,24,27
-4,Gheor,3,3,12,15
-5,Horirampur,9,9,20,29
-6,Manikganj Sadar,24,30,90,120
-7,Saturia,42,45,90,140
-8,Shibalaya,6,7,17,24
-9,Singair,4,4,32,36
-10,Total,91,101,285,391
+1,Manikganj,,,,
+2,,,,,
+3, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Daulotpur,3,3,24,27
+5,Gheor,3,3,12,15
+6,Horirampur,9,9,20,29
+7,Manikganj Sadar,24,30,90,120
+8,Saturia,42,45,90,140
+9,Shibalaya,6,7,17,24
+10,Singair,4,4,32,36
+11,Total,91,101,285,391

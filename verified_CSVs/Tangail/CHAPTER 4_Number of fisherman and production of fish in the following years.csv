@@ -1,17 +1,18 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in the following years,,,,
-1,(Production in metric tons),,,,
-2,Upazila,2010-11 Number,2010-11 Production,2009-10 Number,2009-10 Production
-3,Basail,1170,1115,1170,983
-4,Bhuapur,2117,2037.48,1998,2013.47
-5,Delduar,1550,2659,1515,2283
-6,Dhanbari,600,1950,600,1765
-7,Ghatail,348,2990.10,384,2686.28
-8,Gopalpur,7650,2921.73,7650,2915.26
-9,Kalihati,3600,7238.67,3565,6517.44
-10,Madhupur,750,3610,750,3104
-11,Mirzapur,1800,826,1700,821
-12,Nagarpur,859,3860,859,3460
-13,Sakhipur,230,2994.14,230,2988
-14,Tangail Sadar,2600,17438.95,2600,1108.11
-15,Total,23274,49641.07,23021,30644.56
+1,Tangail,,,,
+2,(Production in metric tons),,,,
+3,Upazila,2010-11 Number,2010-11 Production,2009-10 Number,2009-10 Production
+4,Basail,1170,1115,1170,983
+5,Bhuapur,2117,2037.48,1998,2013.47
+6,Delduar,1550,2659,1515,2283
+7,Dhanbari,600,1950,600,1765
+8,Ghatail,348,2990.10,384,2686.28
+9,Gopalpur,7650,2921.73,7650,2915.26
+10,Kalihati,3600,7238.67,3565,6517.44
+11,Madhupur,750,3610,750,3104
+12,Mirzapur,1800,826,1700,821
+13,Nagarpur,859,3860,859,3460
+14,Sakhipur,230,2994.14,230,2988
+15,Tangail Sadar,2600,17438.95,2600,1108.11
+16,Total,23274,49641.07,23021,30644.56

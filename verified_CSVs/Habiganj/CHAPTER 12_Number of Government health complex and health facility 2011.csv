@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Government health complex and health facility 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of technician,Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
-3,Azmirigonj,0,0,0,0,0,0,0,0,0,0
-4,Bahubal,1,31,9,5,1,63,2463,2580,23148,52200
-5,Baniachang,1,31,10,3,4,15,970,895,1020,980
-6,Chunarughat,2,50,7,7,3,126,2500,4000,3500,5500
-7,Habiganj Sadar,2,100,40,61,6,62,3937,4475,16760,21509
-8,Lakhai,16,31,3,2,3,58,1231,1101,12667,2216
-9,Madhabpur,1,31,12,5,1,133,2185,4345,19218,29576
-10,Nabiganj,12,31,12,3,4,133,2173,3107,20206,24370
-11,Total,35,305,93,86,22,590,15459,20503,96519,136351
+1,Habiganj,,,,,,,,,,
+2,,,,,,,,,,,
+3,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of technician,Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
+4,Azmirigonj,0,0,0,0,0,0,0,0,0,0
+5,Bahubal,1,31,9,5,1,63,2463,2580,23148,52200
+6,Baniachang,1,31,10,3,4,15,970,895,1020,980
+7,Chunarughat,2,50,7,7,3,126,2500,4000,3500,5500
+8,Habiganj Sadar,2,100,40,61,6,62,3937,4475,16760,21509
+9,Lakhai,16,31,3,2,3,58,1231,1101,12667,2216
+10,Madhabpur,1,31,12,5,1,133,2185,4345,19218,29576
+11,Nabiganj,12,31,12,3,4,133,2173,3107,20206,24370
+12,Total,35,305,93,86,22,590,15459,20503,96519,136351

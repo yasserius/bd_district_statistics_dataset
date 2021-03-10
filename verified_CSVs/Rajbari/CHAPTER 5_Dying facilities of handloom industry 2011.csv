@@ -1,10 +1,11 @@
 ,0,1,2,3
 0,Dying facilities of handloom industry 2011,,,
-1,,,,
-2,Upazila,With dying facility,Without dying facility,Total
-3,Baliakandi,34,0,34
-4,Goalanda,0,0,0
-5,Kalukhali,420,180,600
-6,Pangsha,600,264,864
-7,Rajbari Sadar,100,75,175
-8,Total,1154,519,1673
+1,Rajbari,,,
+2,,,,
+3,Upazila,With dying facility,Without dying facility,Total
+4,Baliakandi,34,0,34
+5,Goalanda,0,0,0
+6,Kalukhali,420,180,600
+7,Pangsha,600,264,864
+8,Rajbari Sadar,100,75,175
+9,Total,1154,519,1673

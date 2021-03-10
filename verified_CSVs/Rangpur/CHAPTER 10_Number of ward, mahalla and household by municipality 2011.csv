@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5
 0,"Number of ward, mahalla and household by municipality 2011",,,,,
-1,,,,,,
-2,Municipality /city corporation,Name of municipality,Total ward,Total mahalla,Total holding,Total household
-3,Badarganj,Badarganj,9,12,6189,6189
-4,Gangachara,-,0,0,0,0
-5,Kaunia,Haragach,9,78,14714,14714
-6,Mithapukur,-,0,0,0,0
-7,Pirgachha,-,0,0,0,0
-8,Pirganj,-,0,0,0,0
-9,Rangpur,Rangpur,15,109,64885,64885
-10,Taraganj,-,0,0,0,0
-11,Total,,33,199,85788,85788
+1,Rangpur,,,,,
+2,,,,,,
+3,Municipality /city corporation,Name of municipality,Total ward,Total mahalla,Total holding,Total household
+4,Badarganj,Badarganj,9,12,6189,6189
+5,Gangachara,-,0,0,0,0
+6,Kaunia,Haragach,9,78,14714,14714
+7,Mithapukur,-,0,0,0,0
+8,Pirgachha,-,0,0,0,0
+9,Pirganj,-,0,0,0,0
+10,Rangpur,Rangpur,15,109,64885,64885
+11,Taraganj,-,0,0,0,0
+12,Total,,33,199,85788,85788

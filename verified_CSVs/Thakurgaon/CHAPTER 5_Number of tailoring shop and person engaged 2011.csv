@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of tailoring shop and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Baliadangi,225,450,182,632
-4,Haripur,100,100,200,300
-5,Pirgonj,80,80,240,320
-6,Ranisankail,350,350,900,1250
-7,Thakurgaon Sadar,810,860,2450,3310
-8,Total,1565,1840,3972,5812
+1,Thakurgaon,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Baliadangi,225,450,182,632
+5,Haripur,100,100,200,300
+6,Pirgonj,80,80,240,320
+7,Ranisankail,350,350,900,1250
+8,Thakurgaon Sadar,810,860,2450,3310
+9,Total,1565,1840,3972,5812

@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of jackfruit, banana and pineapple 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Jackfruit Area,Jackfruit Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
-3,Bhandaria,29,70,1250,2625,3,3
-4,Kawkhali,10,15,670,1340,0,0
-5,Mathbaria,0,0,407,2275,38,89
-6,Nazirpur,106,6,125,131,0,0
-7,Nesarabad,11,171,24,59,3,4
-8,Pirojpur Sadar,20,494,70,350,0,0
-9,Zianagar,5,165,345,2760,0,0
-10,Total,181,922,2891,9540,43,97
+1,Pirojpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Jackfruit Area,Jackfruit Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
+4,Bhandaria,29,70,1250,2625,3,3
+5,Kawkhali,10,15,670,1340,0,0
+6,Mathbaria,0,0,407,2275,38,89
+7,Nazirpur,106,6,125,131,0,0
+8,Nesarabad,11,171,24,59,3,4
+9,Pirojpur Sadar,20,494,70,350,0,0
+10,Zianagar,5,165,345,2760,0,0
+11,Total,181,922,2891,9540,43,97

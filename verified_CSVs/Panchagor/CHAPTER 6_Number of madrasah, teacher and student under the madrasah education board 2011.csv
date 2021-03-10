@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of madrasah, teacher and student under the madrasah education board 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila,Number of madrasah,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Atwari,13,204,17,221,3895,1497,5392,24
-4,Boda,36,240,62,302,4502,2085,6587,22
-5,Debiganj,11,132,21,153,970,530,1500,10
-6,Panchagarh Sadar,23,307,56,363,3918,4002,7920,22
-7,Tentulia,11,136,21,157,1132,855,1987,13
-8,Total,94,1019,177,1196,14417,8969,23386,20
+1,Panchagor,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of madrasah,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Atwari,13,204,17,221,3895,1497,5392,24
+5,Boda,36,240,62,302,4502,2085,6587,22
+6,Debiganj,11,132,21,153,970,530,1500,10
+7,Panchagarh Sadar,23,307,56,363,3918,4002,7920,22
+8,Tentulia,11,136,21,157,1132,855,1987,13
+9,Total,94,1019,177,1196,14417,8969,23386,20

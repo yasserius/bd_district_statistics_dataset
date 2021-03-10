@@ -1,10 +1,11 @@
 ,0,1,2,3
 0,Length of embankment road  canal 2011,,,
-1,(Kilometer),,,
-2,Upazila,Embankment road,Canal,Others road
-3,Aditmari,0,5,20
-4,Hatibandha,27,0,0
-5,Kaligonj,73,50,34
-6,Lalmonirhat Sadar,21,2,36
-7,Patgram,0,0,0
-8,Total,121,57,90
+1,Lalmonirhat,,,
+2,(Kilometer),,,
+3,Upazila,Embankment road,Canal,Others road
+4,Aditmari,0,5,20
+5,Hatibandha,27,0,0
+6,Kaligonj,73,50,34
+7,Lalmonirhat Sadar,21,2,36
+8,Patgram,0,0,0
+9,Total,121,57,90

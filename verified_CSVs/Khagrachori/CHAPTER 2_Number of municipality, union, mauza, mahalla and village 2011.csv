@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Number of municipality, union, mauza, mahalla and village 2011",,,,,,
-1,,,,,,,
-2,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
-3,Dighinala,0,0,0,5,20,245
-4,Khagrachhari Sadar,1,9,73,5,13,246
-5,Laxshmichhari,0,0,0,3,16,134
-6,Mahalchhari,0,0,0,5,13,196
-7,Manikchhari,0,0,0,4,12,160
-8,Matiranga,1,9,53,8,27,365
-9,Panchhari,0,0,0,5,7,220
-10,Ramgarh,1,9,29,3,12,136
-11,Total,3,27,155,38,120,1706
+1,Khagrachori,,,,,,
+2,,,,,,,
+3,Upazila,Municipality,Ward (PSA),Mahalla,Union,Mauza,Village
+4,Dighinala,0,0,0,5,20,245
+5,Khagrachori,1,9,73,5,13,246
+6,Laxshmichhari,0,0,0,3,16,134
+7,Mahalchhari,0,0,0,5,13,196
+8,Manikchhari,0,0,0,4,12,160
+9,Matiranga,1,9,53,8,27,365
+10,Panchhari,0,0,0,5,7,220
+11,Ramgarh,1,9,29,3,12,136
+12,Total,3,27,155,38,120,1706

@@ -1,21 +1,22 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,,,,
-2,Upazila,Number of power tiller,Tractor,Number of threshing machine
-3,Adarsha Sadar,145,65,1320
-4,Barura,66,273,9610
-5,Brahmanpara,140,60,12600
-6,Burichang,86,51,680
-7,Chandina,137,48,4449
-8,Chauddagram,92,251,1716
-9,Comilla Sadar Dakshin,130,255,22500
-10,Daudkandi,60,89,1756
-11,Debidwar,80,120,3030
-12,Homna,140,145,1000
-13,Laksam,125,2,1500
-14,Monoharganj,111,60,3013
-15,Meghna,120,2,250
-16,Muradnagar,310,275,780
-17,Nangalkot,295,45,1150
-18,Titas,175,3,660
-19,Total,2212,1744,66014
+1,Comilla,,,
+2,,,,
+3,Upazila,Number of power tiller,Tractor,Number of threshing machine
+4,Adarsha Sadar,145,65,1320
+5,Barura,66,273,9610
+6,Brahmanpara,140,60,12600
+7,Burichang,86,51,680
+8,Chandina,137,48,4449
+9,Chauddagram,92,251,1716
+10,Comilla Sadar Dakshin,130,255,22500
+11,Daudkandi,60,89,1756
+12,Debidwar,80,120,3030
+13,Homna,140,145,1000
+14,Laksam,125,2,1500
+15,Monoharganj,111,60,3013
+16,Meghna,120,2,250
+17,Muradnagar,310,275,780
+18,Nangalkot,295,45,1150
+19,Titas,175,3,660
+20,Total,2212,1744,66014

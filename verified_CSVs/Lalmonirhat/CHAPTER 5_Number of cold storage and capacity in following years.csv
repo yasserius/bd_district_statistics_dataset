@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of cold storage and capacity in following years,,,,
-1,(Capacity in metric ton),,,,
-2, Upazila,2010-11 - Number,2010-11 - Installed capacity,2009-10 - Number,2009-10 - Installed capacity
-3,Aditmari,2,39500,1,19500
-4,Hatibandha,0,0,0,0
-5,Kaligonj,0,0,0,0
-6,Lalmonirhat Sadar,4,61000,2,34000
-7,Patgram,0,0,0,0
-8,Total,6,100500,3,53500
+1,Lalmonirhat,,,,
+2,(Capacity in metric ton),,,,
+3, Upazila,2010-11 - Number,2010-11 - Installed capacity,2009-10 - Number,2009-10 - Installed capacity
+4,Aditmari,2,39500,1,19500
+5,Hatibandha,0,0,0,0
+6,Kaligonj,0,0,0,0
+7,Lalmonirhat Sadar,4,61000,2,34000
+8,Patgram,0,0,0,0
+9,Total,6,100500,3,53500

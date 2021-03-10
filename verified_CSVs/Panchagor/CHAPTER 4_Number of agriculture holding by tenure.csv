@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
-1,(According to Agriculture Census 2008),,,,
-2,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
-3,Atwari,29472,18658,9015,1799
-4,Boda,34128,19077,13386,1665
-5,Debiganj,32913,14789,15335,2789
-6,Panchagarh Sadar,34135,33482,14862,5834
-7,Tentulia,15782,9876,5643,263
-8,Total,166473,95882,58241,12350
+1,Panchagor,,,,
+2,(According to Agriculture Census 2008),,,,
+3,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
+4,Atwari,29472,18658,9015,1799
+5,Boda,34128,19077,13386,1665
+6,Debiganj,32913,14789,15335,2789
+7,Panchagarh Sadar,34135,33482,14862,5834
+8,Tentulia,15782,9876,5643,263
+9,Total,166473,95882,58241,12350

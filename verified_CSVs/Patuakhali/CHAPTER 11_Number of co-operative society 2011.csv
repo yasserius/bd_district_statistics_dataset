@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,,,,
-2,Upazila,Number,Number of employee,Number of client
-3,Bauphal,284,50,6500
-4,Dashmina,130,150,6250
-5,Dumki,53,79,4728
-6,Galachipa,280,25,11200
-7,Kalapara,17,102,5425
-8,Mirzaganj,265,420,1100
-9,Patuakhali Sadar,507,82,13620
-10,Total,1536,908,48823
+1,Patuakhali,,,
+2,,,,
+3,Upazila,Number,Number of employee,Number of client
+4,Bauphal,284,50,6500
+5,Dashmina,130,150,6250
+6,Dumki,53,79,4728
+7,Galachipa,280,25,11200
+8,Kalapara,17,102,5425
+9,Mirzaganj,265,420,1100
+10,Patuakhali Sadar,507,82,13620
+11,Total,1536,908,48823

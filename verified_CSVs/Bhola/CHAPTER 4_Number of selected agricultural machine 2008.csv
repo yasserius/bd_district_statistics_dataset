@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,,,,
-2, Upazila, Number of power tiller, Tractor,Number of threshing machine
-3,Bhola Sadar,220,27,333
-4,Burhanuddin,287,66,231
-5,Char Fasson,1050,56,1258
-6,Daulatkhan,68,12,20
-7,Lalmohan,150,18,200
-8,Manpura,9,5,33
-9,Tazumuddin,65,1,25
-10,Total,1849,185,2100
+1,Bhola,,,
+2,,,,
+3, Upazila, Number of power tiller, Tractor,Number of threshing machine
+4,Bhola Sadar,220,27,333
+5,Burhanuddin,287,66,231
+6,Char Fasson,1050,56,1258
+7,Daulatkhan,68,12,20
+8,Lalmohan,150,18,200
+9,Manpura,9,5,33
+10,Tazumuddin,65,1,25
+11,Total,1849,185,2100

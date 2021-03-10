@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,,,,,,
-2, Upazila,Police personnel,Ansar personnel,VDP personnel,Autonomous Bodies,Local Government Employees
-3,Austagram,29,396,5776,10,127
-4,Bajitpur,47,516,8960,0,329
-5,Bhairab,46,78,10253,1,62
-6,Hossainpur,47,224,6144,2,13
-7,Itna,29,388,6912,235,102
-8,Karimganj,0,220,55,0,32
-9,Katiadi,37,552,9000,96,24
-10,Kishoreganj Sadar,58,484,11520,30,450
-11,Kuliar-char,32,162,24,8,12
-12,Mithamain,20,324,6805,8,21
-13,Nikli,36,172,8199,5,84
-14,Pakundia,38,452,9920,22,31
-15,Tarail,42,356,8348,0,70
-16,Total,461,4324,91916,417,1357
+1,Kishoreganj,,,,,
+2,,,,,,
+3, Upazila,Police personnel,Ansar personnel,VDP personnel,Autonomous Bodies,Local Government Employees
+4,Austagram,29,396,5776,10,127
+5,Bajitpur,47,516,8960,0,329
+6,Bhairab,46,78,10253,1,62
+7,Hossainpur,47,224,6144,2,13
+8,Itna,29,388,6912,235,102
+9,Karimganj,0,220,55,0,32
+10,Katiadi,37,552,9000,96,24
+11,Kishoreganj Sadar,58,484,11520,30,450
+12,Kuliar-char,32,162,24,8,12
+13,Mithamain,20,324,6805,8,21
+14,Nikli,36,172,8199,5,84
+15,Pakundia,38,452,9920,22,31
+16,Tarail,42,356,8348,0,70
+17,Total,461,4324,91916,417,1357

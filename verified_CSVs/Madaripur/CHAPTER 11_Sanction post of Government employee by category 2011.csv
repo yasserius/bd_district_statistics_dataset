@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,Sanction post of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
-3,Kalkini,48,34,456,154,625
-4,Madaripur Sadar,46,50,616,131,843
-5,Rajoir,41,24,329,117,511
-6,Shibchar,81,28,495,175,779
-7,Total,216,136,1896,577,2758
+1,Madaripur,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
+4,Kalkini,48,34,456,154,625
+5,Madaripur Sadar,46,50,616,131,843
+6,Rajoir,41,24,329,117,511
+7,Shibchar,81,28,495,175,779
+8,Total,216,136,1896,577,2758

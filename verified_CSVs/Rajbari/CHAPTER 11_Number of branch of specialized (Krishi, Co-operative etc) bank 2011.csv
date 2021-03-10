@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,"Number of branch of specialized (Krishi, Co-operative etc) bank 2011",,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Baliakandi,2,15,8331,130
-4,Goalanda,1,9,5595,170
-5,Kalukhali,2,14,23321,144
-6,Pangsha,3,22,14315,207
-7,Rajbari Sadar,5,46,9223,205
-8,Total,13,106,60785,856
+1,Rajbari,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Baliakandi,2,15,8331,130
+5,Goalanda,1,9,5595,170
+6,Kalukhali,2,14,23321,144
+7,Pangsha,3,22,14315,207
+8,Rajbari Sadar,5,46,9223,205
+9,Total,13,106,60785,856

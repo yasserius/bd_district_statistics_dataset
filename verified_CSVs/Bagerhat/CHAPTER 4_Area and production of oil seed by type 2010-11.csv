@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Area and production of oil seed by type 2010-11,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Rape  mustard - Area,Rape  mustard - Production,Ground nut - Area,Ground nut - Production,Til - Area,Til - Production
-3,Bagerhat Sadar,32,325,0,0,6,2
-4,Kachua,0,0,0,0,0,0
-5,Rampal,0,0,0,0,0,0
-6,Sarankhola,39,21,0,0,0,0
-7,Chitalmari,0,0,18,11,54,18
-8,Morrelgonj,14,4,0,0,0,0
-9,Mongla,0,0,0,0,0,0
-10,Mollahat,910,332,10,10,630,208
-11,Fakirhat,33,8,0,0,25,14
-12,Total,1028,690,28,21,715,241
+1,Bagerhat,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Rape  mustard - Area,Rape  mustard - Production,Ground nut - Area,Ground nut - Production,Til - Area,Til - Production
+4,Bagerhat Sadar,32,325,0,0,6,2
+5,Kachua,0,0,0,0,0,0
+6,Rampal,0,0,0,0,0,0
+7,Sharonkhola,39,21,0,0,0,0
+8,Chitolmari,0,0,18,11,54,18
+9,Morrelgonj,14,4,0,0,0,0
+10,Mongla,0,0,0,0,0,0
+11,Mollahat,910,332,10,10,630,208
+12,Fakirhat,33,8,0,0,25,14
+13,Total,1028,690,28,21,715,241

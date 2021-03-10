@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Government health complex and health facility 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of    technician, Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
-3,Begumganj,1,10,2,6,1,11,940,905,3036,1557
-4,Chatkhil,1,50,19,10,7,110,2312,3545,25464,39560
-5,Companiganj,1,50,16,15,6,77,9427,8747,42576,39301
-6,Hatiya,1,50,7,5,2,113,1970,1712,15932,21235
-7,Kabirhat,2,20,13,4,4,54,2000,3200,9000,11000
-8,Noakhali Sadar,5,250,107,153,11,27,18000,19500,32085,36028
-9,Senbagh,1,50,14,7,8,86,1582,1788,20493,13107
-10,Sonaimuri,1,50,20,6,4,86,4520,4046,55791,64740
-11,Subarnachar,1,50,26,15,6,87,2147,3112,5236,7227
-12,Total,14,580,224,221,49,651,42898,46555,209613,233755
+1,Noakhali,,,,,,,,,,
+2,,,,,,,,,,,
+3,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of doctor, Number of nurse, Number of    technician, Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
+4,Begumganj,1,10,2,6,1,11,940,905,3036,1557
+5,Chatkhil,1,50,19,10,7,110,2312,3545,25464,39560
+6,Companiganj,1,50,16,15,6,77,9427,8747,42576,39301
+7,Hatiya,1,50,7,5,2,113,1970,1712,15932,21235
+8,Kabirhat,2,20,13,4,4,54,2000,3200,9000,11000
+9,Noakhali Sadar,5,250,107,153,11,27,18000,19500,32085,36028
+10,Senbagh,1,50,14,7,8,86,1582,1788,20493,13107
+11,Sonaimuri,1,50,20,6,4,86,4520,4046,55791,64740
+12,Subarnachar,1,50,26,15,6,87,2147,3112,5236,7227
+13,Total,14,580,224,221,49,651,42898,46555,209613,233755

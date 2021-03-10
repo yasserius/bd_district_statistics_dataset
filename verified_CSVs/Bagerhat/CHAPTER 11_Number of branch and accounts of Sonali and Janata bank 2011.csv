@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Sonali and Janata bank 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Sonali bank - Number of branch,Sonali bank - Account - S.D,Sonali bank - Account - C.D,Sonali bank - Account - F.D,Sonali bank - Account - S.T.D,Janata bank - Number of branch,Janata bank - Account - S.D,Janata bank - Account - C.D,Janata bank - Account - F.D,Janata bank - Account - S.T.D
-3,Bagerhat Sadar,3,11088,653,137,83,3,13946,1467,562,102
-4,Kachua,1,4436,407,70,47,0,0,0,0,0
-5,Rampal,3,12809,492,334,56,2,12319,408,177,24
-6,Sarankhola,1,7869,397,95,28,1,3098,259,89,15
-7,Chitalmari,1,8734,346,102,37,0,0,0,0,0
-8,Morrelgonj,1,10646,486,275,65,1,716,6,47,1
-9,Mongla,2,8874,521,253,47,2,5368,478,260,29
-10,Mollahat,1,5302,145,74,27,0,0,0,0,0
-11,Fakirhat,1,951,466,121,39,1,228,36,274,12
-12,Total,14,70709,3913,1461,429,10,35675,2654,1409,183
+1,Bagerhat,,,,,,,,,,
+2,,,,,,,,,,,
+3, Upazila,Sonali bank - Number of branch,Sonali bank - Account - S.D,Sonali bank - Account - C.D,Sonali bank - Account - F.D,Sonali bank - Account - S.T.D,Janata bank - Number of branch,Janata bank - Account - S.D,Janata bank - Account - C.D,Janata bank - Account - F.D,Janata bank - Account - S.T.D
+4,Bagerhat Sadar,3,11088,653,137,83,3,13946,1467,562,102
+5,Kachua,1,4436,407,70,47,0,0,0,0,0
+6,Rampal,3,12809,492,334,56,2,12319,408,177,24
+7,Sharonkhola,1,7869,397,95,28,1,3098,259,89,15
+8,Chitolmari,1,8734,346,102,37,0,0,0,0,0
+9,Morrelgonj,1,10646,486,275,65,1,716,6,47,1
+10,Mongla,2,8874,521,253,47,2,5368,478,260,29
+11,Mollahat,1,5302,145,74,27,0,0,0,0,0
+12,Fakirhat,1,951,466,121,39,1,228,36,274,12
+13,Total,14,70709,3913,1461,429,10,35675,2654,1409,183

@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
-1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
-3,Bhandaria,124.36,85,601,811.19
-4,Kawkhali,48,122,236,406
-5,Mathbaria,162,201,620,983
-6,Nazirpur,50,57,372,479
-7,Nesarabad,81.25,160.37,648.38,890
-8,Pirojpur Sadar,50,65,125,240
-9,Zianagar,54,54,172,280
-10,Total,569.61,744.37,2774.38,4089.19
+1,Pirojpur,,,,
+2,(Kilometer),,,,
+3,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
+4,Bhandaria,124.36,85,601,811.19
+5,Kawkhali,48,122,236,406
+6,Mathbaria,162,201,620,983
+7,Nazirpur,50,57,372,479
+8,Nesarabad,81.25,160.37,648.38,890
+9,Pirojpur Sadar,50,65,125,240
+10,Zianagar,54,54,172,280
+11,Total,569.61,744.37,2774.38,4089.19

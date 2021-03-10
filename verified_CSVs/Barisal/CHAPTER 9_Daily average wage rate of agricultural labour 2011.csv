@@ -1,16 +1,17 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
-1,(Rate in taka),,,
-2,Upazila/city corporation,Male,Female,Child (Child means under 15 years old)
-3,Agailjhara,300,250,180
-4,Babuganj,260,230,180
-5,Bakerganj,250,0,120
-6,Banaripara,270,200,100
-7,Barisal city corporation,300,150,200
-8,Barisal sadar,300,150,200
-9,Gaurnadi,275,225,200
-10,Hizla,240,210,120
-11,Mehendiganj,250,150,100
-12,Muladi,280,175,220
-13,Wazirpur,200,150,150
-14,Average,266,172,161
+1,Barisal,,,
+2,(Rate in taka),,,
+3,Upazila/city corporation,Male,Female,Child (Child means under 15 years old)
+4,Agailjhara,300,250,180
+5,Babuganj,260,230,180
+6,Bakerganj,250,0,120
+7,Banaripara,270,200,100
+8,Barisal city corporation,300,150,200
+9,Barisal Sadar,300,150,200
+10,Gaurnadi,275,225,200
+11,Hizla,240,210,120
+12,Mehendiganj,250,150,100
+13,Muladi,280,175,220
+14,Wazirpur,200,150,150
+15,Average,266,172,161

@@ -1,9 +1,10 @@
 ,0,1,2,3
 0,Number of vocational institute by municipality 2011,,,
-1,,,,
-2,Upazila,Number of institution,Number of teacher,Number of student
-3,Bauphal,0,0,0
-4,Galachipa,1,38,265
-5,Kalapara,0,0,0
-6,Patuakhali Sadar,2,40,803
-7,Total,3,78,1068
+1,Patuakhali,,,
+2,,,,
+3,Upazila,Number of institution,Number of teacher,Number of student
+4,Bauphal,0,0,0
+5,Galachipa,1,38,265
+6,Kalapara,0,0,0
+7,Patuakhali Sadar,2,40,803
+8,Total,3,78,1068

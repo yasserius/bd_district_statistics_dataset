@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of household, population and density 2011",,,,,,,
-1,,,,,,,,
-2,Upazila,Household,Population Male,Population Female,Population Total,Sex ratio (M/F),Average size of household,Density per sq. km.
-3,Atwari,32045,66937,55813,133650,100,4.16,637
-4,Boda,56102,116555,115569,232124,101,4.14,664
-5,Debiganj,52411,113120,111589,224709,101,4.28,727
-6,Panchagarh Sadar,60115,136850,134857,271707,101,4.49,783
-7,Tentulia,27908,63463,61991,125454,102,4.48,663
-8,Total,228581,496925,479819,987644,101,4.31,703
+1,Panchagor,,,,,,,
+2,,,,,,,,
+3,Upazila,Household,Population Male,Population Female,Population Total,Sex ratio (M/F),Average size of household,Density per sq. km.
+4,Atwari,32045,66937,55813,133650,100,4.16,637
+5,Boda,56102,116555,115569,232124,101,4.14,664
+6,Debiganj,52411,113120,111589,224709,101,4.28,727
+7,Panchagarh Sadar,60115,136850,134857,271707,101,4.49,783
+8,Tentulia,27908,63463,61991,125454,102,4.48,663
+9,Total,228581,496925,479819,987644,101,4.31,703

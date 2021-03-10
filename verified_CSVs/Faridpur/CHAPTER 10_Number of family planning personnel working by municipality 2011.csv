@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,Number of family planning personnel working by municipality 2011,,,,,
-1,,,,,,
-2, Municipality, Doctor,Family planning inspector,Family planning assistant,Family planning visitor,Midwife/ birth attendant (Dais)
-3,Bhanga,1,0,2,2,1
-4,Boalmari,1,1,3,2,11
-5,Faridpur Sadar,5,1,3,6,23
-6,Nagarkanda,1,1,3,1,2
-7,Total,8,3,11,11,37
+1,Faridpur,,,,,
+2,,,,,,
+3, Municipality, Doctor,Family planning inspector,Family planning assistant,Family planning visitor,Midwife/ birth attendant (Dais)
+4,Bhanga,1,0,2,2,1
+5,Boalmari,1,1,3,2,11
+6,Faridpur Sadar,5,1,3,6,23
+7,Nagarkanda,1,1,3,1,2
+8,Total,8,3,11,11,37

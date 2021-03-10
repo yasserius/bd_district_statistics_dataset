@@ -1,20 +1,21 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kindergarten school (pre schooling), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila/City corporation,Number of kindergarten school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Anowara,7,12,18,30,231,276,507,17
-4,Banshkhali,39,70,86,156,2380,1919,4299,28
-5,Boalkhali,39,85,110,195,1170,1130,2300,12
-6,Chandanaish,17,42,51,93,524,623,1147,12
-7,Chittagong City Corp.,571,1284,2034,3298,56217,55879,112096,34
-8,Fatikchhari,57,171,342,513,4446,4104,8550,17
-9,Hathazari,39,62,94,156,1463,1462,2925,19
-10,Lohagara,5,10,5,15,100,150,250,17
-11,Mirsharai,12,24,38,62,893,997,1890,30
-12,Patiya,40,55,63,118,5630,5310,9940,84
-13,Rangunia,70,20,28,48,2328,2400,4728,99
-14,Raozan,12,99,57,156,1170,592,1762,11
-15,Sandwip,3,15,23,38,1200,1700,2900,76
-16,Satkania,46,24,88,112,1223,1256,2479,22
-17,Sitakunda,54,154,173,327,3497,3640,7137,22
-18,Total,1011,2127,3210,5317,82472,81438,162910,31
+1,Chittagong,,,,,,,,
+2,,,,,,,,,
+3,Upazila/City corporation,Number of kindergarten school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Anowara,7,12,18,30,231,276,507,17
+5,Banshkhali,39,70,86,156,2380,1919,4299,28
+6,Boalkhali,39,85,110,195,1170,1130,2300,12
+7,Chandanaish,17,42,51,93,524,623,1147,12
+8,Chittagong City Corporation,571,1284,2034,3298,56217,55879,112096,34
+9,Fatikchhari,57,171,342,513,4446,4104,8550,17
+10,Hathazari,39,62,94,156,1463,1462,2925,19
+11,Lohagara,5,10,5,15,100,150,250,17
+12,Mirsharai,12,24,38,62,893,997,1890,30
+13,Patiya,40,55,63,118,5630,5310,9940,84
+14,Rangunia,70,20,28,48,2328,2400,4728,99
+15,Raozan,12,99,57,156,1170,592,1762,11
+16,Sandwip,3,15,23,38,1200,1700,2900,76
+17,Satkania,46,24,88,112,1223,1256,2479,22
+18,Sitakunda,54,154,173,327,3497,3640,7137,22
+19,Total,1011,2127,3210,5317,82472,81438,162910,31

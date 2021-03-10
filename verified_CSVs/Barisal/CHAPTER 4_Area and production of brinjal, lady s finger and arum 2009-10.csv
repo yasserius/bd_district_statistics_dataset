@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of brinjal, lady s finger and arum 2009-10",,,,,,
-1,(Area in acre  production in metric ton),,,,,,
-2,Upazila/city corporation,Brinjal Area,Brinjal Production,Ladys finger Area,Ladys finger Production,Arum Area,Arum Production
-3,Agailjhara,22,15.619,53,200,54,200
-4,Babuganj,64,17.26,41,50.08,131,1308
-5,Bakerganj,78,41,17,17,31,53
-6,Banaripara,0,0,0,0,0,0
-7,Barisal city corporation,10,13,4,6,7,14
-8,Barisal sadar,133,167,48,72,91,235
-9,Gaurnadi,212,719.3,36,38,51,74
-10,Hizla,16,16,22,7,0,0
-11,Mehendiganj,28,18.2,35,14.8,16,25
-12,Muladi,13,6.5,67,137.3,22,523
-13,Wazirpur,45,66.645,34,58.5,79,248
-14,Total,621,1080.524,357,600.68,482,2680
+1,Barisal,,,,,,
+2,(Area in acre  production in metric ton),,,,,,
+3,Upazila/city corporation,Brinjal Area,Brinjal Production,Ladys finger Area,Ladys finger Production,Arum Area,Arum Production
+4,Agailjhara,22,15.619,53,200,54,200
+5,Babuganj,64,17.26,41,50.08,131,1308
+6,Bakerganj,78,41,17,17,31,53
+7,Banaripara,0,0,0,0,0,0
+8,Barisal city corporation,10,13,4,6,7,14
+9,Barisal Sadar,133,167,48,72,91,235
+10,Gaurnadi,212,719.3,36,38,51,74
+11,Hizla,16,16,22,7,0,0
+12,Mehendiganj,28,18.2,35,14.8,16,25
+13,Muladi,13,6.5,67,137.3,22,523
+14,Wazirpur,45,66.645,34,58.5,79,248
+15,Total,621,1080.524,357,600.68,482,2680

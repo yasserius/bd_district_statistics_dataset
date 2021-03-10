@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Number of community clinic and person engaged 2011,,,,,,
-1,,,,,,,
-2,Upazila,Number of clinic,Number of health asst.,Number of FPI,Number of FWV,Number of FWA,Number of other staff
-3,Araihazar,22,51,8,11,59,0
-4,Bandar,5,4,6,11,49,20
-5,Narayanganj Sadar,12,30,18,29,91,24
-6,Rupganj,26,62,9,13,70,9
-7,Sonargaon,31,46,14,14,59,36
-8,Total,96,193,55,78,328,89
+1,Narayanganj,,,,,,
+2,,,,,,,
+3,Upazila,Number of clinic,Number of health asst.,Number of FPI,Number of FWV,Number of FWA,Number of other staff
+4,Araihazar,22,51,8,11,59,0
+5,Bandar,5,4,6,11,49,20
+6,Narayanganj Sadar,12,30,18,29,91,24
+7,Rupganj,26,62,9,13,70,9
+8,Sonargaon,31,46,14,14,59,36
+9,Total,96,193,55,78,328,89

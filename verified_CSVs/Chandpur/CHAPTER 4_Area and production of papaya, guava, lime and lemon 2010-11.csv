@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of papaya, guava, lime and lemon 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Papaya - Area,Papaya - Production,Guava - Area,Guava - Production,Lime and lemon - Area,Lime and lemon - Production
-3,Chandpur Sadar,3,25,9,42,7,9
-4,Foridganj,42,459,114,59,75,485
-5,Haimchar,1,66,325,464,3,67
-6,Hajiganj,37,1920,20,137,11,20
-7,Kachua,6,85,16,167,11,75
-8,Matlab Dakshin,19,810,56,91,8,30
-9,Matlab Uttar,22,248,42,54,21,43
-10,Shahrasti,6,39,4,104,6,14
-11,Total,136,3652,586,1118,142,743
+1,Chandpur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Papaya - Area,Papaya - Production,Guava - Area,Guava - Production,Lime and lemon - Area,Lime and lemon - Production
+4,Chandpur Sadar,3,25,9,42,7,9
+5,Foridganj,42,459,114,59,75,485
+6,Haimchar,1,66,325,464,3,67
+7,Hajiganj,37,1920,20,137,11,20
+8,Kachua,6,85,16,167,11,75
+9,Matlab Dakshin,19,810,56,91,8,30
+10,Matlab Uttar,22,248,42,54,21,43
+11,Shahrasti,6,39,4,104,6,14
+12,Total,136,3652,586,1118,142,743

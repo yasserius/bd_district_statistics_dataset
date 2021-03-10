@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of college, teacher and student by municipality 2011",,,,,,,,
-1,,,,,,,,,
-2,Municipality Municipality 1,Number of college Number of college 2,Number of teacher Male 3,Number of teacher Female 4,Number of teacher Total 5,Number of student Male 6,Number of student Female 7,Number of student Total 8,Student per teacher Student per teacher 9
-3,Atgharia,2,60,16,76,674,713,1387,08
-4,Bera,3,62,19,81,1345,899,2244,28
-5,Bhangura,2,55,19,74,1303,989,2292,25
-6,Chatmohar,2,72,17,89,1413,1534,2947,33
-7,Faridpur,2,48,8,56,505,612,1117,24
-8,Ishwardi,3,67,45,112,3045,2809,5854,57
-9,Pabna Sadar,7,236,66,302,16986,9163,26149,81
-10,Santhia,2,68,16,84,635,1008,1643,20
-11,Sujanagar,2,41,10,51,384,502,886,17
-12,Total,25,709,216,925,26290,18229,44519,43
+1,Pabna,,,,,,,,
+2,,,,,,,,,
+3,Municipality Municipality 1,Number of college Number of college 2,Number of teacher Male 3,Number of teacher Female 4,Number of teacher Total 5,Number of student Male 6,Number of student Female 7,Number of student Total 8,Student per teacher Student per teacher 9
+4,Atgharia,2,60,16,76,674,713,1387,08
+5,Bera,3,62,19,81,1345,899,2244,28
+6,Bhangura,2,55,19,74,1303,989,2292,25
+7,Chatmohar,2,72,17,89,1413,1534,2947,33
+8,Faridpur,2,48,8,56,505,612,1117,24
+9,Ishwardi,3,67,45,112,3045,2809,5854,57
+10,Pabna Sadar,7,236,66,302,16986,9163,26149,81
+11,Santhia,2,68,16,84,635,1008,1643,20
+12,Sujanagar,2,41,10,51,384,502,886,17
+13,Total,25,709,216,925,26290,18229,44519,43

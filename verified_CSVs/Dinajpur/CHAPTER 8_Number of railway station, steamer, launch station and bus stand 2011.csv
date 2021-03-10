@@ -1,18 +1,19 @@
 ,0,1,2,3
 0,"Number of railway station, steamer, launch station and bus stand 2011",,,
-1,,,,
-2,Upazila,Railway station,Steamer/launch station,Bus stand
-3,Biral,4,0,17
-4,Birampur,1,0,1
-5,Birganj,0,0,2
-6,Bochaganj,3,0,6
-7,Chirirbandar,2,0,0
-8,Dinajpur Sadar,1,0,1
-9,Fulbari,1,0,12
-10,Ghoraghat,0,0,7
-11,Hakimpur,2,0,1
-12,Kaharole,0,0,3
-13,Khansama,0,0,0
-14,Nawabganj,0,0,7
-15,Parbatipur,5,0,1
-16,Total,19,0,58
+1,Dinajpur,,,
+2,,,,
+3,Upazila,Railway station,Steamer/launch station,Bus stand
+4,Biral,4,0,17
+5,Birampur,1,0,1
+6,Birganj,0,0,2
+7,Bochaganj,3,0,6
+8,Chirirbandar,2,0,0
+9,Dinajpur Sadar,1,0,1
+10,Fulbari,1,0,12
+11,Ghoraghat,0,0,7
+12,Hakimpur,2,0,1
+13,Kaharole,0,0,3
+14,Khansama,0,0,0
+15,Nawabganj,0,0,7
+16,Parbatipur,5,0,1
+17,Total,19,0,58

@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of health centre, providing health and family planning service 2011",,,,,,,
-1,,,,,,,,
-2, Upazila,Number of union health centre,Health service, Sterilization, M.R.,Injection/ copper-T,Oral pill/ condom,Number of immunization centre
-3,Bauphal,13,87665,550,382,4783,76850,336
-4,Dashmina,5,18000,45,30,512,4398,144
-5,Dumki,4,22320,68,16,2759,4785,96
-6,Galachipa,10,64000,14,14,2914,65668,455
-7,Kalapara,9,55290,34,297,1273,48700,43
-8,Mirzaganj,6,12600,2,6,680,9600,144
-9,Patuakhali Sadar,12,112809,45,152,3211,138390,123
-10,Total,59,372684,758,897,16132,348391,1341
+1,Patuakhali,,,,,,,
+2,,,,,,,,
+3,Upazila,Number of union health centre,Health service, Sterilization, M.R.,Injection/ copper-T,Oral pill/ condom,Number of immunization centre
+4,Bauphal,13,87665,550,382,4783,76850,336
+5,Dashmina,5,18000,45,30,512,4398,144
+6,Dumki,4,22320,68,16,2759,4785,96
+7,Galachipa,10,64000,14,14,2914,65668,455
+8,Kalapara,9,55290,34,297,1273,48700,43
+9,Mirzaganj,6,12600,2,6,680,9600,144
+10,Patuakhali Sadar,12,112809,45,152,3211,138390,123
+11,Total,59,372684,758,897,16132,348391,1341

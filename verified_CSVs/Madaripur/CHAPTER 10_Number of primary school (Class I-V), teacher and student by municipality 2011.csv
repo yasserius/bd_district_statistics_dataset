@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,"Number of primary school (Class I-V), teacher and student by municipality 2011",,,,,,,,,,
-1,,,,,,,,,,,
-2, Municipality,Primary school - Govt,Primary school - Non- govt,Primary school - Total,Number of teacher - Govt,Number of teacher - Non- govt,Number of teacher - Total,Number of student - Govt,Number of student - Non- govt,Number of student - Total,Students per teacher
-3,Kalkini,19,8,27,107,26,133,3201,3430,6631,50
-4,Madaripur Sadar,13,0,13,163,0,163,4297,0,4297,26
-5,Shibchar,5,0,5,44,0,44,2385,0,2385,54
-6,Total,37,8,45,314,26,340,9883,3430,13313,39
+1,Madaripur,,,,,,,,,,
+2,,,,,,,,,,,
+3, Municipality,Primary school - Govt,Primary school - Non- govt,Primary school - Total,Number of teacher - Govt,Number of teacher - Non- govt,Number of teacher - Total,Number of student - Govt,Number of student - Non- govt,Number of student - Total,Students per teacher
+4,Kalkini,19,8,27,107,26,133,3201,3430,6631,50
+5,Madaripur Sadar,13,0,13,163,0,163,4297,0,4297,26
+6,Shibchar,5,0,5,44,0,44,2385,0,2385,54
+7,Total,37,8,45,314,26,340,9883,3430,13313,39

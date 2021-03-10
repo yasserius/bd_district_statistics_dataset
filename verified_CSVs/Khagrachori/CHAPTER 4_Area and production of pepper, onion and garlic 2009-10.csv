@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
-3,Dighinala,222,75,5,16,13,24
-4,Khagrachhari Sadar,237,59.885,0,0,0,0
-5,Laxshmichhari,143,56.2,7,9.1,6,5.1
-6,Mahalchhari,45,12.31,17.5,17.9,12,10.87
-7,Manikchhari,72,13.86,3.5,1.75,10,3
-8,Matiranga,79,23,0,0,0,0
-9,Panchhari,94,24.175,4,7.2,0,0
-10,Ramgarh,47,11,0,0,0,0
-11,Total,939,275.43,37,51.95,41,42.97
+1,Khagrachori,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
+4,Dighinala,222,75,5,16,13,24
+5,Khagrachori,237,59.885,0,0,0,0
+6,Laxshmichhari,143,56.2,7,9.1,6,5.1
+7,Mahalchhari,45,12.31,17.5,17.9,12,10.87
+8,Manikchhari,72,13.86,3.5,1.75,10,3
+9,Matiranga,79,23,0,0,0,0
+10,Panchhari,94,24.175,4,7.2,0,0
+11,Ramgarh,47,11,0,0,0,0
+12,Total,939,275.43,37,51.95,41,42.97

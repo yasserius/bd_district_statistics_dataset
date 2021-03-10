@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
-1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
-3,Belabo,243.00,1.00,291.00,535.00
-4,Manohardi,311.00,8.47,254.00,573.47
-5,Narsingdi Sadar,245.72,21.16,385.06,651.94
-6,Palash,124.38,0.31,138.31,263.42
-7,Roypura,190.00,19.00,925.00,1134.00
-8,Sibpur,1024.50,1350.00,496.82,3275.32
-9,Total,2138.60,1399.94,2490.19,6433.15
+1,Narsingdi,,,,
+2,(Kilometer),,,,
+3,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
+4,Belabo,243.00,1.00,291.00,535.00
+5,Manohardi,311.00,8.47,254.00,573.47
+6,Narsingdi Sadar,245.72,21.16,385.06,651.94
+7,Palash,124.38,0.31,138.31,263.42
+8,Roypura,190.00,19.00,925.00,1134.00
+9,Shibpur,1024.50,1350.00,496.82,3275.32
+10,Total,2138.60,1399.94,2490.19,6433.15

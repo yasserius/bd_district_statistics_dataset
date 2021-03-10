@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pepper, onion and garlic 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
-3,Kalkini,380,66,283,849,28,50
-4,Madaripur Sadar,215,116,380,1216,49,98
-5,Rajoir,21,3,78,87,73,31
-6,Shibchar,74,30,2521,5862,775,579
-7,Total,690,215,3262,8014,925,758
+1,Madaripur,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Pepper Area,Pepper Production,Onion Area,Onion Production,Garlic Area,Garlic Production
+4,Kalkini,380,66,283,849,28,50
+5,Madaripur Sadar,215,116,380,1216,49,98
+6,Rajoir,21,3,78,87,73,31
+7,Shibchar,74,30,2521,5862,775,579
+8,Total,690,215,3262,8014,925,758

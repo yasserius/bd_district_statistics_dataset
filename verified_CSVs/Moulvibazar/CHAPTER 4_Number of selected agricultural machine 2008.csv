@@ -1,12 +1,13 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,,,,
-2, Upazila, Number of power tiller, Tractor,Number of threshing machine
-3,Barlekha,115,3,5
-4,Juri,207,5,315
-5,Kamalganj,356,1,615
-6,Kulaura,220,1,45
-7,Moulvibazar Sadar,354,6,68
-8,Rajnagar,140,0,0
-9,Sreemangal,125,2,112
-10,Total,1517,18,1160
+1,Moulvibazar,,,
+2,,,,
+3, Upazila, Number of power tiller, Tractor,Number of threshing machine
+4,Barlekha,115,3,5
+5,Juri,207,5,315
+6,Kamalganj,356,1,615
+7,Kulaura,220,1,45
+8,Moulvibazar Sadar,354,6,68
+9,Rajnagar,140,0,0
+10,Sreemangal,125,2,112
+11,Total,1517,18,1160

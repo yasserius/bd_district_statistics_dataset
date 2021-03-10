@@ -1,7 +1,8 @@
 ,0,1,2,3,4,5,6
 0,Number of fire service unit and causality by municipality 2011,,,,,,
-1,,,,,,,
-2, Municipality,Fire service unit,Person employed, Fire case,Monetary loss (in thousand taka),Person dead,Person injured
-3,Lalmonirhat,1,18,12,1820.86,0,3
-4,Patgram,1,23,66,1179.50,4,85
-5,Total,2,41,78,3000.36,4,88
+1,Lalmonirhat,,,,,,
+2,,,,,,,
+3, Municipality,Fire service unit,Person employed, Fire case,Monetary loss (in thousand taka),Person dead,Person injured
+4,Lalmonirhat,1,18,12,1820.86,0,3
+5,Patgram,1,23,66,1179.50,4,85
+6,Total,2,41,78,3000.36,4,88

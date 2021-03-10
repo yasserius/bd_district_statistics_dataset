@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,"Area and production of water melon, melon (Bangi) in following years",,,,
-1,(Area in acre  production in metric ton),,,,
-2,  Upazila,Year - 2010-11 - Area,Year - 2010-11 - Production,Year - 2009-10. - Area,Year - 2009-10. - Production
-3,Kushtia Sadar,88,417,76,345
-4,Bheramara,57,329,50,288
-5,Daulatpur,38,277,21,140
-6,Khoksa,78,430,78,430
-7,Kumarkhali,27,93,19,70
-8,Mirpur,22,88,33,106
-9,Total,310,1634,277,1379
+1,Kushtia,,,,
+2,(Area in acre  production in metric ton),,,,
+3,  Upazila,Year - 2010-11 - Area,Year - 2010-11 - Production,Year - 2009-10. - Area,Year - 2009-10. - Production
+4,Kushtia Sadar,88,417,76,345
+5,Bheramara,57,329,50,288
+6,Daulatpur,38,277,21,140
+7,Khoksa,78,430,78,430
+8,Kumarkhali,27,93,19,70
+9,Mirpur,22,88,33,106
+10,Total,310,1634,277,1379

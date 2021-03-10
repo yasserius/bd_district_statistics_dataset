@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Non government college, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of  college,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Gopalganj Sadar,16,218,46,264,5502,1682,7184,27
-4,Kashiani,4,87,4,91,990,1074,2064,23
-5,Kotalipara,4,96,9,105,906,778,1684,16
-6,Muksudpur,4,83,10,93,1759,1462,3221,35
-7,Tungipara,1,35,6,41,201,195,394,10
-8,Total,29,519,75,594,9358,5191,14547,24
+1,Gopalgonj,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of  college,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Gopalganj Sadar,16,218,46,264,5502,1682,7184,27
+5,Kashiani,4,87,4,91,990,1074,2064,23
+6,Kotalipara,4,96,9,105,906,778,1684,16
+7,Muksudpur,4,83,10,93,1759,1462,3221,35
+8,Tungipara,1,35,6,41,201,195,394,10
+9,Total,29,519,75,594,9358,5191,14547,24

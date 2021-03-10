@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of mango, litchi and blackberry 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Mango Area,Mango Production,Litchi Area,Litchi Production,Blackberry Area,Blackberry Production
-3,Bhaluka,107,827,112,1174,33,131
-4,Dhobaura,189,698,20,36,5,17
-5,Fulbaria,8,72,0,66,0,8
-6,Gaffargaon,770,320,580,3490,410,198
-7,Gauripur,0,224,1,715,0,7
-8,Haluaghat,465,1485,7,180,25,100
-9,Ishwargonj,44,165,11,105,16,38
-10,Muktagacha,126,812,20,125,3,42
-11,Mymensingh Sadar,112,324,3,25,6,14
-12,Nandail,109,4980,8,850,2980,505
-13,Phulpur,555,2610,50,866,93,491
-14,Trishal,213,3500,12,282,38,547
-15,Total,2698,16017,825,7914,3609,2098
+1,Mymensingh,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Mango Area,Mango Production,Litchi Area,Litchi Production,Blackberry Area,Blackberry Production
+4,Bhaluka,107,827,112,1174,33,131
+5,Dhobaura,189,698,20,36,5,17
+6,Fulbaria,8,72,0,66,0,8
+7,Gaffargaon,770,320,580,3490,410,198
+8,Gauripur,0,224,1,715,0,7
+9,Haluaghat,465,1485,7,180,25,100
+10,Ishwargonj,44,165,11,105,16,38
+11,Muktagacha,126,812,20,125,3,42
+12,Mymensingh Sadar,112,324,3,25,6,14
+13,Nandail,109,4980,8,850,2980,505
+14,Phulpur,555,2610,50,866,93,491
+15,Trishal,213,3500,12,282,38,547
+16,Total,2698,16017,825,7914,3609,2098

@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Government health complex and health facility 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse, Number of    technician, Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
-3,Fulchhari,1,31,2,2,6,81,1500,2000,21000,28000
-4,Gaibandha Sadar,3,120,9,32,5,40,4500,6650,11207,13410
-5,Gobindaganj,1,50,11,8,7,153,10320,890,12860,8640
-6,Palashbari,1,31,9,10,5,99,1995,3336,24043,33019
-7,Sadullapur,1,50,4,5,5,93,1982,2652,21012,26131
-8,Saghata,1,31,3,3,1,79,771,630,28516,50150
-9,Sundarganj,1,31,4,8,6,127,1232,4560,23559,25652
-10,Total,9,344,42,68,35,672,22300,20718,142197,185002
+1,Gaibandha,,,,,,,,,,
+2,,,,,,,,,,,
+3,  Upazila,Number of  hospital/ clinic/ nursing home,  Number of bed, Number of  doctor,  Number of nurse, Number of    technician, Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
+4,Fulchhari,1,31,2,2,6,81,1500,2000,21000,28000
+5,Gaibandha Sadar,3,120,9,32,5,40,4500,6650,11207,13410
+6,Gobindaganj,1,50,11,8,7,153,10320,890,12860,8640
+7,Palashbari,1,31,9,10,5,99,1995,3336,24043,33019
+8,Sadullapur,1,50,4,5,5,93,1982,2652,21012,26131
+9,Saghata,1,31,3,3,1,79,771,630,28516,50150
+10,Sundarganj,1,31,4,8,6,127,1232,4560,23559,25652
+11,Total,9,344,42,68,35,672,22300,20718,142197,185002

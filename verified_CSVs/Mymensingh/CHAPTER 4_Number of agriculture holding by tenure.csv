@@ -1,17 +1,18 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
-1,(According to Agriculture Census 2008),,,,
-2,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
-3,Bhaluka,54109,57573,17315,9856
-4,Dhobaura,28827,27300,11330,4839
-5,Fulbaria,64500,69320,24008,5830
-6,Gaffargaon,60520,64765,24924,5601
-7,Gauripur,44125,43373,20866,4381
-8,Haluaghat,43921,48210,16542,5932
-9,Ishwargonj,52883,53049,23192,3129
-10,Muktagacha,51326,62576,21875,8329
-11,Mymensingh Sadar,57054,107220,26259,22795
-12,Nandail,57626,62264,25205,3641
-13,Phulpur,85004,86376,35169,10785
-14,Trishal,52717,63288,22335,3808
-15,Total,652612,745314,269020,88926
+1,Mymensingh,,,,
+2,(According to Agriculture Census 2008),,,,
+3,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
+4,Bhaluka,54109,57573,17315,9856
+5,Dhobaura,28827,27300,11330,4839
+6,Fulbaria,64500,69320,24008,5830
+7,Gaffargaon,60520,64765,24924,5601
+8,Gauripur,44125,43373,20866,4381
+9,Haluaghat,43921,48210,16542,5932
+10,Ishwargonj,52883,53049,23192,3129
+11,Muktagacha,51326,62576,21875,8329
+12,Mymensingh Sadar,57054,107220,26259,22795
+13,Nandail,57626,62264,25205,3641
+14,Phulpur,85004,86376,35169,10785
+15,Trishal,52717,63288,22335,3808
+16,Total,652612,745314,269020,88926

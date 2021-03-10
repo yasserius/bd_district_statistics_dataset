@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of wheat, jute and sugarcane 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Wheat - Area,Wheat - Production,Jute - Area,Jute - Production,Sugarcane - Area,Sugarcane - Production
-3,Bhaluka,150,68,1203,730,3541,8417
-4,Dhobaura,75,65,369,167,18,146
-5,Fulbaria,251,125,1118,618,2383,5292
-6,Gaffargaon,464,335,1850,1122,82,141
-7,Gauripur,116,73,710,1,10,107
-8,Haluaghat,340,275,227,130,18,436
-9,Ishwargonj,324,194,3857,2556,52,780
-10,Muktagacha,150,375,1085,8761,95,4750
-11,Mymensingh Sadar,605,491,5926,4102,80,1119
-12,Nandail,297,208,4100,2881,150,2153
-13,Phulpur,737,408,1586,1663,29,729
-14,Trishal,465,282,933,605,89,1498
-15,Total,3974,2899,22964,23336,6547,25568
+1,Mymensingh,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Wheat - Area,Wheat - Production,Jute - Area,Jute - Production,Sugarcane - Area,Sugarcane - Production
+4,Bhaluka,150,68,1203,730,3541,8417
+5,Dhobaura,75,65,369,167,18,146
+6,Fulbaria,251,125,1118,618,2383,5292
+7,Gaffargaon,464,335,1850,1122,82,141
+8,Gauripur,116,73,710,1,10,107
+9,Haluaghat,340,275,227,130,18,436
+10,Ishwargonj,324,194,3857,2556,52,780
+11,Muktagacha,150,375,1085,8761,95,4750
+12,Mymensingh Sadar,605,491,5926,4102,80,1119
+13,Nandail,297,208,4100,2881,150,2153
+14,Phulpur,737,408,1586,1663,29,729
+15,Trishal,465,282,933,605,89,1498
+16,Total,3974,2899,22964,23336,6547,25568

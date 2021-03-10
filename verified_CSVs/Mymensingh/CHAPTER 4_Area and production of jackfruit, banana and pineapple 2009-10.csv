@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of jackfruit, banana and pineapple 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Jackfruit Area,Jackfruit Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
-3,Bhaluka,475,6710,3010,6717,50,183
-4,Dhobaura,264,2639,251,991,10,40
-5,Fulbaria,305,8580,6,45,2210,13090
-6,Gaffargaon,723,5064,360,2268,26,92
-7,Gauripur,0,15,105,458,2,1
-8,Haluaghat,250,1348,192,977,1,10
-9,Ishwargonj,56,1682,37,177,1,4
-10,Muktagacha,115,4500,60,2300,30,1175
-11,Mymensingh Sadar,213,2961,233,1310,16,30
-12,Nandail,98,5579,225,1716,0,0
-13,Phulpur,357,8221,433,8338,0,0
-14,Trishal,520,4190,30,182,60,58
-15,Total,3376,51489,4942,25479,2406,14683
+1,Mymensingh,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Jackfruit Area,Jackfruit Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
+4,Bhaluka,475,6710,3010,6717,50,183
+5,Dhobaura,264,2639,251,991,10,40
+6,Fulbaria,305,8580,6,45,2210,13090
+7,Gaffargaon,723,5064,360,2268,26,92
+8,Gauripur,0,15,105,458,2,1
+9,Haluaghat,250,1348,192,977,1,10
+10,Ishwargonj,56,1682,37,177,1,4
+11,Muktagacha,115,4500,60,2300,30,1175
+12,Mymensingh Sadar,213,2961,233,1310,16,30
+13,Nandail,98,5579,225,1716,0,0
+14,Phulpur,357,8221,433,8338,0,0
+15,Trishal,520,4190,30,182,60,58
+16,Total,3376,51489,4942,25479,2406,14683

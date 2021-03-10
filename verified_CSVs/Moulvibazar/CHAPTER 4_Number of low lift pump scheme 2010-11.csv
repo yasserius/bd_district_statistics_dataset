@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,,,,,
-2, Upazila,Number of pump fielded - Electric,Number of pump fielded - Diesel,Number of pump fielded - Total,Area irrigated (in acre)
-3,Barlekha,0,0,0,0
-4,Juri,0,0,0,0
-5,Kamalganj,42,88,130,1443
-6,Kulaura,3,767,770,17898
-7,Moulvibazar Sadar,20,4,24,309
-8,Rajnagar,7,17,24,3200
-9,Sreemangal,62,0,62,508
-10,Total,134,876,1010,23358
+1,Moulvibazar,,,,
+2,,,,,
+3, Upazila,Number of pump fielded - Electric,Number of pump fielded - Diesel,Number of pump fielded - Total,Area irrigated (in acre)
+4,Barlekha,0,0,0,0
+5,Juri,0,0,0,0
+6,Kamalganj,42,88,130,1443
+7,Kulaura,3,767,770,17898
+8,Moulvibazar Sadar,20,4,24,309
+9,Rajnagar,7,17,24,3200
+10,Sreemangal,62,0,62,508
+11,Total,134,876,1010,23358

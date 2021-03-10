@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,Number of employee by type 2011,,,,,
-1,,,,,,
-2, Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous bodies,Local Government employee
-3,Belkuchi,36,292,9600,78,96
-4,Chauhali,54,324,5664,7,70
-5,Kamarkhanda,26,460,5896,0,48
-6,Kazipur,25,384,10370,14,30
-7,Royganj,96,420,17280,2,114
-8,Shahjadpur,65,548,16896,102,35
-9,Sirajganj Sadar,483,8000,20000,83,52
-10,Tarash,35,132,4382,7,191
-11,Ullahpara,58,580,28608,27,33
-12,Total,878,11140,118696,320,669
+1,Sirajganj,,,,,
+2,,,,,,
+3,Upazila, Police personnel, Ansar personnel, VDP personnel,Autonomous bodies,Local Government employee
+4,Belkuchi,36,292,9600,78,96
+5,Chauhali,54,324,5664,7,70
+6,Kamarkhanda,26,460,5896,0,48
+7,Kazipur,25,384,10370,14,30
+8,Royganj,96,420,17280,2,114
+9,Shahjadpur,65,548,16896,102,35
+10,Sirajganj Sadar,483,8000,20000,83,52
+11,Tarash,35,132,4382,7,191
+12,Ullahpara,58,580,28608,27,33
+13,Total,878,11140,118696,320,669

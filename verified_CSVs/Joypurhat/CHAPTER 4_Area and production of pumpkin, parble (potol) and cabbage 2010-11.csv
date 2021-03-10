@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pumpkin, parble (potol) and cabbage 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Pumpkin Area,Pumpkin Production,Parble (potol) Area,Parble (potol) Production,Cabbage Area,Cabbage Production
-3,Akkelpur,8,37,33,120,25,92
-4,Joypurhat sadar,161,957,437,2367,189,733
-5,Kalai,48,285,13,59,8,53
-6,Khetlal,65,218,25,92,38,113
-7,Panchbibi,134,1219,102,390,114,1007
-8,Total,416,2716,610,3028,373,1997
+1,Joypurhat,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Pumpkin Area,Pumpkin Production,Parble (potol) Area,Parble (potol) Production,Cabbage Area,Cabbage Production
+4,Akkelpur,8,37,33,120,25,92
+5,Joypurhat sadar,161,957,437,2367,189,733
+6,Kalai,48,285,13,59,8,53
+7,Khetlal,65,218,25,92,38,113
+8,Panchbibi,134,1219,102,390,114,1007
+9,Total,416,2716,610,3028,373,1997

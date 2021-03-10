@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,,,,,,,,
-2,Upazila,Current fallow,Temporary cropped area - Single,Temporary cropped area - Double,Temporary cropped area - Triple,Temporary cropped area - Net,Temporary cropped area - Gross,Productivity of crop
-3,Alfadanga,62,5785,9670,842,16297,27651,170
-4,Bhanga,155,11771,14999,2231,29001,48462,167
-5,Boalmari,103,12256,18608,3002,33866,58478,173
-6,Charbhadrashon,280,7016,3912,1950,12878,20690,161
-7,Faridpur Sadar,607,8912,29671,3036,41619,77362,186
-8,Madhukhali,92,7901,22637,2634,33172,61077,184
-9,Nagarkanda,134,19594,32583,1165,53342,88255,165
-10,Sadarpur,597,13150,11786,3581,28517,47465,166
-11,Saltha,-,-,-,-,-,-,-
-12,Total,2030,86385,143866,18441,248692,429440,173
+1,Faridpur,,,,,,,
+2,,,,,,,,
+3,Upazila,Current fallow,Temporary cropped area - Single,Temporary cropped area - Double,Temporary cropped area - Triple,Temporary cropped area - Net,Temporary cropped area - Gross,Productivity of crop
+4,Alfadanga,62,5785,9670,842,16297,27651,170
+5,Bhanga,155,11771,14999,2231,29001,48462,167
+6,Boalmari,103,12256,18608,3002,33866,58478,173
+7,Charbhadrashon,280,7016,3912,1950,12878,20690,161
+8,Faridpur Sadar,607,8912,29671,3036,41619,77362,186
+9,Madhukhali,92,7901,22637,2634,33172,61077,184
+10,Nagarkanda,134,19594,32583,1165,53342,88255,165
+11,Sadarpur,597,13150,11786,3581,28517,47465,166
+12,Saltha,-,-,-,-,-,-,-
+13,Total,2030,86385,143866,18441,248692,429440,173

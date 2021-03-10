@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6,7,8,9,10,11
 0,"Number of person, institute borrowing money from all nationalized bank 2011",,,,,,,,,,,
-1,,,,,,,,,,,,
-2, Upazila,Number of Branches of nationalized bank,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Others debt - Male,Number of borrower - Others debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (Crore) - Male,Number of borrower - Total debt (Crore) - Female
-3,Austagram,4,595,0,2,0,57,0,654,0,5.9,0
-4,Bajitpur,5,2812,19,3,1,828,1201,3643,1220,639.73,9.99
-5,Bhairab,5,745,5,0,0,1568,231,2313,236,14.35,2.98
-6,Hossainpur,4,1398,19,0,0,381,54,1779,400,10.31,0.52
-7,Itna,2,2201,20,0,0,365,150,2566,170,14,2
-8,Karimganj,0,7653,38,0,0,985,416,8638,454,1222.8,21.65
-9,Katiadi,5,11153,1015,0,0,11743,778,22896,1793,123.56,2.6
-10,Kishoreganj Sadar,7,94960,1200,30,3,4800,1100,0,0,119.87,6.79
-11,Kuliar-char,3,0,0,0,0,140,340,340,249,8.58,0
-12,Mithamain,3,670,14,0,0,75,1,745,15,14.73,0.3
-13,Nikli,3,4693,200,1,0,345,63,5039,263,3.2895,0.132
-14,Pakundia,5,6530,150,142,0,52,0,7230,120,157.22,0
-15,Tarail,2,12553,0,27,0,1547,0,14127,0,22.71,0.23
-16,Total,48,145963,2680,205,4,22886,4334,69970,4920,2357,47.092
+1,Kishoreganj,,,,,,,,,,,
+2,,,,,,,,,,,,
+3, Upazila,Number of Branches of nationalized bank,Number of borrower - Agriculture debt - Male,Number of borrower - Agriculture debt - Female,Number of borrower - Industry debt - Male,Number of borrower - Industry debt - Female,Number of borrower - Others debt - Male,Number of borrower - Others debt - Female,Number of borrower - Male,Number of borrower - Female,Number of borrower - Total debt (Crore) - Male,Number of borrower - Total debt (Crore) - Female
+4,Austagram,4,595,0,2,0,57,0,654,0,5.9,0
+5,Bajitpur,5,2812,19,3,1,828,1201,3643,1220,639.73,9.99
+6,Bhairab,5,745,5,0,0,1568,231,2313,236,14.35,2.98
+7,Hossainpur,4,1398,19,0,0,381,54,1779,400,10.31,0.52
+8,Itna,2,2201,20,0,0,365,150,2566,170,14,2
+9,Karimganj,0,7653,38,0,0,985,416,8638,454,1222.8,21.65
+10,Katiadi,5,11153,1015,0,0,11743,778,22896,1793,123.56,2.6
+11,Kishoreganj Sadar,7,94960,1200,30,3,4800,1100,0,0,119.87,6.79
+12,Kuliar-char,3,0,0,0,0,140,340,340,249,8.58,0
+13,Mithamain,3,670,14,0,0,75,1,745,15,14.73,0.3
+14,Nikli,3,4693,200,1,0,345,63,5039,263,3.2895,0.132
+15,Pakundia,5,6530,150,142,0,52,0,7230,120,157.22,0
+16,Tarail,2,12553,0,27,0,1547,0,14127,0,22.71,0.23
+17,Total,48,145963,2680,205,4,22886,4334,69970,4920,2357,47.092

@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of lentil (masur), mug and maize crops 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2, Upazila,Lentil (Masur) - Area,Lentil (Masur) - Production,Mug - Area,Mug - Production,Maize - Area,Maize - Production
-3,Bhola Sadar,556,170,2332,1027,148,425
-4,Burhanuddin,358,129,2000,1900,135,432
-5,Char Fasson,0,0,21021,6363,0,0
-6,Daulatkhan,28.5,9.12,305,91.5,2,1.27
-7,Lalmohan,318,291.94,2222,2220.91,14.75,26.2
-8,Manpura,0,0,1900,140,0,0
-9,Tazumuddin,62,20,1744,349,0,0
-10,Total,1322.5,620.06,31524,12091.41,299.75,884.47
+1,Bhola,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3, Upazila,Lentil (Masur) - Area,Lentil (Masur) - Production,Mug - Area,Mug - Production,Maize - Area,Maize - Production
+4,Bhola Sadar,556,170,2332,1027,148,425
+5,Burhanuddin,358,129,2000,1900,135,432
+6,Char Fasson,0,0,21021,6363,0,0
+7,Daulatkhan,28.5,9.12,305,91.5,2,1.27
+8,Lalmohan,318,291.94,2222,2220.91,14.75,26.2
+9,Manpura,0,0,1900,140,0,0
+10,Tazumuddin,62,20,1744,349,0,0
+11,Total,1322.5,620.06,31524,12091.41,299.75,884.47

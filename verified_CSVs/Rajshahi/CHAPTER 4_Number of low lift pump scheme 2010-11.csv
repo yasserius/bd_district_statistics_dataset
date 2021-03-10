@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,,,,,
-2,Upazila/city corporation,Number of pumps fielded Electric,Number of pumps fielded Diesel,Number of pumps fielded Total,Area irrigated (in acre)
-3,Bagha,32,1175,1207,11457
-4,Baghmara,172,3050,3222,19300
-5,Charghat,25,3662,3687,11055
-6,Durgapur,1334,324,1658,14010
-7,Godagari,180,2254,2434,43914
-8,Mohanpur,682,0,682,6235
-9,Paba,18,1942,1960,20204
-10,Puthia,85,5599,5684,25910
-11,Rajshahi city corporation,0,350,350,1063
-12,Tanore,411,65,476,8027
-13,Total,2939,18421,21360,161175
+1,Rajshahi,,,,
+2,,,,,
+3,Upazila/city corporation,Number of pumps fielded Electric,Number of pumps fielded Diesel,Number of pumps fielded Total,Area irrigated (in acre)
+4,Bagha,32,1175,1207,11457
+5,Baghmara,172,3050,3222,19300
+6,Charghat,25,3662,3687,11055
+7,Durgapur,1334,324,1658,14010
+8,Godagari,180,2254,2434,43914
+9,Mohanpur,682,0,682,6235
+10,Paba,18,1942,1960,20204
+11,Puthia,85,5599,5684,25910
+12,Rajshahi City Corporation,0,350,350,1063
+13,Tanore,411,65,476,8027
+14,Total,2939,18421,21360,161175

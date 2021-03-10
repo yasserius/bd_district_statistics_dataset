@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Bean Area,Bean Production
-3,Dhaka Metropolitan,59,180,44,130,57,83
-4,Dhamrai,295,1180,642,2604,444,2282
-5,Dohar,50,101,75,183,72,89
-6,Keraniganj,397,3176,184,588,557,1559
-7,Nawabganj,181,1267,190,1710,143,501
-8,Savar,163,387,135,440,144,288
-9,Total,1145,6291,1270,5656,1417,4802
+1,Dhaka,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Tomato Area,Tomato Production,Radish Area,Radish Production,Bean Area,Bean Production
+4,Dhaka Metropolitan,59,180,44,130,57,83
+5,Dhamrai,295,1180,642,2604,444,2282
+6,Dohar,50,101,75,183,72,89
+7,Keraniganj,397,3176,184,588,557,1559
+8,Nawabganj,181,1267,190,1710,143,501
+9,Savar,163,387,135,440,144,288
+10,Total,1145,6291,1270,5656,1417,4802

@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of NGO school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila,Number of NGO school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Baliadangi,216,0,216,216,3245,3085,6330,29
-4,Haripur,48,0,48,48,480,960,1440,30
-5,Pirgonj,230,0,230,230,2964,3309,6273,27
-6,Ranisankail,110,0,110,110,1235,2065,3300,30
-7,Thakurgaon Sadar,3,7,5,12,390,404,794,66
-8,Total,607,7,609,616,8314,9823,18137,29
+1,Thakurgaon,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of NGO school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Baliadangi,216,0,216,216,3245,3085,6330,29
+5,Haripur,48,0,48,48,480,960,1440,30
+6,Pirgonj,230,0,230,230,2964,3309,6273,27
+7,Ranisankail,110,0,110,110,1235,2065,3300,30
+8,Thakurgaon Sadar,3,7,5,12,390,404,794,66
+9,Total,607,7,609,616,8314,9823,18137,29

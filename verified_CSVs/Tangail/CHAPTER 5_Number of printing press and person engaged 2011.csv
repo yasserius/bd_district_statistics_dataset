@@ -1,17 +1,18 @@
 ,0,1,2,3,4
 0,Number of printing press and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Units,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Basail,0,0,0,0
-4,Bhuapur,2,2,4,6
-5,Delduar,0,0,0,0
-6,Dhanbari,1,1,4,5
-7,Ghatail,3,3,3,6
-8,Gopalpur,2,2,5,7
-9,Kalihati,0,0,0,0
-10,Madhupur,4,6,8,14
-11,Mirzapur,4,4,4,8
-12,Nagarpur,1,1,1,2
-13,Sakhipur,2,2,6,8
-14,Tangail Sadar,26,26,37,63
-15,Total,45,47,72,119
+1,Tangail,,,,
+2,,,,,
+3,Upazila,Units,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Basail,0,0,0,0
+5,Bhuapur,2,2,4,6
+6,Delduar,0,0,0,0
+7,Dhanbari,1,1,4,5
+8,Ghatail,3,3,3,6
+9,Gopalpur,2,2,5,7
+10,Kalihati,0,0,0,0
+11,Madhupur,4,6,8,14
+12,Mirzapur,4,4,4,8
+13,Nagarpur,1,1,1,2
+14,Sakhipur,2,2,6,8
+15,Tangail Sadar,26,26,37,63
+16,Total,45,47,72,119

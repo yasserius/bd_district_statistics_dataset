@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Number of diagnostic centre and related health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Barlekha,4,6,4,9,22
-4,Juri,2,3,3,3,8
-5,Kamalganj,2,2,0,4,5
-6,Kulaura,6,0,0,12,43
-7,Moulvibazar Sadar,23,85,14,52,124
-8,Rajnagar,1,2,0,3,4
-9,Sreemangal,6,4,0,8,29
-10,Total,44,102,21,91,235
+1,Moulvibazar,,,,,
+2,,,,,,
+3,Upazila,Number of centre,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Barlekha,4,6,4,9,22
+5,Juri,2,3,3,3,8
+6,Kamalganj,2,2,0,4,5
+7,Kulaura,6,0,0,12,43
+8,Moulvibazar Sadar,23,85,14,52,124
+9,Rajnagar,1,2,0,3,4
+10,Sreemangal,6,4,0,8,29
+11,Total,44,102,21,91,235

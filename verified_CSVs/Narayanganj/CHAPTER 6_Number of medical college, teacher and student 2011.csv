@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of medical college, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of college,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students Per teacher
-3,Araihazar,0,0,0,0,0,0,0,0
-4,Bandar,0,0,0,0,0,0,0,0
-5,Narayanganj Sadar,1,12,4,16,150,157,307,19
-6,Rupganj,0,0,0,0,0,0,0,0
-7,Sonargaon,0,0,0,0,0,0,0,0
-8,Total,1,12,4,16,150,157,307,19
+1,Narayanganj,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of college,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students Per teacher
+4,Araihazar,0,0,0,0,0,0,0,0
+5,Bandar,0,0,0,0,0,0,0,0
+6,Narayanganj Sadar,1,12,4,16,150,157,307,19
+7,Rupganj,0,0,0,0,0,0,0,0
+8,Sonargaon,0,0,0,0,0,0,0,0
+9,Total,1,12,4,16,150,157,307,19

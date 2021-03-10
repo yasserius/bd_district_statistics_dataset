@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6
 0,"Police personnel and criminal offences by municipality, city corporation 2011",,,,,,
-1,,,,,,,
-2,Municipality /city corporation,Police personnel,Criminal offences Number of offence,Criminal offences Number of case filled,Trafic accident (reported) Number of accident,Trafic accident (reported) Persons killed,Trafic accident (reported) Persons injured
-3,Badarganj,36,62,62,0,0,0
-4,Haragach,10,24,44,1,1,0
-5,Rangpur,928,1550,1066,2,2,0
-6,Total,974,1636,1172,3,3,0
+1,Rangpur,,,,,,
+2,,,,,,,
+3,Municipality /city corporation,Police personnel,Criminal offences Number of offence,Criminal offences Number of case filled,Trafic accident (reported) Number of accident,Trafic accident (reported) Persons killed,Trafic accident (reported) Persons injured
+4,Badarganj,36,62,62,0,0,0
+5,Haragach,10,24,44,1,1,0
+6,Rangpur,928,1550,1066,2,2,0
+7,Total,974,1636,1172,3,3,0

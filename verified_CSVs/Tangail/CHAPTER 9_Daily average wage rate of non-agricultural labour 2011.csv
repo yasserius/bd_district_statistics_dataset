@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5
 0,Daily average wage rate of non-agricultural labour 2011,,,,,
-1,(Wage in Taka),,,,,
-2,Upazila,Porter (coolee),Garden male labour,Garden female labour,Other labour (Adult),Other labour (Child)
-3,Basail,300,250,200,250,200
-4,Bhuapur,500,250,200,300,160
-5,Delduar,350,250,200,300,150
-6,Dhanbari,400,250,150,200,150
-7,Ghatail,400,250,200,300,150
-8,Gopalpur,250,240,200,200,150
-9,Kalihati,350,230,200,250,150
-10,Madhupur,400,250,200,250,150
-11,Mirzapur,300,250,200,250,180
-12,Nagarpur,500,250,220,300,120
-13,Sakhipur,200,200,180,220,100
-14,Tangail Sadar,400,250,200,200,150
+1,Tangail,,,,,
+2,(Wage in Taka),,,,,
+3,Upazila,Porter (coolee),Garden male labour,Garden female labour,Other labour (Adult),Other labour (Child)
+4,Basail,300,250,200,250,200
+5,Bhuapur,500,250,200,300,160
+6,Delduar,350,250,200,300,150
+7,Dhanbari,400,250,150,200,150
+8,Ghatail,400,250,200,300,150
+9,Gopalpur,250,240,200,200,150
+10,Kalihati,350,230,200,250,150
+11,Madhupur,400,250,200,250,150
+12,Mirzapur,300,250,200,250,180
+13,Nagarpur,500,250,220,300,120
+14,Sakhipur,200,200,180,220,100
+15,Tangail Sadar,400,250,200,200,150

@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
-1,(According to Agriculture Census 2008),,,,
-2,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
-3,Chhagalnaiya,18246,24431,7737,1068
-4,Daganbhuiyan,26453,32921,8408,590
-5,Feni Sadar,34994,58135,14888,5125
-6,Fulgazi,12679,14675,5137,870
-7,Parshuram,11446,11983,5482,686
-8,Sonagazi,25012,35015,8880,1544
-9,Total,128830,177160,50532,9883
+1,Feni,,,,
+2,(According to Agriculture Census 2008),,,,
+3,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
+4,Chhagalnaiya,18246,24431,7737,1068
+5,Daganbhuiyan,26453,32921,8408,590
+6,Feni Sadar,34994,58135,14888,5125
+7,Fulgazi,12679,14675,5137,870
+8,Parshuram,11446,11983,5482,686
+9,Sonagazi,25012,35015,8880,1544
+10,Total,128830,177160,50532,9883

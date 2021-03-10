@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of mango, litchi and blackberry 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila/city corporation,Mango Area,Mango Production,Litchi Area,Litchi Production,Blackberry Area,Blackberry Production
-3,Bagha,8700,85428,0,929,16,64
-4,Baghmara,51,723,97,98,10,40
-5,Charghat,3522,44773,27,674,0,69
-6,Durgapur,826,14266,12,64,8,93
-7,Godagari,800,3250,10,30,12,15
-8,Mohanpur,292,1306,36,433,7,130
-9,Paba,1549,10398,78,253,20,19
-10,Puthia,408,10892,25,322,0,0
-11,Rajshahi city corporation,108,920,20,104,0,0
-12,Tanore,60,2664,2,3,4,11
-13,Total,16316,174620,307,2910,61,441
+1,Rajshahi,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila/city corporation,Mango Area,Mango Production,Litchi Area,Litchi Production,Blackberry Area,Blackberry Production
+4,Bagha,8700,85428,0,929,16,64
+5,Baghmara,51,723,97,98,10,40
+6,Charghat,3522,44773,27,674,0,69
+7,Durgapur,826,14266,12,64,8,93
+8,Godagari,800,3250,10,30,12,15
+9,Mohanpur,292,1306,36,433,7,130
+10,Paba,1549,10398,78,253,20,19
+11,Puthia,408,10892,25,322,0,0
+12,Rajshahi City Corporation,108,920,20,104,0,0
+13,Tanore,60,2664,2,3,4,11
+14,Total,16316,174620,307,2910,61,441

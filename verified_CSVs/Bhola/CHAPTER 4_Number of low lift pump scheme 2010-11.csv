@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,,,,,
-2, Upazila,Number of pumps fielded - Electric,Number of pumps fielded - Diesel,Number of pumps fielded - Total,Area irrigated (in acres)
-3,Bhola Sadar,107,749,856,26985
-4,Burhanuddin,50,500,550,3032
-5,Char Fasson,0,0,0,0
-6,Daulatkhan,0,0,0,0
-7,Lalmohan,8,960,968,25441
-8,Manpura,0,0,0,0
-9,Tazumuddin,0,0,0,0
-10,Total,165,2209,2374,55458
+1,Bhola,,,,
+2,,,,,
+3, Upazila,Number of pumps fielded - Electric,Number of pumps fielded - Diesel,Number of pumps fielded - Total,Area irrigated (in acres)
+4,Bhola Sadar,107,749,856,26985
+5,Burhanuddin,50,500,550,3032
+6,Char Fasson,0,0,0,0
+7,Daulatkhan,0,0,0,0
+8,Lalmohan,8,960,968,25441
+9,Manpura,0,0,0,0
+10,Tazumuddin,0,0,0,0
+11,Total,165,2209,2374,55458

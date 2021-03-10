@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,"Area of high, medium and low land 2008",,,,
-1,,,,,
-2,Upazila,High land,Medium land,Low land,Total land
-3,Bagatipara,16169,9354,2132,27655
-4,Baraigram,22118,28093,9910,60121
-5,Gurudaspur,6036,13938,10384,30358
-6,Lalpur,10808,39537,2470,52815
-7,Natore Sadar,21918,47327,2730,71975
-8,Singra,5538,43898,50809,100245
-9,Total,82587,182147,78435,343169
+1,Natore,,,,
+2,,,,,
+3,Upazila,High land,Medium land,Low land,Total land
+4,Bagatipara,16169,9354,2132,27655
+5,Baraigram,22118,28093,9910,60121
+6,Gurudaspur,6036,13938,10384,30358
+7,Lalpur,10808,39537,2470,52815
+8,Natore Sadar,21918,47327,2730,71975
+9,Singra,5538,43898,50809,100245
+10,Total,82587,182147,78435,343169

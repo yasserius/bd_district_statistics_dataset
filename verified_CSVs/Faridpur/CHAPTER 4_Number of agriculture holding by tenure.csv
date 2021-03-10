@@ -1,14 +1,15 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
-1,(According to Agriculture Census 2008),,,,
-2,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
-3,Alfadanga,12396,15663,6385,679
-4,Bhanga,29832,36978,12533,3921
-5,Boalmari,31722,31627,16012,2852
-6,Charbhadrashon,8008,8223,2838,2703
-7,Faridpur Sadar,42120,61359,20657,10292
-8,Madhukhali,26500,24996,13883,2027
-9,Nagarkanda,47805,48942,20425,2917
-10,Sadarpur,23472,24220,9475,3079
-11,Saltha,-,-,-,-
-12,Total,221855,252008,102208,28470
+1,Faridpur,,,,
+2,(According to Agriculture Census 2008),,,,
+3,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
+4,Alfadanga,12396,15663,6385,679
+5,Bhanga,29832,36978,12533,3921
+6,Boalmari,31722,31627,16012,2852
+7,Charbhadrashon,8008,8223,2838,2703
+8,Faridpur Sadar,42120,61359,20657,10292
+9,Madhukhali,26500,24996,13883,2027
+10,Nagarkanda,47805,48942,20425,2917
+11,Sadarpur,23472,24220,9475,3079
+12,Saltha,-,-,-,-
+13,Total,221855,252008,102208,28470

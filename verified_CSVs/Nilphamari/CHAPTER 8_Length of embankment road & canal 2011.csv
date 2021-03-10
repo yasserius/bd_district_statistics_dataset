@@ -1,11 +1,12 @@
 ,0,1,2,3
 0,Length of embankment road  canal 2011,,,
-1,(Kilometer),,,
-2,Upazila,Embankment road,Canal,Others road
-3,Dimla,60.00,63.00,120.00
-4,Domar,0,0,0
-5,Jaldhaka,45.05,65.08,0
-6,Kishorgonj,18.00,0.44,0
-7,Nilphamary Sadar,7.50,211.00,0
-8,Sayedpur,19.00,29.91,0
-9,Total,149.55,369.43,120.00
+1,Nilphamari,,,
+2,(Kilometer),,,
+3,Upazila,Embankment road,Canal,Others road
+4,Dimla,60.00,63.00,120.00
+5,Domar,0,0,0
+6,Joldhaka,45.05,65.08,0
+7,Kishorgonj,18.00,0.44,0
+8,Nilphamary Sadar,7.50,211.00,0
+9,Sayedpur,19.00,29.91,0
+10,Total,149.55,369.43,120.00

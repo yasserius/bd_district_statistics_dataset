@@ -1,18 +1,19 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
-1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
-3,Biral,177.31,1.35,587.36,766.02
-4,Birampur,90,100,245,435
-5,Birganj,104.23,0.88,855.11,960.22
-6,Bochaganj,120,1,400,521
-7,Chirirbandar,102,16,602,720
-8,Dinajpur Sadar,222.64,10,618.87,849.77
-9,Fulbari,150,6,327,435
-10,Ghoraghat,9149,0,284.77,372.26
-11,Hakimpur,57.8,4,107,168.8
-12,Kaharole,69.3,0,318.3,387.07
-13,Khansama,31.5,0,46.2,77.7
-14,Nawabganj,86.24,19.84,574.98,681.05
-15,Parbatipur,126,5,675,806
-16,Total,10486.02,164.07,5641.59,7179.89
+1,Dinajpur,,,,
+2,(Kilometer),,,,
+3,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
+4,Biral,177.31,1.35,587.36,766.02
+5,Birampur,90,100,245,435
+6,Birganj,104.23,0.88,855.11,960.22
+7,Bochaganj,120,1,400,521
+8,Chirirbandar,102,16,602,720
+9,Dinajpur Sadar,222.64,10,618.87,849.77
+10,Fulbari,150,6,327,435
+11,Ghoraghat,9149,0,284.77,372.26
+12,Hakimpur,57.8,4,107,168.8
+13,Kaharole,69.3,0,318.3,387.07
+14,Khansama,31.5,0,46.2,77.7
+15,Nawabganj,86.24,19.84,574.98,681.05
+16,Parbatipur,126,5,675,806
+17,Total,10486.02,164.07,5641.59,7179.89

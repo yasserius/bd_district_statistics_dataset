@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6
 0,"Number and area of pond, dighee and other area 2010-2011",,,,,,
-1,,,,,,,
-2,(Area in Acre) -  Upazila,(Area in Acre) - Pond - Number,(Area in Acre) - Pond - Area,(Area in Acre) - Dighee - Number,(Area in Acre) - Dighee - Area,(Area in Acre) -  Other area,(Area in Acre) -  Total area
-3,Alamdanga,4258,1317,0,0,1317,1317
-4,Chuadanga Sadar,2537,860.45,0,0,23,883.45
-5,Damurhuda,1930,728,0,0,16,1151
-6,Jibonnagar,1812,630,0,0,27,1237
-7,Total,10537,3535.45,0,0,1383,4588.45
+1,Chuadanga,,,,,,
+2,,,,,,,
+3,(Area in Acre) -  Upazila,(Area in Acre) - Pond - Number,(Area in Acre) - Pond - Area,(Area in Acre) - Dighee - Number,(Area in Acre) - Dighee - Area,(Area in Acre) -  Other area,(Area in Acre) -  Total area
+4,Alamdanga,4258,1317,0,0,1317,1317
+5,Chuadanga Sadar,2537,860.45,0,0,23,883.45
+6,Damurhuda,1930,728,0,0,16,1151
+7,Jibonnagar,1812,630,0,0,27,1237
+8,Total,10537,3535.45,0,0,1383,4588.45

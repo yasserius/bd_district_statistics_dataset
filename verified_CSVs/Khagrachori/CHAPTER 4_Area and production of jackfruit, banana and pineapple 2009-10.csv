@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of jackfruit, banana and pineapple 2009-10",,,,,,
-1,Area in acre and production in metric ton),,,,,,
-2,Upazila,Jackfruits Area,Jackfruits Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
-3,Dighinala,914,91600,2872,41540,123,1360
-4,Khagrachhari Sadar,322,2458,269,1836,72,578
-5,Laxshmichhari,362,223,395,34030,41,61
-6,Mahalchhari,250,10520,95,1430,87,134
-7,Manikchhari,463,4471,355,1313,120,167
-8,Matiranga,2700,116030,62,2350,152,250
-9,Panchhari,78,13720,444,12020,21,1450
-10,Ramgarh,265,25930,500,19000,1080,13690
-11,Total,5354,264952,4992,113519,1696,17689
+1,Khagrachori,,,,,,
+2,Area in acre and production in metric ton),,,,,,
+3,Upazila,Jackfruits Area,Jackfruits Production,Banana Area,Banana Production,Pineapple Area,Pineapple Production
+4,Dighinala,914,91600,2872,41540,123,1360
+5,Khagrachori,322,2458,269,1836,72,578
+6,Laxshmichhari,362,223,395,34030,41,61
+7,Mahalchhari,250,10520,95,1430,87,134
+8,Manikchhari,463,4471,355,1313,120,167
+9,Matiranga,2700,116030,62,2350,152,250
+10,Panchhari,78,13720,444,12020,21,1450
+11,Ramgarh,265,25930,500,19000,1080,13690
+12,Total,5354,264952,4992,113519,1696,17689

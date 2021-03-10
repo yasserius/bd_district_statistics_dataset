@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Pubali and Uttara bank 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Pubali bank - Number of branch,Pubali bank - Account - S.D,Pubali bank - Account - C.D,Pubali bank - Account - F.D,Pubali bank - Account - S.T.D,Uttara bank - Number of branch,Uttara bank - Account - S.D,Uttara bank - Account - C.D,Uttara bank - Account - F.D,Uttara bank - Account - S.T.D
-3,Araihazar,2,14363,2348,504,26,0,0,0,0,0
-4,Bandar,0,0,0,0,0,0,0,0,0,0
-5,Narayanganj Sadar,4,11897,8526,472,104,4,11838,3250,587,227
-6,Rupganj,1,5117,613,211,15,0,0,0,0,0
-7,Sonargaon,0,0,0,0,0,1,6365,775,290,16
-8,Total,7,31377,11487,1187,145,5,18203,4025,877,243
+1,Narayanganj,,,,,,,,,,
+2,,,,,,,,,,,
+3, Upazila,Pubali bank - Number of branch,Pubali bank - Account - S.D,Pubali bank - Account - C.D,Pubali bank - Account - F.D,Pubali bank - Account - S.T.D,Uttara bank - Number of branch,Uttara bank - Account - S.D,Uttara bank - Account - C.D,Uttara bank - Account - F.D,Uttara bank - Account - S.T.D
+4,Araihazar,2,14363,2348,504,26,0,0,0,0,0
+5,Bandar,0,0,0,0,0,0,0,0,0,0
+6,Narayanganj Sadar,4,11897,8526,472,104,4,11838,3250,587,227
+7,Rupganj,1,5117,613,211,15,0,0,0,0,0
+8,Sonargaon,0,0,0,0,0,1,6365,775,290,16
+9,Total,7,31377,11487,1187,145,5,18203,4025,877,243

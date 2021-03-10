@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,"Number of ward, mahalla and household by municipality 2011",,,,
-1,,,,,
-2,Upazila,Name of municipality,Total ward,Total mahalla,Total household
-3,Jhenaigati,-,-,-,-
-4,Nakla,Nakla,9,16,8067
-5,Nalitabari,Nalitabari,9,17,6522
-6,Sherpur Sadar,Sherpur,9,40,22665
-7,Sreebardi,Sreebardi,9,20,5794
-8,Total,-,27,76,43048
+1,Sherpur,,,,
+2,,,,,
+3,Upazila,Name of municipality,Total ward,Total mahalla,Total household
+4,Jhenaigati,-,-,-,-
+5,Nakla,Nakla,9,16,8067
+6,Nalitabari,Nalitabari,9,17,6522
+7,Sherpur Sadar,Sherpur,9,40,22665
+8,Sreebardi,Sreebardi,9,20,5794
+9,Total,-,27,76,43048

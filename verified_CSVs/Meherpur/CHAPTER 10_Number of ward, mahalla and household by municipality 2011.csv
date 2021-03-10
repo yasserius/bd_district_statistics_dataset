@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5
 0,"Number of ward, mahalla and household by municipality 2011",,,,,
-1,,,,,,
-2,Upazila,Name of Municipality,Total ward,Total mahalla,Total holding,Total household
-3,Gangni,Gangni,9,29,6488,6488
-4,Mujibnagar,-,0,0,0,0
-5,Meherpur Sadar,Meherpur Sadar,9,71,10418,10418
-6,Total,,18,100,16906,16906
+1,Meherpur,,,,,
+2,,,,,,
+3,Upazila,Name of Municipality,Total ward,Total mahalla,Total holding,Total household
+4,Gangni,Gangni,9,29,6488,6488
+5,Mujibnagar,-,0,0,0,0
+6,Meherpur Sadar,Meherpur Sadar,9,71,10418,10418
+7,Total,,18,100,16906,16906

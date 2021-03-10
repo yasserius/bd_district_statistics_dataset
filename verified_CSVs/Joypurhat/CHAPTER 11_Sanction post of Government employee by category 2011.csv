@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Sanction post of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
-3,Akkelpur,23,22,317,43,405
-4,Joypurhat sadar,319,171,2008,515,3013
-5,Kalai,48,24,272,75,419
-6,Khetlal,35,34,208,88,365
-7,Panchbibi,26,13,206,78,323
-8,Total,451,264,3011,799,4525
+1,Joypurhat,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of total employee
+4,Akkelpur,23,22,317,43,405
+5,Joypurhat sadar,319,171,2008,515,3013
+6,Kalai,48,24,272,75,419
+7,Khetlal,35,34,208,88,365
+8,Panchbibi,26,13,206,78,323
+9,Total,451,264,3011,799,4525

@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,"Occurrence of river erosion during the years 2008-2011 (Yes, No)",,,,
-1,,,,,
-2, Upazila, 2008, 2009, 2010, 2011
-3,Bhedarganj,No,No,Yes,No
-4,Damudya,No,Yes,Yes,0
-5,Gosairhat,No,No,No,No
-6,Naria,Yes,No,No,No
-7,Shariatpur Sadar,No,No,No,No
-8,Zanjira,Yes,Yes,Yes,Yes
+1,Shariatpur,,,,
+2,,,,,
+3, Upazila, 2008, 2009, 2010, 2011
+4,Bhedarganj,No,No,Yes,No
+5,Damudya,No,Yes,Yes,0
+6,Gosairhat,No,No,No,No
+7,Naria,Yes,No,No,No
+8,Shariatpur Sadar,No,No,No,No
+9,Zanjira,Yes,Yes,Yes,Yes

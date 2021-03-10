@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of pumpkin, parble (potol) and cabbage 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Pumpkin - Area,Pumpkin - Production,Parble (potol) - Area,Parble (potol) - Production,Cabbage - Area,Cabbage - Production
-3,Abhaynagar,201,856,76,588,54,295
-4,Bagherpara,347,1612,273,1419,99,527
-5,Chaugachha,403,2053,709,4819,343,1817
-6,Jessore Sadar,553,1937,809,5558,699,3567
-7,Jhikargachha,517,1811,430,2150,535,2611
-8,Keshabpur,130,525,190,383,220,758
-9,Manirampur,215,737,134,550,372,1713
-10,Sharsha,373,1753,670,3239,140,770
-11,Total,2739,11284,3291,18706,2462,12058
+1,Jessore,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Pumpkin - Area,Pumpkin - Production,Parble (potol) - Area,Parble (potol) - Production,Cabbage - Area,Cabbage - Production
+4,Abhaynagar,201,856,76,588,54,295
+5,Bagherpara,347,1612,273,1419,99,527
+6,Chaugachha,403,2053,709,4819,343,1817
+7,Jessore Sadar,553,1937,809,5558,699,3567
+8,Jhikargachha,517,1811,430,2150,535,2611
+9,Keshabpur,130,525,190,383,220,758
+10,Manirampur,215,737,134,550,372,1713
+11,Sharsha,373,1753,670,3239,140,770
+12,Total,2739,11284,3291,18706,2462,12058

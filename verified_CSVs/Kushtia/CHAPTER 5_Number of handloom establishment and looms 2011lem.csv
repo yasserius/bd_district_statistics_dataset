@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,5.04 Number of handloom establishment and looms 2011,,,,
-1,,,,,
-2, Upazila,Number of Units (factory),Number of loom - Operational,Number of loom - Non- operational,Number of loom - Total
-3,Kushtia Sadar,2800,2646,1332,3978
-4,Bheramara,150,125,25,150
-5,Daulatpur,0,0,0,0
-6,Khoksa,2532,3972,370,4342
-7,Kumarkhali,5020,8522,2766,11288
-8,Mirpur,715,715,1215,1930
-9,Total,11217,15980,5708,21688
+1,Kushtia,,,,
+2,,,,,
+3,Upazila,Number of Units (factory),Number of loom - Operational,Number of loom - Non- operational,Number of loom - Total
+4,Kushtia Sadar,2800,2646,1332,3978
+5,Bheramara,150,125,25,150
+6,Daulatpur,0,0,0,0
+7,Khoksa,2532,3972,370,4342
+8,Kumarkhali,5020,8522,2766,11288
+9,Mirpur,715,715,1215,1930
+10,Total,11217,15980,5708,21688

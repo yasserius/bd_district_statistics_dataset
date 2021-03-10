@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,"Number of cinema hall, registered club, auditorium, public library and orphanage 2011",,,,,
-1,,,,,,
-2,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
-3,Alikadam,0,6,2,2,2
-4,Bandarban Sadar,1,42,3,6,2
-5,Lama,2,25,3,4,0
-6,Naikhongchhari,0,17,1,4,1
-7,Rowangchhari,0,17,0,2,0
-8,Ruma,0,48,0,0,0
-9,Thanchi,0,0,0,3,1
-10,Total,3,155,9,23,6
+1,Bandarban,,,,,
+2,,,,,,
+3,Upazila,Cinema hall,Registered club,Library,Orphanage,Auditorium
+4,Alikadam,0,6,2,2,2
+5,Bandarban Sadar,1,42,3,6,2
+6,Lama,2,25,3,4,0
+7,Naikhongchhari,0,17,1,4,1
+8,Rowangchhari,0,17,0,2,0
+9,Ruma,0,48,0,0,0
+10,Thanchi,0,0,0,3,1
+11,Total,3,155,9,23,6

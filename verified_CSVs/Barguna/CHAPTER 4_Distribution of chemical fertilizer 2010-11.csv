@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,Distribution of chemical fertilizer 2010-11,,,,,,,,
-1,(In metric ton),,,,,,,,
-2,Upazila,UREA,TSP,MP,DAP,HP,NPK,SP,Others
-3,Amtali,822,560,222,150,0,30,0,35
-4,Bamna,2000,800,200,20,0,0,0,10
-5,Barguna Sadar,786,470,190,130,0,0,0,31
-6,Betagi,1380,540,225,73,0,0,0,20
-7,Patharghata,1700,800,320,180,0,0,0,41
-8,Total,6688,3170,1157,553,0,30,0,137
+1,Barguna,,,,,,,,
+2,(In metric ton),,,,,,,,
+3,Upazila,UREA,TSP,MP,DAP,HP,NPK,SP,Others
+4,Amtali,822,560,222,150,0,30,0,35
+5,Bamna,2000,800,200,20,0,0,0,10
+6,Barguna Sadar,786,470,190,130,0,0,0,31
+7,Betagi,1380,540,225,73,0,0,0,20
+8,Patharghata,1700,800,320,180,0,0,0,41
+9,Total,6688,3170,1157,553,0,30,0,137

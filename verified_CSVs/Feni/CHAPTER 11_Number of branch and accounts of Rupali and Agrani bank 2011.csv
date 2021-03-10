@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Rupali and Agrani bank 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Rupali bank - Number of branch,Rupali bank - Account - S.D,Rupali bank - Account - C.D,Rupali bank - Account - F.D,Rupali bank - Account - S.T.D,Agrani bank - Number of branch,Agrani bank - Account - S.D,Agrani bank - Account - C.D,Agrani bank - Account - F.D,Agrani bank - Account - S.T.D
-3,Chhagalnaiya,1,0,2,30,0,1,7134,340,97,13
-4,Daganbhuiyan,0,0,0,0,0,2,8780,788,45,4
-5,Feni Sadar,7,24267,814,914,62,2,12291,640,323,40
-6,Fulgazi,0,0,0,0,0,0,0,0,0,0
-7,Parshuram,0,0,0,0,0,1,5448,1217,97,15
-8,Sonagazi,0,0,0,0,0,1,6758,342,74,2
-9,Total,8,24267,816,944,62,7,40411,3327,636,74
+1,Feni,,,,,,,,,,
+2,,,,,,,,,,,
+3, Upazila,Rupali bank - Number of branch,Rupali bank - Account - S.D,Rupali bank - Account - C.D,Rupali bank - Account - F.D,Rupali bank - Account - S.T.D,Agrani bank - Number of branch,Agrani bank - Account - S.D,Agrani bank - Account - C.D,Agrani bank - Account - F.D,Agrani bank - Account - S.T.D
+4,Chhagalnaiya,1,0,2,30,0,1,7134,340,97,13
+5,Daganbhuiyan,0,0,0,0,0,2,8780,788,45,4
+6,Feni Sadar,7,24267,814,914,62,2,12291,640,323,40
+7,Fulgazi,0,0,0,0,0,0,0,0,0,0
+8,Parshuram,0,0,0,0,0,1,5448,1217,97,15
+9,Sonagazi,0,0,0,0,0,1,6758,342,74,2
+10,Total,8,24267,816,944,62,7,40411,3327,636,74

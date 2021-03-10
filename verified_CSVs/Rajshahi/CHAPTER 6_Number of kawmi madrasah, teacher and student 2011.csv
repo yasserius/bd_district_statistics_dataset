@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kawmi madrasah, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila/city corporation,Number of madrasah,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Student per teacher
-3,Bagha,1,7,0,7,106,0,106,15
-4,Baghmara,12,36,0,36,360,0,360,10
-5,Charghat,1,6,0,6,214,0,214,36
-6,Durgapur,1,4,0,4,65,0,65,16
-7,Godagari,0,0,0,0,0,0,0,0
-8,Mohanpur,2,13,0,13,145,12,157,21
-9,Paba,2,25,0,25,633,0,633,25
-10,Puthia,4,22,0,22,180,0,180,8
-11,Rajshahi city corporation,10,125,0,125,1380,0,1380,11
-12,Tanore,1,11,0,11,120,0,120,11
-13,Total,34,249,0,249,3203,12,3215,13
+1,Rajshahi,,,,,,,,
+2,,,,,,,,,
+3,Upazila/city corporation,Number of madrasah,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Student per teacher
+4,Bagha,1,7,0,7,106,0,106,15
+5,Baghmara,12,36,0,36,360,0,360,10
+6,Charghat,1,6,0,6,214,0,214,36
+7,Durgapur,1,4,0,4,65,0,65,16
+8,Godagari,0,0,0,0,0,0,0,0
+9,Mohanpur,2,13,0,13,145,12,157,21
+10,Paba,2,25,0,25,633,0,633,25
+11,Puthia,4,22,0,22,180,0,180,8
+12,Rajshahi City Corporation,10,125,0,125,1380,0,1380,11
+13,Tanore,1,11,0,11,120,0,120,11
+14,Total,34,249,0,249,3203,12,3215,13

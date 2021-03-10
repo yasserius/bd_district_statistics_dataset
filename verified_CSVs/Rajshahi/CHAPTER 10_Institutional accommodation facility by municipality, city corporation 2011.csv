@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Institutional accommodation facility by municipality, city corporation 2011",,,,,,
-1,,,,,,,
-2,Municipality/city corporation,Residential hostel Number,Residential hostel Capacity,Hall/hostel Number,Hall/hostel Capacity,Mess/barrack Number,Mess/barrack Capacity
-3,Bagha,0,0,0,0,4,40
-4,Baghmara,0,0,0,0,2,30
-5,Charghat,0,0,2,450,300,3500
-6,Durgapur,0,0,0,0,0,0
-7,Godagari,0,0,0,0,0,0
-8,Mohanpur,1,10,0,0,0,0
-9,Paba,0,0,0,0,0,0
-10,Puthia,1,10,0,0,2,32
-11,Rajshahi city corporation,0,0,0,0,0,0
-12,Tanore,0,0,0,0,0,0
-13,Total,2,20,2,450,308,3602
+1,Rajshahi,,,,,,
+2,,,,,,,
+3,Municipality/city corporation,Residential hostel Number,Residential hostel Capacity,Hall/hostel Number,Hall/hostel Capacity,Mess/barrack Number,Mess/barrack Capacity
+4,Bagha,0,0,0,0,4,40
+5,Baghmara,0,0,0,0,2,30
+6,Charghat,0,0,2,450,300,3500
+7,Durgapur,0,0,0,0,0,0
+8,Godagari,0,0,0,0,0,0
+9,Mohanpur,1,10,0,0,0,0
+10,Paba,0,0,0,0,0,0
+11,Puthia,1,10,0,0,2,32
+12,Rajshahi City Corporation,0,0,0,0,0,0
+13,Tanore,0,0,0,0,0,0
+14,Total,2,20,2,450,308,3602

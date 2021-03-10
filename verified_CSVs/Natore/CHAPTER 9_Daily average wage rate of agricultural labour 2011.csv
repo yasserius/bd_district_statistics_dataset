@@ -1,11 +1,12 @@
 ,0,1,2,3
 0,Daily average wage rate of agricultural labour 2011,,,
-1,(Rate in taka),,,
-2, Upazila,Labour - Male,Labour - Female,Labour - Child (under 15 years old)
-3,Bagatipara,5000,400,50000
-4,Baraigram,5500,450,62000
-5,Gurudaspur,6300,390,50000
-6,Lalpur,5000,460,60000
-7,Natore Sadar,5800,445,63000
-8,Singra,6000,475,72000
-9,Average,5600,437,59500
+1,Natore,,,
+2,(Rate in taka),,,
+3, Upazila,Labour - Male,Labour - Female,Labour - Child (under 15 years old)
+4,Bagatipara,5000,400,50000
+5,Baraigram,5500,450,62000
+6,Gurudaspur,6300,390,50000
+7,Lalpur,5000,460,60000
+8,Natore Sadar,5800,445,63000
+9,Singra,6000,475,72000
+10,Average,5600,437,59500

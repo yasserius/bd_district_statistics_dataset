@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5
 0,Average rate of vehicle per kilo meter 2011,,,,,
-1,(Rate in Taka),,,,,
-2, Thana/Upazila,Vehicle - Rickshaw,Vehicle - Rickshaw Van,Vehicle - Easy Bick,Vehicle - Auto Rickshaw,Vehicle - Tempo
-3,Austagram,20,20,0,0,5
-4,Bajitpur,10,0,5,5,5
-5,Bhairab,10,0,5,5,10
-6,Hossainpur,10,10,5,5,5
-7,Itna,15,20,15,15,5
-8,Karimganj,15,10,0,8,8
-9,Katiadi,10,20,5,10,15
-10,Kishoreganj Sadar,25,20,10,15,5
-11,Kuliar-char,10,5,20,20,10
-12,Mithamain,5,3,0,0,4
-13,Nikli,10,10,5,5,3
-14,Pakundia,20,15,5,5,5
-15,Tarail,3,4,0,2,2
-16,Total,163,137,75,95,82
+1,Kishoreganj,,,,,
+2,(Rate in Taka),,,,,
+3, Thana/Upazila,Vehicle - Rickshaw,Vehicle - Rickshaw Van,Vehicle - Easy Bick,Vehicle - Auto Rickshaw,Vehicle - Tempo
+4,Austagram,20,20,0,0,5
+5,Bajitpur,10,0,5,5,5
+6,Bhairab,10,0,5,5,10
+7,Hossainpur,10,10,5,5,5
+8,Itna,15,20,15,15,5
+9,Karimganj,15,10,0,8,8
+10,Katiadi,10,20,5,10,15
+11,Kishoreganj Sadar,25,20,10,15,5
+12,Kuliar-char,10,5,20,20,10
+13,Mithamain,5,3,0,0,4
+14,Nikli,10,10,5,5,3
+15,Pakundia,20,15,5,5,5
+16,Tarail,3,4,0,2,2
+17,Total,163,137,75,95,82

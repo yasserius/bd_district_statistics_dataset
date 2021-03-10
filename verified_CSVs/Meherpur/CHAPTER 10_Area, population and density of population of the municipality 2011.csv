@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6
 0,"Area, population and density of population of the municipality 2011",,,,,,
-1,,,,,,,
-2,Municipality,Name of municipality,Area (In sq. k.m.),Population Census-2011 Male,Population Census-2011 Female,Population Census-2011 Both sex,Density per sq.k.m.
-3,Gangni,Gangni,17,12573,12619,25192,1482
-4,Mujibnagar,0,0,0,0,0,0
-5,Meherpur Sadar,Meherpur,15.92,21556,21247,42803,2688
-6,Total,,32.92,34129,33866,67995,4170
+1,Meherpur,,,,,,
+2,,,,,,,
+3,Municipality,Name of municipality,Area (In sq. k.m.),Population Census-2011 Male,Population Census-2011 Female,Population Census-2011 Both sex,Density per sq.k.m.
+4,Gangni,Gangni,17,12573,12619,25192,1482
+5,Mujibnagar,0,0,0,0,0,0
+6,Meherpur Sadar,Meherpur,15.92,21556,21247,42803,2688
+7,Total,,32.92,34129,33866,67995,4170

@@ -1,14 +1,15 @@
 ,0,1,2,3
 0,Number of selected agricultural machine 2008,,,
-1,,,,
-2,Upazila,Number of power tiller,Tractor,Number of threshing machine
-3,Begumganj,137,129,3767
-4,Chatkhil,96,82,1753
-5,Companiganj,135,95,1238
-6,Hatiya,107,101,401
-7,Kabirhat,83,35,1226
-8,Noakhali Sadar,104,56,1376
-9,Senbagh,80,44,4907
-10,Sonaimuri,166,65,4207
-11,Subarnachar,209,86,217
-12,Total,1117,693,19092
+1,Noakhali,,,
+2,,,,
+3,Upazila,Number of power tiller,Tractor,Number of threshing machine
+4,Begumganj,137,129,3767
+5,Chatkhil,96,82,1753
+6,Companiganj,135,95,1238
+7,Hatiya,107,101,401
+8,Kabirhat,83,35,1226
+9,Noakhali Sadar,104,56,1376
+10,Senbagh,80,44,4907
+11,Sonaimuri,166,65,4207
+12,Subarnachar,209,86,217
+13,Total,1117,693,19092

@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Number of missionary hospital and charitable dispensary 2011,,,,,,
-1,,,,,,,
-2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Fulchhari,0,0,0,0,0,0
-4,Gaibandha Sadar,0,0,0,0,0,0
-5,Gobindaganj,11,0,4,2,2,25
-6,Palashbari,0,0,0,0,0,0
-7,Sadullapur,0,0,0,0,0,0
-8,Saghata,0,0,0,0,0,0
-9,Sundarganj,0,0,0,0,0,0
-10,Total,11,0,4,2,2,25
+1,Gaibandha,,,,,,
+2,,,,,,,
+3,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Fulchhari,0,0,0,0,0,0
+5,Gaibandha Sadar,0,0,0,0,0,0
+6,Gobindaganj,11,0,4,2,2,25
+7,Palashbari,0,0,0,0,0,0
+8,Sadullapur,0,0,0,0,0,0
+9,Saghata,0,0,0,0,0,0
+10,Sundarganj,0,0,0,0,0,0
+11,Total,11,0,4,2,2,25

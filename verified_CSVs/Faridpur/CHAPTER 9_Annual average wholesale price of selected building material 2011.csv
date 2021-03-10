@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building material 2011,,,,,,
-1,(Price in taka),,,,,,
-2, Upazila,Brick-01 (per1000),Cement (per 50 kg bag),Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
-3,Alfadanga,7000,480,72000,28,20,130
-4,Bhanga,6500,420,60000,15,10,130
-5,Boalmari,6500,440,69500,30,16,42
-6,Charbhadrashon,7000,395,60000,24,20,50
-7,Faridpur Sadar,6500,450,68000,30,24,71
-8,Madhukhali,6000,425,58000,18,10,40
-9,Nagarkanda,6500,450,60000,25,22,45
-10,Sadarpur,7200,455,58000,20,18,42
-11,Saltha,6500,450,60000,25,22,0
-12,Average,6633,441,62833,24,18,69
+1,Faridpur,,,,,,
+2,(Price in taka),,,,,,
+3, Upazila,Brick-01 (per1000),Cement (per 50 kg bag),Iron bar (per ton),Sand-01 (per c.f.t.),Sand -02 (per c.f.t.),Stone (per c.f.t.)
+4,Alfadanga,7000,480,72000,28,20,130
+5,Bhanga,6500,420,60000,15,10,130
+6,Boalmari,6500,440,69500,30,16,42
+7,Charbhadrashon,7000,395,60000,24,20,50
+8,Faridpur Sadar,6500,450,68000,30,24,71
+9,Madhukhali,6000,425,58000,18,10,40
+10,Nagarkanda,6500,450,60000,25,22,45
+11,Sadarpur,7200,455,58000,20,18,42
+12,Saltha,6500,450,60000,25,22,0
+13,Average,6633,441,62833,24,18,69

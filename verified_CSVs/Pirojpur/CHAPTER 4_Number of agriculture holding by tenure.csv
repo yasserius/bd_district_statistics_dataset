@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
-1,(According to Agriculture Census 2008),,,,
-2,Upazila,Total holding,Owner holding,Owner cum tenant,Tenant holding
-3,Bhandaria,25016,25543,5537,2461
-4,Kawkhali,11174,12351,2776,751
-5,Mathbaria,43722,43726,12258,3211
-6,Nazirpur,31821,25757,10854,1068
-7,Nesarabad,29107,36618,6566,2508
-8,Pirojpur Sadar,25189,26031,6936,1974
-9,Zianagar,11074,13285,2127,713
-10,Total,177103,183311,47054,12692
+1,Pirojpur,,,,
+2,(According to Agriculture Census 2008),,,,
+3,Upazila,Total holding,Owner holding,Owner cum tenant,Tenant holding
+4,Bhandaria,25016,25543,5537,2461
+5,Kawkhali,11174,12351,2776,751
+6,Mathbaria,43722,43726,12258,3211
+7,Nazirpur,31821,25757,10854,1068
+8,Nesarabad,29107,36618,6566,2508
+9,Pirojpur Sadar,25189,26031,6936,1974
+10,Zianagar,11074,13285,2127,713
+11,Total,177103,183311,47054,12692

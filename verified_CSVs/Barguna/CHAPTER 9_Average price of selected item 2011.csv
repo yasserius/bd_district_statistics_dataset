@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,Average price of selected item 2011,,,,,,,
-1,"(Price unit per kg, taka)",,,,,,,
-2,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (ata),Potato,Soyabean oil
-3,Amtali,43,28,28,22,30,14,129
-4,Bamna,44,30,28,18,30,14,110
-5,Barguna Sadar,44,28,28,22,30,14,135
-6,Betagi,45,32,30,0,33,14,135
-7,Patharghata,40,32,25,15,30,12,130
-8,Average,43,30,28,19,31,14,128
+1,Barguna,,,,,,,
+2,"(Price unit per kg, taka)",,,,,,,
+3,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (ata),Potato,Soyabean oil
+4,Amtali,43,28,28,22,30,14,129
+5,Bamna,44,30,28,18,30,14,110
+6,Barguna Sadar,44,28,28,22,30,14,135
+7,Betagi,45,32,30,0,33,14,135
+8,Patharghata,40,32,25,15,30,12,130
+9,Average,43,30,28,19,31,14,128

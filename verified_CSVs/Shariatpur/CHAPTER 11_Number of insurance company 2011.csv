@@ -1,11 +1,12 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,,,,
-2,Upazila,Number of insurance company,Number of employee,Number of client
-3,Bhedarganj,3,15,1200
-4,Damudya,4,425,22000
-5,Gosairhat,4,146,6150
-6,Naria,6,24,8556
-7,Shariatpur Sadar,13,519,10635
-8,Zanjira,9,16,1624
-9,Total,39,1145,50165
+1,Shariatpur,,,
+2,,,,
+3,Upazila,Number of insurance company,Number of employee,Number of client
+4,Bhedarganj,3,15,1200
+5,Damudya,4,425,22000
+6,Gosairhat,4,146,6150
+7,Naria,6,24,8556
+8,Shariatpur Sadar,13,519,10635
+9,Zanjira,9,16,1624
+10,Total,39,1145,50165

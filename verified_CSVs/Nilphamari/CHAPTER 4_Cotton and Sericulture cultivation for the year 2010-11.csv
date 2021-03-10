@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Cotton and Sericulture cultivation for the year 2010-11,,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,All Cotton Area,All Cotton Production,Sericulture Area,Sericulture Production
-3,Dimla,10,2,0,0
-4,Domar,363,103,0,0
-5,Jaldhaka,0,0,0,0
-6,Kishorgonj,0,0,0,0
-7,Nilphamary Sadar,0,0,0,0
-8,Sayedpur,0,0,0,0
-9,Total,373,105,0,0
+1,Nilphamari,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,All Cotton Area,All Cotton Production,Sericulture Area,Sericulture Production
+4,Dimla,10,2,0,0
+5,Domar,363,103,0,0
+6,Joldhaka,0,0,0,0
+7,Kishorgonj,0,0,0,0
+8,Nilphamary Sadar,0,0,0,0
+9,Sayedpur,0,0,0,0
+10,Total,373,105,0,0

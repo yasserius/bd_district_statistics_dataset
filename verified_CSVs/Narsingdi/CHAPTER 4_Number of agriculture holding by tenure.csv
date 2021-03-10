@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of agriculture holding by tenure,,,,
-1,(According to Agriculture Census 2008),,,,
-2,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
-3,Belabo,25733,24997,11369,1446
-4,Manohardi,41361,39376,18616,557
-5,Narsingdi Sadar,36442,87790,12719,18549
-6,Palash,17527,31760,5840,3290
-7,Roypura,53766,73385,21611,3769
-8,Shibpur,37669,43748,14004,2066
-9,Total,212498,301056,84159,29677
+1,Narsingdi,,,,
+2,(According to Agriculture Census 2008),,,,
+3,Upazila,Total farm holding,Owner holding,Owner cum tenant,Tenant holding
+4,Belabo,25733,24997,11369,1446
+5,Manohardi,41361,39376,18616,557
+6,Narsingdi Sadar,36442,87790,12719,18549
+7,Palash,17527,31760,5840,3290
+8,Roypura,53766,73385,21611,3769
+9,Shibpur,37669,43748,14004,2066
+10,Total,212498,301056,84159,29677

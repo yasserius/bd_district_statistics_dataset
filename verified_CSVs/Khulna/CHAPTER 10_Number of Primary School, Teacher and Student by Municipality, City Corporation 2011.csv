@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,"Number of Primary School, Teacher and Student by Municipality, City Corporation 2011",,,,,,,,,,
-1,,,,,,,,,,,
-2, Municipality /city corporation,Primary school - Govt.,Primary school  - Non- Govt.,Primary school - Total,Teacher - Govt.,Teacher - Non- Govt.,Teacher - Total,Student - Govt.,Student - Non- Govt.,Student - Total, Students per teacher
-3,Dacope,4,1,5,16,3,19,600,150,750,30
-4,Khulna City,77,59,136,418,320,738,20301,11468,31769,43
-5,Paikgachha,2,2,4,15,8,23,450,250,700,31
-6,Total,83,62,145,449,331,780,21351,11868,33219,43
+1,Khulna,,,,,,,,,,
+2,,,,,,,,,,,
+3,Municipality / City Corporation,Primary school - Govt.,Primary school  - Non- Govt.,Primary school - Total,Teacher - Govt.,Teacher - Non- Govt.,Teacher - Total,Student - Govt.,Student - Non- Govt.,Student - Total, Students per teacher
+4,Dacope,4,1,5,16,3,19,600,150,750,30
+5,Khulna City,77,59,136,418,320,738,20301,11468,31769,43
+6,Paikgachha,2,2,4,15,8,23,450,250,700,31
+7,Total,83,62,145,449,331,780,21351,11868,33219,43

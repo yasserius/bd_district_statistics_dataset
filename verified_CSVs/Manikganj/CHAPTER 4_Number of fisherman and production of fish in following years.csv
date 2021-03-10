@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in metric ton),,,,
-2,Upazila,2010-11 - Number,2010-11 - Production,2009-10 - Number,2009-10 - Production
-3,Daulotpur,1082,12958,1003,12647
-4,Gheor,335,2914,335,2872
-5,Horirampur,3821,2016,3778,2000
-6,Manikganj Sadar,4640,2124,5,2098
-7,Saturia,1040,2625,1040,2570
-8,Shibalaya,5900,2263,5900,2127
-9,Singair,2018,2748,2018,2748
-10,Total,18836,27648,14079,27062
+1,Manikganj,,,,
+2,(Production in metric ton),,,,
+3,Upazila,2010-11 - Number,2010-11 - Production,2009-10 - Number,2009-10 - Production
+4,Daulotpur,1082,12958,1003,12647
+5,Gheor,335,2914,335,2872
+6,Horirampur,3821,2016,3778,2000
+7,Manikganj Sadar,4640,2124,5,2098
+8,Saturia,1040,2625,1040,2570
+9,Shibalaya,5900,2263,5900,2127
+10,Singair,2018,2748,2018,2748
+11,Total,18836,27648,14079,27062

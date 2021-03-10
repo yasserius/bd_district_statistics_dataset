@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish during the year 2010-2011,,,,
-1,,,,,
-2,(Production in metric ton) -  Upazila,(Production in metric ton) - 2010-11 - Number,(Production in metric ton) - 2010-11 - Production,(Production in metric ton) - 2009-10 - Number,(Production in metric ton) - 2009-10 - Production
-3,Dhaka Metropolitan,476,662,457,167
-4,Dhamrai,4700,5037,4700,3011
-5,Dohar,1400,2024,1400,1819
-6,Keraniganj,650,168,655,172
-7,Nawabganj,13800,2500,13000,2400
-8,Savar,7073,1380,7073,1078
-9,Total,28099,11771,27285,8647
+1,Dhaka,,,,
+2,,,,,
+3,(Production in metric ton) -  Upazila,(Production in metric ton) - 2010-11 - Number,(Production in metric ton) - 2010-11 - Production,(Production in metric ton) - 2009-10 - Number,(Production in metric ton) - 2009-10 - Production
+4,Dhaka Metropolitan,476,662,457,167
+5,Dhamrai,4700,5037,4700,3011
+6,Dohar,1400,2024,1400,1819
+7,Keraniganj,650,168,655,172
+8,Nawabganj,13800,2500,13000,2400
+9,Savar,7073,1380,7073,1078
+10,Total,28099,11771,27285,8647

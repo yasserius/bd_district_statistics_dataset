@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6
 0,Number of missionary hospital and charitable dispensary 2011,,,,,,
-1,,,,,,,
-2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Barlekha,0,0,0,0,0,0
-4,Juri,0,0,0,0,0,0
-5,Kamalganj,10,50,5,10,4,89
-6,Kulaura,1,35,5,14,5,59
-7,Moulvibazar Sadar,1,4,3,4,2,11
-8,Rajnagar,0,0,0,0,0,0
-9,Sreemangal,0,0,0,0,0,0
-10,Total,12,89,13,28,11,159
+1,Moulvibazar,,,,,,
+2,,,,,,,
+3,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Barlekha,0,0,0,0,0,0
+5,Juri,0,0,0,0,0,0
+6,Kamalganj,10,50,5,10,4,89
+7,Kulaura,1,35,5,14,5,59
+8,Moulvibazar Sadar,1,4,3,4,2,11
+9,Rajnagar,0,0,0,0,0,0
+10,Sreemangal,0,0,0,0,0,0
+11,Total,12,89,13,28,11,159

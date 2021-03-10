@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of branch of Grameen bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of member,Number of account
-3,Jhenaigati,2,19,11749,11749
-4,Nakla,4,28,17807,17807
-5,Nalitabari,6,40,17032,20634
-6,Sherpur Sadar,6,50,33618,33618
-7,Sreebardi,7,57,30457,30457
-8,Total,25,194,110663,114265
+1,Sherpur,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of member,Number of account
+4,Jhenaigati,2,19,11749,11749
+5,Nakla,4,28,17807,17807
+6,Nalitabari,6,40,17032,20634
+7,Sherpur Sadar,6,50,33618,33618
+8,Sreebardi,7,57,30457,30457
+9,Total,25,194,110663,114265

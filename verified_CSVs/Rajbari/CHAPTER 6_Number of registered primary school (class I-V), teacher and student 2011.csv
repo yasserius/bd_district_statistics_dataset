@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of registered primary school (class I-V), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of registered primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Baliakandi,29,38,57,95,2647,2818,5465,58
-4,Goalanda,17,31,32,63,1679,1802,3481,55
-5,Kalukhali,31,47,64,111,3152,3279,6431,58
-6,Pangsha,57,148,80,228,4800,5430,10230,44
-7,Rajbari Sadar,49,110,72,182,6888,7015,13903,76
-8,Total,183,374,305,679,19166,20344,39510,58
+1,Rajbari,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of registered primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Baliakandi,29,38,57,95,2647,2818,5465,58
+5,Goalanda,17,31,32,63,1679,1802,3481,55
+6,Kalukhali,31,47,64,111,3152,3279,6431,58
+7,Pangsha,57,148,80,228,4800,5430,10230,44
+8,Rajbari Sadar,49,110,72,182,6888,7015,13903,76
+9,Total,183,374,305,679,19166,20344,39510,58

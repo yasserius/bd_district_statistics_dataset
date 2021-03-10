@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,5.12 Number of auto rice mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Units,Persons engaged - Male,Persons engaged - Female,Persons engaged - Total
-3,Kushtia Sadar,9,9,360,369
-4,Bheramara,0,0,0,0
-5,Daulatpur,1,3,21,24
-6,Khoksa,0,0,0,0
-7,Kumarkhali,1,1,15,16
-8,Mirpur,0,0,0,0
-9,Total,11,13,396,409
+1,Kushtia,,,,
+2,,,,,
+3,Upazila, Units,Persons engaged - Male,Persons engaged - Female,Persons engaged - Total
+4,Kushtia Sadar,9,9,360,369
+5,Bheramara,0,0,0,0
+6,Daulatpur,1,3,21,24
+7,Khoksa,0,0,0,0
+8,Kumarkhali,1,1,15,16
+9,Mirpur,0,0,0,0
+10,Total,11,13,396,409

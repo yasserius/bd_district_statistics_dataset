@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of branch and accounts of Sonali and Janata bank 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2, Thana/ Upazila,Sonali Bank - Number of branch,Sonali Bank - Account - S.D,Sonali Bank - Account - C.D,Sonali Bank - Account - F.D,Sonali Bank - Account - S.T.D,Janata Bank - Number of branch,Janata Bank - Account - S.D,Janata Bank - Account - C.D,Janata Bank - Account - F.D,Janata Bank - Account - S.T.D
-3,Chandpur Sadar,4,17992,1602,476,148,4,17496,1219,367,68
-4,Foridganj,2,23220,1730,926,59,2,27781,804,303,34
-5,Haimchar,1,18,0,167,18,0,0,0,0,0
-6,Hajiganj,2,18858,1161,299,52,1,7425,199,207,25
-7,Kachua,3,38675,1524,297,14,3,35268,1343,318,82
-8,Matlab Dakshin,1,11050,460,170,33,1,0,272,144,5
-9,Matlab Uttar,3,23299,996,813,42,3,27963,948,903,14
-10,Shahrasti,4,19694,1401,321,40,1,18287,478,149,10
-11,Total,20,152806,8874,3469,406,15,134220,5263,2391,238
+1,Chandpur,,,,,,,,,,
+2,,,,,,,,,,,
+3, Thana/ Upazila,Sonali Bank - Number of branch,Sonali Bank - Account - S.D,Sonali Bank - Account - C.D,Sonali Bank - Account - F.D,Sonali Bank - Account - S.T.D,Janata Bank - Number of branch,Janata Bank - Account - S.D,Janata Bank - Account - C.D,Janata Bank - Account - F.D,Janata Bank - Account - S.T.D
+4,Chandpur Sadar,4,17992,1602,476,148,4,17496,1219,367,68
+5,Foridganj,2,23220,1730,926,59,2,27781,804,303,34
+6,Haimchar,1,18,0,167,18,0,0,0,0,0
+7,Hajiganj,2,18858,1161,299,52,1,7425,199,207,25
+8,Kachua,3,38675,1524,297,14,3,35268,1343,318,82
+9,Matlab Dakshin,1,11050,460,170,33,1,0,272,144,5
+10,Matlab Uttar,3,23299,996,813,42,3,27963,948,903,14
+11,Shahrasti,4,19694,1401,321,40,1,18287,478,149,10
+12,Total,20,152806,8874,3469,406,15,134220,5263,2391,238

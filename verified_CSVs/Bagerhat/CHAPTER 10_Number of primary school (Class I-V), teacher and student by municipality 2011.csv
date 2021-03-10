@@ -1,8 +1,9 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,"Number of primary school (Class I-V), teacher and student by municipality 2011",,,,,,,,,,
-1,,,,,,,,,,,
-2, Municipality,Primary school - Govt.,Primary school - Non- govt.,Primary school - Total,Number of teacher - Govt.,Number of teacher - Non- govt.,Number of teacher - Total,Number of student - Govt.,Number of student - Non- govt.,Number of student - Total,Students per teacher
-3,Bagerhat,10,1,11,56,4,60,1532,61,1593,36
-4,Morrelgonj,6,2,8,46,8,54,1260,246,1506,27
-5,Mongla,4,17,21,18,74,92,1200,3056,4256,40
-6,Total,20,20,40,120,86,206,3992,3363,7355,35
+1,Bagerhat,,,,,,,,,,
+2,,,,,,,,,,,
+3, Municipality,Primary school - Govt.,Primary school - Non- govt.,Primary school - Total,Number of teacher - Govt.,Number of teacher - Non- govt.,Number of teacher - Total,Number of student - Govt.,Number of student - Non- govt.,Number of student - Total,Students per teacher
+4,Bagerhat,10,1,11,56,4,60,1532,61,1593,36
+5,Morrelgonj,6,2,8,46,8,54,1260,246,1506,27
+6,Mongla,4,17,21,18,74,92,1200,3056,4256,40
+7,Total,20,20,40,120,86,206,3992,3363,7355,35

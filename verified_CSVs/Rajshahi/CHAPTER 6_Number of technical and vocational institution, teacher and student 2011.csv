@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of technical and vocational institution, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila/city corporation,Number of institution,Numbet of teacher Male,Numbet of teacher Female,Numbet of teacher Total,Number of student Male,Number of student Female,Number of student Total,Student per teacher
-3,Bagha,10,41,29,70,892,455,1347,19
-4,Baghmara,0,0,0,0,0,0,0,0
-5,Charghat,4,72,18,90,1040,710,1750,19
-6,Durgapur,0,0,0,0,0,0,0,0
-7,Godagari,4,10,0,10,400,240,640,64
-8,Mohanpur,2,9,4,13,151,24,175,13
-9,Paba,6,47,14,61,824,468,1292,21
-10,Puthia,0,0,0,0,0,0,0,0
-11,Rajshahi city corporation,11,213,68,281,6791,2294,9085,32
-12,Tanore,3,24,4,28,406,93,499,18
-13,Total,40,416,137,553,10504,4284,14788,27
+1,Rajshahi,,,,,,,,
+2,,,,,,,,,
+3,Upazila/city corporation,Number of institution,Numbet of teacher Male,Numbet of teacher Female,Numbet of teacher Total,Number of student Male,Number of student Female,Number of student Total,Student per teacher
+4,Bagha,10,41,29,70,892,455,1347,19
+5,Baghmara,0,0,0,0,0,0,0,0
+6,Charghat,4,72,18,90,1040,710,1750,19
+7,Durgapur,0,0,0,0,0,0,0,0
+8,Godagari,4,10,0,10,400,240,640,64
+9,Mohanpur,2,9,4,13,151,24,175,13
+10,Paba,6,47,14,61,824,468,1292,21
+11,Puthia,0,0,0,0,0,0,0,0
+12,Rajshahi City Corporation,11,213,68,281,6791,2294,9085,32
+13,Tanore,3,24,4,28,406,93,499,18
+14,Total,40,416,137,553,10504,4284,14788,27

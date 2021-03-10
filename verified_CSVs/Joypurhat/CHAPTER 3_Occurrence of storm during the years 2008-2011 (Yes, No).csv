@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,"Occurrence of storm during the years 2008-2011 (Yes, No)",,,,
-1,,,,,
-2,Upazila,2008,2009,2010,2011
-3,Akkelpur,No,No,No,No
-4,Joypurhat sadar,No,No,No,No
-5,Kalai,No,No,No,No
-6,Khetlal,No,No,No,No
-7,Panchbibi,No,No,No,No
+1,Joypurhat,,,,
+2,,,,,
+3,Upazila,2008,2009,2010,2011
+4,Akkelpur,No,No,No,No
+5,Joypurhat sadar,No,No,No,No
+6,Kalai,No,No,No,No
+7,Khetlal,No,No,No,No
+8,Panchbibi,No,No,No,No

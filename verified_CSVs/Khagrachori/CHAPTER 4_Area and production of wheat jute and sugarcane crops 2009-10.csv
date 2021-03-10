@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Area and production of wheat jute and sugarcane crops 2009-10,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Wheat Area,Wheat Production,Jute Area,Jute Production,Sugarcane Area,Sugarcane Production
-3,Dighinala,0,0,0,0,88,26
-4,Khagrachhari Sadar,0,0,0,0,322,4970
-5,Laxshmichhari,0,0,0,0,16,192
-6,Mahalchhari,0,0,0,0,16,34
-7,Manikchhari,0,0,0,0,26,185
-8,Matiranga,0,0,0,0,76,1427
-9,Panchhari,0,0,0,0,31,455
-10,Ramgarh,0,0,0,0,0,0
-11,Total,0,0,0,0,575,7288
+1,Khagrachori,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Wheat Area,Wheat Production,Jute Area,Jute Production,Sugarcane Area,Sugarcane Production
+4,Dighinala,0,0,0,0,88,26
+5,Khagrachori,0,0,0,0,322,4970
+6,Laxshmichhari,0,0,0,0,16,192
+7,Mahalchhari,0,0,0,0,16,34
+8,Manikchhari,0,0,0,0,26,185
+9,Matiranga,0,0,0,0,76,1427
+10,Panchhari,0,0,0,0,31,455
+11,Ramgarh,0,0,0,0,0,0
+12,Total,0,0,0,0,575,7288

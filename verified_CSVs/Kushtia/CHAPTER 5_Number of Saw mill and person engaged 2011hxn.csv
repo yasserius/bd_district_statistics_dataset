@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of Saw mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Units,Persons engaged - Family,Persons engaged - Hired,Persons engaged - Total
-3,Kushtia Sadar,40,120,240,360
-4,Bheramara,26,26,104,130
-5,Daulatpur,28,42,820,862
-6,Khoksa,14,14,42,56
-7,Kumarkhali,30,30,90,120
-8,Mirpur,68,68,145,182
-9,Total,206,300,1441,1710
+1,Kushtia,,,,
+2,,,,,
+3,Upazila, Units,Persons engaged - Family,Persons engaged - Hired,Persons engaged - Total
+4,Kushtia Sadar,40,120,240,360
+5,Bheramara,26,26,104,130
+6,Daulatpur,28,42,820,862
+7,Khoksa,14,14,42,56
+8,Kumarkhali,30,30,90,120
+9,Mirpur,68,68,145,182
+10,Total,206,300,1441,1710

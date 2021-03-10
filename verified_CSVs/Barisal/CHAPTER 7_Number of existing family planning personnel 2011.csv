@@ -1,16 +1,17 @@
 ,0,1,2,3,4,5,6,7
 0,Number of existing family planning personnel 2011,,,,,,,
-1,,,,,,,,
-2,Upazila/city corporation,TFPO,M.O,FPI,TFPA,FWV,FWA,Midwife or SBA
-3,Agailjhara,1,1,5,3,5,35,9
-4,Babuganj,1,1,6,3,10,36,0
-5,Bakerganj,1,1,14,3,12,77,3
-6,Banaripara,1,1,7,3,7,36,0
-7,Barisal city corporation,0,4,6,3,7,18,14
-8,Barisal sadar,1,2,10,3,17,57,10
-9,Gaurnadi,0,1,3,1,9,31,5
-10,Hizla,1,1,6,4,5,31,4
-11,Mehendiganj,1,13,13,3,7,56,0
-12,Muladi,0,1,4,3,6,40,0
-13,Wazirpur,1,1,9,3,7,54,0
-14,Total,8,27,83,32,92,471,45
+1,Barisal,,,,,,,
+2,,,,,,,,
+3,Upazila/city corporation,TFPO,M.O,FPI,TFPA,FWV,FWA,Midwife or SBA
+4,Agailjhara,1,1,5,3,5,35,9
+5,Babuganj,1,1,6,3,10,36,0
+6,Bakerganj,1,1,14,3,12,77,3
+7,Banaripara,1,1,7,3,7,36,0
+8,Barisal city corporation,0,4,6,3,7,18,14
+9,Barisal Sadar,1,2,10,3,17,57,10
+10,Gaurnadi,0,1,3,1,9,31,5
+11,Hizla,1,1,6,4,5,31,4
+12,Mehendiganj,1,13,13,3,7,56,0
+13,Muladi,0,1,4,3,6,40,0
+14,Wazirpur,1,1,9,3,7,54,0
+15,Total,8,27,83,32,92,471,45

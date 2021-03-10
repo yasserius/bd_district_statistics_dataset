@@ -1,18 +1,19 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of secondary school, teacher and student by municipality, city corporation 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila/City corporation,Number of institution,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Student per teacher
-3,Balaganj,0,0,0,0,0,0,0,0
-4,Beanibazar,4,43,8,51,582,1164,1746,34
-5,Bishwanath,0,0,0,0,0,0,0,0
-6,Companiganj,0,0,0,0,0,0,0,0
-7,Dakhin surma,0,0,0,0,0,0,0,0
-8,Fenchuganj,0,0,0,0,0,0,0,0
-9,Golapganj,2,23,5,28,270,731,1001,36
-10,Gowainghat,0,0,0,0,0,0,0,0
-11,Jaintiapur,0,0,0,0,0,0,0,0
-12,Kanaighat,9,110,14,124,1450,2200,3650,30
-13,Sylhet city corporation,23,210,160,370,9091,9647,18738,50
-14,Sylhet sadar,0,0,0,0,0,0,0,0
-15,Zakiganj,3,19,6,25,412,683,1095,43
-16,Total,41,405,193,598,11805,14425,26230,44
+1,Sylhet,,,,,,,,
+2,,,,,,,,,
+3,Upazila/City Corporation,Number of institution,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Student per teacher
+4,Balaganj,0,0,0,0,0,0,0,0
+5,Beanibazar,4,43,8,51,582,1164,1746,34
+6,Bishwanath,0,0,0,0,0,0,0,0
+7,Companiganj,0,0,0,0,0,0,0,0
+8,Dakhin Surma,0,0,0,0,0,0,0,0
+9,Fenchuganj,0,0,0,0,0,0,0,0
+10,Golapganj,2,23,5,28,270,731,1001,36
+11,Gowainghat,0,0,0,0,0,0,0,0
+12,Jaintiapur,0,0,0,0,0,0,0,0
+13,Kanaighat,9,110,14,124,1450,2200,3650,30
+14,Sylhet City Corporation,23,210,160,370,9091,9647,18738,50
+15,Sylhet Sadar,0,0,0,0,0,0,0,0
+16,Zakiganj,3,19,6,25,412,683,1095,43
+17,Total,41,405,193,598,11805,14425,26230,44

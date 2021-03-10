@@ -1,20 +1,21 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of papaya, guava, lime and lemon 2010-11",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila/City corporation,Papaya - Area,Papaya - Production,Guava - Area,Guava - Production,Lime and lemon - Area,Lime and lemon - Production
-3,Anowara,17,67,35,139,1,1
-4,Banshkhali,18,148,309,4080,165,873
-5,Boalkhali,177,319,10,76,86,74
-6,Chandanaish,62,273,179,1498,7,41
-7,Chittagong City Corp.,1,60,0,0,0,0
-8,Fatikchhari,86,361,148,278,18,12
-9,Hathazari,20,200,185,350,118,112
-10,Lohagara,9,145,76,233,14,30
-11,Mirsharai,52,372,178,532,66,357
-12,Patiya,3,240,4,316,35,105
-13,Rangunia,47,325,87,239,56,263
-14,Raozan,50,620,30,144,20,40
-15,Sandwip,87,121,35,50,27,41
-16,Satkania,97,97,100,745,27,542
-17,Sitakunda,6,90,66,604,54,251
-18,Total,731,3439,1442,9285,693,2741
+1,Chittagong,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila/City corporation,Papaya - Area,Papaya - Production,Guava - Area,Guava - Production,Lime and lemon - Area,Lime and lemon - Production
+4,Anowara,17,67,35,139,1,1
+5,Banshkhali,18,148,309,4080,165,873
+6,Boalkhali,177,319,10,76,86,74
+7,Chandanaish,62,273,179,1498,7,41
+8,Chittagong City Corporation,1,60,0,0,0,0
+9,Fatikchhari,86,361,148,278,18,12
+10,Hathazari,20,200,185,350,118,112
+11,Lohagara,9,145,76,233,14,30
+12,Mirsharai,52,372,178,532,66,357
+13,Patiya,3,240,4,316,35,105
+14,Rangunia,47,325,87,239,56,263
+15,Raozan,50,620,30,144,20,40
+16,Sandwip,87,121,35,50,27,41
+17,Satkania,97,97,100,745,27,542
+18,Sitakunda,6,90,66,604,54,251
+19,Total,731,3439,1442,9285,693,2741

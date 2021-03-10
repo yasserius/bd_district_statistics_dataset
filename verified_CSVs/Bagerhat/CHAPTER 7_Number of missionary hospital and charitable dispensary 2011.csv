@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,Number of missionary hospital and charitable dispensary 2011,,,,,,
-1,,,,,,,
-2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Bagerhat Sadar,1,0,1,0,0,3
-4,Kachua,0,0,0,0,0,0
-5,Rampal,0,0,0,0,0,0
-6,Sarankhola,0,0,0,0,0,0
-7,Chitalmari,0,0,0,0,0,0
-8,Morrelgonj,0,0,0,0,0,0
-9,Mongla,0,0,0,0,0,0
-10,Mollahat,2,0,2,4,2,18
-11,Fakirhat,0,0,0,0,0,0
-12,Total,3,0,3,4,2,21
+1,Bagerhat,,,,,,
+2,,,,,,,
+3,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Bagerhat Sadar,1,0,1,0,0,3
+5,Kachua,0,0,0,0,0,0
+6,Rampal,0,0,0,0,0,0
+7,Sharonkhola,0,0,0,0,0,0
+8,Chitolmari,0,0,0,0,0,0
+9,Morrelgonj,0,0,0,0,0,0
+10,Mongla,0,0,0,0,0,0
+11,Mollahat,2,0,2,4,2,18
+12,Fakirhat,0,0,0,0,0,0
+13,Total,3,0,3,4,2,21

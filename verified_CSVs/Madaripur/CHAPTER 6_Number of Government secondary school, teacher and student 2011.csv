@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Government secondary school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of  school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Kalkini,0,0,0,0,0,0,0,0
-4,Madaripur Sadar,2,31,10,41,1088,1011,2099,51
-5,Rajoir,0,0,0,0,0,0,0,0
-6,Shibchar,0,0,0,0,0,0,0,0
-7,Total,2,31,10,41,1088,1011,2099,51
+1,Madaripur,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of  school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Kalkini,0,0,0,0,0,0,0,0
+5,Madaripur Sadar,2,31,10,41,1088,1011,2099,51
+6,Rajoir,0,0,0,0,0,0,0,0
+7,Shibchar,0,0,0,0,0,0,0,0
+8,Total,2,31,10,41,1088,1011,2099,51

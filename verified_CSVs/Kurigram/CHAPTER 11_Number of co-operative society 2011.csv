@@ -1,14 +1,15 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,,,,
-2,Upazila,Number,Number of employee,Number of client
-3,Bhurungamari,330,10,10846
-4,Char Rajibpur,124,72,3550
-5,Chilmari,235,705,5756
-6,Kurigram Sadar,48,61,25970
-7,Nageshwari,315,150,7760
-8,Phulbari,72,0,2072
-9,Rajarhat,137,398,3514
-10,Raumari,68,8,8815
-11,Ulipur,357,20,8124
-12,Total,1686,1424,76407
+1,Kurigram,,,
+2,,,,
+3,Upazila,Number,Number of employee,Number of client
+4,Bhurungamari,330,10,10846
+5,Char Rajibpur,124,72,3550
+6,Chilmari,235,705,5756
+7,Kurigram Sadar,48,61,25970
+8,Nageshwari,315,150,7760
+9,Phulbari,72,0,2072
+10,Rajarhat,137,398,3514
+11,Raumari,68,8,8815
+12,Ulipur,357,20,8124
+13,Total,1686,1424,76407

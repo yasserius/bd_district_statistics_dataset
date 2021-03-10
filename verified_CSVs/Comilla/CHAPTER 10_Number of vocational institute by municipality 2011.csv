@@ -1,15 +1,16 @@
 ,0,1,2,3
 0,Number of vocational institute by municipality 2011,,,
-1,,,,
-2,Municipality,Number of institution,Number of teacher,Number of student
-3,Comilla,9,79,2377
-4,Barura,0,0,0
-5,Chandina,0,0,0
-6,Chauddagram,1,8,175
-7,Comilla Sadar Dakshin,1,13,242
-8,Daudkandi,1,6,149
-9,Debidwar,0,0,0
-10,Homna,0,0,0
-11,Laksam,0,0,0
-12,Nangalkot,0,0,0
-13,Total,12,106,2943
+1,Comilla,,,
+2,,,,
+3,Municipality,Number of institution,Number of teacher,Number of student
+4,Comilla,9,79,2377
+5,Barura,0,0,0
+6,Chandina,0,0,0
+7,Chauddagram,1,8,175
+8,Comilla Sadar Dakshin,1,13,242
+9,Daudkandi,1,6,149
+10,Debidwar,0,0,0
+11,Homna,0,0,0
+12,Laksam,0,0,0
+13,Nangalkot,0,0,0
+14,Total,12,106,2943

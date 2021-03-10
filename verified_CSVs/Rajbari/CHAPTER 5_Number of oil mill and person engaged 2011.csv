@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of oil mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Baliakandi,17,17,34,51
-4,Goalanda,5,0,14,14
-5,Kalukhali,4,4,20,24
-6,Pangsha,8,8,24,32
-7,Rajbari Sadar,7,0,42,42
-8,Total,41,29,134,163
+1,Rajbari,,,,
+2,,,,,
+3,Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Baliakandi,17,17,34,51
+5,Goalanda,5,0,14,14
+6,Kalukhali,4,4,20,24
+7,Pangsha,8,8,24,32
+8,Rajbari Sadar,7,0,42,42
+9,Total,41,29,134,163

@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of NGO school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of NGO school,Number of Teachers - Male,Number of Teachers - Female,Number of Teachers - Total,Number of Students - Male,Number of Students - Female,Number of Students - Total,Students per teacher
-3,Badarganj,146,20,126,146,138,300,438,3
-4,Gangachara,39,0,50,50,926,1588,2514,50
-5,Kaunia,64,17,47,64,1210,1337,2547,40
-6,Mithapukur,95,70,130,200,1950,1950,3900,19
-7,Pirgachha,92,0,92,92,958,1837,2795,30
-8,Pirganj,116,20,96,116,1472,2071,3543,31
-9,Rangpur sadar,59,45,77,122,1890,2310,4200,34
-10,Taraganj,232,28,211,239,4375,3655,8030,34
-11,Total,843,200,829,1029,12919,15048,27967,27
+1,Rangpur,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of NGO school,Number of Teachers - Male,Number of Teachers - Female,Number of Teachers - Total,Number of Students - Male,Number of Students - Female,Number of Students - Total,Students per teacher
+4,Badarganj,146,20,126,146,138,300,438,3
+5,Gangachara,39,0,50,50,926,1588,2514,50
+6,Kaunia,64,17,47,64,1210,1337,2547,40
+7,Mithapukur,95,70,130,200,1950,1950,3900,19
+8,Pirgachha,92,0,92,92,958,1837,2795,30
+9,Pirganj,116,20,96,116,1472,2071,3543,31
+10,Rangpur Sadar,59,45,77,122,1890,2310,4200,34
+11,Taraganj,232,28,211,239,4375,3655,8030,34
+12,Total,843,200,829,1029,12919,15048,27967,27

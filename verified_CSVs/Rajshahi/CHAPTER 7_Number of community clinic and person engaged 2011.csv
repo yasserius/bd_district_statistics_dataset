@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,Number of community clinic and person engaged 2011,,,,,,
-1,,,,,,,
-2,Upazila/city corporation,Number of clinic,Number of health asst.,Number of FPI,Number of FWV,Number of FWA,Number of other staff
-3,Bagha,20,18,5,6,30,19
-4,Baghmara,43,48,11,12,66,13
-5,Charghat,22,33,1,3,2,22
-6,Durgapur,19,22,8,0,19,0
-7,Godagari,34,37,5,6,49,83
-8,Mohanpur,16,16,0,0,10,0
-9,Paba,32,32,0,0,32,32
-10,Puthia,24,24,5,6,34,0
-11,Rajshahi city corporation,44,0,4,23,138,8
-12,Tanore,19,20,0,6,27,17
-13,Total,273,250,39,62,407,194
+1,Rajshahi,,,,,,
+2,,,,,,,
+3,Upazila/city corporation,Number of clinic,Number of health asst.,Number of FPI,Number of FWV,Number of FWA,Number of other staff
+4,Bagha,20,18,5,6,30,19
+5,Baghmara,43,48,11,12,66,13
+6,Charghat,22,33,1,3,2,22
+7,Durgapur,19,22,8,0,19,0
+8,Godagari,34,37,5,6,49,83
+9,Mohanpur,16,16,0,0,10,0
+10,Paba,32,32,0,0,32,32
+11,Puthia,24,24,5,6,34,0
+12,Rajshahi City Corporation,44,0,4,23,138,8
+13,Tanore,19,20,0,6,27,17
+14,Total,273,250,39,62,407,194

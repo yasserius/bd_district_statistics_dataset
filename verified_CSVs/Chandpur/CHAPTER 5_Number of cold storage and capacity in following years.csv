@@ -1,13 +1,14 @@
 ,0,1,2,3,4
 0,Number of cold storage and capacity in following years,,,,
-1,,,,,
-2, Upazila,2010-11 - Number,2010-11 - Installed capacity,2009-10 - Number,2009-10 - Installed capacity
-3,Chandpur Sadar,4,34000,4,34000
-4,Foridganj,0,0,0,0
-5,Haimchar,0,0,0,0
-6,Hajiganj,1,5000,1,5000
-7,Kachua,1,4500,1,4500
-8,Matlab Dakshin,3,6200,3,6200
-9,Matlab Uttar,0,0,0,0
-10,Shahrasti,0,0,0,0
-11,Total,9,49700,9,49700
+1,Chandpur,,,,
+2,,,,,
+3, Upazila,2010-11 - Number,2010-11 - Installed capacity,2009-10 - Number,2009-10 - Installed capacity
+4,Chandpur Sadar,4,34000,4,34000
+5,Foridganj,0,0,0,0
+6,Haimchar,0,0,0,0
+7,Hajiganj,1,5000,1,5000
+8,Kachua,1,4500,1,4500
+9,Matlab Dakshin,3,6200,3,6200
+10,Matlab Uttar,0,0,0,0
+11,Shahrasti,0,0,0,0
+12,Total,9,49700,9,49700

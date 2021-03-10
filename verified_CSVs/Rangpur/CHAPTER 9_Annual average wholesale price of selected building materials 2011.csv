@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,Annual average wholesale price of selected building materials 2011,,,,,,
-1,(Price in Taka),,,,,,
-2,Upazila,Brick-01 (per1000),Cement (per 50 KG bag),Iron Bar (per ton),Sand-01 (per C.Ft.),Sand -02 (per C.Ft.),Stone (per C.Ft.)
-3,Badarganj,5500,420,58000,35,15,105
-4,Gangachara,5200,460,62000,10.2,8.8,95.5
-5,Kaunia,5500,430,59000,32,12,100
-6,Mithapukur,6000,420,67500,13,7,105
-7,Pirgachha,6000,430,62600,36,15,110
-8,Pirganj,5000,480,70000,40,15,110
-9,Rangpur sadar,6000,450,60000,20,10,100
-10,Taraganj,5400,425,66000,37,11,105
-11,District Average,5500,450,62000,25,12,105
+1,Rangpur,,,,,,
+2,(Price in Taka),,,,,,
+3,Upazila,Brick-01 (per1000),Cement (per 50 KG bag),Iron Bar (per ton),Sand-01 (per C.Ft.),Sand -02 (per C.Ft.),Stone (per C.Ft.)
+4,Badarganj,5500,420,58000,35,15,105
+5,Gangachara,5200,460,62000,10.2,8.8,95.5
+6,Kaunia,5500,430,59000,32,12,100
+7,Mithapukur,6000,420,67500,13,7,105
+8,Pirgachha,6000,430,62600,36,15,110
+9,Pirganj,5000,480,70000,40,15,110
+10,Rangpur Sadar,6000,450,60000,20,10,100
+11,Taraganj,5400,425,66000,37,11,105
+12,District Average,5500,450,62000,25,12,105

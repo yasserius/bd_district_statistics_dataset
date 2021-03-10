@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kawmi madrasah, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Akkelpur,27,88,0,88,783,594,1377,16
-4,Joypurhat sadar,9,35,8,43,810,195,1003,23
-5,Kalai,3,3,0,3,37,34,71,24
-6,Khetlal,2,12,0,74,12,0,74,6
-7,Panchbibi,5,16,2,18,145,105,250,14
-8,Total,46,154,10,164,1787,928,2775,17
+1,Joypurhat,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of madrasah,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Akkelpur,27,88,0,88,783,594,1377,16
+5,Joypurhat sadar,9,35,8,43,810,195,1003,23
+6,Kalai,3,3,0,3,37,34,71,24
+7,Khetlal,2,12,0,74,12,0,74,6
+8,Panchbibi,5,16,2,18,145,105,250,14
+9,Total,46,154,10,164,1787,928,2775,17

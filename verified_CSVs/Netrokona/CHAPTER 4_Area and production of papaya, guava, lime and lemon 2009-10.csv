@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of papaya, guava, lime and lemon 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Papaya Area,Papaya Production,Guava Area,Guava Production,Lime and lemon Area,Lime and lemon Production
-3,Atpara,21,56,28,71,35,45
-4,Barhatta,16,52,31,78,39,57
-5,Durgapur,5,97,28,92,4,33
-6,Kalmakanda,11,338,138,225,20,38
-7,Kendua,26,543,55,97,63,174
-8,Khaliajuri,0,0,0,0,0,0
-9,Madan,1,13,2,17,10,25
-10,Mohanganj,30,73,28,65,28,32
-11,Netrokona Sadar,9,350,5,24,7,147
-12,Purbadhala,2,75,206,114,18,122
-13,Total,122,1597,520,783,223,672
+1,Netrokona,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Papaya Area,Papaya Production,Guava Area,Guava Production,Lime and lemon Area,Lime and lemon Production
+4,Atpara,21,56,28,71,35,45
+5,Barhatta,16,52,31,78,39,57
+6,Durgapur,5,97,28,92,4,33
+7,Kalmakanda,11,338,138,225,20,38
+8,Kendua,26,543,55,97,63,174
+9,Khaliajuri,0,0,0,0,0,0
+10,Madan,1,13,2,17,10,25
+11,Mohanganj,30,73,28,65,28,32
+12,Netrokona Sadar,9,350,5,24,7,147
+13,Purbadhala,2,75,206,114,18,122
+14,Total,122,1597,520,783,223,672

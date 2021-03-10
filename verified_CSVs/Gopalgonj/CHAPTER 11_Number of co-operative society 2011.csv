@@ -1,10 +1,11 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,,,,
-2,Upazila,Number,Number of employee,Number of client
-3,Gopalganj Sadar,74,90,20000
-4,Kashiani,196,392,3920
-5,Kotalipara,221,305,11379
-6,Muksudpur,573,200,21670
-7,Tungipara,160,276,4133
-8,Total,1224,1263,61102
+1,Gopalgonj,,,
+2,,,,
+3,Upazila,Number,Number of employee,Number of client
+4,Gopalganj Sadar,74,90,20000
+5,Kashiani,196,392,3920
+6,Kotalipara,221,305,11379
+7,Muksudpur,573,200,21670
+8,Tungipara,160,276,4133
+9,Total,1224,1263,61102

@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7
 0,Average price of selected item 2011,,,,,,,
-1,"(Price unit per kg, taka)",,,,,,,
-2,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
-3,Baliadangi,35,32,25,23,35,10,115
-4,Haripur,36,32,26,22,32,10,130
-5,Pirgonj,35,28,25,20,26,10,111
-6,Ranisankail,30,26,24,24,30,12,130
-7,Thakurgaon Sadar,45,32,30,20,28,10,85
-8,Average,36,30,26,22,30,10,114
+1,Thakurgaon,,,,,,,
+2,"(Price unit per kg, taka)",,,,,,,
+3,Upazila,Fine rice (minicate),Medium rice,Coarse rice (normal),Wheat,Coarse flour (Aata),Potato,Soyabean oil
+4,Baliadangi,35,32,25,23,35,10,115
+5,Haripur,36,32,26,22,32,10,130
+6,Pirgonj,35,28,25,20,26,10,111
+7,Ranisankail,30,26,24,24,30,12,130
+8,Thakurgaon Sadar,45,32,30,20,28,10,85
+9,Average,36,30,26,22,30,10,114

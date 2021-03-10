@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5
 0,"Number of ward, mahalla and household by municipality 2011",,,,,
-1,,,,,,
-2,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
-3,Belabo,-,-,-,-,-
-4,Manohardi,Manohardi,9,12,4159,4159
-5,Narsingdi Sadar,"Narsingdi, Madhabdi",18,48,18211,43684
-6,Palash,Goharshel,9,51,13473,18868
-7,Roypura,Roypura,9,23,5600,7282
-8,Sibpur,Sihpur,9,17,3548,4278
-9,Total,-,54,151,45832,78271
+1,Narsingdi,,,,,
+2,,,,,,
+3,Upazila,Name of municipality,Total ward,Total mahalla,Total holding,Total household
+4,Belabo,-,-,-,-,-
+5,Manohardi,Manohardi,9,12,4159,4159
+6,Narsingdi Sadar,"Narsingdi, Madhabdi",18,48,18211,43684
+7,Palash,Goharshel,9,51,13473,18868
+8,Roypura,Roypura,9,23,5600,7282
+9,Shibpur,Sihpur,9,17,3548,4278
+10,Total,-,54,151,45832,78271

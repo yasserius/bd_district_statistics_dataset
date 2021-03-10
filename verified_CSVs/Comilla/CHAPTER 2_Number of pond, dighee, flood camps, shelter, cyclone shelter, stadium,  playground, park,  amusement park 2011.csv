@@ -1,21 +1,22 @@
 ,0,1,2,3,4,5,6,7
 0,"Number of pond, dighee, flood camps, shelter, cyclone shelter, stadium,  playground, park,  amusement park 2011",,,,,,,
-1,,,,,,,,
-2, Upazila, Pond, Dighee,River flow,Flood camp/ shelter,Cyclone shelter,Stadium/ playground,Park/ amusement park
-3,Adarsha Sadar,3277,18,1,4,0,115,2
-4,Barura,6145,15,0,2,0,48,0
-5,Brahmanpara,4363,8,1,0,0,45,0
-6,Burichang,5072,10,2,0,0,67,0
-7,Chandina,9691,130,0,0,0,20,0
-8,Chauddagram,5098,8,3,0,0,82,0
-9,Comilla Sadar Dakshin,4938,7,0,0,0,12,3
-10,Daudkandi,4132,6,3,0,0,17,0
-11,Debidwar,7251,213,2,0,0,47,2
-12,Homna,891,1,2,0,0,11,0
-13,Laksam,4108,27,1,0,0,35,0
-14,Monoharganj,5568,7,1,6,0,84,0
-15,Meghna,40,0,1,0,0,5,0
-16,Muradnagar,7478,21,3,1,0,21,0
-17,Nangalkot,4620,30,1,0,0,46,0
-18,Titas,860,0,3,0,0,13,0
-19,Total,73532,501,24,13,0,668,7
+1,Comilla,,,,,,,
+2,,,,,,,,
+3, Upazila, Pond, Dighee,River flow,Flood camp/ shelter,Cyclone shelter,Stadium/ playground,Park/ amusement park
+4,Adarsha Sadar,3277,18,1,4,0,115,2
+5,Barura,6145,15,0,2,0,48,0
+6,Brahmanpara,4363,8,1,0,0,45,0
+7,Burichang,5072,10,2,0,0,67,0
+8,Chandina,9691,130,0,0,0,20,0
+9,Chauddagram,5098,8,3,0,0,82,0
+10,Comilla Sadar Dakshin,4938,7,0,0,0,12,3
+11,Daudkandi,4132,6,3,0,0,17,0
+12,Debidwar,7251,213,2,0,0,47,2
+13,Homna,891,1,2,0,0,11,0
+14,Laksam,4108,27,1,0,0,35,0
+15,Monoharganj,5568,7,1,6,0,84,0
+16,Meghna,40,0,1,0,0,5,0
+17,Muradnagar,7478,21,3,1,0,21,0
+18,Nangalkot,4620,30,1,0,0,46,0
+19,Titas,860,0,3,0,0,13,0
+20,Total,73532,501,24,13,0,668,7

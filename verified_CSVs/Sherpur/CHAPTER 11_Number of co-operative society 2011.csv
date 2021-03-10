@@ -1,10 +1,11 @@
 ,0,1,2,3
 0,Number of co-operative society 2011,,,
-1,,,,
-2,Upazila,Number,Number of employee,Number of client
-3,Jhenaigati,118,20,7500
-4,Nakla,259,77,10847
-5,Nalitabari,271,52,6775
-6,Sherpur Sadar,465,40,11992
-7,Sreebardi,0,0,0
-8,Total,1113,189,37114
+1,Sherpur,,,
+2,,,,
+3,Upazila,Number,Number of employee,Number of client
+4,Jhenaigati,118,20,7500
+5,Nakla,259,77,10847
+6,Nalitabari,271,52,6775
+7,Sherpur Sadar,465,40,11992
+8,Sreebardi,0,0,0
+9,Total,1113,189,37114

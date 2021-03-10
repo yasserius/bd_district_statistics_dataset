@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,"Length of metalled, semi metalled and unmetalled road 2011",,,,
-1,(Kilometer),,,,
-2,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
-3,Bhola Sadar,351,32,312,697
-4,Burhanuddin,15469,2925,13133,31527
-5,Char Fasson,306,16,430,752
-6,Daulatkhan,136.79,0,201.4,338.19
-7,Lalmohan,154.44,43.18,695,893.58
-8,Manpura,63,0,75,138
-9,Tazumuddin,76.91,9.03,158.97,244.91
-10,Total,16557.14,3025.21,15005.37,34590.68
+1,Bhola,,,,
+2,(Kilometer),,,,
+3,Upazila,Metalled road,Semi metalled road,Unmetalled (kacha) road,Total
+4,Bhola Sadar,351,32,312,697
+5,Burhanuddin,15469,2925,13133,31527
+6,Char Fasson,306,16,430,752
+7,Daulatkhan,136.79,0,201.4,338.19
+8,Lalmohan,154.44,43.18,695,893.58
+9,Manpura,63,0,75,138
+10,Tazumuddin,76.91,9.03,158.97,244.91
+11,Total,16557.14,3025.21,15005.37,34590.68

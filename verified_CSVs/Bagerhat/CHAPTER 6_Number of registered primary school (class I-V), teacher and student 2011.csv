@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of registered primary school (class I-V), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of registered primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Bagerhat Sadar,40,84,70,134,2395,2436,4831,36
-4,Kachua,44,83,129,212,2432,2263,4695,22
-5,Rampal,53,115,83,198,2650,2910,5560,28
-6,Sarankhola,78,113,170,283,5060,5940,11000,38
-7,Chitalmari,42,71,72,143,2087,2123,4210,29
-8,Morrelgonj,165,398,198,592,10780,8969,19748,33
-9,Mongla,30,60,53,113,2228,2193,4421,44
-10,Mollahat,39,92,53,145,2263,2163,4426,31
-11,Fakirhat,20,41,25,66,1398,1384,2782,42
-12,Total,511,1057,853,1886,31293,30381,61673,32
+1,Bagerhat,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of registered primary school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Bagerhat Sadar,40,84,70,134,2395,2436,4831,36
+5,Kachua,44,83,129,212,2432,2263,4695,22
+6,Rampal,53,115,83,198,2650,2910,5560,28
+7,Sharonkhola,78,113,170,283,5060,5940,11000,38
+8,Chitolmari,42,71,72,143,2087,2123,4210,29
+9,Morrelgonj,165,398,198,592,10780,8969,19748,33
+10,Mongla,30,60,53,113,2228,2193,4421,44
+11,Mollahat,39,92,53,145,2263,2163,4426,31
+12,Fakirhat,20,41,25,66,1398,1384,2782,42
+13,Total,511,1057,853,1886,31293,30381,61673,32

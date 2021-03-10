@@ -1,17 +1,18 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of school  college (operating jointly), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila,Number of institution,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Basail,0,0,0,0,0,0,0,0
-4,Bhuapur,0,0,0,0,0,0,0,0
-5,Delduar,0,0,0,0,0,0,0,0
-6,Dhanbari,0,0,0,0,0,0,0,0
-7,Ghatail,1,28,4,32,471,356,827,26
-8,Gopalpur,3,43,14,57,588,433,1021,18
-9,Kalihati,1,26,6,32,400,373,773,24
-10,Madhupur,0,0,0,0,0,0,0,0
-11,Mirzapur,1,1,19,20,0,750,750,38
-12,Nagarpur,0,0,0,0,0,0,0,0
-13,Sakhipur,1,17,3,20,368,237,605,30
-14,Tangail Sadar,1,19,8,27,576,408,984,36
-15,Total,8,134,54,188,2403,2557,4960,26
+1,Tangail,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of institution,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Basail,0,0,0,0,0,0,0,0
+5,Bhuapur,0,0,0,0,0,0,0,0
+6,Delduar,0,0,0,0,0,0,0,0
+7,Dhanbari,0,0,0,0,0,0,0,0
+8,Ghatail,1,28,4,32,471,356,827,26
+9,Gopalpur,3,43,14,57,588,433,1021,18
+10,Kalihati,1,26,6,32,400,373,773,24
+11,Madhupur,0,0,0,0,0,0,0,0
+12,Mirzapur,1,1,19,20,0,750,750,38
+13,Nagarpur,0,0,0,0,0,0,0,0
+14,Sakhipur,1,17,3,20,368,237,605,30
+15,Tangail Sadar,1,19,8,27,576,408,984,36
+16,Total,8,134,54,188,2403,2557,4960,26

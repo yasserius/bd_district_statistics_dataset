@@ -1,10 +1,11 @@
 ,0,1,2,3
 0,Number of insurance company 2011,,,
-1,,,,
-2,Upazila,Number of insurance company,Number of employee,Number of client
-3,Araihazar,12,873,12448
-4,Bandar,11,751,7241
-5,Narayanganj Sadar,12,290,7824
-6,Rupganj,6,17,4300
-7,Sonargaon,7,104,41100
-8,Total,48,2035,72913
+1,Narayanganj,,,
+2,,,,
+3,Upazila,Number of insurance company,Number of employee,Number of client
+4,Araihazar,12,873,12448
+5,Bandar,11,751,7241
+6,Narayanganj Sadar,12,290,7824
+7,Rupganj,6,17,4300
+8,Sonargaon,7,104,41100
+9,Total,48,2035,72913

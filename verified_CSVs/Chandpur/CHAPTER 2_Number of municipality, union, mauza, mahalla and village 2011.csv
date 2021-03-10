@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Number of municipality, union, mauza, mahalla and village 2011",,,,,,
-1,,,,,,,
-2, Upazila,Municipality,Ward(PSA),Mahalla,Union,Mauza,Village
-3,Chandpur Sadar,1,15,120,14,107,112
-4,Foridganj,1,9,21,15,159,161
-5,Haimchar,0,0,0,6,27,65
-6,Hajiganj,1,12,18,11,120,149
-7,Kachua,1,9,20,12,158,232
-8,Matlab Dakshin,1,9,31,6,77,97
-9,Matlab Uttar,1,9,41,14,127,251
-10,Shahrasti,1,9,17,10,152,163
-11,Total,7,72,268,88,927,1230
+1,Chandpur,,,,,,
+2,,,,,,,
+3, Upazila,Municipality,Ward(PSA),Mahalla,Union,Mauza,Village
+4,Chandpur Sadar,1,15,120,14,107,112
+5,Foridganj,1,9,21,15,159,161
+6,Haimchar,0,0,0,6,27,65
+7,Hajiganj,1,12,18,11,120,149
+8,Kachua,1,9,20,12,158,232
+9,Matlab Dakshin,1,9,31,6,77,97
+10,Matlab Uttar,1,9,41,14,127,251
+11,Shahrasti,1,9,17,10,152,163
+12,Total,7,72,268,88,927,1230

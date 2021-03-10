@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,"Number of primary school (Class I-V), teacher and student by municipality 2011",,,,,,,,,,
-1,,,,,,,,,,,
-2, Upazila,Primary school - Govt.,Primary school - Non- govt.,Primary school - Total,Number of teacher - Govt.,Number of teacher - Non- govt.,Number of teacher - Total,Number of student - Govt.,Number of student - Non- govt.,Number of student - Total,Students per teacher
-3,Bhaluka,4,2,6,38,9,47,1520,440,1960,42
-4,Fulbaria,5,2,7,37,8,45,1367,468,1835,41
-5,Gaffargaon,5,0,5,45,0,45,2520,0,2520,56
-6,Gauripur,13,10,23,66,40,106,3086,1500,4586,43
-7,Ishwargonj,4,4,8,29,15,44,1645,1268,2913,66
-8,Muktagacha,6,7,13,38,28,66,1290,1110,2460,37
-9,Mymensingh Sadar,22,2,24,156,8,164,11700,680,12380,75
-10,Nandail,6,2,8,41,8,49,2265,625,2890,59
-11,Phulpur,3,5,8,24,20,44,1261,874,2135,49
-12,Trishal,6,1,7,43,4,47,1976,274,2250,48
-13,Total,74,35,109,517,140,657,28630,7239,75929,55
+1,Mymensingh,,,,,,,,,,
+2,,,,,,,,,,,
+3, Upazila,Primary school - Govt.,Primary school - Non- govt.,Primary school - Total,Number of teacher - Govt.,Number of teacher - Non- govt.,Number of teacher - Total,Number of student - Govt.,Number of student - Non- govt.,Number of student - Total,Students per teacher
+4,Bhaluka,4,2,6,38,9,47,1520,440,1960,42
+5,Fulbaria,5,2,7,37,8,45,1367,468,1835,41
+6,Gaffargaon,5,0,5,45,0,45,2520,0,2520,56
+7,Gauripur,13,10,23,66,40,106,3086,1500,4586,43
+8,Ishwargonj,4,4,8,29,15,44,1645,1268,2913,66
+9,Muktagacha,6,7,13,38,28,66,1290,1110,2460,37
+10,Mymensingh Sadar,22,2,24,156,8,164,11700,680,12380,75
+11,Nandail,6,2,8,41,8,49,2265,625,2890,59
+12,Phulpur,3,5,8,24,20,44,1261,874,2135,49
+13,Trishal,6,1,7,43,4,47,1976,274,2250,48
+14,Total,74,35,109,517,140,657,28630,7239,75929,55

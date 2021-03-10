@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Area, population and density by municipality 2011",,,,,,
-1,,,,,,,
-2, Upazila,Name of municipality,Area (In sq. km.),Population census-2011 - Male,Population census-2011 - Female,Population census-2011 - Total,Density per sq.km.
-3,Abhaynagar,Noapara,25.11,43405,42451,85856,3419
-4,Bagherpara,Bagherpara,3.12,4194,4096,8290,2657
-5,Chaugachha,Chaugachha,11.63,10783,10639,21422,1842
-6,Jessore Sadar,Jessore,14.72,115634,101703,217337,14765
-7,Jhikargachha,Jhikargachha,9.43,16045,16729,32774,3476
-8,Keshabpur,Keshabpur,12.42,13141,13088,26229,2112
-9,Manirampur,Manirampur,17.65,14215,13923,28138,1594
-10,Sharsha,Benapole,8.6,18477,18047,36524,4247
-11,Total,-,102.68,235894,220676,456570,4447
+1,Jessore,,,,,,
+2,,,,,,,
+3, Upazila,Name of municipality,Area (In sq. km.),Population census-2011 - Male,Population census-2011 - Female,Population census-2011 - Total,Density per sq.km.
+4,Abhaynagar,Noapara,25.11,43405,42451,85856,3419
+5,Bagherpara,Bagherpara,3.12,4194,4096,8290,2657
+6,Chaugachha,Chaugachha,11.63,10783,10639,21422,1842
+7,Jessore Sadar,Jessore,14.72,115634,101703,217337,14765
+8,Jhikargachha,Jhikargachha,9.43,16045,16729,32774,3476
+9,Keshabpur,Keshabpur,12.42,13141,13088,26229,2112
+10,Manirampur,Manirampur,17.65,14215,13923,28138,1594
+11,Sharsha,Benapole,8.6,18477,18047,36524,4247
+12,Total,-,102.68,235894,220676,456570,4447

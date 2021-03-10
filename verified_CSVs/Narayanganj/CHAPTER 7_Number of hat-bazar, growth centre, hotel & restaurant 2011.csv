@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,"Number of hat-bazar, growth centre, hotel  restaurant 2011",,,,,
-1,,,,,,
-2,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
-3,Araihazar,27,36,2,113,0
-4,Bandar,30,3,3,80,0
-5,Narayanganj Sadar,88,2,1,477,11
-6,Rupganj,27,42,3,85,4
-7,Sonargaon,27,17,7,105,2
-8,Total,199,100,16,860,17
+1,Narayanganj,,,,,
+2,,,,,,
+3,Upazila,Daily bazar,Weekly hat,Growth centre,Restaurant,Hotel (residential)
+4,Araihazar,27,36,2,113,0
+5,Bandar,30,3,3,80,0
+6,Narayanganj Sadar,88,2,1,477,11
+7,Rupganj,27,42,3,85,4
+8,Sonargaon,27,17,7,105,2
+9,Total,199,100,16,860,17

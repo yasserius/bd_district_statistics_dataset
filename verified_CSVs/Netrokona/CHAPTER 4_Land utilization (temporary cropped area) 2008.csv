@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5,6,7
 0,Land utilization (temporary cropped area) 2008,,,,,,,
-1,,,,,,,,
-2, Upazila, Current fallow,Temporary cropped area Single,Temporary cropped area Double,Temporary cropped area Triple,Temporary cropped area Net,Temporary cropped area Gross, Productivity of crop
-3,Atpara,95,18658,8723,3387,30768,46265,150
-4,Barhatta,152,16068,16267,4653,36988,62561,169
-5,Durgapur,284,18561,20185,3376,42122,69059,164
-6,Kalmakanda,103,32481,19394,5253,57128,87028,152
-7,Kendua,183,27489,26731,4132,58352,93347,160
-8,Khaliajuri,284,35097,0,0,35097,35097,100
-9,Madan,230,34386,6445,719,41550,49433,119
-10,Mohanganj,144,29981,10850,402,41233,52887,128
-11,Netrokona Sadar,177,27654,17807,9774,55235,92590,168
-12,Purbadhala,114,18002,33606,4811,56419,99647,177
-13,Total,1667,258377,160008,36507,454892,687914,151
+1,Netrokona,,,,,,,
+2,,,,,,,,
+3,Upazila, Current fallow,Temporary cropped area Single,Temporary cropped area Double,Temporary cropped area Triple,Temporary cropped area Net,Temporary cropped area Gross, Productivity of crop
+4,Atpara,95,18658,8723,3387,30768,46265,150
+5,Barhatta,152,16068,16267,4653,36988,62561,169
+6,Durgapur,284,18561,20185,3376,42122,69059,164
+7,Kalmakanda,103,32481,19394,5253,57128,87028,152
+8,Kendua,183,27489,26731,4132,58352,93347,160
+9,Khaliajuri,284,35097,0,0,35097,35097,100
+10,Madan,230,34386,6445,719,41550,49433,119
+11,Mohanganj,144,29981,10850,402,41233,52887,128
+12,Netrokona Sadar,177,27654,17807,9774,55235,92590,168
+13,Purbadhala,114,18002,33606,4811,56419,99647,177
+14,Total,1667,258377,160008,36507,454892,687914,151

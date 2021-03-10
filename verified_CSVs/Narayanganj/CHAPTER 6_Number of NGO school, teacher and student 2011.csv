@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of NGO school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of NGO school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Araihazar,7,4,22,26,224,294,518,20
-4,Bandar,41,23,18,41,449,511,960,23
-5,Narayanganj Sadar,63,42,48,90,1795,1670,3465,39
-6,Rupganj,2,0,8,8,149,161,310,39
-7,Sonargaon,40,0,80,80,1085,1224,2309,29
-8,Total,153,69,176,245,3702,3860,7562,31
+1,Narayanganj,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of NGO school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Araihazar,7,4,22,26,224,294,518,20
+5,Bandar,41,23,18,41,449,511,960,23
+6,Narayanganj Sadar,63,42,48,90,1795,1670,3465,39
+7,Rupganj,2,0,8,8,149,161,310,39
+8,Sonargaon,40,0,80,80,1085,1224,2309,29
+9,Total,153,69,176,245,3702,3860,7562,31

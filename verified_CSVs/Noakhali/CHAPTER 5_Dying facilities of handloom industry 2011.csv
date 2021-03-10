@@ -1,14 +1,15 @@
 ,0,1,2,3
 0,Dying facilities of handloom industry 2011,,,
-1,,,,
-2,Upazila,With dying facility,Without dying facility,Total
-3,Begumganj,0,0,0
-4,Chatkhil,0,0,0
-5,Companiganj,0,0,0
-6,Hatiya,0,0,0
-7,Kabirhat,0,0,0
-8,Noakhali Sadar,10,10,20
-9,Senbagh,0,0,0
-10,Sonaimuri,14,11,25
-11,Subarnachar,0,0,0
-12,Total,24,21,45
+1,Noakhali,,,
+2,,,,
+3,Upazila,With dying facility,Without dying facility,Total
+4,Begumganj,0,0,0
+5,Chatkhil,0,0,0
+6,Companiganj,0,0,0
+7,Hatiya,0,0,0
+8,Kabirhat,0,0,0
+9,Noakhali Sadar,10,10,20
+10,Senbagh,0,0,0
+11,Sonaimuri,14,11,25
+12,Subarnachar,0,0,0
+13,Total,24,21,45

@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of NGO school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2,Upazila,Number of NGO school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
-3,Magura Sadar,95,0,95,95,990,1860,2850,30
-4,Mohammadpur,69,5,64,69,715,1493,2208,32
-5,Shalikha,32,0,32,32,401,655,1056,33
-6,Sreepur,16,0,16,16,271,209,480,30
-7,Total,212,5,207,212,2377,4217,6594,31
+1,Magura,,,,,,,,
+2,,,,,,,,,
+3,Upazila,Number of NGO school,Number of teacher Male,Number of teacher Female,Number of teacher Total,Number of student Male,Number of student Female,Number of student Total,Students per teacher
+4,Magura Sadar,95,0,95,95,990,1860,2850,30
+5,Mohammadpur,69,5,64,69,715,1493,2208,32
+6,Shalikha,32,0,32,32,401,655,1056,33
+7,Sreepur,16,0,16,16,271,209,480,30
+8,Total,212,5,207,212,2377,4217,6594,31

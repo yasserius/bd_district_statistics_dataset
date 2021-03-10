@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of bamboo and cane industry and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Baliakandi,485,630,580,1210
-4,Goalanda,0,0,0,0
-5,Kalukhali,312,620,290,910
-6,Pangsha,681,1629,815,2444
-7,Rajbari Sadar,2560,7680,2600,10280
-8,Total,4038,10559,4285,14844
+1,Rajbari,,,,
+2,,,,,
+3,Upazila, Unit,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Baliakandi,485,630,580,1210
+5,Goalanda,0,0,0,0
+6,Kalukhali,312,620,290,910
+7,Pangsha,681,1629,815,2444
+8,Rajbari Sadar,2560,7680,2600,10280
+9,Total,4038,10559,4285,14844

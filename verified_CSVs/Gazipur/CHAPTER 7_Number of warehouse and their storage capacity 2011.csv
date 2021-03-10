@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,Number of warehouse and their storage capacity 2011,,,,,,,,
-1,,,,,,,,,
-2,(Capacity in metric ton) - Upazila,(Capacity in metric ton) - Food godown - Number,(Capacity in metric ton) - Food godown - Capacity,(Capacity in metric ton) - Fertilizer godown - Number,(Capacity in metric ton) - Fertilizer godown - Capacity,(Capacity in metric ton) - Jute godown - Number,(Capacity in metric ton) - Jute godown - Capacity,(Capacity in metric ton) - Other godown - Number,(Capacity in metric ton) - Other godown - Capacity
-3,Gazipur Sadar,4,2500,12,600,0,0,262,131000
-4,Kaliakair,2,1000,1,200,0,0,0,0
-5,Kaliganj,1,1000,0,0,0,0,0,0
-6,Kapashia,5,3000,0,0,0,0,0,0
-7,Sreepur,3,2000,1,500,0,0,0,0
-8,Total,15,9500,14,1300,0,0,262,131000
+1,Gazipur,,,,,,,,
+2,,,,,,,,,
+3,(Capacity in metric ton) - Upazila,(Capacity in metric ton) - Food godown - Number,(Capacity in metric ton) - Food godown - Capacity,(Capacity in metric ton) - Fertilizer godown - Number,(Capacity in metric ton) - Fertilizer godown - Capacity,(Capacity in metric ton) - Jute godown - Number,(Capacity in metric ton) - Jute godown - Capacity,(Capacity in metric ton) - Other godown - Number,(Capacity in metric ton) - Other godown - Capacity
+4,Gazipur Sadar,4,2500,12,600,0,0,262,131000
+5,Kaliakair,2,1000,1,200,0,0,0,0
+6,Kaliganj,1,1000,0,0,0,0,0,0
+7,Kapashia,5,3000,0,0,0,0,0,0
+8,Sreepur,3,2000,1,500,0,0,0,0
+9,Total,15,9500,14,1300,0,0,262,131000

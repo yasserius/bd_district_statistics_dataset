@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5,6,7,8,9,10
 0,Number of Government health complex and health facility 2011,,,,,,,,,,
-1,,,,,,,,,,,
-2,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of    technician, Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
-3,Barlekha,1,31,9,7,5,77,1819,2219,22732,21995
-4,Juri,1,0,3,3,4,22,0,0,7022,6945
-5,Kamalganj,1,31,12,5,3,72,0,0,0,0
-6,Kulaura,1,50,20,7,7,97,20,120,30,200
-7,Moulvibazar Sadar,1,100,25,40,6,25,12215,13002,90661,88815
-8,Rajnagar,1,31,5,6,5,70,1819,2219,22732,21995
-9,Sreemangal,1,31,28,17,10,155,0,0,0,0
-10,Total,7,274,102,85,40,518,15873,17560,143177,139950
+1,Moulvibazar,,,,,,,,,,
+2,,,,,,,,,,,
+3,  Upazila,Number of hospital/ clinic/ nursing home, Number of bed, Number of  doctor, Number of nurse, Number of    technician, Number of other staff,Number of patient under health facility - Indoor - Male,Number of patient under health facility - Indoor - Female,Number of patient under health facility - Outdoor - Male,Number of patient under health facility - Outdoor - Female
+4,Barlekha,1,31,9,7,5,77,1819,2219,22732,21995
+5,Juri,1,0,3,3,4,22,0,0,7022,6945
+6,Kamalganj,1,31,12,5,3,72,0,0,0,0
+7,Kulaura,1,50,20,7,7,97,20,120,30,200
+8,Moulvibazar Sadar,1,100,25,40,6,25,12215,13002,90661,88815
+9,Rajnagar,1,31,5,6,5,70,1819,2219,22732,21995
+10,Sreemangal,1,31,28,17,10,155,0,0,0,0
+11,Total,7,274,102,85,40,518,15873,17560,143177,139950

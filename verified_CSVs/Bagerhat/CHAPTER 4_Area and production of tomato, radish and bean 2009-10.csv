@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6
 0,"Area and production of tomato, radish and bean 2009-10",,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Tomato - Area,Tomato - Production,Radish - Area,Radish - Production,Bean - Area,Bean - Production
-3,Bagerhat Sadar,133,231,71,556,93,200
-4,Kachua,38,52,64,445,34,281
-5,Rampal,62,111,20,19,46,78
-6,Sarankhola,40,396,10,17,89,84
-7,Chitalmari,99,384,38,174,26,105
-8,Morrelgonj,84,122,525,2940,86,426
-9,Mongla,28,30,25,106,16,13
-10,Mollahat,47,47,51,108,17,11
-11,Fakirhat,116,634,61,126,96,153
-12,Total,647,2007,865,4491,503,1351
+1,Bagerhat,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Tomato - Area,Tomato - Production,Radish - Area,Radish - Production,Bean - Area,Bean - Production
+4,Bagerhat Sadar,133,231,71,556,93,200
+5,Kachua,38,52,64,445,34,281
+6,Rampal,62,111,20,19,46,78
+7,Sharonkhola,40,396,10,17,89,84
+8,Chitolmari,99,384,38,174,26,105
+9,Morrelgonj,84,122,525,2940,86,426
+10,Mongla,28,30,25,106,16,13
+11,Mollahat,47,47,51,108,17,11
+12,Fakirhat,116,634,61,126,96,153
+13,Total,647,2007,865,4491,503,1351

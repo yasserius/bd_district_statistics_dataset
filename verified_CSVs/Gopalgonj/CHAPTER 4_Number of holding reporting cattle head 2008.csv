@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Number of holding reporting cattle head 2008,,,,,,
-1,,,,,,,
-2, Upazila, Total holding,Number of holding based on cattle heads - 1-3 head,Number of holding based on cattle heads - 4-6 head,Number of holding based on cattle heads - 7 -9 head,Number of holding based on cattle heads - 10-15 head,Number of holding based on cattle heads - 15 head  above
-3,Gopalganj Sadar,25222,16228,7889,715,329,61
-4,Kashiani,21543,14700,5782,1047,14,0
-5,Kotalipara,18973,9604,8414,738,217,0
-6,Muksudpur,24205,18986,4912,285,22,0
-7,Tungipara,8295,7883,204,155,41,12
-8,Total,98238,67401,27201,2940,623,73
+1,Gopalgonj,,,,,,
+2,,,,,,,
+3, Upazila, Total holding,Number of holding based on cattle heads - 1-3 head,Number of holding based on cattle heads - 4-6 head,Number of holding based on cattle heads - 7 -9 head,Number of holding based on cattle heads - 10-15 head,Number of holding based on cattle heads - 15 head  above
+4,Gopalganj Sadar,25222,16228,7889,715,329,61
+5,Kashiani,21543,14700,5782,1047,14,0
+6,Kotalipara,18973,9604,8414,738,217,0
+7,Muksudpur,24205,18986,4912,285,22,0
+8,Tungipara,8295,7883,204,155,41,12
+9,Total,98238,67401,27201,2940,623,73

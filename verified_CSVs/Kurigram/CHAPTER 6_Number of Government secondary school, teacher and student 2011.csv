@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of Government secondary school, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Bhurungamari,0,0,0,0,0,0,0,0
-4,Char Rajibpur,0,0,0,0,0,0,0,0
-5,Chilmari,0,0,0,0,0,0,0,0
-6,Kurigram Sadar,2,29,15,44,826,1072,1898,43
-7,Nageshwari,1,8,0,8,0,175,175,22
-8,Phulbari,0,0,0,0,0,0,0,0
-9,Rajarhat,1,7,1,8,0,252,252,31
-10,Raumari,0,0,0,0,0,0,0,0
-11,Ulipur,1,2,6,8,0,545,545,68
-12,Total,5,46,22,68,826,2044,2870,42
+1,Kurigram,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Bhurungamari,0,0,0,0,0,0,0,0
+5,Char Rajibpur,0,0,0,0,0,0,0,0
+6,Chilmari,0,0,0,0,0,0,0,0
+7,Kurigram Sadar,2,29,15,44,826,1072,1898,43
+8,Nageshwari,1,8,0,8,0,175,175,22
+9,Phulbari,0,0,0,0,0,0,0,0
+10,Rajarhat,1,7,1,8,0,252,252,31
+11,Raumari,0,0,0,0,0,0,0,0
+12,Ulipur,1,2,6,8,0,545,545,68
+13,Total,5,46,22,68,826,2044,2870,42

@@ -1,11 +1,12 @@
 ,0,1,2,3,4,5,6
 0,Area and production of oil seed by type 2009-10,,,,,,
-1,(Area in acre and production in metric ton),,,,,,
-2,Upazila,Rape  mustard Area,Rape  mustard Production,Ground nut Area,Ground nut Production,Til Area,Til Production
-3,Dhaka Metropolitan,0,0,0,0,0,0
-4,Dhamrai,14453,5525,0,0,42,1
-5,Dohar,57,19,0,0,203,30
-6,Keraniganj,5470,1476,101,50,82,37
-7,Nawabganj,10670,3855,55,36,649,121
-8,Savar,1410,458,36,19,3,1
-9,Total,32060,11333,192,105,979,190
+1,Dhaka,,,,,,
+2,(Area in acre and production in metric ton),,,,,,
+3,Upazila,Rape  mustard Area,Rape  mustard Production,Ground nut Area,Ground nut Production,Til Area,Til Production
+4,Dhaka Metropolitan,0,0,0,0,0,0
+5,Dhamrai,14453,5525,0,0,42,1
+6,Dohar,57,19,0,0,203,30
+7,Keraniganj,5470,1476,101,50,82,37
+8,Nawabganj,10670,3855,55,36,649,121
+9,Savar,1410,458,36,19,3,1
+10,Total,32060,11333,192,105,979,190

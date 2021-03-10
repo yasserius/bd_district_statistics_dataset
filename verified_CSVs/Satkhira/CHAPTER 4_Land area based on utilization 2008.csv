@@ -1,12 +1,13 @@
 ,0,1,2,3,4,5
 0,Land area based on utilization 2008,,,,,
-1,,,,,,
-2,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
-3,Assasuni,59548,1711,25375,288,32462
-4,Debhata,28691,1131,11944,595,15616
-5,Kalaroa,47250,4768,32985,327,9497
-6,Kaliganj,58959,3652,38836,252,16471
-7,Satkhira Sadar,86455,3711,61514,304,21230
-8,Shyamnagar,78683,1185,37129,442,40369
-9,Tala,64939,5427,49564,143,9948
-10,Total,424525,21585,257347,2351,145593
+1,Satkhira,,,,,
+2,,,,,,
+3,Upazila,Operated area,Permanent cropped area,Temporary cropped area,Permanent fallow area,Others
+4,Assasuni,59548,1711,25375,288,32462
+5,Debhata,28691,1131,11944,595,15616
+6,Kalaroa,47250,4768,32985,327,9497
+7,Kaliganj,58959,3652,38836,252,16471
+8,Satkhira Sadar,86455,3711,61514,304,21230
+9,Shyamnagar,78683,1185,37129,442,40369
+10,Tala,64939,5427,49564,143,9948
+11,Total,424525,21585,257347,2351,145593

@@ -1,8 +1,9 @@
 ,0,1,2,3,4
 0,Area and production of turmeric and ginger 2009-10,,,,
-1,(Area in acre and production in metric ton),,,,
-2,Upazila,Turmeric Area,Turmeric Production,Ginger Area,Ginger Production
-3,Kalia,104,262,19,35
-4,Lohagara,109,132,0,0
-5,Narail Sadar,168,538,35,88
-6,Total,381,932,54,123
+1,Narail,,,,
+2,(Area in acre and production in metric ton),,,,
+3,Upazila,Turmeric Area,Turmeric Production,Ginger Area,Ginger Production
+4,Kalia,104,262,19,35
+5,Lohagara,109,132,0,0
+6,Narail Sadar,168,538,35,88
+7,Total,381,932,54,123

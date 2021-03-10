@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,Land area under irrigation for selected crops 2008,,,,,,
-1,,,,,,,
-2,Upazila,Paddy Total area,Paddy Irrigated area,Wheat Total area,Wheat Irrigated area,Potato Total area,Potato Irrigated area
-3,Baliadangi,73324,19625,16213,16213,3093,3093
-4,Haripur,62036,24570,8864,8864,3521,3521
-5,Pirgonj,98076,33686,12072,12072,2715,2715
-6,Ranisankail,91788,24596,12048,12048,6125,6125
-7,Thakurgaon Sadar,179805,53934,24579,24579,12800,12800
-8,Total,505029,156411,73776,73776,28254,28254
+1,Thakurgaon,,,,,,
+2,,,,,,,
+3,Upazila,Paddy Total area,Paddy Irrigated area,Wheat Total area,Wheat Irrigated area,Potato Total area,Potato Irrigated area
+4,Baliadangi,73324,19625,16213,16213,3093,3093
+5,Haripur,62036,24570,8864,8864,3521,3521
+6,Pirgonj,98076,33686,12072,12072,2715,2715
+7,Ranisankail,91788,24596,12048,12048,6125,6125
+8,Thakurgaon Sadar,179805,53934,24579,24579,12800,12800
+9,Total,505029,156411,73776,73776,28254,28254

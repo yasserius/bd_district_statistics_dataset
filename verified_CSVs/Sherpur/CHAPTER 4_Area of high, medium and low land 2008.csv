@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,"Area of high, medium and low land 2008",,,,
-1,,,,,
-2,Upazila,High land,Medium land,Low land,Total land
-3,Jhenaigati,20031,18693,5785,44509
-4,Nakla,5615,14234,16104,35953
-5,Nalitabari,12834,35363,10336,58533
-6,Sherpur Sadar,9025,46230,7220,62475
-7,Sreebardi,16792,20975,8190,45957
-8,Total,64297,135495,47635,247427
+1,Sherpur,,,,
+2,,,,,
+3,Upazila,High land,Medium land,Low land,Total land
+4,Jhenaigati,20031,18693,5785,44509
+5,Nakla,5615,14234,16104,35953
+6,Nalitabari,12834,35363,10336,58533
+7,Sherpur Sadar,9025,46230,7220,62475
+8,Sreebardi,16792,20975,8190,45957
+9,Total,64297,135495,47635,247427

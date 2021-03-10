@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,Number of clinical centre for family planning by municipality 2011,,,,,
-1,,,,,,
-2, Municipality,Sterilization centre,Mobile centre,Injection centre,Menstrual regularization centre,Family welfare centre
-3,Chhatak,0,0,0,0,0
-4,Derai,1,0,2,0,1
-5,Jagannathpur,1,0,1,0,1
-6,Sunamganj Sadar,1,15,15,4,4
-7,Total,3,15,18,4,4
+1,Sunamganj,,,,,
+2,,,,,,
+3, Municipality,Sterilization centre,Mobile centre,Injection centre,Menstrual regularization centre,Family welfare centre
+4,Chhatak,0,0,0,0,0
+5,Derai,1,0,2,0,1
+6,Jagannathpur,1,0,1,0,1
+7,Sunamganj Sadar,1,15,15,4,4
+8,Total,3,15,18,4,4

@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of semi-auto rice mill and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Unit,Person engaged Male,Person engaged Female,Person engaged Total
-3,Assasuni,0,0,0,0
-4,Debhata,1,5,10,15
-5,Kalaroa,0,0,0,0
-6,Kaliganj,5,10,20,30
-7,Satkhira Sadar,0,0,0,0
-8,Shyamnagar,27,54,12,66
-9,Tala,80,160,86,246
-10,Total,113,229,128,357
+1,Satkhira,,,,
+2,,,,,
+3,Upazila, Unit,Person engaged Male,Person engaged Female,Person engaged Total
+4,Assasuni,0,0,0,0
+5,Debhata,1,5,10,15
+6,Kalaroa,0,0,0,0
+7,Kaliganj,5,10,20,30
+8,Satkhira Sadar,0,0,0,0
+9,Shyamnagar,27,54,12,66
+10,Tala,80,160,86,246
+11,Total,113,229,128,357

@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,"Number of registered rickshaw, van, easy bike and auto-rickshaw 2011",,,,
-1,,,,,
-2,Upazila,Rickshaw,Van,Easy bike and auto-rickshaw,Tempo
-3,Akkelpur,318,1678,52,21
-4,Joypurhat sadar,1387,1714,271,89
-5,Kalai,0,646,75,27
-6,Khetlal,0,1185,0,75
-7,Panchbibi,185,3150,54,35
-8,Total,1890,8373,452,247
+1,Joypurhat,,,,
+2,,,,,
+3,Upazila,Rickshaw,Van,Easy bike and auto-rickshaw,Tempo
+4,Akkelpur,318,1678,52,21
+5,Joypurhat sadar,1387,1714,271,89
+6,Kalai,0,646,75,27
+7,Khetlal,0,1185,0,75
+8,Panchbibi,185,3150,54,35
+9,Total,1890,8373,452,247

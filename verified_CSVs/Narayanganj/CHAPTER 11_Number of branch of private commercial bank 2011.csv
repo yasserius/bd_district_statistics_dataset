@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of branch of private commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
-3,Araihazar,8,80,68561,74
-4,Bandar,2,18,2359,441
-5,Narayanganj Sadar,21,563,101032,20592
-6,Rupganj,12,153,42193,7640
-7,Sonargaon,7,87,28383,5756
-8,Total,50,901,242528,34503
+1,Narayanganj,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current A/C
+4,Araihazar,8,80,68561,74
+5,Bandar,2,18,2359,441
+6,Narayanganj Sadar,21,563,101032,20592
+7,Rupganj,12,153,42193,7640
+8,Sonargaon,7,87,28383,5756
+9,Total,50,901,242528,34503

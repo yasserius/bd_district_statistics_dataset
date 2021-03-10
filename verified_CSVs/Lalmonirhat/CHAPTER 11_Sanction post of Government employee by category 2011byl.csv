@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5
 0,Sanction post of Government employee by category 2011,,,,,
-1,,,,,,
-2,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
-3,Aditmari,39,26,474,117,658
-4,Hatibandha,29,24,556,54,663
-5,Kaligonj,51,50,604,82,787
-6,Lalmonirhat,418,184,1233,856,2691
-7,Patgram,103,64,726,133,1026
-8,Total,640,348,3593,1242,5825
+1,Lalmonirhat,,,,,
+2,,,,,,
+3,Upazila,Class-I,Class-II,Class-III,Class-IV,Number of employee
+4,Aditmari,39,26,474,117,658
+5,Hatibandha,29,24,556,54,663
+6,Kaligonj,51,50,604,82,787
+7,Lalmonirhat,418,184,1233,856,2691
+8,Patgram,103,64,726,133,1026
+9,Total,640,348,3593,1242,5825

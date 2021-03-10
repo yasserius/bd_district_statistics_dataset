@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of technical and vocational institution, teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila, Institution,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Bagerhat Sadar,2,18,2,20,309,80,389,19
-4,Kachua,0,0,0,0,0,0,0,0
-5,Rampal,2,11,4,15,166,45,211,14
-6,Sarankhola,1,6,3,9,106,47,153,17
-7,Chitalmari,3,11,3,14,122,72,194,14
-8,Morrelgonj,6,28,12,40,564,261,825,21
-9,Mongla,1,4,1,5,110,26,136,27
-10,Mollahat,2,13,3,16,255,245,500,3
-11,Fakirhat,4,15,5,20,193,87,280,14
-12,Total,21,106,33,139,1825,863,2688,19
+1,Bagerhat,,,,,,,,
+2,,,,,,,,,
+3, Upazila, Institution,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Bagerhat Sadar,2,18,2,20,309,80,389,19
+5,Kachua,0,0,0,0,0,0,0,0
+6,Rampal,2,11,4,15,166,45,211,14
+7,Sharonkhola,1,6,3,9,106,47,153,17
+8,Chitolmari,3,11,3,14,122,72,194,14
+9,Morrelgonj,6,28,12,40,564,261,825,21
+10,Mongla,1,4,1,5,110,26,136,27
+11,Mollahat,2,13,3,16,255,245,500,3
+12,Fakirhat,4,15,5,20,193,87,280,14
+13,Total,21,106,33,139,1825,863,2688,19

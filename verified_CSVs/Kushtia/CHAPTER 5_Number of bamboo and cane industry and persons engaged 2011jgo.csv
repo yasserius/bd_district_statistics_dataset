@@ -1,11 +1,12 @@
 ,0,1,2,3,4
 0,Number of bamboo and cane industry and persons engaged 2011,,,,
-1,,,,,
-2, Upazila, Units,Persons engaged - Family,Persons engaged - Hired,Persons engaged - Total
-3,Kushtia Sadar,331,740,0,740
-4,Bheramara,10,10,20,30
-5,Daulatpur,4,8,16,24
-6,Khoksa,56,156,56,212
-7,Kumarkhali,52,208,104,312
-8,Mirpur,58,348,0,348
-9,Total,511,1470,196,1666
+1,Kushtia,,,,
+2,,,,,
+3,Upazila, Units,Persons engaged - Family,Persons engaged - Hired,Persons engaged - Total
+4,Kushtia Sadar,331,740,0,740
+5,Bheramara,10,10,20,30
+6,Daulatpur,4,8,16,24
+7,Khoksa,56,156,56,212
+8,Kumarkhali,52,208,104,312
+9,Mirpur,58,348,0,348
+10,Total,511,1470,196,1666

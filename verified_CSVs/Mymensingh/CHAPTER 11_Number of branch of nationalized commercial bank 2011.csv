@@ -1,17 +1,18 @@
 ,0,1,2,3,4
 0,Number of branch of nationalized commercial bank 2011,,,,
-1,,,,,
-2,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current account
-3,Bhaluka,4,72,37536,4598
-4,Dhubaura,3,24,14986,1640
-5,Fulbaria,3,43,16911,979
-6,Gaffargaon,4,0,0,0
-7,Gauripur,6,56,28028,1889
-8,Haluaghat,4,45,51590,3940
-9,Ishwargonj,6,58,24975,1749
-10,Muktagacha,7,77,22015,1762
-11,Mymensingh Sadar,22,454,158124,19442
-12,Nandail,4,81,24570,5338
-13,Phulpur,6,72,764852,4224
-14,Trishal,6,79,31721,3095
-15,Total,75,1061,1175308,48656
+1,Mymensingh,,,,
+2,,,,,
+3,Upazila,Number of branch,Number of employee,Number of savings A/C,Number of current account
+4,Bhaluka,4,72,37536,4598
+5,Dhubaura,3,24,14986,1640
+6,Fulbaria,3,43,16911,979
+7,Gaffargaon,4,0,0,0
+8,Gauripur,6,56,28028,1889
+9,Haluaghat,4,45,51590,3940
+10,Ishwargonj,6,58,24975,1749
+11,Muktagacha,7,77,22015,1762
+12,Mymensingh Sadar,22,454,158124,19442
+13,Nandail,4,81,24570,5338
+14,Phulpur,6,72,764852,4224
+15,Trishal,6,79,31721,3095
+16,Total,75,1061,1175308,48656

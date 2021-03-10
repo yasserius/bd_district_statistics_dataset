@@ -1,12 +1,13 @@
 ,0,1,2,3,4
 0,Number of low lift pump scheme 2010-11,,,,
-1,,,,,
-2,Upazila,Number of pump fielded - Electric,Number of pump fielded - Diesel,Number of pump fielded - Total,Area irrigated (in acre)
-3,Bakshiganj,509,5973,6482,33197
-4,Dewanganj,110,5880,5990,25999
-5,Islampur,880,8116,8996,48865
-6,Jamalpur Sadar,1005,2166,3171,71406
-7,Madarganj,750,10845,11595,53420
-8,Melandaha,1195,9528,10723,48782
-9,Sarishabari,5930,2927,8857,58040
-10,Total,10379,45435,55814,339709
+1,Jamalpur,,,,
+2,,,,,
+3,Upazila,Number of pump fielded - Electric,Number of pump fielded - Diesel,Number of pump fielded - Total,Area irrigated (in acre)
+4,Bakshiganj,509,5973,6482,33197
+5,Dewanganj,110,5880,5990,25999
+6,Islampur,880,8116,8996,48865
+7,Jamalpur Sadar,1005,2166,3171,71406
+8,Madarganj,750,10845,11595,53420
+9,Melandaha,1195,9528,10723,48782
+10,Sarishabari,5930,2927,8857,58040
+11,Total,10379,45435,55814,339709

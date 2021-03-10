@@ -1,10 +1,11 @@
 ,0,1,2,3,4
 0,Number of flour mill and person engaged 2011,,,,
-1,,,,,
-2,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
-3,Baliadangi,8,8,8,16
-4,Haripur,60,40,80,120
-5,Pirgonj,0,0,0,0
-6,Ranisankail,0,0,0,0
-7,Thakurgaon Sadar,1,2,16,18
-8,Total,69,50,104,154
+1,Thakurgaon,,,,
+2,,,,,
+3,Upazila,Unit,Person engaged Family,Person engaged Hired,Person engaged Total
+4,Baliadangi,8,8,8,16
+5,Haripur,60,40,80,120
+6,Pirgonj,0,0,0,0
+7,Ranisankail,0,0,0,0
+8,Thakurgaon Sadar,1,2,16,18
+9,Total,69,50,104,154

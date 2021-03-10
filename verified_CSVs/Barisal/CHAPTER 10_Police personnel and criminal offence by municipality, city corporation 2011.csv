@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Police personnel and criminal offence by municipality, city corporation 2011",,,,,,
-1,,,,,,,
-2,Municipality/city corporation,Police personnel,Criminal offence Number of offence,Criminal offence Number of case filled,Traffic accident (reported) Number of accident,Traffic accident (reported) Person killed,Traffic accident (reported) Person injured
-3,Bakerganj,45,325,325,4,2,5
-4,Banaripara,44,0,159,2,3,1
-5,Barisal city corporation,171,1190,1190,28,15,47
-6,Gaurnadi,63,292,292,7,6,51
-7,Mehendiganj,39,57,46,25,2,30
-8,Total,362,1864,2012,66,28,134
+1,Barisal,,,,,,
+2,,,,,,,
+3,Municipality/city corporation,Police personnel,Criminal offence Number of offence,Criminal offence Number of case filled,Traffic accident (reported) Number of accident,Traffic accident (reported) Person killed,Traffic accident (reported) Person injured
+4,Bakerganj,45,325,325,4,2,5
+5,Banaripara,44,0,159,2,3,1
+6,Barisal city corporation,171,1190,1190,28,15,47
+7,Gaurnadi,63,292,292,7,6,51
+8,Mehendiganj,39,57,46,25,2,30
+9,Total,362,1864,2012,66,28,134

@@ -1,15 +1,16 @@
 ,0,1,2,3,4,5
 0,"Number of family planning clinical centre by municipality, city corporation 2011",,,,,
-1,,,,,,
-2,Municipality /city corporation,Sterilizati on centre,Mobile centre,Injection centre,Menstrual regularization centre,Family welfare centre
-3,Bagha,5,0,24,2,5
-4,Baghmara,0,0,3,2,2
-5,Charghat,1,0,1,1,1
-6,Durgapur,0,168,168,0,1
-7,Godagari,1,0,18,1,1
-8,Mohanpur,0,1,14,0,0
-9,Paba,1,4,10,0,1
-10,Puthia,1,0,4,1,1
-11,Rajshahi city corporation,0,0,0,0,0
-12,Tanore,0,0,0,0,0
-13,Total,9,173,242,7,12
+1,Rajshahi,,,,,
+2,,,,,,
+3,Municipality /city corporation,Sterilizati on centre,Mobile centre,Injection centre,Menstrual regularization centre,Family welfare centre
+4,Bagha,5,0,24,2,5
+5,Baghmara,0,0,3,2,2
+6,Charghat,1,0,1,1,1
+7,Durgapur,0,168,168,0,1
+8,Godagari,1,0,18,1,1
+9,Mohanpur,0,1,14,0,0
+10,Paba,1,4,10,0,1
+11,Puthia,1,0,4,1,1
+12,Rajshahi City Corporation,0,0,0,0,0
+13,Tanore,0,0,0,0,0
+14,Total,9,173,242,7,12

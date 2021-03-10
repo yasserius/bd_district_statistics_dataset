@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6
 0,"Number of private hospital, clinic and related health personnel 2011",,,,,,
-1,,,,,,,
-2,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Gopalganj Sadar,17,150,15,48,16,78
-4,Kashiani,9,90,40,64,10,25
-5,Kotalipara,4,55,4,9,4,6
-6,Muksudpur,4,25,8,11,4,17
-7,Tungipara,2,0,2,2,4,4
-8,Total,36,320,69,134,38,130
+1,Gopalgonj,,,,,,
+2,,,,,,,
+3,Upazila,Number of centre,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Gopalganj Sadar,17,150,15,48,16,78
+5,Kashiani,9,90,40,64,10,25
+6,Kotalipara,4,55,4,9,4,6
+7,Muksudpur,4,25,8,11,4,17
+8,Tungipara,2,0,2,2,4,4
+9,Total,36,320,69,134,38,130

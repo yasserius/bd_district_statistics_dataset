@@ -1,10 +1,11 @@
 ,0,1,2,3,4,5,6,7,8
 0,"Number of kindergarten school (pre schooling), teacher and student 2011",,,,,,,,
-1,,,,,,,,,
-2, Upazila,Number of kindergarten school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
-3,Aditmari,12,30,20,50,280,300,580,12
-4,Hatibandha,10,35,25,60,690,586,1276,21
-5,Kaligonj,18,25,29,54,852,860,1712,31
-6,Lalmonirhat Sadar,17,56,82,138,2480,2488,4968,36
-7,Patgram,15,30,50,80,716,791,1507,19
-8,Total,72,176,206,382,5018,5025,10043,26
+1,Lalmonirhat,,,,,,,,
+2,,,,,,,,,
+3, Upazila,Number of kindergarten school,Number of teacher - Male,Number of teacher - Female,Number of teacher - Total,Number of student - Male,Number of student - Female,Number of student - Total,Students per teacher
+4,Aditmari,12,30,20,50,280,300,580,12
+5,Hatibandha,10,35,25,60,690,586,1276,21
+6,Kaligonj,18,25,29,54,852,860,1712,31
+7,Lalmonirhat Sadar,17,56,82,138,2480,2488,4968,36
+8,Patgram,15,30,50,80,716,791,1507,19
+9,Total,72,176,206,382,5018,5025,10043,26

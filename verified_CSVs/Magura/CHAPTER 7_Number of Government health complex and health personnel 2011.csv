@@ -1,9 +1,10 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Magura Sadar,100,27,43,3,120
-4,Mohammadpur,31,5,11,5,100
-5,Shalikha,31,4,10,3,42
-6,Sreepur,31,5,11,6,77
-7,Total,193,41,75,17,339
+1,Magura,,,,,
+2,,,,,,
+3,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Magura Sadar,100,27,43,3,120
+5,Mohammadpur,31,5,11,5,100
+6,Shalikha,31,4,10,3,42
+7,Sreepur,31,5,11,6,77
+8,Total,193,41,75,17,339

@@ -1,13 +1,14 @@
 ,0,1,2,3,4,5,6
 0,"Number of branch of specialized (Krishi, Co-operative, etc) bank 2011",,,,,,
-1,,,,,,,
-2,Upazila,Number of all branches,Number of employees,Number of savings A/C,Number of current A/C,Average annual deposit (in lac tk.),Annual credit disbursed (in lac tk.)
-3,Dighinala,1,7,7603,68,250,200
-4,Khagrachhari Sadar,1,12,4516,352,2368.17,465.98
-5,Laxshmichhari,1,7,2500,120,436.81,478
-6,Mahalchhari,1,7,4118,77,260,180
-7,Manikchhari,1,7,4162,83,493,200
-8,Matiranga,1,11,7734,162,1415.28,235.07
-9,Panchhari,1,8,4759,58,660,184.40
-10,Ramgarh,1,5,1971,95,7804,3320
-11,Total,8,64,37363,1015,1710.91,5263.45
+1,Khagrachori,,,,,,
+2,,,,,,,
+3,Upazila,Number of all branches,Number of employees,Number of savings A/C,Number of current A/C,Average annual deposit (in lac tk.),Annual credit disbursed (in lac tk.)
+4,Dighinala,1,7,7603,68,250,200
+5,Khagrachori,1,12,4516,352,2368.17,465.98
+6,Laxshmichhari,1,7,2500,120,436.81,478
+7,Mahalchhari,1,7,4118,77,260,180
+8,Manikchhari,1,7,4162,83,493,200
+9,Matiranga,1,11,7734,162,1415.28,235.07
+10,Panchhari,1,8,4759,58,660,184.40
+11,Ramgarh,1,5,1971,95,7804,3320
+12,Total,8,64,37363,1015,1710.91,5263.45

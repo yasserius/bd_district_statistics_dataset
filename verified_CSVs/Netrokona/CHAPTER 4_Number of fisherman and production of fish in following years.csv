@@ -1,15 +1,16 @@
 ,0,1,2,3,4
 0,Number of fisherman and production of fish in following years,,,,
-1,(Production in metric ton),,,,
-2, Upazila,2010-11 Number,2010-11 Production,2009-10 Number,2009-10 Production
-3,Atpara,1234,1460,1234,1050
-4,Barhatta,2600,3922,2300,3786
-5,Durgapur,2550,480,2500,440
-6,Kalmakanda,5925,7195,5850,6773
-7,Kendua,542,4381,542,4390
-8,Khaliajuri,3700,6013,3682,5860
-9,Madan,1840,6819,1670,6310
-10,Mohanganj,2000,1950,1920,1830
-11,Netrokona Sadar,3000,3150,3000,2800
-12,Purbadhala,3050,1637,2660,1715
-13,Total,26441,37006,25358,34954
+1,Netrokona,,,,
+2,(Production in metric ton),,,,
+3,Upazila,2010-11 Number,2010-11 Production,2009-10 Number,2009-10 Production
+4,Atpara,1234,1460,1234,1050
+5,Barhatta,2600,3922,2300,3786
+6,Durgapur,2550,480,2500,440
+7,Kalmakanda,5925,7195,5850,6773
+8,Kendua,542,4381,542,4390
+9,Khaliajuri,3700,6013,3682,5860
+10,Madan,1840,6819,1670,6310
+11,Mohanganj,2000,1950,1920,1830
+12,Netrokona Sadar,3000,3150,3000,2800
+13,Purbadhala,3050,1637,2660,1715
+14,Total,26441,37006,25358,34954

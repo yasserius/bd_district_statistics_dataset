@@ -1,14 +1,15 @@
 ,0,1,2,3,4,5
 0,Number of Government health complex and health personnel 2011,,,,,
-1,,,,,,
-2,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
-3,Alfadanga,50,8,10,2,63
-4,Bhanga,50,19,13,5,78
-5,Boalmari,50,12,14,3,78
-6,Charbhadrashon,31,11,11,4,46
-7,Faridpur Sadar,440,93,201,29,218
-8,Madhukhali,31,11,11,4,52
-9,Nagarkanda,50,20,17,3,44
-10,Sadarpur,50,15,16,3,90
-11,Saltha,0,8,0,0,7
-12,Total,752,197,293,53,676
+1,Faridpur,,,,,
+2,,,,,,
+3,Upazila,Number of bed,Number of doctor,Number of nurse,Number of technician,Number of other staff
+4,Alfadanga,50,8,10,2,63
+5,Bhanga,50,19,13,5,78
+6,Boalmari,50,12,14,3,78
+7,Charbhadrashon,31,11,11,4,46
+8,Faridpur Sadar,440,93,201,29,218
+9,Madhukhali,31,11,11,4,52
+10,Nagarkanda,50,20,17,3,44
+11,Sadarpur,50,15,16,3,90
+12,Saltha,0,8,0,0,7
+13,Total,752,197,293,53,676

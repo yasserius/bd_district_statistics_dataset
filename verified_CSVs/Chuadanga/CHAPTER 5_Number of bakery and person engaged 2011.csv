@@ -1,9 +1,10 @@
 ,0,1,2,3,4
 0,Number of bakery and person engaged 2011,,,,
-1,,,,,
-2, Upazila, Units,Person engaged - Family,Person engaged - Hired,Person engaged - Total
-3,Alamdanga,9,0,36,36
-4,Chuadanga Sadar,12,14,715,729
-5,Damurhuda,8,10,37,47
-6,Jibonnagar,9,9,78,87
-7,Total,38,33,866,899
+1,Chuadanga,,,,
+2,,,,,
+3,Upazila, Units,Person engaged - Family,Person engaged - Hired,Person engaged - Total
+4,Alamdanga,9,0,36,36
+5,Chuadanga Sadar,12,14,715,729
+6,Damurhuda,8,10,37,47
+7,Jibonnagar,9,9,78,87
+8,Total,38,33,866,899
