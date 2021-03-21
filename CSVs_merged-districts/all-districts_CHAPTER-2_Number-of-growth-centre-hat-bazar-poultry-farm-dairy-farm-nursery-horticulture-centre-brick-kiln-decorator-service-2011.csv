@@ -1,0 +1,539 @@
+,0,1,2,3,4,5,6,7,8,9
+0,upazila,growth_centre,hat/bazar,poultry_farm,dairy_farm,nursery,horticulture_centre,brick_kiln,decorator_service,district
+1,Bagerhat Sadar,8,35,157,176,16,1,2,31,Bagerhat
+2,Kachua,3,19,45,37,61,0,7,15,Bagerhat
+3,Rampal,5,23,105,57,21,0,0,19,Bagerhat
+4,Sharonkhola,2,14,276,5,8,0,1,9,Bagerhat
+5,Chitolmari,5,17,383,216,4,0,1,13,Bagerhat
+6,Morrelgonj,6,37,123,34,58,0,11,17,Bagerhat
+7,Mongla,5,19,228,5,4,0,0,5,Bagerhat
+8,Mollahat,8,19,49,37,4,0,4,9,Bagerhat
+9,Fakirhat,4,12,253,46,0,0,5,20,Bagerhat
+10,Total,46,195,1619,613,176,1,31,138,Bagerhat
+11,Alikadam,1,6,21,40,10,0,4,3,Bandarban
+12,Bandarban Sadar,2,6,33,10,18,1,9,5,Bandarban
+13,Lama,1,8,19,3,3,1,11,7,Bandarban
+14,Naikhongchhari,1,3,8,3,1,1,4,3,Bandarban
+15,Rowangchhari,1,5,0,0,1,0,4,1,Bandarban
+16,Ruma,1,2,1,0,1,0,0,1,Bandarban
+17,Thanchi,1,4,0,0,1,0,1,2,Bandarban
+18,Total,8,38,108,56,35,3,33,22,Bandarban
+19,Amtali,5,39,62,9,40,0,7,23,Barguna
+20,Bamna,4,11,63,15,1,0,10,11,Barguna
+21,Barguna Sadar,9,22,141,7,67,1,5,10,Barguna
+22,Betagi,4,24,39,3,23,0,5,14,Barguna
+23,Patharghata,5,23,50,15,0,0,7,7,Barguna
+24,Total,27,119,355,49,131,1,34,65,Barguna
+25,Agailjhara,3,18,72,21,2,0,3,22,Barisal
+26,Babuganj,4,23,149,79,5,1,22,23,Barisal
+27,Bakerganj,8,48,136,29,22,0,49,29,Barisal
+28,Banaripara,3,18,163,43,1,0,16,13,Barisal
+29,Barisal city corporation,0,19,56,9,4,2,1,44,Barisal
+30,Barisal Sadar,3,51,159,20,7,0,21,33,Barisal
+31,Gaurnadi,5,22,193,53,3,1,5,27,Barisal
+32,Hizla,2,31,16,30,11,0,9,7,Barisal
+33,Mehendiganj,5,61,63,459,4,0,15,14,Barisal
+34,Muladi,3,50,78,5,1,0,20,25,Barisal
+35,Wazirpur,1,40,192,82,4,0,12,29,Barisal
+36,Total,37,381,1277,830,64,4,173,266,Barisal
+37,Bhola Sadar,6,51,429,224,23,3,15,18,Bhola
+38,Burhanuddin,4,34,15,0,0,0,7,12,Bhola
+39,Char Fasson,6,59,369,45,12,0,23,12,Bhola
+40,Daulatkhan,3,31,102,35,3,1,5,7,Bhola
+41,Lalmohan,5,36,219,51,8,0,3,15,Bhola
+42,Manpura,1,10,2,1,4,1,1,0,Bhola
+43,Tazumuddin,12,20,31,15,11,0,2,6,Bhola
+44,Total,37,241,1167,371,61,5,56,70,Bhola
+45,Adamdighi,4,15,92,50,27,0,5,36,Bogura
+46,Bogra sadar,10,33,155,305,37,0,11,103,Bogura
+47,Dhunat,7,25,50,115,54,0,6,28,Bogura
+48,Dhupchanchia,3,22,74,11,27,0,7,17,Bogura
+49,Gabtali,3,23,178,304,42,0,29,45,Bogura
+50,Kahaloo,28,21,378,87,22,0,12,31,Bogura
+51,Nandigram,4,16,47,44,15,0,0,20,Bogura
+52,Sariakandi,4,18,25,80,9,0,3,23,Bogura
+53,Shajahanpur,4,23,209,65,13,1,26,54,Bogura
+54,Sherpur,2,18,121,130,39,0,22,36,Bogura
+55,Shibganj,5,19,242,427,19,0,14,54,Bogura
+56,Sonatola,3,27,104,114,5,0,5,26,Bogura
+57,Total,77,260,1675,1732,309,1,140,473,Bogura
+58,Akhaura,4,15,70,3,3,0,0,21,BrahmanBaria
+59,Ashuganj,3,7,126,117,3,0,7,23,BrahmanBaria
+60,Banchrampur,3,28,220,14,16,0,1,51,BrahmanBaria
+61,Bijoynogor,0,18,16,45,6,0,12,35,BrahmanBaria
+62,Brahmanbaria Sadar,2,13,29,93,5,1,10,90,BrahmanBaria
+63,Kasba,4,33,37,53,20,0,3,47,BrahmanBaria
+64,Nabinagar,8,64,222,178,17,0,9,78,BrahmanBaria
+65,Nasirnagar,5,35,150,18,5,0,15,60,BrahmanBaria
+66,Sarail,3,17,38,38,1,0,29,52,BrahmanBaria
+67,Total,32,230,908,559,76,1,86,457,BrahmanBaria
+68,Chandpur Sadar,6,40,163,181,21,0,17,93,Chandpur
+69,Foridganj,7,45,244,161,87,0,24,51,Chandpur
+70,Haimchar,5,24,48,27,7,0,4,13,Chandpur
+71,Hajiganj,3,26,61,45,11,0,8,70,Chandpur
+72,Kachua,6,26,131,1,12,0,8,53,Chandpur
+73,Matlab Dakshin,3,25,35,62,6,0,3,34,Chandpur
+74,Matlab Uttar,4,28,346,170,50,0,17,65,Chandpur
+75,Shahrasti,4,30,32,22,25,0,13,59,Chandpur
+76,Total,38,244,1060,669,219,0,94,438,Chandpur
+77,Bholahat,2,26,4,13,21,0,6,10,Chapai_Nawabganj
+78,Chapai Nawabganj Sadar,6,47,152,46,42,2,54,62,Chapai_Nawabganj
+79,Gomastapur,2,39,128,24,28,0,20,20,Chapai_Nawabganj
+80,Nachole,5,30,22,22,10,0,6,11,Chapai_Nawabganj
+81,Shibganj,6,54,181,52,35,1,30,46,Chapai_Nawabganj
+82,Total,21,196,487,157,136,3,116,149,Chapai_Nawabganj
+83,Anowara,5,28,522,63,7,0,0,39,Chittagong
+84,Banshkhali,9,35,21,13,27,0,3,3,Chittagong
+85,Boalkhali,6,24,280,60,15,2,9,83,Chittagong
+86,Chandanaish,0,22,82,54,5,0,31,55,Chittagong
+87,Chittagong City Corporation,0,81,186,159,83,1,10,208,Chittagong
+88,Fatikchhari,2,56,270,2,17,0,39,120,Chittagong
+89,Hathazari,3,36,43,17,2,2,10,106,Chittagong
+90,Lohagara,0,20,585,21,0,0,5,30,Chittagong
+91,Mirsharai,20,38,44,9,30,0,12,90,Chittagong
+92,Patiya,12,36,343,72,31,4,18,210,Chittagong
+93,Rangunia,13,22,256,76,30,0,91,85,Chittagong
+94,Raozan,5,26,94,30,36,0,44,119,Chittagong
+95,Sandwip,0,42,257,67,10,2,6,42,Chittagong
+96,Satkania,4,24,3500,14810,16,0,45,83,Chittagong
+97,Sitakunda,6,23,397,43,14,0,22,67,Chittagong
+98,Total,112,513,6880,15496,323,11,345,1340,Chittagong
+99,Alamdanga,11,29,142,21,12,0,11,52,Chuadanga
+100,Chuadanga Sadar,3,17,168,2,20,1,7,22,Chuadanga
+101,Damurhuda,6,20,153,123,40,1,25,34,Chuadanga
+102,Jibonnagar,5,30,121,255,8,1,17,16,Chuadanga
+103,Total,25,96,584,401,80,3,60,124,Chuadanga
+104,Adarsha Sadar,4,27,139,64,9,1,32,73,Comilla
+105,Barura,5,46,149,87,22,0,6,59,Comilla
+106,Brahmanpara,4,36,381,160,25,0,1,47,Comilla
+107,Burichang,2,35,304,93,36,0,11,55,Comilla
+108,Chandina,5,27,25,16,13,0,10,43,Comilla
+109,Chauddagram,6,40,151,53,24,2,28,84,Comilla
+110,Comilla Sadar Dakshin,4,21,110,75,5,2,10,98,Comilla
+111,Daudkandi,5,25,200,80,40,0,4,48,Comilla
+112,Debidwar,2,29,211,7,20,0,12,107,Comilla
+113,Homna,6,13,52,42,1,1,0,34,Comilla
+114,Laksam,4,25,68,35,18,0,5,73,Comilla
+115,Monoharganj,4,27,39,62,24,0,1,55,Comilla
+116,Meghna,0,8,60,20,1,0,0,20,Comilla
+117,Muradnagar,6,51,212,31,17,0,32,85,Comilla
+118,Nangalkot,8,62,116,22,6,0,20,72,Comilla
+119,Titas,3,18,22,54,3,0,6,25,Comilla
+120,Total,68,490,2239,901,264,6,178,978,Comilla
+121,Chakaria,40,34,102,90,20,0,37,51,Coxs_Bazar
+122,Cox's Bazar Sadar,8,29,180,60,19,1,10,41,Coxs_Bazar
+123,Kutubdia,1,2,5,0,6,0,4,15,Coxs_Bazar
+124,Moheshkhali,7,32,50,3,15,2,2,20,Coxs_Bazar
+125,Pekua,4,9,0,2,0,0,3,32,Coxs_Bazar
+126,Ramu,7,15,158,23,3,0,26,23,Coxs_Bazar
+127,Teknaf,2,17,40,44,7,0,6,21,Coxs_Bazar
+128,Ukhia,5,9,48,8,15,50,3,33,Coxs_Bazar
+129,Total,74,147,583,230,85,53,91,236,Coxs_Bazar
+130,Dhaka Metropolitan,17,188,275,608,102,2,4,553,Dhaka
+131,Dhamrai,5,35,308,66,2,0,125,75,Dhaka
+132,Dohar,5,35,88,207,27,0,7,53,Dhaka
+133,Keraniganj,6,31,145,420,10,0,145,114,Dhaka
+134,Nawabganj,4,46,150,385,8,0,8,79,Dhaka
+135,Savar,5,317,1982,480,76,2,145,133,Dhaka
+136,Total,42,652,2948,2166,225,4,434,1007,Dhaka
+137,Biral,5,62,100,46,58,1,10,66,Dinajpur
+138,Birampur,4,14,132,46,13,0,8,16,Dinajpur
+139,Birganj,5,39,81,320,13,0,16,49,Dinajpur
+140,Bochaganj,3,32,58,52,9,0,9,45,Dinajpur
+141,Chirirbandar,7,63,74,50,25,2,19,65,Dinajpur
+142,Dinajpur Sadar,0,77,165,160,30,1,16,61,Dinajpur
+143,Fulbari,5,13,24,13,42,0,10,24,Dinajpur
+144,Ghoraghat,4,10,35,10,9,0,10,16,Dinajpur
+145,Hakimpur,8,7,89,7,0,0,1,12,Dinajpur
+146,Kaharole,14,18,33,44,42,0,5,50,Dinajpur
+147,Khansama,4,39,35,23,32,1,6,33,Dinajpur
+148,Nawabganj,4,26,19,5,22,0,12,29,Dinajpur
+149,Parbatipur,5,23,200,120,37,0,27,51,Dinajpur
+150,Total,68,423,1045,896,332,5,149,517,Dinajpur
+151,Alfadanga,3,14,256,27,11,0,4,17,Faridpur
+152,Bhanga,4,37,41,44,13,0,4,46,Faridpur
+153,Boalmari,6,32,65,50,45,1,8,36,Faridpur
+154,Charbhadrashon,1,14,10,6,1,0,0,18,Faridpur
+155,Faridpur Sadar,9,41,489,872,375,1,36,61,Faridpur
+156,Madhukhali,4,31,108,30,43,0,8,47,Faridpur
+157,Nagarkanda,5,13,35,46,2,0,5,29,Faridpur
+158,Sadarpur,4,28,36,53,32,0,6,37,Faridpur
+159,Saltha,1,18,30,12,2,0,0,18,Faridpur
+160,Total,34,228,1070,1140,524,2,71,309,Faridpur
+161,Chhagalnaiya,3,30,129,47,0,0,14,63,Feni
+162,Daganbhuiyan,4,27,135,20,1,0,15,63,Feni
+163,Feni Sadar,5,32,105,99,50,1,20,45,Feni
+164,Fulgazi,5,10,70,43,15,0,7,34,Feni
+165,Parshuram,4,12,83,5,7,0,2,34,Feni
+166,Sonagazi,7,28,89,75,3,0,4,42,Feni
+167,Total,28,139,611,289,76,1,62,281,Feni
+168,Fulchhari,7,35,63,42,10,0,0,17,Gaibandha
+169,Gaibandha Sadar,5,28,2641,68,26,0,7,41,Gaibandha
+170,Gobindaganj,7,21,158,101,15,0,19,72,Gaibandha
+171,Palashbari,5,14,65,52,17,0,28,37,Gaibandha
+172,Sadullapur,6,36,133,70,41,6,12,50,Gaibandha
+173,Saghata,7,16,81,38,5,0,5,28,Gaibandha
+174,Sundarganj,4,102,262,110,20,0,9,49,Gaibandha
+175,Total,41,252,3403,481,134,6,80,294,Gaibandha
+176,Gazipur Sadar,3,16,483,117,39,2,305,165,Gazipur
+177,Kaliakair,5,26,2315,2083,11,2,25,45,Gazipur
+178,Kapashia,3,65,2170,23,7,1,32,41,Gazipur
+179,Kaliganj,6,36,635,275,22,0,28,56,Gazipur
+180,Sreepur,6,68,1703,15,18,1,16,105,Gazipur
+181,Total,23,211,7306,2513,97,6,406,412,Gazipur
+182,Gopalganj Sadar,6,70,69,40,14,1,10,23,Gopalgonj
+183,Kashiani,5,49,101,12,7,0,3,19,Gopalgonj
+184,Kotalipara,6,36,403,101,12,0,0,19,Gopalgonj
+185,Muksudpur,4,25,113,8,6,0,2,16,Gopalgonj
+186,Tungipara,6,7,50,10,0,0,3,10,Gopalgonj
+187,Total,27,187,736,171,39,1,18,87,Gopalgonj
+188,Azmirigonj,3,7,0,0,5,0,1,17,Habiganj
+189,Bahubal,4,16,113,48,25,0,44,28,Habiganj
+190,Baniachang,5,35,51,49,1,0,2,31,Habiganj
+191,Chunarughat,5,56,203,25,20,0,15,30,Habiganj
+192,Habiganj Sadar,3,24,23,17,22,0,8,24,Habiganj
+193,Lakhai,3,14,48,38,5,0,1,16,Habiganj
+194,Madhabpur,5,19,62,59,32,0,4,68,Habiganj
+195,Nabiganj,6,20,309,0,0,0,3,29,Habiganj
+196,Total,34,191,809,236,110,0,78,243,Habiganj
+197,Bakshiganj,5,25,68,86,8,0,4,10,Jamalpur
+198,Dewanganj,3,8,75,74,14,0,5,17,Jamalpur
+199,Islampur,4,56,99,56,46,0,5,26,Jamalpur
+200,Jamalpur Sadar,17,36,114,36,27,2,20,78,Jamalpur
+201,Madarganj,4,20,30,80,12,0,9,19,Jamalpur
+202,Melandaha,5,25,60,87,42,0,10,43,Jamalpur
+203,Sarishabari,5,40,225,56,42,0,10,27,Jamalpur
+204,Total,43,210,671,475,191,2,63,220,Jamalpur
+205,Abhaynagar,5,22,159,111,13,0,12,31,Jessore
+206,Bagherpara,8,19,399,353,71,0,20,35,Jessore
+207,Chaugachha,5,49,71,26,18,0,12,15,Jessore
+208,Jessore Sadar,6,60,590,633,2,1,19,43,Jessore
+209,Jhikargachha,5,41,126,120,31,0,17,18,Jessore
+210,Keshabpur,4,24,242,81,11,0,6,27,Jessore
+211,Manirampur,3,56,290,71,75,0,21,42,Jessore
+212,Sharsha,5,35,74,155,1,0,19,36,Jessore
+213,Total,41,306,1951,1550,222,1,126,247,Jessore
+214,Jhalakathi Sadar,4,37,75,78,1,0,4,20,Jhalakathi
+215,Kanthalia,4,36,60,8,20,0,8,6,Jhalakathi
+216,Nalchity,3,32,54,7,1,0,16,24,Jhalakathi
+217,Rajpur,4,27,60,9,1,0,4,15,Jhalakathi
+218,Total,15,132,249,102,23,0,32,65,Jhalakathi
+219,Harinakunda,6,42,284,69,192,2,26,32,Jhenaidah
+220,Jhenaidah Sadar,10,37,102,34,12,0,17,35,Jhenaidah
+221,Kaliganj,2,33,97,48,68,0,17,37,Jhenaidah
+222,Kotchandpur,5,31,75,68,37,0,16,29,Jhenaidah
+223,Mahespur,6,50,148,114,39,0,12,36,Jhenaidah
+224,Shailkupa,2,10,240,54,16,0,6,13,Jhenaidah
+225,Total,31,203,946,387,364,2,94,182,Jhenaidah
+226,Akkelpur,5,13,597,27,7,1,8,30,Joypurhat
+227,Joypurhat sadar,22,34,348,109,34,0,24,40,Joypurhat
+228,Kalai,5,11,122,180,23,0,0,17,Joypurhat
+229,Khetlal,4,11,114,94,1,0,0,17,Joypurhat
+230,Panchbibi,3,22,51,53,32,0,16,25,Joypurhat
+231,Total,39,91,1232,463,97,1,48,129,Joypurhat
+232,Dighinala,0,12,41,5,11,1,4,2,Khagrachori
+233,Khagrachori,2,2,18,25,37,3,5,16,Khagrachori
+234,Laxshmichhari,0,1,1,1,0,0,0,0,Khagrachori
+235,Mahalchhari,3,4,8,2,0,0,3,2,Khagrachori
+236,Manikchhari,1,7,14,0,4,0,2,6,Khagrachori
+237,Matiranga,2,12,103,112,5,1,11,7,Khagrachori
+238,Panchhari,2,2,4,2,1,0,4,4,Khagrachori
+239,Ramgarh,5,5,66,2,8,1,3,6,Khagrachori
+240,Total,15,45,255,149,66,6,32,43,Khagrachori
+241,Batiaghata,3,34,200,29,7,0,3,12,Khulna
+242,Dacope,7,13,500,23,2,0,1,9,Khulna
+243,Dighalia,3,17,125,158,17,0,3,23,Khulna
+244,Dumuria,8,54,353,136,10,0,17,40,Khulna
+245,Khulna City Corporation,0,27,270,149,11,2,0,54,Khulna
+246,Koyra,5,29,33,4,5,0,4,16,Khulna
+247,Paikgachha,7,38,247,40,89,1,6,23,Khulna
+248,Phultala,2,4,176,134,550,0,6,10,Khulna
+249,Rupsa,6,21,159,87,17,0,42,19,Khulna
+250,Terokhada,4,24,143,161,1,0,4,11,Khulna
+251,Total,45,261,2206,921,709,3,86,217,Khulna
+252,Austagram,4,22,57,1,4,0,9,17,Kishoreganj
+253,Bajitpur,5,15,1313,101,9,0,5,18,Kishoreganj
+254,Bhairab,3,25,125,46,2,0,15,33,Kishoreganj
+255,Hossainpur,10,21,47,10,10,0,8,25,Kishoreganj
+256,Itna,527,14,126,29,0,0,0,13,Kishoreganj
+257,Karimganj,7,38,70,15,12,0,5,33,Kishoreganj
+258,Katiadi,5,32,328,70,50,6,8,48,Kishoreganj
+259,Kishoreganj Sadar,4,31,224,42,38,1,14,63,Kishoreganj
+260,Kuliar-char,2,18,45,8,15,0,2,35,Kishoreganj
+261,Mithamain,5,10,95,11,1,0,1,9,Kishoreganj
+262,Nikli,4,11,61,25,3,0,2,12,Kishoreganj
+263,Pakundia,4,29,87,10,50,2,11,43,Kishoreganj
+264,Tarail,3,16,47,30,3,0,1,13,Kishoreganj
+265,Total,581,282,2625,398,197,9,81,362,Kishoreganj
+266,Bhurungamari,5,20,2,19,9,0,4,25,Kurigram
+267,Char Rajibpur,7,15,5,4,8,0,2,3,Kurigram
+268,Chilmari,6,6,20,10,15,0,4,6,Kurigram
+269,Kurigram Sadar,4,24,431,25,13,1,7,26,Kurigram
+270,Nageshwari,15,46,80,14,0,0,8,41,Kurigram
+271,Phulbari,7,16,5,0,25,0,2,82,Kurigram
+272,Rajarhat,7,31,12,41,13,0,3,35,Kurigram
+273,Raumari,3,18,40,12,15,0,8,12,Kurigram
+274,Ulipur,22,35,60,27,20,2,10,41,Kurigram
+275,Total,76,211,661,152,118,3,48,271,Kurigram
+276,Kushtia,5,35,329,140,12,1,33,101,Kushtia
+277,Sadar,,,,,,,,,Kushtia
+278,Bheramara,5,26,90,47,32,1,7,29,Kushtia
+279,Daulatpur,5,56,140,373,21,0,17,50,Kushtia
+280,Khoksa,3,19,68,34,16,0,10,34,Kushtia
+281,Kumarkhali,3,45,85,102,60,0,20,70,Kushtia
+282,Mirpur,5,28,185,223,5,0,28,52,Kushtia
+283,Total,26,209,897,919,146,2,115,336,Kushtia
+284,Kamalnagar,9,9,17,5,2,0,7,16,Lakshmipur
+285,Lakshmipur Sadar,7,64,178,93,22,0,58,105,Lakshmipur
+286,Ramganj,5,38,95,72,14,0,13,27,Lakshmipur
+287,Ramgati,4,14,43,28,7,0,7,16,Lakshmipur
+288,Roypur,3,31,165,22,25,0,3,47,Lakshmipur
+289,Total,28,156,498,220,70,0,88,211,Lakshmipur
+290,Aditmari,10,17,38,45,1,0,5,31,Lalmonirhat
+291,Hatibandha,4,24,31,43,150,0,7,26,Lalmonirhat
+292,Kaligonj,7,21,18,26,12,0,9,23,Lalmonirhat
+293,Lalmonirhat Sadar,8,45,104,85,17,0,5,68,Lalmonirhat
+294,Patgram,4,24,3,39,13,0,3,28,Lalmonirhat
+295,Total,33,131,194,238,193,0,29,176,Lalmonirhat
+296,Kalkini,4,36,69,75,6,0,5,42,Madaripur
+297,Madaripur Sadar,15,46,179,118,7,0,18,55,Madaripur
+298,Rajoir,4,36,83,115,5,0,2,27,Madaripur
+299,Shibchar,6,61,82,520,4,0,13,55,Madaripur
+300,Total,29,179,413,828,22,0,38,179,Madaripur
+301,Magura Sadar,5,45,150,128,34,1,38,58,Magura
+302,Mohammadpur,4,32,51,69,15,0,16,32,Magura
+303,Shalikha,4,29,55,25,16,0,5,21,Magura
+304,Sreepur,4,20,43,25,12,0,4,28,Magura
+305,Total,17,126,299,247,77,1,63,131,Magura
+306,Daulotpur,2,32,77,85,1,0,0,9,Manikganj
+307,Gheor,2,32,202,245,5,0,2,22,Manikganj
+308,Horirampur,5,26,57,34,10,0,0,34,Manikganj
+309,Manikganj Sadar,5,40,325,105,52,0,10,86,Manikganj
+310,Saturia,3,19,82,20,2,2,9,59,Manikganj
+311,Shibalaya,3,25,61,27,2,0,3,32,Manikganj
+312,Singair,6,25,113,104,1,0,35,85,Manikganj
+313,Total,26,199,917,620,73,2,59,327,Manikganj
+314,Gangni,5,44,81,52,62,0,41,17,Meherpur
+315,Mujibnagar,3,11,37,81,9,0,12,4,Meherpur
+316,Meherpur Sadar,3,21,90,120,57,2,12,19,Meherpur
+317,Total,11,76,208,253,128,2,65,40,Meherpur
+318,Barlekha,6,17,140,58,16,0,12,52,Moulvibazar
+319,Juri,1,18,39,9,4,0,3,15,Moulvibazar
+320,Kamalganj,4,20,0,0,20,0,7,43,Moulvibazar
+321,Kulaura,2,45,214,19,30,1,11,51,Moulvibazar
+322,Moulvibazar Sadar,5,47,99,65,28,1,19,84,Moulvibazar
+323,Rajnagar,4,7,173,47,6,17,6,20,Moulvibazar
+324,Sreemangal,5,35,308,80,18,0,0,59,Moulvibazar
+325,Total,27,189,973,278,122,19,58,324,Moulvibazar
+326,Bhaluka,5,44,325,82,246,0,11,45,Mymensingh
+327,Dhobaura,5,28,212,27,1,1,0,6,Mymensingh
+328,Fulbaria,6,39,70,21,16,0,12,38,Mymensingh
+329,Gaffargaon,8,57,128,61,1,0,25,46,Mymensingh
+330,Gauripur,4,43,257,9,162,1,25,45,Mymensingh
+331,Haluaghat,3,41,240,56,40,0,13,27,Mymensingh
+332,Ishwargonj,5,50,70,36,21,0,13,48,Mymensingh
+333,Muktagacha,5,25,62,81,94,1,12,45,Mymensingh
+334,Mymensingh Sadar,11,61,149,156,35,0,18,76,Mymensingh
+335,Nandail,6,71,214,46,28,0,20,43,Mymensingh
+336,Phulpur,8,75,10,202,25,0,10,59,Mymensingh
+337,Trishal,5,31,90,42,55,0,50,45,Mymensingh
+338,Total,71,565,1827,819,724,3,209,523,Mymensingh
+339,Atrai,4,38,110,92,1,0,21,12,Naogaon
+340,Badalgachhi,4,21,49,8,1,0,17,29,Naogaon
+341,Dhamoirhat,11,20,60,62,150,1,8,24,Naogaon
+342,Manda,6,27,93,35,145,0,28,52,Naogaon
+343,Mahadebpur,4,21,151,86,73,0,14,43,Naogaon
+344,Naogaon sadar,9,20,247,111,27,0,33,51,Naogaon
+345,Niamatpur,10,18,35,38,11,0,5,17,Naogaon
+346,Patnitala,5,30,56,11,7,0,9,23,Naogaon
+347,Porsha,5,22,22,25,13,0,5,14,Naogaon
+348,Raninagar,2,22,149,63,16,0,12,25,Naogaon
+349,Sapahar,2,9,50,83,50,0,2,17,Naogaon
+350,Total,62,248,1022,614,494,1,154,307,Naogaon
+351,Kalia,13,35,51,31,5,1,8,26,Narail
+352,Lohagara,8,26,10,2,2,0,12,136,Narail
+353,Narail Sadar,5,43,242,75,17,0,9,54,Narail
+354,Total,26,104,303,108,24,1,29,216,Narail
+355,Araihazar,2,38,301,110,14,1,21,31,Narayanganj
+356,Bandar,2,32,77,85,1,0,16,54,Narayanganj
+357,Narayanganj Sadar,1,88,179,1767,63,0,228,155,Narayanganj
+358,Rupganj,3,42,493,543,11,0,18,35,Narayanganj
+359,Sonargaon,7,17,486,346,2,0,9,48,Narayanganj
+360,Total,15,217,1536,2851,91,1,292,323,Narayanganj
+361,Belabo,4,38,313,18,142,0,21,31,Narsingdi
+362,Manohardi,4,23,435,33,13,0,16,54,Narsingdi
+363,Narsingdi Sadar,2,35,252,160,50,6,18,112,Narsingdi
+364,Palash,7,23,383,106,35,0,18,35,Narsingdi
+365,Roypura,5,62,565,144,5,0,8,75,Narsingdi
+366,Shibpur,4,31,776,104,18,0,9,48,Narsingdi
+367,Total,26,212,2724,565,263,6,90,355,Narsingdi
+368,Bagatipara,3,19,96,14,12,0,4,21,Natore
+369,Baraigram,3,20,158,154,10,0,16,47,Natore
+370,Gurudaspur,6,20,72,52,12,1,8,21,Natore
+371,Lalpur,6,28,143,61,1,0,11,23,Natore
+372,Natore Sadar,4,48,62,139,19,1,20,67,Natore
+373,Singra,6,23,655,450,2,1,13,40,Natore
+374,Total,28,158,1186,870,56,3,72,219,Natore
+375,Atpara,5,25,143,13,19,0,1,15,Netrokona
+376,Barhatta,6,24,233,30,3,0,3,21,Netrokona
+377,Durgapur,4,31,14,4,2,0,3,14,Netrokona
+378,Kalmakanda,7,31,13369,19393,1,0,3,13,Netrokona
+379,Kendua,5,34,265,6,43,0,6,21,Netrokona
+380,Khaliajuri,0,15,41,4,0,0,0,1,Netrokona
+381,Madan,6,12,177,15,1,0,6,15,Netrokona
+382,Mohanganj,4,18,239,10,1,0,4,18,Netrokona
+383,Netrokona Sadar,5,52,328,47,18,0,5,54,Netrokona
+384,Purbadhala,4,27,75,15,1,0,4,34,Netrokona
+385,Total,46,269,14884,19537,89,0,35,196,Netrokona
+386,Dimla,4,22,11,33,470,0,1,51,Nilphamari
+387,Domar,8,23,24,121,220,0,3,50,Nilphamari
+388,Joldhaka,4,26,93,15,42,0,2,50,Nilphamari
+389,Kishorgonj,2,24,35,52,6,0,1,25,Nilphamari
+390,Nilphamary Sadar,5,42,32,15,28,0,4,59,Nilphamari
+391,Sayedpur,2,7,88,33,16,0,26,41,Nilphamari
+392,Total,25,144,283,269,782,0,37,276,Nilphamari
+393,Begumganj,6,32,147,121,40,0,12,115,Noakhali
+394,Chatkhil,3,22,117,32,6,0,12,58,Noakhali
+395,Companiganj,9,17,128,192,17,0,5,56,Noakhali
+396,Hatiya,20,37,11,31,20,0,14,11,Noakhali
+397,Kabirhat,6,21,74,60,4,0,2,45,Noakhali
+398,Noakhali Sadar,12,37,188,218,7,1,7,64,Noakhali
+399,Senbagh,5,28,137,67,14,0,49,61,Noakhali
+400,Sonaimuri,4,29,64,51,15,0,3,76,Noakhali
+401,Subarnachar,9,48,106,40,2,0,4,35,Noakhali
+402,Total,74,271,972,812,125,1,108,521,Noakhali
+403,Atwari,3,25,10,12,37,0,8,27,Panchagor
+404,Boda,4,41,31,13,26,1,5,46,Panchagor
+405,Debiganj,3,24,40,50,15,0,10,44,Panchagor
+406,Panchagarh Sadar,5,44,36,55,12,0,0,37,Panchagor
+407,Tentulia,3,19,29,23,5,0,0,19,Panchagor
+408,Total,18,153,146,153,95,1,23,173,Panchagor
+409,Bauphal,6,75,456,50,2,0,7,35,Patuakhali
+410,Dashmina,4,18,64,49,1,0,2,20,Patuakhali
+411,Dumki,0,7,37,12,15,0,0,7,Patuakhali
+412,Galachipa,6,81,216,28,69,22,1,22,Patuakhali
+413,Kalapara,8,27,225,144,18,0,8,24,Patuakhali
+414,Mirzaganj,4,23,92,60,10,0,2,13,Patuakhali
+415,Patuakhali Sadar,6,49,117,76,56,1,19,54,Patuakhali
+416,Total,34,280,1207,419,171,23,39,175,Patuakhali
+417,Bhandaria,4,41,90,68,5,0,4,11,Pirojpur
+418,Kawkhali,3,13,36,28,3,0,7,14,Pirojpur
+419,Mathbaria,13,32,150,10,80,0,0,24,Pirojpur
+420,Nazirpur,4,30,150,79,70,0,1,34,Pirojpur
+421,Nesarabad,4,31,379,11,1595,42,6,24,Pirojpur
+422,Pirojpur Sadar,3,10,226,99,26,0,6,20,Pirojpur
+423,Zianagar,2,22,17,22,1,0,4,7,Pirojpur
+424,Total,33,179,1048,317,1780,42,28,134,Pirojpur
+425,Baliakandi,4,15,89,30,14,0,10,41,Rajbari
+426,Goalanda,6,6,167,104,19,1,2,13,Rajbari
+427,Kalukhali,2,15,212,210,6,0,11,21,Rajbari
+428,Pangsha,6,30,547,626,18,0,9,45,Rajbari
+429,Rajbari Sadar,6,37,805,425,1,1,23,92,Rajbari
+430,Total,24,103,1820,1395,58,2,55,212,Rajbari
+431,Bagha,6,28,188,100,6,0,0,18,Rajshahi
+432,Baghmara,5,58,347,43,32,0,10,53,Rajshahi
+433,Charghat,3,14,196,127,26,0,2,7,Rajshahi
+434,Durgapur,4,15,79,117,13,0,8,9,Rajshahi
+435,Godagari,7,26,104,11,16,0,12,24,Rajshahi
+436,Mohanpur,4,16,84,16,17,0,7,13,Rajshahi
+437,Paba,4,24,95,29,9,0,15,30,Rajshahi
+438,Puthia,4,22,73,59,13,0,6,23,Rajshahi
+439,Rajshahi City Corporation,7,40,257,389,9,1,0,58,Rajshahi
+440,Tanore,8,12,24,12,3,0,1,16,Rajshahi
+441,Total,52,255,1447,903,144,1,61,251,Rajshahi
+442,Baghaichhari,4,8,31,38,48,1,2,4,Rangamati
+443,Barkal,6,13,1,0,0,0,0,0,Rangamati
+444,Belai Chhari,3,3,3,0,1,0,0,0,Rangamati
+445,Jurai Chhari,4,11,5,4,10,0,0,2,Rangamati
+446,Kaptai,5,7,3,1,4,1,0,9,Rangamati
+447,Kawkhali,4,6,36,3,13,0,8,7,Rangamati
+448,Langadu,1,14,21,14,25,1,2,3,Rangamati
+449,Naniarchar,4,5,9,0,1,1,0,1,Rangamati
+450,Rangamati Sadar,5,6,115,57,30,3,1,8,Rangamati
+451,Rajasthali,2,3,0,0,0,0,3,2,Rangamati
+452,Total,38,76,224,117,132,7,16,36,Rangamati
+453,Badarganj,6,22,63,75,31,0,46,22,Rangpur
+454,Gangachara,6,22,48,71,72,1,2,30,Rangpur
+455,Kaunia,3,25,73,274,15,0,4,32,Rangpur
+456,Mithapukur,17,59,112,57,36,0,26,52,Rangpur
+457,Pirgachha,6,19,972,330,5,0,9,43,Rangpur
+458,Pirganj,6,27,296,1058,51,0,14,56,Rangpur
+459,Rangpur Sadar,7,17,510,1121,90,0,15,116,Rangpur
+460,Taraganj,6,40,73,30,33,0,10,21,Rangpur
+461,Total,57,231,2147,3016,333,1,126,372,Rangpur
+462,Assasuni,6,38,120,221,13,0,9,15,Satkhira
+463,Debhata,4,15,220,150,20,0,7,12,Satkhira
+464,Kalaroa,5,35,122,265,15,0,17,40,Satkhira
+465,Kaliganj,6,49,1032,125,176,1,8,29,Satkhira
+466,Satkhira Sadar,6,52,671,260,92,1,26,39,Satkhira
+467,Shyamnagar,6,45,165,131,16,1,8,25,Satkhira
+468,Tala,6,40,260,67,14,1,16,19,Satkhira
+469,Total,39,274,2590,1219,346,4,91,179,Satkhira
+470,Bhedarganj,4,33,57,20,3,0,4,44,Shariatpur
+471,Damudya,4,17,12,13,1,0,2,15,Shariatpur
+472,Gosairhat,1,22,44,9,3,0,15,25,Shariatpur
+473,Naria,4,35,0,0,2,0,6,52,Shariatpur
+474,Shariatpur Sadar,4,26,126,15,17,0,11,48,Shariatpur
+475,Zanjira,1,24,46,30,3,0,7,29,Shariatpur
+476,Total,18,157,285,87,29,0,45,213,Shariatpur
+477,Jhenaigati,6,22,206,267,15,0,0,12,Sherpur
+478,Nakla,6,26,122,110,13,0,2,21,Sherpur
+479,Nalitabari,5,31,138,16,47,0,0,15,Sherpur
+480,Sherpur Sadar,5,39,89,103,40,0,20,67,Sherpur
+481,Sreebardi,4,30,17,19,18,0,1,20,Sherpur
+482,Total,26,148,572,515,133,0,23,135,Sherpur
+483,Belkuchi,3,57,250,315,23,0,1,47,Sirajganj
+484,Chauhali,4,19,65,186,21,0,0,8,Sirajganj
+485,Kamarkhanda,3,31,49,156,11,1,3,0,Sirajganj
+486,Kazipur,26,40,72,7,12,2,1,27,Sirajganj
+487,Royganj,4,19,361,331,39,0,9,43,Sirajganj
+488,Shahjadpur,5,24,250,7600,1,1,22,61,Sirajganj
+489,Sirajganj Sadar,15,36,725,467,77,1,5,39,Sirajganj
+490,Tarash,4,28,255,90,1,0,7,23,Sirajganj
+491,Ullahpara,8,52,1962,1263,6,0,12,72,Sirajganj
+492,Total,72,306,3989,10415,191,5,60,320,Sirajganj
+493,Bishwamvarpur,0,18,160,10,10,0,0,30,Sunamganj
+494,Chhatak,5,27,9,21,7,0,4,52,Sunamganj
+495,Dakshin Sunamganj,3,10,7,1,8,0,0,14,Sunamganj
+496,Derai,4,16,33,5,4,0,3,17,Sunamganj
+497,Dharmapasha,5,15,161,8,1,0,3,18,Sunamganj
+498,Doarabazar,5,32,42,0,3,0,0,25,Sunamganj
+499,Jagannathpur,3,31,10,1,1,0,1,55,Sunamganj
+500,Jamalganj,4,25,147,23,5,0,0,5,Sunamganj
+501,Shalla,3,7,60,0,1,0,0,4,Sunamganj
+502,Sunamganj Sadar,5,30,47,3,5,1,8,23,Sunamganj
+503,Tahirpur,4,16,0,0,12,0,0,7,Sunamganj
+504,Total,41,227,676,72,57,1,19,250,Sunamganj
+505,Balaganj,5,21,65,15,10,0,32,41,Sylhet
+506,Beanibazar,7,30,296,6,18,0,12,26,Sylhet
+507,Bishwanath,4,38,28,9,6,0,9,33,Sylhet
+508,Companiganj,4,19,22,3,1,0,0,12,Sylhet
+509,Dakhin Surma,11,27,157,73,28,0,16,34,Sylhet
+510,Fenchuganj,2,9,127,32,1,0,5,12,Sylhet
+511,Golapganj,5,38,258,23,58,2,13,43,Sylhet
+512,Gowainghat,4,39,0,0,26,0,10,24,Sylhet
+513,Jaintiapur,3,6,119,264,26,1,2,11,Sylhet
+514,Kanaighat,6,23,21,19,1,0,5,12,Sylhet
+515,Sylhet City Corporation,0,15,0,0,4,0,0,91,Sylhet
+516,Sylhet Sadar,8,27,95,35,15,8,15,31,Sylhet
+517,Zakiganj,5,23,65,20,3,0,8,32,Sylhet
+518,Total,64,315,1253,499,197,11,127,402,Sylhet
+519,Basail,4,36,63,73,9,1,3,25,Tangail
+520,Bhuapur,2,41,347,431,11,0,4,22,Tangail
+521,Delduar,5,16,168,86,31,0,0,27,Tangail
+522,Dhanbari,3,15,69,8,40,1,13,16,Tangail
+523,Ghatail,8,31,377,88,105,1,46,48,Tangail
+524,Gopalpur,4,33,140,43,17,0,3,30,Tangail
+525,Kalihati,6,72,667,896,57,1,8,44,Tangail
+526,Madhupur,12,21,143,23,78,0,11,43,Tangail
+527,Mirzapur,4,51,75,3,0,0,54,45,Tangail
+528,Nagarpur,3,74,108,85,27,0,4,23,Tangail
+529,Sakhipur,5,44,700,100,56,0,3,26,Tangail
+530,Tangail Sadar,21,23,193,236,104,4,4,58,Tangail
+531,Total,77,457,3050,2072,535,8,153,407,Tangail
+532,Baliadangi,7,48,21,15,19,0,9,30,Thakurgaon
+533,Haripur,4,21,141,21,22,0,4,20,Thakurgaon
+534,Pirgonj,4,31,42,49,111,1,4,53,Thakurgaon
+535,Ranisankail,4,55,37,52,80,0,7,35,Thakurgaon
+536,Thakurgaon Sadar,9,42,63770,76508,250,0,12,85,Thakurgaon
+537,Total,28,197,64011,76645,482,1,36,223,Thakurgaon

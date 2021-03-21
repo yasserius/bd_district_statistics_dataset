@@ -1,0 +1,3 @@
+,0,1,,,,,,,,,,
+0,filename,note,upazila_unit,total_population_unit,all_disabilities_unit,speech_unit,vision_unit,hearing_unit,physical_unit,mental_unit,autistism_unit,district_unit
+1,all-districts_CHAPTER-2_Percentage-distribution-of-population-by-type-of-disability-2011.csv,"data missing for Munshiganj, Khulna, Rangpur, Sylhet. The 'total_population' and 'all_disabilities' column is missing for some districts.",,count,percent,percent,percent,percent,percent,percent,percent,

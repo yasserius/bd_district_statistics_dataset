@@ -1,0 +1,94 @@
+,0,1,2,3,4,5
+0,upazila,2008,2009,2010,2011,district
+1,Agailjhara,No,No,No,No,Barisal
+2,Babuganj,Yes,Yes,Yes,Yes,Barisal
+3,Bakerganj,No,No,No,No,Barisal
+4,Banaripara,Yes,Yes,Yes,Yes,Barisal
+5,Barisal,No,No,No,No,Barisal
+6,Barisal Sadar,No,No,No,No,Barisal
+7,Gaurnadi,No,No,No,No,Barisal
+8,Hizla,Yes,Yes,No,No,Barisal
+9,Mehendiganj,No,No,No,No,Barisal
+10,Muladi,No,No,No,No,Barisal
+11,Wazirpur,No,No,No,No,Barisal
+12,Bhola Sadar,Yes,Yes,Yes,No,Bhola
+13,Burhanuddin,Yes,Yes,Yes,Yes,Bhola
+14,Char Fasson,Yes,Yes,Yes,No,Bhola
+15,Daulatkhan,Yes,Yes,Yes,No,Bhola
+16,Lalmohan,No,No,No,No,Bhola
+17,Manpura,No,No,No,No,Bhola
+18,Tazumuddin,No,No,No,No,Bhola
+19,Chandpur Sadar,No,No,No,No,Chandpur
+20,Foridganj,Yes,No,No,No,Chandpur
+21,Haimchar,Yes,No,No,No,Chandpur
+22,Hajiganj,No,No,No,No,Chandpur
+23,Kachua,No,No,No,No,Chandpur
+24,Matlab Dakshin,Yes,No,Yes,No,Chandpur
+25,Matlab Uttar,No,No,No,No,Chandpur
+26,Shahrasti,No,No,No,No,Chandpur
+27,Harinakunda,Yes,No,No,No,Jhenaidah
+28,Jhenaidah Sadar,No,No,No,No,Jhenaidah
+29,Kaliganj,No,No,No,No,Jhenaidah
+30,Kotchandpur,No,No,No,No,Jhenaidah
+31,Mahespur,No,No,No,No,Jhenaidah
+32,Shailkupa,No,No,No,No,Jhenaidah
+33,Alamdanga,No,No,No,No,Khagrachori
+34,Chuadanga Sadar,No,No,No,No,Khagrachori
+35,Damurhuda,No,No,No,No,Khagrachori
+36,Jibonnagar,No,No,No,No,Khagrachori
+37,Kamalnagar,No,No,No,No,Lakshmipur
+38,Lakshmipur Sadar,No,No,No,No,Lakshmipur
+39,Ramganj,No,No,No,No,Lakshmipur
+40,Ramgati,yes,No,No,No,Lakshmipur
+41,Roypur,No,No,No,No,Lakshmipur
+42,Bagha,No,No,No,No,Rajshahi
+43,Baghmara,Yes,No,No,No,Rajshahi
+44,Charghat,Yes,No,No,No,Rajshahi
+45,Durgapur,No,No,No,No,Rajshahi
+46,Godagari,No,No,No,No,Rajshahi
+47,Mohanpur,Yes,No,No,Yes,Rajshahi
+48,Paba,No,No,No,No,Rajshahi
+49,Puthia,No,No,No,No,Rajshahi
+50,Rajshahi City Corporation,No,No,No,No,Rajshahi
+51,Tanore,No,No,No,No,Rajshahi
+52,Badarganj,No,No,No,No,Rangpur
+53,Gangachara,Yes,Yes,Yes,Yes,Rangpur
+54,Kaunia,No,No,No,No,Rangpur
+55,Mithapukur,No,No,No,No,Rangpur
+56,Pirgachha,No,No,No,No,Rangpur
+57,Pirganj,No,No,No,No,Rangpur
+58,Rangpur Sadar,No,No,No,No,Rangpur
+59,Taraganj,No,No,No,No,Rangpur
+60,Belkuchi,Yes,Yes,Yes,Yes,Sirajganj
+61,Chauhali,yes,Yes,Yes,Yes,Sirajganj
+62,Kamarkhanda,Yes,Yes,No,No,Sirajganj
+63,Kazipur,Yes,Yes,No,No,Sirajganj
+64,Royganj,Yes,Yes,Yes,Yes,Sirajganj
+65,Shahjadpur,No,No,No,No,Sirajganj
+66,Sirajganj Sadar,Yes,Yes,Yes,Yes,Sirajganj
+67,Tarash,Yes,No,No,No,Sirajganj
+68,Ullahpara,No,No,No,No,Sirajganj
+69,Bishwamvarpur,Yes,No,Yes,No,Sunamganj
+70,Chhatak,Yes,No,Yes,No,Sunamganj
+71,Dakshin Sunamganj,No,No,No,No,Sunamganj
+72,Derai,No,Yes,No,No,Sunamganj
+73,Dharmapasha,No,No,Yes,No,Sunamganj
+74,Doarabazar,No,No,No,No,Sunamganj
+75,Jagannathpur,No,Yes,Yes,No,Sunamganj
+76,Jamalganj,No,No,No,No,Sunamganj
+77,Shalla,Yes,No,Yes,No,Sunamganj
+78,Sunamganj Sadar,No,No,No,No,Sunamganj
+79,Tahirpur,Yes,No,No,No,Sunamganj
+80,Balaganj,No,No,Yes,No,Sylhet
+81,Beanibazar,Yes,No,Yes,No,Sylhet
+82,Bishwanath,Yes,No,No,No,Sylhet
+83,Companiganj,No,No,No,No,Sylhet
+84,Dakhin Surma,No,No,No,No,Sylhet
+85,Fenchuganj,No,No,No,No,Sylhet
+86,Golapganj,No,Yes,No,No,Sylhet
+87,Gowainghat,Yes,Yes,Yes,No,Sylhet
+88,Jaintiapur,No,No,No,No,Sylhet
+89,Kanaighat,No,No,No,No,Sylhet
+90,Sylhet City Corporation,No,No,Yes,No,Sylhet
+91,Sylhet Sadar,No,No,Yes,No,Sylhet
+92,Zakiganj,No,No,No,No,Sylhet

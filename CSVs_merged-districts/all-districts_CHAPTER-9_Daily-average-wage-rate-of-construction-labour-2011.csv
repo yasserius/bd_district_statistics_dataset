@@ -1,0 +1,532 @@
+,0,1,2,3,4,5,6,7
+0,upazila,labour_mason,labour_helper_jogaly,labour_carpenter,labour_colour,labour_electric,labour_plumber,district
+1,Bagerhat Sadar,350,200,300,350,400,450,Bagerhat
+2,Kachua,300,200,220,350,410,400,Bagerhat
+3,Rampal,280,200,250,200,260,260,Bagerhat
+4,Sharonkhola,300,200,300,300,500,400,Bagerhat
+5,Chitolmari,375,275,350,375,425,360,Bagerhat
+6,Morrelgonj,400,250,350,350,300,450,Bagerhat
+7,Mongla,400,200,300,300,300,300,Bagerhat
+8,Mollahat,300,220,250,300,300,300,Bagerhat
+9,Fakirhat,350,200,300,300,350,300,Bagerhat
+10,Average,339,216,291,314,361,358,Bagerhat
+11,Alikadam,450,300,450,450,400,500,Bandarban
+12,Bandarban Sadar,400,300,400,350,500,400,Bandarban
+13,Lama,400,300,400,400,500,500,Bandarban
+14,Naikhongchhari,400,300,400,400,400,400,Bandarban
+15,Rowangchhari,350,250,350,300,300,300,Bandarban
+16,Ruma,300,250,300,350,400,0,Bandarban
+17,Thanchi,450,300,400,500,0,0,Bandarban
+18,Average,393,285,385,393,416,420,Bandarban
+19,Amtali,350,250,350,350,500,350,Barguna
+20,Bamna,400,225,350,300,300,450,Barguna
+21,Barguna Sadar,350,250,350,350,500,300,Barguna
+22,Betagi,350,220,350,400,500,350,Barguna
+23,Patharghata,350,300,300,400,450,400,Barguna
+24,Average,360,249,340,360,450,370,Barguna
+25,Agailjhara,350,250,300,250,300,300,Barisal
+26,Babuganj,350,250,300,250,310,300,Barisal
+27,Bakerganj,400,300,400,400,500,400,Barisal
+28,Banaripara,350,220,300,300,400,350,Barisal
+29,Barisal city corporation,350,250,350,350,350,350,Barisal
+30,Barisal Sadar,350,250,350,350,350,350,Barisal
+31,Gaurnadi,350,250,350,400,400,400,Barisal
+32,Hizla,350,250,300,350,400,300,Barisal
+33,Mehendiganj,400,300,300,600,400,350,Barisal
+34,Muladi,345,280,345,345,345,345,Barisal
+35,Wazirpur,350,250,350,350,500,450,Barisal
+36,Average,358,259,331,359,387,354,Barisal
+37,Bhola Sadar,400,300,350,350,400,500,Bhola
+38,Burhanuddin,400,250,350,400,450,500,Bhola
+39,Char Fasson,400,250,300,500,500,500,Bhola
+40,Daulatkhan,400,300,350,350,400,400,Bhola
+41,Lalmohan,400,300,500,350,500,600,Bhola
+42,Manpura,350,250,250,200,400,300,Bhola
+43,Tazumuddin,350,300,300,300,300,350,Bhola
+44,District Average,385,278,342,350,421,450,Bhola
+45,Adamdighi,270,200,250,250,300,0,Bogura
+46,Bogra sadar,350,250,350,350,400,400,Bogura
+47,Dhunat,320,210,350,350,380,300,Bogura
+48,Gabtali,300,180,200,280,250,300,Bogura
+49,Dhupchanchia,270,200,300,300,300,270,Bogura
+50,Kahaloo,350,250,350,300,400,500,Bogura
+51,Nandigram,400,250,350,300,400,400,Bogura
+52,Sariakandi,350,200,300,280,320,290,Bogura
+53,Sherpur,400,300,350,300,350,400,Bogura
+54,Shibganj,375,170,270,250,300,380,Bogura
+55,Sonatola,400,250,300,300,350,300,Bogura
+56,Shajahanpur,350,250,350,350,400,300,Bogura
+57,Average,345,226,310,301,346,320,Bogura
+58,Akhaura,400,300,400,300,400,500,BrahmanBaria
+59,Ashuganj,350,220,375,400,400,400,BrahmanBaria
+60,Banchrampur,400,200,350,350,450,500,BrahmanBaria
+61,Bijoynogor,350,250,375,400,450,500,BrahmanBaria
+62,Brahmanbaria Sadar,350,250,375,400,450,400,BrahmanBaria
+63,Kasba,350,250,350,350,400,400,BrahmanBaria
+64,Nabinagar,350,250,400,400,400,400,BrahmanBaria
+65,Nasirnagar,500,300,400,400,500,500,BrahmanBaria
+66,Sarail,500,250,500,500,350,500,BrahmanBaria
+67,Average,394,252,392,389,422,456,BrahmanBaria
+68,Chandpur Sadar,400,280,300,300,400,350,Chandpur
+69,Foridganj,400,250,300,300,400,400,Chandpur
+70,Haimchar,400,250,300,250,400,350,Chandpur
+71,Hajiganj,400,250,300,400,400,300,Chandpur
+72,Kachua,400,300,400,400,400,400,Chandpur
+73,Matlab Dakshin,300,200,300,300,350,250,Chandpur
+74,Matlab Uttar,300,200,280,300,300,300,Chandpur
+75,Shahrasti,500,300,400,500,500,500,Chandpur
+76,Average,388,254,323,344,394,356,Chandpur
+77,Bholahat,245,145,250,300,440,480,Chapai_Nawabganj
+78,Chapai Nawabganj Sadar,250,150,260,300,470,500,Chapai_Nawabganj
+79,Gomastapur,250,150,255,310,450,480,Chapai_Nawabganj
+80,Nachole,250,150,260,310,460,500,Chapai_Nawabganj
+81,Shibganj,250,150,250,310,460,500,Chapai_Nawabganj
+82,Average,249,149,255,306,456,492,Chapai_Nawabganj
+83,Anowara,500,300,400,380,500,450,Chittagong
+84,Banshkhali,500,200,400,300,200,250,Chittagong
+85,Boalkhali,450,300,400,400,400,350,Chittagong
+86,Chandanaish,400,250,400,400,300,450,Chittagong
+87,Chittagong City Corporation,500,400,450,450,500,500,Chittagong
+88,Fatikchhari,500,250,400,400,400,400,Chittagong
+89,Hathazari,500,300,500,400,500,500,Chittagong
+90,Lohagara,500,300,400,400,300,500,Chittagong
+91,Mirsharai,500,300,500,600,400,500,Chittagong
+92,Patiya,450,350,430,360,450,450,Chittagong
+93,Rangunia,450,250,500,500,400,450,Chittagong
+94,Raozan,500,250,450,450,500,500,Chittagong
+95,Sandwip,550,250,300,450,450,450,Chittagong
+96,Satkania,500,400,500,550,550,600,Chittagong
+97,Sitakunda,400,300,400,400,400,400,Chittagong
+98,Average,480,293,429,429,417,450,Chittagong
+99,Alamdanga,350,250,300,300,400,400,Chuadanga
+100,Chuadanga Sadar,350,250,300,300,450,450,Chuadanga
+101,Damurhuda,300,225,300,300,350,350,Chuadanga
+102,Jibonnagar,300,225,300,300,350,350,Chuadanga
+103,Average,325,237,300,300,387,387,Chuadanga
+104,Adarsha Sadar,600,300,450,350,400,400,Comilla
+105,Barura,300,200,300,400,300,400,Comilla
+106,Brahmanpara,300,220,350,400,400,350,Comilla
+107,Burichang,400,250,350,400,500,450,Comilla
+108,Chandina,400,300,400,400,500,500,Comilla
+109,Chauddagram,350,250,300,350,450,400,Comilla
+110,Comilla Sadar Dakshin,450,300,400,350,400,400,Comilla
+111,Daudkandi,500,350,450,300,500,500,Comilla
+112,Debidwar,350,250,300,400,450,500,Comilla
+113,Homna,400,200,350,350,500,500,Comilla
+114,Laksam,500,250,400,350,400,500,Comilla
+115,Monoharganj,400,300,350,400,500,450,Comilla
+116,Meghna,400,250,500,500,450,400,Comilla
+117,Muradnagar,350,250,350,350,400,450,Comilla
+118,Nangalkot,350,250,300,500,600,650,Comilla
+119,Titas,300,250,300,350,400,450,Comilla
+120,Average,397,261,366,384,447,460,Comilla
+121,Chakaria,400,200,400,400,400,450,Coxs_Bazar
+122,Cox's Bazar Sadar,400,250,350,500,300,500,Coxs_Bazar
+123,Kutubdia,400,260,350,300,300,350,Coxs_Bazar
+124,Moheshkhali,450,250,450,500,500,450,Coxs_Bazar
+125,Pekua,500,350,450,450,380,380,Coxs_Bazar
+126,Ramu,550,350,550,400,400,550,Coxs_Bazar
+127,Teknaf,400,280,400,350,400,400,Coxs_Bazar
+128,Ukhia,350,250,450,350,500,300,Coxs_Bazar
+129,Average,431,274,425,406,398,423,Coxs_Bazar
+130,Dhaka Metropolitan,500,300,500,500,500,600,Dhaka
+131,Dhamrai,350,250,350,350,470,380,Dhaka
+132,Dohar,500,300,500,500,400,500,Dhaka
+133,Keraniganj,450,300,450,400,600,500,Dhaka
+134,Nawabganj,350,250,350,350,400,400,Dhaka
+135,Savar,450,300,400,450,500,500,Dhaka
+136,Average,433,283,425,425,478,480,Dhaka
+137,Biral,300,150,350,350,300,300,Dinajpur
+138,Birampur,300,150,270,200,300,320,Dinajpur
+139,Birganj,300,180,300,300,250,300,Dinajpur
+140,Bochaganj,260,170,250,260,255,260,Dinajpur
+141,Chirirbandar,300,200,250,200,250,350,Dinajpur
+142,Dinajpur Sadar,250,170,250,250,300,400,Dinajpur
+143,Fulbari,350,200,300,350,400,350,Dinajpur
+144,Ghoraghat,280,150,260,230,300,250,Dinajpur
+145,Hakimpur,300,150,270,200,300,320,Dinajpur
+146,Kaharole,250,160,200,200,300,300,Dinajpur
+147,Khansama,250,150,250,200,250,250,Dinajpur
+148,Nawabganj,300,150,275,200,275,250,Dinajpur
+149,Parbatipur,300,180,250,250,300,350,Dinajpur
+150,Average,288,166,267,245,291,308,Dinajpur
+151,Alfadanga,400,300,500,500,500,500,Faridpur
+152,Bhanga,350,280,300,300,350,400,Faridpur
+153,Boalmari,350,250,400,350,400,500,Faridpur
+154,Charbhadrashon,400,250,350,400,400,350,Faridpur
+155,Faridpur Sadar,400,250,400,400,400,400,Faridpur
+156,Madhukhali,300,200,300,300,500,300,Faridpur
+157,Nagarkanda,400,300,500,400,500,500,Faridpur
+158,Sadarpur,300,200,300,300,350,450,Faridpur
+159,Saltha,400,300,400,400,500,500,Faridpur
+160,Average,367,259,383,372,433,433,Faridpur
+161,Chhagalnaiya,450,350,400,450,500,450,Feni
+162,Daganbhuiyan,450,250,450,400,350,400,Feni
+163,Feni Sadar,400,250,350,450,400,500,Feni
+164,Fulgazi,400,250,450,500,550,550,Feni
+165,Parshuram,400,200,350,350,400,400,Feni
+166,Sonagazi,450,225,450,500,450,550,Feni
+167,Average,425,254,408,442,442,475,Feni
+168,Fulchhari,250,120,200,190,220,300,Gaibandha
+169,Gaibandha Sadar,270,130,200,200,250,300,Gaibandha
+170,Gobindaganj,260,130,200,200,240,300,Gaibandha
+171,Palashbari,250,130,200,200,220,280,Gaibandha
+172,Sadullapur,240,120,190,200,200,270,Gaibandha
+173,Saghata,250,120,180,190,220,280,Gaibandha
+174,Sundarganj,250,120,180,180,200,280,Gaibandha
+175,Average,250,125,190,190,220,280,Gaibandha
+176,Gazipur Sadar,400,250,300,450,450,500,Gazipur
+177,Kaliakair,400,280,400,350,400,400,Gazipur
+178,Kaliganj,350,250,400,400,500,400,Gazipur
+179,Kapashia,400,200,400,450,400,400,Gazipur
+180,Sreepur,500,300,500,400,400,350,Gazipur
+181,Average,410,256,400,410,430,410,Gazipur
+182,Gopalganj Sadar,300,270,300,350,300,360,Gopalgonj
+183,Kashiani,350,210,350,400,375,350,Gopalgonj
+184,Kotalipara,350,280,250,300,350,430,Gopalgonj
+185,Muksudpur,300,250,300,250,400,350,Gopalgonj
+186,Tungipara,350,250,400,400,400,350,Gopalgonj
+187,Average,330,252,320,340,365,368,Gopalgonj
+188,Azmirigonj,250,200,300,350,350,400,Habiganj
+189,Bahubal,250,150,300,300,500,500,Habiganj
+190,Baniachang,300,180,300,400,400,500,Habiganj
+191,Chunarughat,300,180,250,300,400,400,Habiganj
+192,Habiganj Sadar,300,200,300,400,400,400,Habiganj
+193,Lakhai,300,200,300,300,300,300,Habiganj
+194,Madhabpur,400,250,400,350,500,500,Habiganj
+195,Nabiganj,250,150,250,300,300,250,Habiganj
+196,Average,294,189,300,338,394,406,Habiganj
+197,Bakshiganj,350,25,300,30,300,310,Jamalpur
+198,Dewanganj,350,250,300,300,300,350,Jamalpur
+199,Islampur,250,150,200,200,250,300,Jamalpur
+200,Jamalpur Sadar,350,180,300,250,250,350,Jamalpur
+201,Madarganj,350,215,300,300,300,320,Jamalpur
+202,Melandaha,350,250,350,350,400,400,Jamalpur
+203,Sarishabari,300,200,300,400,400,400,Jamalpur
+204,Average,329,181,293,261,314,347,Jamalpur
+205,Abhaynagar,300,200,300,300,350,350,Jessore
+206,Bagherpara,350,200,250,300,300,350,Jessore
+207,Chaugachha,250,200,200,250,250,200,Jessore
+208,Jessore Sadar,350,250,300,280,300,320,Jessore
+209,Jhikargachha,300,200,300,250,300,280,Jessore
+210,Keshabpur,300,200,200,260,200,300,Jessore
+211,Manirampur,300,250,300,300,300,300,Jessore
+212,Sharsha,280,190,300,300,350,350,Jessore
+213,Average,304,211,269,280,294,306,Jessore
+214,Jhalakathi Sadar,300,220,300,300,400,350,Jhalakathi
+215,Kanthalia,400,250,300,350,400,500,Jhalakathi
+216,Nalchity,350,250,350,350,400,400,Jhalakathi
+217,Rajpur,350,250,350,350,350,350,Jhalakathi
+218,Average,350,243,325,338,388,400,Jhalakathi
+219,Harinakunda,30,220,30,250,400,300,Jhenaidah
+220,Jhenaidah Sadar,320,250,300,300,300,320,Jhenaidah
+221,Kaliganj,300,250,300,300,300,300,Jhenaidah
+222,Kotchandpur,250,160,200,200,250,200,Jhenaidah
+223,Mahespur,250,200,200,225,250,200,Jhenaidah
+224,Shailkupa,350,250,300,300,300,300,Jhenaidah
+225,Average,250,222,222,263,300,270,Jhenaidah
+226,Akkelpur,280,220,250,300,300,350,Joypurhat
+227,Joypurhat sadar,350,250,350,350,400,300,Joypurhat
+228,Kalai,300,250,300,250,300,300,Joypurhat
+229,Khetlal,300,200,300,400,250,300,Joypurhat
+230,Panchbibi,300,200,250,300,250,300,Joypurhat
+231,Average,306,224,290,320,300,310,Joypurhat
+232,Dighinala,500,300,500,550.0,600,600,Khagrachori
+233,Khagrachori,400,250,400,400.0,400,400,Khagrachori
+234,Laxshmichhari,450,300,400,400.0,350,350,Khagrachori
+235,Mahalchhari,500,350,550,600.0,500,500,Khagrachori
+236,Manikchhari,400,300,300,350.0,500,400,Khagrachori
+237,Matiranga,400,300,300,300.0,500,400,Khagrachori
+238,Panchhari,350,250,400,350.0,550,500,Khagrachori
+239,Ramgarh,400,250,350,350.0,500,400,Khagrachori
+240,Average,425,287,400,412.5,487,443,Khagrachori
+241,Batiaghata,300,250,300,250,300,300,Khulna
+242,Dacope,300,200,300,250,250,300,Khulna
+243,Dighalia,350,250,300,300,425,350,Khulna
+244,Dumuria,300,200,250,300,300,250,Khulna
+245,Khulna City Corporation,350,250,350,350,380,350,Khulna
+246,Koyra,300,230,250,250,300,250,Khulna
+247,Paikgachha,300,200,300,300,350,400,Khulna
+248,Phultala,300,200,200,200,250,300,Khulna
+249,Rupsa,300,200,300,250,400,400,Khulna
+250,Average,300,200,250,300,350,300,Khulna
+251,Bhurungamari,300,170,300,250,350,300,Kurigram
+252,Char Rajibpur,300,200,300,350,350,300,Kurigram
+253,Chilmari,270,170,250,250,300,300,Kurigram
+254,Kurigram Sadar,250,200,250,300,500,350,Kurigram
+255,Nageshwari,300,150,200,225,250,250,Kurigram
+256,Phulbari,300,160,250,300,300,300,Kurigram
+257,Rajarhat,260,160,200,230,400,250,Kurigram
+258,Raumari,300,200,250,300,250,250,Kurigram
+259,Ulipur,250,180,240,250,300,250,Kurigram
+260,Average,280,180,250,250,350,300,Kurigram
+261,Kushtia Sadar,350,250,250,300,400,300,Kushtia
+262,Bheramara,350,250,350,350,350,350,Kushtia
+263,Daulatpur,300,200,300,350,350,350,Kushtia
+264,Khoksa,330,250,300,300,300,300,Kushtia
+265,Kumarkhali,330,230,350,350,550,400,Kushtia
+266,Mirpur,320,200,300,320,300,400,Kushtia
+267,Average,330,230,308,328,375,350,Kushtia
+268,Kamalnagar,350,220,300,350,500,400,Lakshmipur
+269,Lakshmipur Sadar,400,250,350,400,400,400,Lakshmipur
+270,Ramganj,350,200,350,400,300,400,Lakshmipur
+271,Ramgati,350,250,350,450,420,350,Lakshmipur
+272,Roypur,350,250,400,400,600,600,Lakshmipur
+273,Average,360,234,350,400,444,430,Lakshmipur
+274,Aditmari,300,200,300,300,350,350,Lalmonirhat
+275,Hatibandha,250,150,200,250,250,200,Lalmonirhat
+276,Kaligonj,300,250,300,250,250,300,Lalmonirhat
+277,Lalmonirhat Sadar,250,180,250,300,350,300,Lalmonirhat
+278,Patgram,250,200,250,250,300,300,Lalmonirhat
+279,Average,260,196,260,270,300,290,Lalmonirhat
+280,Kalkini,350,250,300,350,300,300,Madaripur
+281,Madaripur Sadar,350,220,350,350,400,400,Madaripur
+282,Rajoir,400,200,300,400,500,300,Madaripur
+283,Shibchar,350,250,350,350,200,350,Madaripur
+284,Average,363,230,325,363,350,115,Madaripur
+285,Magura Sadar,350,250,350,350,350,375,Magura
+286,Mohammadpur,300,200,300,300,400,400,Magura
+287,Shalikha,300,250,350,300,500,500,Magura
+288,Sreepur,350,220,300,300,250,250,Magura
+289,Average,325,230,325,313,375,381,Magura
+290,Daulotpur,350,250,350,350,400,0,Manikganj
+291,Gheor,300,200,350,300,500,500,Manikganj
+292,Horirampur,400,300,400,450,500,400,Manikganj
+293,Manikganj Sadar,350,200,350,400,500,500,Manikganj
+294,Saturia,350,250,400,350,400,400,Manikganj
+295,Shibalaya,380,280,350,400,500,380,Manikganj
+296,Singair,350,250,400,350,500,400,Manikganj
+297,Average,354,247,371,371,471,516,Manikganj
+298,Gangni,450,300,300,300,400,500,Meherpur
+299,Mujibnagar,300,200,300,300,350,300,Meherpur
+300,Meherpur Sadar,300,200,300,310,350,310,Meherpur
+301,Average,350,233,300,303,367,370,Meherpur
+302,Barlekha,250,180,200,200,300,300,Moulvibazar
+303,Juri,350,200,350,300,350,300,Moulvibazar
+304,Kamalganj,300,200,300,300,400,300,Moulvibazar
+305,Kulaura,350,200,350,300,350,300,Moulvibazar
+306,Moulvibazar Sadar,400,200,300,400,400,500,Moulvibazar
+307,Rajnagar,300,200,300,300,300,300,Moulvibazar
+308,Sreemangal,250,150,250,300,300,200,Moulvibazar
+309,Average,314,190,293,300,343,314,Moulvibazar
+310,Bhaluka,350,250,350,300,410,380,Mymensingh
+311,Dhobaura,350,230,350,350,350,350,Mymensingh
+312,Fulbaria,400,300,450,400,500,450,Mymensingh
+313,Gaffargaon,500,300,500,400,600,500,Mymensingh
+314,Gauripur,300,220,250,300,290,280,Mymensingh
+315,Phulpur,450,280,450,450,400,500,Mymensingh
+316,Haluaghat,400,300,500,300,500,500,Mymensingh
+317,Ishwargonj,300,200,400,300,500,600,Mymensingh
+318,Muktagacha,350,250,400,400,400,400,Mymensingh
+319,Nandail,500,300,400,300,400,400,Mymensingh
+320,Mymensingh Sadar,400,300,400,400,500,500,Mymensingh
+321,Trishal,500,300,500,400,400,500,Mymensingh
+322,Average,400,269,413,358,438,447,Mymensingh
+323,Atrai,400,250,500,250,400,300,Naogaon
+324,Badalgachhi,250,200,250,300,340,250,Naogaon
+325,Dhamoirhat,380,170,300,300,300,300,Naogaon
+326,Manda,280,170,250,300,275,300,Naogaon
+327,Mahadebpur,220,150,200,180,300,220,Naogaon
+328,Naogaon sadar,300,180,280,280,250,270,Naogaon
+329,Niamatpur,300,200,300,300,350,350,Naogaon
+330,Patnitala,350,200,350,400,500,500,Naogaon
+331,Porsha,250,200,250,250,300,300,Naogaon
+332,Raninagar,300,200,250,350,400,300,Naogaon
+333,Sapahar,260,150,200,250,300,230,Naogaon
+334,Average,299,188,285,287,338,302,Naogaon
+335,Kalia,250,160,100,250,250,160,Narail
+336,Lohagara,350,200,60,250,350,200,Narail
+337,Narail Sadar,170,120,120,300,170,120,Narail
+338,Average,257,160,93,267,257,160,Narail
+339,Araihazar,350,230,350,350,400,400,Narayanganj
+340,Bandar,450,350,400,400,500,500,Narayanganj
+341,Narayanganj Sadar,400,280,500,400,600,400,Narayanganj
+342,Rupganj,400,300,350,300,300,300,Narayanganj
+343,Sonargaon,400,300,400,400,500,500,Narayanganj
+344,Average,400,292,400,370,460,420,Narayanganj
+345,Belabo,400,280,400,400,500,400,Narsingdi
+346,Manohardi,500,250,500,600,400,500,Narsingdi
+347,Narsingdi Sadar,350,250,350,360,400,360,Narsingdi
+348,Palash,500,250,400,500,500,400,Narsingdi
+349,Roypura,350,250,400,350,400,400,Narsingdi
+350,Shibpur,350,250,350,300,300,450,Narsingdi
+351,Average,408,255,400,418,417,418,Narsingdi
+352,Bagatipara,220,120,230,260,350,350,Natore
+353,Baraigram,350,210,350,350,380,360,Natore
+354,Gurudaspur,350,220,350,300,350,300,Natore
+355,Lalpur,300,180,300,300,250,200,Natore
+356,Natore Sadar,280,200,260,300,300,320,Natore
+357,Singra,350,250,300,300,300,350,Natore
+358,Average,308,197,298,302,322,313,Natore
+359,Atpara,500,260,450,650,600,500,Netrokona
+360,Barhatta,440,230,400,550,620,520,Netrokona
+361,Durgapur,300,200,400,300,400,300,Netrokona
+362,Kalmakanda,300,200,250,300,350,350,Netrokona
+363,Kendua,250,150,250,250,300,300,Netrokona
+364,Khaliajuri,300,200,400,400,400,300,Netrokona
+365,Madan,400,250,350,350,400,350,Netrokona
+366,Mohanganj,300,250,300,500,500,300,Netrokona
+367,Netrokona Sadar,350,250,300,300,300,300,Netrokona
+368,Purbadhala,300,200,300,300,300,300,Netrokona
+369,Average,344,219,340,390,417,352,Netrokona
+370,Dimla,300,200,250,250,400,300,Nilphamari
+371,Domar,300,200,300,350,400,300,Nilphamari
+372,Joldhaka,300,180,200,250,300,250,Nilphamari
+373,Kishorgonj,280,200,280,250,250,280,Nilphamari
+374,Nilphamary Sadar,250,160,250,250,300,350,Nilphamari
+375,Sayedpur,280,200,280,220,270,280,Nilphamari
+376,Average,300,200,260,250,350,300,Nilphamari
+377,Begumganj,500,300,500,500,500,500,Noakhali
+378,Chatkhil,400,250,400,375,400,400,Noakhali
+379,Companiganj,450,300,350,500,500,500,Noakhali
+380,Hatiya,400,300,400,450,500,400,Noakhali
+381,Kabirhat,350,250,400,400,400,350,Noakhali
+382,Noakhali Sadar,350,250,350,400,500,500,Noakhali
+383,Senbagh,500,250,400,500,500,400,Noakhali
+384,Sonaimuri,500,300,500,500,500,400,Noakhali
+385,Subarnachar,400,250,400,500,500,500,Noakhali
+386,Average,428,272,411,458,480,478,Noakhali
+387,Atgharia,450,220,400,400,500,400,Pabna
+388,Bera,400,250,400,450,400,450,Pabna
+389,Bhangura,400,220,400,450,400,450,Pabna
+390,Chatmohar,400,240,450,400,450,450,Pabna
+391,Faridpur,400,230,400,450,450,450,Pabna
+392,Ishwardi,450,230,400,450,400,450,Pabna
+393,Pabna Sadar,450,250,420,420,450,450,Pabna
+394,Santhia,400,250,400,450,400,400,Pabna
+395,Sujanagar,400,250,450,450,400,450,Pabna
+396,Average,450,250,450,450,450,450,Pabna
+397,Atwari,300,200,250,300,300,300,Panchagor
+398,Boda,250,180,300,300,300,350,Panchagor
+399,Debiganj,400,200,300,300,350,325,Panchagor
+400,Panchagarh Sadar,300,200,280,270,350,400,Panchagor
+401,Tentulia,350,220,300,300,400,350,Panchagor
+402,Average,320,200,286,294,340,345,Panchagor
+403,Bauphal,350,300,350,400,400,500,Patuakhali
+404,Dashmina,300,200,250,250,300,350,Patuakhali
+405,Dumki,350,250,350,350,350,400,Patuakhali
+406,Galachipa,350,250,300,350,400,500,Patuakhali
+407,Kalapara,350,250,300,300,400,500,Patuakhali
+408,Mirzaganj,350,250,350,300,400,500,Patuakhali
+409,Patuakhali Sadar,350,250,350,350,400,500,Patuakhali
+410,Average,340,250,320,330,380,465,Patuakhali
+411,Bhandaria,350,250,350,350,350,350,Pirojpur
+412,Kawkhali,350,250,350,350,350,350,Pirojpur
+413,Mathbaria,300,200,250,300,300,300,Pirojpur
+414,Nazirpur,350,250,350,350,500,500,Pirojpur
+415,Nesarabad,350,250,300,300,350,300,Pirojpur
+416,Pirojpur Sadar,450,350,400,350,500,500,Pirojpur
+417,Zianagar,350,200,350,350,350,350,Pirojpur
+418,Average,357,250,336,336,386,379,Pirojpur
+419,Baliakandi,300,250,300,350,350,350,Rajbari
+420,Goalanda,350,300,325,325,400,400,Rajbari
+421,Kalukhali,300,200,300,300,400,300,Rajbari
+422,Pangsha,300,250,300,300,400,400,Rajbari
+423,Rajbari Sadar,330,250,330,330,330,330,Rajbari
+424,Average,316,250,311,321,374,360,Rajbari
+425,Bagha,300.0,200,300.0,300,250,350,Rajshahi
+426,Baghmara,300.0,230,300.0,320,400,420,Rajshahi
+427,Charghat,300.0,200,300.0,300,400,300,Rajshahi
+428,Durgapur,280.0,220,320.0,320,400,300,Rajshahi
+429,Godagari,250.0,180,300.0,300,350,300,Rajshahi
+430,Mohanpur,350.0,280,350.0,250,250,300,Rajshahi
+431,Paba,300.0,250,260.0,275,300,300,Rajshahi
+432,Puthia,300.0,200,300.0,250,500,400,Rajshahi
+433,Rajshahi City Corporation,275.0,200,275.0,225,300,300,Rajshahi
+434,Tanore,300.0,220,350.0,320,400,450,Rajshahi
+435,District Average,295.5,218,305.5,286,355,342,Rajshahi
+436,Baghaichhari,350,150,300,300,300,300,Rangamati
+437,Barkal,500,400,500,0,0,0,Rangamati
+438,Belai Chhari,450,350,400,500,500,450,Rangamati
+439,Jurai Chhari,500,300,500,450,500,450,Rangamati
+440,Kaptai,450,250,400,450,500,500,Rangamati
+441,Kawkhali,400,300,400,400,400,400,Rangamati
+442,Langadu,500,300,450,450,600,500,Rangamati
+443,Naniarchar,500,300,500,500,540,600,Rangamati
+444,Rangamati Sadar,500,350,450,450,500,500,Rangamati
+445,Rajasthali,400,300,400,400,400,450,Rangamati
+446,Average,455,300,430,433,471,461,Rangamati
+447,Badarganj,300,200,300,350,350,400,Rangpur
+448,Gangachara,350,250,300,350,300,300,Rangpur
+449,Kaunia,260,180,230,210,260,250,Rangpur
+450,Mithapukur,300,200,300,350,400,350,Rangpur
+451,Pirgachha,370,240,350,300,400,350,Rangpur
+452,Pirganj,350,250,350,350,450,450,Rangpur
+453,Rangpur Sadar,320,200,300,400,400,400,Rangpur
+454,Taraganj,280,190,250,280,300,300,Rangpur
+455,District Average,320,220,300,350,350,350,Rangpur
+456,Assasuni,280,180,250,250,300,300,Satkhira
+457,Debhata,300,200,350,350,400,400,Satkhira
+458,Kalaroa,250,180,250,250,250,250,Satkhira
+459,Kaliganj,250,180,200,200,300,250,Satkhira
+460,Satkhira Sadar,300,200,300,300,300,300,Satkhira
+461,Shyamnagar,300,200,300,300,300,300,Satkhira
+462,Tala,300,225,300,300,350,350,Satkhira
+463,Average,283,195,279,279,314,307,Satkhira
+464,Bhedarganj,350,250,300,300,500,500,Shariatpur
+465,Damudya,350,250,300,400,400,500,Shariatpur
+466,Gosairhat,350,250,325,300,350,350,Shariatpur
+467,Naria,350,250,300,350,400,300,Shariatpur
+468,Shariatpur Sadar,350,250,350,400,500,500,Shariatpur
+469,Zanjira,500,300,500,400,500,500,Shariatpur
+470,Average,375,258,346,358,442,442,Shariatpur
+471,Jhenaigati,300,280,350,300,350,350,Sherpur
+472,Nakla,450,300,400,500,500,500,Sherpur
+473,Nalitabari,400,300,300,400,500,500,Sherpur
+474,Sherpur Sadar,450,300,400,500,500,500,Sherpur
+475,Sreebardi,400,280,300,250,500,500,Sherpur
+476,Average,400,292,350,390,470,470,Sherpur
+477,Belkuchi,250,150,250,300,350,350,Sirajganj
+478,Chauhali,350,200,300,300,300,350,Sirajganj
+479,Kamarkhanda,300,210,350,300,350,400,Sirajganj
+480,Kazipur,350,220,250,310,400,450,Sirajganj
+481,Royganj,300,170,300,320,350,350,Sirajganj
+482,Shahjadpur,300,200,300,300,350,350,Sirajganj
+483,Sirajganj Sadar,300,200,350,400,400,450,Sirajganj
+484,Tarash,350,270,400,400,400,450,Sirajganj
+485,Ullahpara,300,170,300,350,350,400,Sirajganj
+486,Average,311,199,311,331,361,394,Sirajganj
+487,Bishwamvarpur,300,200,250,300,500,500,Sunamganj
+488,Chhatak,350,200,300,300,250,300,Sunamganj
+489,Dakshin Sunamganj,350,250,350,350,350,350,Sunamganj
+490,Derai,300,200,250,250,200,250,Sunamganj
+491,Dharmapasha,400,210,360,320,290,260,Sunamganj
+492,Doarabazar,350,250,350,350,350,350,Sunamganj
+493,Jagannathpur,400,300,500,500,400,400,Sunamganj
+494,Jamalganj,380,285,350,350,350,350,Sunamganj
+495,Shalla,350,250,300,300,500,400,Sunamganj
+496,Sunamganj Sadar,400,250,350,500,450,450,Sunamganj
+497,Tahirpur,300,200,250,300,300,300,Sunamganj
+498,District Average,356,232,330,345,351,347,Sunamganj
+499,Balaganj,350,250,350,350,350,400,Sylhet
+500,Beanibazar,300,150,250,300,350,300,Sylhet
+501,Bishwanath,340,200,350,250,100,100,Sylhet
+502,Companiganj,500,250,500,500,500,400,Sylhet
+503,Dakhin Surma,300,200,300,300,300,300,Sylhet
+504,Fenchuganj,250,150,350,400,400,250,Sylhet
+505,Golapganj,250,200,285,285,285,285,Sylhet
+506,Gowainghat,500,300,450,550,400,450,Sylhet
+507,Jaintiapur,350,250,350,400,400,500,Sylhet
+508,Kanaighat,350,200,400,400,500,400,Sylhet
+509,Sylhet City Corporation,400,200,350,350,400,400,Sylhet
+510,Sylhet Sadar,300,170,300,350,250,350,Sylhet
+511,Zakiganj,350,200,300,300,350,300,Sylhet
+512,District Average,349,209,348,364,352,341,Sylhet
+513,Basail,300,200,300,350,400,300,Tangail
+514,Bhuapur,300,180,350,300,450,400,Tangail
+515,Delduar,350,250,350,350,350,350,Tangail
+516,Dhanbari,320,200,350,300,450,400,Tangail
+517,Ghatail,300,200,400,300,300,250,Tangail
+518,Gopalpur,380,250,370,260,400,450,Tangail
+519,Kalihati,300,200,350,300,400,300,Tangail
+520,Madhupur,300,200,400,300,450,400,Tangail
+521,Mirzapur,350,220,350,320,350,300,Tangail
+522,Nagarpur,350,200,300,400,600,400,Tangail
+523,Sakhipur,500,220,400,400,500,400,Tangail
+524,Tangail Sadar,350,250,350,350,300,300,Tangail
+525,Baliadangi,300,200,250,300,300,250,Thakurgaon
+526,Haripur,315,200,285,285,285,285,Thakurgaon
+527,Pirgonj,300,200,300,250,200,250,Thakurgaon
+528,Ranisankail,260,160,200,200,350,250,Thakurgaon
+529,Thakurgaon Sadar,300,200,300,300,350,250,Thakurgaon
+530,Average,295,192,267,267,297,257,Thakurgaon

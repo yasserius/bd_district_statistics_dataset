@@ -1,0 +1,252 @@
+,0,1,2,3,4,5
+0,upazila,2008,2009,2010,2011,district
+1,Bagerhat Sadar,Yes,Yes,Yes,No,Bagerhat
+2,Kachua,Yes,Yes,Yes,No,Bagerhat
+3,Rampal,Yes,Yes,Yes,No,Bagerhat
+4,Sharonkhola,Yes,Yes,Yes,No,Bagerhat
+5,Chitolmari,Yes,Yes,Yes,No,Bagerhat
+6,Morrelgonj,Yes,Yes,Yes,No,Bagerhat
+7,Mongla,Yes,Yes,Yes,No,Bagerhat
+8,Mollahat,Yes,Yes,Yes,No,Bagerhat
+9,Fakirhat,Yes,Yes,Yes,No,Bagerhat
+10,Alikadam,No,No,No,No,Bandarban
+11,Bandarban Sadar,No,No,No,No,Bandarban
+12,Lama,No,No,No,No,Bandarban
+13,Naikhongchhari,No,No,No,No,Bandarban
+14,Rowangchhari,No,No,No,No,Bandarban
+15,Ruma,No,No,No,No,Bandarban
+16,Thanchi,No,No,No,No,Bandarban
+17,Amtali,No,No,No,No,Barguna
+18,Bamna,No,No,No,No,Barguna
+19,Barguna Sadar,No,No,No,No,Barguna
+20,Betagi,No,No,No,No,Barguna
+21,Patharghata,Yes,Yes,Yes,Yes,Barguna
+22,Akhaura,No,No,No,No,BrahmanBaria
+23,Ashuganj,No,No,No,No,BrahmanBaria
+24,Banchrampur,No,No,No,No,BrahmanBaria
+25,Bijoynogor,No,No,No,No,BrahmanBaria
+26,Brahmanbaria Sadar,No,No,No,No,BrahmanBaria
+27,Kasba,No,No,No,No,BrahmanBaria
+28,Nabinagar,No,No,Yes,Yes,BrahmanBaria
+29,Nasirnagar,Yes,Yes,Yes,Yes,BrahmanBaria
+30,Sarail,No,No,No,No,BrahmanBaria
+31,Bholahat,No,No,No,No,Chapai_Nawabganj
+32,Chapai Nawabganj Sadar,No,No,No,No,Chapai_Nawabganj
+33,Gomastapur,No,No,No,No,Chapai_Nawabganj
+34,Nachole,Yes,No,Yes,No,Chapai_Nawabganj
+35,Shibganj,No,No,No,No,Chapai_Nawabganj
+36,Anowara,No,No,No,No,Chittagong
+37,Banshkhali,No,No,No,No,Chittagong
+38,Boalkhali,No,No,No,No,Chittagong
+39,Chandanaish,No,No,No,No,Chittagong
+40,Chittagong City Corporation,Yes,Yes,Yes,Yes,Chittagong
+41,Fatikchhari,No,No,No,No,Chittagong
+42,Hathazari,No,No,No,No,Chittagong
+43,Lohagara,No,No,No,No,Chittagong
+44,Mirsharai,No,Yes,No,No,Chittagong
+45,Patiya,No,No,No,No,Chittagong
+46,Rangunia,No,No,No,No,Chittagong
+47,Raozan,No,No,No,No,Chittagong
+48,Sandwip,No,No,No,No,Chittagong
+49,Satkania,No,No,No,No,Chittagong
+50,Sitakunda,No,No,No,No,Chittagong
+51,Adarsha Sadar,No,No,No,No,Comilla
+52,Barura,No,No,No,No,Comilla
+53,Brahmanpara,No,No,No,No,Comilla
+54,Burichang,No,No,No,No,Comilla
+55,Chandina,No,No,No,No,Comilla
+56,Chauddagram,No,No,No,No,Comilla
+57,Comilla Sadar Dakshin,No,No,No,No,Comilla
+58,Daudkandi,No,No,No,No,Comilla
+59,Debidwar,No,No,No,No,Comilla
+60,Homna,No,No,No,No,Comilla
+61,Laksam,No,No,No,No,Comilla
+62,Monoharganj,No,No,No,No,Comilla
+63,Meghna,No,No,No,No,Comilla
+64,Muradnagar,No,No,No,No,Comilla
+65,Nangalkot,No,No,No,No,Comilla
+66,Titas,No,No,No,No,Comilla
+67,Dhaka Metropolitan,Yes,Yes,Yes,Yes,Dhaka
+68,Dhamrai,Yes,Yes,Yes,Yes,Dhaka
+69,Dohar,Yes,Yes,Yes,Yes,Dhaka
+70,Keraniganj,Yes,Yes,Yes,Yes,Dhaka
+71,Nawabganj,Yes,Yes,Yes,Yes,Dhaka
+72,Savar,Yes,Yes,Yes,Yes,Dhaka
+73,Biral,No,No,No,No,Dinajpur
+74,Birampur,No,No,No,No,Dinajpur
+75,Birganj,No,No,No,No,Dinajpur
+76,Bochaganj,No,No,No,No,Dinajpur
+77,Chirirbandar,No,No,No,No,Dinajpur
+78,Dinajpur Sadar,No,No,No,No,Dinajpur
+79,Fulbari,No,No,No,No,Dinajpur
+80,Ghoraghat,No,No,No,No,Dinajpur
+81,Hakimpur,No,No,No,No,Dinajpur
+82,Kaharole,No,No,No,No,Dinajpur
+83,Khansama,No,No,No,No,Dinajpur
+84,Nawabganj,No,No,No,No,Dinajpur
+85,Parbatipur,No,No,No,No,Dinajpur
+86,Fulchhari,No,No,No,No,Gaibandha
+87,Gaibandha Sadar,No,No,No,No,Gaibandha
+88,Gobindaganj,No,Yes,No,Yes,Gaibandha
+89,Palashbari,No,No,No,No,Gaibandha
+90,Sadullapur,No,No,Yes,No,Gaibandha
+91,Saghata,No,No,No,No,Gaibandha
+92,Sundarganj,No,No,No,No,Gaibandha
+93,Gopalganj Sadar,No,No,No,No,Gopalgonj
+94,Kashiani,No,No,No,No,Gopalgonj
+95,Kotalipara,No,No,No,No,Gopalgonj
+96,Muksudpur,No,No,No,No,Gopalgonj
+97,Tungipara,Yes,No,No,No,Gopalgonj
+98,Azmirigonj,No,No,No,No,Habiganj
+99,Bahubal,No,No,No,No,Habiganj
+100,Baniachang,No,No,No,No,Habiganj
+101,Chunarughat,No,No,No,No,Habiganj
+102,Habiganj Sadar,No,No,No,No,Habiganj
+103,Lakhai,No,No,No,No,Habiganj
+104,Madhabpur,No,No,No,No,Habiganj
+105,Nabiganj,No,No,No,No,Habiganj
+106,Bakshiganj,Yes,No,No,Yes,Jamalpur
+107,Dewanganj,Yes,Yes,Yes,Yes,Jamalpur
+108,Islampur,Yes,Yes,Yes,Yes,Jamalpur
+109,Jamalpur Sadar,No,No,No,No,Jamalpur
+110,Madarganj,Yes,Yes,Yes,Yes,Jamalpur
+111,Melandaha,Yes,Yes,Yes,Yes,Jamalpur
+112,Sarishabari,Yes,Yes,Yes,Yes,Jamalpur
+113,Abhaynagar,No,No,No,No,Jessore
+114,Bagherpara,No,No,No,No,Jessore
+115,Chaugachha,No,No,No,No,Jessore
+116,Jessore Sadar,No,No,No,No,Jessore
+117,Jhikargachha,No,No,No,No,Jessore
+118,Keshabpur,Yes,Yes,Yes,Yes,Jessore
+119,Manirampur,Yes,Yes,Yes,Yes,Jessore
+120,Sharsha,No,No,No,No,Jessore
+121,Jhalakathi Sadar,No,No,No,No,Jhalakathi
+122,Kanthalia,No,Yes,No,No,Jhalakathi
+123,Nalchity,No,No,No,No,Jhalakathi
+124,Rajpur,No,No,No,No,Jhalakathi
+125,Akkelpur,No,No,No,No,Joypurhat
+126,Joypurhat sadar,No,No,No,No,Joypurhat
+127,Kalai,No,No,No,No,Joypurhat
+128,Khetlal,No,No,No,No,Joypurhat
+129,Panchbibi,No,No,No,No,Joypurhat
+130,Bhurungamari,Yes,Yes,Yes,Yes,Kurigram
+131,Char Rajibpur,Yes,Yes,Yes,Yes,Kurigram
+132,Chilmari,No,Yes,Yes,Yes,Kurigram
+133,Kurigram Sadar,No,No,No,No,Kurigram
+134,Nageshwari,No,No,No,No,Kurigram
+135,Phulbari,Yes,Yes,Yes,Yes,Kurigram
+136,Rajarhat,Yes,Yes,No,No,Kurigram
+137,Raumari,No,No,No,No,Kurigram
+138,Ulipur,Yes,No,No,No,Kurigram
+139,Aditmari,Yes,No,Yes,No,Lalmonirhat
+140,Hatibandha,Yes,No,Yes,No,Lalmonirhat
+141,Kaligonj,Yes,No,Yes,No,Lalmonirhat
+142,Lalmonirhat Sadar,Yes,No,Yes,No,Lalmonirhat
+143,Patgram,Yes,No,Yes,No,Lalmonirhat
+144,Magura Sadar,Yes,No,Yes,Yes,Magura
+145,Mohammadpur,Yes,No,Yes,No,Magura
+146,Shalikha,Yes,Yes,No,Yes,Magura
+147,Sreepur,No,No,No,No,Magura
+148,Barlekha,No,No,No,No,Moulvibazar
+149,Juri,No,No,No,No,Moulvibazar
+150,Kamalganj,No,No,No,No,Moulvibazar
+151,Kulaura,No,No,No,No,Moulvibazar
+152,Moulvibazar Sadar,No,No,No,No,Moulvibazar
+153,Rajnagar,No,No,No,No,Moulvibazar
+154,Sreemangal,No,No,No,No,Moulvibazar
+155,Bhaluka,No,Yes,No,No,Mymensingh
+156,Dhobaura,Yes,Yes,Yes,Yes,Mymensingh
+157,Fulbaria,No,No,No,Yes,Mymensingh
+158,Gaffargaon,No,No,No,No,Mymensingh
+159,Gauripur,No,Yes,No,No,Mymensingh
+160,Haluaghat,Yes,Yes,Yes,Yes,Mymensingh
+161,Ishwargonj,No,No,No,Yes,Mymensingh
+162,Muktagacha,No,No,Yes,Yes,Mymensingh
+163,Mymensingh Sadar,No,No,No,Yes,Mymensingh
+164,Nandail,No,No,No,No,Mymensingh
+165,Phulpur,No,No,No,No,Mymensingh
+166,Trishal,No,Yes,No,No,Mymensingh
+167,Atrai,No,No,No,No,Naogaon
+168,Badalgachhi,No,No,No,No,Naogaon
+169,Dhamoirhat,No,No,No,No,Naogaon
+170,Manda,No,No,No,No,Naogaon
+171,Mahadebpur,No,No,No,No,Naogaon
+172,Naogaon sadar,No,No,No,No,Naogaon
+173,Niamatpur,No,No,No,No,Naogaon
+174,Patnitala,No,No,No,No,Naogaon
+175,Porsha,No,No,No,No,Naogaon
+176,Raninagar,No,No,No,No,Naogaon
+177,Sapahar,No,No,No,No,Naogaon
+178,Kalia,Yes,No,Yes,Yes,Narail
+179,Lohagara,No,No,No,No,Narail
+180,Narail Sadar,No,No,No,No,Narail
+181,Atpara,Yes,No,No,No,Netrokona
+182,Barhatta,Yes,Yes,Yes,Yes,Netrokona
+183,Durgapur,Yes,Yes,Yes,Yes,Netrokona
+184,Kalmakanda,No,No,No,No,Netrokona
+185,Kendua,No,No,No,No,Netrokona
+186,Khaliajuri,No,No,No,No,Netrokona
+187,Madan,No,Yes,No,No,Netrokona
+188,Mohanganj,Yes,Yes,Yes,Yes,Netrokona
+189,Netrokona Sadar,No,Yes,No,No,Netrokona
+190,Purbadhala,No,No,No,No,Netrokona
+191,Dimla,No,Yes,No,No,Nilphamari
+192,Domar,No,No,No,No,Nilphamari
+193,Joldhaka,No,No,No,No,Nilphamari
+194,Kishorgonj,No,No,No,No,Nilphamari
+195,Nilphamary Sadar,No,No,No,No,Nilphamari
+196,Sayedpur,No,No,No,No,Nilphamari
+197,Atwari,No,No,No,No,Panchagor
+198,Boda,No,No,No,No,Panchagor
+199,Debiganj,No,No,No,No,Panchagor
+200,Panchagarh Sadar,No,No,No,No,Panchagor
+201,Tentulia,No,No,No,No,Panchagor
+202,Total,No,No,No,No,Panchagor
+203,Bauphal,Yes,No,No,No,Patuakhali
+204,Dashmina,Yes,No,No,No,Patuakhali
+205,Dumki,Yes,No,No,No,Patuakhali
+206,Galachipa,Yes,No,No,No,Patuakhali
+207,Kalapara,Yes,Yes,Yes,Yes,Patuakhali
+208,Mirzaganj,Yes,No,No,No,Patuakhali
+209,Patuakhali Sadar,Yes,No,No,No,Patuakhali
+210,Bhandaria,No,No,No,No,Pirojpur
+211,Kawkhali,No,No,No,No,Pirojpur
+212,Mathbaria,No,No,No,No,Pirojpur
+213,Nazirpur,Yes,No,No,No,Pirojpur
+214,Nesarabad,No,No,No,No,Pirojpur
+215,Pirojpur Sadar,No,No,No,No,Pirojpur
+216,Zianagar,No,No,No,No,Pirojpur
+217,Baghaichhari,No,No,No,No,Rangamati
+218,Barkal,No,No,No,No,Rangamati
+219,Belai Chhari,No,No,No,No,Rangamati
+220,Jurai Chhari,No,No,No,No,Rangamati
+221,Kaptai,No,No,No,No,Rangamati
+222,Kawkhali,No,No,No,No,Rangamati
+223,Langadu,No,No,No,No,Rangamati
+224,Naniarchar,No,No,No,No,Rangamati
+225,Rangamati Sadar,No,No,No,No,Rangamati
+226,Rajasthali,No,No,No,No,Rangamati
+227,Assasuni,No,No,No,No,Satkhira
+228,Debhata,Yes,No,No,No,Satkhira
+229,Kalaroa,No,No,No,No,Satkhira
+230,Kaliganj,No,No,No,No,Satkhira
+231,Satkhira Sadar,No,No,No,No,Satkhira
+232,Shyamnagar,Yes,Yes,Yes,No,Satkhira
+233,Tala,No,No,No,No,Satkhira
+234,Bhedarganj,No,No,No,No,Shariatpur
+235,Damudya,Yes,Yes,No,No,Shariatpur
+236,Gosairhat,No,No,No,No,Shariatpur
+237,Naria,No,No,No,No,Shariatpur
+238,Shariatpur Sadar,No,No,No,No,Shariatpur
+239,Zanjira,No,No,No,No,Shariatpur
+240,Jhenaigati,No,No,No,No,Sherpur
+241,Nakla,No,No,No,No,Sherpur
+242,Nalitabari,No,No,No,No,Sherpur
+243,Sherpur Sadar,No,No,No,No,Sherpur
+244,Sreebardi,No,No,No,Yes,Sherpur
+245,Thakurgaon Sadar,No,No,No,No,Thakurgaon
+246,Baliadangi,No,No,No,No,Thakurgaon
+247,Haripur,No,No,No,No,Thakurgaon
+248,Pirgonj,No,No,No,No,Thakurgaon
+249,Ranisankail,No,No,No,No,Thakurgaon
+250,Total,No,No,No,No,Thakurgaon

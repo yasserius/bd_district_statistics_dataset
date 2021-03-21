@@ -1,0 +1,4 @@
+CHAPTER 2_Name of land, river port, important or historical, tourist places, objects, important, famous crop or food production 2011.csv
+inconsistent columns, many zilas missings
+missing zilas: bogura, joypurhat, khulna, pabna, rangpur, sylhet, tangail, thakurgaon
+
